@@ -50,62 +50,60 @@ def load_projects_json():
 # ========== STYLING ==========
 
 def apply_pan_handlers_css():
-    """Apply Pan Handlers visual theme."""
+    """Apply Pan Handlers visual theme - Black on White."""
     st.markdown("""
     <style>
     /* Hide default Streamlit elements */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
 
-    /* Pan Handlers Theme */
+    /* Pan Handlers Theme - Black on White */
     .pan-title {
         font-size: 2.8em;
         font-weight: bold;
-        background: linear-gradient(135deg, #00ff41 0%, #2a9d8f 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        color: #1a1a1a;
         margin-bottom: 0.2em;
         font-family: 'Georgia', serif;
         letter-spacing: 0.05em;
     }
 
     .pan-subtitle {
-        color: #00ff41;
+        color: #444444;
         font-size: 1.2em;
         margin-bottom: 1em;
         font-family: 'Courier New', monospace;
     }
 
     .philosophy-banner {
-        background: linear-gradient(135deg, rgba(0,255,65,0.1) 0%, rgba(42,157,143,0.1) 100%);
-        border: 2px solid #00ff41;
+        background: #f8f8f8;
+        border: 2px solid #1a1a1a;
         border-radius: 10px;
         padding: 1em;
         text-align: center;
         font-size: 1.3em;
         font-weight: bold;
-        color: #00ff41 !important;
+        color: #1a1a1a !important;
         font-family: 'Courier New', monospace;
         margin-bottom: 1.5em;
     }
 
     .repo-card {
-        background: linear-gradient(135deg, rgba(0,255,65,0.08) 0%, rgba(0,204,51,0.03) 100%);
-        border: 2px solid #00ff41;
+        background: #fafafa;
+        border: 2px solid #1a1a1a;
         border-radius: 12px;
         padding: 1.5em;
         margin-bottom: 1em;
-        box-shadow: 0 0 20px rgba(0,255,65,0.2);
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         transition: all 0.3s ease;
     }
 
     .repo-card:hover {
-        box-shadow: 0 0 30px rgba(0,255,65,0.4);
+        box-shadow: 0 4px 16px rgba(0,0,0,0.15);
         transform: translateY(-2px);
     }
 
     .repo-card h3 {
-        color: #00ff41 !important;
+        color: #1a1a1a !important;
         margin-top: 0;
         font-family: 'Georgia', serif;
     }
@@ -115,16 +113,16 @@ def apply_pan_handlers_css():
     }
 
     .project-card {
-        background: linear-gradient(135deg, rgba(42,157,143,0.1) 0%, rgba(42,157,143,0.05) 100%);
-        border: 2px solid #2a9d8f;
+        background: #fafafa;
+        border: 2px solid #444444;
         border-radius: 10px;
         padding: 1.2em;
         margin-bottom: 0.8em;
-        box-shadow: 0 0 15px rgba(42,157,143,0.15);
+        box-shadow: 0 2px 6px rgba(0,0,0,0.08);
     }
 
     .project-card h4 {
-        color: #2a9d8f !important;
+        color: #1a1a1a !important;
         margin-top: 0;
         margin-bottom: 0.5em;
     }
@@ -139,15 +137,15 @@ def apply_pan_handlers_css():
     }
 
     .badge-active {
-        background: rgba(0,255,65,0.2);
-        color: #00ff41;
-        border: 1px solid #00ff41;
+        background: rgba(0,128,0,0.15);
+        color: #006400;
+        border: 1px solid #006400;
     }
 
     .badge-complete {
-        background: rgba(42,157,143,0.2);
-        color: #2a9d8f;
-        border: 1px solid #2a9d8f;
+        background: rgba(0,100,150,0.15);
+        color: #006496;
+        border: 1px solid #006496;
     }
 
     .badge-incubating {
@@ -163,25 +161,25 @@ def apply_pan_handlers_css():
     }
 
     .section-header {
-        color: #00ff41 !important;
+        color: #1a1a1a !important;
         font-size: 1.4em;
         font-weight: bold;
         margin-top: 1.5em;
         margin-bottom: 0.8em;
         font-family: 'Georgia', serif;
-        border-bottom: 2px solid #00ff41;
+        border-bottom: 2px solid #1a1a1a;
         padding-bottom: 0.3em;
     }
 
     .footer-text {
         text-align: center;
-        color: #00ff41;
+        color: #444444;
         font-family: 'Courier New', monospace;
         margin-top: 2em;
         opacity: 0.8;
     }
 
-    /* Sidebar styling */
+    /* Sidebar styling - keep dark */
     section[data-testid="stSidebar"] {
         background: linear-gradient(180deg, #0a0a0a, #1a1a1a) !important;
     }
