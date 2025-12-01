@@ -54,22 +54,137 @@ PAGES = {
 # ========== STYLING ==========
 
 def apply_dashboard_css():
-    """Apply Pan Handlers Dashboard theme."""
+    """Apply Pan Handlers Dashboard theme - Full Matrix green-on-black."""
     st.markdown("""
     <style>
-    /* Hide default Streamlit elements */
+    /* Hide default Streamlit elements and navigation */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
+
+    /* Hide the default Streamlit page navigation in sidebar */
+    [data-testid="stSidebarNav"] {display: none !important;}
+    div[data-testid="stSidebarNav"] {display: none !important;}
+    nav[data-testid="stSidebarNav"] {display: none !important;}
+    section[data-testid="stSidebarNav"] {display: none !important;}
+    ul[data-testid="stSidebarNavItems"] {display: none !important;}
+
+    /* Make main content area wider */
+    .main .block-container {
+        max-width: 95% !important;
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+
+    /* Fix column widths */
+    [data-testid="column"] {
+        min-width: 200px !important;
+    }
+
+    /* ===== MATRIX THEME - BLACK BACKGROUND EVERYWHERE ===== */
+    .stApp,
+    .stApp > div,
+    .stApp [data-testid="stAppViewContainer"],
+    [data-testid="stAppViewContainer"],
+    .main,
+    .block-container,
+    [data-testid="stVerticalBlock"],
+    [data-testid="stHorizontalBlock"],
+    [data-testid="stHeader"] {
+        background-color: #0a0a0a !important;
+        background: #0a0a0a !important;
+    }
+
+    /* ===== ALL TEXT MATRIX GREEN ===== */
+    .stApp p, .stApp span, .stApp label, .stApp li,
+    .stApp h1, .stApp h2, .stApp h3, .stApp h4, .stApp h5, .stApp h6,
+    .stApp div,
+    .main p, .main span, .main label, .main li,
+    .main h1, .main h2, .main h3, .main h4, .main h5, .main h6,
+    .main div,
+    [data-testid="stMarkdownContainer"] p,
+    [data-testid="stMarkdownContainer"] li,
+    [data-testid="stMarkdownContainer"] {
+        color: #00ff41 !important;
+    }
+
+    /* Headers */
+    h1, h2, h3, h4, h5, h6 {
+        color: #00ff41 !important;
+        font-family: 'Courier New', monospace;
+    }
+
+    /* Strong/bold text */
+    strong, b {
+        color: #00ff41 !important;
+        text-shadow: 0 0 5px rgba(0,255,65,0.5);
+    }
+
+    /* Links */
+    a {
+        color: #00cc33 !important;
+    }
+    a:hover {
+        color: #00ff41 !important;
+        text-shadow: 0 0 10px rgba(0,255,65,0.5);
+    }
+
+    /* ===== METRIC CARDS ===== */
+    [data-testid="stMetricValue"] {
+        color: #00ff41 !important;
+        font-family: 'Courier New', monospace;
+    }
+    [data-testid="stMetricLabel"] {
+        color: #00ff41 !important;
+    }
+    [data-testid="stMetricDelta"] {
+        color: #00cc33 !important;
+    }
+
+    /* ===== EXPANDERS ===== */
+    [data-testid="stExpander"] {
+        background-color: #0d0d0d !important;
+        border: 1px solid #00ff41 !important;
+    }
+    [data-testid="stExpander"] * {
+        color: #00ff41 !important;
+    }
+
+    /* ===== SELECT BOXES & INPUTS ===== */
+    .stSelectbox > div > div,
+    .stTextInput > div > div > input,
+    .stMultiSelect > div {
+        background-color: #0d0d0d !important;
+        color: #00ff41 !important;
+        border-color: #00ff41 !important;
+    }
+
+    /* ===== BUTTONS ===== */
+    .stButton > button {
+        background-color: #0d0d0d !important;
+        color: #00ff41 !important;
+        border: 2px solid #00ff41 !important;
+        font-family: 'Courier New', monospace;
+    }
+    .stButton > button:hover {
+        background-color: #004d1a !important;
+        box-shadow: 0 0 15px rgba(0,255,65,0.4);
+    }
+
+    /* ===== INFO/WARNING/ERROR BOXES ===== */
+    .stAlert {
+        background-color: rgba(0,255,65,0.1) !important;
+        border: 1px solid #00ff41 !important;
+        color: #00ff41 !important;
+    }
 
     /* Pan Handlers Dashboard Theme */
     .dashboard-title {
         font-size: 2.5em;
         font-weight: bold;
-        background: linear-gradient(135deg, #00ff41 0%, #2a9d8f 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        color: #00ff41 !important;
+        text-shadow: 0 0 10px rgba(0,255,65,0.5);
         margin-bottom: 0.2em;
-        font-family: 'Georgia', serif;
+        font-family: 'Courier New', monospace;
     }
 
     .dashboard-subtitle {
@@ -91,7 +206,7 @@ def apply_dashboard_css():
     .health-card h3 {
         color: #00ff41 !important;
         margin-top: 0;
-        font-family: 'Georgia', serif;
+        font-family: 'Courier New', monospace;
     }
 
     .status-good {
@@ -107,8 +222,8 @@ def apply_dashboard_css():
     }
 
     .metric-box {
-        background: linear-gradient(135deg, rgba(42,157,143,0.1) 0%, rgba(42,157,143,0.05) 100%);
-        border: 2px solid #2a9d8f;
+        background: linear-gradient(135deg, rgba(0,255,65,0.1) 0%, rgba(0,255,65,0.05) 100%);
+        border: 2px solid #00ff41;
         border-radius: 10px;
         padding: 1em;
         text-align: center;
@@ -117,12 +232,12 @@ def apply_dashboard_css():
     .metric-value {
         font-size: 2.5em;
         font-weight: bold;
-        color: #2a9d8f !important;
+        color: #00ff41 !important;
         font-family: 'Courier New', monospace;
     }
 
     .metric-label {
-        color: #444 !important;
+        color: #00cc33 !important;
         font-size: 0.9em;
     }
 
@@ -132,7 +247,7 @@ def apply_dashboard_css():
         font-weight: bold;
         margin-top: 1.5em;
         margin-bottom: 0.8em;
-        font-family: 'Georgia', serif;
+        font-family: 'Courier New', monospace;
         border-bottom: 2px solid #00ff41;
         padding-bottom: 0.3em;
     }
@@ -156,7 +271,7 @@ def apply_dashboard_css():
     }
 
     section[data-testid="stSidebar"] * {
-        color: #f4f4f4 !important;
+        color: #00ff41 !important;
     }
 
     section[data-testid="stSidebar"] h1,
@@ -167,12 +282,12 @@ def apply_dashboard_css():
 
     /* Category separators in sidebar */
     .sidebar-separator {
-        color: #666 !important;
+        color: #006600 !important;
         font-size: 0.8em;
         text-align: center;
         padding: 0.3em 0;
-        border-top: 1px solid #333;
-        border-bottom: 1px solid #333;
+        border-top: 1px solid #004400;
+        border-bottom: 1px solid #004400;
         margin: 0.5em 0;
     }
 
@@ -181,6 +296,26 @@ def apply_dashboard_css():
         border-top: 2px solid #00ff41;
         margin: 1.5em 0;
         opacity: 0.5;
+    }
+
+    /* Horizontal rules */
+    hr {
+        border-color: #00ff41 !important;
+    }
+
+    /* Code blocks */
+    code {
+        background: rgba(0,255,65,0.1) !important;
+        color: #00ff41 !important;
+        font-family: 'Courier New', monospace;
+    }
+
+    /* Radio buttons */
+    .stRadio > div {
+        background-color: transparent !important;
+    }
+    .stRadio label {
+        color: #00ff41 !important;
     }
     </style>
     """, unsafe_allow_html=True)
@@ -205,16 +340,12 @@ def main():
     # Sidebar navigation
     with st.sidebar:
         st.markdown("### 🍳 Pan Handlers")
-        st.markdown("*Federation Dashboard*")
+        st.markdown("*The Back Alley*")
         st.markdown("---")
 
-        # Build navigation with separators
-        page_options = []
-        for page_name in PAGES.keys():
-            if page_name.startswith("─"):
-                # This is a separator - display it but don't make it selectable
-                continue
-            page_options.append(page_name)
+        # Matrix home button - link to public Pan Handlers
+        st.markdown("[![Enter The Matrix](https://img.shields.io/badge/🟢_Enter_The_Matrix-00ff41?style=for-the-badge&labelColor=0a0a0a)](https://panhandlers.streamlit.app)")
+        st.markdown("---")
 
         # Custom navigation with category labels
         st.markdown("**SYSTEM**")
