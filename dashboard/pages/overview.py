@@ -92,19 +92,51 @@ def render():
     # === CONNECTED REPOS STATUS ===
     section_header("Connected Repositories", "🌌")
 
+    # Define color palette for different repo types
+    REPO_COLORS = {
+        'nyquist': {'bg': 'rgba(155, 89, 182, 0.15)', 'border': '#9b59b6', 'text': '#9b59b6'},  # Purple - Core Engine
+        'cfa': {'bg': 'rgba(52, 152, 219, 0.15)', 'border': '#3498db', 'text': '#3498db'},      # Blue - Meta Framework
+        'abi': {'bg': 'rgba(231, 76, 60, 0.15)', 'border': '#e74c3c', 'text': '#e74c3c'},       # Red - Investigation
+        'dcia': {'bg': 'rgba(230, 126, 34, 0.15)', 'border': '#e67e22', 'text': '#e67e22'},     # Orange - Intelligence
+        'ndo': {'bg': 'rgba(46, 204, 113, 0.15)', 'border': '#2ecc71', 'text': '#2ecc71'},      # Green - Data
+        'avlar': {'bg': 'rgba(241, 196, 15, 0.15)', 'border': '#f1c40f', 'text': '#d4ac0d'},    # Yellow - Art/Ritual
+        'gene': {'bg': 'rgba(26, 188, 156, 0.15)', 'border': '#1abc9c', 'text': '#1abc9c'},     # Teal - Gene Therapy
+        'slavery': {'bg': 'rgba(127, 140, 141, 0.15)', 'border': '#7f8c8d', 'text': '#7f8c8d'}, # Gray - Liberation
+        'voting': {'bg': 'rgba(142, 68, 173, 0.15)', 'border': '#8e44ad', 'text': '#8e44ad'},   # Deep Purple - Voting
+        'nursing': {'bg': 'rgba(243, 156, 18, 0.15)', 'border': '#f39c12', 'text': '#f39c12'}, # Amber - Nursing
+    }
+    DEFAULT_COLOR = {'bg': 'rgba(0, 255, 65, 0.1)', 'border': '#00ff41', 'text': '#00ff41'}
+
+    def get_repo_color(repo_name):
+        """Get color scheme based on repo name."""
+        repo_lower = repo_name.lower()
+        for key, colors in REPO_COLORS.items():
+            if key in repo_lower:
+                return colors
+        return DEFAULT_COLOR
+
     if manifests:
-        cols = st.columns(len(manifests))
-        for i, manifest in enumerate(manifests):
-            with cols[i]:
-                status = manifest.get('status', 'Unknown')
-                status_color = '#00ff41' if status == 'Active' else '#f4a261'
-                st.markdown(f"""
-                <div class="health-card" style="border-color: {status_color};">
-                    <h3 style="color: {status_color};">{manifest.get('display_name', manifest.get('repo', 'Unknown'))}</h3>
-                    <p style="color: #444;"><strong>Role:</strong> {manifest.get('role', 'N/A')}</p>
-                    <p style="color: #444;"><strong>Status:</strong> {get_status_badge(status)}</p>
-                </div>
-                """, unsafe_allow_html=True)
+        # Display in rows of 3 for better readability
+        cols_per_row = 3
+        for row_start in range(0, len(manifests), cols_per_row):
+            row_manifests = manifests[row_start:row_start + cols_per_row]
+            cols = st.columns(cols_per_row)
+
+            for i, manifest in enumerate(row_manifests):
+                with cols[i]:
+                    repo_name = manifest.get('repo', 'Unknown')
+                    display_name = manifest.get('display_name', repo_name)
+                    status = manifest.get('status', 'Unknown')
+                    colors = get_repo_color(repo_name)
+
+                    st.markdown(f"""
+                    <div style="background: {colors['bg']}; border: 2px solid {colors['border']};
+                                border-radius: 12px; padding: 1.2em; margin-bottom: 1em; min-height: 180px;">
+                        <h4 style="color: {colors['text']}; margin: 0 0 0.5em 0; font-size: 1.1em;">{display_name}</h4>
+                        <p style="color: #666; font-size: 0.85em; margin: 0.3em 0;"><strong>Role:</strong> {manifest.get('role', 'N/A')[:80]}...</p>
+                        <p style="margin: 0.5em 0;">{get_status_badge(status)}</p>
+                    </div>
+                    """, unsafe_allow_html=True)
     else:
         st.info("No repository manifests loaded.")
 

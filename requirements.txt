@@ -1,1 +1,15 @@
-streamlit>=1.28.0
+# Pan Handlers Dashboard Dependencies
+# =====================================
+
+# Core Framework
+streamlit>=1.20.0          # Dashboard framework (1.20+ for session_state, experimental_rerun)
+
+# Standard Library (included for documentation)
+# pathlib - File path handling (built-in)
+# json - JSON parsing (built-in)
+# datetime - Date/time handling (built-in)
+
+# Optional: For future development
+# requests                  # API calls to sister repos
+# pandas                    # Data analysis
+# plotly                    # Interactive charts
