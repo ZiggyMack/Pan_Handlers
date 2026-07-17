@@ -1,6 +1,6 @@
 # DIG AUX 05 — Story, Genre, Wisdom Compression, and Orientation
 
-**Status:** STAGE 2 COMPLETE — field-desk PASS AS AUXILIARY COMPOUND SWEEP; STAGE 3 AUTHORIZED · no direct operator promotion
+**Status:** STAGE 3 COMPLETE — field-desk PASS; STAGE 4 AUTHORIZED · the packet's strongest result is a **co-construction and assistant-method finding**, not a mature Ziggy operator profile
 **Site type:** AUXILIARY / CO-CONSTRUCTION · **Grant qualification: NON-SITE** · **Ziggy qualification:** LIMITED BUT CLEAN · **Nova contribution:** DOMINANT
 *(Field desk suggested identity "DIG_AUX_09"; operator's AUX_05 numbering kept — 06–08 remain reserved for SWEEP_02's children)*
 **Primary subject:** Ziggy–Nova conceptual exchange (no adversarial dispute in-thread)
@@ -1815,7 +1815,1015 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+1. Confirmed Informative Omissions (A3/A2)
+
+### Omission 1 — Symmetric functional analysis of science and prediction
+
+**Actor:** Nova
+
+**Relevant point:** Nova asks what recurring human problem genres and religion solve, but does not apply the same function-first analysis to scientific description, prediction, or the framework attributed to Grant.
+
+**Source anchors:**
+
+* Nova, “Different genres solve different human problems,” early first assistant response.
+* Nova, “what recurring human problem gave rise to religion?” late first assistant response.
+* Nova, “Science excels at description. Story excels at orientation,” late final assistant response.
+
+**Why the move was relevant:** Once science and story were contrasted by function, a symmetrical analysis could have asked:
+
+* What human problem does predictive description solve?
+* Does scientific description also orient?
+* Does narrative also contain descriptive claims?
+* Are prediction and orientation rival functions, nested functions, or complementary functions?
+
+**Availability tier:** A3 — Demonstrated Available.
+
+Nova explicitly performs function-first analysis on genres and religion.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Yes. It allowed story to be described through its richest orientational function while science was represented through a narrower descriptive function. This made the contrast cleaner and more favorable to story than a symmetrical analysis may have permitted.
+
+**Stable or situational:** Situational within this thread. The corpus is too short to establish a stable asymmetry across conversations.
+
+---
+
+### Omission 2 — Charitable layered reconstruction of the attributed Grant position
+
+**Actor:** Nova
+
+**Relevant point:** Nova introduces Grant as objecting to story compression and as emphasizing prediction, correct modeling, and truth, but does not reconstruct how those commitments might themselves support orientation, trust, or practical action.
+
+**Source anchors:**
+
+* Nova, “Remember Grant’s objection: ‘If stories compress wisdom, why don’t we all get the same message?’” middle first assistant response.
+* Nova, “Grant tends to emphasize something like: Prediction → Correct Model → Truth,” late first assistant response.
+* Nova, “those aren’t necessarily competing explanations. They may be describing different layers of the same phenomenon,” later final assistant response.
+
+**Why the move was relevant:** Nova demonstrates an ability to treat Jungian, Campbellian, and pragmatic explanations as potentially complementary. Applying the same interpretive charity to the absent opposing framework could have produced a stronger reconstruction:
+
+* prediction may be one mechanism for maintaining reliable orientation;
+* correct description may constrain harmful orientation;
+* Grant may object not to orientation itself but to orientation insulated from correction.
+
+**Availability tier:** A3 — Demonstrated Available.
+
+Nova explicitly performs layered, non-adversarial synthesis when discussing other thinkers.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Yes. Grant becomes a relatively simple Logos-centered foil rather than the strongest possible version of a description-first framework.
+
+**Stable or situational:** Situational. Grant was imported into the discussion without local evidence, and the absence may result from the assistant’s attempt to connect the topic quickly to a familiar dispute.
+
+---
+
+### Omission 3 — Separation of persuasive force from epistemic justification
+
+**Actor:** Nova
+
+**Relevant point:** Nova explains Ethos, Pathos, and Logos by comparing a mortality statistic, witnessing a death, and hearing advice from a beloved grandfather. The analysis shows differences in force but does not clearly separate increased motivational impact from increased evidential warrant.
+
+**Source anchors:**
+
+* Nova, “Same proposition. Different force,” later first assistant response.
+* Nova, “Human beings rarely move because of Logos alone,” later first assistant response.
+* Nova, “Ethos, Pathos, and Logos can be viewed as three channels through which orientation is conveyed,” middle final assistant response.
+
+**Why the move was relevant:** The conversation concerns whether story carries wisdom. A story’s ability to make a proposition memorable or moving is not by itself evidence that the proposition is true or wise.
+
+A distinction was available between:
+
+* persuasion;
+* motivation;
+* comprehension;
+* memory;
+* credibility;
+* justification;
+* truth.
+
+**Availability tier:** A3 — Demonstrated Available.
+
+Nova repeatedly separates nearby concepts elsewhere:
+
+* shared archive versus variable extraction;
+* proposition versus embodiment;
+* knowledge versus wisdom;
+* description versus orientation.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Yes. Ethos and Pathos could appear to supplement Logos epistemically when the examples directly establish only that they alter reception and action.
+
+**Stable or situational:** Situational. The omission arises inside a pedagogical illustration rather than a formal theory of justification.
+
+---
+
+### A2 omissions
+
+No A2 omission was found.
+
+No relevant move was explicitly requested or offered to an actor and then clearly declined within the bounded conversation.
+
+2. Possible Informative Omissions (A1)
+
+### Omission 1 — Reconstructing the Hero’s Journey before contrasting it with genre plurality
+
+**Actor:** Nova
+
+**Relevant point:** Ziggy suggests that story theory may be “mostly calibrated for the heroes journey.” Nova immediately contrasts Campbell’s universal transformation model with Truby’s genre-specific functions.
+
+**Source anchors:**
+
+* Ziggy, “it’s prolly mostly calibrated for the heroes journey,” opening user message.
+* Nova, “Campbell says…” and “Truby says…,” early first assistant response.
+
+**Why relevant:** A charitable reconstruction could have tested whether the Hero’s Journey and genre theory operate at different levels:
+
+* transformation structure;
+* genre-specific moral or social problem;
+* scene-level rhetoric;
+* cultural function.
+
+The later conversation itself moves toward a layered model, suggesting that a simple contrast may have been premature.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Moderately. It encouraged a Campbell-versus-Truby framing before establishing whether the two frameworks actually compete.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 2 — Verifying the account of Truby’s book
+
+**Actor:** Nova
+
+**Relevant point:** Nova attributes a strong thesis to Truby: “Different genres solve different human problems,” then assigns functions to several genres.
+
+**Source anchor:** Nova, early first assistant response beginning with the Campbell/Truby contrast.
+
+**Why relevant:** The user specifically asked to draw upon a named book, but no passage, chapter, definition, or direct textual evidence was examined.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Yes. The discussion may accurately develop Ziggy’s question while still misrepresenting Truby’s actual framework.
+
+**Stable or situational:** Situational and task-specific.
+
+---
+
+### Omission 3 — Testing whether “orientation” is too broad to discriminate
+
+**Actor:** Nova
+
+**Relevant point:** Nova selects orientation as the function beneath morality, social cohesion, prediction, and survival.
+
+**Source anchor:** Nova, “Those are all downstream. The deeper function is: Orientation,” opening final assistant response.
+
+**Why relevant:** A master category should explain more than its competitors without becoming synonymous with “anything that influences human conduct.” Relevant tests included:
+
+* Can entertainment without guidance count as orientation?
+* Can propaganda orient?
+* Can an inaccurate story orient successfully?
+* Does every cultural practice orient?
+* What observation would count against the orientation thesis?
+
+**Availability tier:** A1 — Contextually Available.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Yes. Orientation was accepted as explanatory without establishing its boundaries or falsifiability.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 4 — Demonstrating that the rejected candidates are genuinely downstream
+
+**Actor:** Nova
+
+**Relevant point:** Morality, cohesion, prediction, and survival are dismissed as downstream of orientation.
+
+**Source anchor:** Nova, “Not morality. Not social cohesion. Not prediction. Not even survival. Those are all downstream,” opening final assistant response.
+
+**Why relevant:** The hierarchy could run differently:
+
+* orientation may serve survival;
+* stories may coordinate groups, with orientation as one mechanism;
+* prediction may be a form of orientation;
+* morality may organize orientation rather than derive from it.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Yes. It allowed the hierarchy to be rhetorically announced rather than argued.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 5 — Applying descriptive scrutiny to orientational systems
+
+**Actor:** Nova
+
+**Relevant point:** Nova distinguishes scientific description from narrative orientation and uses a map analogy to defend non-photographic representation.
+
+**Source anchors:**
+
+* Nova, “Science excels at description. Story excels at orientation,” late final assistant response.
+* Nova, “A map can fail to be a perfect photograph and still help you navigate,” middle-late final assistant response.
+
+**Why relevant:** Maps need not resemble photographs, but they must preserve relevant relations to the terrain. A symmetrical test could have asked:
+
+* What factual fidelity must an orienting story maintain?
+* When does useful simplification become deception?
+* Can an orienting narrative be judged defective because its world-description is false?
+
+**Availability tier:** A1 — Contextually Available.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Yes. The analogy defended selective representation without defining the minimum correspondence required for reliable navigation.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 6 — Reverse-role testing of description and orientation
+
+**Actor:** Nova
+
+**Relevant point:** Science and story are assigned different areas of excellence.
+
+**Source anchor:** Nova, “Science excels at description. Story excels at orientation,” late final assistant response.
+
+**Why relevant:** Reversing the assigned roles could test the proposed boundary:
+
+* How does science orient action?
+* How do stories describe social or psychological reality?
+* What happens when science becomes a civilizational narrative?
+* What happens when myth makes empirical claims?
+
+**Availability tier:** A1 — Contextually Available.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Moderately. The omission preserved a clear division that the mixed cases may complicate.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 7 — Distinguishing cultural recurrence from independent invention
+
+**Actor:** Ziggy and Nova
+
+**Relevant point:** Ziggy asks what function was important enough that “every civilization repeatedly invented stories to carry it.” Nova accepts the premise and answers functionally.
+
+**Source anchor:** Ziggy, complete second user message.
+
+**Why relevant:** Recurrence could result from:
+
+* independent invention;
+* inherited language practices;
+* migration;
+* ritual transmission;
+* common cognitive architecture;
+* retrospective classification of many different practices as “story.”
+
+**Availability tier:** A1 — Contextually Available.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Moderately. The functional inference becomes stronger if independent recurrence is established, but the thread does not establish it.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 8 — Separating the function of stories from the truth of particular stories
+
+**Actor:** Nova
+
+**Relevant point:** Nova argues that stories orient and that religion may transmit identity, meaning, and values.
+
+**Source anchors:**
+
+* Nova, “A myth is often transmitting: values, identity, orientation, meaning,” late first assistant response.
+* Nova, “Does this story successfully orient people toward life?” middle final assistant response.
+
+**Why relevant:** A general function of narrative does not establish:
+
+* that every narrative performs the function well;
+* that a particular religious story is true;
+* that useful orientation is ethically desirable;
+* that a story’s persistence validates its claims.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Yes. Functional usefulness risks sliding toward implicit validation.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 9 — Testing the compression model against lossy or adversarial encoding
+
+**Actor:** Nova
+
+**Relevant point:** Nova preserves the compression metaphor by explaining disagreement through different extraction.
+
+**Source anchor:** Nova, “Everyone receives the same archive. Not everyone extracts the same files,” middle first assistant response.
+
+**Why relevant:** Alternative causes of disagreement include:
+
+* the archive is ambiguous;
+* the story changed during transmission;
+* several incompatible lessons were encoded;
+* no determinate lesson was encoded;
+* an interpreter strategically imposes a message;
+* the narrative is designed to manipulate rather than transmit wisdom.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Yes. It protected the compression model by concentrating explanatory failure in the recipient.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 10 — Conceding a limited descriptive point to the absent opponent
+
+**Actor:** Nova
+
+**Relevant point:** Nova portrays prediction-centered evaluation as insufficient for story and religion.
+
+**Source anchors:**
+
+* Nova, “Grant tends to emphasize something like: Prediction → Correct Model → Truth,” late first assistant response.
+* Nova, “orientation should be judged exclusively by the standards we use for description,” closing final assistant response.
+
+**Why relevant:** A limited concession could have acknowledged that prediction and descriptive accuracy can protect people from destructive orientational systems.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Did the absence change the outcome?** Moderately. It made descriptive standards appear mostly jurisdictionally intrusive rather than also potentially corrective.
+
+**Stable or situational:** Situational.
+
+3. Non-Informative Omissions (A0)
+
+### Omission 1 — Ziggy does not accept, reject, or qualify “orientation”
+
+**Actor:** Ziggy
+
+**Relevant point:** Nova ends the bounded conversation by proposing orientation as the master function.
+
+**Availability tier:** A0 — Unknown.
+
+The source corpus ends before Ziggy has another turn.
+
+**Omission classification:** NON-INFORMATIVE.
+
+**Did the absence change the outcome?** It prevents determining whether orientation became a genuinely shared conclusion.
+
+**Stable or situational:** Cannot be assessed.
+
+---
+
+### Omission 2 — Grant does not defend his alleged position
+
+**Actor:** Grant
+
+**Relevant point:** Nova attributes objections and commitments to Grant.
+
+**Availability tier:** A0 — Unknown.
+
+Grant is not a participant in the bounded thread.
+
+**Omission classification:** NON-INFORMATIVE.
+
+**Did the absence change the outcome?** Yes, but no inference about Grant’s behavior is permitted.
+
+**Stable or situational:** UNKNOWN.
+
+---
+
+### Omission 3 — Tale Recursion does not explain the recommendation
+
+**Actor:** Tale Recursion
+
+**Relevant point:** Ziggy reports that Tale Recursion recommended the Truby book.
+
+**Availability tier:** A0 — Unknown.
+
+Tale Recursion does not appear directly.
+
+**Omission classification:** NON-INFORMATIVE.
+
+**Did the absence change the outcome?** It leaves the intended relevance of the book UNKNOWN.
+
+**Stable or situational:** UNKNOWN.
+
+---
+
+### Omission 4 — No empirical cross-cultural dataset is supplied
+
+**Actor:** UNCLEAR
+
+**Relevant point:** The discussion concerns stories across civilizations.
+
+**Availability tier:** A0 — Unknown regarding whether such evidence was practically available to either participant during this exchange.
+
+**Omission classification:** NON-INFORMATIVE.
+
+**Did the absence change the outcome?** It limits the historical strength of the conclusion, but no actor-level inference follows.
+
+**Stable or situational:** UNKNOWN.
+
+---
+
+### Omission 5 — No sustained adversarial role reversal occurs
+
+**Actor:** Ziggy and Nova
+
+**Relevant point:** The exchange remains collaborative.
+
+**Availability tier:** A0 — Unknown.
+
+Nothing in the bounded thread establishes that either participant intended a formal debate or had sufficient turns to conduct one.
+
+**Omission classification:** NON-INFORMATIVE.
+
+**Did the absence change the outcome?** It leaves the proposed framework under-stressed.
+
+**Stable or situational:** UNKNOWN.
+
+4. Counterevidence Findings
+
+### Characterization 1 — Ziggy uses story compression as a substantive cognitive model
+
+**Counterevidence searched:** Language suggesting the phrase was casual, tentative, or purely rhetorical.
+
+**Found:** Ziggy says “almost our 7-zip like tool for wisdom,” which weakens a literal or technical reading. The comparison is explicitly approximate.
+
+**Result:** The metaphor clearly generates the discussion, but its status as a fully intended model is weaker than Stage 2’s strongest formulation.
+
+---
+
+### Characterization 2 — Ziggy destabilizes the Hero’s Journey as a dominant template
+
+**Counterevidence searched:** Evidence that Ziggy rejects the Hero’s Journey or treats it as false.
+
+**Found:** None. Ziggy says “prolly” and expresses curiosity about other formats. He does not reject the Hero’s Journey.
+
+**Result:** The exploratory opening survives; any stronger anti-Hero’s-Journey characterization is weakened.
+
+---
+
+### Characterization 3 — Nova replaces universal structure with genre-specific functional plurality
+
+**Counterevidence searched:** Evidence that Nova later preserves a unifying structure.
+
+**Found:** Nova later places different genres under the common function of orientation.
+
+**Result:** Nova does not ultimately replace unity with plurality. He relocates unity to a higher level while preserving genre-specific differences beneath it.
+
+---
+
+### Characterization 4 — Nova employs function-first reasoning
+
+**Counterevidence searched:** Cases where Nova resists functional interpretation or treats story only as content.
+
+**Found:** None. Nova repeatedly asks what problems genres, religion, and stories solve.
+
+**Result:** Strongly survives.
+
+---
+
+### Characterization 5 — Nova protects the compression model through the extraction distinction
+
+**Counterevidence searched:** Acknowledgment that the story itself may be ambiguous, corrupted, empty, or multiply encoded.
+
+**Found:** None.
+
+**Result:** Strongly survives. The explanatory burden is placed primarily on differential extraction.
+
+---
+
+### Characterization 6 — Nova constructs or imports an unsupported Grant objection
+
+**Counterevidence searched:** Any G-DIRECT or G-REPORTED source inside the bounded thread.
+
+**Found:** None.
+
+**Result:** Strongly survives.
+
+---
+
+### Characterization 7 — Nova distinguishes propositional knowledge from embodied narrative knowledge
+
+**Counterevidence searched:** Evidence that Nova later reduces stories back to detachable propositions.
+
+**Found:** None. The later orientation account continues to emphasize identity, feeling, exemplars, and action.
+
+**Result:** Strongly survives.
+
+---
+
+### Characterization 8 — Nova integrates Ethos, Pathos, and Logos as channels within narrative
+
+**Counterevidence searched:** Evidence that Nova treats Logos as sufficient or denies the relevance of emotion and credibility.
+
+**Found:** None.
+
+**Partial limiting evidence:** Nova says “Same proposition. Different force,” which can be read as recognizing that the truth-content remains stable while reception changes.
+
+**Result:** The integration survives. The stronger claim that all three contribute equally to justification is not established.
+
+---
+
+### Characterization 9 — Ziggy performs a deepest-function search
+
+**Counterevidence searched:** Evidence that Ziggy requested only a list of story functions.
+
+**Found:** None. His wording explicitly asks for the function important enough to explain civilizational recurrence.
+
+**Result:** Strongly survives as a consequential one-time move.
+
+---
+
+### Characterization 10 — Nova installs orientation as the master category
+
+**Counterevidence searched:** Qualifications, alternatives retained, or refusal to make the category exclusive.
+
+**Found:**
+
+* Nova begins, “I think there are several candidate answers.”
+* He says one answer “sits underneath” the others rather than denying their relevance.
+* He treats different genres as providing distinct orientations.
+
+**Result:** The master-category characterization survives, but the claim is presented as a proposed hierarchy rather than an absolute proof.
+
+---
+
+### Characterization 11 — Nova sharply splits description from orientation
+
+**Counterevidence searched:** Evidence of overlap or qualification.
+
+**Found:**
+
+* Nova says science and story “excel” in different functions, not that each exclusively possesses one.
+* Nova says religion “often attempts to provide both.”
+* Nova says, “That doesn’t mean truth doesn’t matter.”
+* The map analogy itself presupposes some relationship between representation and terrain.
+
+**Result:** A strict jurisdictional separation is weakened. A distinction of emphasis survives.
+
+---
+
+### Characterization 12 — Nova uses the map analogy to exempt narrative from factual scrutiny
+
+**Counterevidence searched:** Any explicit acknowledgment that truth still matters.
+
+**Found:** Nova states, “That doesn’t mean truth doesn’t matter.”
+
+**Result:** The analogy is defensive but not a complete exemption. The unresolved issue is how truth constrains orientation.
+
+---
+
+### Characterization 13 — Nova performs cross-framework convergence
+
+**Counterevidence searched:** Any claim that Jung, Campbell, and James are mutually exclusive.
+
+**Found:** None.
+
+**Result:** Strongly survives as a synthesizing move. The substantive accuracy of the synthesis remains unsupported.
+
+---
+
+### Characterization 14 — The relationship displays an intuition-amplification loop
+
+**Counterevidence searched:** Ziggy rejecting Nova’s expansion, narrowing the scope, or correcting an overreach.
+
+**Found:** None.
+
+**Limiting evidence:** The bounded exchange contains only one user follow-up after the major expansion.
+
+**Result:** The local turn pattern survives. Its characterization as a stable relationship habit weakens.
+
+---
+
+### Characterization 15 — The exchange contains an abstraction ratchet
+
+**Counterevidence searched:** Movement back toward primary texts, concrete evidence, or narrower examples.
+
+**Found:** Nova supplies examples, but the governing level continues moving upward from genre to civilization to orientation.
+
+**Result:** Survives locally.
+
+---
+
+### Characterization 16 — Nova validates before examining
+
+**Counterevidence searched:** Immediate caution or adversarial testing before expansion.
+
+**Found:** Nova begins with strong affirmation: “This is a rich vein.” Critical qualifications appear later and remain limited.
+
+**Result:** Survives.
+
+---
+
+### Characterization 17 — Nova creates external-adversary triangulation
+
+**Counterevidence searched:** Ziggy asking to connect the discussion to Grant in this bounded thread or explicitly endorsing that move.
+
+**Found:** None.
+
+**Result:** Nova initiates triangulation. No evidence establishes a reciprocal relationship loop in this thread.
+
+---
+
+### Characterization 18 — Ziggy acts as a stable abstraction escalator
+
+**Counterevidence searched:** Multiple independent examples within the bounded thread.
+
+**Found:** Only one clear escalation appears: from genre functions to the civilizational master function.
+
+**Result:** Survives as a one-time consequential move; weakens as a stable role characterization.
+
+---
+
+### Characterization 19 — No reliable Grant position is recoverable
+
+**Counterevidence searched:** Grant’s words or Ziggy’s explicit paraphrase of Grant inside the bounded conversation.
+
+**Found:** None.
+
+**Result:** Strongly survives.
+
+5. Alternative Readings
+
+### A. Story-as-compression
+
+**Primary characterization:** Ziggy deploys a model-generating cognitive metaphor.
+
+**Strongest alternative:** It is an evocative phrase intended only to communicate enthusiasm about the density and memorability of story.
+
+**Discriminating evidence:** The assistant, not Ziggy, develops archives, files, extraction, and decoding. Ziggy does not explicitly adopt those technical entailments.
+
+**Assessment:** The metaphor is clearly generative, but the fully developed compression model is CO-CONSTRUCTED rather than purely Z-DIRECT.
+
+---
+
+### B. Hero’s Journey destabilization
+
+**Primary characterization:** Ziggy challenges the dominance of one narrative template.
+
+**Strongest alternative:** Ziggy accepts the Hero’s Journey and merely wants supplementary genre forms.
+
+**Discriminating evidence:** “Prolly” and “curious” indicate tentative exploration, not rejection.
+
+**Assessment:** The weaker exploratory reading is better supported.
+
+---
+
+### C. Functional plurality
+
+**Primary characterization:** Nova treats genres as instruments solving distinct human problems.
+
+**Strongest alternative:** The genre-function list is pedagogical shorthand, not a theory of stable genre essences.
+
+**Discriminating evidence:** Nova uses one concise function per genre and supplies no boundary cases, historical variation, or hybrids.
+
+**Assessment:** The explanatory move is real; the essentialist interpretation is UNKNOWN.
+
+---
+
+### D. Function-first reasoning
+
+**Primary characterization:** Nova infers the purpose of recurring cultural forms by asking what problem they solve.
+
+**Strongest alternative:** Nova is using teleological rhetoric to produce an engaging answer rather than making a causal or evolutionary claim.
+
+**Discriminating evidence:** Phrases such as “evolved to solve” and “gave rise to” imply causal function, but no historical mechanism is supplied.
+
+**Assessment:** The operator survives; its ontological strength remains uncertain.
+
+---
+
+### E. Shared package / variable extraction
+
+**Primary characterization:** Nova distinguishes encoded material from recipient interpretation.
+
+**Strongest alternative:** This is a post hoc rhetorical defense designed to prevent interpretive disagreement from counting against the compression metaphor.
+
+**Discriminating evidence:** The distinction appears only after Nova introduces the objection it solves. No independent evidence or counterexample testing follows.
+
+**Assessment:** Both readings remain viable. The move functions cognitively and defensively.
+
+---
+
+### F. Proxy objection construction
+
+**Primary characterization:** Nova creates or imports an absent opponent for stress-testing.
+
+**Strongest alternative:** Nova accurately remembers a prior Grant argument and uses his name as efficient conversational shorthand.
+
+**Discriminating evidence:** The hard source boundary contains no confirming material.
+
+**Assessment:** Accuracy is UNKNOWN. Within this packet, it remains an unsupported imported attribution.
+
+---
+
+### G. Proposition / embodiment distinction
+
+**Primary characterization:** Nova claims stories transmit tacit or enacted knowledge beyond explicit statements.
+
+**Strongest alternative:** Stories merely make propositions emotionally memorable without adding a distinct kind of knowledge.
+
+**Discriminating evidence:** Nova asserts that emotion, imagery, consequence, identity, and memory become attached to the lesson but does not demonstrate irreducible knowledge content.
+
+**Assessment:** The difference in transmission is supported. The stronger epistemic claim is UNKNOWN.
+
+---
+
+### H. Ethos, Pathos, and Logos integration
+
+**Primary characterization:** Narrative integrates three channels of orientation.
+
+**Strongest alternative:** Nova is redescribing rhetorical persuasion, not explaining wisdom transmission.
+
+**Discriminating evidence:** The smoking example measures motivational force and credibility, not whether the receiver acquires justified knowledge.
+
+**Assessment:** Integration as persuasion survives; integration as epistemic warrant is weakened.
+
+---
+
+### I. Deepest-function search
+
+**Primary characterization:** Ziggy seeks a superordinate explanation.
+
+**Strongest alternative:** Ziggy asks an open speculative question without committing to one-function monism.
+
+**Discriminating evidence:** His wording asks “what function,” singular, but no subsequent turn shows commitment to a single answer.
+
+**Assessment:** The search is clear; adoption of monism is UNKNOWN.
+
+---
+
+### J. Orientation as master function
+
+**Primary characterization:** Nova treats orientation as the function beneath other narrative benefits.
+
+**Strongest alternative:** “Orientation” is a rhetorically effective umbrella label summarizing many effects without causally explaining them.
+
+**Discriminating evidence:** Nova decomposes orientation into questions and maps genres onto them, which gives the term some structure. He does not show why orientation precedes survival, cohesion, morality, or prediction.
+
+**Assessment:** The organizing usefulness survives; causal priority is weakly supported.
+
+---
+
+### K. Description / orientation jurisdiction split
+
+**Primary characterization:** Nova distinguishes two cognitive jurisdictions.
+
+**Strongest alternative:** Nova identifies different emphases within overlapping practices rather than separate jurisdictions.
+
+**Discriminating evidence:** “Excels” permits overlap, and Nova says religion attempts both.
+
+**Assessment:** The alternative reading is stronger than a strict split.
+
+---
+
+### L. Map / photograph analogy
+
+**Primary characterization:** Nova evaluates representations according to function rather than literal resemblance.
+
+**Strongest alternative:** The analogy is a rhetorical maneuver that changes the standard from truth to usefulness without specifying when that change is legitimate.
+
+**Discriminating evidence:** Nova preserves a truth caveat but does not define terrain-correspondence requirements.
+
+**Assessment:** The analogy clarifies selective representation but does not resolve the truth problem.
+
+---
+
+### M. Cross-framework convergence
+
+**Primary characterization:** Nova treats several thinkers as addressing different layers of one phenomenon.
+
+**Strongest alternative:** Named thinkers function as authority signals attached to an independently generated synthesis.
+
+**Discriminating evidence:** No texts, arguments, or incompatibilities are examined.
+
+**Assessment:** The synthesizing operation survives. Its fidelity to the thinkers is UNKNOWN.
+
+---
+
+### N. Intuition-amplification loop
+
+**Primary characterization:** Ziggy supplies an intuition; Nova expands it; Ziggy selects a deeper implication.
+
+**Strongest alternative:** This is merely the normal structure of one question, answer, and follow-up.
+
+**Discriminating evidence:** Only one complete cycle exists.
+
+**Assessment:** It is a valid local interaction pattern but not yet a demonstrated stable relationship loop.
+
+---
+
+### O. Abstraction ratchet
+
+**Primary characterization:** The collaboration repeatedly moves toward higher-order explanation.
+
+**Strongest alternative:** The topic itself naturally required moving from genre examples to a general function.
+
+**Discriminating evidence:** No turn attempts to reverse the movement through textual verification or concrete falsification.
+
+**Assessment:** The ratchet survives locally; whether it is actor-specific or topic-induced is UNKNOWN.
+
+---
+
+### P. Validation before examination
+
+**Primary characterization:** Nova affirms the insight before critically testing it.
+
+**Strongest alternative:** The affirmation is conversational rapport and does not necessarily indicate lowered evidential standards.
+
+**Discriminating evidence:** Nova follows the validation with extensive expansion but limited adversarial testing.
+
+**Assessment:** The behavior survives. Its causal effect on rigor remains uncertain.
+
+---
+
+### Q. External-adversary triangulation
+
+**Primary characterization:** Nova turns collaborative exploration toward an absent opponent.
+
+**Strongest alternative:** Nova is maintaining continuity with a broader research program relevant to Ziggy’s interests.
+
+**Discriminating evidence:** Ziggy did not invoke Grant in this bounded thread, and no local evidence supports the attribution.
+
+**Assessment:** Both motives may coexist. As an evidentiary practice, the move remains defective within the bounded corpus.
+
+---
+
+### R. Ziggy as abstraction escalator
+
+**Primary characterization:** Ziggy pushes from intermediate explanations toward the deepest available “why.”
+
+**Strongest alternative:** The single follow-up simply asks the most obvious next question generated by Nova’s closing prompt.
+
+**Discriminating evidence:** Only one instance is available.
+
+**Assessment:** One-time move confirmed; stable role UNKNOWN.
+
+6. Characterizations That Survived
+
+7. Ziggy introduces story as an approximately compression-like carrier of wisdom.
+
+8. Ziggy tentatively opens inquiry beyond Hero’s Journey dominance.
+
+9. Nova reframes genres through recurring human functions.
+
+10. Nova repeatedly uses function-first reasoning.
+
+11. Nova distinguishes common narrative input from variable audience extraction.
+
+12. Nova imports an unsupported objection and prediction-centered position attributed to Grant.
+
+13. Nova distinguishes propositional statement from embodied narrative transmission.
+
+14. Ziggy and Nova co-construct the Ethos/Pathos/Logos overlap.
+
+15. Ziggy performs a consequential deepest-function search.
+
+16. Nova selects orientation as the proposed superordinate category.
+
+17. Nova decomposes orientation into existential questions and maps genres onto them.
+
+18. Nova uses description/orientation as a meaningful distinction of emphasis.
+
+19. Nova uses the map analogy to defend selective, function-relative representation.
+
+20. Nova performs cross-framework synthesis.
+
+21. The conversation locally exhibits metaphor expansion, abstraction escalation, and shared vocabulary formation.
+
+22. No reliable Grant position is recoverable from the bounded evidence.
+
+23. Characterizations That Weakened
+
+24. **Story compression as a fully technical Ziggy model** weakened. Ziggy’s wording is approximate; much of the archive/extraction apparatus is Nova-generated.
+
+25. **Ziggy as rejecting the Hero’s Journey** weakened. He expresses curiosity, not repudiation.
+
+26. **Nova replacing universal structure with pure plurality** weakened. Nova later restores unity through orientation.
+
+27. **Genre functions as stable essences** weakened. The assignments may be pedagogical simplifications.
+
+28. **Ethos, Pathos, and Logos as equal sources of epistemic warrant** weakened. The examples establish differences in force more clearly than differences in justification.
+
+29. **Orientation as demonstrated to be causally deeper than morality, cohesion, prediction, and survival** weakened. The hierarchy is asserted but not argued.
+
+30. **A strict science/story jurisdiction split** weakened. Nova’s own qualifications permit overlap, and religion is said to attempt both.
+
+31. **The map analogy as a complete answer to factual criticism** weakened. Acknowledging that truth matters leaves the correspondence threshold unresolved.
+
+32. **Intuition amplification as a stable relationship loop** weakened. One local cycle is insufficient to establish stability.
+
+33. **External-adversary triangulation as a reciprocal loop** weakened. Nova initiates it, but Ziggy does not adopt it within this thread.
+
+34. **Ziggy as a stable abstraction-escalator role** weakened. Only one clear instance is available.
+
+35. **Cross-thinker convergence as substantively established** weakened. The synthesis is not tested against primary material or theoretical conflict.
+
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS — run Stage 4.** Surviving trajectory: Ziggy seeds compression
+metaphor → questions dominant template → Nova builds functional plurality →
+Ziggy asks for the deepest function → Nova proposes orientation → **Stage 3
+weakens orientation from established cause to organizing hypothesis.**
+
+**Availability corrections — with a standard-sharpening ruling:**
+- Omission 1 (symmetric functional analysis of science): **A3 defensible** —
+  and it is **the packet's clearest rigor failure**: story and religion were
+  analyzed by their *richest* functions, description and prediction by their
+  *narrowest*. The symmetric reconstruction was demonstrably available:
+  prediction orients action under uncertainty; accurate description
+  constrains destructive orientation; stories supply hypotheses; narrative
+  and prediction may be complements, not jurisdictional rivals.
+- Omission 2 (charitable Grant reconstruction): A3 → **A1** (layered synthesis
+  of selected thinkers ≠ demonstrated charitable reconstruction of an absent
+  opponent).
+- Omission 3 (persuasion ≠ epistemic warrant): A3 → **A1**, with the general
+  ruling worth keeping: **"general distinction-making ability is not enough
+  for A3 — otherwise almost every missing distinction becomes 'demonstrated
+  available.'"** *(A3 requires the specific move, demonstrated in-thread.
+  Logged for post-freeze protocol notes.)*
+
+**Surviving Ziggy findings (all provisional):** compression-metaphor seeding
+(the *"almost"* matters — the full archive/extraction architecture is
+Nova's); **Template-Scope Questioning** (renamed from "Destabilization" —
+opens a dominant template to supplementation, doesn't defeat it);
+deepest-function search (strongest; one-time; premature-monism risk noted —
+the singular wording doesn't prove Ziggy believes in one function);
+cross-domain overlap detection (overlap = Ziggy; channel model = Nova).
+
+**Surviving Nova findings:** Function-First Cultural Analysis (clearest
+method; teleology weakness attached: persistence ≠ single function ≠ benefit
+≠ truth); functional-hierarchy construction (**the operation survives, the
+hierarchy does not** — orientation is a *proposed* superordinate category,
+not a demonstrated one); embodied-transmission distinction (salience and
+motivation ≠ truth or justification); **shared input / variable extraction
+reclassified as a defensive model-preservation move** (without failure
+criteria, nothing can count against the model); description/orientation as a
+**distinction of emphasis** — science can orient, stories can describe,
+religions make empirical claims; the four-cell matrix stands guard.
+
+**Claims that must not survive Stage 4:** Grant as Logos-centered foil (maps
+only to UNSUPPORTED PROXY-OPPONENT CONSTRUCTION — no ledger, no quarantine
+profile, just the contamination record); cross-thinker convergence (what
+survives: *Nova tends to reconcile named theories by assigning them to
+different explanatory layers* — a Nova synthesis behavior, not thinker
+convergence); orientation as Ziggy's view (adoption UNKNOWN — corpus ends
+before his answer); stable relationship loop (one completed cycle → LOCAL
+CO-CONSTRUCTION PATTERN only).
+
+**Stage-4 mapping expectations registered (scoreable).** Two retention-worthy
+candidates only: **Deepest-Function Search** (Ziggy; cross-source
+confirmation required) and **Function-First Cultural Analysis** (Nova;
+teleological interpretation must remain qualified).
+
+**Central Stage-4 question (registered):** *does "orientation" explain
+storytelling, or merely rename the range of ways stories influence perception
+and action?* A useful master category must supply boundaries, counterexamples,
+comparative predictions, explanatory priority, and failure conditions — the
+thread supplies dimensions and examples, not these tests.
+
+**Closing tri-distinction (registered):** *a story spreads ≠ a story moves
+people ≠ a story transmits wisdom.* The thread offers a theory of the first
+two; the third still owes truth, error-correction, and ethical criteria.
 
 ---
 
