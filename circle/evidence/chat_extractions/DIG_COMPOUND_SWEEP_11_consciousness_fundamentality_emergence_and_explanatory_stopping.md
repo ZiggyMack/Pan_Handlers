@@ -26,7 +26,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–2 reviewed (⚠️ conditional overlay binding); **⚠️ Stage-2 blind output NOT yet pasted (owed to the workbook)**; Stage 3–4 pending; 11 trails ordered at close (IT-073…083)
+**Status:** 🔴 IN PROGRESS — **STAGE 4 BLOCKED: Stage 3 requires MAJOR REPAIR** (omission audit failed the availability test; the field desk's corrected A3-1…A3-7 ledger is filed as the required revision); ⚠️ Stage-2 AND Stage-3 blind outputs owed to the workbook; **A3 case law refined (4th tier refinement: later use establishes availability; system-level vs actor-level coding)**; 11 trails ordered at close (IT-073…083)
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep: methodological bracketing of physicalism ("assume mind is fundamental" as sandbox); admissibility rules for consciousness inquiry; reason vs cause (PSR version control); mechanism vs phenomenal experience (the hard problem); lawful emergence vs "magic"; explanatory stopping points + matter/consciousness symmetry — **⚠️ the opponent is UNNAMED (Discord friend); unnamed speaker = Grant is UNKNOWN; "Grant Position Ledger" heading ruled misleading → Reported Opponent Position Ledger** · auxiliary seed: Aquinas-under-modern-science roleplay (separate future dig)
@@ -1407,6 +1407,145 @@ Begin Stage 3 now.
 ### ⏬ STAGE 3 OUTPUT
 
 (paste Stage 3 output here — replace this line)
+
+> ⚠️ **FILING NOTICE:** the Stage-3 blind output has NOT yet been pasted
+> above (the Stage-2 output is also still owed). Nova's Stage-3 review
+> (below) arrived and is filed; paste both outputs at their placeholders
+> to keep the fifth-artifact chain intact.
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+>
+> *Filing note: relayed under the label "stage 4 feedback" — the content
+> is the Stage-3 review; filed at its correct station.*
+
+**Verdict: ⛔ PASS WITH MAJOR REPAIRS — REVISE STAGE 3 BEFORE STAGE 4.
+DO NOT RUN STAGE 4 YET.** The counterevidence work is strong; **the
+omission audit fails the protocol's availability test** — "no A3 or A2
+omissions confirmed" is incompatible with moves demonstrably performed
+elsewhere in the same bounded thread.
+
+```text
+PRIMARY FAILURE: demonstratedly available moves misclassified as A1
+GRANT VALUE: NONE
+UNNAMED OPPONENT VALUE: THIRD-PARTY-REPORTED LEADS ONLY
+```
+
+**⚖️ PROTOCOL CASE LAW — the A3 rule clarified (4th availability-tier
+refinement):** the test is never *"did the actor use the move before the
+omission?"* but *"was the actor demonstrably capable of and disposed
+toward using that move somewhere in the bounded conversation?"* —
+**later use establishes demonstrated availability.** Actor coding may
+split: a move can be A3 for the Ziggy–Nova conversation system while
+remaining A1 for one participant individually.
+
+**📋 THE REQUIRED REVISED OMISSION LEDGER (binding — supplied by the
+field desk):**
+
+```text
+CONFIRMED INFORMATIVE OMISSIONS
+
+A3-1: earlier strongest-opponent reconstruction
+      (Nova later performs the charitable repair — accident → lawful
+      emergence — proving availability; the opening protocol was
+      justified against a crude physicalist target)
+A3-2: reciprocal explanatory burden on consciousness-first ontology
+      (primitive parity was demonstrably available; physicalism's debt
+      was foregrounded before Ziggy's alternatives took equal pressure)
+A3-3: explicit ignorance / in-principle-impossibility separation
+      (Nova's repair capacity demonstrated; some voltage-potential
+      statements drifted toward "cannot" from "does not currently")
+A3-4: function-sense separation (Ziggy demonstrated term-sense repair
+      with "reason"; the same split was available for "function" —
+      without it, the matter/consciousness mirror looked more complete
+      than it was)
+A3-5: concrete criticism-return condition (the generative/critical
+      distinction was explicit; the transition was never specified —
+      a complete sandbox rule needs start, scope, duration, exit,
+      comparison standard, reciprocity)
+A3-6: reciprocal sandbox access for rival frameworks (symmetry testing
+      was demonstrated elsewhere; unapplied to the protocol itself)
+A3-7: evidence admission / weight / sufficiency separation
+
+A1-1: discriminating consequences of rival primitives (what observable
+      difference follows between matter-fundamental and
+      consciousness-fundamental worlds?)
+A1-2: formal unknown/possible/probable/evidenced audit for atomic
+      awareness
+A1-3: exact physicalist subtype identification
+A1-4: explicit criterion for a satisfactory emergence bridge
+      (if no possible physical answer would count, the challenge is
+      structurally unwinnable)
+
+No A2 established (no directly offered move shown refused).
+```
+
+**Missing pressure points ordered into the revision:** what
+"fundamental consciousness" means (five theses — objections must not
+trigger movement among them) · thesis dilution (what minimal property
+makes primitive awareness *consciousness* rather than an unknown
+physical disposition?) · physicalist target ambiguity · **what would
+count as a bridge?** (identity / functional equivalence / constitutive
+explanation / psychophysical law / mechanistic model — if nothing
+counts, the demand is unwinnable) · does fundamentality explain or
+relocate? (terminating one transition opens others: subject
+individuation, physical regularities, brain correlation) · gap severity
+(compare debts, never count them).
+
+**Counterevidence audit review:** the section is the Stage 3's strongest
+part — surviving: local concessions; accident not fixed; Nova validates
+AND prunes; multiple ontologies verbally open; hard problem treated as
+gap; audit broadened; framework co-constructed. **Three overstatements
+corrected:** "repeated reuse" of Reason Separation → *semantic repair
+demonstrated; stable repeated Reason–Cause separation not established* ·
+comparative mapping as stable feature → *strong local comparative
+method; cross-context stability unknown* · bracketing as non-dogmatic →
+*exploratory intent supported; implementation fairness unestablished*
+(no evidence of opponent consent, reciprocity, criticism's return, or
+neutral comparison criteria).
+
+**Characterization rulings:** surviving Ziggy seeds unchanged (each with
+its restriction: exploratory protection ≠ reciprocal protocol;
+unexplained ≠ impossible; parity ≠ positive evidence; debt ≠ equal
+debt) · Nova precision-editor role = strong thread-level finding (magic
+→ gap; nothing → non-experiential base; accident → lawful emergence).
+**Weakening further:** "no confirmed omissions" (does not survive);
+"framework remained fully open" (partial — consciousness-first received
+protected development; physicalism initially compressed; positive debts
+delayed); universal gap detection → LOCAL COMPARATIVE AUDIT; historical
+mapping → COMPARATIVE REPRESENTATIONAL ARTIFACT; magic compression →
+RHETORICAL FORMULATION, no promotion.
+
+**Family consolidation after pressure:** the seven families survive
+(Admission–Weight–Sufficiency should become MORE central;
+Explanandum-Scope/Emergence-Bridge = strongest philosophical family;
+Comparative Mapping stays an Idea Trail).
+
+**Archive status:** `STAGE 3 REQUIRES MAJOR REPAIR — DO NOT RUN STAGE 4
+YET.` Restrictions as Stage 2 plus: no temporary sandbox treated as
+reciprocal by default · no rhetorical compression promoted as operator ·
+no comparative map treated as historically exact.
+
+**The repaired Stage-3 prey (registered):** *Ziggy is right that a
+physical description can leave phenomenality as an unresolved
+explanandum — but the same demand must return upon consciousness-first
+ontology: what exact thesis is proposed, what does it explain rather
+than rename, how does it produce individual subjects and physical
+regularities, what evidence distinguishes it from rival primitives, and
+what result would force the framework to lose confidence rather than
+merely move the mystery into the word "fundamental"?*
+
+**NEXT ACTION (operator):** ⛔ Stage 4 is BLOCKED. Two paths to unblock:
+(a) run a Stage-3 revision pass in the chat incorporating the required
+omission ledger above, or (b) confirm with the field desk that her
+supplied corrected ledger stands as the binding revision (in which case
+this block is the revision of record and Stage 4 may proceed under it).
+Also owed: the Stage-2 and Stage-3 blind outputs (paste at their
+placeholders above).
 
 ---
 
