@@ -24,7 +24,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ⚠️ conditional · Stages 2–3 ✅ PASSED review; Stage 4 authorized; **A2 discipline tightened (both A2s revised — protocol-level ruling)**; regress relocated, not eliminated; 5 trails ordered at close (IT-039…043)
+**Status:** ✅ COMPLETE — all 4 stages passed field-desk review (Stage 1 conditionally). **Zero promotions — aux ceiling + plow-through discipline.** 4 durable families; 3 HIGH/MOD-HIGH Ziggy seeds (Bedrock Extraction the strongest); the **reciprocal bedrock rule** filed; trails IT-039…044 opened; Grant: G-REPORTED/NOVA-RECONSTRUCTED NON-SITE
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** Auxiliary / idea-trail dig: can religious faith function axiomatically, and does predictive power disqualify it? — Grant's reported claim (religion isn't a genuine axiom *because* it has predictive power); Ziggy's bedrock counter (axioms precede epistemology); the logic-vs-prediction dependency dispute; genealogical vs justificatory priority
@@ -4666,6 +4666,157 @@ X-CONTEXT Notices:
 * A related discussion may exist under “delete_14,” approximately June 8, 2026, on logic as foundational and prediction as emergent. Not evidence for this packet.
 * A related discussion may exist under “MASTER BRANCH,” approximately July 15, 2026, on information theory, prediction, and axiomatic foundations. Not evidence for this packet.
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 + FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+>
+> *Filing note: the relayed review contained minor transmission artifacts
+> (a stray citation token and a duplicated sentence fragment in the Grant
+> and religion sections); filed as received — content unaffected. An
+> earlier relay of the Stage-3 review arrived mislabeled as Stage-4
+> feedback and was caught before duplicate filing.*
+
+**Verdict: SUCCESSFUL COMPLETED AUXILIARY DIG — but Stage 4 still maps
+several corrective operations onto the pathology they are resisting and
+promotes too many ordinary philosophical distinctions as new Museum
+operators. Durable yield: four reasoning families, one relationship
+loop, and a sharp unresolved symmetry problem.**
+
+```text
+Status: COMPLETE
+Primary value: Ziggy bedrock-extraction architecture
+Secondary value: reflexive testing of epistemic standards
+Grant profile value: NONE
+Museum promotion: SELECTIVE
+Idea-trail value: HIGH
+```
+
+**⚠️ MAJOR MAPPING CORRECTIONS (polarity reversal, 6th consecutive
+dig):**
+
+- **Foundational Backtracking** → NOT primarily Symmetry Testing; the
+  real operation is **Bedrock Extraction** — one of the strongest Ziggy
+  candidates, with its danger named: *backtrack through the rival
+  framework → stop at the preferred foundation → declare it ultimate* —
+  rigorous only when the stopping point takes the same pressure.
+- **Reflexive Criterion Testing** → the cleanest Symmetry-Testing match;
+  survives strongly; permanent addendum: *how is logic validated? how
+  are axioms distinguished from stipulations? why is foundationalism
+  authoritative?* — otherwise the crown is merely transferred.
+- **Layer Separation** → generic clarification technique, no registry
+  status; retain the specific product: **Foundational-Status Audit**
+  (six axiom senses).
+- **Criterion–Value Separation** → Baseline Exemption mapping REJECTED
+  (asks what makes success valuable, not who escapes a burden); placed
+  in **Instrument–Telos / Bedrock Audit**; becomes Baseline Exemption
+  only if Grant demands scrutiny of religious values while refusing it
+  for his own — no direct evidence.
+- **Function-to-Ultimacy Challenge** → does NOT "match" Universalized
+  Evaluative Jurisdiction (corrective audit vs suspected pathology);
+  → **Monopoly-Promotion Audit**.
+- **Dependency Asymmetry Test** → inside **Priority-Relation Audit**;
+  establishes no universal order.
+- **Origin–Validity Split** → local distinction inside
+  **Reflexive–Genealogical Audit**; blocks the genetic inference while
+  leaving naturalized epistemology alive.
+- **Hidden Premise Surfacing** → Baseline Exemption mapping rejected;
+  → Bedrock Extraction; *"Grant's real bedrock is accurate
+  representation" remains a tentative Ziggy reconstruction, never
+  fact.*
+- **Definition-Scope Pressure** → substep; jurisdictional inflation
+  must be shown, not assumed.
+- **Strong-Claim Moderation** → Contested ≠ Defeated-adjacent but Nova
+  role/protocol ("revealed his hand" narrowed to "may have revealed a
+  preferred epistemic criterion" — excellent source discipline, not an
+  operator).
+- **Counterposition Steelmanning** → NOT "extending Reconstruction
+  Bypass" — it is a *corrective against* bypass; NOVA DIALECTICAL
+  PROTOCOL; contamination risk when the hypothetical Grant becomes
+  indistinguishable from actual Grant.
+- **Hierarchy Construction** → substantive foundationalist model, not a
+  neutral operator; untested against coherentism/pragmatism/naturalized/
+  reflective-equilibrium/reciprocal models; Idea Trail only.
+- **Consequence–Status Decoupling** → strong local correction inside
+  Foundational-Status Audit; both directions mandatory.
+- **Self-Evidence Reclassification** → SPECULATIVE DIAGNOSTIC, HEAVILY
+  QUARANTINED (unfalsifiability).
+
+**Sequence corrections (binding):** registry pathologies must never be
+written as observed fact-chains — replace "Prediction Sovereignty →
+Baseline Exemption → Symmetry Testing" with the neutral *reported
+predictive-ultimacy thesis → possible hidden foundation → reflexive
+criterion test → unresolved self-application problem*; the mutation
+chain records as disputes (axiom question → consequence dispute →
+definition dispute → criterion-authority dispute → priority dispute),
+never as demonstrated Grant pathologies.
+
+**Consolidation: 14 moves → 4 durable families:** Foundational-Status
+Audit · Bedrock and Monopoly-Promotion Audit · Priority-Relation Audit ·
+Reflexive–Genealogical Audit.
+
+**Serious profile-ready findings (pruned):** Ziggy — **bedrock
+extraction** (HIGH; restriction: apply the same descent to Ziggy's
+preferred stopping point) · **monopoly-promotion auditing** (HIGH;
+Prediction Sovereignty stays a reported target) · **dependency-order
+pressure** (MOD-HIGH; the priority relation must be named first).
+Relationship loop — *Ziggy detects possible hidden structure → Nova
+formalizes → Ziggy pushes one level deeper* (HIGH; protocol, not
+individual operator). Nova: seven thread-level findings only.
+
+**🏛️ THE RECIPROCAL BEDROCK RULE (the dig's decisive correction — no
+candidate foundation receives automatic exemption):** prediction must
+disclose how success is recognized, what makes it valuable, where its
+jurisdiction applies · logic must disclose what priority it claims and
+whether its authority is constitutive, pragmatic, foundational, or
+reciprocal · axioms must disclose why these commitments, whether
+revisable, how rivals compare · religious faith must disclose the
+specific commitment, what follows, what evidence may pressure it, and
+whether it claims private or public authority. **Eight-step comparison
+procedure filed** (define bedrock → specify priority type → identify
+what it enables → apply reflexively → test necessary vs sufficient →
+compare rival architectures → state defeaters and revision rules →
+grant only provisional jurisdiction-bound authority) — *an extraction
+synthesis, not a conclusion reached in the bounded thread.* (Companion
+to SW07's positive comparison rule.)
+
+**Conversation-level findings:** the sovereignty challenge is strong but
+does not establish Grant makes the strongest inference · the thread's
+working architecture is predominantly foundationalist — *a description
+of the conversation, not a result about epistemology* · genealogy ≠
+validity survives · **religion remains unresolved** (the four-part test
+case template filed: foundational commitment → derived claim under
+stated conditions → evidence vs baseline → revision rule).
+
+**Grant disposition:** `G-REPORTED / NOVA-RECONSTRUCTED NON-SITE` — all
+seven candidate positions (axiom / selector / accountability / public
+adjudication / truth-tracking / predictive cognition / full sovereignty)
+remain undetermined; no operator promotes.
+
+**Trails at close (6):** field desk retains IT-040…044 and adds IT-045 →
+registry assigns **IT-039…044** (off-by-one noted; IT-044 = Foundational
+Status, Consequences, and Defeasibility).
+
+**Deepest yield of the dig:**
+
+> *The strongest objection to "prediction is ultimate" is not "logic is
+> ultimate instead." It is that **every proposed bedrock — prediction,
+> logic, axioms, truth, or faith — must specify the kind of priority it
+> claims, survive reflexive application, explain its revision
+> conditions, and justify why the regress should stop there rather than
+> at its rival.***
+
+**Close-out orders (filing clerk):** trails IT-039…044 opened; lexicon
+paragraph + promotion-log row (zero promotions — aux ceiling; polarity
+reversal 6th consecutive dig); Ziggy ledgers (Bedrock Extraction HIGH;
+Monopoly-Promotion Audit 3rd instance; dependency-order pressure;
+reciprocal bedrock rule to PROFILE); engine loop 8th occurrence +
+Absent-Opponent Reconstruction to RELATIONSHIP_MAP; prediction-theme
+checklist row checked (reported ceiling); board, INDEX, timeline;
+memory updated.
 
 ---
 

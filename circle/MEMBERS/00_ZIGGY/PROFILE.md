@@ -131,6 +131,18 @@ performance, 8 steps) is the standing candidate answer to the
 architecture's accumulated debt — synthesized by the extraction, not yet
 demonstrated in use.
 
+**The reciprocal bedrock rule (AUX_07 — the regress comes home):** the
+architecture's newest instrument turns Bedrock Extraction on its own
+operator — *no candidate foundation receives automatic exemption*:
+prediction, logic, axioms, and religious faith each carry disclosure
+duties, and the eight-step comparison procedure (define bedrock → priority
+type → what it enables → reflexive application → necessary vs sufficient →
+rival architectures → defeaters → provisional jurisdiction-bound
+authority) is the companion to SW07's positive comparison rule. The
+sharpest formulation of the standing debt: *the regress was relocated, not
+eliminated* — the crown must not merely move from Grant's preferred
+foundation to Ziggy's.
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
@@ -141,7 +153,10 @@ comparative-symmetry standard before its mature form stabilized (SWEEP_04);
 **super-frame scrutiny withheld from the spiritual side** (SWEEP_06,
 confirmed A3 — the strongest Ziggy-directed omission of that packet);
 **frame recursion without a completed stopping rule** (SWEEP_06, confirmed
-A3). Candidate charter theme "over-generation / insufficient pruning" has
-not yet been directly tested — the opening research question stands.
+A3); **own foundation escaped equal reflexive pressure** (AUX_07,
+confirmed A3 — "how does prediction validate itself?" was asked; "how does
+logic validate itself? why must axioms be first?" were not). Candidate
+charter theme "over-generation / insufficient pruning" has not yet been
+directly tested — the opening research question stands.
 
 *(Formal sections B–L still await Phase 2; this ledger feeds them.)*

@@ -406,6 +406,41 @@ not in-source): *explanatory authority allocated by claim-sensitive
 comparative performance, never inherited prestige* — 8-step procedure
 filed in the workbook's Stage-4 block.
 
+From DIG_AUX_07 (**aux dig — zero promotions; four durable families**):
+**Bedrock Extraction** (Ziggy's strongest local candidate: stated
+criterion → what makes it possible → what grants authority → where does
+the chain stop; danger clause permanent: *backtrack through the rival →
+stop at the preferred foundation → declare it ultimate* — rigorous only
+when the stopping point takes the same pressure) ·
+**Foundational-Status Audit** (six axiom senses; consequence–status
+decoupling in both directions) · **Monopoly-Promotion Audit** gains its
+3rd sweep-level instance (Function-to-Ultimacy form) ·
+**Priority-Relation Audit** (six priority types — conceptual /
+psychological / evolutionary / computational / justificatory /
+metaphysical; the mixed answer beats any ladder) ·
+**Reflexive–Genealogical Audit** (Reflexive Criterion Testing = cleanest
+Symmetry-Testing match, with the crown-transfer guard: the same
+questions owed to logic, axioms, and foundationalism; Origin ≠ Validity
+blocks the genetic fallacy while naturalized epistemology stays live).
+Instruments filed: **G1–G6 Grant-thesis ladder** (only G6 = epistemic
+monarch — the Zero-Pipeline hypothesis's target thesis, undetermined) ·
+**reciprocal bedrock rule** + 8-step comparison procedure (extraction
+synthesis; companion to SW07's positive comparison rule) · six-step
+religious test case (registered, never run). Nova role/protocol:
+Strong-Claim Moderation; Counterposition Steelmanning (a *corrective
+against* Reconstruction Bypass — contamination risk when the steelman
+becomes indistinguishable from Grant). Rejected mappings (polarity
+reversal, 6th consecutive dig): Foundational Backtracking ≠ Symmetry
+Testing primary; Criterion–Value ≠ Baseline Exemption; Hidden Premise ≠
+Baseline Exemption; Function-to-Ultimacy ≠ UEJ match; Hierarchy
+Construction = foundationalist model, not neutral operator;
+Self-Evidence Reclassification HEAVILY QUARANTINED (unfalsifiable).
+**Sequence rule (binding):** registry pathologies are never written as
+observed fact-chains — disputes, not demonstrated Grant pathologies.
+**A2 case law (3rd tier refinement):** A2 reserved for moves explicitly
+requested, offered, or placed directly before the participant and left
+undone.
+
 From DIG_AUX_06 (**micro-dig — zero promotions; Nova thread-level only**):
 three Nova reasoning sequences held at thread level — **Encoding–Recovery
 Reframing** (encoded ≠ recovered; recipient conditions inserted; variance
@@ -480,5 +515,6 @@ therefore carries a Museum ID.
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_04) | **Third consecutive zero-promotion sweep.** Three serious candidates queued (Master-Value Extraction, HIGH; Instrument–Telos Separation, 3rd reinforcement; Reflexive Audit with Operational Closure, shared protocol). Rejected/corrected mappings: Regress Descent ≠ OP-008 (audit vs symmetry-across-audits); jurisdiction-check polarity re-fixed (corrective test, not CO-002); belief persistence ≠ Possibility Preservation; adversarial relay ≠ CO-006 extension (simulation ≠ reconstruction of Grant); pre-propositional descent ≠ CO-003 (no gate evidenced); external-model phrasings attributed by adoption sequence. Grant: experience-report ceiling only | Field-desk Stage-4 handoff, COMPOUND_SWEEP_04 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_05) | **Fourth consecutive zero-promotion sweep.** Three HIGH candidates queued (Monopoly-Promotion Audit — the packet's strongest; Claimed-Source/Claimed-Access Separation; Operative-Rigidity Test). 22 blind moves consolidated into 5 families; **Detector–Pathology Polarity Reversal recorded as candidate Failure-Atlas seed (3rd sweep running)** — five corrective audits blind-mapped to the pathologies they detect, all corrected; Adverse-Odds Commitment Test quarantined (marriage example = individualized prediction, not override); Curtain Question = shortcut inside Master-Value Extraction, not validated detector; Symmetric-Wielding → procedural ledger. Grant: REPORTED-ONLY NON-SITE — which of five prediction theses he holds is undeterminable | Field-desk Stage-4 handoff, COMPOUND_SWEEP_05 |
 | 2026-07-17 | (micro-dig close, DIG_AUX_06) | **Zero promotions — micro-dig ceiling enforced.** Ziggy NONE, Grant NONE (exchange-level argument forms only), Nova thread-level (3 sequences: Encoding–Recovery Reframing; Symbolic-Function Reconstruction; Projection-Constraint Escalation). Stage-4 overpromotion corrected: ordinary hypothesis evaluation and single-response substeps are not operators. **Falsifiability Debt of the Compression Model** = theory-level finding. Deepest yield: claim-strength ladder (possible ≠ reliable ≠ important ≠ principal); "a theory that explains every reading as decompression risks explaining no reading at all" | Field-desk Stage-4 handoff, DIG_AUX_06 |
+| 2026-07-17 | (aux close, DIG_AUX_07) | **Zero promotions — aux ceiling.** Four durable families (Foundational-Status; Bedrock + Monopoly-Promotion, 3rd instance; Priority-Relation; Reflexive–Genealogical). **Polarity reversal 6th consecutive dig**; **A2 discipline tightened (3rd availability-tier refinement — protocol case law)**; regress relocated-not-eliminated ruling; reciprocal bedrock rule + G1–G6 ladder + six-step religious test case filed as instruments; Nova steelman never G-REPORTED (Absent-Opponent Reconstruction = highest attribution risk on record). Grant: G-REPORTED/NOVA-RECONSTRUCTED NON-SITE | Field-desk Stage-4 handoff, DIG_AUX_07 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_07) | **Sixth consecutive zero-promotion sweep.** Four durable families (Monopoly-Promotion/Telos 2nd instance; Shannon–Semantic Layer; Substrate–Explanatory-Level; Narrative-Transmission Fit) + 2 research frameworks quarantined outside the registry (Decoder Installation — blocked by the archive's first A2 against a favored theory; Mythic Distributional Prediction). **Polarity reversal 5th consecutive sweep** + generic-move inflation named (Category Separation, Analogy Transfer = toolkit, never operators). Formal-authority residue = named source-quality hazard (IT-038). The positive comparison rule synthesized (claim-sensitive comparative performance). Grant: G-REPORTED/G-ANTICIPATED NON-SITE | Field-desk Stage-4 handoff, COMPOUND_SWEEP_07 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_06) | **Fifth consecutive zero-promotion sweep.** Three HIGH candidates queued (Adjudication-Frame Audit; Observer-State/Shared-World Audit; Claim-Type/Method-Fit Audit — domain-immunity safeguard attached). 14 blind moves → 5 families; **Detector–Pathology Polarity Reversal strikes a 4th consecutive sweep** (Domain-Fit ≠ UEJ match; Evidence-Type Reclassification ≠ GAR; Inferential Bridge ≠ Contest-to-Defeat extension; Local-to-Global ≠ Possibility Preservation) — Failure-Atlas seed reinforced; Jurisdiction Escalation cleared of evasion reading; stopping-rule correction + balance point filed permanent; engine-loop family gains intuition→formalization→stress-test→revision occurrence. Grant: REPORTED/RECONSTRUCTED NON-SITE (six candidate conclusions undetermined) | Field-desk Stage-4 handoff, COMPOUND_SWEEP_06 |
