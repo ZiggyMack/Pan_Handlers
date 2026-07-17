@@ -55,11 +55,15 @@
 an empty evidence slot; nothing in his profile can rise above `INFERRED`, and several
 claims are honestly `UNKNOWN`.
 
-The ingestion pipeline now exists: carry `CHAT_EXTRACTION_PROTOCOL.md` (Nova, v0.1)
-into the high-yield old threads, file packets in `evidence/chat_extractions/`
-(9 targets listed there), then promote PROFILE-READY CLAIMS into
-`MEMBERS/01_GRANT/SOURCE_INDEX.md` per protocol §XV. The bottleneck is now
-**running the digs**, not designing them.
+The ingestion pipeline now exists at **v0.2** (field-tested: v0.1's single-paste
+form produced an instrument critique instead of an extraction — mode-control
+failure, fixed with staged execution + a mandatory execution wrapper). Run the
+four stage commands of `CHAT_EXTRACTION_PROTOCOL.md` one at a time in the
+high-yield old threads, file packets in `evidence/chat_extractions/` (9 targets
+listed there), then promote Stage-4 PROFILE-READY CLAIMS into
+`MEMBERS/01_GRANT/SOURCE_INDEX.md` per the protocol's Archive Integration rules.
+The bottleneck is now **running the digs**, not designing them. Dig #1: the
+CFA-zero thread.
 
 ---
 

@@ -12,8 +12,10 @@
 
 **Ziggy's ruling:** *"It all goes. We are not focusing on personal information —
 we are focusing on ideas. All members gave consent to share their ideas."*
-Consent basis is recorded in [`CONSENT_LEDGER.md`](CONSENT_LEDGER.md) with the
-archive's own source discipline (reported consent, upgradeable to direct).
+Consent basis is recorded in [`CONSENT_REGISTER.md`](CONSENT_REGISTER.md) with the
+archive's own source discipline (reported consent, upgradeable to direct), per
+Nova's register spec: member/handle · consent status · permitted scope · date
+recorded · correction/response mechanism.
 
 `ZiggyMack/Pan_Handlers` is a public GitHub repository, so the whole `circle/`
 archive is published. The protection therefore moves from the **repo boundary**
@@ -77,6 +79,10 @@ Two disciplines survive the public turn **unchanged**:
 - Permit revision — profiles version forward; superseded versions archive, they
   don't vanish.
 - Document who made each inference — observer attribution on every claim.
+- Anchor direct quotes — a quotation without a reliable, recoverable source
+  anchor (speaker + recoverable wording + location) is not archive-grade;
+  paraphrase it and label the paraphrase instead. Reported speech stays marked
+  as reported.
 - Distinguish descriptive models from moral judgments — "uses CO-004" is a
   description of a move, never a verdict on a person.
 
@@ -114,3 +120,4 @@ same gravity as changing `PROFILE_SCHEMA.md`.
 | ------ | -------- | ----- |
 | 2026-07-16 | Initial contract (restricted-by-default posture) | Ziggy + P.H. Claude (Fable 5) |
 | 2026-07-16 | **Publication decision: archive is public.** §1–2 rewritten from repo-boundary protection to content-boundary protection; consent ledger added. | Ziggy (decision); filed by P.H. Claude |
+| 2026-07-16 | Consent ledger upgraded to `CONSENT_REGISTER.md` (Nova's spec: + permitted scope, + response mechanism); quote-anchor rule added to §4. | Nova (spec); filed by P.H. Claude |

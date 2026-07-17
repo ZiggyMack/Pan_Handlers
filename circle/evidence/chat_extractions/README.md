@@ -18,8 +18,12 @@
 - One packet per source chat: `<subject-or-topic>_<slug>_<YYYY-MM>.md`
   (e.g., `grant_cfa_zero_2026-07.md`, `ziggy_possibility_preservation_2026-06.md`).
   The date is the *source chat's* approximate date, not the extraction date.
+- A packet contains **all four stage outputs** (v0.2 staged execution), unedited,
+  under a header recording chat title, date, participants, extractor model,
+  protocol version, and dig operator. A packet missing a stage is not promotable.
 - Packets are **staging, not citation targets**. Profiles cite `SOURCE_INDEX.md`
-  entries, which in turn point at packet excerpts (promotion rules: protocol §XV).
+  entries, which in turn point at packet excerpts (promotion rules: the
+  protocol's Archive Integration section).
 - QUARANTINED CLAIMS never leave their packet until corroborated by another packet.
 - A packet is a `DETAILED NOTES`-fidelity source about the chat unless it carries
   verbatim quotes — quoted spans are `TRANSCRIPT`-fidelity for the words quoted.
@@ -40,4 +44,7 @@
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**
-(the integration chamber) and run the cross-packet questions from protocol §XV.
+(the integration chamber) and run the cross-packet questions: which operators
+recur across independent contexts; which appear only on offense; which are
+actually Nova's language imposed on Grant; which survive counterexample search;
+how Ziggy's own position has changed.

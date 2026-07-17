@@ -28,12 +28,19 @@ record the OP-### link in its entry. Human-circle rediscovery of a Museum operat
 is evidence for *both* registries. (Precedent: the Dirac dig showed an architecture
 can be defined by an operator it *omits* — see CO-006.)
 
+**Priming guard (v0.2):** chat extraction runs **Museum-blind** — Stage 2 of
+`CHAT_EXTRACTION_PROTOCOL.md` extracts moves under provisional neutral names, and
+CO/OP candidate names only enter at Stage 4 mapping. A blind rediscovery of a
+named operator is stronger evidence than a primed match, and gets flagged as such
+in the promotion log.
+
 ---
 
 ## Entry Format
 
 ```markdown
 ### CO-0XX · Operator Name  [STATUS]
+
 - **Definition:** one sentence, no member names in the definition itself
 - **Proposed by / first observed in:** observer + member + date
 - **Typical trigger:** the situation that evokes it
@@ -51,6 +58,7 @@ can be defined by an operator it *omits* — see CO-006.)
 ## Registry
 
 ### CO-001 · Prediction Sovereignty  [🔴 RED]
+
 - **Definition:** Predictive success functions as the highest or final epistemic authority, through which all other forms of success must justify themselves.
 - **Proposed by:** Ziggy (Grant pilot hypothesis, 2026-07-16)
 - **Typical trigger:** evaluation of a framework's overall worth.
@@ -63,6 +71,7 @@ can be defined by an operator it *omits* — see CO-006.)
 - **Key open question:** one excellent metric, or the court of final appeal? (Grant validation Q7: what would falsify it?)
 
 ### CO-002 · Universalized Evaluative Jurisdiction  [🔴 RED]
+
 - **Definition:** A standard developed for one class of inquiry is extended into domains where its authority has not been established.
 - **Proposed by:** Ziggy (Grant pilot hypothesis, 2026-07-16)
 - **Typical trigger:** a framework from an alien domain presents itself for evaluation.
@@ -74,6 +83,7 @@ can be defined by an operator it *omits* — see CO-006.)
 - **Instantiated in:** `MEMBERS/01_GRANT/OPERATOR_MAP.md`
 
 ### CO-003 · Generative Admission Restriction  [🔴 RED]
+
 - **Definition:** Certain sources (revelation, religious experience, narrative coherence, tradition, metaphysical intuition, first-person experience, symbolic/mythic compression) are denied authority to *generate* serious candidate hypotheses before evaluation begins.
 - **Proposed by:** Ziggy (Grant pilot hypothesis, 2026-07-16)
 - **Typical trigger:** a hypothesis arrives via a non-admitted generator.
@@ -85,6 +95,7 @@ can be defined by an operator it *omits* — see CO-006.)
 - **Instantiated in:** `MEMBERS/01_GRANT/OPERATOR_MAP.md`
 
 ### CO-004 · Unmeasured-to-Zero Conversion  [🔴 RED]
+
 - **Definition:** Failure to demonstrate success under the selected instrument is converted into a score of zero, rather than unknown / outside jurisdiction / untested / weakly evidenced / not measured by this instrument.
 - **Proposed by:** Ziggy (Grant pilot hypothesis, 2026-07-16)
 - **Typical trigger:** a framework offers no demonstration legible to the active metric.
@@ -96,6 +107,7 @@ can be defined by an operator it *omits* — see CO-006.)
 - **Instantiated in:** `MEMBERS/01_GRANT/OPERATOR_MAP.md`
 
 ### CO-005 · Possibility Compression  [🔴 RED]
+
 - **Definition:** Possibilities below a plausibility or evidential threshold are treated as functionally irrelevant — the ladder (logically possible / epistemically possible / plausible / probable / supported) collapses to (likely / not worth considering).
 - **Proposed by:** Ziggy (Grant pilot hypothesis, 2026-07-16)
 - **Typical trigger:** exploratory discussion drifting toward low-plausibility regions.
@@ -107,6 +119,7 @@ can be defined by an operator it *omits* — see CO-006.)
 - **Instantiated in:** `MEMBERS/01_GRANT/OPERATOR_MAP.md`
 
 ### CO-006 · Reconstruction Bypass  [🔴 RED]
+
 - **Definition:** Evaluation begins before the framework has been reconstructed according to its own aims, ontology, and internal success conditions.
 - **Proposed by:** Ziggy (Grant pilot hypothesis, 2026-07-16) — **explicitly not yet established**; must be tested against cases where the member reconstructed opposing views carefully (Grant validation Q9).
 - **Typical trigger:** framework evaluation under debate conditions.
@@ -118,6 +131,7 @@ can be defined by an operator it *omits* — see CO-006.)
 - **Instantiated in:** `MEMBERS/01_GRANT/OPERATOR_MAP.md`
 
 ### CO-007 · Baseline Exemption  [🔴 RED]
+
 - **Definition:** The preferred standard is treated as the neutral baseline rather than as a framework containing its own assumptions and value commitments, producing an asymmetric burden: alternatives must justify their axioms while the baseline evaluates without equivalent exposure.
 - **Proposed by:** Ziggy (Grant pilot hypothesis, 2026-07-16)
 - **Typical trigger:** any cross-framework comparison.
@@ -128,6 +142,7 @@ can be defined by an operator it *omits* — see CO-006.)
 - **Instantiated in:** `MEMBERS/01_GRANT/OPERATOR_MAP.md`
 
 ### CO-008 · Contest-to-Defeat Compression  [🔴 RED]
+
 - **Definition:** A successfully raised objection or unresolved challenge is treated as stronger evidence of defeat than the dialectical situation warrants.
 - **Proposed by:** Ziggy (Grant pilot hypothesis, 2026-07-16)
 - **Typical trigger:** an objection lands and goes unanswered within the session.

@@ -30,6 +30,12 @@ standards conflict, and which pairings generate new ideas.
    other, and which reframings have historically repaired it.
 7. **Trust and repair history** — ruptures and the mechanisms that mended them
    (intellectual dynamics only; no gossip — `ETHICS_AND_CONSENT.md` §3).
+8. **Relationship-level operator ledger** (v0.2 addition) — interaction loops
+   owned by a *pair*, not a person: recurring two-actor patterns (challenge→
+   reframe→escalate→repair, etc.) that neither member exhibits alone. Fed
+   directly by Stage-2 output 5 ("Relationship-Level Loops") of
+   `CHAT_EXTRACTION_PROTOCOL.md`. These are never converted into individual
+   operator attributions.
 
 ## Entry Discipline
 

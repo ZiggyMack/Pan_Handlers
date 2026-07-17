@@ -45,12 +45,15 @@ A source entry records: ID, date, medium (chat / voice / debate thread / doc),
 location or excerpt, and which claims cite it.
 
 Raw evidence from past chats arrives via extraction packets
-(`CHAT_EXTRACTION_PROTOCOL.md` → `evidence/chat_extractions/`). Packets use their
-own six-way source-discipline labels (G-DIRECT, G-REPORTED, Z-DIRECT,
-NOVA-INTERPRETATION, CO-CONSTRUCTED, UNCLEAR); the mapping into this schema's
-labels happens **only at promotion time**, per the table in protocol §XV.
-Key rule inherited from that table: reported speech is `DIRECT` about the
-reporter, at most `INFERRED` about the person reported.
+(`CHAT_EXTRACTION_PROTOCOL.md` v0.2, four staged executions →
+`evidence/chat_extractions/`). Packets use their own six-way source-discipline
+labels (G-DIRECT, G-REPORTED, Z-DIRECT, NOVA-INTERPRETATION, CO-CONSTRUCTED,
+UNCLEAR); the mapping into this schema's labels happens **only at promotion
+time**, per the protocol's Archive Integration table. Key rules inherited from
+there: reported speech is `DIRECT` about the reporter, at most `INFERRED` about
+the person reported; and operator attributions carry Functional Type +
+Voluntariness — `PROTOCOL-INDUCED` / `PROMPT-INDUCED` evidence describes the
+situation, never the person's architecture.
 
 ## 3. Position vs Operator (never blur these)
 

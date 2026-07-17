@@ -58,7 +58,9 @@ circle/
 ├── OPERATOR_LEXICON.md    ← shared vocabulary of cognitive operators
 ├── RELATIONSHIP_MAP.md    ← Phase 4: operator-meets-operator dynamics
 ├── ETHICS_AND_CONSENT.md  ← safeguards, member rights, publication gate
-├── CHAT_EXTRACTION_PROTOCOL.md ← the dig script for mining past chats (Nova, v0.1)
+├── CHAT_EXTRACTION_PROTOCOL.md ← the dig instrument (v0.2 ACTIVE — staged execution)
+├── CHAT_EXTRACTION_PROTOCOL_v0.1.md ← superseded original, kept as provenance
+├── CONSENT_REGISTER.md    ← consent basis for the public archive (per-member scope)
 ├── evidence/
 │   └── chat_extractions/  ← extraction packets from old-chat digs (staging, most restricted)
 ├── IDEA_TRAILS/           ← cross-member idea lineage registry
@@ -76,10 +78,12 @@ circle/
 - **Adding a claim about a member** → it goes in their folder, with a confidence
   label and a source link into their `SOURCE_INDEX.md`. No source, no claim above
   `INFERRED`.
-- **Mining a past chat** → carry `CHAT_EXTRACTION_PROTOCOL.md` into the old
-  thread (old chat = excavation; fresh thread = synthesis). File the packet in
-  `evidence/chat_extractions/`; only PROFILE-READY CLAIMS promote into profiles,
-  via the label mapping in protocol §XV. Cross-chat recurrence earns promotion.
+- **Mining a past chat** → use `CHAT_EXTRACTION_PROTOCOL.md` v0.2: send its four
+  stage commands **one at a time, each with the execution wrapper** — never the
+  whole protocol at once (old chat = excavation; fresh thread = synthesis). File
+  the packet in `evidence/chat_extractions/`; only Stage-4 PROFILE-READY CLAIMS
+  promote into profiles, via the protocol's Archive Integration rules.
+  Cross-chat recurrence earns promotion.
 - **Naming a new operator** → define it in `OPERATOR_LEXICON.md` first (status:
   CANDIDATE), then instantiate it in the member's `OPERATOR_MAP.md` with evidence.
   Operators are shared vocabulary, not member property.
@@ -97,7 +101,7 @@ circle/
 
 By Ziggy's decision (2026-07-16), the whole archive is public: *"we are not
 focusing on personal information — we are focusing on ideas; all members gave
-consent to share their ideas"* (basis: [`CONSENT_LEDGER.md`](CONSENT_LEDGER.md)).
+consent to share their ideas"* (basis: [`CONSENT_REGISTER.md`](CONSENT_REGISTER.md)).
 The protection is the **content boundary**, enforced at ingestion: sensitive
 personal, non-reasoning material never enters the archive at all. Read
 [`ETHICS_AND_CONSENT.md`](ETHICS_AND_CONSENT.md) §2–3 before adding member content.
