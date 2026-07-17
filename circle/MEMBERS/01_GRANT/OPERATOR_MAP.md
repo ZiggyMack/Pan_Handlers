@@ -17,9 +17,9 @@
 > is itself the current finding.** Grant is a *reported epistemic-standard
 > advocate*, not a "gatekeeper." Definitions: `../../OPERATOR_LEXICON.md`.
 
-## D0. ⭐ Packet-Local G-DIRECT Ledger (SWEEP_12 + SWEEP_13 — direct entries)
+## D0. ⭐ Packet-Local G-DIRECT Ledger (SWEEP_12 + SWEEP_13 + SWEEP_14 — direct entries)
 
-> Narrow local positions from G-002's and G-003's screenshots; the QC
+> Narrow local positions from G-002/G-003/G-004's screenshots; the QC
 > restriction binds: *no broad personality trait promotes from one
 > packet*, and completed audit families ≠ demonstrated actor operators.
 
@@ -30,6 +30,9 @@
 | **Pattern Evidence About the Accuser** | G-DIRECT (G-002) · HIGH that the move was made | Gavin's reported history treated as a differentiator bearing on the *accuser's process*, never the accused's traits; the pattern's truth and interpretation unresolved |
 | **Historical Attribution Testing** | G-DIRECT (G-003) · HIGH locally | the alleged Hume "second definition" of faith challenged head-on — conceded, synthesis re-filed CO-CONSTRUCTED; the aftermath is guarded by the authority-laundering caution (IT-099) |
 | **Definitional Extension Stress Testing** | G-DIRECT (G-003) · HIGH locally | the son-height prediction (with spoiled milk) as an extension test of faith-as-uncertain-action — a legitimate overbreadth probe; whether the repair it forced was principled or ad hoc stays UNKNOWN (IT-093) |
+| **Dichotomy Repair** | G-DIRECT-SCREENSHOT (G-004) · HIGH for the instance | one-time, consequential: conscious linear deduction vs supernatural revelation is a false binary — unconscious cognition, embodied learning, and cumulative experimentation occupy the middle; ruled *potentially legitimate*; never a stable operator from one instance (IT-104/105) |
+| **Conditional Cognitive-Mechanism Concession** | G-DIRECT-SCREENSHOT (G-004) · HIGH locally | accepts cognition outside explicit conscious reasoning once the terms are narrowed — a genuine concession, not containment; local *Cognitive-Mechanism Reframing* is the only mechanism-side finding that survives (naturalizing operator QUARANTINED) |
+| **AI-Authorship Trust Calibration** | G-DIRECT-SCREENSHOT (G-004) · HIGH for the interaction | asks about AI influence, then ⭐ *positively* distinguishes Ziggy's integrated tool use from unfiltered AI output — a successful dyadic trust protocol (relationship ledger); any credibility-attack reading QUARANTINED |
 
 *Also filed from SWEEP_13 at **G-REPORTED** (reported ceiling — not part
 of this direct ledger): terminological restraint concerning "faith" —

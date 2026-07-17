@@ -406,6 +406,66 @@ not in-source): *explanatory authority allocated by claim-sensitive
 comparative performance, never inherited prestige* — 8-step procedure
 filed in the workbook's Stage-4 block.
 
+From COMPOUND_SWEEP_14 (**eight dig-level audit families — zero
+promotions, 13th consecutive sweep; ⭐ third G-DIRECT packet; closed
+through TWO full self-correction cycles — the archive's fifth and
+sixth — the second consecutive double-cycle dig**):
+**Protection–Defense and Loss-Condition Audit** (the originating
+family — *dropped three times*: omitted by the extractor at Stage 2,
+missing from Stage 3's omission audit, unmapped at Stage 4; restored
+each time by the field desk; Ziggy's direct seed = the
+protection/defense distinction; the completed loss-condition audit —
+reachable defeaters, revision conditions, principled-vs-post-threat,
+reciprocal repairs — stays A1, never back-attributed) · **Frame
+Coherence–Truth–Compatibility Audit** (*internally coherent ≠ true ≠
+equally warranted ≠ socially compatible*; "A+" never definitionally
+frozen — confirmed A3) · **Frame-Jurisdiction and Exclusivity Audit**
+(**COUNTER-OPERATION to Universalized Evaluative Jurisdiction — never
+MATCHES/EXTENDS it**; alternative reading owed: exclusivity may be
+*entailed* by truth conditions, not added protectively) ·
+**Meaning–Intent and Interpretation Audit** (eight-rung evidence
+ladder; *words don't exhaust meaning ≠ words cease to constrain it*;
+anticipated recognition < speaker confirmation; the toy-chest
+non-calibration = confirmed A3) · **Description–Meaning and
+Implication-Propagation Audit** (Perceived Significance Compression =
+submove naming *Ziggy's assessment*, never a Grant diagnosis;
+Possibility Compression = possible diagnostic target only) ·
+**Mechanism–Source–Ontology Audit** (*mechanism doesn't settle
+ontology* AND *non-exclusion isn't positive support* — confirmed
+A3-09, partly repaired in-thread; the interface hypothesis owes its
+own failure condition) · **Trust–Coexistence–Harm Boundary Audit**
+(*trust ≠ agreement ≠ validation; procedural honesty ≠ moral safety;
+coexistence ≠ unrestricted access*; harmful-frame thresholds = A1) ·
+**Moral Bridge–Critique–Authority Audit** (internal / external /
+metanormative critique three-way; **Metaethical Jurisdiction Probe**
+— EXTENDS Symmetry Testing of Standards *conditionally*, relocates
+the dispute, never answers the first-order allegation; *burden
+symmetry ≠ equal warrant*). Case law: **extraction products are never
+actor evidence** (Stage-2/3 commentary defines audit architecture,
+never actor behavior) · **INVERSE-OPERATION MAPPING named as a
+Stage-4 error class** (detecting or auditing against an operation
+mapped as performing it — the polarity-reversal Failure-Atlas seed's
+clearest mapping-level instance, 10+ digs running) · SW13's tier case
+law applied cross-dig (symmetrical burden ≠ literal role reversal;
+neighboring operations ≠ the operation). Extractor "profile-ready"
+tier filed as queue candidates under plow-through: 3 named matches
+(Symmetry Testing of Standards; **Possibility Preservation — 4th
+instance, narrowed MODERATE-HIGH wording**; Cross-Disciplinary
+Swooping) + 6 new candidates (Coherence–Selection Separation;
+Foundation Descent; Normative Bridge Exposure; Frame-Jurisdiction and
+Exclusivity Audit; Reconstruction-First Signal Recovery;
+Mechanism–Source Non-Collapse) + the Protection-vs-Defense seed.
+Tier walls enforced: Frame Mapper = ROLE; balance/underdog = VALUE;
+chosen Christian commitment = EXISTENTIAL POSITION (none Museum-
+mappable); Dichotomy Repair and Intention-Hinge Testing = one-time
+moves; Authorship Transparency Calibration = dyadic protocol;
+Formulation Intensification / Validation-First Expansion = Nova role
+behaviors. Grant: **local Cognitive-Mechanism Reframing only** — all
+eight negative candidates withheld PLUS naturalizing-operator/
+containment/closure quarantined; ⭐ the AI-authorship exchange closed
+as *positive trust calibration*. Final ledger: **9 confirmed A3 · 0
+A2 · 15 possible A1**. 8 trails (IT-102…109).
+
 From COMPOUND_SWEEP_13 (**seven dig-level audit families + one
 auxiliary — zero promotions, 12th consecutive sweep; ⭐ second G-DIRECT
 packet; closed through TWO full self-correction cycles — the archive's
@@ -699,6 +759,7 @@ therefore carries a Museum ID.
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_04) | **Third consecutive zero-promotion sweep.** Three serious candidates queued (Master-Value Extraction, HIGH; Instrument–Telos Separation, 3rd reinforcement; Reflexive Audit with Operational Closure, shared protocol). Rejected/corrected mappings: Regress Descent ≠ OP-008 (audit vs symmetry-across-audits); jurisdiction-check polarity re-fixed (corrective test, not CO-002); belief persistence ≠ Possibility Preservation; adversarial relay ≠ CO-006 extension (simulation ≠ reconstruction of Grant); pre-propositional descent ≠ CO-003 (no gate evidenced); external-model phrasings attributed by adoption sequence. Grant: experience-report ceiling only | Field-desk Stage-4 handoff, COMPOUND_SWEEP_04 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_05) | **Fourth consecutive zero-promotion sweep.** Three HIGH candidates queued (Monopoly-Promotion Audit — the packet's strongest; Claimed-Source/Claimed-Access Separation; Operative-Rigidity Test). 22 blind moves consolidated into 5 families; **Detector–Pathology Polarity Reversal recorded as candidate Failure-Atlas seed (3rd sweep running)** — five corrective audits blind-mapped to the pathologies they detect, all corrected; Adverse-Odds Commitment Test quarantined (marriage example = individualized prediction, not override); Curtain Question = shortcut inside Master-Value Extraction, not validated detector; Symmetric-Wielding → procedural ledger. Grant: REPORTED-ONLY NON-SITE — which of five prediction theses he holds is undeterminable | Field-desk Stage-4 handoff, COMPOUND_SWEEP_05 |
 | 2026-07-17 | (micro-dig close, DIG_AUX_06) | **Zero promotions — micro-dig ceiling enforced.** Ziggy NONE, Grant NONE (exchange-level argument forms only), Nova thread-level (3 sequences: Encoding–Recovery Reframing; Symbolic-Function Reconstruction; Projection-Constraint Escalation). Stage-4 overpromotion corrected: ordinary hypothesis evaluation and single-response substeps are not operators. **Falsifiability Debt of the Compression Model** = theory-level finding. Deepest yield: claim-strength ladder (possible ≠ reliable ≠ important ≠ principal); "a theory that explains every reading as decompression risks explaining no reading at all" | Field-desk Stage-4 handoff, DIG_AUX_06 |
+| 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_14) | **Thirteenth consecutive zero-promotion sweep — closed through TWO full self-correction cycles (the archive's fifth and sixth; second consecutive double-cycle dig).** Stage 3: availability-tier repair (reverse-role and coherence/truth A3→A1 via SW13's case law; possibility-vs-support A1→A3; **new case law: extraction products are never actor evidence**) + QC with two scope corrections (self-application ≠ comparative bridge evaluation ≠ revision architecture; role/value/existential material never auto-maps to operators). Stage 4: architecture/mapping repair — the originating Protection–Defense family restored after its THIRD disappearance; **INVERSE-OPERATION MAPPING named as an error class** (Ziggy's jurisdiction auditing mapped as EXTENDING Universalized Evaluative Jurisdiction — corrected to COUNTER-OPERATION; detecting ≠ performing, likewise for Possibility Compression); Metaethical Jurisdiction Probe label restored; Possibility Preservation narrowed (4th instance, MODERATE-HIGH). Final acceptance: 8 families · 9 A3 · 0 A2 · 15 A1. ⭐ **G-004 = third G-DIRECT Grant source** (dichotomy repair; conditional concession; positive AI-authorship calibration) — local Cognitive-Mechanism Reframing only, naturalizing operator QUARANTINED. Extractor "profile-ready" tier filed as queue candidates only (plow-through). 8 trails (IT-102…109) | Field-desk repair orders + availability-tier repair command + completion patch + final acceptance, COMPOUND_SWEEP_14 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_13) | **Twelfth consecutive zero-promotion sweep — closed through TWO full self-correction cycles (the archive's third and fourth) plus a final targeted tier-ledger correction (new closure pattern: targeted archival correction without full reissue).** Stage 3's "no A3 omissions found" ruled materially wrong (**5th tier case-law refinement:** A3 requires no explicit request — that is A2's criterion); QC added the **6th:** *performing neighboring operations ≠ performing the operation* (A3-10 → A1). Stage 4's completion patch struck "Profile-ready new families" (**completed audit architecture ≠ demonstrated actor behavior**) and corrected two carried-forward tier reversals (Families 6 and 7 narrowed to demonstrated cores). Final tier-ledger correction re-filed six A3s wrongly listed as A1 and ruled **Grant's God-classification A0/UNKNOWN — unknown facts about an actor are never omissions**. ⭐ **G-003 = second G-DIRECT Grant source** (Hume-attribution challenge; son-height extension test); all eight Grant negative candidates withheld; **Possibility Preservation = strongest named registry match (3rd instance)**; Universalization Pressure = NO MATCH to Symmetry Testing (structurally adjacent). Seven dig-level audit families + aux; final ledger 10 A3 / 0 A2 / 8 A1. 9 trails (IT-093…101) | Field-desk repair order + availability-repair command + completion patch + tier-ledger correction + final acceptance, COMPOUND_SWEEP_13 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_12) | **Eleventh consecutive zero-promotion sweep — closed through the SECOND full self-correction cycle** (repair order → correction command → **registry-completion patch**, new case law: a correction prompt that displaces the standard Stage-4 prompt loses the candidate registry and blocks blind-to-named mapping → patch pattern established). ⭐ **G-002 = first G-DIRECT Grant source**; 3 Grant packet-local seeds (contemporaneous-basis; individualized-evidence; accuser-pattern) — *disciplined epistemic standards, not pathologies*; **Threshold-to-Character Escalation QUARANTINED** (unjustified→lying NOT established). Twelve confirmed A3s; **A0 tier ruling** (historical examples outside the bounded corpus); Reconstruction Bypass refined MATCHES→EXTENDS (argument-level); **new archive-wide restriction: omission-derived completion requirements ≠ demonstrated actor behavior**. Seven dig-level families; Ziggy role behavior: Salvager–Synthesizer. 9 trails (IT-084…092) | Field-desk repair order + registry patch + final QC, COMPOUND_SWEEP_12 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_11) | **Tenth consecutive zero-promotion sweep — and the protocol's first full self-correction cycle**: the Stage-3 omission audit ("no A3/A2") failed the availability test → repair order (Stage 4 blocked) → field-desk correction command → corrected Stage 4 with internal Stage-3 repair → final QC PASS (two minor wording overlays: dig-level families ≠ actor traits; brute psychophysical laws legitimate with honest cost). **A3 case law 4th refinement** (later use establishes availability; system vs actor coding). Eight confirmed A3s restored; six durable dig-level families; opponent UNNAMED (ledger renamed); Aquinas aux-quarantined. 11 trails (IT-073…083) | Field-desk repair order + QC handoff, COMPOUND_SWEEP_11 |

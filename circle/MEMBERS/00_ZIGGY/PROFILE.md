@@ -219,6 +219,29 @@ narrow and real: *evidence and credence do not by themselves determine
 action* — with the label question (what extra explanatory work does
 "faith" do?) left open where it belongs (IT-095/IT-100).
 
+**The protection-and-frames layer (SWEEP_14 — the architecture gets
+its loss-condition test):** the packet's originating move is Ziggy's
+own protection-vs-defense distinction — *defense exposes a position to
+possible failure; protection makes loss unreachable* — and the sweep
+turns that instrument back on the whole toolkit. Six queue candidates
+at the extractor's "profile-ready" tier (coherence–selection
+separation; foundation descent; normative bridge exposure;
+frame-jurisdiction and exclusivity audit — ruled a
+**counter-operation** to Universalized Evaluative Jurisdiction, never
+its performance; reconstruction-first signal recovery;
+mechanism–source non-collapse), plus **Possibility Preservation's 4th
+instance** at its new narrowed, MODERATE-HIGH wording. Three directly
+evidenced items fixed at their proper tier — **Frame Mapper role,
+balance/underdog value orientation, chosen Christian commitment
+(existential position)** — none an operator, none Museum-mappable.
+The reciprocal discipline is the layer's signature: *Grant's
+narrowing cannot be called containment without reachable evidence,
+while Ziggy's preserved metaphysical openness cannot count as support
+unless it accepts discriminating evidence and reachable loss
+conditions* — and the standing debts are now named A1s: comparative
+evaluation of his own Christian bridge, and explicit revision
+conditions for the commitment itself (IT-109).
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
@@ -237,8 +260,18 @@ everyone-has-faith made true by definition rather than discovery; the
 frozen-conditions test is the repair); **the error-concession /
 core-preservation loop's standing question** (SWEEP_13, co-constructed
 with Nova — after local concessions, was the surviving thesis
-independently re-established or merely declared intact?). Candidate
-charter theme "over-generation / insufficient pruning" has not yet been
-directly tested — the opening research question stands.
+independently re-established or merely declared intact?);
+**asymmetric grounding scrutiny** (SWEEP_14, confirmed A3-01 — the
+grounding audit deployed against secular moral bridges was
+demonstratedly available for his own Christian bridge and was not
+fully self-applied; the narrowed scope: what grounds God's moral
+authority, how divine commands are identified, whether the believer's
+bridge is exempted from the burden imposed on rivals); **preserved
+openness without loss conditions** (SWEEP_14 — the reciprocal prey:
+metaphysical openness that accepts no discriminating evidence or
+reachable defeat conditions drifts from preservation into
+protection). Candidate charter theme "over-generation / insufficient
+pruning" has not yet been directly tested — the opening research
+question stands.
 
 *(Formal sections B–L still await Phase 2; this ledger feeds them.)*

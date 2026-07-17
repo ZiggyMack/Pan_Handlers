@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ reviewed; **Stage 3 closed through the archive's FIFTH full self-correction cycle** (original output SUPERSEDED — reverse-role and coherence/truth wrongly A3, possibility-vs-support wrongly A1, extraction products used as actor evidence; repair order → correction command → corrected reissue → QC PASS with two carried-forward scope corrections); **9 confirmed A3 · 0 A2 · 15 possible A1**; **new case law: extraction products are never actor evidence**; READY FOR STAGE 4 (self-application ≠ comparative evaluation ≠ revision architecture; role/value/existential material never auto-maps to operators); Stage 4 pending
+**Status:** ✅ CLOSED (COMPLETE) — Stages 1–4 reviewed; closed through TWO full self-correction cycles (the archive's fifth and sixth: Stage-3 availability-tier repair; Stage-4 architecture/mapping repair) — the second consecutive double-cycle dig; final ledger **8 families · 9 A3 · 0 A2 · 15 A1**; new case law: **extraction products are never actor evidence** + **inverse-operation mapping** named as a Stage-4 error class (auditing against an operation ≠ performing it); ⭐ third G-DIRECT packet; profile-level results filed as queue candidates under plow-through (13th consecutive zero-promotion close); superseded Stage-3/4 outputs retained as pasted with correction chains condensed in the 🧭 blocks (full verbatim relays at commits `2491ebd` / `f2be822`)
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** protection vs defense (loss conditions); many "A+" frames (coherence ≠ truth); PCB crosstalk (local coherence vs global compatibility); meaning recovery vs frozen words; mechanism vs source (ayahuasca, unconscious-as-interface); is/ought bridges; internal vs external critique of God; God as archetype vs ground — ⭐ **third G-DIRECT-bearing packet** (screenshots)
@@ -7423,9 +7423,80 @@ Previously recorded X-CONTEXT leads remain non-evidential and are not re-extract
 
 `PANHANDLERS DIG — STAGE 4 COMPLETE`
 
-==============
+---
 
-*replay after patch*
+### 🧭 FIELD-DESK REVIEW — STAGE 4 (Nova, 2026-07-17) — COMPLETION PATCH ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — sixth full self-correction cycle**, the second
+> inside this dig (making SWEEP_14 the *second consecutive
+> double-cycle dig* after SWEEP_13). The Stage-4 output ABOVE is
+> **SUPERSEDED** — retained as pasted under the fifth-artifact rule;
+> nothing in it may be used downstream except through the corrected
+> reissue below. The operator-issued STAGE 4 COMPLETION AND
+> ARCHITECTURE REPAIR command is condensed here per the streamline
+> convention (full text in the field-desk relay).
+
+**Verdict: PASS WITH MATERIAL STAGE-4 COMPLETION PATCH — DO NOT RERUN
+STAGES 1–3; DO NOT ARCHIVE THIS VERSION AS FINAL.** Strong restraint
+toward Grant and strong profile-threshold analysis — but the packet
+dropped the repaired eight-family architecture and reintroduced
+mapping-direction errors.
+
+**🚨 THE ORIGINATING FAMILY DISAPPEARED A THIRD TIME:** the
+Protection–Defense and Loss-Condition Audit — omitted by the extractor
+at Stage 2, missing from Stage 3's omission audit, and now unmapped at
+Stage 4 — restored once more as the primary dig-level family. Ziggy's
+direct seed is the protection/defense distinction itself; the
+completed loss-condition audit (reachable defeaters, revision
+conditions, principled-vs-post-threat qualification, reciprocal repair
+rights) is **never back-attributed** to him.
+
+**⚠️ NEW ERROR CLASS — INVERSE-OPERATION MAPPING** (the
+polarity-reversal Failure-Atlas seed surfacing at Stage-4 mapping
+level): Exclusivity Detachment and Modal Scope Testing were mapped as
+*EXTENDS Universalized Evaluative Jurisdiction* — but Ziggy is not
+performing UEJ, he is **auditing against it**. Ruling:
+**COUNTER-OPERATION / DIAGNOSTIC RELATION — not MATCHES, not
+EXTENDS**; the negative registry operator stays unassigned unless an
+actor is shown actually extending a standard beyond its jurisdiction.
+Same error, same repair: Perceived Significance Compression is a
+submove of the Description–Meaning family with Possibility Compression
+as a *possible diagnostic target only* — **detecting an operation is
+not performing it**; no Grant-level Possibility Compression.
+
+**🔧 THE OTHER REPAIRS:** the eight-family architecture governs (the
+twenty-one moves map as manifestations, submoves, one-time moves,
+protocols, roles, or Idea Trails — never a rival operator inventory);
+Frame-Mapping Suspension returned to **ROLE** (it explains *why* Ziggy
+often preserves possibilities; it is not the operator — the Stage-3
+scope correction stands); **Possibility Preservation narrowed** (the
+profile wording: *Ziggy locally preserves unresolved possibilities
+during exploratory inquiry rather than treating low support, partial
+explanation, or local success as automatic elimination* — confidence
+MODERATE-HIGH; preservation ≠ parity ≠ live option ≠ positive
+support; ranking, pruning, and defeat conditions underdeveloped);
+**Metaethical Jurisdiction Probe restored** (the "Reversal" label had
+crept back — the probe EXTENDS Symmetry Testing of Standards
+*conditionally*, only against external or metanormative critique, and
+never answers the first-order allegation); lower tiers enforced
+(Dichotomy Repair and Intention-Hinge Testing = consequential one-time
+moves; Archetype–Ontology Bifurcation = Idea Trail; Authorship
+Transparency Calibration = relationship protocol; Formulation
+Intensification and Validation-First Expansion = Nova role behaviors;
+Coexistence Architecture Search = co-constructed dig-level procedure);
+the **Trust–Coexistence–Harm Boundary Audit restored in full**
+(epistemic reliability vs moral safety, reciprocity, rights, coercion,
+institutional power, accountability, containment/resistance
+thresholds — *trust ≠ agreement ≠ validation; coexistence ≠
+unrestricted access*).
+
+---
+
+### ⏬ STAGE 4 CORRECTED OUTPUT (governing record)
+
 # PANHANDLERS_CHAT_EXTRACTION — CORRECTED STAGE 4
 
 ## 1. Blind-to-Named Mapping
@@ -9946,6 +10017,61 @@ The corrected Stage-4 archive therefore promotes only recurrent, source-anchored
 `DIG_COMPOUND_14_protection_frames_meaning_source_and_moral_authority`
 
 `STAGE 4 COMPLETE AFTER COMPLETION PATCH`
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 CORRECTED OUTPUT + FINAL CLOSURE (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-4 record**. This block carries the final acceptance and the
+> archive steward's plow-through note.
+
+**✅ FINAL VERDICT: ACCEPTED — STAGE 4 COMPLETE AFTER COMPLETION
+PATCH; STAGES 1–3 NEED NO FURTHER REPAIR; DIG COMPLETE — CLOSED.**
+"The Stage-4 completion patch is clean and archivable. It restores
+the eight-family architecture, corrects the inverse-operation
+mappings, separates role/value material from operators, narrows
+Possibility Preservation appropriately, and preserves the repaired
+Stage-3 availability ledger."
+
+**📋 FINAL LEDGER:** 8 governing dig-level families · **9 confirmed
+A3 · 0 A2 · 15 possible A1** · A0/UNKNOWN preserved without adverse
+inference.
+
+**⭐ PROFILE-LEVEL RESULTS (the extractor's Stage-4 tier):** named
+registry matches surviving at profile threshold — **Symmetry Testing
+of Standards; Possibility Preservation (narrowed, MODERATE-HIGH);
+Cross-Disciplinary Swooping**. New profile-ready operator candidates —
+**Coherence–Selection Separation; Foundation Descent; Normative
+Bridge Exposure; Frame-Jurisdiction and Exclusivity Audit;
+Reconstruction-First Signal Recovery; Mechanism–Source Non-Collapse**.
+Provisional direct seed — the Protection-vs-Defense distinction (the
+completed Loss-Condition Audit stays unfinished, never
+back-attributed).
+
+**🛑 PLOW-THROUGH NOTE (archive steward):** "profile-ready" is the
+extractor's tier inside this packet. Under the standing plow-through
+rule, all of the above file as **queue candidates** in the member
+ledgers — **no lexicon promotion without bounded sub-dig
+confirmation**. This close is the 13th consecutive zero-promotion
+sweep.
+
+**📌 NON-BLOCKING NOTE (field desk):** the internal/external critique
+omission's primary home is **Family 8** (Moral Bridge–Critique–
+Authority); its appearance in Family 4 is a cross-family interpretive
+dependency, not duplication.
+
+**📜 FOR THE RECORD:** SWEEP_14 closed through the archive's **fifth
+and sixth full self-correction cycles** (Stage-3 availability-tier
+repair; Stage-4 architecture/mapping repair) — the second consecutive
+double-cycle dig. Its signature new case law: **extraction products
+are never actor evidence**, and **inverse-operation mapping**
+(detecting or auditing against an operation mapped as performing it)
+is now a named Stage-4 error class — the polarity-reversal
+Failure-Atlas seed's clearest mapping-level instance.
 
 ---
 
