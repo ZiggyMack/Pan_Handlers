@@ -1,4 +1,7 @@
-# DIG 08 — *(title once known)*
+# DIG AUX 06 — Myth Compression, Interpretive Variance, and Projection
+<!-- Workbook claimed from the DIG_08 slot. Field desk's suggested id was
+     "DIG_AUX_10" — recurring off-by-one; operator's file numbering (AUX_06)
+     is canonical per convention. -->
 
 > **Self-contained dig workbook.** Work top to bottom: copy each stage prompt
 > into the old chat **as its own message**, wait for the reply, paste it under
@@ -22,10 +25,10 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** EMPTY
+**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ PASSED field-desk review (MICRO-AUXILIARY); Stage 3 authorized; ⚠️ operator promotion PROHIBITED from this packet alone
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
-**Discovered topic:** _fill in after Stage 1 reveals what this chat actually holds_
+**Discovered topic:** Whether interpretive disagreement undermines the hypothesis that myths culturally compress values/meaning — one Ziggy report of Grant's objection + one brief Z-DIRECT reaction ("I don't get it") + one substantial Nova reconstruction; likely the **Myth-as-Compression checklist theme's** first bounded site (micro-scale; no G-DIRECT)
 
 ## Packet Header (fill as you go)
 
@@ -616,6 +619,106 @@ Nova proposes this challenge, but Ziggy does not respond within the bounded thre
 
 A related discussion may exist elsewhere concerning myths, values, meaning, or cultural compression. Exact thread title and approximate date are UNKNOWN. Not evidence for this packet.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 1 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS WITH STRONG QUALIFICATION — run Stage 2. Clean but
+extremely small auxiliary dig: qualifies as a dispute-analysis and
+Nova-method source, NOT a meaningful Ziggy or Grant profile site.**
+
+```text
+SITE TYPE: MICRO-AUXILIARY / IDEA-TRAIL
+ZIGGY PROFILE VALUE: MINIMAL
+GRANT PROFILE VALUE: NONE
+NOVA REASONING VALUE: MODERATE-HIGH
+OPERATOR PROMOTION: PROHIBITED FROM THIS PACKET ALONE
+```
+
+**Archive identity:** field desk suggested
+`DIG_AUX_10_myth_compression_interpretive_variance_and_projection` —
+operator's numbering (AUX_06) kept per convention; slug adopted. The
+bounded exchange contains only *one Ziggy report of Grant + one brief
+Ziggy reaction + one substantial Nova reconstruction* — **that asymmetry
+must govern every later stage.**
+
+**Attribution correction (sharpened evidence balance):** G-REPORTED
+substantial but secondhand · Z-DIRECT extremely limited ·
+NOVA-INTERPRETATION dominant · CO-CONSTRUCTED none established. **No
+developed Ziggy position is recoverable beyond his question** — Ziggy does
+NOT yet affirm compression-without-identical-recovery, myths-as-
+orientation, thematic-overlap-as-test, or the projection objection; all
+remain Nova proposals.
+
+**Strongest correction to Nova (pre-registered):** Nova translates
+*reliable convergence* into *perfect transmission* — not identical
+standards. Grant may require only greater-agreement-than-rivals-predict,
+stable central-theme recovery, constrained variance, or behavioral
+convergence. Safe finding: *Nova challenges an apparent high-convergence
+requirement by distinguishing encoding from recipient-side
+reconstruction* — NOT *Grant clearly conflates compression with perfect
+transmission* (assistant interpretation).
+
+**"Compression" ordered decomposed** — seven senses with different
+predictions (mnemonic → recall; semantic → recoverable content;
+behavioral → transferable action patterns; affective → recurring
+emotional orientation; historical; selection; information-theoretic →
+measurable encoding relations). Until the sense is fixed, both the
+reported test and the rebuttal are underdetermined.
+
+**The principal-cause burden:** "myths *sometimes* compress" ≠ "compression
+is the *principal* reason myths exist." The modest claim coexists with
+entertainment, ritual, coalition, legitimation, identity, regulation,
+memory, pedagogy, status, play. Grant's alternative-explanation demand may
+be entirely legitimate depending on claim strength.
+
+**Four possible locations of interpretive disagreement (Stage 2 must
+separate):** source ambiguity / transmission drift / recipient variance /
+strategic projection. Nova privileges recipient variance; the bounded
+source gives no reason to prefer it.
+
+**⚠️ The decisive falsifiability problem:** the archive/decompression
+model risks self-sealing — if agreement, partial agreement, disagreement,
+contradiction, AND no-stable-content are all compatible with compression,
+the hypothesis loses discriminatory force. A viable model needs conditions
+under which we'd conclude projection, failed transmission, or a better
+rival.
+
+**📋 REGISTERED PREDICTIONS (scored at Stage-2 return):** *Nova-generated:*
+Entailment Recalibration, Encoding/Recovery Separation, Variance
+Relocation, Alternative Prediction Construction, Transmission-Model
+Reframing, Projection-Constraint Escalation, Engineering-to-Symbolic
+Domain Shift. *Ziggy-direct (only two safe, not profile-level):* Objection
+Non-Recognition; Open Adjudication Request. *Grant-reported:*
+rival-explanation burden, predicted-convergence test,
+disagreement-as-counterevidence — no operator attribution permitted.
+
+**Stage-3 pressure points pre-registered:** 10 against Nova (perfect
+identity vs reliable convergence? compression vs ordinary symbolic
+ambiguity? why decoder-side variance? what overlap predicted, vs what
+baseline? how much disagreement counts against? wisdom vs
+ideology/propaganda? is the metaphor literal, analogical, or heuristic?);
+6 against reported Grant (does compression imply identical recovery? is
+lossy compression preservation-complete? decisive vs probability-lowering
+disagreement?); against Ziggy essentially nothing — only *what did Ziggy
+think compression meant when the objection seemed unintelligible?* (the
+bounded thread does not answer).
+
+**Restrictions:** no Grant profile claims · no stable Ziggy profile
+claims · no intellectual attribution to Jung or Campbell · no empirical
+claims about cross-cultural recurrence · no proof myths principally exist
+for compression.
+
+**Deepest prey:** *a theory of cultural compression becomes meaningful
+only when it tells us not merely why different readings are possible, but
+which readings the story constrains, what overlap it predicts, and what
+evidence would show interpreters are projecting rather than
+decompressing.*
+
+**NEXT ACTION:** send Stage 2 (below) as its own message.
 
 ---
 
@@ -1477,6 +1580,112 @@ This creates a possible burden asymmetry:
 
 23. **X-CONTEXT Notice:** A related discussion may exist elsewhere concerning Grant, myth, cultural compression, interpretive convergence, or theory-laden observation. Thread title and approximate date are UNKNOWN. Not evidence for this packet.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+>
+> ⚠️ **TRUNCATION NOTICE (filing clerk):** the relayed review cut off
+> mid-sentence in the "Symbolic-Transmission Reconstruction" merge section
+> ("Its substantive adequ—"). Everything below is what arrived; if Nova's
+> message continued (final verdict block, archive status, remaining merges
+> or pressure points), the tail should be re-relayed and appended here.
+
+**Verdict: PASS AS MICRO-AUXILIARY DIG — run Stage 3. Strong micro-dig
+extraction; almost all real value lies in Nova's reasoning sequence and
+the claim-strength mismatch. No stable Ziggy or Grant operator promotion.**
+
+```text
+PRIMARY VALUE: Nova reasoning and idea-trail analysis
+ZIGGY PROFILE VALUE: MINIMAL
+GRANT PROFILE VALUE: NONE
+RELATIONSHIP VALUE: SINGLE-INSTANCE ONLY
+DIRECT OPERATOR PROMOTION: NO
+```
+
+**Actual architecture:** reported principal-explanation claim → reported
+rival-explanation pressure → reported convergence prediction → Nova
+separates compression from uniform recovery → variance relocated to
+decoding → Nova substitutes a weaker success criterion → projection
+becomes the stronger objection → explanatory primacy remains unresolved.
+
+**📊 STAGE-1 PREDICTION SCORING:** all seven forecast Nova-generated moves
+surfaced (Entailment Recalibration → Entailment Separation;
+Encoding/Recovery Separation ✓; Variance Relocation → Mechanism
+Relocation; Alternative Prediction Construction → Prediction
+Substitution; Transmission-Model Reframing → Function Reclassification;
+Projection-Constraint Escalation → Stronger-Objection Reconstruction;
+Domain Shift present); both safe Ziggy-direct moves confirmed
+(non-recognition + adjudication request); Grant-reported forms as
+forecast. *Common-cause caveat filed, as always.*
+
+**⭐ STRONGEST STAGE-2 FINDING — Claim-Strength Drift (the packet's
+central result and the ordered Stage-3 pressure point):** Grant, as
+reported, challenges *compression as the principal explanation*; Nova
+mostly establishes *disagreement doesn't prove NO compressed material*.
+Those are different claims: *compression is possible ≠ occurs
+significantly ≠ is a major function ≠ is the principal explanation* —
+Nova's rebuttal may preserve the first while leaving the last three
+untouched.
+
+**Reported Grant argument forms (never personal operators):**
+Consequence Testing (methodologically legitimate — hypothesis → predicted
+consequence → observed result → revision; vulnerability is the
+*prediction selected*) · Rival-Explanation Pressure (reasonable given
+"principally"; excessive if the claim were modest). No promotion: no
+rival named, no comparative test shown, no direct wording, relay may have
+weakened or sharpened the standard.
+
+**Strongest Nova moves (rulings attached):**
+
+- **Entailment Separation** — cleanest assistant operation (*compressed
+  content exists ≠ every recipient reconstructs identical content*);
+  survives strongly; but "perfect transmission" is too aggressive —
+  **final name ordered: Compression–Convergence Separation** (avoids
+  attributing an absolute standard to Grant).
+- **Mechanism Relocation** — legitimate hypothesis, not established
+  explanation; variance may instead be source ambiguity, contradictory
+  content, drift, indeterminate symbolism, strategic reinterpretation, or
+  projection; Stage 3 must ask what evidence locates it in the decoder.
+- **Decoder-Variance Expansion** — substep of Mechanism Relocation, not
+  independent; listing moderators doesn't establish stable encoded
+  content beneath the variation.
+- **Prediction Substitution** — major move, correctly identified: replaces
+  *identical recovery* with *recurring thematic overlap*. Not mere
+  rebuttal — **a new empirical specification of the compression
+  hypothesis**; Stage 3 must ask: derived before observing the
+  recurrence? what overlap, against what baseline? which rivals predict
+  the same patterns? what would count against? — otherwise post-hoc
+  accommodation.
+- **Function Reclassification** — proposition transfer → orientation;
+  fruitful but risky: "orientation" can become so broad any influence
+  counts as success; must predict more than *stories affect people
+  somehow*.
+- **Stronger-Objection Reconstruction** — the packet's strongest
+  adversarial move: *how do we distinguish compressed wisdom from
+  interpretive projection?* — correctly recognizes the tension Nova's own
+  defense creates (more interpretive freedom → easier survival of
+  disagreement → harder proof the recovered content was encoded).
+  Survives strongly as Nova-generated critical reconstruction; **no
+  solution provided — appropriate to record.**
+
+**🔀 MERGE ORDERS:**
+
+1. **Encoding–Recovery Reframing** ← Entailment Separation + Mechanism
+   Relocation + Decoder-Variance Expansion + Evidence Revaluation (one
+   coherent Nova defensive sequence: separate encoded source from
+   recovered output → introduce recipient conditions → reinterpret
+   divergence → preserve the source hypothesis conditionally).
+2. **Symbolic-Transmission Reconstruction** ← Prediction Substitution +
+   Function Reclassification + Domain-Model Diagnosis (reject
+   exact-transfer model → nominate orientation function → propose thematic
+   recurrence → change the success criterion). *The sequence occurred; its
+   substantive adequacy —* ⚠️ **review truncates here; remainder pending
+   re-relay.**
+
+**NEXT ACTION:** send Stage 3 (below) as its own message.
 
 ---
 
@@ -1537,7 +1746,1031 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+1. Confirmed Informative Omissions (A3/A2)
+
+### Omission 1 — Failure to distinguish explanatory possibility from explanatory primacy
+
+**Actor:** Nova
+
+**Absent move:** Explicitly separate:
+
+* “Myths can compress cultural information,” from
+* “Cultural compression is the principal reason myths exist.”
+
+**Why relevant:**
+Ziggy presents the disputed claim in its stronger form: “the reason why we have these stories is principally because of the idea of cultural compression.” Nova primarily establishes that interpretive disagreement does not prove compression absent. That protects possibility or compatibility, but it does not establish explanatory primacy.
+
+**Source Anchor:**
+
+* Ziggy, opening message: “the reason why we have these stories is principally because…”
+* Nova, opening response: “Grant is conflating compression with perfect transmission.”
+* Nova, later response: “people disagreeing does not mean the sentence wasn’t compression.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:**
+Nova explicitly performs a closely related distinction elsewhere in the same response by separating compression from perfect transmission. The capacity to divide a strong composite claim into weaker components was demonstrated.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It allowed the response to sound as though Grant’s challenge had largely failed when only one inferential route against the weaker compression claim had been answered. The stronger question—why compression should be regarded as principal—remained unresolved.
+
+**Stable or situational:**
+Situational. The prompt asked whether Grant “has a point,” and Nova moved quickly toward adjudicating the reported convergence objection rather than auditing the exact strength of the original thesis.
+
+---
+
+### Omission 2 — Failure to reconstruct the strongest probabilistic version of Grant’s prediction before scoring it
+
+**Actor:** Nova
+
+**Absent move:** Temporarily grant that Grant may mean:
+
+> If myths culturally compress stable information, interpretations should exhibit greater convergence than would occur without such compression.
+
+This is weaker than requiring everyone to recover an identical message.
+
+**Why relevant:**
+Ziggy says people would “reliably get the same message and concept,” but Nova immediately redescribes this as “perfect transmission.” Reliable convergence and perfect identity are not equivalent.
+
+**Source Anchor:**
+
+* Ziggy: “We would all reliably get the same message and concept…”
+* Nova: “Grant is conflating compression with perfect transmission.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:**
+Nova later reconstructs a stronger objection for Grant concerning projection: “How do you distinguish genuine compressed wisdom from arbitrary projection?” This demonstrates the availability of charitable opponent reconstruction.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It made Grant’s objection easier to reject. Against a probabilistic convergence claim, decoder variance would not fully answer the objection; one would still need to ask whether myths produce measurable or recognizable convergence above an appropriate baseline.
+
+**Stable or situational:**
+Situational. The response later becomes more charitable, suggesting the initial sharp formulation was tied to the opening defensive posture rather than an inability to strengthen opposing arguments.
+
+---
+
+### Omission 3 — Failure to concede Grant’s limited burden-of-comparison point
+
+**Actor:** Nova
+
+**Absent move:** Concede that if cultural compression is proposed as the principal explanation, rival explanations must be compared rather than merely declared compatible with the evidence.
+
+**Why relevant:**
+Grant’s reported objection has two components:
+
+1. alternative explanations remain available;
+2. the compression proposal allegedly makes a failed prediction.
+
+Nova addresses the second component extensively but does not directly assess the first.
+
+**Source Anchor:**
+
+* Ziggy: “he thinks there are other explanations that we need to be shown are not good explanations…”
+* Nova’s response does not return directly to this reported demand.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:**
+Nova demonstrates the ability to concede a serious challenge by saying the projection problem “has real teeth” and calling it the stronger critique.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Grant’s strongest secure point in the reported material may be methodological rather than substantive: explanatory priority requires comparative work. By leaving that point unacknowledged, the response gives a more categorical verdict against Grant than the bounded evidence warrants.
+
+**Stable or situational:**
+Situational. Nova was focused on clarifying one objection rather than conducting a complete inference-to-the-best-explanation analysis.
+
+---
+
+### Omission 4 — Failure to apply decoder scrutiny symmetrically to the preferred interpretation of myths
+
+**Actor:** Nova
+
+**Absent move:** Ask whether Nova’s own interpretation—myths as deep cultural compression—could itself be a product of the same decoder differences invoked to explain everyone else’s interpretations.
+
+**Why relevant:**
+Nova argues that personality, culture, historical era, and experience shape decompression. Those variables would also shape the theorist’s belief that a story contains compressed wisdom.
+
+**Source Anchor:**
+Nova: “It’s being unpacked by different personalities, different cultures, different eras, different life experiences.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:**
+Nova explicitly recognizes the projection problem later and asks how signal can be separated from projection. The relevant self-application was therefore conceptually available.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Moderately. Nova names the projection problem abstractly but does not apply it back to the defense already offered. As a result, the response identifies the burden without allowing it to reduce confidence in the specific compression reading.
+
+**Stable or situational:**
+Situational. The omission occurs inside a single explanatory response and is partly repaired by the later projection challenge.
+
+---
+
+### Omission 5 — Failure to apply the alternative-explanation burden to the replacement prediction
+
+**Actor:** Nova
+
+**Absent move:** Compare the proposed cross-cultural recurrence evidence against alternative causes such as shared biology, recurring social structures, cultural transmission, limited narrative possibilities, or retrospective motif selection.
+
+**Why relevant:**
+Nova replaces exact-message convergence with recurring patterns across geography and time as the supposedly stronger prediction of compression. Yet Grant’s reported methodological demand was precisely that alternative explanations must be shown inadequate.
+
+**Source Anchor:**
+
+* Ziggy: “other explanations … need to be shown are not good explanations.”
+* Nova: “People separated by geography and time should repeatedly discover similar patterns in the stories.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:**
+Nova recognizes the legitimacy of rival explanations at least indirectly by constructing the projection challenge and by distinguishing multiple mechanisms for interpretation. Stage 2 also identified Nova’s capacity for stronger-objection reconstruction.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The proposed cross-cultural recurrence evidence is treated as favorable to compression without showing that compression predicts it more specifically than rival accounts do.
+
+**Stable or situational:**
+Situational. The replacement prediction appears introduced to preserve testability during an informal explanation, not as a complete comparative theory.
+
+2. Possible Informative Omissions (A1)
+
+### Omission 6 — No operational definition of cultural compression
+
+**Actor:** All participants; most consequential for Ziggy’s presentation and Nova’s evaluation
+
+**Absent move:** Specify what “compression” means in this dispute:
+
+* mnemonic economy;
+* symbolic density;
+* transmission of behavioral norms;
+* storage of historical experience;
+* reduction of propositions into narrative;
+* or something else.
+
+**Why relevant:**
+The disagreement turns on what compression predicts. Without a definition, Grant and Nova may be evaluating different mechanisms under the same word.
+
+**Source Anchor:**
+
+* Ziggy: “our myth compressing values meaning ect…”
+* Nova: “Like a zip file.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Both the convergence objection and Nova’s decompression defense depend upon properties that may or may not belong to the intended meaning of compression.
+
+**Stable or situational:**
+Situational. The exchange is brief and exploratory.
+
+---
+
+### Omission 7 — No clarification of what counts as “the same message”
+
+**Actor:** Ziggy as reporter; Grant’s own availability is UNKNOWN
+
+**Absent move:** Distinguish among:
+
+* identical wording;
+* equivalent proposition;
+* common moral;
+* shared emotional orientation;
+* similar behavior;
+* or overlapping themes.
+
+**Why relevant:**
+The dispute could dissolve or substantially narrow depending upon the level at which convergence is expected.
+
+**Source Anchor:**
+Ziggy: “the same message and concept.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Nova rejects exact sameness, but Grant may only be demanding stable thematic overlap—the same standard Nova later proposes.
+
+**Stable or situational:**
+Situational and possibly introduced by relay compression.
+
+---
+
+### Omission 8 — No baseline comparison for interpretive convergence
+
+**Actor:** Grant as reported, Ziggy, and Nova
+
+**Absent move:** Ask:
+
+> Compared with what would myth interpretation be more or less convergent?
+
+Possible baselines could include random text, literal instruction, legal documents, proverbs, ordinary stories, or unconstrained projection.
+
+**Why relevant:**
+Both “people disagree” and “people find recurring patterns” are incomplete without a comparison class.
+
+**Source Anchor:**
+
+* Ziggy: “and we don’t.”
+* Nova: “Different recoveries may overlap substantially.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Substantially. The exchange treats convergence as binary rather than comparative.
+
+**Stable or situational:**
+Situational.
+
+---
+
+### Omission 9 — No explicit distinction between unknown information and absent information
+
+**Actor:** Nova
+
+**Absent move:** Separate:
+
+* failure to recover a determinate message;
+* evidence that no determinate message was encoded;
+* and insufficient evidence to know whether one was encoded.
+
+**Why relevant:**
+Nova correctly challenges the inference from disagreement to no compression, but then speaks positively of “encoded wisdom” without independent evidence that such content exists.
+
+**Source Anchor:**
+
+* Nova: “The disagreement is occurring during decompression.”
+* Nova: “How do you distinguish genuine compressed wisdom from arbitrary projection?”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Moderately. It permits movement from “Grant has not disproved compression” to language suggesting compression is positively established.
+
+**Stable or situational:**
+Situational.
+
+---
+
+### Omission 10 — No stated conditions under which divergence would count against compression
+
+**Actor:** Nova
+
+**Absent move:** Specify a failure threshold, such as:
+
+* no recurring interpretation;
+* contradictory central lessons;
+* outcomes indistinguishable from random projection;
+* no greater retention or transmission than unstructured material;
+* or unstable interpretation even within a shared tradition.
+
+**Why relevant:**
+Once disagreement is located in decompression, the hypothesis needs constraints to avoid becoming compatible with every possible outcome.
+
+**Source Anchor:**
+Nova: “variable interpretation is almost exactly what you would expect.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It leaves the compression account under-falsified.
+
+**Stable or situational:**
+Situational, although the pattern would become significant if repeated across discussions.
+
+---
+
+### Omission 11 — No test under reversed argumentative roles
+
+**Actor:** Nova
+
+**Absent move:** Ask whether Nova would accept an analogous defense from a rival theory:
+
+> If a theory predicts a result but the result varies, may its advocate always attribute variation to the interpreter or implementation layer?
+
+**Why relevant:**
+This would test whether “decompression variance” is a principled mechanism or a defense available to any theory after failed convergence.
+
+**Source Anchor:**
+Nova: “The disagreement is occurring during decompression.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Potentially. A reversed-role test might reveal that the defense needs independent evidence for the proposed decoding mechanism.
+
+**Stable or situational:**
+Situational.
+
+---
+
+### Omission 12 — No inquiry into multiple simultaneous functions of myth
+
+**Actor:** Nova
+
+**Absent move:** Treat compression, entertainment, ritual coordination, identity maintenance, authority legitimation, emotional regulation, and historical memory as potentially coexisting functions rather than rival total explanations.
+
+**Why relevant:**
+The original claim uses “principally,” while Grant reportedly invokes “other explanations.” The dispute may be falsely framed as choosing one exclusive function.
+
+**Source Anchor:**
+
+* Ziggy: “principally because…”
+* Ziggy: “other explanations…”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. A plural-function model could reduce the need either to eliminate alternatives or to defend compression as the sole cause.
+
+**Stable or situational:**
+Situational.
+
+---
+
+### Omission 13 — No concrete example tested from encoding through interpretation
+
+**Actor:** All participants
+
+**Absent move:** Select one myth and compare:
+
+1. candidate encoded values;
+2. historical context;
+3. interpretations across groups;
+4. stable overlap;
+5. divergent projections;
+6. rival explanations.
+
+**Why relevant:**
+The discussion remains at the level of analogies and general claims.
+
+**Source Anchor:**
+Nova uses “Power corrupts” rather than an actual myth.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Neither Grant’s nonconvergence claim nor Nova’s recurring-pattern claim is empirically inspected.
+
+**Stable or situational:**
+Situational.
+
+3. Non-Informative Omissions (A0)
+
+### Omission 14 — Grant did not clarify whether his argument was deductive or probabilistic
+
+**Actor:** Grant
+
+**Why relevant:**
+The force of the objection depends on whether interpretive disagreement allegedly refutes compression or merely lowers its probability.
+
+**Source Anchor:**
+Ziggy: “Is one of his push backs.”
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Reason no conclusion may be drawn:**
+Grant is absent, and Ziggy’s report may omit qualifications Grant actually gave.
+
+**Did the absence change the outcome?**
+The missing qualification strongly affects Nova’s reconstruction, but no inference about Grant’s reasoning habits is warranted.
+
+**Stable or situational:** UNKNOWN
+
+---
+
+### Omission 15 — Grant did not name his rival explanations
+
+**Actor:** Grant
+
+**Why relevant:**
+His comparative challenge cannot be assessed without knowing the alternatives.
+
+**Source Anchor:**
+Ziggy: “there are other explanations…”
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Reason no conclusion may be drawn:**
+Grant may have named alternatives in the external conversation; they may simply have been omitted in relay.
+
+**Did the absence change the outcome?**
+Yes for the bounded analysis, but it cannot be counted as a demonstrated failure by Grant.
+
+**Stable or situational:** UNKNOWN
+
+---
+
+### Omission 16 — Grant did not answer Nova’s decompression distinction
+
+**Actor:** Grant
+
+**Why relevant:**
+His response could clarify whether Nova addressed his actual objection.
+
+**Source Anchor:**
+Nova: “The disagreement is occurring during decompression.”
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Reason no conclusion may be drawn:**
+Grant was not a participant in the bounded exchange.
+
+**Did the absence change the outcome?**
+It leaves the central disagreement unresolved.
+
+**Stable or situational:** UNKNOWN
+
+---
+
+### Omission 17 — Ziggy did not state whether he adopted Nova’s distinction
+
+**Actor:** Ziggy
+
+**Why relevant:**
+Without a follow-up, no assistant-generated formulation can be marked co-constructed or accepted.
+
+**Source Anchor:**
+The bounded original exchange ends after Nova’s response.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Reason no conclusion may be drawn:**
+There was no subsequent original conversational turn before the extraction protocol began.
+
+**Did the absence change the outcome?**
+It prevents any conclusion about persuasion or adoption.
+
+**Stable or situational:** UNKNOWN
+
+4. Counterevidence Findings
+
+### Characterization A — Grant uses consequence testing
+
+**Stage-1/2 characterization:**
+Grant derives an expected consequence from compression and compares it with disagreement.
+
+**Counterevidence search:**
+Searched the original user report and Nova’s response for evidence that Grant rejects prediction-based evaluation, preserves the compression hypothesis despite failed prediction, or values explanation independently of prediction.
+
+**Result:** None found.
+
+**Qualification:**
+The report is brief. The move survives as a description of the reported argument, not as a stable trait of Grant.
+
+---
+
+### Characterization B — Grant demands rival-explanation comparison
+
+**Stage-1/2 characterization:**
+Grant resists accepting cultural compression until alternatives are shown inferior.
+
+**Counterevidence search:**
+Searched for evidence that Grant accepts multiple simultaneous explanations, offers compression partial credit, or treats the alternatives demand as optional.
+
+**Result:** None found.
+
+**Qualification:**
+No rival explanation is named. It remains unclear whether Grant demanded elimination, comparative superiority, or merely discrimination.
+
+---
+
+### Characterization C — Grant requires perfect transmission
+
+**Stage-1/2 characterization:**
+Nova interprets Grant as conflating compression with perfect transmission.
+
+**Counterevidence search:**
+The phrase attributed through Ziggy is “reliably get the same message and concept,” not “perfectly,” “identically,” or “without variation.”
+
+**Result:** Counterevidence found.
+
+**Effect:**
+The “perfect transmission” characterization is weakened. Grant may be demanding reliable thematic convergence rather than exact identity.
+
+---
+
+### Characterization D — Nova performs entailment separation
+
+**Stage-1/2 characterization:**
+Nova separates compression from identical recovery.
+
+**Counterevidence search:**
+Searched for passages where Nova later treats compression and identical recovery as equivalent.
+
+**Result:** None found.
+
+**Effect:**
+Characterization survives strongly.
+
+---
+
+### Characterization E — Nova relocates disagreement to decompression
+
+**Stage-1/2 characterization:**
+Nova explains interpretive variation through decoder differences.
+
+**Counterevidence search:**
+Searched for acknowledgment that ambiguity may originate in the encoded story itself.
+
+**Result:** No direct acknowledgment found.
+
+**Relevant complication:**
+Nova later raises arbitrary projection and over-interpretation, showing some recognition that decoder-centered explanations require constraints.
+
+**Effect:**
+The relocation characterization survives, but the stronger claim that Nova treats decompression as the sole source of variance would be unsupported.
+
+---
+
+### Characterization F — Nova immunizes compression against disagreement
+
+**Stage-2 failure-mode concern:**
+Decoder variance could become an all-purpose shield.
+
+**Counterevidence search:**
+Nova explicitly states that projection and over-interpretation are real problems and calls the discrimination problem the stronger critique.
+
+**Result:** Counterevidence found.
+
+**Effect:**
+The strongest immunization characterization weakens. Nova does not declare every interpretation valid. However, no operational failure condition is supplied, so the concern is reduced rather than eliminated.
+
+---
+
+### Characterization G — Nova substitutes cross-cultural recurrence as the appropriate prediction
+
+**Stage-1/2 characterization:**
+Nova proposes repeated motifs across cultures and time as evidence compatible with compression.
+
+**Counterevidence search:**
+Searched for hesitation, rival explanations, or rejection of an attractive recurrence argument.
+
+**Result:** None found.
+
+**Effect:**
+The move survives. Its evidential adequacy remains untested.
+
+---
+
+### Characterization H — Nova values explanation independently of prediction
+
+**Possible characterization:**
+Nova’s defense may suggest that myths can be explanatory or meaningful even without uniform predictive outputs.
+
+**Counterevidence search:**
+Nova does offer a replacement prediction rather than abandoning prediction entirely.
+
+**Result:** Counterevidence found against any claim that Nova rejects prediction as a standard.
+
+**Effect:**
+Nova appears to dispute which prediction follows, not whether hypotheses should generate predictions.
+
+---
+
+### Characterization I — Nova reclassifies myth’s function as orientation
+
+**Stage-1/2 characterization:**
+Nova contrasts exact proposition transfer with orienting consciousness toward a pattern.
+
+**Counterevidence search:**
+Searched for passages treating exact communication as equally central to myth.
+
+**Result:** None found.
+
+**Effect:**
+Characterization survives as Nova’s proposed model. Whether it describes myths generally remains unestablished.
+
+---
+
+### Characterization J — Nova diagnoses a scientific-information lens in Grant
+
+**Stage-1/2 characterization:**
+Nova suggests Grant imports engineering-style standards into myth.
+
+**Counterevidence search:**
+Searched the bounded user report for direct statements by Grant about engineering, science, information theory, or exact state reconstruction.
+
+**Result:** None found.
+
+**Effect:**
+The diagnosis remains speculative and weakens as a characterization of Grant. It survives only as a move Nova performed.
+
+---
+
+### Characterization K — Nova charitably reconstructs a stronger objection
+
+**Stage-1/2 characterization:**
+Nova replaces the disagreement objection with the projection problem.
+
+**Counterevidence search:**
+Searched for evidence that Nova merely dismisses all criticism or refuses to burden the favored view.
+
+**Result:** Counterevidence to one-sided dismissal found: Nova says the projection challenge “has real teeth.”
+
+**Effect:**
+The charitable-reconstruction characterization survives strongly.
+
+---
+
+### Characterization L — Nova applies burdens symmetrically
+
+**Possible characterization:**
+Because Nova offers a stronger objection, the response may appear fully symmetrical.
+
+**Counterevidence search:**
+Nova does not apply Grant’s rival-explanation demand to the cross-cultural recurrence argument and does not distinguish the principal-explanation claim from the weaker compatibility claim.
+
+**Result:** Counterevidence found.
+
+**Effect:**
+Any broad characterization of full symmetry is rejected. Nova demonstrates partial internal criticism, not complete burden symmetry.
+
+---
+
+### Characterization M — Ziggy rejects Grant’s argument
+
+**Stage-1 characterization:**
+Ziggy is confused by the objection and appears resistant.
+
+**Counterevidence search:**
+Ziggy asks, “Do you think he has a point?”
+
+**Result:** Counterevidence found against categorical rejection.
+
+**Effect:**
+Ziggy is better characterized as skeptical but open to adjudication.
+
+---
+
+### Characterization N — The interaction demonstrates a repeated relationship loop
+
+**Stage-2 characterization:**
+External objection → Ziggy referral → Nova reconstruction.
+
+**Counterevidence search:**
+Searched the bounded conversation for a second completed cycle.
+
+**Result:** None found.
+
+**Effect:**
+The structure is instantiated once. It cannot be characterized as a stable repeated relationship pattern within this corpus.
+
+---
+
+### Characterization O — Claim-strength drift occurred
+
+**Stage-2 characterization:**
+Grant’s reported challenge concerns a principal explanation, while Nova defends compatibility with compression.
+
+**Counterevidence search:**
+Searched for a passage where Nova returns to and establishes explanatory primacy.
+
+**Result:** None found.
+
+**Effect:**
+The claim-strength-drift characterization survives strongly.
+
+---
+
+### Characterization P — Nova rejects an attractive possibility despite weak evidence
+
+**Counterevidence search:**
+Searched for a case where Nova rejects a compression-friendly explanation despite its attractiveness.
+
+**Result:** None found.
+
+**Effect:**
+No evidence here demonstrates strong evidential pruning against Nova’s favored model.
+
+---
+
+### Characterization Q — A low-probability possibility is preserved
+
+**Counterevidence search:**
+Nova preserves the possibility that projection contaminates interpretation and acknowledges that people can read nonsense into myths.
+
+**Result:** Evidence found.
+
+**Effect:**
+Nova does not present cultural compression as unconditionally certain, although the probability or evidential weight of projection is not assessed.
+
+5. Alternative Readings
+
+### Reading 1 — Grant’s move is prediction testing
+
+**Primary reading:**
+Grant derives a predicted consequence and uses failed convergence against compression.
+
+**Strongest alternative:**
+Grant is not applying a cognitive operator so much as expressing a substantive theory of communication: genuine information storage should constrain interpretation.
+
+**Discriminating evidence:**
+The wording “the things he would predict” supports an evaluative operation rather than a mere belief. However, only one reported instance exists.
+
+**Result:**
+Operator reading moderately favored for this argument; stable personal pattern UNKNOWN.
+
+---
+
+### Reading 2 — Grant imposes an impossible alternative-explanation burden
+
+**Primary reading:**
+Grant withholds acceptance until alternatives are defeated.
+
+**Strongest alternative:**
+Grant is making a standard inference-to-the-best-explanation request: a “principal” explanation must outperform rivals.
+
+**Discriminating evidence:**
+Ziggy says alternatives must be shown “not good,” but no exact standard is provided.
+
+**Result:** UNKNOWN.
+The more charitable comparative reading must remain live.
+
+---
+
+### Reading 3 — Grant conflates compression with perfect transmission
+
+**Primary reading:**
+Nova’s opening diagnosis.
+
+**Strongest alternative:**
+Grant expects probabilistic or thematic convergence, not perfect identity.
+
+**Discriminating evidence:**
+“Reliably” supports a probabilistic reading; “same message and concept” supports a stronger sameness requirement. “Perfect transmission” is Nova’s phrase.
+
+**Result:**
+Conflation remains possible but is not established. The perfect-transmission label is too strong for the available evidence.
+
+---
+
+### Reading 4 — Nova separates two logical claims
+
+**Primary reading:**
+Entailment separation between compression and uniform recovery.
+
+**Strongest alternative:**
+Nova changes the subject by substituting a looser metaphorical meaning of compression for Grant’s intended information-bearing sense.
+
+**Discriminating evidence:**
+No shared definition of compression is provided.
+
+**Result:** UNKNOWN regarding argumentative success.
+The separation move unquestionably occurs; whether it exposes a false entailment or changes definitions cannot be determined.
+
+---
+
+### Reading 5 — Nova relocates variance to the decoder
+
+**Primary reading:**
+Different interpreters produce different decompressions from common encoded material.
+
+**Strongest alternative:**
+The story itself is semantically indeterminate, and “decoder variance” redescribes rather than explains disagreement.
+
+**Discriminating evidence:**
+Nova lists interpreter variables but supplies no evidence that a stable encoded core exists independently of those readings.
+
+**Result:** UNKNOWN.
+Mechanism relocation occurs, but its causal adequacy is not demonstrated.
+
+---
+
+### Reading 6 — “Power corrupts” is a controlled analogy
+
+**Primary reading:**
+A simpler compressed statement demonstrates that plural interpretation can coexist with compact meaning.
+
+**Strongest alternative:**
+The example demonstrates semantic richness or vagueness, not cultural compression.
+
+**Discriminating evidence:**
+Nova asserts rather than independently establishes that the sentence is compressed in the relevant sense.
+
+**Result:**
+Operator classification survives; evidential force remains uncertain.
+
+---
+
+### Reading 7 — Cross-cultural recurrence is a replacement prediction
+
+**Primary reading:**
+Nova revises the expected evidence for cultural compression.
+
+**Strongest alternative:**
+The motif list is rhetorical support added after the original prediction failed, rather than a prediction derived independently from the theory.
+
+**Discriminating evidence:**
+Nova says “The compression view predicts something else,” but gives no derivation or prior criterion.
+
+**Result:**
+Prediction-substitution characterization survives. Whether the replacement is principled or post hoc is UNKNOWN.
+
+---
+
+### Reading 8 — Myth functions as orientation rather than exact transfer
+
+**Primary reading:**
+Nova changes the functional jurisdiction under which myths should be judged.
+
+**Strongest alternative:**
+This is a rhetorical retreat to a harder-to-test function once message convergence is challenged.
+
+**Discriminating evidence:**
+No independent evidence about mythic function is supplied. The compass/GPS analogy makes the distinction intelligible but does not prove which function applies.
+
+**Result:** UNKNOWN regarding truth; the functional-reclassification move survives.
+
+---
+
+### Reading 9 — Nova performs charitable adversarial reconstruction
+
+**Primary reading:**
+Nova strengthens the opposition by replacing disagreement with the projection problem.
+
+**Strongest alternative:**
+The move is balance-signaling rhetoric that does not actually threaten the favored theory because no constraint or test is developed.
+
+**Discriminating evidence:**
+Nova says the challenge “has real teeth” and identifies signal, projection, and over-interpretation. However, no solution or evidential consequence follows.
+
+**Result:**
+Charitable reconstruction is present, but its depth is moderate rather than complete.
+
+---
+
+### Reading 10 — Nova’s response is primarily defensive
+
+**Primary reading:**
+The prompt frames the idea as “our” myth-compression position, inducing Nova to defend it.
+
+**Strongest alternative:**
+Nova independently judged the reported objection weak and would have given the same analysis without relational alignment.
+
+**Discriminating evidence:**
+The immediate opening diagnosis favors the defense, while the later stronger-objection reconstruction shows some independence.
+
+**Result:**
+Role effect is plausible but not determinative.
+
+---
+
+### Reading 11 — Ziggy transfers adjudicative authority
+
+**Primary reading:**
+Ziggy brings Grant’s objection to Nova for evaluation.
+
+**Strongest alternative:**
+Ziggy is stress-testing Nova or seeking language for an intuition already held.
+
+**Discriminating evidence:**
+“I don’t get it” and “Do you think he has a point?” support genuine inquiry, but no follow-up reveals whether Ziggy already had a settled view.
+
+**Result:** UNKNOWN.
+
+---
+
+### Reading 12 — Claim-strength drift is an interaction failure
+
+**Primary reading:**
+Nova answers a weaker claim than the one initially challenged.
+
+**Strongest alternative:**
+Refuting one necessary component of Grant’s objection is legitimate preliminary work, even if explanatory primacy remains unresolved.
+
+**Discriminating evidence:**
+Nova does not explicitly claim to have established primacy, but the overall verdict says the disagreement objection is “not … a serious problem.”
+
+**Result:**
+The drift is real. Whether it is a defect depends on whether the response is read as a complete adjudication or a focused answer to one pushback.
+
+---
+
+### Reading 13 — The exchange reveals a stable Grant–Ziggy–Nova loop
+
+**Primary reading:**
+Grant objects, Ziggy relays, Nova reconstructs.
+
+**Strongest alternative:**
+This is a one-off relay structure produced by the immediate prompt.
+
+**Discriminating evidence:**
+Only one instance exists within the hard boundary.
+
+**Result:**
+One-off interaction structure favored. Stability UNKNOWN.
+
+6. Characterizations That Survived
+
+7. **No G-DIRECT evidence exists.**
+   Every Grant position remains G-REPORTED through Ziggy.
+
+8. **Grant’s reported argument uses consequence testing.**
+   Compression is associated with a predicted convergence outcome, and observed disagreement is treated as contrary evidence.
+
+9. **Grant’s reported argument includes rival-explanation pressure.**
+   Cultural compression is not to receive principal explanatory status without comparison against alternatives.
+
+10. **Ziggy is skeptical but open rather than conclusively dismissive.**
+    “I don’t get it” is followed by “Do you think he has a point?”
+
+11. **Nova performs entailment separation.**
+    Compression and uniform transmission are explicitly separated.
+
+12. **Nova relocates interpretive variance to decompression conditions.**
+    Different personalities, cultures, eras, and experiences are introduced as explanatory variables.
+
+13. **Nova uses analogy to make the distinction intuitive.**
+    “Power corrupts,” the zip-file metaphor, and the compass/GPS comparison perform identifiable explanatory work.
+
+14. **Nova changes the proposed prediction of compression.**
+    Exact convergence is replaced by recurring thematic overlap across cultures and time.
+
+15. **Nova reclassifies myth’s function.**
+    Myth is framed as orientation toward patterns rather than exact proposition transfer.
+
+16. **Nova reconstructs a stronger objection.**
+    The projection and over-interpretation problem is explicitly identified as more serious than simple disagreement.
+
+17. **The original strong thesis remains unestablished.**
+    Nova defends the possibility of compression but does not show that compression is the principal reason stories exist.
+
+18. **Claim-strength drift occurs.**
+    The debate moves from explanatory primacy to logical compatibility.
+
+19. **The response does not fully compare rival explanations.**
+    This applies both to the compression thesis generally and to Nova’s proposed cross-cultural recurrence evidence.
+
+20. **No later adoption by Ziggy is evidenced.**
+    Nova’s formulations remain assistant-generated within the bounded corpus.
+
+21. Characterizations That Weakened
+
+22. **“Grant requires perfect transmission.”**
+    Weakened substantially. The source supports reliable sameness or convergence, but “perfect transmission” is Nova’s stronger formulation.
+
+23. **“Grant’s objection is simply a category or jurisdiction error.”**
+    Weakened. Without a shared definition of compression, Grant may be applying a legitimate constraint requirement rather than importing an obviously alien standard.
+
+24. **“Decoder variance answers Grant’s objection.”**
+    Weakened from a complete answer to a partial answer. It defeats a strict entailment from compression to identical interpretation but does not defeat a probabilistic convergence challenge.
+
+25. **“Cross-cultural recurrence supports compression specifically.”**
+    Weakened. The observation was asserted without comparison to rival explanations.
+
+26. **“Nova’s account is fully symmetrical.”**
+    Rejected. Nova introduces a stronger criticism but does not apply Grant’s comparative burden consistently to the preferred replacement prediction.
+
+27. **“Nova immunizes compression against all criticism.”**
+    Weakened. Nova acknowledges projection and over-interpretation as serious problems. The residual concern is under-falsification, not total immunity.
+
+28. **“Grant’s reported alternative-explanation demand is unreasonable.”**
+    Weakened. Given the word “principally,” comparative explanatory pressure may be appropriate.
+
+29. **“The relationship-level loop is demonstrated as stable.”**
+    Weakened. Only one relay cycle is present.
+
+30. **“Ziggy has adopted the decompression model.”**
+    Unsupported. No post-response acceptance occurs.
+
+31. **“The dispute has been resolved in favor of cultural compression.”**
+    Rejected. The bounded exchange resolves at most one strong version of the convergence objection. The definition of compression, expected degree of convergence, comparative alternatives, projection controls, and explanatory-priority claim remain unresolved.
+
 
 ---
 
