@@ -27,7 +27,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ PASSED field-desk review; Stage 4 authorized; 5 families confirmed; 4 trails ordered at close (IT-027…030); ⚠️ Grant promotion PROHIBITED
+**Status:** ✅ COMPLETE — all 4 stages passed field-desk review. **No promotions executed — plow-through rule holds (5th consecutive sweep).** 3 HIGH candidates queued (Adjudication-Frame Audit; Observer-State/Shared-World Audit; Claim-Type/Method-Fit Audit — with the domain-immunity safeguard); trails IT-027…031 opened; Grant: REPORTED/RECONSTRUCTED NON-SITE
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep, three connected sites: (1) belief / justification / warrant / truth; (2) observer-relative facts vs shared-world facts (the teapot example); (3) whether an adjudication method can exceed the jurisdiction where it earned authority — science, is/ought, and spiritual claim types ("taking the theist idea into their frame to die")
@@ -4324,6 +4324,154 @@ The conversation thoroughly audits scientific adjudication but does not equally 
 
 That asymmetry is partly caused by the thread ending immediately after spirituality enters explicitly. It is informative regarding the packet’s incompleteness, but not sufficient to establish a stable unwillingness by Ziggy to apply symmetry to his own framework.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 + FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: SUCCESSFUL COMPLETED COMPOUND DIG — but Stage 4 still treats
+too many general philosophical techniques as new Museum operators and
+repeatedly maps corrective audits onto the pathology they are resisting.
+The real yield is five consolidated reasoning families, not fourteen
+independent moves.**
+
+```text
+Status: COMPLETE
+Primary value: Ziggy reasoning architecture
+Secondary value: Nova–Ziggy refinement protocol
+Grant profile value: NONE
+Museum promotion: SELECTIVE
+Targeted sub-digs required: YES
+```
+
+**Mature architecture:** separate psychological, epistemic, and
+ontological statuses → inspect the bridge connecting them → distinguish
+observer reports from shared-world claims → identify the adjudicating
+frame → grant its demonstrated authority → test its jurisdiction
+claim-by-claim → **apply the same scrutiny to spiritual testimony** →
+stop provisionally through comparative performance and corrigibility.
+
+**⚠️ MAJOR MAPPING CORRECTIONS — Detector–Pathology Polarity Reversal
+strikes a 4th consecutive sweep (Failure-Atlas seed reinforced):**
+
+- **Component Separation** → too generic for the registry; the precise
+  finding is **Belief–Warrant–Truth Layering** (belief ≠ justification ≠
+  rational retention ≠ truth ≠ knowledge ≠ public authority; Locate
+  Disagreement Layer adjacency).
+- **Independence Testing** → merged into the layering (countermodels test
+  conceptual identity, not epistemic responsibility).
+- **Inferential Bridge Inspection** → does NOT extend Contest-to-Defeat
+  Compression without an actual performer; renamed **Status-Transition
+  Audit** inside the layering; the suspected pathology stays quarantined.
+- **Jurisdiction Escalation** → consolidated as **Adjudication-Frame
+  Audit** (authority, jurisdiction, stopping conditions — symmetry
+  testing is one discipline inside it, not its genus); one of the
+  strongest Ziggy candidates.
+- **Frame Nesting** → IDEA TRAIL / REPRESENTATIONAL SCHEMA (without a
+  stopping rule, "another frame contains this frame" is relabeling, not
+  adjudication).
+- **Local-to-Global Constraint Testing** → renamed **Observer-State /
+  Shared-World Audit**; NOT Possibility Preservation (prevents
+  perspective reports becoming contradictory ontology; nothing about
+  low-probability management).
+- **Relational Globalization** → Cross-Disciplinary Swooping mapping
+  REJECTED as primary; NOVA IDEA TRAIL, not Museum operator.
+- **Concession Before Boundary Challenge** → strengthens existing
+  **Scope-Constrained Concession** (no duplicate).
+- **Domain-Fit Challenge** → does NOT "match" Universalized Evaluative
+  Jurisdiction (corrective audit of the suspected pathology; whether
+  Grant commits it is UNKNOWN); consolidated as **Claim-Type /
+  Method-Fit Audit**.
+- **Is/Ought Gatekeeping** → merged into the method-fit audit (facts
+  constrain moral reasoning; the missing element is the evaluative
+  premise).
+- **Evidence-Type Reclassification** → does NOT extend Generative
+  Admission Restriction (polarity reversed again); mature result:
+  **Experience–Interpretation Separation** (admits first-person evidence
+  while controlling scope).
+- **Symmetrical Overreach Brake** → role/protocol level (strengthens
+  Contested ≠ Defeated + Structural Symmetry with Comparative Reopening).
+- **Hostile-Translation Analogy** → RHETORICAL CARRIER; the underlying
+  **Framework-Translation Fidelity Check** stays provisional (suspicion
+  and metaphor present; completed distortion demonstration absent).
+
+**Serious long-term candidates (3, all HIGH):**
+
+1. **Adjudication-Frame Audit** — what authorizes a standard to judge,
+   and does demonstrated success license present jurisdiction; broader
+   than symmetry testing, sharper than "everything is framed."
+2. **Observer-State / Shared-World Audit** — plural observer reports
+   without contradiction colonizing ontology; cleanest direct
+   demonstration in the packet.
+3. **Claim-Type / Method-Fit Audit** — HIGH *with symmetry restriction*:
+   domain-fit analysis must not become domain immunity.
+
+**Safe provisional Ziggy seeds (7):** category-layer separation;
+adjudication-frame auditing; observer-state/shared-world separation;
+counterexample hardening (recurrence still needed); scope-constrained
+concession (reinforced); claim-type/method-fit scrutiny;
+framework-translation suspicion.
+
+**Relationship-level finding:** the *intuition → formalization → stress
+test → revision* sequence strongly supported — filed as a RELATIONSHIP
+PROTOCOL (Ziggy supplies compressed prey → Nova formalizes → Ziggy
+hardens the test → Nova revises and limits), another same-shaped
+occurrence of the engine-loop family, same-extractor caveat standing.
+
+**The stopping-rule correction (permanent):** frame recursion must not
+end in "every standard is framed → no standard deserves authority"; the
+provisional procedure: *authority proportional to demonstrated
+reliability, claim-type fit, error-correction capacity, public
+accessibility where relevant, explanatory scope, resistance to
+counterevidence, and comparative performance* — defeasible jurisdiction,
+itself open to audit.
+
+**The decisive symmetry application (permanent archive):** whatever
+super-frame scrutiny is applied to science must also be applied to
+testimony, qualia, revelation, and spiritual interpretation. The teapot
+structure supplies the rule: *it is true that A experienced X ≠ A's
+causal explanation of X is true.* Spiritual testimony enters inquiry
+without automatic metaphysical authority; measurement may fail to
+exhaust experience without becoming irrelevant to empirical
+consequences. **This is the balance point.**
+
+**Grant disposition:** `REPORTED / RECONSTRUCTED NON-SITE` — no G-DIRECT
+evidence, no operator promotion, every Grant pathology quarantined; six
+candidate conclusions (falsity / unjustified / not-knowledge / suspend /
+no-public-warrant / lower-confidence) remain undetermined.
+
+**Trails at close (5):** field desk's IT-028–031 + optional IT-032 →
+registry assigns **IT-027 Belief, Warrant, and Ontological Status ·
+IT-028 Observer Frames and Shared-World Constraint · IT-029 Scientific
+Jurisdiction and Spiritual Claim Types · IT-030 Super-Frame Regress and
+Provisional Epistemic Stopping · IT-031 Experience, Interpretation, and
+Public Authority** (off-by-one noted; field-desk ids in trail headers).
+
+**FINAL QC (key rulings, verbatim):** the packet preserves both
+*scientific authority without scientific sovereignty* and *spiritual
+evidence without spiritual immunity* · belief persistence does not
+establish rational entitlement · experience reality does not establish
+interpretive truth · framework dependence does not establish
+arbitrariness · methodological limitation does not prove the rival
+framework · **no Grant operator promotes.**
+
+**Deepest yield of the sweep:**
+
+> *The correct alternative to a universal scientific tribunal is not a
+> protected spiritual tribunal. It is **claim-sensitive adjudication**:
+> separate the experience from its interpretation, the belief from its
+> warrant, the observer report from the world-state, and the method's
+> earned authority from the jurisdiction it merely claims.*
+
+**Close-out orders (filing clerk):** rename workbook to the field-desk
+archive identity (typo fix included); trails IT-027…031 opened; lexicon
+paragraph + promotion-log row (**fifth consecutive zero-promotion
+sweep**); Ziggy recursive ledgers updated (3 HIGH candidates + seed
+bumps; Scope-Constrained Concession → 3rd instance); engine-loop family
+gains the intuition→formalization→stress-test→revision occurrence in
+RELATIONSHIP_MAP; board, INDEX, timeline entries; memory updated.
 
 ---
 

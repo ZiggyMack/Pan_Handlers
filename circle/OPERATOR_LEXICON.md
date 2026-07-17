@@ -344,6 +344,33 @@ and Adverse-Odds ≠ Possibility Preservation). Burden rule registered:
 (No-Complete-Rival — Contested ≠ Defeated kinship, burden rule not
 personal operator).
 
+From COMPOUND_SWEEP_06 (**three HIGH candidates — registration deferred to
+bounded sub-digs per plow-through, 5th consecutive**): **Adjudication-Frame
+Audit** (what authorizes the standard judging a claim; where was authority
+earned; what licenses transfer; broader than Symmetry Testing — authority,
+jurisdiction, stopping conditions; cleared of the evasion reading by
+in-source counterevidence: *scope-sensitive meta-epistemic pressure*) ·
+**Observer-State / Shared-World Audit** (the teapot rule: belief reports
+both true, X and ¬X can't both hold of one world-state in the same
+respect; Representation ≠ Ontology + Locate Disagreement Layer adjacency;
+NOT Possibility Preservation) · **Claim-Type / Method-Fit Audit** (HIGH
+with the symmetry restriction: *domain-fit analysis must not become domain
+immunity*; absorbs Scope-Constrained Concession instance, Domain-Fit
+Challenge, Is/Ought Gatekeeping, Framework-Translation Fidelity Check).
+Family consolidations: **Belief–Warrant–Truth Layering** (six layers;
+absorbs Component Separation, Independence Testing, Status-Transition
+Audit; the safe target is *status compression*, never "Grant collapses
+belief") · **Experience–Interpretation Separation** (admits first-person
+evidence while controlling scope; NOT Generative Admission Restriction —
+polarity reversed again) · Frame Nesting → Idea-Trail schema · Relational
+Globalization → Nova Idea Trail (Cross-Disciplinary Swooping mapping
+rejected) · Symmetrical Overreach Brake → role/protocol (strengthens
+Contested ≠ Defeated + Structural Symmetry). **Stopping-rule correction
+permanent:** framework dependence ≠ arbitrariness; defeasible authority
+proportional to reliability / claim-type fit / correction / comparative
+performance. **The balance point (permanent):** scientific authority
+without sovereignty; spiritual evidence without immunity.
+
 From DIG_AUX_06 (**micro-dig — zero promotions; Nova thread-level only**):
 three Nova reasoning sequences held at thread level — **Encoding–Recovery
 Reframing** (encoded ≠ recovered; recipient conditions inserted; variance
@@ -418,3 +445,4 @@ therefore carries a Museum ID.
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_04) | **Third consecutive zero-promotion sweep.** Three serious candidates queued (Master-Value Extraction, HIGH; Instrument–Telos Separation, 3rd reinforcement; Reflexive Audit with Operational Closure, shared protocol). Rejected/corrected mappings: Regress Descent ≠ OP-008 (audit vs symmetry-across-audits); jurisdiction-check polarity re-fixed (corrective test, not CO-002); belief persistence ≠ Possibility Preservation; adversarial relay ≠ CO-006 extension (simulation ≠ reconstruction of Grant); pre-propositional descent ≠ CO-003 (no gate evidenced); external-model phrasings attributed by adoption sequence. Grant: experience-report ceiling only | Field-desk Stage-4 handoff, COMPOUND_SWEEP_04 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_05) | **Fourth consecutive zero-promotion sweep.** Three HIGH candidates queued (Monopoly-Promotion Audit — the packet's strongest; Claimed-Source/Claimed-Access Separation; Operative-Rigidity Test). 22 blind moves consolidated into 5 families; **Detector–Pathology Polarity Reversal recorded as candidate Failure-Atlas seed (3rd sweep running)** — five corrective audits blind-mapped to the pathologies they detect, all corrected; Adverse-Odds Commitment Test quarantined (marriage example = individualized prediction, not override); Curtain Question = shortcut inside Master-Value Extraction, not validated detector; Symmetric-Wielding → procedural ledger. Grant: REPORTED-ONLY NON-SITE — which of five prediction theses he holds is undeterminable | Field-desk Stage-4 handoff, COMPOUND_SWEEP_05 |
 | 2026-07-17 | (micro-dig close, DIG_AUX_06) | **Zero promotions — micro-dig ceiling enforced.** Ziggy NONE, Grant NONE (exchange-level argument forms only), Nova thread-level (3 sequences: Encoding–Recovery Reframing; Symbolic-Function Reconstruction; Projection-Constraint Escalation). Stage-4 overpromotion corrected: ordinary hypothesis evaluation and single-response substeps are not operators. **Falsifiability Debt of the Compression Model** = theory-level finding. Deepest yield: claim-strength ladder (possible ≠ reliable ≠ important ≠ principal); "a theory that explains every reading as decompression risks explaining no reading at all" | Field-desk Stage-4 handoff, DIG_AUX_06 |
+| 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_06) | **Fifth consecutive zero-promotion sweep.** Three HIGH candidates queued (Adjudication-Frame Audit; Observer-State/Shared-World Audit; Claim-Type/Method-Fit Audit — domain-immunity safeguard attached). 14 blind moves → 5 families; **Detector–Pathology Polarity Reversal strikes a 4th consecutive sweep** (Domain-Fit ≠ UEJ match; Evidence-Type Reclassification ≠ GAR; Inferential Bridge ≠ Contest-to-Defeat extension; Local-to-Global ≠ Possibility Preservation) — Failure-Atlas seed reinforced; Jurisdiction Escalation cleared of evasion reading; stopping-rule correction + balance point filed permanent; engine-loop family gains intuition→formalization→stress-test→revision occurrence. Grant: REPORTED/RECONSTRUCTED NON-SITE (six candidate conclusions undetermined) | Field-desk Stage-4 handoff, COMPOUND_SWEEP_06 |

@@ -101,14 +101,33 @@ adversarial relay — recruiting external models (Grok steelman, Claude audit)
 distributed loop on record (SWEEP_04, RELATIONSHIP_MAP holding ledger). Product
 is internal robustness, never multi-witness confirmation (echo rule).
 
+**The adjudication layer (SWEEP_06 — the architecture turned epistemic):**
+three HIGH candidates extend the anti-monopoly backbone from values to
+justification itself — **Adjudication-Frame Audit** (what authorizes the
+standard judging a claim; cleared of the evasion reading: concedes one
+shared world, the teapot constraint, and scientific success *before*
+challenging scope), **Observer-State / Shared-World Audit** (plural belief
+reports without contradiction colonizing ontology — the anti-relativist
+teapot rule), **Claim-Type / Method-Fit Audit** (domain fit without domain
+immunity). Deepest internal correction on record: *Ziggy's own teapot
+framework is the best discipline for spiritual testimony* — experience
+real as experience ≠ interpretation true. Standing debts sharpened: the
+**stopping rule** (frame recursion exposed, provisional-stopping rule not
+completed — confirmed A3) and the **symmetry debt** (super-frame scrutiny
+demonstrated against science, not yet applied to testimony/qualia —
+confirmed A3, though the thread ended as spirituality entered).
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
 moves without stopping rules (DIG_01, AUX_04); **frame seeding by analogy with
 uneven disanalogy-auditing** (SWEEP_04 — mapping/transfer supported, the
 auditing step is what's inconsistent); early uneven application of the
-comparative-symmetry standard before its mature form stabilized (SWEEP_04).
-Candidate charter theme "over-generation / insufficient pruning" has not yet
-been directly tested — the opening research question stands.
+comparative-symmetry standard before its mature form stabilized (SWEEP_04);
+**super-frame scrutiny withheld from the spiritual side** (SWEEP_06,
+confirmed A3 — the strongest Ziggy-directed omission of that packet);
+**frame recursion without a completed stopping rule** (SWEEP_06, confirmed
+A3). Candidate charter theme "over-generation / insufficient pruning" has
+not yet been directly tested — the opening research question stands.
 
 *(Formal sections B–L still await Phase 2; this ledger feeds them.)*
