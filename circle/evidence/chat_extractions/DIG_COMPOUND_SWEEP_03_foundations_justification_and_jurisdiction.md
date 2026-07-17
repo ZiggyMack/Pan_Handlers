@@ -1,6 +1,6 @@
 # COMPOUND SWEEP 03 — Foundations, Justification, and Jurisdiction
 
-**Status:** STAGE 2 COMPLETE — PASS AS COMPOUND SWEEP; STAGE 3 AUTHORIZED · **⚡ PLOW-THROUGH MODE** (candidate harvest only — no operator or profile promotion without bounded sub-dig confirmation)
+**Status:** STAGE 3 COMPLETE — PASS AS COMPOUND SWEEP; STAGE 4 AUTHORIZED · **⚡ PLOW-THROUGH MODE** (candidate harvest only — no operator or profile promotion without bounded sub-dig confirmation)
 **Primary value:** Ziggy reasoning architecture · **Grant value:** reported-position leads only
 **Coverage:** hits checklist theme #4 — *the jurisdiction of justification* (Z-06's home trench)
 **Protocol:** v0.2.2 Stage 1 (bounded) · **Extraction date:** 2026-07-17
@@ -4330,6 +4330,91 @@ Weakened substantially.
 Because no G-DIRECT evidence exists, nearly every Grant characterization remains vulnerable to compression artifacts introduced by retrospective reporting.
 ```
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS — run Stage 4.** Best decision: **no confirmed A3/A2
+omissions** — refusing to manufacture availability failures against an absent
+interlocutor; A1 was the correct tier throughout. Strongest identified
+omissions (all A1, all closure-blocking): no full reconstruction of Grant's
+actual framework; no operational definition of "justification"; no
+underdetermination/inconsistency distinction; no reverse-role stress test; no
+procedure for adjudicating competing jurisdictions.
+
+**Central correction (keystone):** the suffering argument establishes
+**UNDERDETERMINATION, not contradiction** — "minimize suffering" does not
+uniquely entail Grant's reported program ≠ Grant's framework is internally
+inconsistent. A richer framework (rights, autonomy, agency, distribution,
+uncertainty, persons-not-mere-means, future value, lexical constraints) may
+absorb the reductio entirely. Safe finding: *the reported terminal value is
+insufficiently specified to determine policy by itself.* Still strong.
+
+**Strongest survivors:** Framework Transplant (cleanest profile candidate —
+*enters* the framework rather than attacking externally; validity conditional
+on complete, charitable reconstruction); Scope-Constrained Concession (with
+the guard: *a framework can be constructed to support almost anything —
+framework-relative success must be followed by framework evaluation*);
+**Constraint-Exhaustion Stress Test** (compression confirmed: drive to limit
+→ revise around objections → identify the constraint that finally stops the
+derivation); Qualifier Reopening — WITH the stopping condition now specified:
+a qualifier genuinely constrains when it has *specified inputs, ordering
+rules, thresholds, conflict-resolution procedures, and observable application
+consistency* (← an operationalization checklist for "all things considered");
+Inferential-Role Separation; Standard-Authority Challenge (deepest — "stands
+up to scrutiny" is incomplete until the scrutiny's authority and criteria are
+named); Jurisdiction Indexing (**emerging tool, not mature theory** — the
+decisive problem: *how to compare jurisdictions rather than merely list
+them*).
+
+**Too-generous claims corrected:** Framework Transplant "recurrence" = one
+extended dispute → strong thread-level use, not yet cross-context operator;
+Terminal Stress Testing — limiting-case tests ≠ application tests ≠
+concept-disambiguation tests: don't merge every extreme example because
+pressure was applied; Category-Boundary Defense stays in the physics
+tributary, out of the profile result.
+
+**Stage-4 mapping expectations registered (scoreable)** — strong NEW
+candidates: Framework Transplant; Constraint-Exhaustion Stress Test;
+Inferential-Role Separation. OP-013/OP-007 territory: Scope-Constrained
+Concession, Standard-Authority Challenge, Reason–Justification Separation,
+Jurisdiction Indexing (possible NEW extension).
+
+**Five mapping dangers registered:** no Baseline Exemption forcing (pressure
+was *attempted* recursively; Grant's response is unknown); Framework
+Transplant ≠ Reconstruction Bypass (it's reconstruction + adversarial
+implementation — bypass only if the import was a thin principle); the
+reductio ≠ Contest-to-Defeat (it demands constraints, doesn't declare
+defeat); Jurisdiction Indexing ≠ relativism (standard-indexed verdicts ≠
+equally valid standards ≠ jurisdiction-relative truth); lack of consent ≠
+justification.
+
+**Seven provisional Ziggy profile seeds (candidate-only):** framework
+transplant; scope control; constraint exhaustion; qualifier reopening;
+inferential-role separation; standard-authority challenge; jurisdiction
+indexing (*without* a method for adjudicating among jurisdictions — noted).
+
+**Relationship finding:** Nova compresses → Ziggy adopts core → **Ziggy audits
+the metaphor for functional accuracy** → corrects assignment → Nova rebinds
+(compass/map/breadcrumb exchange) — stays relationship-level; the two
+"operators" it spawned dissolve into the loop.
+
+**Grant disposition:** nothing promotes. Reported responses to the reductio
+(feasibility; harm to survivors; minimize-not-eliminate; "all things
+considered") *may be substantive elements of a richer view, improvised
+defenses, or compressed recollections — the source cannot determine which.*
+
+**Central Stage-4 question (registered):** *does Ziggy's jurisdiction model
+provide a way to compare justificatory standards, or does it merely explain
+why each framework can continue ruling in its own favor?* Final mapping must
+preserve the three-layer distinction: **a conclusion follows inside a
+framework / the framework deserves adoption / the framework has authority
+over rivals.** The conversation advances the first and exposes the third —
+the bridge between them is unbuilt.
 
 ---
 
