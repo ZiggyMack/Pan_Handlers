@@ -94,7 +94,7 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_09.md` | | EMPTY |
 | `DIG_10.md` | | EMPTY |
 | `DIG_11.md` | *(template consumed into DIG_AUX_05)* | — |
-| `DIG_AUX_05_story_genre_wisdom_compression_and_orientation.md` | Story as wisdom compression; genre plurality vs Hero's Journey; Ethos/Pathos/Logos as orientation channels; **first Tale Recursion appearance**; 3 assistant-imported Grant positions caught & ruled UNSUPPORTED | STAGE 1 COMPLETE — field-desk PASS w/ corrections (date→UNKNOWN; orientation pending adoption; Grant ledger compressed — NON-SITE); Stage 2 authorized; X-CONTEXT yielded 4 named-title leads |
+| `DIG_AUX_05_story_genre_wisdom_compression_and_orientation.md` | Story as wisdom compression; genre plurality vs Hero's Journey; Ethos/Pathos/Logos as orientation channels; **first Tale Recursion appearance**; 3 assistant-imported Grant positions caught & ruled UNSUPPORTED | STAGE 2 COMPLETE — Stage 3 authorized; Nova merges ordered (3 consolidated models); Proxy Objection Construction logged as 2nd Failure-Atlas seed; core prey: wisdom-compression vs influence-compression |
 
 Keep the Status column in sync with each workbook's Status line
 (EMPTY → IN PROGRESS → COMPLETE → FILED).

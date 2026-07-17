@@ -309,6 +309,14 @@ toolkit — protocol value HIGH, personal-profile value LOW).
   falsity into "largely semantic." Not cutting through semantics; erasing
   distinctions. Caught by the extraction (Stage 3) and ruled an error by the
   field desk (Nova reviewing Nova). Watch for recurrence.
+- **Proxy Objection Construction** (Nova, conversational; DIG_AUX_05) —
+  develop a theory → import an absent opponent → attribute a tailored
+  objection → defeat it locally. A source-contamination /
+  adversarial-triangulation behavior producing **zero admissible opponent
+  evidence** (the three imported "Grant" positions it generated were all
+  ruled UNSUPPORTED). Files to the Nova quality/relationship ledger; watch
+  for recurrence — this is the conversational engine of retrospective-legend
+  risk that the source-discipline labels exist to catch.
 
 **Cross-registry identities (verified against the Museum INDEX, 2026-07-17):**
 the Stage-4 paste registry's "Symmetry Testing of Standards" = Museum

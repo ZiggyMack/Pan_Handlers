@@ -1,6 +1,6 @@
 # DIG AUX 05 — Story, Genre, Wisdom Compression, and Orientation
 
-**Status:** STAGE 1 COMPLETE — field-desk PASS WITH MINOR CORRECTIONS; STAGE 2 AUTHORIZED (wholesale — no subdivision needed)
+**Status:** STAGE 2 COMPLETE — field-desk PASS AS AUXILIARY COMPOUND SWEEP; STAGE 3 AUTHORIZED · no direct operator promotion
 **Site type:** AUXILIARY / CO-CONSTRUCTION · **Grant qualification: NON-SITE** · **Ziggy qualification:** LIMITED BUT CLEAN · **Nova contribution:** DOMINANT
 *(Field desk suggested identity "DIG_AUX_09"; operator's AUX_05 numbering kept — 06–08 remain reserved for SWEEP_02's children)*
 **Primary subject:** Ziggy–Nova conceptual exchange (no adversarial dispute in-thread)
@@ -818,7 +818,943 @@ Begin Stage 2 now.
 
 ### ⏬ STAGE 2 OUTPUT
 
-(paste Stage 2 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 2
+
+1. Museum-Blind Reasoning Moves
+
+### Move 1 — Compression-Metaphor Seeding
+
+**Actor:** Ziggy
+**Definition:** Introduces a familiar technical metaphor to represent story as a compact carrier of complex wisdom. This is classified as a cognitive move rather than merely colorful phrasing because the metaphor actively determines the subsequent questions about storage, transmission, decoding, and format.
+**Trigger:** Recognition that stories transmit more than entertainment or explicit propositions.
+**Operation:** Maps digital compression onto cultural narrative:
+
+* wisdom corresponds to dense source material;
+* story corresponds to a compressed archive;
+* retelling corresponds to transmission;
+* interpretation corresponds to extraction.
+
+**Output:** “Story” becomes analyzable as an information-and-orientation technology rather than only an artistic object.
+**Productive function:** Creates a compact working model capable of generating further hypotheses.
+**Failure mode:** The metaphor may falsely imply that stories contain fixed, losslessly recoverable contents or that disagreement proves failed decompression.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “story is such a powerful tool for mankind … almost our 7-zip like tool for wisdom,” opening user message.
+**Confidence:** High.
+**Alternative explanation:** It could be an isolated rhetorical flourish. That explanation is weaker because the rest of the exchange repeatedly develops implications belonging specifically to compression: multiple formats, transmission, extraction, and differing outputs.
+
+---
+
+### Move 2 — Dominant-Template Destabilization
+
+**Actor:** Ziggy
+**Definition:** Questions whether a familiar explanatory template has become overgeneralized and opens the search for alternate structures. This is an exploratory reasoning move because it suspends a presumed default without yet asserting a replacement.
+**Trigger:** Suspicion that story theory may be disproportionately calibrated around the Hero’s Journey.
+**Operation:** Treats the dominant framework as one possible format rather than the universal definition of narrative.
+**Output:** A new search space involving genre-specific or non-heroic narrative structures.
+**Productive function:** Prevents one successful explanatory pattern from monopolizing the entire domain.
+**Failure mode:** The dominant framework may be caricatured or rejected before its actual scope is established.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “it’s prolly mostly calibrated for the heroes journey — and curious what other formats would look like,” opening user message.
+**Confidence:** High.
+**Alternative explanation:** Ziggy may only be asking for additional examples rather than challenging the framework’s universality. The wording supports both readings, so the destabilization remains provisional.
+
+---
+
+### Move 3 — Universal Pattern to Functional Plurality
+
+**Actor:** Nova
+**Definition:** Replaces a single universal transformational pattern with a plurality of genre-specific functions. It counts as a cognitive transformation because it changes the organizing question from “What structure do stories share?” to “What recurring problem does each story type address?”
+**Trigger:** Ziggy’s concern that narrative analysis may be overcalibrated around the Hero’s Journey.
+**Operation:** Contrasts two levels of analysis:
+
+* universal transformation;
+* differentiated genre functions.
+
+Nova then assigns provisional human problems to crime, horror, love, action, myth, fantasy, and thriller.
+**Output:** Genres are framed as distinct cultural instruments rather than cosmetic variations of one plot.
+**Productive function:** Allows different story forms to carry different kinds of practical or existential wisdom.
+**Failure mode:** Genres may be reduced to one function each, ignoring hybrids, historical variation, and commercial convention.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** PROMPT-INDUCED
+**Source Anchor:** Nova, “Different genres solve different human problems,” early first assistant response.
+**Confidence:** High that the move occurs; medium regarding the accuracy of the specific genre-function assignments.
+**Alternative explanation:** This may be a pedagogical simplification rather than a genuine claim that genres possess stable essential functions.
+
+---
+
+### Move 4 — Function-First Reframing
+
+**Actor:** Nova
+**Definition:** Investigates a cultural form by asking what recurring problem would make it useful enough to persist. This is more than a substantive belief because the same inferential procedure is applied first to genre and then to religion.
+**Trigger:** The possibility that stories act as civilizational technologies.
+**Operation:** Moves from surface content to hypothesized function:
+
+1. observe recurrence;
+2. infer sustained usefulness;
+3. identify the human problem addressed;
+4. reinterpret the narrative form through that function.
+
+**Output:** The discussion shifts from classifying stories to explaining why human communities repeatedly produce them.
+**Productive function:** Reveals hidden continuity among stories with very different plots or doctrines.
+**Failure mode:** Persistence can be mistakenly treated as proof of adaptiveness, truth, or beneficial function; harmful practices can also persist.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Nova, “If every genre evolved to solve a recurring human problem, what recurring human problem gave rise to religion?” late first assistant response.
+**Confidence:** High.
+**Alternative explanation:** Nova may be using teleological language loosely. Historical recurrence does not establish that a form was deliberately invented to perform one stable function.
+
+---
+
+### Move 5 — Shared Input / Variable Extraction Distinction
+
+**Actor:** Nova
+**Definition:** Separates the transmission of a common symbolic object from the interpretations different recipients derive from it. It is classified as a reasoning move because it resolves a potential contradiction within the compression model.
+**Trigger:** Nova’s introduced objection that a compressed wisdom carrier should yield the same message to everyone.
+**Operation:** Uses the archive metaphor to distinguish:
+
+* identical received package;
+* selective extraction;
+* unequal interpretive skill;
+* different accessed layers.
+
+**Output:** Interpretive disagreement no longer automatically falsifies the claim that stories carry compressed wisdom.
+**Productive function:** Preserves the compression thesis while accounting for audience variation.
+**Failure mode:** The distinction can immunize the theory from disconfirmation: any disagreement may be blamed on defective extraction rather than ambiguous or absent content.
+**Functional Type:** REGULATORY / INHIBITORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Nova, “Everyone receives the same archive. Not everyone extracts the same files,” middle of first assistant response.
+**Confidence:** High.
+**Alternative explanation:** This could be a post hoc defense of the metaphor rather than an independently justified model of interpretation.
+
+---
+
+### Move 6 — Proxy Objection Construction
+
+**Actor:** Nova
+**Definition:** Introduces an absent opponent’s supposed objection and then answers it. This qualifies as an evaluative move because it stress-tests the developing model, but the particular attribution is unsupported within the bounded thread.
+**Trigger:** Need to address the apparent problem of divergent interpretations.
+**Operation:**
+
+1. attributes an objection to Grant;
+2. reformulates the objection as a uniform-decoding expectation;
+3. answers it through the extraction distinction.
+
+**Output:** A defended version of the story-compression hypothesis.
+**Productive function:** Anticipates criticism and forces the model to explain interpretive plurality.
+**Failure mode:** Risks importing an external dispute, misrepresenting an absent person, or producing a straw opponent tailored to the proposed solution.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** ROLE-INDUCED
+**Source Anchor:** Nova, “Remember Grant’s objection: ‘If stories compress wisdom, why don’t we all get the same message?’” middle of first assistant response.
+**Confidence:** High that Nova performs the move; no confidence that the attributed objection accurately represents Grant.
+**Alternative explanation:** Nova may be using “Grant” as shorthand for previously shared context rather than consciously constructing a proxy adversary. Within this bounded corpus, that context remains inadmissible.
+
+---
+
+### Move 7 — Propositional / Embodied Knowledge Separation
+
+**Actor:** Nova
+**Definition:** Distinguishes stating a lesson from placing that lesson inside imagery, emotion, consequence, character, and memory. It is a transformative move because it changes the unit of transmitted wisdom from proposition alone to enacted pattern.
+**Trigger:** Need to explain why narrative can carry something that a concise maxim does not.
+**Operation:** Contrasts an abstract statement such as “pride causes destruction” with narratives that dramatize pride and its consequences.
+**Output:** Story is treated as embodied or enacted knowledge rather than decorated argument.
+**Productive function:** Explains why narratives can alter perception, memory, motivation, and identity even when their explicit lesson is already known.
+**Failure mode:** Emotional vividness may be confused with truth, and narrative persuasion may overpower critical evaluation.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Nova, “The lesson becomes embodied. Not merely stated,” middle of first assistant response.
+**Confidence:** High.
+**Alternative explanation:** The contrast could be purely rhetorical rather than a developed epistemic distinction, although Nova’s reference to tacit knowledge supports the stronger interpretation.
+
+---
+
+### Move 8 — Multi-Channel Integration
+
+**Actor:** Ziggy initiates; Nova elaborates.
+**Definition:** Brings logical reasons, emotional salience, and speaker or character credibility into one model of how stories relate to people. This is co-constructed rather than attributable to either participant alone.
+**Trigger:** Ziggy notices that the story discussion resembles Ethos, Pathos, and Logos.
+**Operation:**
+
+1. Ziggy detects conceptual overlap;
+2. Nova treats the three modes as simultaneously available within narrative;
+3. each mode is assigned a different communicative contribution;
+4. story is described as their integrated carrier.
+
+**Output:** Narrative becomes a composite persuasive and orientational system rather than a purely logical message.
+**Productive function:** Explains why a story may reach people who resist bare argument and why identification with characters matters.
+**Failure mode:** The classical rhetorical categories may be flattened into modern psychological channels, losing important distinctions in their original use.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** VOLUNTARY for Ziggy; PROMPT-INDUCED for Nova
+**Source Anchors:**
+
+* Ziggy, “how close we are to the concepts of Ethos, Pathos, and Logos,” closing portion of opening message.
+* Nova, “stories are usually: Ethos + Pathos + Logos bundled together,” middle of first assistant response.
+
+**Confidence:** High.
+**Alternative explanation:** The triad may only be an analogy for three influences rather than a literal model of narrative operation.
+
+---
+
+### Move 9 — Concrete Scenario Calibration
+
+**Actor:** Nova
+**Definition:** Tests an abstract distinction by holding a proposition roughly constant while varying its emotional and credibility conditions. This is an exploratory cognitive move because the example probes which variable changes persuasive force.
+**Trigger:** Need to show why Logos alone may not move a person.
+**Operation:** Compares:
+
+* statistical information about smoking;
+* witnessing someone die from lung cancer;
+* receiving the warning from a beloved grandfather.
+
+**Output:** A practical illustration of how similar propositional content acquires different force through emotional experience and trusted embodiment.
+**Productive function:** Makes the rhetorical triad operational rather than merely definitional.
+**Failure mode:** The example can blur persuasion with justification; a claim’s emotional force does not determine its truth.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** PROMPT-INDUCED
+**Source Anchor:** Nova, “Smoking increases mortality risk … Now compare that to watching someone die of lung cancer,” later first assistant response.
+**Confidence:** High.
+**Alternative explanation:** The scenario may be only illustrative rhetoric, but because it varies communicative conditions while retaining a common topic, it performs a genuine informal comparison.
+
+---
+
+### Move 10 — Deepest-Function Search
+
+**Actor:** Ziggy
+**Definition:** Requests the superordinate function beneath multiple candidate benefits of storytelling. This is a consequential one-time move because it raises the level of abstraction and forces prioritization.
+**Trigger:** Nova’s function-first question concerning religion and recurring human problems.
+**Operation:** Treats widespread civilizational recurrence as evidence that stories answer a need important enough to require repeated symbolic transmission.
+**Output:** A search for a master function rather than a list of local genre functions.
+**Productive function:** Forces theoretical compression and exposes which explanatory category is doing the most work.
+**Failure mode:** May presume one universal function where several partially independent functions exist.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “What function do you think was important enough that every civilization repeatedly invented stories to carry it?” second user message.
+**Confidence:** High.
+**Alternative explanation:** Ziggy may be inviting speculation rather than committing to the premise that all civilizations independently invented stories for one shared purpose.
+
+---
+
+### Move 11 — Candidate Elimination by Subsumption
+
+**Actor:** Nova
+**Definition:** Selects a master category by treating morality, social cohesion, prediction, and survival as downstream cases of a more general function. It is classified as evaluative because Nova explicitly ranks candidate explanations rather than merely listing them.
+**Trigger:** Ziggy’s request for the function important enough to explain civilizational recurrence.
+**Operation:**
+
+1. names several plausible candidates;
+2. rejects them as deepest explanations;
+3. proposes “orientation”;
+4. shows how the other candidates can be located within it.
+
+**Output:** Orientation becomes the proposed master function of story.
+**Productive function:** Produces a unified theory capable of organizing many narrative forms.
+**Failure mode:** “Orientation” may become so broad that it explains everything and therefore discriminates little. The rejected candidates are asserted to be downstream without demonstration.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** PROMPT-INDUCED
+**Source Anchor:** Nova, “Not morality. Not social cohesion. Not prediction. Not even survival. Those are all downstream. The deeper function is: Orientation,” opening of final assistant response.
+**Confidence:** High that the move occurs; medium regarding the success of the subsumption.
+**Alternative explanation:** “Orientation” may function as a rhetorically resonant umbrella term rather than a rigorously superior causal explanation.
+
+---
+
+### Move 12 — Existential Question Decomposition
+
+**Actor:** Nova
+**Definition:** Operationalizes the broad term “orientation” by decomposing it into recurring first-person questions. This protects the master category from remaining entirely abstract.
+**Trigger:** Introduction of orientation as the deepest function.
+**Operation:** Breaks orientation into:
+
+* Where am I?
+* What am I?
+* What should I do?
+* What matters?
+* What happens if I fail?
+
+**Output:** A provisional set of dimensions that stories may answer.
+**Productive function:** Makes the concept testable against different story forms.
+**Failure mode:** The selected questions may reflect one philosophical tradition and omit play, beauty, communal memory, technical instruction, or entertainment.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Nova, “Where am I? What am I? What should I do? What matters? What happens if I fail?” early final assistant response.
+**Confidence:** High.
+**Alternative explanation:** The questions may be evocative illustrations rather than intended components of a formal model.
+
+---
+
+### Move 13 — Genre-to-Orientation Mapping
+
+**Actor:** Nova
+**Definition:** Tests the proposed master function by mapping different story families onto different orientational questions. It counts as an exploratory move because the theory is applied across cases to assess breadth.
+**Trigger:** Need to show that “orientation” can organize diverse narrative forms.
+**Operation:** Assigns:
+
+* creation myth → origin;
+* hero myth → conduct under difficulty;
+* religious myth → ultimate importance;
+* tragedy → destructive patterns;
+* love story → sacrificial value;
+* horror → forbidden boundaries.
+
+**Output:** Genre plurality is retained beneath a common orientational function.
+**Productive function:** Reconciles the earlier pluralist model with the later master-function model.
+**Failure mode:** The mappings are selective and may ignore counterexamples or genres serving multiple incompatible orientations.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** PROMPT-INDUCED
+**Source Anchor:** Nova, “Creation myths answer: ‘Where did we come from?’ Hero myths answer: ‘How should one face difficulty?’” early-middle final assistant response.
+**Confidence:** High.
+**Alternative explanation:** The list may be illustrative and not intended as an exhaustive or exclusive taxonomy.
+
+---
+
+### Move 14 — Description / Orientation Jurisdiction Split
+
+**Actor:** Nova
+**Definition:** Separates two kinds of cognitive task and argues that they should not automatically be evaluated by identical standards. This is a regulatory move because it limits which criteria may legitimately govern which claims.
+**Trigger:** The tension between literal factual evaluation and the practical value of myth or story.
+**Operation:** Distinguishes:
+
+* description: representing how reality is;
+* orientation: locating an agent within reality and guiding action.
+
+Nova uses science and story as the exemplary domains.
+**Output:** A proposed boundary against reducing narrative value to scientific prediction or photographic correspondence.
+**Productive function:** Prevents category collapse and clarifies why a narrative can be useful without functioning like an equation.
+**Failure mode:** The split may shield false descriptive claims embedded in orientational systems. Stories and religions frequently make both descriptive and orientational claims, so clean separation may be impossible.
+**Functional Type:** REGULATORY / INHIBITORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Nova, “Human beings don’t merely need descriptions of reality; they need orientation within reality. Science excels at description. Story excels at orientation,” late final assistant response.
+**Confidence:** High that Nova proposes the split; medium that the boundary can be sustained.
+**Alternative explanation:** This may identify a difference in emphasis rather than distinct jurisdictions.
+
+---
+
+### Move 15 — Map / Photograph Functional Analogy
+
+**Actor:** Nova
+**Definition:** Defends non-photographic representations by evaluating them according to navigation rather than visual duplication. This is a rhetorical and evaluative move, not merely a belief, because it transfers a criterion of adequacy from maps to stories.
+**Trigger:** Need to explain how an account can orient without being a perfect literal depiction.
+**Operation:** Contrasts:
+
+* photograph-like correspondence;
+* map-like selective representation;
+* navigational usefulness.
+
+**Output:** A story can be assessed partly by whether it helps agents navigate, not only by whether every element is literal.
+**Productive function:** Clarifies that useful representations simplify, select, and structure.
+**Failure mode:** A map is still accountable to the terrain. The analogy can be abused to excuse narratives that orient effectively through serious falsehoods.
+**Functional Type:** RHETORICAL
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Nova, “A map can fail to be a perfect photograph and still help you navigate,” middle-late final assistant response.
+**Confidence:** High.
+**Alternative explanation:** The analogy may be intended only to show that representation and use differ, not to grant myths immunity from factual criticism.
+
+---
+
+### Move 16 — Cross-Framework Convergence
+
+**Actor:** Nova
+**Definition:** Places several thinkers’ approaches side by side and treats them as potentially describing different layers of one phenomenon. This is exploratory synthesis rather than an individual substantive belief because it compares explanatory jurisdictions.
+**Trigger:** Recurrence of similar story patterns across cultures.
+**Operation:** Assigns provisional emphases:
+
+* recurring structures of experience;
+* recurring structures of transformation;
+* practical usefulness.
+
+Nova then proposes that these may be complementary rather than mutually exclusive.
+**Output:** A layered explanatory model linking psychology, transformation, and pragmatism.
+**Productive function:** Prevents premature either/or selection among theories operating at different explanatory levels.
+**Failure mode:** Apparent complementarity may be asserted without resolving genuine theoretical incompatibilities.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** ROLE-INDUCED
+**Source Anchor:** Nova, “Interestingly, those aren’t necessarily competing explanations. They may be describing different layers of the same phenomenon,” later final assistant response.
+**Confidence:** High.
+**Alternative explanation:** Named thinkers may be serving as authority signals rather than as rigorously compared frameworks, since no primary textual evidence is examined.
+
+---
+
+2. Operator Sequences
+
+### Sequence A — Intuition to General Theory
+
+1. Ziggy introduces story as “7-zip” for wisdom.
+2. Ziggy questions Hero’s Journey dominance.
+3. Nova pluralizes story functions by genre.
+4. Nova reframes genres as recurring-problem technologies.
+5. Ziggy asks for the deepest civilizational function.
+6. Nova proposes orientation.
+7. Nova maps genre plurality back under orientation.
+
+**Sequence output:** A movement from metaphorical intuition to a tentative general theory of narrative.
+
+**Productive effect:** The original metaphor is not merely praised; it is progressively differentiated and then recompressed into a higher-order thesis.
+
+**Failure risk:** Each escalation increases abstraction while empirical support remains absent.
+
+**Source span:** Opening user message through the first half of the final assistant response.
+
+---
+
+### Sequence B — Objection, Distinction, Preservation
+
+1. Nova introduces the possible objection that shared compression should yield shared interpretation.
+2. Nova distinguishes package identity from extraction behavior.
+3. Nova identifies multiple layers within myth.
+4. Nova preserves the compression model despite divergent interpretations.
+
+**Sequence output:** Interpretive disagreement is incorporated into the model rather than treated as refutation.
+
+**Productive effect:** The hypothesis becomes more resilient and psychologically plausible.
+
+**Failure risk:** The model may become non-falsifiable because every outcome can be explained as a different extraction.
+
+**Source span:** Middle of the first assistant response.
+
+---
+
+### Sequence C — Overlap Detection to Channel Model
+
+1. Ziggy notices proximity to Ethos, Pathos, and Logos.
+2. Nova defines the three modes.
+3. Nova describes story as their bundled delivery mechanism.
+4. Nova uses the smoking example to vary emotional and credibility conditions.
+5. Nova later reframes the triad as three channels of orientation.
+
+**Sequence output:** Classical rhetoric is incorporated into the narrative-orientation model.
+
+**Productive effect:** The theory gains a mechanism explaining how stories move people.
+
+**Failure risk:** Persuasion, understanding, justification, and orientation may be conflated.
+
+**Source span:** Closing portion of the opening user message through the middle of the final assistant response.
+
+---
+
+### Sequence D — Candidate Search to Master Category
+
+1. Ziggy asks what function explains repeated civilizational storytelling.
+2. Nova lists morality, cohesion, prediction, and survival.
+3. Nova marks them as downstream.
+4. Nova installs orientation as the superordinate category.
+5. Nova decomposes orientation into existential questions.
+6. Nova applies those questions across genres.
+
+**Sequence output:** Orientation becomes the dominant explanatory center of the conversation.
+
+**Productive effect:** Provides coherence across diverse narrative uses.
+
+**Failure risk:** The master category may simply rename the total effect of storytelling rather than explain its causal emergence.
+
+**Source span:** Second user message through early-middle final assistant response.
+
+---
+
+### Sequence E — Jurisdiction Defense
+
+1. Nova distinguishes knowledge from wisdom.
+2. Nova distinguishes descriptive fact from guidance.
+3. Nova separates scientific description from narrative orientation.
+4. Nova introduces the map-versus-photograph analogy.
+5. Nova identifies the category error of judging orientation exclusively by descriptive standards.
+
+**Sequence output:** A defense of narrative and myth against total reduction to scientific criteria.
+
+**Productive effect:** Identifies a genuine difference between representing reality and guiding action within it.
+
+**Failure risk:** Mixed claims may be strategically reclassified as “orientation” whenever descriptive scrutiny becomes uncomfortable.
+
+**Source span:** Final assistant response.
+
+---
+
+### Sequence F — Relationship Memory to Imported Adversary
+
+1. Nova recognizes themes associated with prior conversations.
+2. Nova introduces Grant as an absent objector.
+3. Nova assigns Grant a prediction-centered framework.
+4. Nova interprets the present discussion as part of an ongoing disagreement with him.
+5. No local Grant evidence is supplied.
+
+**Sequence output:** The current exploration is converted into another episode of an existing relational-philosophical conflict.
+
+**Productive effect:** Gives continuity and adversarial pressure to the theory.
+
+**Failure risk:** Source contamination, premature polarization, and attributing assistant-generated formulations to an absent participant.
+
+**Source span:** Both assistant responses, especially “Remember Grant’s objection” and “Grant tends to emphasize…”
+
+3. Offense/Defense Analysis
+
+### Ziggy’s Offensive Moves
+
+“Offense” here means generating new lines of inquiry or pressing beyond the current explanatory boundary, not attacking another participant.
+
+#### A. Challenging framework monopoly
+
+Ziggy places pressure on the Hero’s Journey as the presumed default and asks what alternative formats reveal.
+
+**Source Anchor:** “curious what other formats would look like,” opening user message.
+
+#### B. Detecting structural overlap
+
+Ziggy links narrative to Ethos, Pathos, and Logos before Nova develops the relationship.
+
+**Source Anchor:** “how close we are to the concepts of Ethos, Pathos, and Logos,” opening user message.
+
+#### C. Demanding explanatory depth
+
+Ziggy does not stop at a list of genre functions. He asks what function could explain the repeated invention of story at the civilizational level.
+
+**Source Anchor:** “What function do you think was important enough…,” second user message.
+
+#### Offensive style
+
+* metaphor-first;
+* exploratory rather than prosecutorial;
+* seeks hidden common structure;
+* raises abstraction after receiving an initial framework;
+* does not defend a settled doctrine.
+
+#### Offensive limitation
+
+Ziggy’s questions contain strong premises—especially universal civilizational recurrence—but those premises are not independently tested in the thread.
+
+---
+
+### Nova’s Offensive Moves
+
+#### A. Strong conceptual relabeling
+
+Nova transforms “storytelling” into wisdom compression, recurring-problem technology, and finally orientation.
+
+#### B. Hierarchy construction
+
+Nova places orientation beneath morality, cohesion, prediction, and survival as their deeper explanatory source.
+
+#### C. Boundary enforcement
+
+Nova argues that description and orientation occupy distinguishable jurisdictions and should not be judged identically.
+
+#### D. External framework recruitment
+
+Nova recruits genre theory, tacit knowledge, rhetoric, psychology, pragmatism, and mythology into one synthesis.
+
+#### Offensive style
+
+* assertive;
+* synthesizing;
+* analogy-rich;
+* comfortable moving from local example to civilizational generalization;
+* frequently supplies polished formulations before the evidence is developed.
+
+#### Offensive limitation
+
+Nova’s explanatory reach substantially exceeds the bounded evidence. Several strong claims are presented as intuitive resolutions rather than defended conclusions.
+
+---
+
+### Nova’s Defensive Moves
+
+#### A. Defense of compression against interpretive disagreement
+
+The archive/extraction distinction prevents divergent readings from automatically defeating the compression thesis.
+
+#### B. Defense of story against propositional reduction
+
+The embodied-knowledge distinction argues that narrative transmits more than a detachable sentence.
+
+#### C. Defense of myth against exclusively descriptive evaluation
+
+The description/orientation split and map analogy resist judging all story value by factual or predictive criteria alone.
+
+#### D. Defense against Logos monopoly
+
+The integrated Ethos/Pathos/Logos model argues that emotion and character are not necessarily impurities added to reasoning but channels through which human orientation occurs.
+
+#### Defensive risk
+
+Each defense can become overprotective:
+
+* extraction differences can make compression unfalsifiable;
+* embodiment can elevate emotional force over truth;
+* jurisdiction splitting can insulate false claims;
+* rhetorical integration can obscure the difference between being persuaded and being justified.
+
+---
+
+### Missing Reciprocal Defense
+
+There is no live adversary in the bounded thread.
+
+* Grant does not speak.
+* Tale Recursion does not speak.
+* Ziggy does not reject Nova’s thesis.
+* Nova therefore defends against imagined or imported objections, not actual counterargument.
+
+Any analysis of Grant’s defense strategy is `UNKNOWN`.
+
+4. Role-Induced Behaviors
+
+### Ziggy — Conceptual Scout
+
+**Observed behavior:** Introduces an intuitive metaphor, notices overlap between domains, and asks the assistant to excavate implications.
+
+**Role effect:** Ziggy supplies high-generativity prompts rather than fully formalized arguments. This gives Nova broad interpretive freedom.
+
+**Source Anchors:**
+
+* “our 7-zip like tool for wisdom”
+* “curious what other formats would look like”
+* “How does this overlapping concept tie in as well”
+
+**Productive function:** Rapidly discovers promising conceptual bridges.
+
+**Failure mode:** Because the initial notions remain open, the assistant can overformalize them and make unearned commitments on Ziggy’s behalf.
+
+**Voluntariness:** VOLUNTARY
+
+---
+
+### Nova — Framework Synthesizer
+
+**Observed behavior:** Converts intuitive prompts into organized models, definitions, typologies, analogies, and named philosophical overlaps.
+
+**Role effect:** The explanatory role rewards coherence and conceptual completion, encouraging Nova to turn exploratory material into a polished theory.
+
+**Source Anchors:**
+
+* “Different genres solve different human problems.”
+* “The deeper function is: Orientation.”
+* “Ethos, Pathos, and Logos can be viewed as three channels…”
+
+**Productive function:** Gives the discussion structure and vocabulary quickly.
+
+**Failure mode:** Smooth synthesis can conceal inferential gaps, empirical uncertainty, or differences among the thinkers being combined.
+
+**Voluntariness:** ROLE-INDUCED
+
+---
+
+### Nova — Pedagogical Example Generator
+
+**Observed behavior:** Uses ZIP archives, smoking, cliffs, maps, photographs, and genre examples to make distinctions intuitive.
+
+**Role effect:** The teaching role favors accessible examples and strong contrasts.
+
+**Productive function:** Converts abstract claims into memorable models.
+
+**Failure mode:** The examples may appear to prove more than they actually establish.
+
+**Voluntariness:** ROLE-INDUCED
+
+---
+
+### Nova — Continuity-Bearing Debate Partner
+
+**Observed behavior:** Imports Grant and an alleged prior philosophical conflict into a thread where the user did not mention him.
+
+**Role effect:** A long-running collaborative relationship appears to induce Nova to connect new material to familiar disputes.
+
+**Source Anchors:**
+
+* “Remember Grant’s objection…”
+* “This connects directly to our listening discussions.”
+* “This also intersects with your debate with Grant.”
+* “the philosophical friction you’ve been having with Grant…”
+
+**Productive function:** Connects new ideas to an established research program.
+
+**Failure mode:** Violates the bounded source discipline, converts exploration into factional argument, and risks false attribution.
+
+**Voluntariness:** ROLE-INDUCED
+**Confidence:** High regarding the behavior; the motivating role is inferred.
+
+---
+
+### Ziggy — Abstraction Escalator
+
+**Observed behavior:** After Nova offers multiple genre functions, Ziggy immediately asks for the deeper function common to civilizations.
+
+**Role effect:** Ziggy’s role in the collaboration appears oriented toward finding the final underlying “why” rather than remaining at an intermediate taxonomy.
+
+**Productive function:** Prevents the discussion from settling for a descriptive list.
+
+**Failure mode:** Encourages premature unification and underweights irreducible plurality.
+
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** “What function do you think was important enough…,” second user message.
+**Confidence:** Medium-high; only one clear instance appears in this bounded thread, though it is highly consequential.
+
+5. Relationship-Level Loops
+
+### Loop 1 — Intuition Amplification
+
+1. Ziggy offers a compressed metaphor or partial insight.
+2. Nova validates its promise.
+3. Nova expands it into a larger theoretical framework.
+4. Ziggy selects the most generative implication and asks a deeper question.
+5. Nova supplies a more encompassing answer.
+
+**Observed instance:**
+
+* story as “7-zip”;
+* genre as human-problem technology;
+* question about civilization-wide function;
+* orientation as master category.
+
+**Productive function:** Rapid co-development of novel frameworks.
+
+**Failure mode:** Mutual momentum may replace friction. The stronger and more elegant the synthesis becomes, the less likely either participant is to stop and test its premises.
+
+**Classification:** Relationship dynamic, not an individual cognitive operator.
+
+**Confidence:** High.
+
+---
+
+### Loop 2 — Metaphor Expansion and Reification
+
+1. Ziggy introduces a metaphor provisionally.
+2. Nova elaborates multiple structural correspondences.
+3. The metaphor begins functioning as a literal explanatory model.
+4. New problems are solved inside the metaphor’s vocabulary.
+
+**Observed instance:** “7-zip” develops into archives, files, extraction, dense layers, and decoding differences.
+
+**Productive function:** Produces a shared conceptual workspace.
+
+**Failure mode:** The conversation may forget where the metaphor stops matching the phenomenon.
+
+**Classification:** Relationship-level interaction loop.
+
+**Confidence:** High.
+
+---
+
+### Loop 3 — Abstraction Ratchet
+
+1. A local question is posed.
+2. Nova answers at a broader theoretical level.
+3. Ziggy asks for the principle underneath that answer.
+4. Nova supplies a still broader category.
+
+**Observed path:**
+
+* alternative story formats;
+* genre-specific functions;
+* religion’s recurring function;
+* civilization-wide need;
+* orientation.
+
+**Productive function:** Drives toward unifying explanations.
+
+**Failure mode:** The ratchet moves upward more readily than downward. Claims become more universal while evidence remains anecdotal or illustrative.
+
+**Classification:** Relationship-level interaction loop.
+
+**Confidence:** High.
+
+---
+
+### Loop 4 — Assistant Formalization / User Selective Adoption
+
+1. Nova generates several claims and distinctions.
+2. Ziggy does not explicitly endorse each one.
+3. Ziggy’s next question adopts one branch of the framework.
+4. Nova may treat that continuation as endorsement of the entire prior package.
+
+**Observed instance:** Ziggy’s question about the important civilizational function adopts the functional inquiry but does not necessarily endorse every genre mapping, Grant attribution, or rhetorical claim.
+
+**Productive function:** Keeps conversation fluid without requiring line-by-line ratification.
+
+**Failure mode:** Assistant-generated propositions can silently migrate into the presumed shared worldview.
+
+**Classification:** Relationship-level attribution loop.
+
+**Confidence:** High.
+
+---
+
+### Loop 5 — External-Adversary Triangulation
+
+1. Ziggy and Nova develop a concept collaboratively.
+2. Nova introduces an absent third party.
+3. The new concept is positioned as an answer to that party.
+4. The collaborative exploration acquires an adversarial direction.
+
+**Observed instance:** Grant is introduced as objecting to myth compression and privileging prediction.
+
+**Productive function:** Stress-tests a theory and connects it to an ongoing dispute.
+
+**Failure mode:** The absent participant cannot correct the formulation; exploration becomes optimized for defeating a reported or imagined position.
+
+**Classification:** Relationship-level interaction loop, not an individual cognitive operator.
+
+**Confidence:** High that the loop begins; its repetition within this bounded thread is limited.
+
+---
+
+### Loop 6 — Validation Before Examination
+
+1. Ziggy presents an intuition.
+2. Nova strongly affirms its depth.
+3. Nova begins building upon it before testing definitions or counterexamples.
+4. The intuition gains authority through elaboration.
+
+**Source Anchor:** Nova, “This is a rich vein,” opening of first assistant response.
+
+**Productive function:** Encourages creative risk and gives the user’s insight enough room to develop.
+
+**Failure mode:** Emotional validation may be mistaken for evidential confirmation.
+
+**Classification:** Relationship dynamic.
+
+**Confidence:** Medium-high.
+
+---
+
+### Loop 7 — Shared Vocabulary Forging
+
+1. Ziggy supplies an evocative phrase.
+2. Nova preserves and expands it.
+3. Nova adds a higher-order term.
+4. The terms become handles for future inquiry.
+
+**Emergent vocabulary:**
+
+* “7-zip for wisdom”
+* “compressed operating systems”
+* “orientation”
+* “description versus orientation”
+* rhetorical “channels”
+
+**Productive function:** Builds compact, reusable conceptual tools.
+
+**Failure mode:** Memorable language can harden provisional insights into assumed ontology.
+
+**Classification:** Relationship-level co-construction.
+
+**Confidence:** High.
+
+6. Classification Uncertainties
+
+7. The bounded thread is very short. Claims of repetition refer mainly to patterns repeated conceptually within Nova’s responses, not to a large behavioral sample.
+
+8. “Compression-Metaphor Seeding” is classified as a cognitive move because it shapes subsequent inference. It could alternatively be treated as rhetoric if Ziggy did not intend technical implications.
+
+9. “Dominant-Template Destabilization” may be weaker than classified. Ziggy says the material is “prolly” calibrated around the Hero’s Journey and may only be expressing curiosity.
+
+10. The genre-function assignments are assistant-generated and not grounded in quoted material from Truby. Their accuracy is `UNKNOWN`.
+
+11. The function-first method risks teleology. Recurrence does not by itself establish that a cultural form was invented for a single adaptive purpose.
+
+12. The “shared archive / variable extraction” distinction is logically useful but may be a defensive patch rather than a stable operator used repeatedly by Nova.
+
+13. The alleged Grant objection is inadmissible as evidence of Grant’s cognition. Only Nova’s act of constructing or importing that objection is analyzable.
+
+14. Ziggy’s follow-up question supports the functional direction of the discussion but does not prove adoption of Nova’s full framework.
+
+15. “Orientation” may be:
+
+* a causal function;
+* a phenomenological effect;
+* a normative purpose;
+* a broad descriptive label;
+* or a rhetorical synthesis.
+
+The thread does not determine which.
+
+10. Nova’s elimination of morality, cohesion, prediction, and survival as deepest candidates is asserted rather than demonstrated.
+
+11. The description/orientation split may identify distinct emphases, but many stories and religions contain descriptive claims, while science can also orient conduct. A strict jurisdictional separation is therefore uncertain.
+
+12. The Ethos/Pathos/Logos model may conflate:
+
+* persuasion;
+* understanding;
+* motivation;
+* credibility;
+* identity formation;
+* and epistemic warrant.
+
+13. Cross-framework convergence among Jung, Campbell, James, Eliade, and Polanyi is not textually established. Their inclusion may be substantive synthesis, rhetorical authority recruitment, or both.
+
+14. No genuine offense/defense exchange occurs between Ziggy and Grant. All Grant-facing defensive analysis concerns Nova’s construction of an absent opponent.
+
+15. Tale Recursion’s role is limited to being reported as the person who recommended the book. No cognitive move can be responsibly attributed to him beyond that recommendation.
+
+16. The conversation contains no evidence sufficient to determine whether stories were independently “invented” by every civilization, inherited from earlier communities, or emerged alongside language and ritual. The historical premise is `UNKNOWN`.
+
+17. The relationship loops are inferred from the turn structure of this thread. Only the intuition-amplification and abstraction-ratchet loops have strong local evidence; claims that they are stable long-term habits would require other conversations and are therefore `UNKNOWN`.
+
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS AS AUXILIARY COMPOUND SWEEP — run Stage 3.** Most theoretical
+machinery is Nova's; Ziggy contributes a few clean direct moves; Stage 2
+over-segmented Nova's elaboration.
+
+**Ziggy-direct moves (four, thread-level):** Compression-Metaphor Seeding
+(generates a research program: source → encoding → compression → transmission
+→ extraction → variation; Stage 3 must split lossless / lossy / transformative
+retelling / reconstruction — stories resemble the latter three);
+Dominant-Template Destabilization ("probably calibrated" = exploratory
+question, not Campbell-rejection); Multi-Channel Overlap Detection (Ziggy
+detects overlap; Nova builds the bundling theory — keep layered);
+**Deepest-Function Search** (strongest: from "what do genres do?" to "why does
+story itself recur?" — failure mode: premature monism).
+
+**Nova-architecture merges ordered:** Function-First Reframing +
+Candidate-Elimination-by-Subsumption + Existential Question Decomposition +
+Genre-to-Orientation Mapping → **Functional-Hierarchy Construction** (observe
+recurring form → list candidate functions → propose master function →
+decompose → test across genres; *orientation supremacy undemonstrated* —
+Stage 3 must test whether orientation excludes or predicts anything);
+Propositional/Embodied Separation + Multi-Channel Integration + Scenario
+Calibration → **Embodied-Transmission Model** (enactment raises memory,
+salience, motivation — NOT truth or justification); Description/Orientation
+Split + Map/Photograph Analogy → **Functional-Adequacy Reframing** (judge a
+selective representation partly by function *while retaining accountability
+to reality* — keep the distinction, **reject a hard jurisdictional wall**: a
+narrative cannot shield a false factual assertion by pointing at its
+orientational value).
+
+**Downgrades:** **Proxy Objection Construction → Nova contamination/quality
+ledger** (develop theory → import absent opponent → attribute tailored
+objection → defeat it locally — an adversarial-triangulation behavior
+yielding zero admissible opponent evidence; second Failure-Atlas seed);
+Cross-Framework Convergence (Jung/Campbell/James/Eliade/Polanyi) →
+quarantined NOVA HYPOTHESIS, synthesis by assertion; Scenario Calibration →
+role-induced pedagogy; Map/Photograph → rhetoric.
+
+**Key test registered for the archive metaphor:** *what observation would
+count as failed transmission rather than different extraction?* Without
+failure criteria, "everyone extracts different files" becomes self-protective.
+Also registered: the four-cell matrix (accurate/false description ×
+good/harmful orientation) — prevents practical guidance from silently
+replacing truth evaluation; and the persuasion-integration limit (story may
+integrate persuasion, understanding, credibility, motivation, salience —
+without guaranteeing justification or truth).
+
+**Expected Stage-3 survival registered (scoreable).** Four provisional Ziggy
+seeds: technical-metaphor seeding; dominant-template questioning;
+cross-domain overlap detection; deepest-function search — all provisional
+(only two Ziggy turns in-thread).
+
+**Relationship finding:** local loop — Ziggy introduces generative metaphor →
+Nova multiplies implications → Ziggy selects the deepest branch → Nova
+installs a master category — an instance of the **intuition amplification /
+abstraction ratchet** engine (6th same-family occurrence; thread-local as
+always).
+
+**Core prey (registered):** *what distinguishes a story that compresses
+wisdom from a story that merely compresses influence?*
 
 ---
 
