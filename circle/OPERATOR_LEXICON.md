@@ -406,6 +406,37 @@ not in-source): *explanatory authority allocated by claim-sensitive
 comparative performance, never inherited prestige* — 8-step procedure
 filed in the workbook's Stage-4 block.
 
+From COMPOUND_SWEEP_11 (**six durable dig-level families — zero
+promotions, 10th consecutive sweep; the protocol's FIRST FULL
+SELF-CORRECTION CYCLE**: defective Stage 3 → repair order → correction
+command → corrected Stage 4 with internal Stage-3 repair → final QC
+pass): **Generative Bracketing and Criticism-Return Audit** (four
+sandbox conditions; Bracketing-to-Privilege Drift) ·
+**Admission–Weight–Sufficiency Audit** (*inadmissible ≠ weak ≠
+insufficient ≠ false*) · **Semantic and Level Repair** (reason/cause
+split; local concession; Level-of-Mentality Separation with
+thesis-dilution risk) · **Explanandum-Scope and Emergence-Bridge Audit**
+(the strongest philosophical family; three-gap discipline; the "magic"
+rhetoric replaced by the ontological novelty challenge; QC overlay:
+brute psychophysical law = legitimate bridge with honest stopping-point
+cost) · **Reciprocal Explanatory-Burden and Primitive-Symmetry Audit**
+(tu-quoque cap permanent: *parity = shared debt, never victory*) ·
+**Explanatory-Debt Comparison** (debts compared by severity, never
+counted). Idea Trails, not operators: Comparative Metaphysical Mapping;
+Unity–Multiplicity. **Eight confirmed A3 omissions restored** by the
+correction (incl. reciprocal burden on consciousness-first;
+criticism-return condition; sandbox reciprocity; function-sense split).
+**A3 case law, 4th refinement (protocol-level):** availability =
+demonstrated capability anywhere in the bounded conversation — later
+use establishes it; system-level (Ziggy–Nova) vs actor-level coding may
+split. **QC overlay wording (binding):** durable *dig-level reasoning
+families* ≠ stable cross-context actor traits. Attribution: opponent
+UNNAMED ("Grant Position Ledger" → Reported Opponent Position Ledger);
+Aquinas roleplay = aux seed, no recurrence credit. Ontological verdict:
+*the hard problem establishes incompleteness, not which completion —
+freeze one exact consciousness-first thesis and make it pay its own
+explanatory bills.*
+
 From COMPOUND_SWEEP_10 (**four durable families — zero promotions, 9th
 consecutive sweep; first bounded Angles material, THIRD-PARTY-REPORTED
 ceiling**): **Descriptive–Evaluative–Policy Audit** (the strongest
@@ -605,6 +636,7 @@ therefore carries a Museum ID.
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_04) | **Third consecutive zero-promotion sweep.** Three serious candidates queued (Master-Value Extraction, HIGH; Instrument–Telos Separation, 3rd reinforcement; Reflexive Audit with Operational Closure, shared protocol). Rejected/corrected mappings: Regress Descent ≠ OP-008 (audit vs symmetry-across-audits); jurisdiction-check polarity re-fixed (corrective test, not CO-002); belief persistence ≠ Possibility Preservation; adversarial relay ≠ CO-006 extension (simulation ≠ reconstruction of Grant); pre-propositional descent ≠ CO-003 (no gate evidenced); external-model phrasings attributed by adoption sequence. Grant: experience-report ceiling only | Field-desk Stage-4 handoff, COMPOUND_SWEEP_04 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_05) | **Fourth consecutive zero-promotion sweep.** Three HIGH candidates queued (Monopoly-Promotion Audit — the packet's strongest; Claimed-Source/Claimed-Access Separation; Operative-Rigidity Test). 22 blind moves consolidated into 5 families; **Detector–Pathology Polarity Reversal recorded as candidate Failure-Atlas seed (3rd sweep running)** — five corrective audits blind-mapped to the pathologies they detect, all corrected; Adverse-Odds Commitment Test quarantined (marriage example = individualized prediction, not override); Curtain Question = shortcut inside Master-Value Extraction, not validated detector; Symmetric-Wielding → procedural ledger. Grant: REPORTED-ONLY NON-SITE — which of five prediction theses he holds is undeterminable | Field-desk Stage-4 handoff, COMPOUND_SWEEP_05 |
 | 2026-07-17 | (micro-dig close, DIG_AUX_06) | **Zero promotions — micro-dig ceiling enforced.** Ziggy NONE, Grant NONE (exchange-level argument forms only), Nova thread-level (3 sequences: Encoding–Recovery Reframing; Symbolic-Function Reconstruction; Projection-Constraint Escalation). Stage-4 overpromotion corrected: ordinary hypothesis evaluation and single-response substeps are not operators. **Falsifiability Debt of the Compression Model** = theory-level finding. Deepest yield: claim-strength ladder (possible ≠ reliable ≠ important ≠ principal); "a theory that explains every reading as decompression risks explaining no reading at all" | Field-desk Stage-4 handoff, DIG_AUX_06 |
+| 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_11) | **Tenth consecutive zero-promotion sweep — and the protocol's first full self-correction cycle**: the Stage-3 omission audit ("no A3/A2") failed the availability test → repair order (Stage 4 blocked) → field-desk correction command → corrected Stage 4 with internal Stage-3 repair → final QC PASS (two minor wording overlays: dig-level families ≠ actor traits; brute psychophysical laws legitimate with honest cost). **A3 case law 4th refinement** (later use establishes availability; system vs actor coding). Eight confirmed A3s restored; six durable dig-level families; opponent UNNAMED (ledger renamed); Aquinas aux-quarantined. 11 trails (IT-073…083) | Field-desk repair order + QC handoff, COMPOUND_SWEEP_11 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_10) | **Ninth consecutive zero-promotion sweep** — first bounded Angles material (THIRD-PARTY-REPORTED NON-SITE; ten-item quarantine). Four durable families (Descriptive–Evaluative–Policy = strongest distinct result); **the excavation's clearest live self-sealing failure** (resistance-confirms-the-model FAILED; interpretive-capture discriminator filed); Angles' strongest reconstruction = predictable-consequence objection, not logic failure; ten-step useful-noise test + Recursive-Burden four-question test filed as instruments; polarity reversal 9th consecutive dig (seven rejections). 12 trails opened (IT-061…072 — new single-dig record; IT-072 = the falsifiability family's index) | Field-desk Stage-4 handoff, COMPOUND_SWEEP_10 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_09 + aux seed) | **Eighth consecutive zero-promotion sweep** (SPLIT dig — phenomenology branch closed as seed, no promotions). Three durable families + one provisional (Normative-Promotion Audit = strongest new candidate, co-constructed; Reciprocal-Burden Audit = attempted-incomplete; category-repair/evidential-escape discriminator filed). **First A1→A3 upgrade on record**; polarity reversal 8th consecutive dig (Hidden-Premise Recovery ruled *nearly inverse* to Reconstruction Bypass); Grant's P1–P4 charitable reconstruction = the new working target; ten-step symmetrical comparison + six-way status split + common-ground taxonomy filed as instruments. Grant: G-REPORTED NON-SITE (one reported instance; stability UNKNOWN) | Field-desk Stage-4 handoff, COMPOUND_SWEEP_09 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_08) | **Seventh consecutive zero-promotion sweep.** Four durable families (Epistemic-Status/Bridge; Defeat-Scope/Support-Centrality; Evidential Symmetry/Action-Threshold; Genesis–Repair–Immunization). **Belief Rescue ≠ Possibility Preservation** (commitment-directed vs neutral — polarity family, 7th consecutive dig); **first confirmed relationship-level Reconstruction Bypass** (diagnostic model of Grant evaluated before direct reconstruction); repair/immunization discriminator + pre-defeat centrality record + public-reason norm filed as instruments; **preservation bias** = deepest structural finding. Ziggy: 4 provisional profile entries (introspective preservation impulse = self-report only). Grant: G-REPORTED/NOVA-RECONSTRUCTED NON-SITE. ⚠️ Stage-4 blind output still owed to workbook | Field-desk Stage-4 handoff, COMPOUND_SWEEP_08 |

@@ -72,6 +72,13 @@
 | Conversation-Frame Diagnosis | 1 (sweep) | SWEEP_10 | HIGH as experiential diagnosis — identifies persuasion-and-defeat framing vs perspective exchange; external accuracy unverified; defensive-reframing failure mode attached |
 | Success-Condition Pluralism | 1 (sweep) | SWEEP_10 | HIGH for the current stance — rejects conversion as sole success measure; stability uncertain; **understanding does not remove truth-testing** |
 | Recursive-Burden Sensitivity | 1 (sweep, self-report) | SWEEP_10 | HIGH as self-report — detects prove-and-disprove cycles lacking stopping conditions; objective loop status unknown (four-question test required) |
+| Generative-Bracketing Instinct | 1 (sweep, local/provisional) | SWEEP_11 | HIGH locally — protects an exploratory phase from foreclosing objections; reciprocity + criticism-return conditions UNTESTED (confirmed A3-5/A3-6 against the protocol) |
+| Semantic Self-Correction | 1 strong (sweep) | SWEEP_11 ("maybe my point was moot") | HIGH — separates term senses, concedes overreach, preserves the narrower claim; the reason/cause repair is the anchor instance; stable repeated Reason–Cause separation NOT yet established |
+| Explanandum-Scope Sensitivity | 1 strong (sweep) | SWEEP_11 | HIGH — distinguishes physical/behavioral sequence from phenomenal presence |
+| Reflexive-Burden Use | 1 (sweep, local) | SWEEP_11 (PSR turned back) | HIGH locally — restriction permanent: *parity ≠ positive evidence* |
+| Emergence-Bridge Pressure | 1 strong (sweep) | SWEEP_11 | HIGH — demands the grounding/bridge account; restriction: *unexplained ≠ impossible* |
+| Primitive-Symmetry Sensitivity | 1 (sweep, local) | SWEEP_11 (matter/consciousness mirror) | HIGH locally — defeats asymmetric teleological demands; the explanatory-role question stands (function-sense split was the confirmed A3-4 omission) |
+| Comparative-Gap Mapping | 1 (sweep) | SWEEP_11 (three-arrow map + debt comparison) | MOD-HIGH — local comparative method; cross-context stability unknown; *every theory has debt ≠ equal debt* |
 | Counterexample Hardening | 1 (sweep, technique seed) | SWEEP_06 (supernova → teapot) | permissive case → discriminating case → scope boundary; profile-worthy only on bounded recurrence |
 | Framework-Translation Suspicion | 1 (sweep, provisional) | SWEEP_06 ("into their frame to die") | rhetorical carrier of the Framework-Translation Fidelity Check; completed distortion demonstration absent |
 | Scope-to-Jurisdiction Audit | **2 (sweep)** | SWEEP_05, SWEEP_07 (Local-to-Global Boundary form — *fallibilism, not relativism*) | absorbs local/global scope audit + domain-jurisdiction restriction; never a sealed physical/meaning wall; OP-013/OP-007 adjacency |

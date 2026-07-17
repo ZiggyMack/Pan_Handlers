@@ -185,6 +185,22 @@ excavation's clearest live self-sealing failure — a caution the profile's
 own theorizing inherits: *a model that explains every objection explains
 nothing* (IT-067/IT-072).
 
+**The metaphysics layer (SWEEP_11 — the sandbox and its bills):** seven
+local/provisional seeds carry the architecture into consciousness
+metaphysics (generative bracketing, semantic self-correction — the
+"maybe my point was moot" concession is the excavation's cleanest
+self-repair on record — explanandum-scope sensitivity, reflexive-burden
+use, emergence-bridge pressure, primitive-symmetry sensitivity,
+comparative-gap mapping). The sweep's verdict binds both ways: the hard
+problem establishes physicalism's incompleteness, *not* which completion
+is correct — and the terminal instruction is the profile's next
+frontier: **freeze one exact consciousness-first thesis and make it pay
+its own explanatory bills.** New confirmed-A3 tensions: the reciprocal
+burden was never applied to the favored ontology (A3-2); the sandbox's
+criticism-return and reciprocity conditions were never stated
+(A3-5/A3-6); the function-sense split, demonstrated for "reason," went
+unused for "function" (A3-4).
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
