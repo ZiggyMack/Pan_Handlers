@@ -3,7 +3,7 @@
 > One page. Where every profile, phase, and registry stands right now.
 > Update this whenever a profile version bumps or a phase gate is crossed.
 
-**Last updated:** 2026-07-16
+**Last updated:** 2026-07-17
 
 ---
 
@@ -45,7 +45,7 @@
 | Idea Trails | `IDEA_TRAILS/README.md` | 13 candidates, 0 opened | |
 | Debates | `DEBATES/` | 0 recorded | |
 | Extraction packets | `evidence/chat_extractions/` | 0 filed · 12 workbooks staged (DIG_00–11) | protocol v0.2.2 active; digs are opportunistic — topics discovered at Stage 1, tracked against the theme coverage checklist |
-| Corpus sweeps | `evidence/corpus_sweeps/` | 1 staged (SWEEP_00, awaiting paste) | orientation only — never promotable; feeds dig-target hunting |
+| Corpus sweeps | `evidence/corpus_sweeps/` | 1 filed (SWEEP_00: Stage 1+2 verbatim) | orientation only — never promotable; yielded **9 thread leads**, incl. first cross-member lead (Angles) |
 | Sources filed | per-member `SOURCE_INDEX.md` | **0** | ← the current bottleneck for everything |
 
 ---

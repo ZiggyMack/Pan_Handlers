@@ -7,7 +7,7 @@
 > hold the strongest material, and surfacing provisional position candidates to
 > test in real digs.
 
-**Status:** 1 sweep staged (SWEEP_00, awaiting paste) · **Last reviewed:** 2026-07-16
+**Status:** 1 sweep filed (SWEEP_00: Stage 1 + Stage 2 verbatim, 9 thread leads) · **Last reviewed:** 2026-07-17
 
 ## Hard Restrictions
 

@@ -59,7 +59,7 @@ Exclude all of the following:
 
 If the evidence needed for a claim is not present inside this single bounded thread, mark it `UNKNOWN`. If this thread contains no recoverable material for a requested ledger, state that plainly. Do not import material from another conversation to complete the assignment.
 
-If you recognize relevant material from cross-chat context, project memory, or account-level history that is not evidenced inside this bounded thread, do not use it in any ledger or claim. Instead, list it briefly under the final section `7. X-CONTEXT Notices` — what you recall and, if identifiable, which conversation it appears to belong to — so the dig operator can locate and excavate the originating thread separately.
+If you recognize relevant material from cross-chat context, project memory, or account-level history that is not evidenced inside this bounded thread, do not use it in any ledger or claim. Instead, list it under the final section `7. X-CONTEXT Notices` as a minimal lead: thread title (if identifiable), approximate date, and topic — nothing more. Do not summarize, interpret, or extract from the recalled material; a notice identifies where to dig, it does not perform a second extraction. Example of the correct form: "A related discussion may exist under 'Trust vs Prediction,' approximately June 30. Not evidence for this packet."
 
 Perform **Stage 1 only**:
 
@@ -132,7 +132,7 @@ Begin the extraction now.
 
 Continue using the complete conversation and the completed Stage-1 extraction as the source corpus.
 
-The hard source boundary from Stage 1 still applies: only the original user-and-assistant messages of this specific historical thread, plus the completed prior extractions. Exclude Project Conversation Content, summaries or excerpts from other chats, memories, uploaded archive files, and system/developer context. Evidence not present in this bounded thread is `UNKNOWN`. Report any cross-chat recollection as an X-CONTEXT notice at the end of your output; never use it as evidence.
+The hard source boundary from Stage 1 still applies: only the original user-and-assistant messages of this specific historical thread, plus the completed prior extractions. Exclude Project Conversation Content, summaries or excerpts from other chats, memories, uploaded archive files, and system/developer context. Evidence not present in this bounded thread is `UNKNOWN`. Report any cross-chat recollection as a minimal X-CONTEXT notice at the end of your output (thread title/date/topic only — no interpretation); never use it as evidence.
 
 This is an execution command. Do not critique or improve the protocol.
 
@@ -213,7 +213,7 @@ Do not critique, improve, rewrite, summarize, or discuss the extraction protocol
 
 Continue using the complete conversation plus the completed Stage-1 and Stage-2 extractions as the source corpus.
 
-The hard source boundary from Stage 1 still applies: only the original user-and-assistant messages of this specific historical thread, plus the completed prior extractions. Exclude Project Conversation Content, summaries or excerpts from other chats, memories, uploaded archive files, and system/developer context. Evidence not present in this bounded thread is `UNKNOWN`. Report any cross-chat recollection as an X-CONTEXT notice at the end of your output; never use it as evidence.
+The hard source boundary from Stage 1 still applies: only the original user-and-assistant messages of this specific historical thread, plus the completed prior extractions. Exclude Project Conversation Content, summaries or excerpts from other chats, memories, uploaded archive files, and system/developer context. Evidence not present in this bounded thread is `UNKNOWN`. Report any cross-chat recollection as a minimal X-CONTEXT notice at the end of your output (thread title/date/topic only — no interpretation); never use it as evidence.
 
 Perform **Stage 3 only**:
 
@@ -274,7 +274,7 @@ Do not critique, improve, rewrite, summarize, or discuss the extraction protocol
 
 Continue using the complete conversation plus the completed Stage-1, Stage-2, and Stage-3 extractions as the source corpus.
 
-The hard source boundary from Stage 1 still applies: only the original user-and-assistant messages of this specific historical thread, plus the completed prior extractions. Exclude Project Conversation Content, summaries or excerpts from other chats, memories, uploaded archive files, and system/developer context. Evidence not present in this bounded thread is `UNKNOWN`. Report any cross-chat recollection as an X-CONTEXT notice at the end of your output; never use it as evidence.
+The hard source boundary from Stage 1 still applies: only the original user-and-assistant messages of this specific historical thread, plus the completed prior extractions. Exclude Project Conversation Content, summaries or excerpts from other chats, memories, uploaded archive files, and system/developer context. Evidence not present in this bounded thread is `UNKNOWN`. Report any cross-chat recollection as a minimal X-CONTEXT notice at the end of your output (thread title/date/topic only — no interpretation); never use it as evidence.
 
 Only now, map the Stage-2 blind findings onto the named candidate registry below. These are candidates, not predetermined conclusions — a forced match is worse than no match.
 
