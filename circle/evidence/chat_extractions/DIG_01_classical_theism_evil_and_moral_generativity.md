@@ -1,6 +1,6 @@
 # DIG 01 — Classical Theism, Evil, and Moral Generativity
 
-**Status:** STAGE 1 COMPLETE — field-desk PASS, QUALIFIED; STAGE 2 AUTHORIZED
+**Status:** STAGE 2 reviewed — field-desk PASS (STRONG); STAGE 3 AUTHORIZED ⚠️ *Stage-2 output paste still pending in this workbook*
 **Primary target:** Grant-reported evaluative reasoning · **Secondary:** Ziggy's rebuttal architecture
 **Significance:** ⭐ **first Grant-relevant dig site** — first bounded approach to the pilot research question (the recurring zero); hits coverage-checklist theme "Classical theism generating moral norms"
 **Protocol:** v0.2.2 Stage 1 (bounded) · **Extraction date:** 2026-07-17
@@ -726,6 +726,92 @@ Begin Stage 2 now.
 ### ⏬ STAGE 2 OUTPUT
 
 (paste Stage 2 output here — replace this line)
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat (priming guard).
+
+**Verdict: PASS (STRONG) — run Stage 3 unchanged.** Strongest blind finding is
+**the bridge problem — the central archaeological seam**: how does the
+argument move from "CT fails against the actual world" to "CT has zero
+moral-generative capacity"?
+
+**Grant-reported architecture (recovered sequence):** omni-God attributes →
+all-good world possible → perfect goodness selects superior world → this
+world contains evil → CT does not describe actuality → *CT cannot account for
+moral norms* → *MS = 0*. First half argues God and evil; the last two steps
+argue normativity and scoring — **an additional bridge is required.** The
+missing bridge is something like *"a false or failed metaphysical ground
+cannot successfully ground norms"* — which yields zero ONLY if Moral
+Generativity means *successful grounding by a true framework*, and not if it
+means moral architecture, internal derivability, historical production,
+motivational efficacy, institutional generation, or practical reasoning. The
+dispute may be less "does CT generate norms?" than **"which kind of
+generation is the metric measuring?"**
+
+**Strengths confirmed:** P7 vs P6 correctly separated — P7 is modal
+(*describable in words ≠ demonstrated logically possible*), P6 is axiological
+(*worlds may contain plural and incomparable goods*); keep them separate.
+Evaluation-Target Separation is genuine and survives regardless of CT's
+truth — but Stage 3 must find the **valid dependency structure**, not just
+defend metric independence: falsity may legitimately damage a worldview's
+claim to *justify* norms while leaving *formulate/motivate/produce* intact.
+
+**Overreach corrections:**
+- "Modal Burden Reversal" → rename **Modal Burden Enforcement** — the assertor
+  of "an all-good world is logically possible" always carried that burden;
+  nothing was reversed (unless the exchange placed an impossibility burden on
+  Ziggy).
+- "External Framework Diagnosis" — calling P6 "a modern consequentialist
+  assumption" is **too strong**: a dominance/comparative-goodness principle
+  may reflect axiological rationality or perfect-being reasoning without
+  consequentialism as a system. Test whether "consequentialist" is diagnosis
+  or a label applied too quickly.
+- "Terminology-to-Function Reconciliation" — **the weakest move in the
+  extraction.** Grant's reported internal/external/evidential distinction is
+  NOT merely terminological; conversational Nova's "largely semantic" was
+  logically sloppy. The stronger criticism of Grant is not "you really did
+  allege internal inconsistency" but: **"even granting only external
+  falsity/incompatibility, you still have not shown zero moral generativity."**
+  Stage 3 preserves Grant's distinction and asks whether it changes the
+  downstream metric argument.
+
+**Stage-3 attack lists registered** — against the Grant-reported syllogism
+(P7 availability; P6 ranking basis; trade-off necessity; norm-purpose bridge;
+falsity-to-zero bridge; metric definition); **against Ziggy** (observed use ≠
+philosophical grounding — psychological/historical generation ≠ ontological
+grounding; unknown trade-offs as mystery insulation; proposed ≠ demonstrated
+trade-off — free will doesn't automatically cover natural/animal/pointless/
+unequal suffering; metric independence may be *partial*: the issue is whether
+one metric fully nullifies another, not whether they interact); **against
+Nova** (reconstruct Grant's strongest target; don't collapse the distinction;
+the evolution analogy may equivocate on "explanation"; consequentialist
+overdiagnosis; she supplied CT moral machinery Ziggy didn't establish here).
+
+**Likely omissions:** nobody defines "moral generativity"; norm generation vs
+norm grounding never distinguished; why norms require evil unexplained; moral
+vs natural evil unseparated; the internal/external distinction never granted
+before critique continued; no CFA rule on whether metric gating is permitted;
+no causal comparison isolating CT-specific content from generic community
+processes; **nobody specifies what a score above zero would require.**
+
+**Expected Stage-3 survival registered (scoreable):** Premise Load-Bearing
+Isolation, Hidden Ordering Assumption Exposure, Evaluation-Target Separation,
+Inferential Gap Detection → survive strongly; Value-Plurality Reframing →
+survives as challenge, not as completed theodicy; Epistemic Constraint
+Insertion → survives as humility, weakens if used positively; Metric-Collapse
+Test → conditional on CFA design; Outcome-Based Causal Challenge → survives
+for historical/psychological generation, weakens for grounding;
+Terminology-to-Function Reconciliation → substantially weakens.
+
+**Central Stage-3 question:** *what exact concept of moral generativity would
+make Grant's final zero follow from his argument from evil — and is that the
+concept CFA was intended to measure?* It can expose whether the dispute is
+theology, logic, causal history, normative grounding, metric design, or a
+hidden fusion of all five.
 
 ---
 

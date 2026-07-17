@@ -70,8 +70,9 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_AUX_03_prediction_ontology_and_effective_theories_2026-07.md` | Prediction vs truth: does predictive success settle ontology? (real clash; Ziggy/Nova; NO Grant evidence) | ✅ **FILED** — 2nd full-pipeline dig; crosswalk executed; yielded CO-011, Z-002, IT-015 close-out, synthesis packet |
 | `DIG_AUX_04_bell_boundaries_and_metaphysical_continuations_2026-07.md` *(retitled at close)* | Bell boundaries: conjunction logic; exhaustiveness challenge; claim-scope repair — strongest Ziggy evidence to date; technical-risk HIGH | ✅ **FILED** — 3rd full-pipeline dig; yielded CO-012/013/014 (first Ziggy-attributed operators), Z-003, IT-016 (⚠️ tech gate), synthesis packet |
 | `DIG_AUX_05.md` | | EMPTY (staged for the mining walk) |
-| `DIG_00.md` | *(reserved: CFA-zero — preflight required)* | EMPTY |
-| `DIG_01_classical_theism_evil_and_moral_generativity.md` | ⭐ **First Grant-relevant site**: reported 12-step problem-of-evil syllogism → moral-generativity zero; Ziggy's modal-burden + trade-off objections; Grant's reported denial (G-QUOTED-REPORTED) | STAGE 1 COMPLETE — Stage 2 authorized; central target: the falsity→zero bridge |
+| `DIG_00.md` | *(reserved: CFA-zero — preflight required; workbook recreated after its file was consumed by a rename)* | EMPTY |
+| `DIG_00ABCD.md` *(operator's working name — proper identity assigned at field-desk review)* | Grant's evaluative architecture via the CT/Moral-Substance dispute + development of Diagnostic Interrogation, Coupling Probes, Cognitive Archaeology calibration, invariant-seeking methodology (heavy G-REPORTED; no G-DIRECT) | IN PROGRESS — Stages 1–2 pasted; awaiting field-desk reviews |
+| `DIG_01_classical_theism_evil_and_moral_generativity.md` | ⭐ **First Grant-relevant site**: reported 12-step problem-of-evil syllogism → moral-generativity zero; Ziggy's modal-burden + trade-off objections; Grant's reported denial (G-QUOTED-REPORTED) | STAGE 2 reviewed (PASS STRONG) — Stage 3 authorized; the bridge problem confirmed as the central seam; ⚠️ Stage-2 output paste pending |
 | `DIG_02.md` | | EMPTY |
 | `DIG_03.md` | | EMPTY |
 | `DIG_04.md` | | EMPTY |
