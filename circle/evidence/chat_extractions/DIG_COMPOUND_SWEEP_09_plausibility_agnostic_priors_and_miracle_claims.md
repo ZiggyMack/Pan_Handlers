@@ -26,7 +26,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — all 4 stage outputs pasted; Stages 1–3 reviewed (split + branch-separation + reciprocal-audit orders binding); Stage-4 review pending; **8 trails ordered at close (IT-052…059)**; first A1→A3 upgrade on record
+**Status:** ✅ COMPLETE — all 4 outputs pasted, all 4 reviews filed. **Zero promotions — plow-through holds (8th consecutive sweep).** Primary packet: 3 durable families + 1 provisional; auxiliary packet: complete as seed, no promotions. Category-repair/evidential-escape discriminator + ten-step symmetrical comparison filed; trails IT-052…060 opened; Grant: G-REPORTED NON-SITE
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep, SPLIT at Stage 1 — **primary:** the Grant/Mary plausibility dispute (reported plausibility ranking → projected onto an "agnostic agent" → represented as common ground → converted into a rationality requirement; C1/C2/C3 virginity claims separated; five-modality ladder) · **auxiliary seed (separate future dig):** attention, intention, awareness, and boredom (phenomenology branch, no evidenced bridge)
@@ -4284,6 +4284,138 @@ The weakest and most contamination-prone products are:
 * claims that the virgin-birth objection is simply a category error;
 * claims that reciprocal symmetry was successfully achieved.
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 + FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: SUCCESSFUL COMPLETED COMPOUND DIG — but Stage 4 still
+confuses several corrective audits with the pathologies they oppose and
+promotes too many local explanatory maneuvers into new operators.
+Durable yield: three major reasoning families, one provisional
+frame-control family, and a separate phenomenology auxiliary packet.**
+
+```text
+PRIMARY — Status: COMPLETE
+Primary value: plausibility-to-rationality promotion analysis
+Grant profile value: NONE · Ziggy profile value: PROVISIONAL
+Museum promotion: SELECTIVE · Idea-trail value: HIGH
+
+AUXILIARY (attention/intention/boredom) — Status: COMPLETE AS SEED
+Profile value: LOW · Idea-trail value: MODERATE · Museum promotion: NONE
+```
+
+**⚠️ MAJOR MAPPING CORRECTIONS (polarity reversal, 8th consecutive
+dig):**
+
+- **Framework Relativization** ≠ Baseline Exemption extension →
+  **Background-Model Disclosure** (Baseline Exemption needs the
+  additional behavioral fact — one side demanding rival disclosure while
+  exempting itself — suspected, not established for Grant).
+- **Normative Bridge Inspection** → the strongest genuinely distinct
+  candidate; renamed **Normative-Promotion Audit** (ranking → permission
+  → recommendation → requirement → condemnation); strongly supported as
+  CO-CONSTRUCTED; not established as Grant's actual move.
+- **Category Separation** ≠ UEJ extension → corrective
+  **Modality–Evidence Audit**; *Grant may have used biology as
+  defeasible historical evidence, which is legitimate.*
+- **Hidden-Premise Recovery** ≠ Reconstruction Bypass extension — the
+  relationship is **nearly inverse**: the tool can *prevent* bypass, and
+  speculative attribution can *produce* it; the conversation itself
+  risked the latter. RECONSTRUCTION TOOL, HIGH ATTRIBUTION RISK.
+- **Burden Return** ≠ successful Symmetry-Testing match →
+  **Reciprocal-Burden Audit — ATTEMPTED, INCOMPLETE** (*the move
+  survives; successful symmetry does not*).
+- **Definitional Loop Detection** → LOCAL LOGICAL DIAGNOSTIC only.
+- **Target Reframing** ≠ Cross-Disciplinary Swooping →
+  **Cross-Jurisdictional Depth Migration** with the essential return
+  condition — without it, depth migration = evidential escape.
+- **Neutrality Challenge** ≠ Baseline Exemption → **Neutral-Proxy
+  Audit** (exemption-refusal by the proxy's creator unestablished).
+- **Binary-to-Gradient Conversion** ≠ Possibility Preservation
+  (changes the question's form, doesn't preserve candidates); auxiliary
+  Nova move, no promotion.
+- **Directionality Contrast / Temporal Orientation Split / Deficiency
+  Reattribution** → heuristic / DISCARD-as-taxonomy / quarantined
+  hypothesis with environmental countercheck required.
+
+**Consolidation: 8 main moves → 3 durable families + 1 provisional:**
+1. **Normative-Promotion Audit** · 2. **Background-Model and
+Neutral-Proxy Audit** · 3. **Modality–Evidence and Historical-Return
+Audit** · 4. Stipulated-Agreement / Frame-Control Audit (provisional —
+needs direct Grant wording).
+
+**🏛️ THE PERMANENT DISCRIMINATOR — category repair vs evidential
+escape:** six-step repair (modality clarified → objection scope
+restricted → ordinary evidence stays admissible → positive standard
+stated → actuality question resumed) vs five-step escape (protected
+category → objections declared irrelevant → no replacement standard →
+actuality postponed indefinitely). Decisive test: *after correcting the
+category, does the claimant return to comparative evidence that could
+LOWER confidence in the claim?*
+
+**The Mary question stays unresolved (M1–M4)**; the bounded twin
+conclusions: *ordinary biological regularity cannot establish
+metaphysical impossibility but remains legitimate evidence affecting the
+prior burden* AND *admitting metaphysical possibility establishes
+neither occurrence nor historical plausibility.* The **ten-step
+symmetrical framework comparison** filed (freeze the proposition →
+define virginity → state and justify both priors → isolate shared
+evidence → compare explanations → test rival miracles symmetrically →
+name confidence-lowerers on each side → split
+permission/recommendation/requirement).
+
+**Profile disposition:** 4 provisional Ziggy seeds (normative-promotion
+detection HIGH locally, with the restriction *Grant may have intended a
+weaker defeasible recommendation*; neutral-proxy skepticism MODERATE;
+category-collapse suspicion MOD-HIGH as diagnosis; stipulation
+sensitivity MODERATE) — **no stable cross-context operator promotes.**
+Nova: 9 thread-level findings (incl. *constructs an under-evidenced
+Grant model*; *audits skeptical priors more aggressively than Christian
+priors*; *allied-advocate role shapes the outcome*).
+
+**Auxiliary disposition:** attention/intention reciprocal heuristic
+(intention directs attention; attention informs and revises intention);
+boredom formulation stabilized (*enough consciousness to register
+disengagement; causes may include attentional shallowness, lack of
+meaning, environmental monotony, low agency, fatigue, or mood*) with the
+four-way "awareness" disambiguation required; **no Museum operator
+promotes from the branch.**
+
+**Relationship findings:** standard proposal → frame audit (productive
+vigilance, confirmation-bias risk: future proposals pre-read as frame
+capture) · compressed intuition → analytic expansion (strongly
+supported — authorship differences preserved) · surface dispute → depth
+migration (virtue: root-level analysis; danger: historical abandonment).
+
+**Grant disposition:** `G-REPORTED NON-SITE` — full ten-item quarantine
+(Baseline Exemption, fake neutrality, prior smuggling, Plausibility
+Sovereignty, rationality gatekeeping, circularity, UEJ, Possibility
+Compression, Unmeasured-to-Zero, stable frame-control). One reported
+instance; stability UNKNOWN.
+
+**Trails at close (9):** field desk retains IT-053…060 and adds IT-061 →
+registry assigns **IT-052…060** (off-by-one noted; IT-060 = Common
+Ground: Discovered, Provisional, Imputed, or Forced).
+
+**Deepest yield of the sweep:**
+
+> *Exposing the priors beneath a skeptical plausibility ranking does not
+> reverse the verdict or vindicate the miracle. It merely removes the
+> disguise of neutrality. From there, both frameworks owe equal
+> disclosure, both must identify what could lower their confidence, and
+> the inquiry must return from metaphysical possibility to the
+> historical evidence for this particular event.*
+
+**Close-out orders (filing clerk):** trails IT-052…060 opened; lexicon
+paragraph + promotion-log row (**eighth consecutive zero-promotion
+sweep**); Ziggy ledgers (4 seeds + Normative-Promotion Audit
+co-constructed family); relationship ledger (engine loop 10th;
+standard-proposal→frame-audit loop added); board (both packets), INDEX,
+timeline; memory updated.
 
 ---
 

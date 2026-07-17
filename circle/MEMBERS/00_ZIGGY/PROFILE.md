@@ -158,6 +158,19 @@ theme finally has a precise form. Standing correction: *bias admitted ≠
 bias corrected* — diagnostic symmetry restored, procedural symmetry
 still owed.
 
+**The frame-audit layer (SWEEP_09 — the architecture meets the neutral
+observer):** four provisional seeds extend the audit to *who gets to
+speak for reason itself* — normative-promotion detection (HIGH locally),
+neutral-proxy skepticism, category-collapse suspicion, stipulation
+sensitivity. The sweep's twin verdicts bind both directions: exposing
+the priors beneath a skeptical ranking *removes the disguise of
+neutrality but reverses no verdict* — and the reciprocal audit (what
+raises the intervention prior? why this miracle over rivals?) was never
+run against the favored side (the excavation's first A1→A3 upgrade).
+The category-repair/evidential-escape discriminator now polices the
+architecture's oldest habit: *after the category correction, does the
+claimant return to evidence that could lower confidence?*
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
