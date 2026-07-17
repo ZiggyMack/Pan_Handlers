@@ -26,7 +26,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — all 4 stage outputs pasted (operator ran ahead); Stages 1–2 ⚠️/✅ reviewed (split + branch-separation orders binding); Stage 3–4 reviews pending; 6 trails ordered at close (IT-052…057)
+**Status:** 🟡 IN PROGRESS — all 4 stage outputs pasted; Stages 1–3 reviewed (split + branch-separation + reciprocal-audit orders binding); Stage-4 review pending; **8 trails ordered at close (IT-052…059)**; first A1→A3 upgrade on record
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep, SPLIT at Stage 1 — **primary:** the Grant/Mary plausibility dispute (reported plausibility ranking → projected onto an "agnostic agent" → represented as common ground → converted into a rationality requirement; C1/C2/C3 virginity claims separated; five-modality ladder) · **auxiliary seed (separate future dig):** attention, intention, awareness, and boredom (phenomenology branch, no evidenced bridge)
@@ -3193,6 +3193,163 @@ Within the bounded thread, only one brief report of the plausibility tactic appe
 **Revised status:**
 ONE REPORTED INSTANCE; STABILITY UNKNOWN
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS — run Stage 4 (already executed; this review governs it
+retroactively). Central correction, decisive: the conversation shows
+skeptical plausibility judgments are framework-laden but does not
+subject the miracle-permitting framework to equivalent scrutiny or
+return firmly enough to the historical burden.**
+
+```text
+GRANT PROFILE VALUE: NONE
+ZIGGY PROFILE VALUE: PROVISIONAL
+NOVA PROFILE VALUE: THREAD / ROLE LEVEL
+```
+
+**📊 STAGE-2 SURVIVAL-FORECAST SCORING:** near-clean — Normative Bridge
+and Modality–Evidence survived strongly as forecast; Definitional Loop
+weakened to hypothetical as forecast; Target Reframing's
+productive-vs-evasive status stayed unresolved as forecast; Grant
+promotions none. *Common-cause caveat filed.*
+
+**⚖️ AVAILABILITY-TIER REVIEW — including the excavation's FIRST
+UPGRADE:**
+
+- **Reciprocal Framework Audit** — A3 fully justified, *the omission
+  that shaped the conversation*: the disclosure questions were run
+  against the skeptical side and never against the Christian side (what
+  raises the prior of divine intervention? why privilege this miracle
+  report over rivals? what connects possible divine action to this
+  specific claim?). It transformed skeptical certainty into
+  framework-relative judgment *without determining whether the
+  alternative framework deserves positive confidence.*
+- **Historical burden after category separation** — A3; the danger
+  named: *not disproved by biology → treated as substantially
+  rehabilitated historically.* The first does not provide the second.
+- **Unknown probability vs nonzero possibility** — A3, a central
+  Stage-4 repair: metaphysically possible / nonzero probability /
+  unknown probability / historically plausible / rationally permissible
+  / rationally required are NOT interchangeable.
+- **Ordinary biological regularity** — A3; the concession that keeps
+  category separation from becoming category exclusion: *biological
+  regularity cannot logically disprove an intervention claim, but it
+  legitimately affects the prior and comparative burden attached to
+  testimony for it.*
+- **Reversed-role testing** — A3; the clean form: *would Ziggy accept
+  framework-relative possibility as enough to suspend ordinary
+  evidential pressure for an extraordinary claim he finds religiously
+  alien?* Equal administration is the point, not the content.
+- **Conception/delivery/perpetual virginity** — **A2 defensible**
+  (Ziggy's wording explicitly includes both conception and delivery —
+  meets the tightened A2 standard).
+- **Positive evidence from the Christian side** — **UPGRADED A1 → A3**
+  (the first upgrade in the excavation): Nova explicitly separated
+  historical evidence as a category, so asking what historical evidence
+  supports the claim was demonstrably available. *The Christian position
+  was defended mainly by blocking a disproof rather than establishing
+  warrant.*
+
+**Strongest surviving families (rulings):** Plausibility–Normativity
+Bridge Audit decisive (the question is never *does plausibility matter*
+— it plainly does — but *what degree and kind of rational authority
+follows from this particular judgment*) · Background-Model Disclosure
+(renamed from Framework Relativization; *framework-dependent ≠ arbitrary
+≠ equally justified ≠ universally binding*; Stage 4 must demand a
+framework-COMPARISON procedure, not stop at "both sides have
+assumptions") · Agnostic-Proxy Audit (the correct form: *what
+commitments minimally constitute this agnostic observer, and which
+controversial assumptions were inserted beyond that minimum?*) ·
+Modality–Evidence Audit (the philosophical spine; both reciprocal rules)
+· Burden Return (**asymmetry finding: the burden was not balanced; it
+was largely reversed** — the skeptical side interrogated, the miracle
+side never asked *why this miracle? why this testimony? why more than
+bare possibility?*) · Definitional Loop Detection → VALID CONDITIONAL
+TEST, NO OBSERVED GRANT LOOP.
+
+**🏛️ GRANT'S STRONGEST CHARITABLE RECONSTRUCTION (P1–P4 → C1–C2, filed
+as the Stage-4 working target):** ordinary conception involves sexual
+reproduction; reports contradicting stable regularities require stronger
+evidence; an agnostic doesn't begin by granting Christian revelation;
+the presented evidence doesn't overcome the elevated burden → lower
+credence + less rational support for acting as though established. This
+argument *does not* claim impossibility, require naturalism, or forbid
+nonzero probability. Ziggy's strongest replies target: the evidence in
+P4; the assumed burden; the jump from lower credence to irrationality;
+the alleged neutrality of the start. **A much cleaner prey than "Grant
+smuggles naturalism."**
+
+**The eight-step historical-return procedure filed** (define the claim →
+earliest sources → independence/genre → compare explanations → price
+biological regularity → price the intervention prior → explanatory fit →
+provisional confidence, never binary verdict) — none of its evidence is
+in the bounded thread; conclusion stays narrow: *the thread analyzes the
+framing of plausibility; it does not establish the historical
+credibility or incredibility of Mary's virginity.*
+
+**🔑 CATEGORY REPAIR VS EVIDENTIAL ESCAPE (the strongest new trail):**
+the discriminator — *after the category correction, does the claimant
+return to a publicly inspectable comparison of evidence?* If yes,
+repair. If no, likely insulation.
+
+**Symmetry findings:** the conversation establishes *Grant's alleged
+ranking is not transparently neutral*; it does NOT establish *the
+Christian ranking is therefore superior*. Weakened substantially: Grant
+smuggles naturalism; Grant defines rationality circularly; the Mary
+objection is simply a category error; divine possibility is "the real
+debate"; Nova administers symmetric skepticism; theism/naturalism as the
+only frameworks; exposed priors = refuted position.
+
+**Consolidation confirmed (4 mature families; Stipulated-Agreement
+still provisional — needs direct Grant material); Stage-4 mapping
+expectations filed (12 dispositions — Deficiency Reattribution
+QUARANTINED as one-sided).**
+
+**Profile disposition:** 4 provisional Ziggy seeds (normative-promotion
+detection HIGH locally; neutral-proxy skepticism MODERATE;
+category-collapse suspicion MOD-HIGH as diagnosis; stipulation
+sensitivity MODERATE) — **no Ziggy claim promotes to a stable
+cross-context operator.** Nova: 8 thread-level findings (incl. *audits
+skeptical priors more aggressively than theistic priors*; *risks turning
+a possible category error into a category shield*; *allied role shapes
+the analysis*).
+
+**Auxiliary branch rulings:** attention/intention = heuristic, not
+taxonomy · boredom gradient survives as conceptual operation with a
+serious **awareness-equivocation risk** (minimal consciousness /
+reflective awareness / attentional depth / contemplative richness all
+called "awareness" — the gradient may solve the paradox by changing
+meanings between levels) · Deficiency Reattribution HEAVILY QUARANTINED
+(subject-blame; boredom may be environmental, medical, or coercive).
+
+**Grant disposition:** `G-REPORTED NON-SITE` — one reported instance;
+stability UNKNOWN; full quarantine list stands.
+
+**Trails at close (now 8):** field desk adds IT-059 (Reciprocal
+Framework Audit) + IT-060 (Rational Permission, Recommendation, and
+Requirement) → registry assigns **IT-052…059** (off-by-one noted;
+IT-058 = Reciprocal Framework Audit; IT-059 = Rational
+Permission/Recommendation/Requirement).
+
+**Restrictions (final pre-Stage-4 set):** Stage-2 set plus — no
+rational-permission→rational-requirement slide · **no asymmetric
+framework audit** · auxiliary set unchanged.
+
+**The decisive Stage-4 question (registered):** *after exposing that
+Grant's plausibility ranking depends on assumptions, can the
+conversation compare those assumptions against the Christian framework
+symmetrically and return to the historical evidence — or does framework
+analysis become a device for preserving miracle possibility while
+indefinitely postponing the question of whether this miracle is actually
+credible?*
+
+**NEXT ACTION:** Stage 4 already executed (output below); the final
+review completes the packet on arrival.
 
 ---
 
