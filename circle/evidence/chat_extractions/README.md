@@ -26,6 +26,13 @@
 - A workbook missing a stage output is not promotable. Profiles never cite
   workbooks or packets directly — they cite `SOURCE_INDEX.md` entries (promotion
   rules: the protocol's Archive Integration section).
+- **Contamination check (v0.2.2):** the dig operator's account shares context
+  across chats, so leakage is ambient. If a stage output cites other
+  conversations or spans a date range, STOP — preserve it in
+  `../corpus_sweeps/` (orientation only) and run the Scope Repair command from
+  the protocol appendix. Cross-chat recollections belong in X-CONTEXT Notices,
+  where they become *dig leads*, never evidence. Anchor verification at filing
+  is the enforceable line.
 - QUARANTINED CLAIMS never leave their packet until corroborated by another packet.
 - A packet is a `DETAILED NOTES`-fidelity source about the chat unless it carries
   verbatim quotes — quoted spans are `TRANSCRIPT`-fidelity for the words quoted.
