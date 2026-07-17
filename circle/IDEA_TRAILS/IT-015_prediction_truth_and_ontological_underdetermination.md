@@ -115,3 +115,32 @@ interlocutors playing the entitlement pole.
 **Pre-Stage-4 mapping forecast** registered in the workbook's Stage-3
 field-desk block (scoreable); `NEW` verdicts remain provisional pending the
 **full-Museum crosswalk**.
+
+## Stage-4 Close-Out (2026-07-17)
+
+**Mapping-forecast score:** largely confirmed — Possibility Preservation
+MATCHED; rhetorical/pedagogical calls (Historical-Reversal, Emergence-by-
+Analogy) landed as forecast; no support for Prediction Sovereignty /
+Unmeasured-to-Zero / Generative Admission / Contest-to-Defeat, as predicted.
+One softening: the extractor's Alternative-Mechanism Search → Possibility
+Preservation mapping was corrected at review (discovery family ≠ preservation
+family). Field desk three-for-three across digs.
+
+**Crosswalk executed** (first use of Archive Integration rule #11; OP names
+verified against the Nyquist Museum INDEX): decoupling → OP-001 subtype;
+jurisdiction challenge → EXTENDS OP-013 + OP-007 (not yet OP-008); one genuine
+novelty registered — **CO-011 Possible ≠ Warranted**, the reciprocal constraint
+to possibility preservation and structural sibling of Museum OP-009.
+
+**Final lineage:** alternative gravity mechanism → empirical replacement
+burden → truth/usefulness decoupling → prediction-jurisdiction challenge →
+possibility preservation → effective-layer reframing → speculative-entitlement
+brake → **unresolved ontology-ranking problem**.
+
+**Central question (final form):** *when two ontologies preserve the same
+successful effective structure, what noncircular evidence licenses preference
+for one as more fundamental?*
+
+**Trail's standing pressure on the possibility-preserving architecture:**
+"You keep the road open — but an open road is not yet evidence that it leads
+anywhere." The promotion pathway (the discriminator list above) is the debt.

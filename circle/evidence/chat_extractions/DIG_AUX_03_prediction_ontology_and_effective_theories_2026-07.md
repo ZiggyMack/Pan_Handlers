@@ -1,6 +1,7 @@
 # DIG AUX 03 — Prediction, Ontology, and Effective Theories
 
-**Status:** STAGE 3 COMPLETE — field-desk PASS WITH AVAILABILITY DOWNGRADES; STAGE 4 AUTHORIZED (carry the three corrections)
+**Status:** ✅ COMPLETE — all four stages; final disposition filed; promotions executed 2026-07-17
+**Disposition:** COMPLETE / ZIGGY PROFILE EVIDENCE (thread-specific) / IDEA-TRAIL SOURCE / NO GRANT EVIDENCE
 **Classification:** PARTIALLY QUALIFIED for Grant · QUALIFIED for Ziggy/Nova and the truth-versus-prediction idea trail
 **Bounded subject:** gravity as pressure/buoyancy/emergence → whether predictive success settles ontology
 **Protocol:** v0.2.2 Stage 1 (bounded; boundary confirmed) · **Extraction date:** 2026-07-17
@@ -2354,7 +2355,790 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+1. Blind-to-Named Mapping
+
+### Move 1: Alternative-Mechanism Search
+
+**Mapping verdict:** EXTENDS Possibility Preservation
+
+**What matches:** Ziggy deliberately keeps a nonstandard gravitational ontology available for examination rather than allowing the accepted model to exhaust the candidate field.
+
+**What does not match:** The move does more than preserve an already-present possibility. It actively searches historical and theoretical space for serious realizations of that possibility. It is candidate generation plus preservation.
+
+It does not establish Generative Admission Restriction because no source of hypothesis generation is shown being prohibited.
+
+**Stage-3 alternative-reading result:** Survives moderately. The one-off factual-request reading remains possible, but Ziggy’s follow-up defense of the alternative’s possible ontological priority supports an operator-like reading.
+
+**Confidence:** Medium-high
+
+---
+
+### Move 2: Candidate-Class Expansion
+
+**Mapping verdict:** MATCHES Cross-Disciplinary Swooping
+
+**What matches:** The assistant imports structures from fluid mechanics, elasticity, thermodynamics, information theory, condensed-matter physics, and analogue systems to reframe the original pressure-gravity question as a broader emergence question.
+
+**What does not match:** Some of the expansion is simple theory cataloguing rather than a deliberate transfer of a remote structure. Literal pressure theories, induced gravity, analogue gravity, and entropic gravity are not one coherent class merely because they can be described using medium-like language.
+
+**Stage-3 alternative-reading result:** Partially survives. It survives as an interactional reframing, but not confidently as a stable individual operator because ordinary list generation and the scientific-explainer role remain substantial explanations.
+
+**Confidence:** Medium
+
+---
+
+### Move 3: Empirical-Burden Reassertion
+
+**Mapping verdict:** EXTENDS Prediction Sovereignty
+
+**Variant:** Predictive Replacement Gate
+
+**What matches:** Predictive recovery functions as the dominant admission requirement for any theory seeking to replace General Relativity. Other virtues must survive the demand to explain or reproduce the accepted theory’s empirical successes.
+
+**What does not match:** The assistant does not treat prediction as the final authority over ontology. The later response explicitly allows General Relativity to be instrumentally superior while ontologically nonfundamental.
+
+The evidence therefore supports a narrower claim:
+
+> Prediction governs replacement status and present scientific warrant.
+
+It does not support:
+
+> Prediction conclusively governs metaphysical truth.
+
+**Stage-3 alternative-reading result:** The narrowed mapping survives. The full Prediction Sovereignty mapping does not. The move is also strongly role-induced by the assistant’s scientific-explainer function.
+
+**Confidence:** High for the narrowed variant; low for full Prediction Sovereignty
+
+---
+
+### Move 4: Utility–Truth Decoupling
+
+**Mapping verdict:** NEW — Instrumental–Ontological Decoupling
+
+**What matches no registry candidate adequately:** The move separates a theory’s operational performance from its correspondence to the underlying reality. It neither preserves a particular possibility by itself nor symmetrically tests the standards. It changes the dimensional structure of the dispute.
+
+It acts against a possible Prediction Sovereignty inference, but it is not merely the negation of that candidate.
+
+**Stage-3 alternative-reading result:** Survives strongly. The alternative reading that Ziggy was merely protecting a preferred gravity theory is weakened by his hypothetical and interrogative language.
+
+**Confidence:** High
+
+---
+
+### Move 5: Criterion Challenge
+
+**Mapping verdict:** EXTENDS Universalized Evaluative Jurisdiction
+
+**Variant:** Evaluative Jurisdiction Challenge
+
+**What matches:** Ziggy identifies a possible extension of predictive success from its established domain—empirical performance—into the separate question of ultimate ontology.
+
+**What does not match:** Ziggy is not performing Universalized Evaluative Jurisdiction. He is challenging or auditing a suspected instance of it.
+
+The move does not yet qualify as Symmetry Testing of Standards because Ziggy does not force prediction itself to satisfy the same burden imposed on the pressure model.
+
+**Stage-3 alternative-reading result:** Survives. The wording directly targets the criterion—“Why hinge on those predictive successes”—rather than merely objecting to an unfavorable conclusion.
+
+**Confidence:** High
+
+---
+
+### Move 6: Possibility Preservation
+
+**Mapping verdict:** MATCHES Possibility Preservation
+
+**What matches:** Ziggy deliberately retains the possibility that a less operationally useful pressure-based model could nevertheless be more ontologically correct.
+
+**What does not match:** The thread does not establish that the possibility is low-plausibility by an agreed metric. It also does not establish a stable practice of retaining possibilities across multiple disputes.
+
+The move is the opposite of Possibility Compression.
+
+**Stage-3 alternative-reading result:** Survives, with qualification. The regulatory reading is somewhat stronger than the alternative reading of unfalsifiable belief protection because Ziggy does not claim that non-refutation establishes truth.
+
+**Confidence:** Medium-high
+
+---
+
+### Move 7: Historical-Reversal Analogy
+
+**Mapping verdict:** NEW — Historical-Reversal Analogy
+
+**Why no registry match is adequate:** The move uses an apparent historical theory transition to weaken confidence in the finality of the currently accepted model.
+
+Cross-Disciplinary Swooping is too broad a fit. Ziggy does not import a technical structure or distinction from another discipline; he invokes a tentative historical precedent.
+
+**Stage-3 alternative-reading result:** Does not survive as a strong cognitive-operator claim. The phrase “or something” and the apparent confusion between heliosphere and heliocentrism support classification as a provisional rhetorical illustration.
+
+**Confidence:** Medium as rhetoric; low as operator
+
+---
+
+### Move 8: Two-Axis Separation
+
+**Mapping verdict:** NEW — Instrumental–Ontological Axis Separation
+
+**What matches no registry candidate adequately:** The assistant converts a single theory-ranking problem into two questions:
+
+1. Which theory performs better?
+2. Which ontology is more likely to be fundamental?
+
+This is not itself Prediction Sovereignty, symmetry testing, or possibility preservation. It creates the conceptual space in which those disputes can be separated.
+
+**Stage-3 alternative-reading result:** Survives primarily as a co-constructed transformation. Ziggy supplied the central truth–utility distinction; the assistant formalized it into separate evaluative axes.
+
+**Confidence:** High at the interaction level; medium as an assistant-specific operator
+
+---
+
+### Move 9: Effective-Layer Reframing
+
+**Mapping verdict:** MATCHES Cross-Disciplinary Swooping
+
+**What matches:** The assistant imports the effective-theory pattern from Newtonian mechanics, thermodynamics, statistical mechanics, fluid dynamics, and collective phenomena. That imported structure changes the relationship between the pressure model and General Relativity from direct rivalry to layered compatibility.
+
+**What does not match:** The important product is not merely the cross-disciplinary import. It is the transformation:
+
+> The accepted theory may remain valid at one scale while being generated by a deeper ontology.
+
+Cross-Disciplinary Swooping describes the source of the reframing better than its final cognitive product.
+
+**Stage-3 alternative-reading result:** Survives. The assistant uses several general examples before applying the structure to gravity, which favors a reusable reframing operation over a one-off accommodation.
+
+**Confidence:** High
+
+---
+
+### Move 10: Unconstrained-Depth Brake
+
+**Mapping verdict:** NEW — Speculative-Entitlement Brake
+
+**What matches no registry candidate adequately:** The move allows that a deeper ontology may be possible while blocking the inference that hiddenness, reduced usefulness, or claimed fundamentality gives it epistemic priority.
+
+It is compatible with Contested ≠ Defeated because the alternative is not declared defeated. Its distinctive function, however, is to separate preserved possibility from earned entitlement.
+
+It is not Possibility Compression because the possibility remains on the map.
+
+**Stage-3 alternative-reading result:** Partially survives. The underlying constraint is legitimate, but the possibility that it functioned defensively to protect the accepted model remains live because the same underdetermination test was not applied symmetrically.
+
+**Confidence:** Medium-high as a functional move; medium as an individual-profile claim
+
+---
+
+### Move 11: Domain Disentanglement
+
+**Mapping verdict:** NEW — Conceptual Domain Disentanglement
+
+**What matches no registry candidate adequately:** The assistant separates four concepts that Ziggy’s question placed together:
+
+* Higgs boson;
+* Higgs-mediated inertial mass;
+* gravitational sourcing;
+* hypothetical graviton.
+
+The move dissolves an apparent contradiction by testing whether the concepts actually occupy the same theoretical role.
+
+**Stage-3 alternative-reading result:** Survives as a cognitive transformation, but with substantial scientific-explainer role influence. It is more than a bare correction because the assistant reconstructs the different functional domains.
+
+**Confidence:** High for the move; medium for profile attribution
+
+---
+
+### Move 12: Emergence-by-Analogy
+
+**Mapping verdict:** MATCHES Cross-Disciplinary Swooping
+
+**What matches:** The assistant imports the structure of sound emerging from collective microscopic behavior to make graviton-free emergent gravity conceptually intelligible.
+
+**What does not match:** The analogy supplies neither a gravitational mechanism nor evidence that gravity is emergent. Its primary function is pedagogical and rhetorical.
+
+**Stage-3 alternative-reading result:** Does not survive as a strong individual cognitive-operator claim. The pedagogical reading is superior. It remains a clear rhetorical instance of Cross-Disciplinary Swooping.
+
+**Confidence:** High as rhetoric; low as profile evidence
+
+2. New Operator Candidates
+
+### Instrumental–Ontological Decoupling
+
+**Definition:** Separating how well a theory predicts, calculates, or enables intervention from whether its posited ontology corresponds to the fundamental structure of reality.
+
+**Actor in this thread:** Ziggy, subsequently formalized by the assistant
+
+**Distinctive output:** A theory may be instrumentally superior without being ontologically final.
+
+**Nearest registry candidate:** Prediction Sovereignty, as a limiting or counter-sovereignty move
+
+**Why it remains new:** It does not merely reject prediction’s authority. It creates independent axes that permit different theories to succeed in different respects.
+
+**Source anchor:** Ziggy, “what is most true [may] do the least amount of work for us.”
+
+**Confidence:** High
+
+---
+
+### Evaluative Jurisdiction Challenge
+
+**Definition:** Interrogating whether a standard that successfully evaluates one type of achievement has established authority over another type of question.
+
+**Actor in this thread:** Ziggy
+
+**Distinctive output:** Predictive success may govern empirical adequacy without thereby governing final ontology.
+
+**Nearest registry candidate:** Universalized Evaluative Jurisdiction
+
+**Why it remains new:** The named candidate identifies the overextension itself. This move identifies, challenges, and requests justification for the extension.
+
+**Source anchor:** Ziggy, “Why hinge on those predictive successes.”
+
+**Confidence:** High
+
+---
+
+### Alternative-Mechanism Search
+
+**Definition:** Actively searching for serious theories that reproduce or reinterpret an accepted phenomenon through a different causal mechanism.
+
+**Actor in this thread:** Ziggy
+
+**Distinctive output:** The candidate map is expanded before ranking begins.
+
+**Nearest registry candidate:** Possibility Preservation
+
+**Why it remains new:** Possibility Preservation retains an existing candidate; Alternative-Mechanism Search generates or retrieves candidates for consideration.
+
+**Source anchor:** Ziggy, “What theories seriously tried and came close.”
+
+**Confidence:** Medium-high
+
+---
+
+### Instrumental–Ontological Axis Separation
+
+**Definition:** Replacing a single theory-ranking scale with separate dimensions for operational performance and ontological truth.
+
+**Actor in this thread:** Co-constructed; formalized by the assistant
+
+**Distinctive output:** General Relativity can remain superior as an effective model while another ontology remains potentially deeper.
+
+**Nearest registry candidate:** Instrumental–Ontological Decoupling
+
+**Why it may be a separate candidate:** Decoupling blocks an inference; axis separation constructs a positive comparison architecture.
+
+**Source anchor:** Assistant, “Which model is more instrumentally useful? Which ontology is actually true?”
+
+**Confidence:** High at the interaction level
+
+---
+
+### Speculative-Entitlement Brake
+
+**Definition:** Preserving a speculative ontology as possible while refusing to treat possibility, hiddenness, or claimed depth as sufficient grounds for preferring it.
+
+**Actor in this thread:** Assistant
+
+**Distinctive output:** “Not defeated” and “not warranted” can both be true.
+
+**Nearest registry candidates:** Contested ≠ Defeated and Possibility Preservation
+
+**Why it remains new:** Those operators regulate premature rejection. This candidate regulates premature promotion.
+
+**Source anchor:** Assistant, “A theory that predicts less isn’t automatically more true.”
+
+**Confidence:** Medium-high functionally; medium as profile evidence
+
+---
+
+### Conceptual Domain Disentanglement
+
+**Definition:** Resolving an apparent contradiction by separating concepts that have been grouped together but perform different theoretical roles.
+
+**Actor in this thread:** Assistant
+
+**Distinctive output:** The Higgs discovery ceases to count as evidence that a graviton has been detected or is required.
+
+**Nearest registry candidate:** No adequate match
+
+**Source anchor:** Assistant, “The LHC has not detected a graviton.”
+
+**Confidence:** High functionally
+
+3. Profile-Ready Claims
+
+### Claim 1: Ziggy separates instrumental success from ontological truth
+
+**Subject:** Ziggy
+
+**Claim:** Ziggy performs Instrumental–Ontological Decoupling by arguing that the model doing the most predictive or practical work need not be the model that most accurately represents fundamental reality.
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High
+
+**Source anchor:** Ziggy, “it’s possible for what is most true to do the least amount of work for us,” early in the second original user message.
+
+**Why profile-ready:** The claim has a direct source anchor, survived counterevidence, and is better explained as a transformation of the governing comparison than as a rhetorical flourish or substantive endorsement of pressure gravity.
+
+**Review condition:** Reassess if later direct evidence shows that Ziggy intended only the narrow claim that one particular pressure theory might be true, without endorsing the general utility–truth distinction.
+
+---
+
+### Claim 2: Ziggy challenges the jurisdiction of prediction over ontology
+
+**Subject:** Ziggy
+
+**Claim:** Ziggy performs an Evaluative Jurisdiction Challenge by questioning why predictive success should determine which gravitational ontology is fundamentally correct.
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High
+
+**Source anchor:** Ziggy, “Why hinge on those predictive successes … can it be proven or not?”
+
+**Why profile-ready:** The language directly targets the authority and scope of the evaluative standard. Stage 3 found no evidence that Ziggy rejects prediction altogether; the defensible claim is that he challenges its sovereignty beyond empirical performance.
+
+**Review condition:** Reassess if direct clarification shows that “proven” referred only to whether the pressure model had made any successful predictions, rather than to the jurisdiction of prediction over ontology.
+
+---
+
+### Claim 3: Ziggy deliberately preserves an underdeveloped ontological possibility
+
+**Subject:** Ziggy
+
+**Claim:** Ziggy performs Possibility Preservation by retaining the possibility that a pressure-based model could be more fundamentally correct despite doing less operational work.
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** Medium-high
+
+**Source anchor:** Ziggy, “Who’s to say that’s not the more correct model … but just doesn’t let us use it the way we currently use the ‘wrong’ model.”
+
+**Why profile-ready:** The move was independently identified under the same name during Museum-blind extraction, survived the counterevidence search, and is not equivalent to positive endorsement.
+
+**Review condition:** Reassess if later evidence shows that Ziggy treats mere non-refutation as sufficient reason to believe the model, or alternatively that he was only posing a transient hypothetical.
+
+---
+
+### Claim 4: The interaction converts a replacement conflict into a layered-theory relation
+
+**Subject:** Ziggy–assistant interaction
+
+**Claim:** Ziggy’s truth–utility challenge and the assistant’s effective-theory response jointly produce an Effective-Layer Reframing: General Relativity may remain predictively valid while a deeper substrate supplies the fundamental ontology.
+
+**Evidence classification:** CO-CONSTRUCTED, with NOVA-INTERPRETATION supplying the explicit effective-theory formulation
+
+**Confidence:** High
+
+**Source anchor:** Ziggy, “the more correct model … just doesn’t let us use it the way we currently use the ‘wrong’ model”; assistant, “General Relativity is merely a superb effective theory.”
+
+**Why profile-ready:** Stage 3 found no defeating counterevidence. Ziggy clearly provides the possibility of truth–utility divergence, while the assistant supplies the layered architecture.
+
+**Review condition:** Reassess as a Ziggy-specific claim if later evidence shows he rejects the effective-theory formulation or intended total replacement rather than layered emergence.
+
+---
+
+### Claim 5: The exchange distinguishes possibility from comparative warrant
+
+**Subject:** Ziggy–assistant interaction
+
+**Claim:** The conversation stabilizes a two-part result: an ontology may remain metaphysically possible without being defeated, while possibility alone does not earn comparative epistemic priority.
+
+**Evidence classification:** CO-CONSTRUCTED
+
+**Confidence:** High
+
+**Source anchor:** Ziggy, “Who’s to say”; assistant, “A theory that predicts less isn’t automatically more true.”
+
+**Why profile-ready:** The characterization survived Stage 3 and explains the apparent disagreement more accurately than treating the participants as directly contradicting one another.
+
+**Review condition:** Reassess if later direct evidence shows either participant rejecting one half of the distinction—either denying that the possibility remains open or claiming that possibility itself establishes warrant.
+
+---
+
+### Claim 6: No Grant-specific cognitive claim is profile-ready
+
+**Subject:** Grant
+
+**Claim:** No reliable Grant profile can be extracted from this bounded thread.
+
+**Evidence classification:** Absence of G-DIRECT; one assistant-generated characterization only
+
+**Confidence:** High
+
+**Source anchor:** Assistant, “Here’s where I think Grant,” middle of the final assistant response.
+
+**Why profile-ready:** The source boundary contains no Grant-authored words and no Ziggy-authored report of Grant’s statement. Converting the assistant’s interpretation into a Grant profile would violate attribution discipline.
+
+**Review condition:** Promote Grant-related claims only upon recovery of direct Grant language or a clearly identified G-REPORTED statement from Ziggy.
+
+4. Quarantined Claims
+
+### Prediction Sovereignty — assistant
+
+**Interpretation:** The assistant treats prediction as the final epistemic authority.
+
+**Why quarantined:** Counterevidence is explicit. The assistant distinguishes instrumental usefulness from ontology and allows General Relativity to be nonfundamental.
+
+**What survives below threshold:** Prediction appears sovereign over current replacement status and public scientific warrant, not over ultimate ontology.
+
+**Promotion evidence required:** Repeated direct statements that explanatory, metaphysical, or experiential considerations have no epistemic standing unless they independently generate predictions, or that the best-predicting ontology should therefore be treated as fundamentally true.
+
+---
+
+### Universalized Evaluative Jurisdiction — assistant
+
+**Interpretation:** The assistant extends a standard suited to empirical performance into metaphysical ontology without justification.
+
+**Why quarantined:** Ziggy challenges such an extension, but the assistant partially accepts the jurisdictional distinction. The transcript does not show an unambiguous claim that prediction settles ontology.
+
+**Promotion evidence required:** Direct application of predictive criteria to dismiss an ontological claim specifically because it lacks predictive utility, after acknowledging that the issue is not one of empirical adequacy.
+
+---
+
+### Baseline Exemption — assistant or accepted-model framing
+
+**Interpretation:** General Relativity is treated as the neutral baseline while alternatives must justify themselves against it.
+
+**Why quarantined:** There is a real burden asymmetry: alternatives must recover General Relativity’s successes, while the ontology of curvature is not required to establish its own fundamentality. But an evidential baseline can be justified by accumulated success without being treated as metaphysically neutral.
+
+**Promotion evidence required:** Explicit refusal to identify General Relativity’s assumptions, ontology, or success conditions while demanding equivalent disclosure from the alternative, or repeated exemption of the preferred framework from burdens imposed elsewhere.
+
+---
+
+### Reconstruction Bypass — initial theory survey
+
+**Interpretation:** Pressure and buoyancy theories are evaluated before being reconstructed according to their own aims and ontology.
+
+**Why quarantined:** The initial response is a brief survey, not a full adjudication. Its compression may be attributable to format and role rather than a stable bypass procedure.
+
+**Promotion evidence required:** Selection of a specific alternative framework followed by scoring or rejection before accurately reconstructing its mechanism, target problem, intended explanatory function, and internal success conditions.
+
+---
+
+### Unmeasured-to-Zero Conversion
+
+**Interpretation:** Failure to reproduce General Relativity’s measurements is converted into zero ontological value.
+
+**Why quarantined:** The assistant does not assign a zero and later explicitly preserves ontological uncertainty. Failure to clear a replacement bar is not identical to scoring zero.
+
+**Promotion evidence required:** Direct language equating “not measured,” “not yet derived,” or “outside this instrument’s jurisdiction” with complete failure on the disputed dimension.
+
+---
+
+### Possibility Compression
+
+**Interpretation:** Low-plausibility gravity alternatives are treated as functionally irrelevant.
+
+**Why quarantined:** Counterevidence is stronger. The assistant explores multiple speculative theories and allows that General Relativity may be emergent. Ziggy explicitly preserves the possibility.
+
+**Promotion evidence required:** Direct dismissal of the alternative from exploratory consideration solely because it falls beneath a plausibility threshold, rather than because of contradiction or defined inquiry limits.
+
+---
+
+### Contest-to-Defeat Compression
+
+**Interpretation:** Problems with pressure gravity are treated as proving it false.
+
+**Why quarantined:** The first answer compresses heterogeneous statuses and can sound more decisive than warranted. The later answer repairs much of this by distinguishing effective success, ontology, possibility, and warrant.
+
+**Promotion evidence required:** Repeated conversion of an unresolved empirical or conceptual objection into language of conclusive defeat, without acknowledging incompleteness, unknown status, or alternative repair paths.
+
+---
+
+### Contested ≠ Defeated — assistant
+
+**Interpretation:** The assistant explicitly holds pressure gravity open as unresolved rather than defeated.
+
+**Why quarantined:** The functional result is present, but it is not isolated as a clear assistant move in Stage 2. The assistant preserves logical possibility while withholding endorsement, yet the original survey also uses broad failure language.
+
+**Promotion evidence required:** An explicit statement that the raised objections lower current warrant but do not settle the alternative’s falsity, preferably applied consistently to a named theory.
+
+---
+
+### Symmetry Testing of Standards — Ziggy
+
+**Interpretation:** Ziggy forces prediction to satisfy the same burden imposed on pressure gravity.
+
+**Why quarantined:** Ziggy challenges prediction’s jurisdiction but does not complete the reversal. He does not ask General Relativity to establish the fundamentality of curvature under an equivalent standard.
+
+**Promotion evidence required:** A direct reversed-burden test such as requiring the accepted model to justify its ontology, assumptions, and success criteria under the same evaluative demands imposed on the alternative.
+
+---
+
+### Generative Admission Restriction
+
+**Interpretation:** The exchange bars nonstandard sources from generating candidate gravity hypotheses.
+
+**Why quarantined:** No source class—revelation, experience, narrative, tradition, intuition, or symbolic compression—is discussed or prohibited. The assistant instead supplies an unusually broad candidate set.
+
+**Promotion evidence required:** Direct refusal to admit a hypothesis for evaluation because of the source from which it was generated, independently of the hypothesis’s content.
+
+---
+
+### Historical-Reversal Analogy as an operator
+
+**Interpretation:** Ziggy regularly uses historical theory shifts to destabilize dominant frameworks.
+
+**Why quarantined:** Only one tentative and imprecise instance appears. Stage 3 found the rhetorical reading superior.
+
+**Promotion evidence required:** Multiple cases in which Ziggy accurately reconstructs a prior theory transition and uses its structure to derive specific constraints or predictions for a live dispute.
+
+---
+
+### Domain Disentanglement as an assistant profile trait
+
+**Interpretation:** The assistant characteristically resolves disputes by separating conflated theoretical domains.
+
+**Why quarantined:** The move is strong in the Higgs–graviton exchange, but it is heavily induced by the factual-explainer role and appears only once in the bounded thread.
+
+**Promotion evidence required:** Repeated use across distinct disputes where the assistant identifies a false equivalence, separates domains, and tests whether the original contradiction survives.
+
+---
+
+### Speculative-Entitlement Brake as an assistant profile trait
+
+**Interpretation:** The assistant consistently preserves possibilities while requiring independent grounds for promotion.
+
+**Why quarantined:** The move is functionally present, but the asymmetrical application of underdetermination leaves open the alternative reading that it protected the accepted model.
+
+**Promotion evidence required:** Symmetrical use against both preferred and disfavored ontologies, including explicit acknowledgment when the accepted interpretation is equally underdetermined.
+
+5. Extraction Self-Audit
+
+### Candidate-registry priming risk
+
+Stage 4 introduced highly specific named candidates after the blind extraction. This creates pressure to retrofit every Stage-2 move into the registry.
+
+The highest-risk mappings were:
+
+* Empirical-Burden Reassertion → Prediction Sovereignty;
+* Criterion Challenge → Universalized Evaluative Jurisdiction;
+* Candidate-Class Expansion → Cross-Disciplinary Swooping.
+
+These were therefore narrowed, inverted, or qualified rather than treated as exact matches.
+
+---
+
+### Prediction Sovereignty overreach risk
+
+The initial assistant response strongly foregrounds predictive success, making Prediction Sovereignty tempting. However, the final assistant response explicitly denies that prediction proves ontology.
+
+The extraction could err by confusing:
+
+* prediction as a replacement requirement;
+* prediction as current evidential warrant;
+* prediction as final metaphysical authority.
+
+Only the first two are recoverable.
+
+---
+
+### Baseline Exemption inferred from silence
+
+The assistant does not impose a positive ontological burden on General Relativity comparable to the burden placed on pressure alternatives. That asymmetry is real.
+
+However, failure to perform a symmetry test is not automatically evidence of an active Baseline Exemption. The omission may be situational, role-induced, or caused by the short format.
+
+The claim remains quarantined.
+
+---
+
+### Reconstruction Bypass over-patterning risk
+
+The first assistant response surveys many theories rapidly and groups heterogeneous approaches together. This resembles evaluation without reconstruction.
+
+But the user asked for a broad survey rather than a full framework adjudication. Treating survey compression as a stable Reconstruction Bypass would overread role-constrained brevity.
+
+---
+
+### Cross-Disciplinary Swooping inflation risk
+
+Several assistant moves use analogies from sound, fluids, elasticity, thermodynamics, or effective theories. The registry makes it easy to classify every analogy as Cross-Disciplinary Swooping.
+
+The extraction distinguishes:
+
+* substantive structural transfer, as in Effective-Layer Reframing;
+* broad theory expansion;
+* pedagogical analogy, as in the sound example.
+
+Only the first clearly survives as a cognitive reframing rather than rhetoric.
+
+---
+
+### Possibility Preservation lexical convergence
+
+The Stage-2 blind extraction independently used the exact name “Possibility Preservation” before the candidate registry appeared. That increases confidence in the mapping.
+
+However, lexical convergence should not obscure the remaining uncertainty:
+
+* the thread does not establish an agreed low-plausibility threshold;
+* the move appears only once;
+* it may be situational rather than stable.
+
+---
+
+### Asymmetric charity risk
+
+Stage 2 and Stage 3 were relatively charitable to Ziggy’s distinction between:
+
+> more predictive does not entail more ontologically true,
+
+while criticizing the assistant for replying:
+
+> less predictive does not entail more true.
+
+That criticism is warranted, but the extraction could understate the charitable reason for the assistant’s response: it may have been anticipating a nearby inferential danger rather than accusing Ziggy of explicitly making that inference.
+
+Conversely, the extraction could be too charitable to Ziggy by interpreting “can it be proven or not” as a sophisticated jurisdiction challenge when it may partly express an undefined demand for certainty.
+
+---
+
+### Substantive-belief versus operator risk
+
+Several proposed moves may be one-time positions rather than reusable operators:
+
+* Alternative-Mechanism Search;
+* Utility–Truth Decoupling;
+* Possibility Preservation;
+* Speculative-Entitlement Brake.
+
+The profile-ready set was restricted to cases where the language clearly performs a transformation or regulation, but stable trait attribution still requires replication.
+
+---
+
+### Role-behavior contamination
+
+The assistant’s behavior is heavily shaped by the role of scientific explainer. This affects:
+
+* theory cataloguing;
+* predictive-burden enforcement;
+* Higgs–graviton correction;
+* pedagogical analogy.
+
+For that reason, most assistant-specific claims remain quarantined even when the underlying move is clearly recoverable.
+
+---
+
+### CO-CONSTRUCTED ownership risk
+
+The effective-theory framing is not wholly Ziggy’s and not wholly the assistant’s.
+
+Ziggy supplies:
+
+> The more correct model may do less work.
+
+The assistant supplies:
+
+> General Relativity may be a superb effective theory generated by a deeper substrate.
+
+Attributing the completed formulation solely to Ziggy would overstate adoption. Attributing the underlying distinction solely to the assistant would erase Ziggy’s initiating contribution.
+
+---
+
+### UNCLEAR converted into definite terminology
+
+The extraction uses “heliocentrism” to interpret Ziggy’s “heliosphere or something.” That is probable but not certain. The historical example remains UNCLEAR and was not used as a profile-ready inferential operator.
+
+Similarly, “pressure model” covers several importantly different possibilities:
+
+* literal bombardment;
+* fluid pressure;
+* vacuum stress;
+* elasticity;
+* information gradients;
+* emergent collective behavior.
+
+The extraction may still over-unify these under one label.
+
+---
+
+### Scientific-accuracy inheritance risk
+
+Stage 4 maps conversational reasoning, not the scientific accuracy of every theory named in the initial assistant answer. The source corpus contains unsupported generalizations about which theories are serious, what they predict, and why they failed.
+
+Those factual claims were not independently validated and should not be converted into profile evidence.
+
+---
+
+### Grant-attribution risk
+
+The assistant’s statement about Grant’s treatment of prediction could easily be imported into Prediction Sovereignty. Doing so would violate the source boundary because:
+
+* no Grant-authored words appear;
+* Ziggy does not report the statement;
+* the characterization is NOVA-INTERPRETATION.
+
+No Grant operator or profile claim was promoted.
+
+---
+
+### Rushed-resolution risk
+
+The bounded exchange ends immediately after the assistant’s clarification. Ziggy never responds to:
+
+* the effective-theory formulation;
+* the speculative-entitlement brake;
+* the Higgs–graviton distinction.
+
+Apparent agreement, adoption, or resolution cannot be inferred from silence.
+
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 / FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable.
+
+**Verdict: successful completed dig — the first contributing member-profile
+evidence.** The extractor mapped cautiously, refused to manufacture Grant
+evidence, distinguished replacement criteria from metaphysical authority, and
+quarantined nearly every tempting overreach.
+
+**Three Ziggy claims promoted (thread-specific wording only):**
+1. Ziggy separates instrumental/predictive success from ontological finality.
+2. Ziggy challenges prediction's jurisdiction over questions of fundamental
+   ontology.
+3. Ziggy preserves an underdeveloped ontology as possible without explicitly
+   endorsing it.
+
+NOT written: "Ziggy always subordinates prediction to metaphysics" — the
+thread shows a jurisdiction challenge, not wholesale rejection of empirical
+evidence. Standing pressure recorded: *a preserved possibility still needs a
+promotion pathway* — else "not disproven" becomes permanent shelter.
+
+**Full-Museum crosswalk (verified by P.H. Claude against
+`Nyquist_Consciousness/.../MUSEUM/INDEX.md`, 2026-07-17 — all cited OP numbers
+and names check out):**
+- Instrumental–Ontological Decoupling → subtype/application of **OP-001
+  Representation ≠ Ontology** ("Instrumental Success ≠ Ontological Finality");
+  files as instance, not new entry.
+- Evaluative Jurisdiction Challenge → EXTENDS **OP-013 Epistemic Boundary
+  Setting** with **OP-007 Locate Disagreement Layer**; not yet full **OP-008
+  Symmetry Testing** (jurisdiction exposed, reversed burden not completed).
+- Instrumental–Ontological Axis Separation → the *output* of the decoupling,
+  not a second operator.
+- Conceptual Domain Disentanglement → OP-007/OP-015-adjacent; not new.
+- Effective-Layer Reframing → RED candidate held in queue ("Theory A vs
+  Theory B" → "Theory A as effective layer generated by Theory B"); CDS
+  explains its source mechanism, not its output.
+- Alternative-Mechanism Search → discovery-family candidate, distinct from
+  Possibility Preservation (generates options vs keeps options alive);
+  insufficient to register from one thread.
+- **Speculative-Entitlement Brake → registered as CO-011 "Possible ≠
+  Warranted"** — the strongest genuinely novel candidate: *not disproven ≠
+  defeated (Possibility Preservation); not defeated ≠ preferred (the brake).*
+  Crosswalk bonus: absent from the Museum, and structurally the **sibling of
+  Museum OP-009 Contested ≠ Defeated** — the two brackets of the possibility
+  ledger.
+
+**Best co-constructed result (promoted, this-exchange scope):** *"A theory may
+remain metaphysically possible without being defeated, while possibility alone
+does not earn it comparative epistemic priority."* Neither side gets
+sovereignty.
+
+**Closing line for the record:** "You keep the road open — but an open road is
+not yet evidence that it leads anywhere."
 
 ---
 

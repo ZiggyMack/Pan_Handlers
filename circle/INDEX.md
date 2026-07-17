@@ -41,12 +41,12 @@
 
 | Registry | Location | Count | Notes |
 | ---------- | ---------- | ------- | ------- |
-| Circle Operators | `OPERATOR_LEXICON.md` | 10 (all RED) | CO-001…008 from Grant pilot hypotheses; **CO-009 Relational Parameterization** (first operator discovered by the pipeline itself) + **CO-010 Cross-Disciplinary Swooping** (first documented instance, Nova-attributed) from DIG_AUX_02 |
+| Circle Operators | `OPERATOR_LEXICON.md` | 11 (all RED) | CO-001…008 (Grant pilot hypotheses); CO-009 Relational Parameterization + CO-010 Cross-Disciplinary Swooping (DIG_AUX_02); **CO-011 Possible ≠ Warranted** (DIG_AUX_03 — Museum-absent, sibling of OP-009; first full-Museum crosswalk executed with verified OP names) |
 | Idea Trails | `IDEA_TRAILS/README.md` | 15 candidates, **2 OPEN** | IT-014 (invariance/convergence, dig complete) · IT-015 (prediction/truth/underdetermination, dig at Stage 1) |
 | Debates | `DEBATES/` | 0 recorded | |
-| Extraction packets | `evidence/chat_extractions/` | **1 synthesis packet filed** (`ziggy_nova_invariance_2026-07`) · 12 workbooks staged (DIG_00–11) · aux digs: AUX_01 (Stage 1 complete, stages 2–4 postponed), AUX_02 (✅ COMPLETE/FILED — first full-pipeline dig), AUX_03 (Stage 1 complete — prediction vs ontology, Stage 2 authorized) | protocol v0.2.2 FROZEN; human preflight before every Stage 1; DIG_00 reserved for a preflight-confirmed CFA-zero thread |
+| Extraction packets | `evidence/chat_extractions/` | **2 synthesis packets filed** (invariance; prediction-ontology) · 12 workbooks staged (DIG_00–11) · aux digs: AUX_01 (S1 done, 2–4 postponed), AUX_02 (✅ FILED), AUX_03 (✅ FILED), AUX_04 (S1 done — Bell/modal openings, Stage 2 authorized) | protocol v0.2.2 FROZEN; human preflight before every Stage 1; DIG_00 reserved for a preflight-confirmed CFA-zero thread |
 | Corpus sweeps | `evidence/corpus_sweeps/` | 1 filed (SWEEP_00: Stage 1+2 verbatim) | orientation only — never promotable; yielded **9 thread leads**, incl. first cross-member lead (Angles) |
-| Sources filed | per-member `SOURCE_INDEX.md` | **1** (Z-001, Ziggy — thread-specific) | Grant sources still **0** — the Grant-campaign bottleneck stands; best-signaled target: "Grant and Positivism" (2 independent X-CONTEXT pointers) |
+| Sources filed | per-member `SOURCE_INDEX.md` | **2** (Z-001, Z-002 — Ziggy, thread-specific) | Grant sources still **0** — the Grant-campaign bottleneck stands; best-signaled target: "Grant and Positivism" (2 independent X-CONTEXT pointers) |
 
 ---
 
