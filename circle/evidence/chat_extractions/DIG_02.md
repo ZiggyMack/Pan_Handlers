@@ -1,6 +1,6 @@
 # DIG 02 — Compound Site: Maps, Narrative, Accuracy, and Religious Experience
 
-**Status:** STAGE 2 COMPLETE — PASS AS COMPOUND SWEEP (candidate harvest); STAGE 3 AUTHORIZED · **⚡ PLOW-THROUGH MODE** (leads only — no operator or profile promotion without later bounded sub-dig confirmation)
+**Status:** STAGE 3 COMPLETE — PASS AS COMPOUND SWEEP; STAGE 4 AUTHORIZED (provisional mapping only) · **⚡ PLOW-THROUGH MODE** (leads only — no operator or profile promotion without later bounded sub-dig confirmation)
 **Field-desk designation:** `COMPOUND_SWEEP_02_maps_experience_values_and_plausibility`
 **Grant qualification:** LIMITED — REPORTED ONLY · **Ziggy qualification:** STRONG
 **⚠️ PRIVACY GATE ACTIVE** (see field-desk block — personal testimony abstracts to epistemic function in all public claims)
@@ -2348,7 +2348,1015 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+## 1. Confirmed Informative Omissions (A3/A2)
+
+### Omission 1 — Nova did not initially reconstruct Grant’s strongest likelihood argument before attributing exclusion
+
+**Relevant point:** Nova interpreted Grant’s reported possibility/likelihood objection through the sequence:
+
+> “Not likely → Probably false → Can be ignored → Can be excluded.”
+
+The bounded thread does not establish that Grant endorsed each transition.
+
+**Source Anchor:** Nova, near the end: “Grant is trying to collapse…” following Ziggy’s report, “you keep inserting what’s possible…”
+
+**Availability tier:** A3 — Demonstrated Available
+Nova later performs the omitted charitable reconstruction:
+
+> “Grant’s ‘possible vs likely’ move is actually a good move… within a certain game.”
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. It temporarily made Grant’s probabilistic objection appear more exclusionary than the available evidence supports.
+
+**Stable or situational:** Situational. Nova later corrects the imbalance and concedes the legitimate function of likelihood-ranking.
+
+---
+
+### Omission 2 — Ziggy did not initially apply his reciprocity demand to his own experience-derived framework
+
+**Relevant point:** Ziggy asks whether disbelievers can make an equivalent claim and suggests that they merely lack the experiences needed to instantiate spiritual territory.
+
+**Source Anchor:** Ziggy, final original message: “Can the disbelievers even say this?… They are the ones in lack of the experience…”
+
+Elsewhere, Ziggy explicitly demands reciprocal scrutiny:
+
+> “how would you take to me dedicating the same amount of time deconstructing… why I don’t value what you are enthusiastic about…”
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. It allowed the believer/nonbeliever relation to appear more asymmetrical than it did after Nova introduced failed prophecy, manipulation, hypocrisy, and unanswered prayer as experiences that can alter a person’s religious map in the opposite direction.
+
+**Stable or situational:** Situational. Ziggy’s wider method favors symmetry, but he did not spontaneously apply it at this point.
+
+---
+
+### Omission 3 — Ziggy did not preserve the distinction between absence of experience and evidence of absence
+
+**Relevant point:** Ziggy moves from the claim that disbelievers lack a positive spiritual encounter to the suggestion that there is no reverse encounter capable of instantiating negative territory.
+
+**Source Anchor:** Ziggy, final original message: “there’s not really a counter reverse experience that instantiates negative territories?”
+
+Elsewhere, Ziggy strongly adopts the more careful distinction:
+
+> “My experience prevents me from confidently ruling certain things out.”
+
+That formulation separates retained possibility from proof.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. It encouraged a stronger asymmetry claim than the earlier non-exclusion principle warrants. A person’s lack of a positive encounter does not prove absence, but neither does the believer’s encounter establish that contrary experiences cannot supply defeaters.
+
+**Stable or situational:** Situational. Ziggy had already shown capacity for narrower claim-scoping.
+
+---
+
+### Omission 4 — Nova did not immediately separate phenomenological transformation from causal or metaphysical interpretation
+
+**Relevant point:** During the “mass software update” discussion, Nova strongly validates the idea that the conclusion arrives before reasoning and that the operating system changes.
+
+**Source Anchor:** Nova, later portion: “The conclusion arrives first. The reasoning comes later.”
+
+Nova later demonstrates the missing distinction:
+
+1. The experience happened.
+2. What caused the experience?
+3. What does the experience justify?
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. Before the distinction was supplied, “direct map update” could be heard as support for direct external revelation rather than as a description of how the event felt and functioned.
+
+**Stable or situational:** Situational. Nova later provides the necessary separation.
+
+---
+
+### Omission 5 — The compression discussion did not initially test whether transmissible falsehoods can outperform difficult truths
+
+**Relevant point:** Narrative was framed as a powerful cultural compression mechanism capable of preserving destinations and values after the originator dies.
+
+**Source Anchor:** Ziggy, later-middle: “will it survive compression after you are gone…” Nova: “A story is a compression algorithm.”
+
+Earlier, Nova had already distinguished the claims that humans need narratives from the stronger claim that all narratives are merely constructed or equally true.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Moderately. It allowed transmissibility to appear closer to an epistemic virtue than the thread had established. Highly memorable narratives can preserve truth, distortion, or both.
+
+**Stable or situational:** Situational. Stage 2 later records the failure mode explicitly, but the original conceptual advance initially outran its qualification.
+
+---
+
+### Omission 6 — Ziggy did not apply his detail-relevance audit to the proposed Christian–Grant convergence
+
+**Relevant point:** Ziggy suggests that Christianity and Grant’s reported suffering-minimization goal may amount to two maps leading toward substantially the same destination.
+
+**Source Anchor:** Ziggy, later-middle: “they are both attempting to get to the same place…”
+
+Elsewhere, Ziggy demonstrates the relevant auditing move:
+
+> “how much detail in your supposedly more accurate map is actually needed in the pursuit of your goal…”
+
+That same operation could have tested whether the differences between Christian salvation, love, obedience, redemption, and Grant’s “all-things-considered” suffering reduction are destination-irrelevant or destination-defining.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. It made convergence appear stronger than the bounded evidence establishes.
+
+**Stable or situational:** Situational. The thread was exploring a newly noticed overlap rather than presenting a completed comparison.
+
+---
+
+### A2 finding
+
+No secure A2 omission was established. The thread contains questions and proposed moves directed toward Grant, but no direct Grant response showing that a move was explicitly offered and deliberately declined.
+
+---
+
+## 2. Possible Informative Omissions (A1)
+
+### Omission 1 — No explicit defeat conditions were supplied for retained miracle possibilities
+
+**Relevant point:** The co-constructed position becomes:
+
+> “My experience prevents me from confidently ruling certain things out.”
+
+**Source Anchor:** Nova and Ziggy, final third.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Missing move:** Specify what future evidence, accumulation of failed expectations, alternative explanation, or inconsistency would lower the retained possibility enough to remove or marginalize it.
+
+**Did the absence change the outcome?** Yes. The resulting position is modest but potentially indefinite and difficult to update against.
+
+**Stable or situational:** UNKNOWN. No repeated test of defeat conditions occurs.
+
+---
+
+### Omission 2 — Ziggy did not reconstruct Grant’s complete map before diagnosing his plausibility judgment as map-generated
+
+**Relevant point:** Ziggy interprets Grant’s position as:
+
+> “I don’t have your destination and supporting structure instantiated on my map…”
+
+**Source Anchor:** Ziggy, final original message.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Missing move:** Reconstruct Grant’s actual naturalistic hypothesis-space, priors, accepted evidence, positive values, and standards before concluding that miracle claims fail mainly because the relevant territory is absent.
+
+**Did the absence change the outcome?** Yes. The diagnosis may be correct, but the thread does not distinguish map absence from an informed low-probability assessment of a represented hypothesis.
+
+**Stable or situational:** Possibly stable, because lack of direct Grant material recurs throughout the thread.
+
+---
+
+### Omission 3 — No comparative alternative-explanation audit was performed on Ziggy’s reported vision
+
+**Relevant point:** Ziggy reports having a vision six years before dating his future wife that they would marry.
+
+**Source Anchor:** Ziggy, later: “I had a vision 6 years before we started dating my wife…”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Missing move:** Compare divine revelation, unconscious pattern recognition, memory reconstruction, coincidence, selective recall, symbolic dream formation, and unknown causes without assuming any one explanation.
+
+**Did the absence change the outcome?** Moderately. The thread carefully limits the conclusion to non-exclusion, but the personal event still receives map-expanding force without comparative explanation-ranking.
+
+**Stable or situational:** Situational. The conversation’s purpose was phenomenological exploration rather than forensic assessment.
+
+---
+
+### Omission 4 — The thread did not clearly distinguish private epistemic permission from public evidential warrant
+
+**Relevant point:** Ziggy argues that reasoning cannot erase structures instantiated on his map.
+
+**Source Anchor:** Ziggy, later: “there is nothing they can do with reasoning to erase the structures instantiated in my map…”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Missing move:** Separate:
+
+* why Ziggy personally remains open;
+* what another person should regard as possible;
+* what should count as publicly persuasive evidence;
+* what should govern shared decisions.
+
+**Did the absence change the outcome?** Yes. Some statements alternate between personal phenomenological authority and broader epistemic legitimacy.
+
+**Stable or situational:** Stable across the final part of the thread.
+
+---
+
+### Omission 5 — The map metaphor was not stress-tested against maps containing fictional, contradictory, or impossible destinations
+
+**Relevant point:** Maps are said to instantiate possible destinations and thereby make choices available.
+
+**Source Anchor:** Ziggy, later: “The map establishes it as a choice… instantiates it…”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Missing move:** Ask whether appearing on a map establishes genuine possibility, conceptual intelligibility, motivational availability, or merely representation.
+
+**Did the absence change the outcome?** Yes. “Instantiated on the map” sometimes shifts between “conceivable,” “live for me,” and “possibly real.”
+
+**Stable or situational:** Stable within the map discussion.
+
+---
+
+### Omission 6 — No explicit base-rate or likelihood procedure followed possibility admission
+
+**Relevant point:** Grant reportedly objects that Ziggy repeatedly inserts possibilities while Grant is trying to determine what is likely.
+
+**Source Anchor:** G-REPORTED, final portion: “what’s likely… what’s plausible—given the evidence.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Missing move:** After granting a hypothesis a place on the map, specify how it should be compared with alternatives.
+
+**Did the absence change the outcome?** Yes. The conversation succeeds at defending admission to the hypothesis-space but does not finish the subsequent ranking process.
+
+**Stable or situational:** Stable. The thread ends at the admission-versus-exclusion dispute.
+
+---
+
+### Omission 7 — “Path with heart” was not classified as an action criterion, truth criterion, or survival criterion
+
+**Relevant point:** Ziggy connects surrendering control over other people’s maps with walking the path with the most heart.
+
+**Source Anchor:** Ziggy, later: “walk the path with the most heart is so beautiful…”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Missing move:** Clarify whether heart selects:
+
+* what is true;
+* what is worth living;
+* what deserves commitment under uncertainty;
+* what best directs finite energy.
+
+**Did the absence change the outcome?** Moderately. Without this distinction, existential guidance can be misread as epistemic validation.
+
+**Stable or situational:** UNKNOWN.
+
+---
+
+### Omission 8 — The atheism analysis did not consistently distinguish thin atheism from complete secular worldviews
+
+**Relevant point:** Ziggy says atheism lacks a story for the opposing side to investigate.
+
+**Source Anchor:** Ziggy, middle: “There isn’t even a story for the atheist…”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Missing move:** Distinguish the proposition “no belief in gods” from secular humanism, naturalism, existentialism, utilitarianism, political liberalism, or other positive frameworks an atheist may also hold.
+
+**Did the absence change the outcome?** Yes. The asymmetry claim is strong against thin atheism presented as a complete worldview, but weaker against atheists who explicitly offer affirmative systems.
+
+**Stable or situational:** Situational. Nova partially supplied the distinction by listing positive secular commitments.
+
+---
+
+## 3. Non-Informative Omissions (A0)
+
+### Omission 1 — Whether Grant has had apparently spiritual, anomalous, or contrary religious experiences
+
+**Relevant point:** Ziggy asks whether disbelievers lack encounters that instantiate spiritual territories.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why no conclusion follows:** Grant’s experiential history is absent from the bounded thread. His skepticism cannot be attributed to lack of encounter rather than interpretation, contrary encounter, or evidential judgment.
+
+---
+
+### Omission 2 — Whether Grant answered “Enthusiastic about what?” elsewhere
+
+**Relevant point:** Ziggy identifies this as the key question for exposing positive commitments.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why no conclusion follows:** No direct Grant response is present. The absence may reflect the source boundary rather than an omission by Grant.
+
+---
+
+### Omission 3 — Whether Grant deliberately refused to grant low-probability possibilities
+
+**Relevant point:** His reported statement prioritizes likelihood and plausibility over bare possibility.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why no conclusion follows:** The report does not establish whether Grant assigned a very low probability, excluded the hypothesis entirely, or merely redirected the conversation toward ranking.
+
+---
+
+### Omission 4 — Whether Ziggy contemporaneously documented the vision concerning his wife
+
+**Relevant point:** The event is used as an example of an encounter that expands possibility-space.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why no conclusion follows:** The thread contains testimony but no contemporaneous record, corroboration, prediction details, or failure-set. No assessment of evidential strength can be made from this absence alone.
+
+---
+
+### Omission 5 — Whether the original Grant–Ziggy conversations had an agreed narrow topic
+
+**Relevant point:** Ziggy experiences persistent focus on the God-claim as asymmetric.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why no conclusion follows:** Grant’s returning to theism could reflect defensive avoidance, or it could reflect adherence to the agreed subject of debate.
+
+---
+
+## 4. Counterevidence Findings
+
+### Characterization 1 — Ziggy primarily expands conceptual territory
+
+**Counterevidence searched:** Instances where Ziggy rejects an attractive possibility, demands strong pruning, or voluntarily narrows his own claim.
+
+**Finding:** Partial counterevidence found. Ziggy strongly adopts the narrower formulation that his experience does not prove God but prevents confident exclusion. This demonstrates some pruning and claim contraction.
+
+**Effect:** The “exploratory hunter” characterization survives, but Ziggy is not merely possibility-maximizing.
+
+---
+
+### Characterization 2 — Ziggy treats standards as jurisdiction-dependent
+
+**Counterevidence searched:** Instances where Ziggy accepts a universal evidential standard or evaluates all domains identically.
+
+**Finding:** None found. Ziggy repeatedly distinguishes existential from material questions and challenges automatic authority of Grant’s standards.
+
+**Effect:** Characterization survives strongly.
+
+---
+
+### Characterization 3 — Ziggy detects frame shifts and boundary enforcement
+
+**Counterevidence searched:** Instances where he interprets qualification as benign clarification rather than gatekeeping.
+
+**Finding:** Limited counterevidence. He recognizes that accuracy and evidence are necessary for successful pursuit and does not reject them outright. However, no clear instance shows him independently interpreting Grant’s qualification as harmless.
+
+**Effect:** Characterization survives, with a possible bias toward reading repeated qualification as territorial defense.
+
+---
+
+### Characterization 4 — Ziggy supports internal evaluation of frameworks
+
+**Counterevidence searched:** Instances where he applies an external standard to another framework without first reconstructing it internally.
+
+**Finding:** Counterevidence found. His broad characterization of atheism as lacking story and enthusiasm precedes a full reconstruction of positive secular frameworks.
+
+**Effect:** The move is genuinely available to him, but its application is not consistently reciprocal.
+
+---
+
+### Characterization 5 — Ziggy seeks positive commitments behind negation
+
+**Counterevidence searched:** Instances where he is satisfied with a purely negative position or declines to ask what it serves.
+
+**Finding:** Searched, none found.
+
+**Effect:** Characterization survives strongly.
+
+---
+
+### Characterization 6 — Accuracy is treated as an instrument rather than the ultimate destination
+
+**Counterevidence searched:** Evidence that Ziggy dismisses accuracy or denies intrinsic value to truth.
+
+**Finding:** Counterevidence to the stronger reading found. Ziggy explicitly grants that accuracy is a precondition of successful action. The thread only establishes that instrumental necessity does not prove ultimate status.
+
+**Effect:** “Instrument–destination separation” survives. “Accuracy is merely instrumental” does not.
+
+---
+
+### Characterization 7 — Christianity and Grant may share the same destination
+
+**Counterevidence searched:** Evidence of divergent final ends or incompatible definitions of suffering, salvation, flourishing, or moral obligation.
+
+**Finding:** No explicit counterexample is developed, but no detailed convergence test is performed either.
+
+**Effect:** The characterization survives only as a proposed hypothesis, not an established conclusion.
+
+---
+
+### Characterization 8 — Detail should be evaluated by goal relevance
+
+**Counterevidence searched:** Instances where explanation is valued independently of practical prediction or destination achievement.
+
+**Finding:** Partial counterevidence found. The thread repeatedly values understanding, ontology, and explanation of religious encounter, not merely practical success.
+
+**Effect:** The relevance audit survives as one criterion, but not as a complete account of informational value.
+
+---
+
+### Characterization 9 — Narrative compression is a major worldview virtue
+
+**Counterevidence searched:** Recognition that memorable stories can transmit distortion or that endurance does not establish truth.
+
+**Finding:** Counterevidence found indirectly. Nova earlier distinguishes narrative need from the claim that every narrative is true or merely constructed. Stage 2 also records the failure mode that cultural fitness can be mistaken for truth.
+
+**Effect:** Compression remains a practical and cultural virtue, not an established truth-tracking property.
+
+---
+
+### Characterization 10 — Maps instantiate possible destinations
+
+**Counterevidence searched:** Cases where a destination appears on a map but remains impossible, incoherent, or motivationally unavailable.
+
+**Finding:** Searched, none found in the original conversation.
+
+**Effect:** The characterization survives as the governing metaphor, but its literal scope remains untested.
+
+---
+
+### Characterization 11 — Religious encounters can reorganize the map before reasoning
+
+**Counterevidence searched:** Instances where Ziggy or Nova insists all major belief changes result from explicit inference.
+
+**Finding:** Searched, none found. However, later reasoning is extensively used to interpret, qualify, and rank the meaning of the encounter.
+
+**Effect:** Encounter-first reorganization survives, but it does not imply reasoning is irrelevant afterward.
+
+---
+
+### Characterization 12 — Ziggy claims proof from personal experience
+
+**Counterevidence searched:** Direct proof claims.
+
+**Finding:** Strong counterevidence found. Ziggy explicitly embraces:
+
+> “I’m not claiming proof.”
+
+**Effect:** Any characterization of Ziggy as offering his vision as demonstrative proof is rejected.
+
+---
+
+### Characterization 13 — Experience blocks confident exclusion
+
+**Counterevidence searched:** An instance where Ziggy nevertheless confidently excludes all-natural explanations.
+
+**Finding:** Searched, none found. Nova explicitly preserves both “material explanation” and “something more” as live options, and Ziggy approves the wider formulation.
+
+**Effect:** Characterization survives strongly.
+
+---
+
+### Characterization 14 — Plausibility judgments are partly map-dependent
+
+**Counterevidence searched:** Recognition that evidence can constrain probability across frameworks.
+
+**Finding:** Counterevidence found. Grant’s reported concern is explicitly “given the evidence,” and Nova concedes that possibility/likelihood separation is legitimate.
+
+**Effect:** Map-dependence survives as one influence on plausibility, but the stronger reading that plausibility is merely an expression of map-content weakens.
+
+---
+
+### Characterization 15 — Disbelievers lack symmetrical encounter-based grounds
+
+**Counterevidence searched:** Contrary experiences that could reduce religious confidence.
+
+**Finding:** Direct counterevidence found. Nova offers failed prophecies, manipulation, hypocrisy, and unanswered prayer as experiences that can reshape a person’s map against particular religious claims.
+
+**Effect:** The broad asymmetry claim weakens substantially. A narrower asymmetry may remain between an encounter that positively presents a possibility and an absence that merely fails to present it.
+
+---
+
+### Characterization 16 — Atheism is structurally only negation
+
+**Counterevidence searched:** Positive secular commitments.
+
+**Finding:** Direct counterevidence found. Nova identifies science, reason, liberty, human flourishing, progress, and suffering reduction as possible objects of secular enthusiasm.
+
+**Effect:** The characterization survives only for thin atheism mistakenly presented as a complete worldview.
+
+---
+
+### Characterization 17 — Nova mainly amplifies Ziggy
+
+**Counterevidence searched:** Instances of Nova challenging Ziggy or defending Grant.
+
+**Finding:** Strong counterevidence found. Nova grants the legitimacy of possibility/likelihood distinctions, introduces contrary religious experiences, and separates experience from cause and justification.
+
+**Effect:** Nova is both scaffolder and counterweight, though counterweight interventions often arrive after initial amplification.
+
+---
+
+### Characterization 18 — Nova consistently reconstructs Grant charitably
+
+**Counterevidence searched:** Overstatements or unsupported expansions of Grant’s position.
+
+**Finding:** Counterevidence found. Nova attributes a multi-step collapse from unlikely to excluded without direct Grant evidence and sometimes describes Grant’s map using assistant-generated naturalistic possibilities.
+
+**Effect:** The “charitable counterweight” characterization survives as intermittent rather than consistent.
+
+---
+
+### Characterization 19 — Grant functions as an evidential gatekeeper
+
+**Counterevidence searched:** Direct evidence that he allows exploration, grants low-probability possibilities, or explains his positive worldview.
+
+**Finding:** No G-DIRECT material exists. Searched within the bounded evidence, none found.
+
+**Effect:** The characterization remains plausible only as G-REPORTED. It cannot be upgraded into a direct behavioral finding.
+
+---
+
+### Characterization 20 — The Ziggy–Grant interaction follows an expansion–qualification–meta-conflict loop
+
+**Counterevidence searched:** Direct exchanges in which qualification resolved the issue without producing meta-conflict.
+
+**Finding:** None recoverable. However, the Grant side of the loop is entirely reported by Ziggy.
+
+**Effect:** The loop survives as Ziggy’s account of the relationship, not as independently confirmed interaction structure.
+
+---
+
+### Characterization 21 — The Ziggy–Nova interaction follows intuition–scaffolding–adoption–extension
+
+**Counterevidence searched:** Instances where Ziggy merely accepts Nova’s framing without revising it, or where Nova rejects Ziggy’s extension.
+
+**Finding:** Both patterns occur, but the strongest cases support the loop: Ziggy accepts formulations, then revises the map analogy through the Tokyo example, and Nova updates the framework.
+
+**Effect:** Characterization survives strongly.
+
+---
+
+### Characterization 22 — One-sided scrutiny drives the atheism discussion
+
+**Counterevidence searched:** Evidence that Ziggy’s own claims were not being challenged or that Grant’s worldview had already been fully presented.
+
+**Finding:** UNKNOWN. The bounded thread contains Ziggy’s report but not the underlying Grant debate.
+
+**Effect:** Survives only as Ziggy’s experienced asymmetry.
+
+---
+
+### Characterization 23 — “Path with heart” prevents futile map-control
+
+**Counterevidence searched:** Evidence that Ziggy intends to stop persuading or abandon truth claims.
+
+**Finding:** Counterevidence to that stronger interpretation found. Ziggy explicitly says the freed energy can be used “to persuade that which you truly desire.”
+
+**Effect:** The path is not withdrawal from persuasion; it is redirection away from attempted total control.
+
+---
+
+## 5. Alternative Readings
+
+### Domain-Jurisdiction Check
+
+**Primary reading:** A repeatable evaluation move distinguishing standards appropriate to different kinds of claims.
+
+**Strongest alternative:** A substantive pluralist belief used to protect existential claims from empirical criticism.
+
+**Discriminating evidence:** Repetition across several topics supports operator status. No clear case tests whether Ziggy would allow external evidence to override an existential claim.
+
+**Result:** Mixed; operator status supported, insulation risk unresolved.
+
+---
+
+### Frame-Lever Detection
+
+**Primary reading:** Detection of strategic or unnoticed standard shifting.
+
+**Strongest alternative:** Rhetorical suspicion directed toward a disliked debate style.
+
+**Discriminating evidence:** Ziggy repeatedly identifies context transitions, but no direct Grant transcript verifies manipulation.
+
+**Result:** The move exists in Ziggy’s reasoning; the accuracy of its application to Grant is UNKNOWN.
+
+---
+
+### Boundary-Defense Stalking
+
+**Primary reading:** Diagnosis that procedural restriction is protecting familiar conceptual territory.
+
+**Strongest alternative:** The interlocutor is maintaining topic discipline or preventing equivocation.
+
+**Discriminating evidence:** Ziggy reports repeated meta-discussion, but the original disputed exchanges are absent.
+
+**Result:** Relationship diagnosis remains provisional.
+
+---
+
+### Internal-Standard Evaluation
+
+**Primary reading:** Fairly test a framework on its own terms before external comparison.
+
+**Strongest alternative:** Strategic jurisdiction-shielding.
+
+**Discriminating evidence:** Ziggy requests internal evaluation but does not fully specify when external comparison becomes legitimate.
+
+**Result:** Productive move survives; termination conditions remain unclear.
+
+---
+
+### Positive-Commitment Extraction
+
+**Primary reading:** Reveal the values hidden behind negative critique.
+
+**Strongest alternative:** Burden-shifting away from the original claim.
+
+**Discriminating evidence:** The move exposes genuine missing commitments, but it can occur before the theistic claim has been defended.
+
+**Result:** Both functions are possible; sequencing determines which dominates.
+
+---
+
+### Instrument–Destination Separation
+
+**Primary reading:** Distinguish accuracy from the goals it serves.
+
+**Strongest alternative:** A substantive metaethical thesis that truth cannot be ultimate.
+
+**Discriminating evidence:** Ziggy grants accuracy’s necessity but does not establish that it lacks intrinsic worth.
+
+**Result:** The distinction survives; the stronger value conclusion does not.
+
+---
+
+### Shared-Destination Convergence
+
+**Primary reading:** Rival maps may substantially converge on suffering reduction.
+
+**Strongest alternative:** A one-off rhetorical bridge that suppresses important doctrinal and moral differences.
+
+**Discriminating evidence:** No detailed comparison follows.
+
+**Result:** Convergence remains exploratory.
+
+---
+
+### Relevance-of-Detail Audit
+
+**Primary reading:** Ask which map details materially support the destination.
+
+**Strongest alternative:** Pragmatic dismissal of truths without immediate utility.
+
+**Discriminating evidence:** Ziggy values explanatory understanding elsewhere, suggesting he does not consistently reduce truth to immediate usefulness.
+
+**Result:** Valid local audit, not a total epistemic criterion.
+
+---
+
+### Transmission-Compression Audit
+
+**Primary reading:** Evaluate whether a worldview can preserve guidance across generations.
+
+**Strongest alternative:** A cultural-fitness argument mistaken for epistemic support.
+
+**Discriminating evidence:** The thread recognizes narrative recurrence and usefulness but does not show that survival tracks truth.
+
+**Result:** Practical operator survives; epistemic significance is UNKNOWN.
+
+---
+
+### Possibility-Space Expansion
+
+**Primary reading:** Maps and encounters make new options cognitively available.
+
+**Strongest alternative:** A metaphor for psychological salience rather than ontology.
+
+**Discriminating evidence:** “Tokyo on the map” supports cognitive availability. Nothing establishes that representation creates metaphysical possibility.
+
+**Result:** Strong as a salience model; weak if read literally.
+
+---
+
+### Encounter-First Reorganization
+
+**Primary reading:** Transformative experiences reorganize the map before discursive reasoning.
+
+**Strongest alternative:** Retrospective narrative reconstruction makes a gradual process feel instantaneous.
+
+**Discriminating evidence:** Only first-person testimony and phenomenological description are present.
+
+**Result:** Phenomenological claim survives; causal account remains UNKNOWN.
+
+---
+
+### Proof-to-Non-Exclusion Contraction
+
+**Primary reading:** Legitimate correction from an overstrong conclusion to a modest one.
+
+**Strongest alternative:** Rhetorical retreat that preserves the belief from falsification.
+
+**Discriminating evidence:** Ziggy does not first make an explicit proof claim in the bounded thread; the narrower formulation appears to express his actual intended position.
+
+**Result:** Legitimate scope clarification is better supported than retreat.
+
+---
+
+### Plausibility-as-Map-Output Diagnosis
+
+**Primary reading:** Prior frameworks shape which hypotheses appear plausible.
+
+**Strongest alternative:** A way to reinterpret unfavorable evidence as the critic’s limitation.
+
+**Discriminating evidence:** The thread concedes evidence and likelihood matter but does not supply a method for separating prior-map effects from genuine evidential weakness.
+
+**Result:** Partial insight survives; totalizing use remains unsafe.
+
+---
+
+### Asymmetry Reversal Test
+
+**Primary reading:** Restore equal scrutiny to both participants’ positive commitments.
+
+**Strongest alternative:** Retaliatory rhetoric or distraction.
+
+**Discriminating evidence:** Ziggy repeatedly links the reversal to substantive questions about values and destinations, not merely interpersonal retaliation.
+
+**Result:** Primarily evaluative, with rhetorical force.
+
+---
+
+### Ziggy as Exploratory Hunter
+
+**Primary reading:** A stable role generating new conceptual territory.
+
+**Strongest alternative:** Conversation-specific enthusiasm produced by Nova’s reinforcement.
+
+**Discriminating evidence:** Ziggy independently challenges Nova’s map analogy and generates the Tokyo correction.
+
+**Result:** Stable reasoning style strongly supported.
+
+---
+
+### Ziggy as Framework-Symmetry Enforcer
+
+**Primary reading:** Seeks equal burden and reciprocal worldview exposure.
+
+**Strongest alternative:** Demands symmetry only when his own framework is under pressure.
+
+**Discriminating evidence:** He does not spontaneously reverse the burden against his own disbeliever-asymmetry claim.
+
+**Result:** Genuine commitment, inconsistently applied.
+
+---
+
+### Nova as Philosophical Scaffolder
+
+**Primary reading:** Converts intuitions into structured formulations.
+
+**Strongest alternative:** Assistant-role mirroring that manufactures coherence and agreement.
+
+**Discriminating evidence:** Nova sometimes corrects Ziggy, but many key formulations originate with Nova and are then adopted.
+
+**Result:** Scaffolding strongly supported; co-construction may amplify confidence.
+
+---
+
+### Nova as Charitable Counterweight
+
+**Primary reading:** Preserves rigor by introducing rival interpretations.
+
+**Strongest alternative:** Late qualification after first reinforcing Ziggy’s frame.
+
+**Discriminating evidence:** Both patterns appear.
+
+**Result:** Counterweight role survives but is intermittent.
+
+---
+
+### Grant as Evidential Gatekeeper
+
+**Primary reading:** Regulates admission by evidence and plausibility.
+
+**Strongest alternative:** Ordinary probabilistic discipline in response to repeated bare-possibility claims.
+
+**Discriminating evidence:** No direct Grant messages exist.
+
+**Result:** UNKNOWN beyond G-REPORTED characterization.
+
+---
+
+### Expansion–Qualification–Meta-Conflict Loop
+
+**Primary reading:** Ziggy expands, Grant qualifies, and the conversation becomes a jurisdictional dispute.
+
+**Strongest alternative:** Ziggy repeatedly reframes because he does not answer the requested probability question.
+
+**Discriminating evidence:** Only Ziggy’s side and Nova’s interpretations are directly available.
+
+**Result:** Loop survives as a reported relationship pattern, not a neutral reconstruction.
+
+---
+
+## 6. Characterizations That Survived
+
+1. Ziggy repeatedly distinguishes existential and material jurisdictions.
+
+2. Ziggy actively detects frame changes and resists premature restriction of exploratory territory.
+
+3. Ziggy seeks positive values and destinations behind negative positions.
+
+4. “Enthusiastic about what?” functions as a central reciprocal-examination move.
+
+5. Ziggy distinguishes epistemic instruments from the ends they serve.
+
+6. Ziggy treats narrative as both value-carrier and intergenerational compression mechanism.
+
+7. Ziggy’s Tokyo correction materially transforms the map metaphor: maps condition which destinations become cognitively available.
+
+8. Religious or anomalous encounters are modeled as possible pre-inferential reorganizations of salience and possibility-space.
+
+9. The strongest co-constructed experiential claim is non-exclusion, not proof.
+
+10. Ziggy does not claim that his experience compels universal assent.
+
+11. Plausibility judgments may be influenced by prior framework structure, even though they are not shown to be reducible to it.
+
+12. Ziggy and Nova exhibit a robust intuition–scaffolding–adoption–extension loop.
+
+13. Nova functions both as conceptual amplifier and intermittent counterweight.
+
+14. Ziggy’s method contains a genuine reciprocity norm, even though it is not applied consistently.
+
+15. Grant’s positions remain G-REPORTED throughout; no G-DIRECT evidence became available.
+
+16. The thread ends with an unresolved distinction between admission to possibility-space and ranking within that space.
+
+17. “Path with heart” functions primarily as guidance for commitment and energy allocation under uncertainty, not as an established proof procedure.
+
+## 7. Characterizations That Weakened
+
+1. **Grant automatically converts unlikely into impossible.**
+   Weakened because the bounded evidence establishes only that he reportedly prioritizes likelihood and plausibility.
+
+2. **Grant’s map entirely lacks the God or miracle hypothesis.**
+   Weakened because he may represent it and assign it a low probability rather than fail to represent it.
+
+3. **Grant is demonstrably acting as a gatekeeper rather than practicing ordinary probabilistic discipline.**
+   Weakened by the absence of G-DIRECT material.
+
+4. **Disbelievers cannot possess encounter-based reasons that reshape their maps in the opposite direction.**
+   Weakened by Nova’s counterexamples involving failed prophecy, manipulation, hypocrisy, and unanswered prayer.
+
+5. **The believer/nonbeliever experiential relation is wholly asymmetrical.**
+   Weakened. A narrower asymmetry may remain between positive presentation of a possibility and mere absence of that presentation.
+
+6. **Atheism has no affirmative story or enthusiasm.**
+   Weakened to a claim about thin atheism treated as a complete worldview.
+
+7. **Christianity and suffering-minimizing naturalism reach the same destination.**
+   Weakened to a hypothesis of partial moral overlap.
+
+8. **Transmission and compression support truth.**
+   Weakened to the claim that they support durability, usability, and cultural survival.
+
+9. **More detailed maps are irrelevant once destinations align.**
+   Weakened because explanatory detail may have independent and indirect value.
+
+10. **Maps instantiate genuine metaphysical possibilities.**
+    Weakened to the better-supported claim that maps instantiate conceptual, motivational, or deliberative possibilities.
+
+11. **Encounter-first updating bypasses reasoning entirely.**
+    Weakened because reasoning remains central to interpretation, causal attribution, justification, and later revision.
+
+12. **Personal experience is immune to rational revision because it cannot be erased.**
+    Weakened. Psychological persistence and epistemic indefeasibility were not shown to be equivalent.
+
+13. **Plausibility is merely an output of the evaluator’s map.**
+    Weakened because evidence-sensitive ranking remains a legitimate and acknowledged operation.
+
+14. **Ziggy consistently applies reciprocal burdens.**
+    Weakened by his initial failure to reverse-test the claimed experiential asymmetry.
+
+15. **Nova consistently reconstructs both sides before interpretation.**
+    Weakened by several moments where the strongest Ziggy-compatible reading preceded charitable reconstruction of Grant.
+
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS AS COMPOUND SWEEP — run Stage 4 (provisional mapping only).**
+Surviving core, now clean: *a framework determines which candidates become
+cognitively live → experience may alter that candidate space → candidate
+admission is distinct from probability ranking → personal experience may
+justify non-exclusion → it does not automatically establish public
+probability or metaphysical truth.*
+
+**Strongest survivors (sweep-grade, sub-dig confirmation required):**
+- **Instrument ≠ Telos** (compact rename of Instrument–Destination
+  Separation) — accuracy is necessary for many goals ≠ accuracy selects the
+  goal; overlaps the founding "final why" trail (registry #2). *Fourth
+  candidate member of the ≠ family.*
+- **Positive-Commitment Extraction** — strong NEW candidate; valid target is
+  the person's positive framework, never thin atheism (which owes no
+  cosmology).
+- **Candidate-Space Construction** (renamed from Possibility-Space Expansion
+  — a map *represents* destinations; it does not mint metaphysical
+  possibilities): represented ≠ metaphysically possible ≠ evidentially
+  supported ≠ probable.
+- **Proof-to-Non-Exclusion Contraction** — best epistemic move in the packet;
+  Stage 3 rules it *claim-scope clarification*, not retreat (the experience
+  was never clearly offered as demonstrative proof). **Likely MATCHES/EXTENDS
+  CO-014 Claim-Scope Repair — a potential second Ziggy instance across
+  independent chats; promotion credit waits for the bounded sub-dig per
+  plow-through rules.**
+- **Map-Conditioned Plausibility** — weak form survives (priors, models,
+  admitted evidence, represented alternatives condition plausibility); strong
+  form fails (a skeptic can represent the hypothesis fully and still
+  disfavor it). Unresolved method problem: *how to distinguish
+  candidate-not-represented from candidate-represented-but-disfavored.*
+
+**Corrections that protect the subjects:**
+- **Grant's reported possibility–plausibility distinction is PRESERVED** —
+  Nova's early escalation (unlikely → probably false → ignorable → excluded)
+  is rejected as unsupported. The legitimate criticism narrows to: *"given
+  the evidence" still owes an evidence ledger* (classes, priors, admitted
+  models). Do not frame Grant as compressing likelihood into impossibility
+  without direct evidence.
+- **Believer/nonbeliever asymmetry weakens**: contrary experiences also
+  reshape maps (failed prophecy, unanswered prayer, manipulation, conflicting
+  revelation). What may remain: *phenomenological* asymmetry (encountering
+  makes a candidate live in a way absence does not) — not evidential
+  superiority.
+- Christianity–suffering-minimization convergence → *possible partial moral
+  overlap*, not "same destination, different map" (salvation/welfare,
+  holiness/autonomy, redemptive/eliminable suffering, eternal/temporal all
+  differ).
+- Transmissibility ↛ truth — falsehoods compress and spread superbly.
+- Availability: Omission 5 (compression-vs-truth stress test) **A3 → A1/weak
+  A2**; Omission 6 (overclaimed convergence — the relevance-of-detail audit
+  was demonstrably available and unapplied) **A3 defensible**.
+
+**Stage-4 mapping table registered (scoreable)** — notable rows:
+Domain-Jurisdiction Check → OP-007/OP-013; Frame-Lever → NEW as
+Context–Standard Shift Detection; Asymmetry Reversal → MATCHES Symmetry
+Testing (OP-008) *with inconsistent application noted*; Encounter-First
+Reorganization → transformative cognitive event, not operator.
+
+**Mapping dangers (five, registered):** Candidate-Space Construction ≠
+Possibility Preservation (generation/availability vs pruning/retention —
+different stages); do NOT promote Grant as evidential gatekeeper (the
+reported statement may be ordinary probabilistic discipline — CO-003 is not
+to be forced); encounter-reorganization is not voluntary reasoning; "atheism
+has no positive content" caps at *thin atheism doesn't specify a worldview*;
+**psychological persistence ≠ epistemic warrant** ("reasoning cannot erase
+this from my map" may be autobiographical durability, not rational
+mandate).
+
+**Provisional profile findings (candidate-only, pending bounded
+confirmation):** six Ziggy items (positive-commitment seeking; instrument/
+end distinction; frameworks-shape-liveness; proof→non-exclusion narrowing;
+values reciprocal scrutiny *but does not always apply it spontaneously to his
+own framing*; treats compression/transmission as practical virtues without
+claiming truth-tracking). Ziggy–Nova engine loop (5-step: intuition →
+scaffold → adopt → stress-test/exceed → revise) — well supported in-thread,
+**fourth same-shaped occurrence across digs**, still thread-level per the
+extractor-independence caveat.
+
+**Central Stage-4 question (registered):** *how can lived experience
+legitimately alter a person's admitted hypothesis-space without receiving
+automatic privilege in the later comparison of causes, probabilities, and
+public evidence?* Final mapping must keep three stages separate: **what can
+be represented / what should remain possible / what is actually plausible.**
 
 ---
 
