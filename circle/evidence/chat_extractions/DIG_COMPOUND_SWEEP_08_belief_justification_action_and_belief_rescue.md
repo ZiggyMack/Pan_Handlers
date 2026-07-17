@@ -24,7 +24,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ⚠️ conditional (source-boundary overlay binding) · Stage 2 ✅ PASSED review; Stage 3 authorized; 6 families confirmed; 5 trails ordered at close (IT-045…049); Belief Rescue = high-value seed, recurrence unconfirmed
+**Status:** 🟡 IN PROGRESS — Stage 1 ⚠️ conditional · Stages 2–3 ✅ PASSED review; Stage 4 authorized; **preservation asymmetry = deepest structural finding**; stopping architecture + decision tree filed; 6 trails ordered at close (IT-045…050)
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep: subjective experience as evidence; public vs private warrant; knowledge standards vs action thresholds; belief/justification/truth separation; **what defeating a reason actually defeats**; belief rescue vs immunization (Ziggy's own admitted rescue impulse = the dig's hottest prey); ⚠️ opens with Nova reconstructing an UNAVAILABLE earlier conversation — source-boundary repair governs
@@ -3506,6 +3506,166 @@ The model distinguishes local argumentative failure from proposition falsity, bu
 * a stopping condition;
 * role-reversed rescue tests.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS — run Stage 4. Deepest correction: the thread's logic is
+asymmetrical — very careful about preventing beliefs from being defeated
+too quickly, much less developed about when cumulative failure should
+finally overcome preservation.**
+
+```text
+GRANT PROFILE VALUE: NONE
+ZIGGY PROFILE VALUE: PROVISIONAL
+NOVA PROFILE VALUE: THREAD / ROLE LEVEL
+```
+
+**Mature structure:** statuses separated → failed reasons restricted to
+argument-level damage → centrality and residual support assessed →
+confidence distinguished from binary belief → cause separated from
+warrant → replacement reasoning tested for independence → **stopping
+condition demanded**.
+
+**📊 STAGE-2 SURVIVAL-FORECAST SCORING:** near-clean — all six families
+survived as forecast; the defeater split and doxastic-gap closure both
+executed in Stage 3; Belief Rescue held at seed level; Grant promotions
+none. *Common-cause caveat filed.*
+
+**⚖️ AVAILABILITY-TIER REVIEW (seven confirmed omissions, all A3):**
+
+1. **Grant not reconstructed before scoring** — the strongest
+   attribution omission; the contamination pattern: *Ziggy raises
+   diagnostic possibility → Nova supplies coherent Grant framework →
+   the reconstruction becomes the recurring Grant description* — leaving
+   unclear whether the target is Grant's position, Ziggy's suspicion,
+   Nova's synthesis, or a hypothetical epistemology.
+2. **Ziggy's rescue process escaped equal bridge inspection** — the
+   missing question: *what independent support remains that rationally
+   permits retaining the belief while searching?* (Belief-existence
+   explains rescue psychologically; it does not justify it.)
+3. **No stopping condition** — the thread names unfalsifiability as the
+   main danger and leaves it unresolved; the correct target is a
+   *procedure for cumulative defeat*, not a fixed number of failures.
+4. **Cause and warrant not fully separated** — "real foundations"
+   (identity, community, existential need, experience, temperament) is
+   ambiguous among causal / existential / epistemic foundations; moving
+   from the first two to the third requires an argument, or
+   psychologizing quietly replaces justification.
+5. **Confidence vs abandonment** — the graded framework was available
+   ("weakened," "under-supported") but never integrated (0.85 → 0.55 →
+   inquiry or suspension, not retain-or-abandon).
+6. **Subjective evidence not role-reversed** — the reversal Stage 4 must
+   carry: *how much weight should Ziggy give another person's sincere
+   private experience when it supports a metaphysical conclusion he
+   rejects?* — forcing admissibility / credibility / weight /
+   interpretation / public authority apart. Without it, "subjective
+   experience is evidence" is easier to invoke defensively than to
+   administer consistently.
+7. **Public reasons incur responsibility** — the corrective to the
+   thread's defensive emphasis: once a reason is publicly offered as
+   support, its defeat obliges *withdrawal of R, recalibration of
+   claimed warrant, disclosure of remaining support, reduced confidence
+   if central* — the critic need not prove the belief false before the
+   believer owes an update.
+
+**Strongest surviving families (rulings):** **Epistemic-Status
+Layering** decisive, with the propositional/doxastic gap central (*good
+evidence exists ≠ this person's belief is properly based on it*) ·
+**Inferential Bridge Inspection** strong, symmetry restriction
+permanently attached (*inspect the arrow preserving the belief as
+rigorously as the arrows threatening it*) · **Reason-Defeat /
+Belief-Revision Audit** the strongest mature family (rebutting vs
+undercutting split; most in-thread criticism = undercutting; falsity
+requires rebutting evidence or cumulative collapse — and even then,
+lost entitlement ≠ falsity) · **Load-Bearing Reason Test** survives
+with the **pre-defeat centrality record** safeguard (was R publicly
+described as essential *before* it failed? did its claimed importance
+suddenly change after?) — *the cleanest way to distinguish genuine
+weighting from retrospective insulation* · **Genesis–Warrant
+Separation** major, with both reciprocal corrections (*reason didn't
+cause belief ≠ can't warrant it; experience/identity caused belief ≠
+justifies it — psychological realism must not become epistemic escape*)
+· **Belief-Repair / Immunization Audit** central and unresolved: the
+crucial distinction is *whether the belief remained genuinely
+vulnerable during the repair*.
+
+**🏛️ THE STOPPING ARCHITECTURE (provisional framework, Stage-4
+preservable):** eight legitimate-repair indicators (confidence lowered
+during reassessment; replacement independently supported and not
+invented post-defeat; same tolerance for opposing beliefs; defeats
+accumulate; suspension/abandonment live; falsifiers statable) vs seven
+immunization indicators (confidence unchanged after central collapse;
+"peripheral" assigned only retroactively; new reasons contradict
+earlier foundations; private causes evade public criticism; evidential
+bar moves with favor; no conceivable failure pattern matters) — plus
+the **decision tree** (was R central? → independent support remains? →
+replacement credible or ad hoc? → provisional repair vs
+suspend/abandon entitlement). *Determines rational support, never
+proposition falsity.*
+
+**Subjective-evidence ladder (five rungs, confidence decreasing):**
+occurrence → phenomenal character → external accuracy → particular
+cause → public metaphysical conclusion; the consciousness comparison
+legitimates first-person evidence's role — it does not equate the
+evidential profiles of consciousness reports and religious
+interpretations.
+
+**Knowledge–Action rule:** *lower certainty may justify low-cost
+reversible exploration; higher stakes require stronger evidence,
+safeguards, and error correction* — action-generates-evidence is
+strongest for reversible participation, weakest for irreversible costs
+on others.
+
+**Retrospective tracing narrowed:** "reasoning matters little" WEAKENS;
+survives as *reasoning may be weak as psychological genealogy while
+remaining strong as epistemic regulation* — the thread itself
+demonstrates reasoning's regulatory power.
+
+**🔑 THE DEEPEST STRUCTURAL FINDING — preservation asymmetry:** the
+thread is rhetorically symmetrical but operationally
+preservation-biased. Developed preservation tools: consequence
+limitation, centrality tests, actual-cause reassessment, threshold
+shifts, subjective-evidence admission. Underdeveloped abandonment
+tools: cumulative defeat, confidence floors, independent-support
+requirements, role reversal, pre-defeat centrality records, stopping
+conditions.
+
+**Consolidation confirmed (12 → 6 families); Stage-4 mapping
+expectations filed (12 dispositions — Belief Rescue = high-value seed,
+recurrence unconfirmed; Retrospective Trace = Ziggy meta-belief, not
+demonstrated cognition).**
+
+**Profile disposition:** 5 strong provisional Ziggy seeds
+(reason-defeat restraint; centrality-sensitive revision; status-layer
+sensitivity; subjective-evidence preservation; introspective rescue
+detection — SELF-REPORTED DISPOSITION, not yet repeated observed
+operator). Nova: 8 thread-level findings (incl. *protects belief
+retention more rigorously than it structures abandonment* and *does not
+symmetrically cross-examine Ziggy's rescue procedure*).
+
+**Grant disposition:** `G-REPORTED / NOVA-RECONSTRUCTED NON-SITE`;
+quarantined additionally: *relational use of justification as control*
+(the mirror of SW02's rejected motive attributions).
+
+**Trails at close (now 6):** field desk adds IT-051 → registry assigns
+**IT-050 Preservation Bias and the Missing Abandonment Rule** alongside
+IT-045…049 (off-by-one noted).
+
+**Restrictions (final pre-Stage-4 set):** the Stage-2 set plus — no
+causal-foundation→epistemic-warrant inference · no
+action-generated-evidence blanket permission · **no preservation
+procedure without an abandonment condition**.
+
+**The decisive Stage-4 question (registered):** *what observable
+difference separates a believer who rationally repairs a damaged
+justification from one who preserves the conclusion first and treats
+reasons as endlessly replaceable armor?*
+
+**NEXT ACTION:** send Stage 4 (below) as its own message.
 
 ---
 
