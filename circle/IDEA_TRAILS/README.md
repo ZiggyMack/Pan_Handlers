@@ -50,3 +50,4 @@ Each trail is also mirrored (as a stub) in participating members' `IDEA_TRAILS.m
 | 11 | Generative authority | UNOPENED | expect CO-003 traffic |
 | 12 | Operator admission control | UNOPENED | |
 | 13 | Grant's recurring zero | UNOPENED | ← the pilot research question; open this one first |
+| 14 | Invariance, stable structure, and convergence | **OPEN** (`TR_invariance_stable_structure_and_convergence.md`) | first opened trail — seeded by DIG_AUX_02; treasure = the unresolved transformation-class question |

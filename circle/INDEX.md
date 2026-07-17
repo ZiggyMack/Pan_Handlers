@@ -16,7 +16,7 @@
 | **2 — Ziggy Control** | Symmetric observer profile | ⚪ Stub only |
 | **3 — Remaining Circle** | Tale Recursion → Angles → Hugz → Sassy → Snow White → Chrome | ⚪ Not started |
 | **4 — Relationship & Debate Graphs** | Requires ≥3 active profiles | ⚪ Blocked (0/3) |
-| **5 — Idea Trail Registry** | Candidate list registered; trails unopened | 🟡 13 candidates listed |
+| **5 — Idea Trail Registry** | Candidate list registered; first trail open | 🟡 14 candidates · 1 OPEN (invariance/convergence) |
 
 ---
 
@@ -42,9 +42,9 @@
 | Registry | Location | Count | Notes |
 | ---------- | ---------- | ------- | ------- |
 | Circle Operators | `OPERATOR_LEXICON.md` | 8 (all RED) | CO-001…CO-008, seeded from Grant pilot hypotheses |
-| Idea Trails | `IDEA_TRAILS/README.md` | 13 candidates, 0 opened | |
+| Idea Trails | `IDEA_TRAILS/README.md` | 14 candidates, **1 OPEN** | first trail: `TR_invariance_stable_structure_and_convergence` (seeded by DIG_AUX_02) |
 | Debates | `DEBATES/` | 0 recorded | |
-| Extraction packets | `evidence/chat_extractions/` | 0 filed · 12 workbooks staged (DIG_00–11) · 1 aux dig (DIG_AUX_01, Stage 1 complete) | protocol v0.2.2 FROZEN; human preflight before every Stage 1; DIG_00 reserved for a preflight-confirmed CFA-zero thread |
+| Extraction packets | `evidence/chat_extractions/` | 0 filed · 12 workbooks staged (DIG_00–11) · aux digs: AUX_01 (Stage 1 complete, Ziggy/shared-history), AUX_02 (Stage 1 complete, idea-trail seed) | protocol v0.2.2 FROZEN; human preflight before every Stage 1; DIG_00 reserved for a preflight-confirmed CFA-zero thread |
 | Corpus sweeps | `evidence/corpus_sweeps/` | 1 filed (SWEEP_00: Stage 1+2 verbatim) | orientation only — never promotable; yielded **9 thread leads**, incl. first cross-member lead (Angles) |
 | Sources filed | per-member `SOURCE_INDEX.md` | **0** | ← the current bottleneck for everything |
 

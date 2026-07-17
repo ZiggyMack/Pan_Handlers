@@ -59,7 +59,7 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | --- | --- | --- |
 | `DIG_AUX_00_Scope_CREEP.md` | *(record of the contaminated first run — canonical copy in SWEEP_00)* | ORIENTATION ONLY — NOT PROMOTABLE |
 | `DIG_AUX_01_repo_nova_institutional_identity_2026-07.md` | Repo Nova's institutional evolution; Repo Claude complementarity; extraction-design history | STAGE 1 COMPLETE — REPURPOSED (Ziggy/shared-history evidence; Stages 2–4 postponed) |
-| `DIG_AUX_02.md` | | EMPTY (staged for the mining walk) |
+| `DIG_AUX_02_invariance_and_stable_structure_2026-07.md` | Invariance as transformation-relative stability (Ziggy–Nova conceptual exchange) | STAGE 1 COMPLETE — IDEA-TRAIL SEED (Stage 2 authorized; seeds `TR_invariance_stable_structure_and_convergence`) |
 | `DIG_AUX_03.md` | | EMPTY (staged for the mining walk) |
 | `DIG_00.md` | *(reserved: CFA-zero — preflight required)* | EMPTY |
 | `DIG_01.md` | | EMPTY |
@@ -94,9 +94,12 @@ dig's discovered topic hits one of these, check it off and note the workbook.
 | ☐ | Offense-versus-defense scoring asymmetry | both | |
 | ☐ | Institutional authority and preferred grounding standards | both | |
 
-**Known thread leads so far:** nine in the SWEEP_00 leads table, plus
-**"Grant and Positivism"** (EOS operator development and worldview analysis) —
-surfaced by DIG_AUX_01's X-CONTEXT notices, the channel's first field payout.
+**Known thread leads so far:** nine in the SWEEP_00 leads table, plus from
+X-CONTEXT notices: **"Grant and Positivism"** (~2026-06-29 — now pointed at by
+**two independent bounded digs** (AUX_01, AUX_02): the strongest-signaled Grant
+target on the board), "Hilbert spaces and language models" (~2026-07-02,
+cross-model convergence), and "Impedance and attention analogy" (~2026-07-02,
+convergence across frameworks).
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**
