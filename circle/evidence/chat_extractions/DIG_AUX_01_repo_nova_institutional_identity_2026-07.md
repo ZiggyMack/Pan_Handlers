@@ -1,4 +1,4 @@
-# DIG AUX 00 — Repo Nova's Institutional Evolution
+# DIG AUX 01 — Repo Nova's Institutional Evolution
 
 **Status:** IN PROGRESS — STAGE 1 COMPLETE / REPURPOSED / NOT GRANT EVIDENCE
 **Original intended target:** CFA scoring and Grant's zero

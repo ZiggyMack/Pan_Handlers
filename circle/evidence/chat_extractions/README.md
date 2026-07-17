@@ -50,12 +50,15 @@ workbook's header.
 **Auxiliary digs (`DIG_AUX_NN_*.md`):** a bounded, scope-clean extraction whose
 thread turned out to hold a different subject than intended is not discarded —
 it's renamed as an AUX dig and repurposed for whatever it actually evidences
-(precedent: DIG_AUX_00, a valid Ziggy/shared-history dig that was aiming for
+(precedent: DIG_AUX_01, a valid Ziggy/shared-history dig that was aiming for
 Grant). Aux digs follow all the same rules; only the campaign changes.
+DIG_AUX_00 is a special case: the workbook-form record of the original
+scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 
 | Workbook | Discovered topic (after Stage 1) | Status |
 | --- | --- | --- |
-| `DIG_AUX_00_repo_nova_institutional_identity_2026-07.md` | Repo Nova's institutional evolution; Repo Claude complementarity; extraction-design history | STAGE 1 COMPLETE — REPURPOSED (Ziggy/shared-history evidence; Stages 2–4 postponed) |
+| `DIG_AUX_00_Scope_CREEP.md` | *(record of the contaminated first run — canonical copy in SWEEP_00)* | ORIENTATION ONLY — NOT PROMOTABLE |
+| `DIG_AUX_01_repo_nova_institutional_identity_2026-07.md` | Repo Nova's institutional evolution; Repo Claude complementarity; extraction-design history | STAGE 1 COMPLETE — REPURPOSED (Ziggy/shared-history evidence; Stages 2–4 postponed) |
 | `DIG_00.md` | *(reserved: CFA-zero — preflight required)* | EMPTY |
 | `DIG_01.md` | | EMPTY |
 | `DIG_02.md` | | EMPTY |
@@ -91,7 +94,7 @@ dig's discovered topic hits one of these, check it off and note the workbook.
 
 **Known thread leads so far:** nine in the SWEEP_00 leads table, plus
 **"Grant and Positivism"** (EOS operator development and worldview analysis) —
-surfaced by DIG_AUX_00's X-CONTEXT notices, the channel's first field payout.
+surfaced by DIG_AUX_01's X-CONTEXT notices, the channel's first field payout.
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**
