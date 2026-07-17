@@ -34,4 +34,30 @@
 - **Inherited by:** candidate hand-off to the Nyquist/CFA convergence program
   once the transformation-class question is formulated precisely.
 - **Sources:** `../evidence/chat_extractions/DIG_AUX_02_invariance_and_stable_structure_2026-07.md`
-  (bounded Stage 1, boundary confirmed; Stage 2 authorized, pending).
+  (bounded Stage 1, boundary confirmed; Stage 2 complete; Stage 3 in progress).
+
+## Registered Prediction — Nova, pre-Stage-3 (2026-07-17)
+
+Filed before Stage 3 returned, so it can be scored against the actual output:
+
+1. Of Stage 2's 13 blind moves, **5–6 survive** as *local reasoning moves* (not
+   yet personal operators): Ordinary-Language Reduction, Signal-Extraction
+   Framing, Qualified Agreement, Relational Parameterization, Special-Case
+   Subordination.
+2. **3–4 weaken** into pedagogical/speculative/role-induced behavior: Framework
+   Transfer, Variation-as-Transformation Reclassification, Convergence
+   Reinterpretation.
+3. Most vulnerable — should stay thread-specific or quarantined:
+   Intellectual-Lineage Triangulation as an individual operator; the three
+   relationship-level loops as recurring architecture; the Stress-Survival
+   Criterion as more than a heuristic; cross-model agreement as "epistemic
+   invariant."
+4. **No stable profile operators promoted** from this dig.
+5. Many `UNKNOWN`s expected and correct — the dominant negative-space fact is a
+   **source limitation, not a Ziggy omission**: Ziggy never had a subsequent
+   turn to accept, reject, or refine Nova's escalation, so Stage 3 must not
+   convert his silence into informative omissions.
+
+Stage-4 go/no-go rides on whether Stage 3 leaves enough standing — the live
+question being whether Framework Transfer blind-recovers something close to
+Cross-Disciplinary Swooping (which would attribute to **Nova**, not Ziggy).
