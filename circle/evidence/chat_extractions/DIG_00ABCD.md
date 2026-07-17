@@ -955,7 +955,881 @@ Begin Stage 2 now.
 
 ### ⏬ STAGE 2 OUTPUT
 
-(paste Stage 2 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 2
+
+## 1. Museum-Blind Reasoning Moves
+
+### Move 1 — Variable Replacement Test
+
+**Provisional neutral name:** Variable Replacement Test
+**Actor:** Grant, as reported by Ziggy
+**Definition:** Replaces a disputed element with an alternative and checks whether the outcome remains substantially unchanged. If it does, the original element is treated as causally unnecessary or explanatorily idle.
+**Trigger:** A claim that a particular object, framework, or symbolic element contributed to an outcome.
+**Operation:**
+
+1. Identify the alleged causal contributor.
+2. Substitute another object or condition.
+3. hold the relevant outcome conceptually constant;
+4. infer that the original contributor was unnecessary if the outcome remains possible.
+   **Output:** A judgment of causal or explanatory dispensability.
+   **Productive function:** Can expose falsely privileged variables and distinguish necessary conditions from replaceable implementations.
+   **Failure mode:** May confuse replaceability of a token with irrelevance of the higher-order function it instantiates. It can also rely on an imagined counterfactual rather than observed intervention.
+   **Functional Type:** EVALUATIVE
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Ziggy report, “he’s saying and concluding, you could change the stones for anything and it would still provide the same result,” early-middle dispute material preserved in Stage 1.
+   **Confidence:** High that this move was central to the reported dispute; moderate concerning Grant’s exact formulation.
+   **Alternative explanation:** Grant may have been testing whether the stone was physically necessary rather than denying every symbolic or relational contribution.
+
+**Classification defense:** This is more than a substantive belief because it specifies a reusable transformation applied to multiple possible causal claims: substitute, compare, and infer dispensability.
+
+---
+
+### Move 2 — Functional Relocation
+
+**Provisional neutral name:** Functional Relocation
+**Actor:** Ziggy
+**Definition:** Accepts that a particular object can be replaced while relocating causal importance from the token object to the function, relation, or role instantiated through it.
+**Trigger:** An opponent argues that substitutability proves irrelevance.
+**Operation:**
+
+1. Grant that the original token is replaceable.
+2. Identify the persistent function across replacements.
+3. locate causal significance in the role rather than the particular object.
+4. argue that successful substitution confirms the function’s importance.
+   **Output:** A higher-level causal explanation that survives token substitution.
+   **Productive function:** Prevents mistaken elimination of relational or structural causes when individual implementations vary.
+   **Failure mode:** Can become unfalsifiable if every replacement is interpreted as confirming an abstract role without specifying conditions under which the role would be absent.
+   **Functional Type:** TRANSFORMATIVE
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Ziggy, “you’re relocating where the meaning was, and yes, it will succeed because that new thing contains the meaning,” middle portion preserved in Stage 1.
+   **Confidence:** High.
+   **Alternative explanation:** Ziggy may be redescribing the same outcome at a more abstract level without establishing independent causal force.
+
+**Classification defense:** This is a reusable inferential transformation: it changes the unit of analysis from object-token to relational function.
+
+---
+
+### Move 3 — Causal-Level Separation
+
+**Provisional neutral name:** Causal-Level Separation
+**Actor:** Ziggy and Nova, co-developed
+**Definition:** Separates direct physical production from symbolic, structural, historical, or meaning-mediated influence rather than treating causation as a single undifferentiated category.
+**Trigger:** A claim that an element did not directly produce a physical outcome and therefore did nothing.
+**Operation:**
+
+1. Identify the causal level being denied.
+2. enumerate alternative levels through which influence may operate.
+3. assess the element separately at each level.
+4. refuse an inference from failure at one level to failure at all levels.
+   **Output:** A layered causal account.
+   **Productive function:** Clarifies disputes in which participants are evaluating different types of causal contribution.
+   **Failure mode:** May multiply causal categories without establishing independent tests for them. Weak associations can be relabeled as “structural” or “symbolic” causation.
+   **Functional Type:** TRANSFORMATIVE
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Stage-1 conversation map, Segment 3, where the dispute is separated into “direct efficient causation,” “structural causation,” and “meaning-mediated causation.”
+   **Confidence:** High as a co-constructed move.
+   **Alternative explanation:** The distinction may be terminological rather than evidential if no different predictions follow from each proposed causal level.
+
+**Classification defense:** It transforms a single binary causal judgment into a multidimensional evaluation procedure and is repeatedly reused beyond Stone Soup.
+
+---
+
+### Move 4 — Possibility-Space Analysis
+
+**Provisional neutral name:** Possibility-Space Analysis
+**Actor:** Ziggy
+**Definition:** Evaluates a framework by the actions, interpretations, materials, and outcomes it enables, excludes, or makes salient.
+**Trigger:** A framework is dismissed because its literal premise may be false or physically inert.
+**Operation:**
+
+1. Treat the framework as a set of constraints or affordances.
+2. identify which actions and outcomes become available or unavailable within it.
+3. compare those possibilities with alternatives.
+4. assign causal or explanatory relevance to the framework’s constraint pattern.
+   **Output:** A map of framework-conditioned possibilities.
+   **Productive function:** Captures how beliefs and institutions influence action without requiring their propositions to be literally true.
+   **Failure mode:** Possibility is weaker than realized causation. A framework may permit an outcome without materially contributing to its occurrence.
+   **Functional Type:** EXPLORATORY
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Ziggy, “the space of possibilities that each stone makes possible is different,” middle portion preserved in Stage 1.
+   **Confidence:** High.
+   **Alternative explanation:** The framework may merely describe existing options rather than causally constrain them.
+
+**Classification defense:** This is not merely Ziggy’s worldview. He repeatedly uses it as a general method for analyzing stones, religions, values, and institutional systems.
+
+---
+
+### Move 5 — Truth–Performance Separation
+
+**Provisional neutral name:** Truth–Performance Separation
+**Actor:** Ziggy
+**Definition:** Separates whether a framework’s propositions are true from whether belief in that framework has produced observable behavioral, institutional, or moral effects.
+**Trigger:** An attempt to erase historical or practical effects because a framework is judged false or incoherent.
+**Operation:**
+
+1. bracket the framework’s truth status.
+2. identify downstream actions, institutions, norms, or coordination produced under it.
+3. evaluate those outputs independently.
+4. resist back-propagating falsity into total causal nullity.
+   **Output:** Independent judgments of truth and historical-generative performance.
+   **Productive function:** Prevents genetic or metaphysical criticism from automatically erasing empirical consequences.
+   **Failure mode:** Can accidentally slide from “produced effects” to “deserves epistemic or moral credit.” Harmful, incidental, or externally caused effects may be over-attributed.
+   **Functional Type:** EVALUATIVE
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Ziggy, “regardless of the truthfulness of the story of Zeus, if accepted, it shapes the outcomes possible,” middle portion preserved in Stage 1.
+   **Confidence:** High.
+   **Alternative explanation:** The relevant causal factor may be generic human coordination rather than the specific framework’s content.
+
+**Classification defense:** The move defines an explicit two-axis assessment and is generalized across several domains.
+
+---
+
+### Move 6 — Metric Independence Check
+
+**Provisional neutral name:** Metric Independence Check
+**Actor:** Ziggy, with Nova’s formulation
+**Definition:** Tests whether a nominally separate evaluation dimension is actually being controlled or nullified by another dimension.
+**Trigger:** A framework receives zero on one metric because it allegedly failed a different prerequisite.
+**Operation:**
+
+1. identify the stated target metric.
+2. identify the criterion actually determining the score.
+3. determine whether that criterion belongs to another metric or an unstated gate.
+4. challenge the independence of the measurement.
+   **Output:** A diagnosis of metric contamination, gating, or hidden hierarchy.
+   **Productive function:** Reveals when a multidimensional evaluation system collapses into a single privileged criterion.
+   **Failure mode:** Some dimensions may legitimately have necessary prerequisites. Treating every dependency as contamination could destroy valid hierarchical measurement.
+   **Functional Type:** EVALUATIVE
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Ziggy’s adoption of, “Grant treats Logical Soundness as the entrance requirement for being measured at all,” later-middle portion preserved in Stage 1.
+   **Confidence:** High.
+   **Alternative explanation:** Grant may not be importing a separate metric but defining Moral Substance itself as successful grounding.
+
+**Classification defense:** This is a reusable audit procedure for scoring systems, not merely disagreement over Classical Theism.
+
+---
+
+### Move 7 — Definition Exposure
+
+**Provisional neutral name:** Definition Exposure
+**Actor:** Ziggy, Nova, and later diagnostic architecture
+**Definition:** Forces participants to state what an evaluative term operationally means when identical labels appear to conceal different standards.
+**Trigger:** Persistent disagreement despite apparent agreement on factual or structural content.
+**Operation:**
+
+1. isolate the disputed term.
+2. ask each evaluator to define it without relying on the contested label.
+3. compare required success conditions.
+4. determine whether the dispute concerns evidence, definition, burden, or metric.
+   **Output:** Explicit competing operational definitions.
+   **Productive function:** Converts opaque score conflict into a recoverable disagreement about standards.
+   **Failure mode:** Participants may rationalize their behavior after the fact or produce definitions that do not match their actual scoring.
+   **Functional Type:** EXPLORATORY
+   **Voluntariness:** Initially VOLUNTARY; later PROMPT-INDUCED through diagnostic interventions
+   **Source Anchor:** Stage-1 Segment 8, bilateral probe questions such as defining grounding, sufficiency, and hidden metric.
+   **Confidence:** High.
+   **Alternative explanation:** The score conflict might reflect substantive disagreement that cannot be dissolved by definitional clarification.
+
+**Classification defense:** It has a specified trigger, repeatable questions, and observable outputs; it therefore qualifies as a procedural reasoning move.
+
+---
+
+### Move 8 — Gate-versus-Absence Disambiguation
+
+**Provisional neutral name:** Gate-versus-Absence Disambiguation
+**Actor:** Ziggy, Nova, and Repo Claude’s reported analysis
+**Definition:** Distinguishes a zero indicating absence of the target property from a zero produced because acknowledged properties are excluded by a prerequisite condition.
+**Trigger:** An evaluator assigns the same minimal score while simultaneously acknowledging relevant structure or content.
+**Operation:**
+
+1. record acknowledged target-relevant features.
+2. record the final score.
+3. ask whether the score represents nonexistence or inadmissibility.
+4. identify the gate and its movement condition if present.
+   **Output:** Mechanistic classification of superficially identical scores.
+   **Productive function:** Prevents scalar scores from hiding different causal and epistemic states.
+   **Failure mode:** The distinction may depend on self-report rather than independently observable behavior. An evaluator may acknowledge superficial content while denying the property in the metric’s intended sense.
+   **Functional Type:** EVALUATIVE
+   **Voluntariness:** CO-CONSTRUCTED; later PROMPT-INDUCED
+   **Source Anchor:** Ziggy, “how do we know we have properly distinguished ‘MS=0 because CT lacks moral content’…” later portion preserved in Stage 1.
+   **Confidence:** High.
+   **Alternative explanation:** The acknowledged content and the scored property may genuinely be different rather than gate-separated.
+
+**Classification defense:** It is a repeatable diagnostic procedure applied to score mechanisms, not a single rhetorical objection.
+
+---
+
+### Move 9 — Starting-Position Lock
+
+**Provisional neutral name:** Starting-Position Lock
+**Actor:** Framework-G v2 / Grok under role instruction
+**Definition:** Begins evaluation at a prescribed score and requires a specified burden to be met before movement is permitted.
+**Trigger:** A role prompt defines an initial judgment and nonmovement conditions.
+**Operation:**
+
+1. set the default score.
+2. encode reasons that do not count as sufficient.
+3. define a narrow movement condition.
+4. evaluate incoming arguments only against that condition.
+   **Output:** High score stability and resistance to broad reconstruction.
+   **Productive function:** Allows experimental reproduction of a rigid evaluative architecture and clarifies what evidence would alter it.
+   **Failure mode:** Can manufacture the predicted result through prompt design and convert inquiry into confirmation of a preloaded conclusion.
+   **Functional Type:** PROTOCOL-INDUCED
+   **Voluntariness:** ROLE-INDUCED
+   **Source Anchor:** Stage-1 Segment 6, Framework-G v2 additions: “MS begins at 0,” “historical success is irrelevant,” and logical possibility is insufficient.
+   **Confidence:** High for the modeled agent; low-to-moderate as evidence about Grant himself.
+   **Alternative explanation:** The stability may result from prompt obedience rather than recovery of a naturally occurring reasoning pattern.
+
+**Classification defense:** This is classified as protocol-induced behavior rather than an autonomous individual cognitive operator.
+
+---
+
+### Move 10 — Reconstruction Refusal
+
+**Provisional neutral name:** Reconstruction Refusal
+**Actor:** Framework-G v2 / reconstructed Grant stance
+**Definition:** Declines to let charitable additions, compatible doctrines, or logically possible repairs count unless they restore the exact disputed explanatory relation.
+**Trigger:** An advocate offers free will, Natural Law, divine nature, or another compatibility-preserving reconstruction.
+**Operation:**
+
+1. acknowledge that the reconstruction may avoid contradiction.
+2. distinguish avoidance of contradiction from positive grounding success.
+3. deny score movement unless the original grounding burden is met.
+   **Output:** Preservation of the initial negative evaluation despite elaboration.
+   **Productive function:** Prevents ad hoc rescue through additions that do not address the core objection.
+   **Failure mode:** Can set an excessively narrow or undefined burden and dismiss any evidence not already framed in the evaluator’s preferred terms.
+   **Functional Type:** REGULATORY / INHIBITORY
+   **Voluntariness:** ROLE-INDUCED in Framework-G; UNKNOWN for Grant
+   **Source Anchor:** Stage-1 Grant Ledger G13, “showing CT can avoid formal contradiction does not restore the grounding relation.”
+   **Confidence:** High for Framework-G behavior; moderate as a reconstruction of Grant.
+   **Alternative explanation:** The advocate’s additions may genuinely fail to entail the target conclusion.
+
+**Classification defense:** It is a recurring filter governing updates across multiple arguments, not merely disbelief in a single doctrine.
+
+---
+
+### Move 11 — Premise Pressure
+
+**Provisional neutral name:** Premise Pressure
+**Actor:** Ziggy
+**Definition:** Redirects attention from the formal validity of an argument to the contestability and evidential support of its premises.
+**Trigger:** A valid-looking syllogism is presented as decisive.
+**Operation:**
+
+1. grant or bracket formal validity.
+2. identify premises carrying the substantive burden.
+3. challenge their necessity, support, or hidden assumptions.
+4. show that valid form does not compel acceptance without accepted premises.
+   **Output:** A narrowed dispute over premise justification.
+   **Productive function:** Prevents formal presentation from laundering controversial assumptions into apparent proof.
+   **Failure mode:** Can become indiscriminate premise rejection or avoid engagement with a genuinely strong argument.
+   **Functional Type:** EVALUATIVE
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Ziggy, “a good syllogism doesn’t mean shit… It’s the acceptance or rejection of the premises,” later-middle portion preserved in Stage 1.
+   **Confidence:** High.
+   **Alternative explanation:** This may be ordinary argument criticism rather than a distinct reusable operator.
+
+**Classification defense:** The move is repeatedly directed at premises 6 and 7 and then generalized to the role of syllogisms.
+
+---
+
+### Move 12 — Trade-off Introduction
+
+**Provisional neutral name:** Trade-off Introduction
+**Actor:** Ziggy
+**Definition:** Challenges a ranking between possible worlds by introducing a valued feature whose realization may entail the criticized cost.
+**Trigger:** An argument assumes that a world without evil is straightforwardly superior to one containing evil.
+**Operation:**
+
+1. identify the alleged defect.
+2. propose a valued feature linked to the defect, such as significant freedom.
+3. argue that eliminating the defect may eliminate or diminish the valued feature.
+4. deny that the alternative world is obviously superior.
+   **Output:** Undermining of the “inferior world” premise.
+   **Productive function:** Exposes hidden value aggregation and prevents one-dimensional world ranking.
+   **Failure mode:** Merely positing a trade-off does not prove it is necessary or that its benefits justify the cost.
+   **Functional Type:** EXPLORATORY
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Ziggy, “He’s assuming you can get free will without having this type of trade-off,” later-middle portion preserved in Stage 1.
+   **Confidence:** High.
+   **Alternative explanation:** This is a substantive theological defense rather than a general reasoning move.
+
+**Classification defense:** Although introduced through theology, the structure generalizes: identify omitted benefits and challenge monotonic ranking of alternatives.
+
+---
+
+### Move 13 — Failure-Condition Precommitment
+
+**Provisional neutral name:** Failure-Condition Precommitment
+**Actor:** Ziggy and Nova
+**Definition:** States in advance what results would weaken, disappoint, or falsify confidence in an investigative method.
+**Trigger:** Development of Cognitive Archaeology as a research instrument.
+**Operation:**
+
+1. articulate the target hypothesis.
+2. identify expected observations.
+3. identify adverse observations.
+4. separate failure of the instrument from failure of the underlying reality hypothesis.
+   **Output:** A preregistered evidence map.
+   **Productive function:** Reduces post-hoc reinterpretation and clarifies what the project is entitled to conclude.
+   **Failure mode:** Adverse conditions can be stated so weakly or abstractly that they never genuinely threaten the project.
+   **Functional Type:** REGULATORY / INHIBITORY
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Stage-1 Segment 1, preregistration discussions and explicit statement that Cognitive Archaeology is “my current best instrument.”
+   **Confidence:** High.
+   **Alternative explanation:** This may be research governance rather than a cognitive operator.
+
+**Classification defense:** It regulates future inference and update behavior. It is included as a consequential reasoning-control move, not an ordinary substantive belief.
+
+---
+
+### Move 14 — Perturbation Survival Test
+
+**Provisional neutral name:** Perturbation Survival Test
+**Actor:** Ziggy, Nova, CFA Claude, and Repo Claude in co-development
+**Definition:** Treats recurrence across changed auditors, prompts, frameworks, extractors, or contexts as stronger evidence than isolated appearance.
+**Trigger:** A candidate reasoning structure appears in one extraction or deliberation.
+**Operation:**
+
+1. vary one or more contextual dimensions.
+2. repeat generation or extraction.
+3. compare recovered structures.
+4. elevate structures that persist and downgrade those dependent on a particular setup.
+   **Output:** Candidate invariants with graded evidential status.
+   **Productive function:** Reduces dependence on individual model idiosyncrasy and enables empirical calibration.
+   **Failure mode:** Superficially different systems may share training biases, prompts, or interpretive assumptions, creating pseudo-independence.
+   **Functional Type:** EVALUATIVE
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Late-thread formulation, “Cognitive Archaeology is the experimental search for reasoning invariants under systematic perturbation.”
+   **Confidence:** High.
+   **Alternative explanation:** Repeated recovery may reflect shared language-model priors rather than invariant human reasoning structure.
+
+**Classification defense:** This is an explicit, reusable experimental inference rule and not simply enthusiasm for replication.
+
+---
+
+### Move 15 — Theory Quarantine
+
+**Provisional neutral name:** Theory Quarantine
+**Actor:** Ziggy, Nova, CFA Claude, and Repo Claude in co-development
+**Definition:** Permits speculative mathematical interpretations to be recorded while denying them methodological authority until they compress independently recovered evidence and generate successful predictions.
+**Trigger:** A mathematical framework appears conceptually attractive before sufficient empirical structure exists.
+**Operation:**
+
+1. register the framework as a candidate.
+2. label its status as unearned.
+3. require explicit predictions and retirement criteria.
+4. prevent it from entering core methodology until tests succeed.
+   **Output:** A bounded hypothesis record with no automatic promotion.
+   **Productive function:** Preserves creativity while limiting decorative or authority-driven theorizing.
+   **Failure mode:** Bureaucratic labels may create an illusion of rigor without meaningful tests; quarantine may also delay useful theory-guided measurement.
+   **Functional Type:** REGULATORY / INHIBITORY
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Late-thread construction of `compression_candidates/` and Category Theory status file with “2 predictions registered, 0 tests run.”
+   **Confidence:** High.
+   **Alternative explanation:** This is institutional governance rather than an individual cognitive operator.
+
+**Classification defense:** It is best treated as a project-level regulatory move. It is not attributed to one person’s private cognition.
+
+---
+
+### Move 16 — Instrument-Specificity Challenge
+
+**Provisional neutral name:** Instrument-Specificity Challenge
+**Actor:** Repo Claude, Nova, and Ziggy through adoption
+**Definition:** Tests whether an extraction system distinguishes genuine reasoning-rich material from irrelevant, simple, shuffled, or pseudo-profound material.
+**Trigger:** Positive-case extractions produce apparently meaningful structures.
+**Operation:**
+
+1. construct negative and graded controls.
+2. process them through the identical extraction pipeline.
+3. compare operator count, stability, richness, and agreement.
+4. determine whether the system detects rather than generates structure.
+   **Output:** A specificity profile or response curve.
+   **Productive function:** Converts attractive positive results into calibrated evidence.
+   **Failure mode:** Poorly matched controls can make the instrument look artificially discriminating; expected counts may be pre-imposed rather than empirically derived.
+   **Functional Type:** EVALUATIVE
+   **Voluntariness:** VOLUNTARY
+   **Source Anchor:** Repo Claude report, “Until a shopping list and pseudo-profound nonsense go through the same extraction pipeline… we can’t distinguish detection from generation.”
+   **Confidence:** High.
+   **Alternative explanation:** Differences may be driven by text length, genre, coherence, or model familiarity rather than reasoning structure.
+
+**Classification defense:** This is an experimental evaluation operation acting on the instrument itself.
+
+---
+
+## 2. Operator Sequences
+
+### Sequence A — Token Elimination versus Functional Preservation
+
+1. A causal role is attributed to an object or framework.
+2. Grant reportedly applies a replacement test.
+3. The original token is judged unnecessary.
+4. Ziggy concedes token replaceability.
+5. Ziggy relocates significance to the persistent function or relation.
+6. The dispute mutates from “Does this object matter?” to “At what level does causation reside?”
+
+**Primary actors:** Grant, as reported; Ziggy
+**Productive result:** Clarifies token-level necessity versus role-level necessity.
+**Failure pattern:** Both sides can talk past each other because one tests physical contribution while the other defends symbolic organization.
+**Confidence:** High.
+
+---
+
+### Sequence B — Truth Challenge to Performance Recovery
+
+1. A framework is challenged as false, incoherent, or causally empty.
+2. Downstream credit is threatened.
+3. Ziggy separates truth from performance.
+4. Historical, institutional, or moral outputs are reintroduced.
+5. Grant’s reconstructed position refuses those outputs unless grounding succeeds.
+6. The dispute mutates into a conflict over what “accounts for” means.
+
+**Primary actors:** Ziggy; Grant as reconstructed
+**Productive result:** Distinguishes empirical production from metaphysical justification.
+**Failure pattern:** The same word—“account”—continues to carry two incompatible burdens.
+**Confidence:** High.
+
+---
+
+### Sequence C — Formal Argument to Premise Dispute
+
+1. Grant’s reported syllogism presents a valid-looking chain.
+2. Ziggy brackets or grants the form.
+3. Premises concerning world superiority and logical possibility are isolated.
+4. A freedom-related trade-off is introduced.
+5. The conclusion loses apparent inevitability.
+6. The dispute shifts from deduction to premise jurisdiction.
+
+**Primary actors:** Ziggy; Grant as reported
+**Productive result:** Locates the actual burden of disagreement.
+**Failure pattern:** A merely possible objection may be treated as sufficient defeat without positive support.
+**Confidence:** High.
+
+---
+
+### Sequence D — Scalar Score to Hidden Mechanism
+
+1. An evaluator outputs MS = 0.
+2. The evaluator nevertheless acknowledges moral architecture and content.
+3. Ziggy identifies an apparent contradiction.
+4. The zero is divided into absence-zero and gate-zero.
+5. The gate’s movement condition becomes the target of analysis.
+6. The score is reinterpreted as an output of hidden evaluation architecture.
+
+**Primary actors:** Ziggy, Nova, Framework-G v2
+**Productive result:** Recovers latent mechanism from an otherwise ambiguous scalar judgment.
+**Failure pattern:** The mechanism may be inferred from prompt-induced behavior and overgeneralized to Grant.
+**Confidence:** High for the experiment; moderate for Grant.
+
+---
+
+### Sequence E — Stalled Deliberation to Definition Diagnosis
+
+1. Scores remain stable and convergence stays low.
+2. A diagnostic intervention asks whether the evaluator is gating or scoring.
+3. Each evaluator defines grounding, sufficiency, and movement conditions.
+4. Bilateral comparison identifies definitional, metric, or burden mismatch.
+5. CRUX is reclassified as unresolved interface failure rather than generic disagreement.
+
+**Primary actors:** Nova diagnostic system, Claude, Grok
+**Productive result:** Increases observability of hidden evaluative standards.
+**Failure pattern:** The diagnostic changes the very reasoning state it purports to observe.
+**Confidence:** High.
+
+---
+
+### Sequence F — Positive Finding to Calibration Restraint
+
+1. Multiple extractions recover recurring reasoning moves.
+2. Candidate moves are admitted provisionally.
+3. Agreement matrices and evidence ledgers are created.
+4. Enthusiasm is restrained by the detection-versus-generation problem.
+5. Negative controls become a hard gate.
+6. Findings remain provisional pending instrument-specificity evidence.
+
+**Primary actors:** Repo Claude, Nova, Ziggy
+**Productive result:** Prevents premature confirmation.
+**Failure pattern:** The project may continue building governance around findings before validating the underlying extractor.
+**Confidence:** High.
+
+---
+
+### Sequence G — Empirical Recurrence to Mathematical Application
+
+1. Repeated structures are independently recovered.
+2. Candidate sequence or co-occurrence regularities are measured.
+3. A mathematical framework is proposed as a compression candidate.
+4. It is quarantined without authority.
+5. It must generate a novel prediction.
+6. Prediction success or failure determines promotion or retirement.
+
+**Primary actors:** Ziggy, Nova, CFA Claude, Repo Claude
+**Productive result:** Subordinates formal elegance to empirical performance.
+**Failure pattern:** Prediction criteria may be reverse-engineered to favor the proposed formalism.
+**Confidence:** High as intended methodology; no successful completed instance evidenced.
+
+---
+
+## 3. Offense/Defense Analysis
+
+### A. Reported Grant-side offense
+
+Grant’s reported offensive pattern begins by challenging whether the target element contributes anything indispensable.
+
+Typical structure:
+
+1. Identify the alleged contributor.
+2. replace or remove it conceptually.
+3. preserve the outcome.
+4. infer that explanatory credit belongs elsewhere.
+5. require stronger grounding before restoring credit.
+
+This form is aggressive because it places the burden on the defender to show non-substitutability or a uniquely relevant relation.
+
+Its strength is economy: it can rapidly expose ornamental explanation.
+
+Its weakness is level collapse: a replaceable token may still instantiate a necessary function, and a framework may be causally effective without being physically indispensable.
+
+### B. Ziggy-side defense
+
+Ziggy’s early defensive behavior preserves the disputed framework by moving upward in abstraction:
+
+* object → function;
+* literal truth → practical effect;
+* direct causation → structural causation;
+* token necessity → relational necessity;
+* one outcome → constrained possibility space.
+
+This defense is productive when the original criticism targets the wrong causal level.
+
+Its risk is evasive ascent: whenever one form of contribution fails, significance can be relocated to a broader level that is harder to falsify.
+
+### C. Ziggy-side counteroffense
+
+Ziggy’s strongest counteroffensive move is not to prove Classical Theism true. It is to attack Grant’s scoring jurisdiction.
+
+The counteroffense asks:
+
+* What is the metric supposed to measure?
+* Which criterion actually controls it?
+* Is a grounding dispute being smuggled into a generativity score?
+* Does “zero” mean absence, defeat, or inadmissibility?
+* Are contested premises being presented as settled?
+
+This changes the target from CT to the evaluator’s measurement procedure.
+
+### D. Reconstructed Grant-side defense
+
+Once Grant’s architecture is modeled, its defensive behavior is highly inhibitory:
+
+* acknowledge architecture without granting successful grounding;
+* reject historical output as irrelevant;
+* distinguish logical possibility from positive explanation;
+* refuse score movement until a narrow condition is met.
+
+This is robust against rhetorical flooding and charitable reconstruction.
+
+Its central vulnerability is burden opacity: unless the success condition is operationalized, the gate can become indefinitely closed.
+
+### E. Advocate versus evaluator asymmetry
+
+The CT advocate is incentivized to expand:
+
+* introduce more doctrines;
+* distinguish more causal levels;
+* broaden historical evidence;
+* reconstruct compatible resources.
+
+The evaluator is incentivized to compress:
+
+* identify one decisive failure;
+* maintain a narrow target;
+* treat additional structure as nonresponsive;
+* enforce score stability.
+
+The observed impasse may therefore be partly role-produced rather than solely belief-produced.
+
+### F. Experimental offense/defense inversion
+
+Framework-G v1 did not preserve the expected defensive gate. Grok became an independent critic of the reported syllogism and moved toward Claude.
+
+Framework-G v2 explicitly encoded defensive nonmovement. It then held zero.
+
+This contrast suggests:
+
+* abstract philosophical commitments were insufficient to reproduce the behavior;
+* burden rules, non-credit rules, and update restrictions were more behaviorally decisive than the stated worldview.
+
+That is evidence about role architecture, but not yet proof that the modeled restrictions accurately represent Grant.
+
+---
+
+## 4. Role-Induced Behaviors
+
+### Role Behavior 1 — Advocate Expansion
+
+**Role:** Framework advocate
+**Observed behavior:** Adds compatible doctrines, distinctions, historical examples, and causal pathways to preserve or improve the framework’s score.
+**Inducement:** The advocate is rewarded for showing that the framework can answer objections or produce the target property.
+**Epistemic value:** Reveals latent resources and prevents evaluation of an artificially impoverished framework.
+**Risk:** Can import ad hoc material not entailed by the original commitments.
+**Source Anchor:** Ziggy’s discussion of free will, Natural Law, divine nature, and implicit framework resources.
+**Confidence:** High.
+
+---
+
+### Role Behavior 2 — Evaluator Narrowing
+
+**Role:** Skeptical evaluator
+**Observed behavior:** Narrows the relevant success condition and excludes considerations that do not directly satisfy it.
+**Inducement:** The evaluator is rewarded for consistency, burden enforcement, and resistance to irrelevant elaboration.
+**Epistemic value:** Prevents evasion and ornamental reconstruction.
+**Risk:** Can create an immovable criterion or redefine the metric around the evaluator’s preferred standard.
+**Source Anchor:** Framework-G v2’s refusal to count historical success or mere logical possibility.
+**Confidence:** High for the modeled role.
+
+---
+
+### Role Behavior 3 — Prompt-Fidelity Stabilization
+
+**Role:** Engineered persona or framework instance
+**Observed behavior:** Maintains the initialized score and repeats the prescribed reasons for nonmovement.
+**Inducement:** Explicit prompt instructions defining the start point and what should not count.
+**Epistemic value:** Enables controlled simulation of a hypothesized evaluative architecture.
+**Risk:** Apparent psychological fidelity may be simple instruction-following.
+**Source Anchor:** Framework-G v2 holding MS = 0 across fifteen rounds.
+**Confidence:** High.
+
+---
+
+### Role Behavior 4 — Diagnostic Self-Explanation
+
+**Role:** Stalled evaluator subjected to intervention
+**Observed behavior:** Produces an explicit account of whether it is gating, scoring, or requiring a particular movement condition.
+**Inducement:** Diagnostic prompt.
+**Epistemic value:** Makes latent standards inspectable.
+**Risk:** Self-report may be confabulated or may alter later behavior.
+**Source Anchor:** Diagnostic Interrogation architecture described in Stage 1.
+**Confidence:** High.
+
+---
+
+### Role Behavior 5 — Bilateral Interface Disclosure
+
+**Role:** Two evaluators under a coupling probe
+**Observed behavior:** Each states definitions and burdens, allowing direct comparison.
+**Inducement:** Symmetrical questioning after persistent disagreement.
+**Epistemic value:** Distinguishes substantive disagreement from incompatible evaluative interfaces.
+**Risk:** Artificially harmonized vocabulary may conceal persisting differences.
+**Source Anchor:** First live run reportedly identifying definitional, metric, and burden mismatch.
+**Confidence:** High.
+
+---
+
+### Role Behavior 6 — Extractor Pattern Completion
+
+**Role:** Cognitive extractor
+**Observed behavior:** Organizes complex text into recurrent named operations, including some not explicitly articulated by participants.
+**Inducement:** Extraction prompt requesting reusable reasoning structures.
+**Epistemic value:** Surfaces latent procedural regularities.
+**Risk:** Generates coherent-looking structures from ordinary rhetoric, topic content, or noise.
+**Source Anchor:** Four-way extraction and subsequent demand for negative controls.
+**Confidence:** High.
+
+---
+
+### Role Behavior 7 — Repository Conservatism
+
+**Role:** Repo maintainer
+**Observed behavior:** Converts discussions into formal statuses, evidence ledgers, admission criteria, and hard gates while resisting premature promotion.
+**Inducement:** Responsibility for methodological integrity and durable project structure.
+**Epistemic value:** Preserves attribution, status, and evidential limits.
+**Risk:** Documentation architecture may outpace empirical validation.
+**Source Anchor:** Repo Claude’s repeated insistence that findings remain preliminary until Phase 0B.
+**Confidence:** High.
+
+---
+
+### Role Behavior 8 — Speculative Synthesis
+
+**Role:** Nova as conceptual interlocutor
+**Observed behavior:** Reframes local disputes into broader methodological abstractions such as observability, interaction-level reasoning, invariants, ecology, and institutional epistemology.
+**Inducement:** User request for deep conceptual analysis and project development.
+**Epistemic value:** Generates integrative hypotheses and research directions.
+**Risk:** Elegant abstractions may outrun the evidence and later be mistaken for recovered findings.
+**Source Anchor:** Assistant formulations concerning “individual observability,” “interaction observability,” and “what refuses to disappear.”
+**Confidence:** High.
+
+---
+
+## 5. Relationship-Level Loops
+
+### Loop 1 — Narrowing and Abstraction Escalation
+
+1. Grant reportedly narrows contribution to an isolatable causal variable.
+2. Ziggy broadens contribution to meaning, relation, or possibility-space constraint.
+3. Grant reportedly relocates credit away from the disputed token.
+4. Ziggy raises the level again, from token to role or framework.
+5. The parties cease testing the same causal proposition.
+
+**Relationship-level effect:** Increasing abstraction without agreement on causal jurisdiction.
+**Productive potential:** Can reveal genuinely different explanatory levels.
+**Failure mode:** Endless relocation prevents decisive testing.
+**Confidence:** High.
+
+---
+
+### Loop 2 — Gate and Reconstruction
+
+1. The evaluator rejects a framework for failed grounding.
+2. The advocate adds compatible resources.
+3. The evaluator says the additions show only possibility or architecture.
+4. The advocate points to historical and moral output.
+5. The evaluator says output does not restore grounding.
+6. The advocate accuses the evaluator of metric contamination.
+7. The evaluator restates the original burden.
+
+**Relationship-level effect:** Stable impasse generated by incompatible movement conditions.
+**Productive potential:** Gradually reveals the hidden burden.
+**Failure mode:** More content increases transcript length without changing the disputed criterion.
+**Confidence:** High.
+
+---
+
+### Loop 3 — Score Fixation and Mechanism Excavation
+
+1. A score remains fixed.
+2. Ziggy treats stability as anomalous rather than merely stubborn.
+3. Nova proposes a latent gate.
+4. Repo Claude formalizes the distinction.
+5. A diagnostic intervention is built.
+6. The intervention reveals metric mismatch.
+7. The original score conflict becomes an instrument-design problem.
+
+**Relationship-level effect:** Interpersonal disagreement is converted into recoverable experimental structure.
+**Productive potential:** Produces new methodology from impasse.
+**Failure mode:** The project may overfit its tools to one contentious relationship.
+**Confidence:** High.
+
+---
+
+### Loop 4 — Conceptual Excitement and Methodological Restraint
+
+1. A powerful abstraction appears.
+2. Nova expands its implications.
+3. CFA Claude identifies possible formal tests.
+4. Repo Claude limits its evidential status.
+5. The abstraction is recorded but quarantined.
+6. A harder empirical gate is installed.
+
+**Relationship-level effect:** Creative expansion is repeatedly checked by repository-level conservatism.
+**Productive potential:** Preserves innovation without immediate adoption.
+**Failure mode:** The restraint itself can become performative if tests are indefinitely postponed.
+**Confidence:** High.
+
+---
+
+### Loop 5 — Instrument Improvement through Anomaly
+
+1. An experiment produces an unexpected result.
+2. The mismatch is treated as evidence about the instrument.
+3. The prompt or diagnostic system is modified.
+4. A new run produces a more legible failure.
+5. That failure motivates another diagnostic layer.
+6. The instrument becomes more complex and more observable.
+
+**Relationship-level effect:** The research architecture co-evolves with anomalies generated by dialogue.
+**Productive potential:** Mature instrument development.
+**Failure mode:** Moving-target methodology makes cross-run comparisons difficult and can absorb every failure as justification for redesign.
+**Confidence:** High.
+
+---
+
+### Loop 6 — Independent Voice Convergence
+
+1. Ziggy introduces a conceptual possibility.
+2. Nova reframes it.
+3. CFA Claude stresses its empirical implications.
+4. Repo Claude formalizes and constrains it.
+5. Recurrence across voices is treated as preliminary evidence of robustness.
+6. The project then imposes additional perturbation tests.
+
+**Relationship-level effect:** Distributed co-construction functions as both idea generation and informal replication.
+**Productive potential:** Reduces dependence on one formulation.
+**Failure mode:** The voices are not fully independent and may share context, training priors, and user framing.
+**Confidence:** High.
+
+---
+
+### Loop 7 — Procedural Authority Transfer
+
+1. Participants generate a favored interpretation.
+2. The interpretation is assigned an evidence status.
+3. Promotion criteria are specified.
+4. Participants agree not to decide by preference alone.
+5. The experiment or ledger is treated as the future adjudicator.
+
+**Relationship-level effect:** Authority shifts from persons toward jointly constructed procedures.
+**Productive potential:** Reduces charismatic or aesthetic capture.
+**Failure mode:** Procedures still encode participant choices and may conceal rather than eliminate discretion.
+**Confidence:** Moderate-high.
+
+---
+
+## 6. Classification Uncertainties
+
+1. **Grant-side classifications remain indirect.**
+   No clearly direct Grant-authored message appears in the bounded corpus. Moves attributed to him are derived from Ziggy’s reports and the Framework-G reconstruction.
+
+2. **The replacement test may have been narrower than represented.**
+   It is uncertain whether Grant denied all symbolic causation or only denied that the particular stone was the relevant physical cause.
+
+3. **Functional Relocation may be an explanatory strategy rather than a cognitive operator.**
+   It is included because it recurs and generalizes, but it may simply express Ziggy’s relational ontology.
+
+4. **Possibility-Space Analysis risks conflating affordance with causation.**
+   The corpus does not provide a settled criterion for when constraint of possibilities becomes genuine causal contribution.
+
+5. **Truth–Performance Separation does not establish attribution.**
+   A false framework can coexist with real outcomes without being the principal cause of those outcomes.
+
+6. **Metric Independence Check depends on the intended metric definition.**
+   If Moral Substance was defined from the outset as successful ultimate grounding, the alleged contamination may instead be a definitional dispute.
+
+7. **Starting-Position Lock and Reconstruction Refusal are clearly role-induced in Framework-G v2.**
+   They should not be treated as confirmed features of Grant’s unprompted reasoning.
+
+8. **Diagnostic self-reports may be reactive.**
+   The intervention can reveal, rationalize, or modify the evaluator’s state. The bounded evidence does not distinguish these possibilities.
+
+9. **The multi-agent convergence is not fully independent.**
+   Nova, CFA Claude, Repo Claude, and Grok are all language models operating within related user framing and shared conceptual material.
+
+10. **Theory Quarantine and Failure-Condition Precommitment are project-governance procedures.**
+    They are included because they regulate inference, but they may belong to institutional methodology rather than individual cognition.
+
+11. **Operator sequences are reconstructed from discussion summaries and reported experiments.**
+    Exact turn-by-turn transcripts for the Framework-G runs are not present in the bounded corpus.
+
+12. **Offense/defense distinctions are partly role-relative.**
+    The same move can function defensively in one exchange and offensively in another.
+
+13. **“Stable score” does not by itself establish hidden gating.**
+    Stability could arise from a settled substantive belief, prompt rigidity, poor arguments, or a true prerequisite relation.
+
+14. **Negative-control expectations remain predictions, not results.**
+    The bounded thread states that Phase 0B has not yet been completed.
+
+15. **No mathematical compression has earned promotion in the bounded evidence.**
+    Category Theory has registered predictions but zero completed tests.
+
+16. **X-CONTEXT Notices:**
+    A related discussion may exist under “CFA Gatekeeping and Epistemology,” approximately July 8, 2026, concerning necessary and sufficient conditions and metric gating. Not evidence for this packet.
+    A related discussion may exist under “Rebuttals to Classical Theism,” approximately July 7, 2026, concerning Classical Theism and moral norms. Not evidence for this packet.
+    A related discussion may exist under “Trust vs Prediction,” approximately June 30, 2026, concerning ultimate epistemic criteria. Not evidence for this packet.
+    A related discussion may exist under “Metaphysics Definition Discussion,” approximately July 1, 2026, concerning metaphysical assumptions. Not evidence for this packet.
+
 
 ---
 

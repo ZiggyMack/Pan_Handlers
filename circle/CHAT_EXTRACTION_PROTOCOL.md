@@ -502,6 +502,8 @@ transformed the underlying recovery.
 | CONTESTED / REVISED | `CONTESTED` / position state `REVISED` | |
 | UNCLEAR / UNKNOWN | `UNKNOWN` | |
 | X-CONTEXT | **never maps** — not evidence | cross-chat recollections become dig leads (which thread to excavate next), nothing more |
+| G-QUOTED-REPORTED | at most `INFERRED` about Grant; `DIRECT` about the report itself | field label (DIG_01, 2026-07-17): quoted-form transmission through Ziggy — an attributed structured argument or attributed direct reply. Stronger than loose G-REPORTED (supports "Grant is reported as denying X"), weaker than G-DIRECT (cannot support "Grant definitively understands his argument as X") |
+| THIRD-PARTY-QUOTED (TP-QUOTED) | **never maps to member ledgers** | field label (DIG_01, 2026-07-17): pasted third-party material (e.g., an AI rebuttal, a pasted report). Evidence the content *entered the exchange*, not that it is correct. Replaces UNCLEAR for this class |
 
 ## Promotion thresholds (strengthened in v0.2)
 

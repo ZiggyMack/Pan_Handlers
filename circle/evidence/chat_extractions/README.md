@@ -71,7 +71,7 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_AUX_04_bell_boundaries_and_metaphysical_continuations_2026-07.md` *(retitled at close)* | Bell boundaries: conjunction logic; exhaustiveness challenge; claim-scope repair — strongest Ziggy evidence to date; technical-risk HIGH | ✅ **FILED** — 3rd full-pipeline dig; yielded CO-012/013/014 (first Ziggy-attributed operators), Z-003, IT-016 (⚠️ tech gate), synthesis packet |
 | `DIG_AUX_05.md` | | EMPTY (staged for the mining walk) |
 | `DIG_00.md` | *(reserved: CFA-zero — preflight required)* | EMPTY |
-| `DIG_01.md` | | EMPTY |
+| `DIG_01_classical_theism_evil_and_moral_generativity.md` | ⭐ **First Grant-relevant site**: reported 12-step problem-of-evil syllogism → moral-generativity zero; Ziggy's modal-burden + trade-off objections; Grant's reported denial (G-QUOTED-REPORTED) | STAGE 1 COMPLETE — Stage 2 authorized; central target: the falsity→zero bridge |
 | `DIG_02.md` | | EMPTY |
 | `DIG_03.md` | | EMPTY |
 | `DIG_04.md` | | EMPTY |
@@ -98,7 +98,7 @@ dig's discovered topic hits one of these, check it off and note the workbook.
 | ☐ | Trust preceding prediction | Grant/Ziggy | |
 | ☐ | Possibility versus plausibility | both | |
 | ☐ | The jurisdiction of justification | Grant | |
-| ☐ | Classical theism generating moral norms | Grant | |
+| ✅ | Classical theism generating moral norms | Grant | `DIG_01` (Stage 1 complete — first checklist hit) |
 | ☐ | Myth as compression | Ziggy | |
 | ☐ | Offense-versus-defense scoring asymmetry | both | |
 | ☐ | Institutional authority and preferred grounding standards | both | |
