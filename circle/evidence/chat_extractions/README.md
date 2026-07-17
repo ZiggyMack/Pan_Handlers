@@ -79,12 +79,12 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_AUX_02_invariance_and_stable_structure_2026-07.md` | Invariance as transformation-relative stability (Ziggy–Nova conceptual exchange) | ✅ **FILED** — first dig through all 4 stages; seeded IT-014, CO-009, CO-010, Z-001; synthesis: `ziggy_nova_invariance_2026-07.md` |
 | `DIG_AUX_03_prediction_ontology_and_effective_theories_2026-07.md` | Prediction vs truth: does predictive success settle ontology? (real clash; Ziggy/Nova; NO Grant evidence) | ✅ **FILED** — 2nd full-pipeline dig; crosswalk executed; yielded CO-011, Z-002, IT-015 close-out, synthesis packet |
 | `DIG_AUX_04_bell_boundaries_and_metaphysical_continuations_2026-07.md` *(retitled at close)* | Bell boundaries: conjunction logic; exhaustiveness challenge; claim-scope repair — strongest Ziggy evidence to date; technical-risk HIGH | ✅ **FILED** — 3rd full-pipeline dig; yielded CO-012/013/014 (first Ziggy-attributed operators), Z-003, IT-016 (⚠️ tech gate), synthesis packet |
-| `DIG_AUX_05.md` | | EMPTY (staged for the mining walk) |
 | `DIG_00.md` | *(reserved: CFA-zero — preflight required; workbook recreated after its file was consumed by a rename)* | EMPTY |
 | `DIG_00ABCD.md` *(operator's working name — proper identity assigned at field-desk review)* | Grant's evaluative architecture via the CT/Moral-Substance dispute + development of Diagnostic Interrogation, Coupling Probes, Cognitive Archaeology calibration, invariant-seeking methodology (heavy G-REPORTED; no G-DIRECT) | IN PROGRESS — Stages 1–2 pasted; awaiting field-desk reviews |
 | `DIG_01_classical_theism_evil_and_moral_generativity.md` | ⭐ **First Grant-relevant site**: reported 12-step problem-of-evil syllogism → moral-generativity zero; Ziggy's modal-burden + trade-off objections; Grant's reported denial (G-QUOTED-REPORTED) | ✅ **FILED** — 4th full-pipeline dig; **G-001 (first Grant source, reported ceiling)**, Z-004, IT-017, synthesis packet; restraint round: zero new operators, one recorded error (Logical-Status Compression) |
 | `DIG_COMPOUND_SWEEP_02_maps_experience_values_and_plausibility.md` *(renamed at close per field desk)* | ⚡ Compound sweep: maps, experience, values, plausibility; ⚠️ privacy gate active | ✅ **COMPLETE — candidate harvest, ZERO promotions (plow-through rule held)**; 3 sweep-strong candidates queued; seeds IT-018; sub-digs A/B/C queued (segment-D scope lock preserved in workbook) |
 | `DIG_02.md` | *(reset to clean template for reuse)* | EMPTY |
+| `DIG_COMPOUND_SWEEP_03_foundations_justification_and_jurisdiction.md` | ⚡ Compound sweep: Münchhausen trilemma → framework-relative justification → single-value underdetermination → **jurisdiction of justification** (checklist theme #4 — Z-06's home trench) | STAGE 1 COMPLETE — Stage 2 authorized; candidate harvest only |
 | `DIG_03.md` | | EMPTY |
 | `DIG_04.md` | | EMPTY |
 | `DIG_05.md` | | EMPTY |
@@ -109,7 +109,7 @@ dig's discovered topic hits one of these, check it off and note the workbook.
 | ☐ | Prediction as the ultimate standard | Grant | |
 | ☐ | Trust preceding prediction | Grant/Ziggy | |
 | ☐ | Possibility versus plausibility | both | |
-| ☐ | The jurisdiction of justification | Grant | |
+| 🟡 | The jurisdiction of justification | Grant | `COMPOUND_SWEEP_03` (sweep-grade — bounded sub-dig still needed for promotion) |
 | ✅ | Classical theism generating moral norms | Grant | `DIG_01` (Stage 1 complete — first checklist hit) |
 | ☐ | Myth as compression | Ziggy | |
 | ☐ | Offense-versus-defense scoring asymmetry | both | |
