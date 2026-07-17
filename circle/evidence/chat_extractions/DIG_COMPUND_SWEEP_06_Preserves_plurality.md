@@ -1,4 +1,9 @@
-# DIG 07 — *(title once known)*
+# DIG COMPOUND SWEEP 06 — Belief, Justification, Observer Frames, and Scientific Jurisdiction
+<!-- Workbook claimed from the DIG_07 slot. Operator's filename slug
+     ("Preserves_plurality", with COMPUND typo) kept while the dig is live —
+     field desk's suggested archive identity is
+     COMPOUND_SWEEP_06_belief_justification_observer_frames_and_scientific_jurisdiction;
+     rename deferred to close-out to avoid stale-buffer collisions. -->
 
 > **Self-contained dig workbook.** Work top to bottom: copy each stage prompt
 > into the old chat **as its own message**, wait for the reply, paste it under
@@ -22,10 +27,10 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** EMPTY
+**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ PASSED field-desk review; Stage 3 authorized; ⚠️ Grant promotion PROHIBITED (reported/reconstructed only)
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
-**Discovered topic:** _fill in after Stage 1 reveals what this chat actually holds_
+**Discovered topic:** ⚡ Compound sweep, three connected sites: (1) belief / justification / warrant / truth; (2) observer-relative facts vs shared-world facts (the teapot example); (3) whether an adjudication method can exceed the jurisdiction where it earned authority — science, is/ought, and spiritual claim types ("taking the theist idea into their frame to die")
 
 ## Packet Header (fill as you go)
 
@@ -1065,6 +1070,157 @@ A related discussion may exist under “delete_4,” approximately July 1, topic
 
 A related discussion may exist under “delete_5,” approximately June 30, topic: methodological naturalism, classical theism, and scoring asymmetry. Not evidence for this packet.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 1 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS AS COMPOUND SWEEP — run Stage 2 wholesale, preserving
+strict limits on Grant attribution and resisting a hard
+science/spirituality partition.**
+
+```text
+ZIGGY EVIDENCE: STRONG
+NOVA–ZIGGY CO-CONSTRUCTION: STRONG
+GRANT EVIDENCE: REPORTED / RECONSTRUCTED ONLY
+GRANT PROFILE PROMOTION: PROHIBITED
+```
+
+**Archive identity (field desk):**
+`COMPOUND_SWEEP_06_belief_justification_observer_frames_and_scientific_jurisdiction`
+— rename deferred to close-out (operator's working filename kept while the
+dig is live).
+
+**Main architecture:** belief distinguished from justification →
+justification standards exposed as frameworks → local observer facts
+separated from world facts → shared adjudication becomes a higher-order
+frame → higher-order authority recognized as earned but bounded →
+scientific standards tested for cross-domain overextension.
+
+**Source-audit judgment — discipline very good:** Grant never speaks;
+"Grant collapses belief into justified belief" is *Ziggy's concern*, not
+an established Grant formulation; public auditability / consensus /
+prediction / intervention success = largely Nova's reconstruction
+(measurement and reproducibility have somewhat stronger reported
+support); observer-structure and science-jurisdiction analyses are
+CO-CONSTRUCTED; nothing establishes any metaphysical doctrine as true.
+**Refinement ordered:** distinguish *direct Ziggy theses* from *Ziggy
+questions that open a path without committing* — "Is this another
+super-frame?" and "Is the atheist taking the theistic idea into its frame
+to die?" are proposals/hypotheses under test, not adopted theories.
+
+**Belief/justification branch rulings:** the four-way layering (belief /
+justification / truth / knowledge) is sound; the critical Stage-2
+correction: *belief persists ≠ belief remains justified ≠ the person is
+rationally permitted to retain it ≠ the belief is knowledge*. Nova is
+right that defeating a justification doesn't prove falsity — but Grant
+could hold the far more defensible position that defeated justification
+removes *rational entitlement*, which does NOT collapse belief into
+justified belief. **Four possible Grant theses to keep apart (G1–G4):**
+G1 conceptual identity (crude) · G2 only justified beliefs deserve
+rational retention (serious) · G3 only publicly justifiable beliefs
+should guide collective decisions (serious) · G4 defeated support →
+probably false (needs probabilistic assumptions). The bounded source
+determines none. **Public warrant ≠ personal belief** — the jurisdictional
+issue depends on what role the belief is asked to perform (private
+conviction vs coercive public authority); public-warrant pressure is not
+automatically imperial.
+
+**Adjudication-standards rulings:** *framework-dependent ≠ arbitrary ≠
+equally good as every rival* — scientific methodology is a structured
+frame that EARNED authority (prediction, error correction, public
+checking, intervention); the key move is **authority decomposition**: has
+assumptions / has demonstrated success / deserves authority in domain D /
+transfers to domain E / is universally sovereign — first three can be
+true while the last two remain unproved. (Same promotion architecture as
+the prediction sweeps, now emerging through justification standards
+themselves.)
+
+**Observer branch rulings (the teapot decomposition — cleanest part of
+the packet):** *"A believes X" and "B believes not-X" can both be true;
+X and not-X cannot both describe the same causal state in the same
+respect* — an important **anti-relativist correction**; strong overlap
+with Representation ≠ Ontology. *Many perspectives in one world ≠ many
+worlds*; global structure = relations/transformations/constraints among
+perspectives, NOT a supreme observer and NOT a multiverse. ⚠️ Terms
+"global frame," "super-frame," "local minima," "observer structure"
+remain informal and partly inherited from excluded prior discussion —
+Stage 2 extracts only the *operation* (distinguish local reports,
+relational structure, shared ontology), never a technical theory.
+
+**Science/normativity/spirituality rulings (highest yield, highest
+danger):** is/ought survives but *not as isolation* — empirical findings
+constrain normative reasoning without supplying every value premise.
+**"Spirituality" must be decomposed internally** (phenomenological /
+psychological / historical / causal / metaphysical / normative /
+theological claims take different standards — measurement is poorly
+suited to "what did it feel like," highly relevant to "does this
+intervention cause recovery"); *I experienced X ≠ my explanation of X is
+correct*. **The frame-death metaphor gets a two-sided test:** hostile
+translation (God → measurable object → absent → rejected) is a genuine
+category error IF the claim never posited a detectable object; but
+theistic claims with empirical consequences (miracles, answered prayer,
+history) cannot evade scrutiny by being housed in a spiritual frame.
+Proper rule: *reconstruct the claim in its own ontology → identify what
+it actually predicts → apply standards appropriate to those claimed
+consequences* — prevents both scientism and framework immunity.
+
+**The key category distinction (the sweep's compass):** not science vs
+spirituality, but — what kind of claim? what evidence would bear on it?
+what inference is drawn? what authority is requested? (OP-007 / OP-013
+adjacency.)
+
+**📋 REGISTERED PREDICTIONS (scored at Stage-2 return):** *Ziggy-direct:*
+Belief/Justification Separation; Observer-State/World-State Separation;
+Local-Perspective/Shared-Ontology Separation; Adjudication-Frame
+Exposure; Higher-Order Frame Identification; Domain-to-Jurisdiction
+Audit; Hostile-Frame Translation Challenge; Earned-Authority/
+Universal-Authority Separation; Descriptive/Normative Jurisdiction
+Separation. *Nova-heavy/co-constructed:* Belief/Warrant/Truth Layering;
+Public/Private Justification Separation; Representation/Ontology
+Separation; Global Relational-Structure Reconstruction;
+Domain-Competence Analysis; Claim-Type Decomposition; Scientism
+Diagnosis; Experience/Interpretation Separation. *Five relationship
+loops* (intuitive conflict → formalization; conventional distinction →
+meta-frame authority; observer plurality → object-level counterexample →
+relativism limited; local authority granted → transfer pressured →
+domain competence constructed; hostile translation → category-error
+concern → immunity caveat).
+
+**Stage-3 pressure points pre-registered:** 12 against Ziggy (incl. does
+Grant regulate retention rather than collapse belief?; what makes one
+super-frame superior?; does "frame" understate world-responsive success?;
+WHICH theistic claim is being taken into the frame — and does it assert
+measurable consequences?; how are spiritual fraud/error/conflicting
+testimony adjudicated?; what would count against the preferred spiritual
+interpretation?). 10 against Nova (don't imply failed reasons leave
+entitlement untouched; don't overconstruct Grant; don't flatten science
+into "another frame"; decompose spirituality before mapping domains;
+don't invoke scientism too quickly; test method-fit under reversed
+roles). Against Grant: questions only, no conclusions.
+
+**Recommended later sub-digs (3):** A belief/justification/warrant/truth
+(*strongest clean profile source*) · B observer states / world facts /
+super-frames (Idea-Trail material unless a formal model appears) ·
+C scientific jurisdiction / spiritual claims / is-ought (*strongest
+eventual Museum source*).
+
+**Restrictions (standing):** no Grant promotion · no
+belief-persistence→warrant inference · no all-standards-are-equal
+inference · no observer-relativity→world-relativity inference · no hard
+science/spirituality wall · no testimony→metaphysics shortcut · no
+framework immunity from empirical consequences.
+
+**Deepest prey:** *a standard can be a frame without being arbitrary, and
+a claim can belong partly to one domain without being immune from
+evidence arising in another — the real work is identifying the exact
+claim, the level on which it is made, and the kind of evidence capable of
+bearing upon it.*
+
+**NEXT ACTION:** Stage 2 already executed (output below); Stage-2 review
+follows it.
 
 ---
 
@@ -1893,6 +2049,165 @@ Examples include:
 13. **The offense/defense profile is asymmetrically evidenced.**
     Ziggy and Nova are directly observable. Grant’s role is inferred through their descriptions and therefore cannot be compared at equal confidence.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS AS COMPOUND SWEEP — run Stage 3. Strong harvest, but
+fourteen moves overstate the number of genuinely independent operators;
+the real structure is three linked audits: category separation,
+observer/world constraint testing, and adjudicative-jurisdiction
+analysis.**
+
+```text
+PRIMARY VALUE: Ziggy reasoning architecture + Nova–Ziggy refinement loops
+GRANT VALUE: reported-position leads only
+DIRECT PROFILE PROMOTION: NOT YET
+```
+
+**Central architecture:** separate psychological, epistemic, and
+ontological claims → inspect the inference connecting them → test
+observer-relative language against shared reality → expose the
+higher-order adjudication frame → grant its earned authority → challenge
+unauthorized cross-domain expansion → admit alternate evidence types
+without granting illicit conclusions.
+
+**📊 STAGE-1 PREDICTION SCORING:** Ziggy-direct **9/9 recovered** under
+equivalent names (Adjudication-Frame Exposure → Jurisdiction Escalation +
+Frame Nesting; Earned-Authority Separation → Concession Before Boundary
+Challenge; Domain-to-Jurisdiction → Domain-Fit Challenge; Descriptive/
+Normative → Is/Ought Gatekeeping; etc.). Nova-heavy **≈7–8/8**
+(Public/Private Justification Separation the only partial — folded into
+the layering rather than surfacing separately). *Common-cause caveat
+filed — the standing self-prediction limit applies.*
+
+**Strongest recovered moves (rulings attached):**
+
+- **Belief–Warrant–Truth Separation** (Component Separation +
+  Independence Testing + Inferential Bridge Inspection = one family) —
+  the packet's cleanest conceptual finding. ⚠️ Critical Stage-3 pressure:
+  *Nova sometimes protects the proposition from falsity more successfully
+  than it protects the believer's epistemic entitlement* — "defeating
+  reasons doesn't prove falsity" does NOT yield "the person remains
+  entitled to keep believing."
+- **Inferential Bridge Inspection** — bad argument for X → reject belief
+  → X is false: each transition needs separate warrant; five live Grant
+  alternatives retained (falsity / suspension / no-knowledge / no public
+  legitimacy / lower confidence) — *do not let Nova's strongest
+  reconstruction become Grant's actual position.*
+- **Jurisdiction Escalation** — one of the strongest Ziggy-direct
+  candidates (what licenses the standard's authority?), with its failure
+  mode named: *every adverse judgment → challenge the referee → no claim
+  is ever adjudicated*. Stage 3 tests whether escalation tracks genuine
+  category shifts or unfavorable first-order results.
+- **Frame Nesting** — IDEA-TRAIL/MODELING DEVICE, not an operator, unless
+  repeated operational use appears; the significant move is identifying
+  which level performs which function, not "everything is a frame."
+- **Observer-State/World-State Separation** — strongest teapot result;
+  Representation ≠ Ontology overlap; unrestricted perspectivalism
+  correctly avoided.
+- **Counterexample Hardening** — real Ziggy reasoning behavior (accept
+  model in easy case → construct harder case → find the overgeneralization);
+  strong technique-level seed, profile-worthy only on recurrence.
+- **Relational Globalization** — Nova-generated, productive,
+  underdefined; does not adjudicate contradictory object-level claims;
+  **Idea Trail material only**.
+- **Concession Before Boundary Challenge** — matches existing
+  **Scope-Constrained Concession**; no duplicate registration; the
+  concession matters because it rules out a crude anti-scientific
+  reading.
+- **Claim-Type / Method-Fit Audit** (mature name for Domain-Fit
+  Challenge) — the packet's strongest broader candidate; prevents both
+  scientistic universalization AND spiritual immunity.
+- **Is/Ought Gatekeeping** — genuine, but a substep of the method-fit
+  audit; science constrains normative deliberation even without supplying
+  the ultimate value premise.
+- **Experience–Interpretation Separation** (mature name for Evidence-Type
+  Reclassification) — testimony supports occurrence/phenomenology/effects,
+  not automatically the causal explanation, ontology, or normative
+  authority; survives strongly.
+- **Framework-Translation Fidelity Check** (the operation beneath the
+  hostile-translation metaphor): reconstruct in own categories →
+  translate → inspect losses → test only consequences actually asserted.
+- **Symmetrical Overreach Brake** (Nova regulatory pattern) — *science
+  doesn't settle every spiritual claim ≠ spiritual interpretation is
+  true*; strengthens existing symmetry/jurisdiction families, no new
+  entry.
+
+**🔀 CONSOLIDATION — fourteen moves → five families:** 1. Belief–Warrant–
+Truth Layering · 2. Adjudication-Frame Audit (Jurisdiction Escalation +
+Frame Nesting + meta-level climb; needs a stopping rule) · 3.
+Observer-State/Shared-World Audit · 4. Claim-Type/Method-Fit Audit
+(concession + domain fit + is/ought + hostile-translation diagnosis) ·
+5. Experience–Interpretation Separation (+ overreach brake).
+
+**⬇️ DOWNGRADES:** Component Separation (names a general philosophical
+activity — profile significance comes from *which* separations recur, not
+"separates concepts") · Independence Testing (substep) · Frame Nesting
+(model language) · Relational Globalization (Nova proposal, not operator)
+· Concession Before Boundary Challenge (already Scope-Constrained
+Concession) · Is/Ought Gatekeeping (substep) · Hostile-Translation
+Analogy (rhetorical carrier of the fidelity test).
+
+**Stage-3 omissions to test:** against Ziggy — rational retention
+distinguished?; Grant's strongest position (suspension) reconstructed
+before criticism?; referee-challenge symmetry (same meta-pressure applied
+to testimony/qualia as to science?); stopping rule for frame escalation;
+consensus vs world-responsive success maintained?; spiritual claims
+decomposed?; any specific theistic claim actually shown to lose meaning
+in translation?; empirical-consequence claims allowed to face scrutiny?;
+conflicting testimonies adjudicated how?; private-belief evidence vs
+publicly-imposed claims. Against Nova — may overconstruct Grant as
+claiming falsity; may protect persistence better than responsibility;
+may flatten science into "another frame"; may map domains before
+decomposing claims; scientism invoked too quickly; testimony admitted
+without reliability/defeater procedures; method-fit untested under
+reversed roles; relational globalization not a resolved ontology.
+
+**Expected survival (registered forecast, scored at Stage-3 return):**
+survives strongly — Belief–Warrant–Truth Layering (with rational-
+retention qualification), Observer-State/Shared-World Audit, Jurisdiction
+Escalation (defensive-evasion risk retained), Scope-Constrained
+Concession, Claim-Type/Method-Fit Audit, Experience–Interpretation
+Separation; conditionally — Hostile-Translation diagnosis
+(framework-immunity risk), Frame Nesting (modeling language only),
+Counterexample Hardening (technique seed); Idea Trail — Relational
+Globalization; **Grant operators: none promote.**
+
+**Provisional Ziggy profile seeds (7):** category-layer separation;
+jurisdiction escalation; counterexample hardening; observer-state/
+world-state separation; scope-constrained concession; claim-type/
+method-fit auditing; framework-translation suspicion.
+
+**Grant disposition:** NO G-DIRECT EVIDENCE · NO OPERATOR PROMOTION. Safe
+bounded statement only: *Ziggy suspects Grant may move from weak
+justification to rejection of belief and may evaluate spiritual claims
+through scientific-style standards* — falsity / suspension /
+no-knowledge / no-public-warrant / reduced-confidence undetermined.
+
+**Trails ordered at close (3):** field desk's IT-028/029/030 — registry
+next-available is **IT-027**, so filing clerk assigns **IT-027 Belief,
+Warrant, and Ontological Status · IT-028 Observer Frames and Shared-World
+Constraint · IT-029 Scientific Jurisdiction and Spiritual Claim Types**
+at close-out (off-by-one noted; field-desk ids recorded in trail
+headers).
+
+**Restrictions (updated):** no Grant promotion · no belief-persistence→
+rational-entitlement inference · no all-frames-equal inference · no
+observer-relativity→world-relativity inference · no hard
+science/spirituality wall · no testimony→metaphysics shortcut · no
+spiritual immunity from empirical consequences.
+
+**Central Stage-3 prey (registered):** *when Ziggy challenges the
+scientific frame's authority over spiritual claims, is he identifying a
+genuine mismatch between method and claim type — or creating a protected
+jurisdiction in which the preferred interpretation cannot be publicly
+corrected?*
+
+**NEXT ACTION:** send Stage 3 (below) as its own message.
 
 ---
 
@@ -1953,7 +2268,944 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+## 1. Confirmed Informative Omissions (A3/A2)
+
+### Omission 1 — Ziggy did not apply the super-frame challenge to the testimonial/spiritual frame
+
+**Actor:** Ziggy
+**Relevant point:** After arguing that scientific adjudication is itself a containing frame, Ziggy proposed testimony, qualia, and reflection as the materials spirituality may provide. He did not then ask what higher-order assumptions authorize those materials as evidence of anything beyond the experience itself.
+
+**Source Anchor:** Ziggy, final substantive turn: “when at best spirituality just gives us testimony … quaila reflection.”
+
+**Why relevant:** The same question directed at scientific methodology was available:
+
+* What does this evidence establish?
+* What standards govern its interpretation?
+* Why should private experience authorize a public metaphysical conclusion?
+* Is the testimonial framework also a frame rather than a neutral access point?
+
+**Availability tier:** A3 — Demonstrated Available
+
+Ziggy had already used meta-level escalation repeatedly:
+
+* “impose our own standards”
+* “another kind of super frame containing other frames”
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Partially. It allowed the conversation to finish with a strong critique of scientific jurisdiction while leaving the jurisdiction of spiritual testimony less thoroughly audited. Nova repaired part of the omission by distinguishing experience as data from proof of its metaphysical interpretation.
+
+**Stable or situational:** UNKNOWN. The thread shows repeated scrutiny of Grant’s adjudicative frame but only one brief presentation of spirituality’s evidential materials.
+
+---
+
+### Omission 2 — Ziggy did not provide a positive stopping rule for the regress of frames
+
+**Actor:** Ziggy
+**Relevant point:** Ziggy repeatedly moved from a lower-order claim to the frame adjudicating it, then to the higher frame containing that adjudicator.
+
+**Source Anchors:**
+
+* “wouldn’t it just result in some form of we all do a version of this and impose our own standards?”
+* “is this not another kind of super frame containing other frames?”
+
+**Why relevant:** Once every adjudicative standard is redescribed as another situated frame, the analysis requires some rule explaining when a frame may legitimately govern:
+
+* predictive performance,
+* fit with the target domain,
+* public accessibility,
+* coherence,
+* practical consequences,
+* or some combination.
+
+No positive rule was defended.
+
+**Availability tier:** A3 — Demonstrated Available
+
+Ziggy demonstrated the ability to distinguish valid scope from illegitimate extension when he conceded science’s success before challenging its jurisdiction.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. The conversation successfully exposed non-neutrality but did not complete the transition from criticism to adjudication. The scientific frame was prevented from claiming universal authority, but no sufficiently specified alternative comparison procedure replaced it.
+
+**Stable or situational:** Appears structurally recurrent within this thread. Each proposed adjudicator generated another meta-level question.
+
+---
+
+### Omission 3 — Ziggy did not use his local-belief/shared-reality distinction to discipline the spiritual case
+
+**Actor:** Ziggy
+**Relevant point:** Ziggy demonstrated that two contrary belief reports may both be true while only one object-level causal claim can correspond to the shared world.
+
+**Source Anchor:** Ziggy, teapot example: “though locally true in regards to each respective observers beliefs … the actual state of the one reality … can only be one or the other.”
+
+**Why relevant:** The same structure was available for spirituality:
+
+* It may be true that someone experienced divine presence.
+* It may be true that the experience transformed them.
+* It does not follow automatically that the proposed divine cause exists.
+* Rival causal interpretations cannot all become true merely because the experiences are sincere.
+
+Ziggy did not explicitly apply this previously demonstrated distinction when introducing testimony and qualia.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Moderately. It left Ziggy’s final formulation vulnerable to the reply that he had carefully separated belief from reality in the teapot case but had not yet done the same with spiritual testimony. Nova again supplied part of the missing distinction.
+
+**Stable or situational:** Likely situational. The spiritual question appeared only at the end of the bounded conversation.
+
+---
+
+### Omission 4 — Nova did not require a completed domain-assignment rule
+
+**Actor:** Nova
+**Relevant point:** Nova repeatedly endorsed the principle that methods possess domains of competence and that standards should be judged relative to their task.
+
+**Source Anchors:**
+
+* “Some standards are clearly better for certain tasks.”
+* “The question becomes: Better for what?”
+* “Every methodology has a domain of competence.”
+
+**Why relevant:** The conversation did not specify how to determine the jurisdiction of a claim containing several dimensions at once. A religious assertion may simultaneously include:
+
+* a first-person report,
+* a historical claim,
+* a causal claim,
+* a moral prescription,
+* and a metaphysical interpretation.
+
+Saying that science governs one domain and spirituality another does not yet determine which method governs a mixed claim.
+
+**Availability tier:** A3 — Demonstrated Available
+
+Nova had repeatedly separated categories and imposed limits on overgeneralization.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. “Domain competence” remained a persuasive principle but not an operational adjudication procedure.
+
+**Stable or situational:** Situational within this thread, though it concerns a structural gap in the developed model.
+
+---
+
+### Omission 5 — Nova did not stabilize the strongest version of Grant’s conclusion before evaluating it
+
+**Actor:** Nova
+**Relevant point:** The assistant reconstructed Grant’s possible movement as:
+
+> inadequate justification → reject the belief
+
+and sometimes as:
+
+> defeated reasons → defeated belief
+
+**Source Anchor:** Nova, first response: “Showing a justification is flawed is not the same thing as showing the belief is false.”
+
+**Why relevant:** At least three different conclusions should have been separated:
+
+1. The proposition is false.
+2. The believer is not justified.
+3. A neutral observer should suspend judgment.
+
+The criticism strongly answers the first inference but does not by itself answer the second or third.
+
+**Availability tier:** A3 — Demonstrated Available
+
+Nova repeatedly demonstrated component separation and charitable qualification elsewhere, including acknowledging Grant’s legitimate concern about distinguishing revelation from hallucination, bias, or wish fulfillment.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. It allowed the strongest criticism of Grant to target a conclusion that Grant may not actually hold. Stage 1 appropriately marked the exact Grant position UNKNOWN, but the original substantive exchange did not fully stabilize that uncertainty.
+
+**Stable or situational:** Situational, caused partly by Grant’s absence from the source.
+
+---
+
+### A2 omissions
+
+No A2 — Explicitly Available omissions were found.
+
+No participant explicitly requested or offered one of the relevant omitted moves and then clearly declined to perform it.
+
+---
+
+## 2. Possible Informative Omissions (A1)
+
+### Omission 1 — No reverse-role test of the hostile-frame analogy
+
+**Actor:** Ziggy
+**Relevant point:** Ziggy described atheists as taking the theistic idea “into their frame to die.”
+
+**Source Anchor:** Ziggy, final substantive turn: “the atheists is taking the theist idea into their frame to die.”
+
+**Available move:** Reverse the roles:
+
+* Does the theist take naturalistic explanations into a theological frame to die?
+* Would a miracle claim reject naturalism for failing to include divine purpose?
+* Does each side redescribe the other’s evidence in its own vocabulary?
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. The analogy remained directionally powerful but untested for symmetry.
+
+**Stable or situational:** UNKNOWN.
+
+---
+
+### Omission 2 — No direct distinction between falsity, withholding belief, and loss of knowledge status
+
+**Actor:** Ziggy
+**Relevant point:** The opening concern described Grant as collapsing belief into justified belief.
+
+**Source Anchor:** Ziggy, opening: “what Grant may be doing by collapsing belief into a justified belief.”
+
+**Available move:** Ask whether Grant means:
+
+* an unjustified proposition is false;
+* an unjustified believer is irrational;
+* the belief fails to count as knowledge;
+* or outsiders should withhold assent.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Significantly. Different answers would produce substantially different disputes.
+
+**Stable or situational:** Situational, because no direct Grant material was present.
+
+---
+
+### Omission 3 — No adjudication procedure for incompatible spiritual testimonies
+
+**Actor:** Ziggy and Nova
+**Relevant point:** Spirituality was said to provide testimony, qualia, and reflection.
+
+**Source Anchor:** Ziggy: “testimony … quaila reflection.”
+
+**Available move:** Test cases involving:
+
+* contradictory revelations,
+* incompatible religious traditions,
+* sincere experiences producing opposite commands,
+* or testimony interpreted through conflicting metaphysical systems.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. The conversation established that testimony should not be dismissed merely for lacking laboratory reproducibility, but not how testimony should be pruned or compared.
+
+**Stable or situational:** Situational; the thread ended immediately after the issue emerged.
+
+---
+
+### Omission 4 — No decomposition of “spirituality” into claim types
+
+**Actor:** Ziggy and Nova
+**Relevant point:** “Spirituality” was treated as a comparatively unified domain contrasted with science.
+
+**Source Anchor:** Ziggy: “when at best spirituality just gives us testimony … quaila reflection.”
+
+**Available move:** Separate:
+
+* “I experienced X.”
+* “X improved my conduct.”
+* “A divine being caused X.”
+* “This scripture reports an event accurately.”
+* “Everyone ought to obey the message.”
+* “The universe has a purpose.”
+
+Each statement has a different evidential burden.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. It made the contrast between “science” and “spirituality” cleaner than the underlying claim types warrant.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 5 — No test of religious claims with ordinary empirical consequences
+
+**Actor:** Ziggy and Nova
+**Relevant point:** The conversation challenged the use of measurement and reproducibility against spirituality.
+
+**Source Anchor:** Ziggy: “they grade it with the science rubrics… looking for measurement and reproducibility.”
+
+**Available move:** Distinguish claims that may fall outside direct laboratory replication from claims that produce empirical expectations, such as:
+
+* historical occurrence,
+* physical healing,
+* predictive prophecy,
+* causal intervention,
+* or observable behavioral outcomes.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. Without this test, the jurisdictional critique risks shielding empirical components of religious claims alongside non-empirical ones.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 6 — No explicit private-belief/public-claim burden distinction
+
+**Actor:** Ziggy and Nova
+**Relevant point:** The discussion moved between what a person may believe and what a community should accept as justified.
+
+**Source Anchors:**
+
+* Ziggy: “collapsing belief into a justified belief”
+* Nova: “public warrant, not belief itself”
+
+**Available move:** Distinguish:
+
+* permission to privately retain a belief,
+* entitlement to claim knowledge,
+* entitlement to demand public acceptance,
+* and entitlement to organize collective action around the belief.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Yes. It left “belief should remain after failed justification” vulnerable to being heard as “public acceptance requires no justification.”
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 7 — No explicit comparison between consensus and evidence
+
+**Actor:** Ziggy and Nova
+**Relevant point:** Ziggy described adjudication through “what we all commonly accept for the evidence.”
+
+**Source Anchor:** Ziggy: “what we all commonly accept for the evidence as to what’s actually keeping the water on the planet.”
+
+**Available move:** Separate:
+
+* evidence itself,
+* communal interpretation of evidence,
+* institutional consensus,
+* predictive success,
+* and social authority.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Moderately. The “super-frame” could refer either to a method’s performance or merely to social agreement. Those are materially different.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 8 — No explicit test of the conclusion under adversarial role reversal
+
+**Actor:** Ziggy and Nova
+**Relevant point:** Scientific standards were challenged as potentially foreign to theistic or spiritual claims.
+
+**Available move:** Have each side defend the other’s standard:
+
+* the atheist explains when testimony should count;
+* the theist explains when reproducibility should control;
+* each specifies which of their own claims would lose under the rule they propose.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?** Potentially. It would reveal whether the proposed jurisdiction rules are principled or outcome-sensitive.
+
+**Stable or situational:** UNKNOWN.
+
+---
+
+## 3. Non-Informative Omissions (A0)
+
+### Omission 1 — No direct response from Grant
+
+**Relevant point:** Nearly every Grant characterization depends on Ziggy’s report or Nova’s reconstruction.
+
+**Availability tier:** A0 — Unknown
+
+Grant did not participate in the bounded thread, and no direct quotation was supplied.
+
+**Omission classification:** NON-INFORMATIVE
+
+**Did the absence change the outcome?** Yes, but no inference about Grant’s willingness or unwillingness to clarify is licensed.
+
+**Stable or situational:** UNKNOWN.
+
+---
+
+### Omission 2 — No formal definition of the global observer structure
+
+**Relevant point:** The conversation used “global observer structure,” “super-frame,” and local observer facts without a formal model.
+
+**Availability tier:** A0 — Unknown
+
+The required definitions may exist elsewhere, but they are outside the source boundary.
+
+**Omission classification:** NON-INFORMATIVE
+
+**Did the absence change the outcome?** Yes. It prevented rigorous evaluation of whether the model is ontological, epistemic, logical, or merely analogical.
+
+**Stable or situational:** UNKNOWN.
+
+---
+
+### Omission 3 — No resolution of “local minima/local Mina”
+
+**Relevant point:** The phrase appears in Ziggy’s global-observer question.
+
+**Availability tier:** A0 — Unknown
+
+It may be transcription error or terminology established outside the bounded source.
+
+**Omission classification:** NON-INFORMATIVE
+
+**Did the absence change the outcome?** Slightly. Nova supplied an interpretation, but the intended concept remains UNKNOWN.
+
+**Stable or situational:** UNKNOWN.
+
+---
+
+### Omission 4 — No evidence concerning Grant’s internal motive
+
+**Relevant point:** The thread describes what Grant “may be doing.”
+
+**Availability tier:** A0 — Unknown
+
+The source cannot determine whether Grant is:
+
+* consciously imposing a frame,
+* defending public epistemic norms,
+* merely suspending belief,
+* or responding to a specific debate burden.
+
+**Omission classification:** NON-INFORMATIVE
+
+**Did the absence change the outcome?** Yes, but no motive attribution is warranted.
+
+**Stable or situational:** UNKNOWN.
+
+---
+
+### Omission 5 — No longitudinal evidence of stable personal operators
+
+**Relevant point:** Stage 2 identified repeated moves for Ziggy and Nova within the thread.
+
+**Availability tier:** A0 — Unknown
+
+The bounded conversation cannot establish whether these are stable traits across contexts.
+
+**Omission classification:** NON-INFORMATIVE
+
+**Did the absence change the outcome?** It limits generalization but does not invalidate the local interaction analysis.
+
+**Stable or situational:** UNKNOWN.
+
+---
+
+## 4. Counterevidence Findings
+
+### Characterization 1 — Grant collapses belief into justified belief
+
+**Supporting evidence:** Ziggy explicitly frames the concern this way.
+
+**Counterevidence search:** Searched for any direct Grant statement equating belief and justification; none found.
+
+Searched for evidence that Grant may instead distinguish:
+
+* truth,
+* belief,
+* justification,
+* and public acceptance.
+
+No direct Grant evidence was found.
+
+**Counterevidence present:** Nova’s later reconstruction suggests an alternative: Grant may be asking for publicly auditable warrant rather than defining belief out of existence.
+
+**Finding:** The characterization remains a plausible G-REPORTED concern but is not established as Grant’s actual doctrine.
+
+---
+
+### Characterization 2 — Grant infers bad justification means false belief
+
+**Supporting evidence:** Nova reconstructs this hidden move.
+
+**Counterevidence search:** Searched for a source where Grant states that defeating reasons proves falsity; none found.
+
+**Counterevidence present:** The conversation repeatedly acknowledges a weaker possible conclusion:
+
+> “Your current reasons are inadequate.”
+
+That conclusion does not require claiming the proposition false.
+
+**Finding:** This characterization weakened substantially. It remains a possible target pattern, not a demonstrated Grant inference.
+
+---
+
+### Characterization 3 — Grant privileges scientific or public adjudication standards
+
+**Supporting evidence:** Ziggy refers to common evidence, measurement, and reproducibility.
+
+**Counterevidence search:** Searched for evidence that Grant values testimony, explanation, first-person experience, or non-predictive reasoning independently; none found.
+
+Searched for a direct Grant formulation of prediction, consensus, reproducibility, or public warrant; none found.
+
+**Counterevidence present:** Nova identifies a legitimate possible function of those standards: distinguishing spiritual interpretation from hallucination, bias, or wish fulfillment.
+
+**Finding:** The existence of a Grant-associated scientific rubric survives at moderate confidence; its exact scope and rigidity remain UNKNOWN.
+
+---
+
+### Characterization 4 — Ziggy repeatedly separates concepts that risk being collapsed
+
+**Supporting evidence:**
+
+* belief versus justification;
+* local belief-state versus world-state;
+* one reality versus access to reality;
+* scientific achievement versus universal authority;
+* is versus ought.
+
+**Counterevidence search:** Searched for places where Ziggy himself collapses these categories; no clear direct contradiction found.
+
+**Potential counterevidence:** In the final turn, spirituality, testimony, qualia, normativity, and theism are grouped together more broadly than the earlier distinctions would recommend.
+
+**Finding:** The characterization survives strongly, with one late compression that creates an internal test not yet performed.
+
+---
+
+### Characterization 5 — Ziggy uses jurisdiction escalation
+
+**Supporting evidence:** Repeated movement from claims to the frames and standards adjudicating them.
+
+**Counterevidence search:** Searched for evidence that Ziggy accepts an adjudicator without escalating further.
+
+**Counterevidence present:**
+
+* He accepts that shared reality can settle some object-level contradiction.
+* He concedes that science genuinely earned authority through successful prediction and intervention.
+
+These show that escalation is not equivalent to denying all adjudication.
+
+**Finding:** The characterization survives. Counterevidence narrows it from universal skepticism to scope-sensitive challenge.
+
+---
+
+### Characterization 6 — Jurisdiction escalation may function as defensive evasion
+
+**Supporting evidence:** The move can protect a losing claim by challenging the standard.
+
+**Counterevidence search:** Searched for cases where Ziggy raises the meta-level concern before conceding the lower-level result.
+
+**Counterevidence present:** Ziggy accepts the teapot case’s one-reality constraint and grants science’s physical-world achievements before questioning cross-domain transfer.
+
+**Finding:** The “defensive evasion” reading is weakened. The move appears at least partly principled rather than purely outcome-driven.
+
+---
+
+### Characterization 7 — Ziggy preserves realism against unrestricted observer relativism
+
+**Supporting evidence:** The teapot example explicitly insists that contradictory causal claims cannot both describe the single shared reality.
+
+**Counterevidence search:** Searched for statements implying that every observer’s object-level belief becomes true within its frame; none found.
+
+**Finding:** Survives strongly.
+
+---
+
+### Characterization 8 — The global structure is relational rather than another privileged observer
+
+**Supporting evidence:** Nova explicitly proposes the network of transformations and constraints.
+
+**Counterevidence search:** Searched for evidence that this account handles all claim types.
+
+**Counterevidence present:** Ziggy’s teapot case shows that the relational model does not itself adjudicate contradictory causal beliefs. Nova then restricts the model by separating belief-state from world-state.
+
+**Finding:** Survives as a model for observer-relative descriptions, but not as a complete theory of truth or causal adjudication.
+
+---
+
+### Characterization 9 — Ziggy uses counterexample hardening
+
+**Supporting evidence:** He moves from the supernova example to the teapot causal example to prevent overgeneralization.
+
+**Counterevidence search:** Searched for evidence that the teapot case was unrelated topic drift.
+
+**Counterevidence present:** The transition explicitly refers back to the earlier observer framework and tests its limit.
+
+**Finding:** Survives strongly.
+
+---
+
+### Characterization 10 — Ziggy uses concession before boundary challenge
+
+**Supporting evidence:** “all true” follows the list of scientific achievements before he questions cross-domain authority.
+
+**Counterevidence search:** Searched for repeated independent instances of the same sequencing; no equally clear second example found.
+
+**Finding:** The move is well-supported as a consequential one-time move but weakened as a stable repeated operator.
+
+---
+
+### Characterization 11 — Science is treated as successful but domain-limited
+
+**Supporting evidence:** Ziggy accepts scientific achievements and questions transfer to oughts and spirituality. Nova formalizes domain competence.
+
+**Counterevidence search:** Searched for anti-scientific claims or denial of prediction, medicine, engineering, or intervention success; none found.
+
+**Counterevidence present:** The bounded thread does not prove that spirituality is wholly outside empirical assessment. Nova briefly notes the need for further work.
+
+**Finding:** Survives strongly as a limited methodological critique, not an anti-scientific position.
+
+---
+
+### Characterization 12 — The thread invokes an is/ought boundary
+
+**Supporting evidence:** Ziggy distinguishes “what is” from “what we ought to do”; Nova formalizes the need for an additional value premise.
+
+**Counterevidence search:** Searched for any attempt to derive an ought solely from scientific description; none found.
+
+**Potential counterevidence:** Science can still inform which actions produce valued outcomes, and Nova acknowledges this implicitly through examples.
+
+**Finding:** Survives strongly, provided it is read as denying derivation without a normative premise rather than denying any scientific relevance to ethics.
+
+---
+
+### Characterization 13 — Testimony and qualia are reclassified as evidence but not proof
+
+**Supporting evidence:** Ziggy introduces testimony and qualia; Nova states that religious experiences can be data without automatically proving metaphysical interpretation.
+
+**Counterevidence search:** Searched for a statement that testimony is worthless; none found.
+
+Searched for a statement that testimony conclusively proves theism; none found.
+
+**Finding:** Survives strongly as Nova’s qualified reconstruction. Ziggy’s exact evidential weighting remains less specified.
+
+---
+
+### Characterization 14 — Nova applies symmetrical overreach brakes
+
+**Supporting evidence:**
+
+* bad reasons do not prove falsity;
+* multiple standards do not make all standards equal;
+* scientific limits do not prove spirituality;
+* one reality does not guarantee knowledge of it.
+
+**Counterevidence search:** Searched for cases where Nova lets one side claim victory merely from the rival’s failure; none found.
+
+**Finding:** Survives strongly.
+
+---
+
+### Characterization 15 — Nova overconstructs Grant’s position
+
+**Supporting evidence:** Nova attributes public warrant, reproducibility, prediction, consensus, and a possible bad-reasons-to-false-belief inference without direct Grant text.
+
+**Counterevidence search:** Searched for signs of caution or charitable qualification.
+
+**Counterevidence present:**
+
+* repeated use of “may,” “often appears,” and “tends”;
+* acknowledgment that Grant has a legitimate concern;
+* distinction between defeating justification and proving falsity;
+* admission that Grant’s exact position is unavailable in Stage 1.
+
+**Finding:** The overconstruction risk survives, but the stronger claim that Nova simply straw-mans Grant is not supported.
+
+---
+
+### Characterization 16 — The hostile-translation analogy functions as an operator
+
+**Supporting evidence:** The analogy reorganizes the dispute around jurisdictional capture.
+
+**Counterevidence search:** Searched for repeated use of the same form elsewhere in the bounded conversation; none found.
+
+**Finding:** Weakened as a stable operator. It remains a consequential rhetorical transformation.
+
+---
+
+### Characterization 17 — The Ziggy–Nova relationship follows intuition → formalization → stress test → revision
+
+**Supporting evidence:** The sequence recurs across:
+
+* belief and justification;
+* observer structure;
+* teapot realism;
+* super-frame adjudication;
+* science and spirituality.
+
+**Counterevidence search:** Searched for major instances where Nova formalizes and Ziggy simply accepts without further pressure; none found in the main sequence.
+
+**Finding:** Survives strongly within the bounded thread.
+
+---
+
+### Characterization 18 — User heat / assistant cooling
+
+**Supporting evidence:** Ziggy uses the “frame to die” metaphor; Nova translates it into domain competence, category mismatch, and scientism while adding limitations.
+
+**Counterevidence search:** Searched for places where Nova amplifies the rhetoric rather than cooling it; no major instance found.
+
+**Finding:** Survives, though evidence rests mainly on one highly visible example plus Nova’s generally mediating style.
+
+---
+
+## 5. Alternative Readings
+
+### Component Separation
+
+**Primary reading:** Reusable cognitive move separating conflated categories.
+
+**Strongest alternative:** Substantive philosophical belief that belief, justification, truth, and observer-state are distinct.
+
+**Discriminating evidence:** The same separation procedure is applied across several unrelated topics, supporting an operator reading rather than a single doctrine.
+
+**Result:** Operator reading favored.
+
+---
+
+### Independence Testing
+
+**Primary reading:** Tests conceptual identity by constructing cases where the components vary independently.
+
+**Strongest alternative:** A one-time set of pedagogical examples supplied by Nova.
+
+**Discriminating evidence:** The method is explicit only in the first assistant answer and is not later repeated in equally formal form.
+
+**Result:** Stable-operator status weakened; local reasoning move remains supported.
+
+---
+
+### Inferential Bridge Inspection
+
+**Primary reading:** Detects an unsupported transition from failed reasons to false belief.
+
+**Strongest alternative:** Rhetorical reconstruction of a harsher Grant position than the evidence supports.
+
+**Discriminating evidence:** No direct Grant statement exists. Nova’s logical distinction is valid, but its application to Grant remains uncertain.
+
+**Result:** The move exists; the target attribution is UNKNOWN.
+
+---
+
+### Jurisdiction Escalation
+
+**Primary reading:** Exposes the assumptions authorizing an evidential standard.
+
+**Strongest alternative:** Defensive tactic used to avoid losing under an unfavorable standard.
+
+**Discriminating evidence:** Ziggy grants object-level realism and scientific success before escalating to jurisdiction. This weighs against pure evasion.
+
+**Result:** Principled meta-level reasoning favored, with defensive utility still possible.
+
+---
+
+### Frame Nesting
+
+**Primary reading:** Represents lower-order claims and higher-order adjudicators as nested structures.
+
+**Strongest alternative:** Loose metaphor rather than a defined cognitive procedure.
+
+**Discriminating evidence:** The language recurs in the observer, evidence, consensus, and science discussions, but no formal structure is supplied.
+
+**Result:** Recurrent conceptual schema supported; formal operator status remains provisional.
+
+---
+
+### Local-to-Global Constraint Testing
+
+**Primary reading:** Stress-tests whether local observer truths can coexist with a single shared-world fact.
+
+**Strongest alternative:** Mere expression of metaphysical realism.
+
+**Discriminating evidence:** Ziggy introduces the teapot case specifically after the observer discussion and uses it to test the framework’s boundary.
+
+**Result:** Operator reading favored.
+
+---
+
+### Counterexample Hardening
+
+**Primary reading:** Replaces a permissive example with a more discriminating case.
+
+**Strongest alternative:** Topic shift from relativity to causation.
+
+**Discriminating evidence:** The new example explicitly preserves the local-observer structure while changing the object-level claim type.
+
+**Result:** Counterexample reading favored.
+
+---
+
+### Relational Globalization
+
+**Primary reading:** Transforms the global object into relations among local frames.
+
+**Strongest alternative:** A substantive metaphysical proposal about reality.
+
+**Discriminating evidence:** Nova uses it to reorganize the problem rather than merely assert a fact. Ziggy’s subsequent counterexample exposes its scope.
+
+**Result:** Both readings remain viable; it is a substantive proposal performing a transformative operation.
+
+---
+
+### Concession Before Boundary Challenge
+
+**Primary reading:** Grants the opponent’s strongest legitimate point to isolate jurisdictional overreach.
+
+**Strongest alternative:** Rhetorical inoculation designed to preempt accusations of being anti-scientific.
+
+**Discriminating evidence:** The concession is explicit and directly narrows the ensuing question. No evidence shows whether the acceptance would survive outside this argument.
+
+**Result:** Both readings remain plausible. Stable cognitive status is UNKNOWN.
+
+---
+
+### Domain-Fit Challenge
+
+**Primary reading:** Evaluates whether a method suits the type of claim being judged.
+
+**Strongest alternative:** Substantive methodological pluralism.
+
+**Discriminating evidence:** The challenge is applied operationally to measurement, reproducibility, oughts, qualia, and spirituality.
+
+**Result:** Operator and substantive-belief readings are jointly supported.
+
+---
+
+### Is/Ought Gatekeeping
+
+**Primary reading:** Requires an additional normative premise before deriving obligation from description.
+
+**Strongest alternative:** Adoption of a standard Humean philosophical doctrine.
+
+**Discriminating evidence:** Ziggy independently poses the “what is” versus “what ought” contrast, while Nova formalizes it.
+
+**Result:** Co-constructed reasoning move supported; doctrine-level commitment remains less certain.
+
+---
+
+### Evidence-Type Reclassification
+
+**Primary reading:** Treats experience as evidence of some claims but not automatic proof of metaphysical interpretation.
+
+**Strongest alternative:** Nova’s role-induced moderation rather than Ziggy’s intended position.
+
+**Discriminating evidence:** Ziggy says “at best,” indicating caution, but does not explicitly articulate Nova’s graded evidential hierarchy.
+
+**Result:** Strongly supported for Nova; only partially attributable to Ziggy.
+
+---
+
+### Symmetrical Overreach Brake
+
+**Primary reading:** Prevents either side from converting the rival’s failure into automatic victory.
+
+**Strongest alternative:** Generic assistant balancing behavior.
+
+**Discriminating evidence:** The pattern recurs consistently and is closely tied to Nova’s mediator role.
+
+**Result:** Strongly supported as role-induced behavior; less evidence exists for a context-independent trait.
+
+---
+
+### Hostile-Translation Analogy
+
+**Primary reading:** Transforms the dispute by exposing foreign-rubric evaluation.
+
+**Strongest alternative:** One-time rhetoric expressing frustration with atheist methodology.
+
+**Discriminating evidence:** It appears once, but accurately compresses earlier frame and domain arguments.
+
+**Result:** Consequential rhetorical move supported; stable operator classification weakened.
+
+---
+
+### Intuition → Formalization → Stress Test → Revision loop
+
+**Primary reading:** Stable relationship-level collaborative reasoning loop.
+
+**Strongest alternative:** Normal question-and-answer progression.
+
+**Discriminating evidence:** Ziggy repeatedly targets the newly formalized model’s boundary rather than merely requesting more explanation.
+
+**Result:** Relationship-loop reading favored.
+
+---
+
+## 6. Characterizations That Survived
+
+1. **Belief, justification, truth, and public warrant are treated as importantly distinct.**
+
+2. **Ziggy repeatedly moves from first-order disagreement to the authority and jurisdiction of the adjudicating frame.**
+
+3. **That meta-level movement is not well explained as pure relativism or pure defensive evasion.**
+
+4. **Ziggy preserves a one-reality constraint and does not claim that contradictory object-level beliefs all become true.**
+
+5. **The teapot example functions as a genuine stress test of the observer-relative model.**
+
+6. **The global observer account survives only as a relational account of perspectives, not as a complete adjudication theory.**
+
+7. **Scientific success is explicitly conceded rather than denied.**
+
+8. **The central scientific critique concerns scope transfer, not the legitimacy of empirical science inside its established domain.**
+
+9. **The is/ought distinction is genuinely present and not merely introduced after the fact by Stage 1 or Stage 2.**
+
+10. **Testimony and qualia are preserved as possible evidence without being established as conclusive metaphysical proof.**
+
+11. **Nova repeatedly restricts illicit victory transfers on both sides.**
+
+12. **The Ziggy–Nova interaction follows a recurrent intuition → formalization → stress test → revision pattern.**
+
+13. **The conversation leaves the regress of super-frames unresolved.**
+
+14. **The conversation leaves incompatible spiritual testimony and mixed empirical/metaphysical religious claims under-analyzed.**
+
+15. **Grant’s actual position remains evidentially underdetermined because no G-DIRECT material exists.**
+
+---
+
+## 7. Characterizations That Weakened
+
+1. **“Grant collapses belief into justified belief” weakened from a likely doctrinal description to a reported concern requiring finer separation.**
+
+2. **“Grant thinks failed justification proves falsity” weakened substantially; no direct evidence supports that stronger inference.**
+
+3. **“Grant’s framework consists of prediction, reproducibility, consensus, public warrant, and intervention” weakened as a complete characterization. Only parts are supported by Ziggy’s report.**
+
+4. **“Concession before boundary challenge” weakened as a repeated operator. It is clearly present once but not repeatedly demonstrated.**
+
+5. **“Hostile translation” weakened as an individual cognitive operator. It is better classified as a consequential one-time rhetorical transformation.**
+
+6. **“Independence testing” weakened as a stable recurring Nova operator. It is strongly present in one early explanatory sequence.**
+
+7. **“Scientific methodology is categorically inapplicable to spirituality” weakened. The conversation supports a domain-fit challenge, not total empirical immunity for every religious claim.**
+
+8. **“Spiritual testimony forms an adequate alternative adjudication framework” weakened. The source admits testimony and qualia into consideration but does not supply a procedure for comparing incompatible experiences or moving from experience to ontology.**
+
+9. **“Frame nesting alone undermines scientific authority” weakened. Ziggy and Nova both concede that a situated frame may still earn privileged authority through performance within a domain.**
+
+10. **“Nova straw-mans Grant” weakened. Nova risks overconstruction, but repeatedly signals uncertainty, grants legitimate concerns, and limits its conclusions.**
+
 
 ---
 
