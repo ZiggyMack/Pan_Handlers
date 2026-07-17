@@ -895,7 +895,640 @@ Begin Stage 2 now.
 
 ### ⏬ STAGE 2 OUTPUT
 
-(paste Stage 2 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 2
+
+## 1. Museum-Blind Reasoning Moves
+
+### Move 1 — Prioritize Predictive Performance
+
+**Provisional neutral name:** Predictive-performance prioritization
+**Actor:** Grant — G-REPORTED
+**Definition:** Treats a framework’s capacity to generate successful predictions as a leading criterion of epistemic strength.
+**Trigger:** Competing explanations or worldviews require evaluation.
+**Operation:** Asks what each framework predicts and whether those predictions succeed.
+**Output:** A ranking of frameworks based on predictive performance.
+**Productive function:** Forces claims to produce discriminating consequences rather than resting only on coherence or possibility.
+**Failure mode:** Can treat prediction as self-validating while leaving the selection of metrics, background assumptions, and success criteria unexamined.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY, based on repeated G-REPORTED characterization
+**Source Anchor:** Ziggy, “Grant keeps saying how prediction is ultimate...” — “Trust vs Prediction,” approximately 2026-06-30, opening.
+**Confidence:** Moderate
+**Alternative explanation:** Grant may mean prediction is one especially valuable criterion, not the sole or ultimate foundation of knowledge.
+
+---
+
+### Move 2 — Demand Rival-Explanation Comparison
+
+**Provisional neutral name:** Rival-account comparison
+**Actor:** Grant — G-REPORTED
+**Definition:** Refuses to treat explanatory compatibility as sufficient when alternative explanations could fit the same observations.
+**Trigger:** A favored hypothesis is proposed as the principal explanation of a phenomenon.
+**Operation:** Introduces rival explanations and asks what distinguishes the favored account from them.
+**Output:** A demand for comparative evidence or exclusive predictions.
+**Productive function:** Reduces confirmation by mere accommodation and presses for genuine discrimination.
+**Failure mode:** Can indefinitely delay provisional acceptance if every possible alternative must be eliminated before comparative support counts.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “He thinks there are other explanations that we need to be shown are not good explanations...” — “Compression vs Transmission in Myths,” approximately 2026-06-15, opening-middle.
+**Confidence:** Moderate to high
+**Alternative explanation:** Grant may only have been asking for ordinary model comparison in this one dispute rather than exhibiting a general reasoning habit.
+
+---
+
+### Move 3 — Narrow Discussion Toward Evidential Likelihood
+
+**Provisional neutral name:** Likelihood-centered narrowing
+**Actor:** Grant — G-REPORTED
+**Definition:** Redirects discussion from what remains logically possible toward what the available evidence makes likely or plausible.
+**Trigger:** The conversation repeatedly introduces unconstrained possibilities.
+**Operation:** Separates bare possibility from evidentially supported probability and redirects attention to the latter.
+**Output:** A smaller candidate set ordered by apparent plausibility.
+**Productive function:** Prevents inquiry from becoming unable to rank possibilities or reach decisions.
+**Failure mode:** May prematurely treat low current plausibility as sufficient reason to exclude a live possibility.
+**Functional Type:** REGULATORY / INHIBITORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy quoting Grant, “I noticed you keep inserting what’s possible into our discussions... when I am trying to get to the bottom of what’s likely... what’s plausible—given the evidence.” — “Pivot point distinction,” approximately 2026-06-20, middle.
+**Confidence:** High relative to other Grant attributions
+**Alternative explanation:** Grant may be regulating the scope of one discussion rather than expressing a general hostility toward possibility claims.
+
+---
+
+### Move 4 — Derive Observable Consequences from a Functional Hypothesis
+
+**Provisional neutral name:** Function-to-consequence derivation
+**Actor:** Grant — G-REPORTED
+**Definition:** Infers what should be observed if a proposed function genuinely explains the persistence of a cultural practice.
+**Trigger:** Ziggy proposes that stories principally function as cultural compression.
+**Operation:** Derives an expected consequence: recipients should recover substantially convergent meanings.
+**Output:** A testable challenge to the compression account.
+**Productive function:** Converts a broad interpretive thesis into an empirical or comparative claim.
+**Failure mode:** The predicted consequence may rely on an overly lossless model of cultural transmission that the original hypothesis did not require.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy reporting Grant’s objection, “We would all reliably get the same message and concept when we communicate—and we don’t...” — “Compression vs Transmission in Myths,” approximately 2026-06-15, middle.
+**Confidence:** Moderate
+**Alternative explanation:** Grant may have meant only that compression should produce more convergence than is observed, not identical interpretation.
+
+---
+
+### Move 5 — Preserve Possibility Without Claiming Proof
+
+**Provisional neutral name:** Non-exclusion under uncertainty
+**Actor:** Ziggy — Z-DIRECT
+**Definition:** Maintains that a proposition can remain rationally open even when evidence does not make it likely or publicly proven.
+**Trigger:** An interlocutor moves from low plausibility toward practical or rhetorical exclusion.
+**Operation:** Separates “not established,” “not likely,” and “ruled out.”
+**Output:** Continued admissibility of the proposition without elevation to proof.
+**Productive function:** Prevents evidential weakness from being converted into stronger negative conclusions than the evidence licenses.
+**Failure mode:** Can preserve too many possibilities unless accompanied by ranking, stopping rules, or relevance constraints.
+**Functional Type:** REGULATORY / INHIBITORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy’s response to the reported objection about “inserting what’s possible” — “Pivot point distinction,” approximately 2026-06-20, middle-late.
+**Confidence:** High
+**Alternative explanation:** This may be primarily a defensive debate posture adopted when spiritual possibilities are threatened rather than a domain-general reasoning method.
+
+---
+
+### Move 6 — Convert Private Experience into Limited Epistemic Permission
+
+**Provisional neutral name:** First-person evidence localization
+**Actor:** Ziggy — Z-DIRECT, built from CO-CONSTRUCTED language
+**Definition:** Treats personal experience as capable of changing what the experiencer may responsibly dismiss without claiming that it proves the same conclusion to outsiders.
+**Trigger:** Personal experience is rejected because it lacks public or universal evidential force.
+**Operation:** Localizes the evidential consequence to the experiencer’s own confidence and exclusion threshold.
+**Output:** A modest claim: the experience prevents confident ruling-out rather than establishing public proof.
+**Productive function:** Distinguishes private rational constraint from universal demonstration.
+**Failure mode:** Without independent checks, private evidence may become insulated from correction or selectively privileged.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** VOLUNTARY after explicit adoption; original wording was prompted by Nova
+**Source Anchor:** Ziggy, “My experience prevents me from confidently ruling certain things out... I’m using this forever now...” — “Pivot point distinction,” approximately 2026-06-20, later portion.
+**Confidence:** High
+**Alternative explanation:** Ziggy may be expressing autobiographical caution rather than a general epistemological rule.
+
+---
+
+### Move 7 — Expose Asymmetry Between Having and Lacking an Experience
+
+**Provisional neutral name:** Positive-negative experiential asymmetry
+**Actor:** Ziggy — Z-DIRECT
+**Definition:** Argues that undergoing an experience and merely lacking that experience do not produce evidential states of equal and opposite force.
+**Trigger:** An outsider’s nonexperience is treated as balancing or neutralizing another person’s reported experience.
+**Operation:** Distinguishes positive experiential content from simple absence of comparable content.
+**Output:** Rejection of automatic evidential symmetry between experience and nonexperience.
+**Productive function:** Prevents absence of personal access from being treated as direct negative evidence.
+**Failure mode:** May understate the cumulative evidential relevance of repeated non-observation under conditions where an experience should be expected.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “They are the ones in lack of the experience... there’s not really a counter reverse experience that instantiates negative territories?” — “Pivot point distinction,” approximately 2026-06-20, late.
+**Confidence:** High
+**Alternative explanation:** The reasoning may apply only to uncommon private experiences, not to publicly observable phenomena.
+
+---
+
+### Move 8 — Question the Preconditions of a Favored Criterion
+
+**Provisional neutral name:** Criterion-precondition exposure
+**Actor:** Ziggy — Z-DIRECT
+**Definition:** Challenges an allegedly ultimate standard by identifying prior commitments needed for that standard to function.
+**Trigger:** Prediction is presented as epistemically ultimate.
+**Operation:** Asks whether one must first trust the framework, rules, measurements, or success criteria that produce and identify predictions.
+**Output:** Reclassification of prediction from an ultimate foundation to a practice dependent upon prior commitments.
+**Productive function:** Makes hidden methodological assumptions visible.
+**Failure mode:** May equivocate between practical reliance, provisional acceptance, and interpersonal trust; identifying a precondition does not itself discredit the criterion.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “Doesn’t trust technically come first? Trusting a particular set of guidelines that leads and/or provides predictions?” — “Trust vs Prediction,” approximately 2026-06-30, opening.
+**Confidence:** High as an exploratory move
+**Alternative explanation:** The move may be a cheeky reversal rather than a settled claim that trust is epistemically more fundamental.
+
+---
+
+### Move 9 — Relocate a Judgment to Its Governing Standard
+
+**Provisional neutral name:** Evaluative-jurisdiction relocation
+**Actor:** Ziggy — Z-DIRECT, concept developed CO-CONSTRUCTED
+**Definition:** Reframes a dispute over whether a belief is justified as a dispute over which authority or framework may legitimately issue that judgment.
+**Trigger:** One participant applies a justificatory standard as though it were universally binding.
+**Operation:** Distinguishes institutional, communal, personal, and worldview-relative standards and asks which has jurisdiction.
+**Output:** A meta-level dispute about authority rather than an immediate verdict on justification.
+**Productive function:** Reveals that disagreements may concern standards of evaluation rather than the evidence alone.
+**Failure mode:** Can slide into relativism or immunize beliefs by assigning them to a protected local jurisdiction.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** VOLUNTARY, after co-construction
+**Source Anchor:** Ziggy, “Where—what’s the jurisdiction of justification?” and “If I’m coming from the Christian county, he’s rejecting my jurisdiction.” — “Key distinctions comparison,” approximately 2026-06-20, late.
+**Confidence:** High
+**Alternative explanation:** The legal metaphor may be exploratory language rather than a stable commitment to framework-relative justification.
+
+---
+
+### Move 10 — Reverse the Direction of Evaluation
+
+**Provisional neutral name:** Reciprocal burden reversal
+**Actor:** Ziggy — Z-DIRECT
+**Definition:** Changes a one-sided critique into a reciprocal comparison by requiring the critic’s own framework to provide a positive account.
+**Trigger:** Methodological naturalism or another framework receives credit for attacking a rival without being tested affirmatively.
+**Operation:** Switches offense and defense or applies the same scoring demand in reverse.
+**Output:** Comparative evidence about whether evaluation results depend upon role assignment.
+**Productive function:** Exposes advantages created by asymmetric burdens rather than substantive superiority.
+**Failure mode:** Formal symmetry may ignore relevant asymmetries between positive claims, default positions, and burdens of proof.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “They’re never having a chance to be pro-methodological naturalism...” — 2026-06-30, “New chat,” early-middle.
+**Confidence:** High
+**Alternative explanation:** The move may be part of a specific CFA scoring design rather than a general interpersonal reasoning practice.
+
+---
+
+### Move 11 — Evaluate Claims by Use Rather Than Provenance
+
+**Provisional neutral name:** Performance-over-provenance assessment
+**Actor:** Ziggy — Z-DIRECT
+**Definition:** Places primary weight on whether a claim is accurately represented and works under examination rather than on where the speaker learned it.
+**Trigger:** A debate participant asks how the speaker came to know or acquire a claim.
+**Operation:** Brackets source pedigree and tests coherence, application, and consequences.
+**Output:** Claim-level evaluation detached from personal credentialing.
+**Productive function:** Prevents source gatekeeping from replacing substantive engagement.
+**Failure mode:** Can neglect reliability indicators, transmission errors, fabricated evidence, or dependence on inaccessible authority.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “‘How do you know that’ is an annoying question to me... I personally don’t care where it came from...” — “Debate and Information Sources,” approximately 2026-06-28, opening-middle.
+**Confidence:** High
+**Alternative explanation:** Ziggy may only oppose provenance questions when used as derailment, not deny their legitimate evidential relevance.
+
+---
+
+### Move 12 — Compare Systems by Function Across Different Vocabularies
+
+**Provisional neutral name:** Cross-framework functional comparison
+**Actor:** Ziggy — Z-DIRECT
+**Definition:** Compares religious and secular systems according to the functions they perform rather than the labels or metaphysical vocabularies they use.
+**Trigger:** Religion is dismissed while secular systems recreate similar practices concerning meaning, wellness, values, or orientation.
+**Operation:** Temporarily abstracts away doctrinal differences and compares functional roles.
+**Output:** A claim of partial continuity between religious and secular meaning technologies.
+**Productive function:** Reveals hidden inheritance and overlap between ostensibly opposed systems.
+**Failure mode:** Functional similarity can obscure major differences in truth claims, authority, ritual, metaphysics, and social consequences.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “If the seculars are even saying... we do know we need this type of framework... that’s what the framework of religion was always there to do.” — “Secular wellness and meaning,” approximately 2026-06-20.
+**Confidence:** High
+**Alternative explanation:** This may be a local analogy rather than a general method of worldview comparison.
+
+---
+
+### Move 13 — Separate Domains Before Applying Evaluation Standards
+
+**Provisional neutral name:** Domain-sensitive standard selection
+**Actor:** Ziggy — Z-DIRECT
+**Definition:** Challenges the application of standards designed for physical description to systems whose primary subject is meaning, value, or orientation.
+**Trigger:** A meaning system is evaluated solely through physical-scientific criteria.
+**Operation:** Distinguishes the target domains and asks whether the evaluation standard is fitted to the object.
+**Output:** A demand for domain-appropriate criteria.
+**Productive function:** Prevents mismatched methods from producing misleading judgments.
+**Failure mode:** Can exaggerate domain separation and shield factual claims embedded in meaning systems from empirical examination.
+**Functional Type:** REGULATORY / INHIBITORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “Why it’s a category error to judge the systems that describe meaning with our systems that describe physical matter.” — approximately 2026-06-15, “Category error in systems.”
+**Confidence:** High
+**Alternative explanation:** The distinction may concern primary function rather than strict separation; religious systems often make both meaning and physical claims.
+
+## 2. Operator Sequences
+
+### Sequence A — From Possibility Dispute to Evidential Jurisdiction
+
+1. Grant reportedly narrows discussion toward what is plausible given the evidence.
+2. Ziggy separates low plausibility from exclusion.
+3. Ziggy localizes the force of personal experience to the experiencer.
+4. Ziggy distinguishes having an experience from merely lacking it.
+5. The discussion shifts from evidence quantity to who may legitimately judge the experiencer’s position.
+6. Ziggy formulates the jurisdiction question.
+
+**Source Anchors:**
+
+* Grant as reported: “I noticed you keep inserting what’s possible...”
+* Ziggy: “My experience prevents me from confidently ruling certain things out.”
+* Ziggy: “What’s the jurisdiction of justification?”
+
+**Result:** The original probability dispute mutates into a meta-dispute about public evidence, private rational permission, and evaluative authority.
+
+**Confidence:** High for Ziggy’s sequence; moderate for Grant’s initiating move because it is G-REPORTED.
+
+**Alternative explanation:** The sequence may partly reflect Nova’s scaffolding rather than Ziggy’s unaided cognitive order.
+
+---
+
+### Sequence B — From Prediction to Framework Preconditions
+
+1. Grant reportedly elevates prediction.
+2. Ziggy asks what procedures identify a prediction as successful.
+3. Ziggy introduces prior reliance on guidelines, measurements, and standards.
+4. Prediction is reframed as operating within an already accepted evaluative structure.
+5. The question changes from “Does it predict?” to “Why trust the system that counts this as prediction?”
+
+**Source Anchor:** Ziggy, “Doesn’t trust technically come first?” — approximately 2026-06-30.
+
+**Result:** An object-level metric becomes a meta-level inquiry into the metric’s conditions of use.
+
+**Confidence:** Moderate to high.
+
+**Alternative explanation:** The move may only show that prediction is method-dependent, not that trust is more fundamental.
+
+---
+
+### Sequence C — From Cultural Function to Transmission Model
+
+1. Ziggy proposes story as cultural compression.
+2. Grant reportedly asks whether rival explanations have been excluded.
+3. Grant reportedly derives a convergence prediction.
+4. Ziggy rejects the assumption of lossless or uniform decoding.
+5. The dispute changes from whether compression occurs to what type of compression and transmission should be expected.
+
+**Source Anchor:** Ziggy, “We would all reliably get the same message... and we don’t.”
+
+**Result:** A broad functional hypothesis becomes a dispute over the correct transmission model.
+
+**Confidence:** Moderate.
+
+**Alternative explanation:** Grant may have been offering only one defeasible prediction rather than assuming perfect recovery.
+
+---
+
+### Sequence D — From One-Sided Critique to Reciprocal Worldview Test
+
+1. A naturalistic framework is positioned mainly as critic of classical theism.
+2. Ziggy notices that the critic is not required to generate a positive account.
+3. Ziggy reverses offense and defense.
+4. The same categories are used to evaluate the formerly untested framework.
+5. Differences in scoring are treated as evidence of procedural asymmetry.
+
+**Source Anchor:** Ziggy, “They’re never having a chance to be pro-methodological naturalism.”
+
+**Result:** Debate success is separated from comparative explanatory adequacy.
+
+**Confidence:** High.
+
+**Alternative explanation:** Some asymmetry may be justified where one side makes stronger or more numerous claims.
+
+---
+
+### Sequence E — From Source Challenge to Direct Performance Test
+
+1. A participant asks how Ziggy knows a claim.
+2. Ziggy grants the claim provisionally for discussion rather than litigating provenance.
+3. He tests whether the claim is accurately represented.
+4. He evaluates what follows when it is applied.
+5. The dispute moves from speaker credential to claim behavior.
+
+**Source Anchor:** Ziggy, “‘How do you know that’ is an annoying question to me... judge based on the results if it works.”
+
+**Result:** The conversational burden shifts from autobiographical sourcing to substantive performance.
+
+**Confidence:** High for Ziggy’s preferred sequence; the identity of the challenger is UNCLEAR.
+
+**Alternative explanation:** The sequence may work in exploratory dialogue but not where the claim depends on empirical reporting.
+
+## 3. Offense/Defense Analysis
+
+### Grant on Offense
+
+**Observed pattern:** Grant, as reported, tends to narrow the candidate space, request predictions, compare rival explanations, and demand evidential plausibility.
+
+**Likely offensive function:** Force Ziggy’s claims to become more discriminating, measurable, or rankable.
+
+**Strength:** Prevents expansive metaphysical possibility from functioning as an answer without comparative consequences.
+
+**Risk:** The standards used for narrowing may be treated as neutral defaults rather than positions that also require defense.
+
+**Evidence level:** G-REPORTED only.
+
+---
+
+### Grant on Defense
+
+**Observed pattern:** UNKNOWN.
+
+The accessible corpus does not include Grant directly defending prediction, methodological naturalism, universal justification, or his own evidential standards against Ziggy’s later objections.
+
+**Possible inference:** Ziggy experiences Grant’s standards as authoritative and insufficiently reciprocal.
+
+**Classification:** This is a Ziggy-side interpretation, not confirmed Grant behavior.
+
+---
+
+### Ziggy on Defense
+
+**Observed pattern:** Ziggy preserves distinctions that prevent his position from being over-defeated:
+
+* possible versus probable;
+* private rational constraint versus public proof;
+* lack of experience versus contrary experience;
+* meaning-system function versus physical description;
+* local justification versus universal jurisdiction.
+
+**Defensive function:** Reduce the force of stronger conclusions drawn from limited evidence.
+
+**Strength:** Protects claims from being dismissed through category shifts or overextended standards.
+
+**Risk:** Repeated qualification may preserve a position without increasing its positive explanatory support.
+
+---
+
+### Ziggy on Offense
+
+**Observed pattern:** Ziggy reverses evaluative direction:
+
+* asks what prediction itself presupposes;
+* asks what beliefs Grant exempts from justification;
+* asks methodological naturalism to provide a positive account;
+* compares secular systems to religious functions;
+* questions the jurisdiction of Grant’s standards.
+
+**Offensive function:** Convert apparently neutral criteria into contestable commitments.
+
+**Strength:** Reveals hidden burdens and procedural asymmetries.
+
+**Risk:** Showing that a standard has assumptions does not by itself defeat the standard; reversal may produce symmetry without adjudication.
+
+---
+
+### Offense/Defense Contrast
+
+Grant’s reported offensive style is primarily **contractionary and comparative**: reduce possibilities, demand differences, rank by evidence.
+
+Ziggy’s defensive style is primarily **distinction-preserving**: stop probability from becoming impossibility, stop public standards from erasing private rational effects, and stop one domain’s criteria from governing all domains.
+
+Ziggy’s offensive style is primarily **meta-evaluative**: examine who set the standard, whether it is reciprocal, and what it presupposes.
+
+Grant’s defensive architecture remains **UNKNOWN** because the corpus does not preserve his direct responses.
+
+## 4. Role-Induced Behaviors
+
+### Debate Challenger Role
+
+**Actor:** Grant — G-REPORTED
+**Behavior:** Demands predictions, alternatives, justification, and plausible ranking.
+**Role influence:** A challenger is structurally rewarded for exposing insufficiency without always supplying a complete replacement.
+**Classification:** ROLE-INDUCED is plausible but not confirmed.
+**Risk of misclassification:** What appears to be Grant’s stable cognitive architecture may partly be the behavior of whoever occupies the skeptical or prosecutorial role.
+
+---
+
+### Spiritual-Possibility Defender Role
+
+**Actor:** Ziggy
+**Behavior:** Preserves possibility, localizes experiential evidence, resists universal standards, and distinguishes meaning from physical explanation.
+**Role influence:** Defending claims under skeptical pressure encourages qualification and boundary-drawing.
+**Classification:** Combination of VOLUNTARY and ROLE-INDUCED.
+**Risk of misclassification:** Ziggy may be more restrictive when evaluating claims he does not personally favor.
+
+---
+
+### CFA Designer Role
+
+**Actor:** Ziggy
+**Behavior:** Reverses offense and defense, compares scoring outcomes, and treats procedural asymmetry as an experimental variable.
+**Role influence:** The structured comparison format directly invites meta-level analysis of role effects.
+**Classification:** PROTOCOL-INDUCED and VOLUNTARY.
+**Risk of misclassification:** These behaviors may reflect the experimental task rather than ordinary conversation.
+
+---
+
+### Nova-Assisted Concept Formation
+
+**Actor:** Ziggy and Nova
+**Behavior:** Metaphors and formulations such as maps, territories, jurisdictions, and the localized-experience sentence emerge through dialogue.
+**Role influence:** Nova provides candidate language; Ziggy selects, modifies, or adopts it.
+**Classification:** PROMPT-INDUCED at origin, VOLUNTARY after explicit adoption.
+**Risk of misclassification:** Later use may make a formulation appear independently generated by Ziggy when its initial structure was co-constructed.
+
+---
+
+### Retrospective Reporter Role
+
+**Actor:** Ziggy
+**Behavior:** Presents Grant’s positions through remembered quotations and summaries while already interpreting their significance.
+**Role influence:** Retrospective narration compresses context and may foreground moments that fit the current conceptual problem.
+**Classification:** ROLE-INDUCED
+**Risk of misclassification:** Grant’s debate behavior may appear more stable, absolute, or uniform than direct transcripts would show.
+
+## 5. Relationship-Level Loops
+
+### Loop 1 — Narrowing and Reopening
+
+**Trigger:** Ziggy introduces a metaphysical, spiritual, or conceptual possibility.
+
+**Interaction:**
+
+1. Grant reportedly asks what is plausible given the evidence.
+2. Ziggy perceives the narrowing as premature exclusion.
+3. Ziggy introduces distinctions that keep the possibility open.
+4. Grant’s original demand remains unmet because openness is not ranking.
+5. Pressure returns for likelihood or prediction.
+6. Ziggy moves to a meta-level critique of the standard.
+
+**Productive output:** Clarifies the difference between retaining a possibility and positively supporting it.
+
+**Destructive attractor:** Grant experiences endless expansion; Ziggy experiences evidential gatekeeping.
+
+**Ownership:** Relationship-level. Neither actor alone produces the full loop.
+
+**Confidence:** Moderate to high.
+
+---
+
+### Loop 2 — Universal Standard and Jurisdiction Challenge
+
+**Trigger:** Grant’s reported evidential or justificatory standard is applied without explicit limitation.
+
+**Interaction:**
+
+1. Grant evaluates Ziggy’s claim under a public or predictive standard.
+2. Ziggy challenges the standard’s universality.
+3. Ziggy relocates the dispute to jurisdiction.
+4. The original claim is temporarily displaced by argument over evaluative authority.
+5. No shared higher-order standard is established.
+6. The same conflict can recur in a new topic.
+
+**Productive output:** Reveals disagreements about standards that object-level argument would otherwise conceal.
+
+**Destructive attractor:** Infinite regress over which standard governs the standards.
+
+**Ownership:** Relationship-level.
+
+**Confidence:** Moderate because Grant’s direct articulation of universality is absent.
+
+---
+
+### Loop 3 — Burden Pressure and Symmetry Reversal
+
+**Trigger:** Ziggy’s favored framework is placed on defense.
+
+**Interaction:**
+
+1. Grant or the debate structure demands positive evidence from Ziggy’s side.
+2. Ziggy identifies assumptions in the demand.
+3. Ziggy reverses the burden onto the opposing framework.
+4. Differences between offense and defense become the new object of analysis.
+5. The original substantive question becomes secondary to procedural fairness.
+
+**Productive output:** Detects one-sided evaluation and creates comparative experiments.
+
+**Destructive attractor:** Procedural symmetry becomes a substitute for deciding which substantive account is better.
+
+**Ownership:** Relationship-level and protocol-amplified.
+
+**Confidence:** High for Ziggy’s side; Grant-side detail remains limited.
+
+---
+
+### Loop 4 — Strong Claim, Qualified Survivor
+
+**Trigger:** A broad Ziggy hypothesis receives a strong objection.
+
+**Interaction:**
+
+1. Ziggy proposes a large explanatory claim, such as myth functioning principally as compression.
+2. Grant reportedly derives a demanding consequence or rival explanation.
+3. Ziggy rejects the overly strong consequence.
+4. The claim survives in a narrower form, such as lossy or plural compression.
+5. The revised claim becomes harder to defeat but also less discriminating.
+
+**Productive output:** Produces more defensible formulations.
+
+**Destructive attractor:** Repeated qualification may reduce falsifiability faster than it increases precision.
+
+**Ownership:** Relationship-level.
+
+**Confidence:** Moderate.
+
+---
+
+### Loop 5 — Concrete Dispute to Meta-Architecture
+
+**Trigger:** A disagreement resists resolution at the object level.
+
+**Interaction:**
+
+1. Grant reportedly presses a specific evidential objection.
+2. Ziggy searches for the deeper structure causing recurrence.
+3. Nova supplies or sharpens a metaphor or abstraction.
+4. Ziggy adopts the abstraction.
+5. The new concept is generalized across disputes.
+6. The conversation generates a reusable framework rather than settling the original case.
+
+**Productive output:** Creates higher-level concepts such as evidential maps, jurisdiction, and offense/defense asymmetry.
+
+**Destructive attractor:** The architecture may outrun the evidence from the original exchange.
+
+**Ownership:** Ziggy–Nova relationship-level loop, often initiated by reported Grant friction.
+
+**Confidence:** High.
+
+---
+
+### Loop 6 — Source Challenge and Conversational Friction
+
+**Trigger:** A participant asks how Ziggy knows a claim.
+
+**Interaction:**
+
+1. The questioner requests provenance.
+2. Ziggy interprets the request as gatekeeping or derailment.
+3. Ziggy offers to test the claim directly instead.
+4. The questioner may regard source reliability as still unresolved.
+5. Both sides believe the other is avoiding the proper level of evaluation.
+
+**Productive output:** Distinguishes source reliability from inferential performance.
+
+**Destructive attractor:** Neither provenance nor substance receives complete treatment.
+
+**Ownership:** Relationship-level; the other participant may or may not be Grant.
+
+**Confidence:** Low to moderate because attribution of the questioner is UNCLEAR.
+
+## 6. Classification Uncertainties
+
+1. Grant’s entire cognitive profile is reconstructed from G-REPORTED material. No move attributed to him can yet be separated confidently from Ziggy’s selection, compression, or framing.
+
+2. Predictive-performance prioritization may be:
+
+   * a stable Grant preference;
+   * a context-specific methodological rule;
+   * a rhetorical challenge;
+   * or a debate-role behavior.
+
+3. Likelihood-centered narrowing may regulate relevance rather than express a general tendency to exclude possibilities.
+
+4. The convergence prediction concerning myth may reflect a one-time hypothesis test rather than a recurring reasoning move.
+
+5. Ziggy’s non-exclusion behavior may be domain-sensitive. The corpus does not show whether he extends the same generosity to possibilities he dislikes.
+
+6. First-person evidence localization began in co-constructed language. Ziggy explicitly adopted it, but its independence from Nova’s scaffolding is limited.
+
+7. Evaluative-jurisdiction relocation could be:
+
+   * a genuine meta-epistemic distinction;
+   * a strategic defense against external criticism;
+   * or both.
+
+8. Reciprocal burden reversal may expose unfair procedures, but the corpus does not establish that all relevant burdens should be symmetrical.
+
+9. Performance-over-provenance assessment is clearly stated by Ziggy, but its limits in empirical, historical, or high-stakes contexts remain UNKNOWN.
+
+10. Cross-framework functional comparison is securely present, but the level of claimed equivalence remains unclear. Functional overlap does not establish doctrinal, causal, or metaphysical equivalence.
+
+11. Several moves classified as cognitive operations may alternatively be rhetorical tactics:
+
+    * jurisdiction language;
+    * burden reversal;
+    * trust-before-prediction;
+    * comparison of religion to technology.
+
+12. Several relationship loops depend on absent Grant replies. They should be treated as provisional interaction models, not established dyadic laws.
+
+13. The corpus strongly supports a contrast between Grant-associated narrowing and Ziggy-associated reopening, but evidence is insufficient to determine whether this contrast persists when their debate roles reverse.
+
+14. No claim has yet been made about which recovered moves correspond to any pre-existing catalog. That mapping remains outside Stage 2.
+
 
 ---
 

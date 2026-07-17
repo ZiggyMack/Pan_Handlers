@@ -23,7 +23,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ PASSED field-desk review; Stage 4 authorized; 5 operator families confirmed; 3 trails ordered at close (IT-023/024/025)
+**Status:** ✅ COMPLETE — all 4 stages passed field-desk review. **No promotions executed — plow-through rule holds (4th consecutive sweep).** 3 HIGH candidates queued (Monopoly-Promotion Audit; Claimed-Source/Access Separation; Operative-Rigidity Test); trails IT-023/024/025 opened; Grant: REPORTED-ONLY NON-SITE
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** Whether prediction, truth, suffering, law, religion, consciousness, or another primitive can legitimately function as a **master frame** — Curt Jimungal video as entry point; presup/method dispute; Grant present only as G-REPORTED (never speaks); heavy NOVA-INTERPRETATION load flagged by the extractor itself ("prediction is a servant," "optimization function," etc.)
@@ -6461,6 +6461,152 @@ The extraction should not confuse articulated value with revealed governing valu
 * A related discussion may exist under “Category error in systems,” approximately June 15, 2026, topic: applying physical-description standards to meaning-oriented systems. Not evidence for this packet.
 * A related discussion may exist under “Methodological naturalism and framework asymmetry,” approximately June 30, 2026, topic: offense/defense scoring and global-frame jurisdiction. Not evidence for this packet.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 + FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: SUCCESSFUL COMPLETED COMPOUND DIG — but Stage 4 confuses several
+pathologies with the corrective moves that detect them, and promotes too
+many sequence components into standalone operators.**
+
+```text
+Status: COMPLETE
+Primary value: Ziggy anti-monopoly reasoning architecture
+Secondary value: authority-structure and jurisdiction analysis
+Grant profile value: NONE
+Museum promotion: SELECTIVE
+Later targeted digs: REQUIRED
+```
+
+**The packet's actual backbone (matters more than the 22 named moves):**
+identify an admitted primitive or proposed master → expose the rule
+granting it authority → concede its bounded contribution → separate
+participation from sufficiency → test local-to-global expansion → inspect
+upstream goals and conditioning factors → retain the objection without
+claiming a finished replacement.
+
+**⚠️ MAJOR MAPPING CORRECTIONS — the detector–pathology polarity reversal
+strikes again (3rd sweep running; now a candidate Failure-Atlas seed):**
+
+- **Primitive-Permission Audit** — does NOT extend Generative Admission
+  Restriction: detecting a restriction is not exhibiting one. STRONG
+  PROVISIONAL CANDIDATE; adjacency: Symmetry Testing of Standards,
+  Baseline Exemption *detection*, GAR *detection*. Mature sequence needs
+  both stages: equal permission to enter comparison → unequal comparative
+  evaluation may still follow.
+- **Hidden-Frame Exposure** — "MATCHES Baseline Exemption" DOWNGRADED:
+  having assumptions ≠ claiming exemption; the full pathology needs the
+  asymmetry (preferred assumptions unmarked while rivals must disclose).
+  Belongs to the existing Foundation/Frame Exposure family.
+- **Master-Frame Promotion Check** — does NOT extend Prediction
+  Sovereignty; it *audits* the promotion that could produce sovereignty.
+  Renamed and consolidated as **Monopoly-Promotion Audit** (useful →
+  necessary → universally involved → sufficient → exclusive → sovereign;
+  where is each bridge?) — **the strongest candidate in the packet**.
+- **Local-to-Global Scope Audit** — does NOT "match" Universalized
+  Evaluative Jurisdiction (polarity reversed again); the observed move is
+  the corrective **Scope-to-Jurisdiction Audit**; whether Grant commits
+  the pathology remains UNKNOWN.
+- **Neighbor-Factor Introduction** — Possibility Preservation mapping
+  REJECTED (trust/beauty/love are not low-probability hypotheses being
+  preserved); renamed **Factor-Plurality Probe** — generates pressure,
+  does not establish independence or irreducibility.
+- **Conditioning-Factor Reveal** — Baseline Exemption mapping rejected; a
+  causal/interpretive dependency test; valid technique-level finding;
+  exposes conditioning, does not defeat prediction.
+- **Adverse-Odds Commitment Test** — Possibility Preservation mapping
+  rejected; QUARANTINED as underdeveloped until a true adverse-odds case
+  appears (failure judged more likely *after* case-specific evidence, yet
+  commitment chosen for its own worth).
+
+**Consolidation executed — 22 moves collapse into 5 families:**
+
+1. **Monopoly-Promotion Audit** (grant contribution → classify role →
+   detect promotion → request bridge → reject exclusivity if bridge
+   fails) — absorbs Master-Frame Promotion Check, Necessary/Decision-Rule
+   Separation, Scope-Constrained Concession, Metric–Monopoly Separation,
+   No-Complete-Rival Requirement.
+2. **Scope-to-Jurisdiction Audit** — absorbs Hidden-Frame Exposure,
+   Local-to-Global Scope Audit, Domain-Jurisdiction Restriction.
+3. **Conditioning-and-Commitment Analysis** — absorbs Factor-Plurality
+   Probe, Conditioning-Factor Reveal, Adverse-Odds Commitment Test;
+   *establishes conditioning more strongly than override.*
+4. **Authority-Structure Decomposition** — absorbs Operative-Rigidity
+   Test, Enforcement-Structure Equivalence, Claimed-Source/Claimed-Access
+   Separation, Symmetric-Wielding Proposal.
+5. **Master-Value Extraction** (existing family) — absorbs Goal-Dependence
+   Excavation, the Curtain Question (shortcut, not validated detector),
+   and Stage 3's implied behavioral sacrifice testing.
+
+**Serious long-term candidates (only 3 clear major retentions):**
+
+- **Monopoly-Promotion Audit** — HIGH confidence: tests whether necessity,
+  ubiquity, usefulness, or local success has been silently converted into
+  universal or sovereign authority.
+- **Claimed-Source / Claimed-Access Separation** — HIGH confidence:
+  separates realism about an ultimate source from infallible local access
+  and coercive interpretive immunity; Representation ≠ Ontology adjacency.
+- **Operative-Rigidity Test** — HIGH as technique: evaluates advertised
+  provisionality from the perspective of the person presently subjected
+  to an immovable ruling.
+
+Everything else = sub-techniques, existing-family reinforcement (Conceded
+≠ Sovereign → Scope-Constrained Concession; Metric Demotion → renamed
+Metric–Monopoly Separation, sub-technique inside the audit), protocols
+(Symmetric-Wielding → procedural ledger), or Idea Trail material
+(Self-Opaqueness). Charitable Weakening ("Reconstruction Before Scoring")
+stays technique-level — partly generated by uncertainty about Grant's
+actual position. **No-Complete-Rival Requirement** survives as a burden
+rule, not a personal operator: *negative critique does not inherit the
+burden of complete replacement* (Contested ≠ Defeated kinship).
+
+**Profile-ready pruning:** Stage 4's fifteen claims are too many; the
+safest provisional Ziggy profile is the ten-item set (monopoly-promotion
+auditing; scope-constrained concession; metric–monopoly separation;
+scope-to-jurisdiction auditing; primitive-permission auditing;
+claimed-source/claimed-access separation; operative-rigidity testing;
+symmetry under explicit invariants — *sometimes initially overextended*;
+master-value extraction; analogy-driven structural clarification —
+*uneven disanalogy control*). All provisional until bounded recurrence.
+
+**Grant disposition:** `GRANT STATUS: REPORTED-ONLY NON-SITE`. Every Grant
+pathology correctly quarantined. Only safe conclusion: *Ziggy suspects
+Grant promotes prediction from pervasive usefulness toward broad
+adjudicative authority* — which of the five theses Grant actually holds
+(participant / constraint / discriminator / unifier / value) is
+undeterminable from this packet. **No Grant operator promotes.**
+
+**FINAL QC (verbatim key rulings):** trust clearly conditions prediction,
+confidence, and action — the bounded thread does NOT establish trust as
+independent of or overriding prediction · law/religion comparable only
+under explicitly selected variables (inherited authority, command,
+sanction, present coercion) — total equivalence does not survive ·
+predictive success in physical inquiry ≠ global normative jurisdiction,
+AND no hard physical-vs-human wall either · a complete rival system is
+unnecessary for defeating an unsupported monopoly claim — it becomes
+necessary only when the critic advances from negative critique to
+positive governance.
+
+**Deepest yield of the sweep:**
+
+> *A framework's ability to encode trust, beauty, love, or meaning as
+> priors and utilities shows that it can process those commitments. It
+> does not show that the framework generated them, justified their
+> weight, or earned authority over them. **Representation inside the
+> predictive model is not sovereignty over what is represented.***
+
+**Close-out orders (filing clerk):** trails IT-023/024/025 open (field
+desk's ids ran off by one as usual); candidate queue + promotion log
+updated in the lexicon — **fourth consecutive zero-promotion sweep**;
+recursive ledgers updated (Ziggy OPERATOR_MAP + PROFILE); board, INDEX,
+timeline entries; detector–pathology polarity reversal registered as
+candidate Failure-Atlas seed. Stage-4 X-CONTEXT titles fold into the leads
+register ("Trust vs Prediction" now a *titled* lead matching delete_6's
+topic; 2nd pointers for "Category error in systems" and the
+methodological-naturalism thread).
 
 ---
 

@@ -55,7 +55,7 @@ Decomposition, CO-013 Exhaustiveness Challenge, CO-014 Claim-Scope Repair
 (first cross-chat recurrence signal pending sub-dig) — see `OPERATOR_MAP.md`.
 
 **The emerging architecture (hypothesis-grade, synthesis-phase material):**
-across eight digs the same shape keeps surfacing — *fix the actual boundary of
+across nine digs the same shape keeps surfacing — *fix the actual boundary of
 what was established; audit whether the offered options were ever complete;
 preserve what remains unexcluded; challenge the authority of the standard
 doing the excluding.* Field-desk compressions of it: "Residual-Space
@@ -63,6 +63,25 @@ Exploration" (AUX_04); "you inspect whether the opponent's menu was ever
 exhaustive" (AUX_04); "constraint discovery, not framework destruction"
 (SWEEP_03). Its attached price, registered from the archive's own operators:
 **preserved ≠ preferred (CO-011)** — the promotion-pathway debt.
+
+**The anti-monopoly backbone (SWEEP_05 — the architecture's fullest single
+statement to date):** identify an admitted primitive or proposed master →
+expose the rule granting it authority → concede its bounded contribution →
+separate participation from sufficiency → test local-to-global expansion →
+inspect upstream goals and conditioning factors → retain the objection
+without claiming a finished replacement. Its engine is **Monopoly-Promotion
+Audit** (HIGH candidate): *important ≠ necessary ≠ universally involved ≠
+sufficient ≠ sovereign* — Ziggy allows that a final frame might exist; the
+claim is that **the coronation has not been earned**. Field desk's safest
+ten-item provisional profile now on record (SW05 Stage 4): monopoly-promotion
+auditing; scope-constrained concession (2nd instance); metric–monopoly
+separation; scope-to-jurisdiction auditing; primitive-permission auditing;
+claimed-source/claimed-access separation; operative-rigidity testing;
+symmetry under explicit invariants; master-value extraction (2nd instance);
+analogy-driven structural clarification. Standing debt made explicit:
+*negative success (prediction hasn't earned exclusivity) is secured; the
+positive gap (what governs when metrics conflict?) opens once action is
+recommended* — CO-011's promotion-pathway debt, now with a name.
 
 **The authority-audit summit (SWEEP_04 addition):** the architecture's newest
 and highest-reaching member turns the audit on the auditor — **Master-Value

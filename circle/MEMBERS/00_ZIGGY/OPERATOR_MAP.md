@@ -44,13 +44,20 @@
 | Deepest-Function Search | 1 | AUX_05 | premature-monism risk attached |
 | Alternative-Mechanism Search | 1 | AUX_03 | discovery family |
 | Conditional Structural Analogy | 1 | AUX_04 | "mechanism" permanently downgraded |
-| **Master-Value Extraction** | 1 strong (sweep, full 4-stage survival) | SWEEP_04 | HIGH-confidence candidate; extends Positive-Commitment Extraction; must permit NO SINGLE MASTER RECOVERED; refusal-to-sacrifice probe is its sharpest instrument; sub-dig E = promotion path |
-| Instrument ≠ Telos | **3 sweep-level reinforcements** | SW02, SW03-adjacent, SW04 | strongest recurrence count of any queued candidate — but all same-extractor; mature form carries the reciprocity clause |
+| **Master-Value Extraction** | **2 sweep-level instances** | SWEEP_04, SWEEP_05 | HIGH-confidence candidate; extends Positive-Commitment Extraction; must permit NO SINGLE MASTER RECOVERED; refusal-to-sacrifice probe is its sharpest instrument; SW05 absorbs Goal-Dependence Excavation + Curtain Question (shortcut, not validated detector); sub-dig E = promotion path |
+| Instrument ≠ Telos | **3 sweep-level reinforcements** | SW02, SW03-adjacent, SW04 | strongest recurrence count of any queued candidate — but all same-extractor; mature form carries the reciprocity clause; SW05's Monopoly-Promotion Audit is close kin (promotion auditing vs role separation) |
+| **Monopoly-Promotion Audit** | 1 strong (sweep, dominant sequence) | SWEEP_05 | HIGH — the sweep's strongest candidate: grant contribution → classify role → detect promotion → request bridge → reject exclusivity if bridge fails; *important ≠ necessary ≠ universally involved ≠ sufficient ≠ sovereign*; allows a final frame might exist — the claim is the coronation hasn't been earned |
+| **Claimed-Source / Claimed-Access Separation** | 1 strong (sweep) | SWEEP_05 | HIGH — objective ultimacy ≠ infallible access ≠ coercive interpretive immunity; Representation ≠ Ontology adjacency; strongest law/religion-branch yield |
+| **Operative-Rigidity Test** | 1 strong (sweep) | SWEEP_05 | HIGH as technique — diachronically revisable yet synchronically fixed for the person under judgment; lived-authority critique, never total equivalence |
+| Scope-Constrained Concession | **2 (sweep)** | SWEEP_03, SWEEP_05 ("Conceded ≠ Sovereign") | field desk: "one of Ziggy's clearest recurring debate disciplines"; framework-shopping failure condition attached |
+| Scope-to-Jurisdiction Audit | 1 (sweep, merged family) | SWEEP_05 | absorbs local/global scope audit + domain-jurisdiction restriction; never a sealed physical/meaning wall; OP-013/OP-007 adjacency |
+| Primitive-Permission Audit | 1 (sweep) | SWEEP_05 | fair-admission procedure: permission to compete ≠ equal adequacy; Symmetry-Testing adjacency; NOT a GAR extension (detector, not pathology) |
+| Conditioning-and-Commitment Analysis | 1 (sweep, merged family) | SWEEP_05 | establishes trust *conditions* prediction — override never shown; Adverse-Odds subtest QUARANTINED pending a true adverse-odds case |
 | Why-to-How Conversion Detection | 1 (sweep) | SWEEP_04 | a value question answered with a mechanism relocates, doesn't answer |
-| Value-Plurality Stress Test | 2 (sweep) | SWEEP_03 (Reframing kin), SWEEP_04 | tests monism; doesn't prove pluralism |
+| Value-Plurality Stress Test | 2 (sweep) + kin | SWEEP_03 (Reframing kin), SWEEP_04; SW05's Factor-Plurality Probe adjacent (not merged) | tests monism; doesn't prove pluralism; SW05 pressure: the plural alternative owes ordering rules once action is recommended |
 | Belief/Support Separation | 1 (sweep) | SWEEP_04 | persistence ≠ warrant ≠ knowledge; classificatory, not a defense of retention |
-| Structural Symmetry w/ Comparative Reopening | 1 (sweep) | SWEEP_04 | disclosure equality only, never parity; early uneven application noted |
-| Frame Seeding by Analogy | recurrent (style) | SW04 + throughout | mapping/transfer/implications supported; disanalogy-auditing uneven — profile-worthiness gated on that |
+| Structural Symmetry w/ Comparative Reopening | **2 (sweep)** | SWEEP_04, SWEEP_05 ("symmetry under explicit invariants") | disclosure equality only, never parity; *sometimes initially overextends the result* (SW05: law/religion equivalence narrowed to selected variables) |
+| Frame Seeding by Analogy | recurrent (style) | SW04, SW05 + throughout | mapping/transfer/implications supported; disanalogy-auditing uneven — profile-worthiness gated on that (SW05 reconfirms: "uneven disanalogy control") |
 | Adversarial Relay Coordination | protocol | SWEEP_04 | deliberately recruits external models against emerging consensus — research-method ledger |
 
 ## E. Operator Sequences (hypothesis-grade)
@@ -63,6 +70,7 @@ CO-012 fix the conclusion's actual scope
 → preserve what remains unexcluded (possibility preservation)
 → CO-011 pressure: preserved ≠ preferred (the price)
 ```
+
 - **Status:** consistent with AUX_03/AUX_04/sweep evidence; NOT validated as a
   deployed sequence; the standing pressure is on record — *a preserved
   possibility still needs a promotion pathway.*

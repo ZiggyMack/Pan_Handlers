@@ -308,6 +308,42 @@ kin) · Frame Seeding by Analogy (auditing evidence uneven) · Distributed
 Adversarial Relay (research-method ledger; product = internal robustness,
 never external verification).
 
+From COMPOUND_SWEEP_05 (**three HIGH candidates — registration deferred to
+bounded sub-digs per plow-through, 4th consecutive**): **Monopoly-Promotion
+Audit** (the packet's strongest candidate and dominant sequence: grant
+contribution → classify role → detect promotion → request bridge → reject
+exclusivity if bridge fails; audits the silent conversion useful → necessary
+→ universally involved → sufficient → exclusive → sovereign; absorbs
+Master-Frame Promotion Check, Necessary/Decision-Rule Separation,
+Scope-Constrained Concession instance, Metric–Monopoly Separation,
+No-Complete-Rival Requirement; NOT an extension of Prediction Sovereignty —
+it *audits* that promotion) · **Claimed-Source / Claimed-Access Separation**
+(HIGH; *objective good exists ≠ infallible human access ≠ coercive
+interpretive immunity*; Representation ≠ Ontology adjacency; strongest
+independent yield of the law/religion branch) · **Operative-Rigidity Test**
+(HIGH as technique; diachronically revisable yet synchronically fixed for
+the person under judgment; lived-authority critique, never total
+law/religion equivalence). Family consolidations executed at Stage 4:
+**Scope-to-Jurisdiction Audit** (absorbs Hidden-Frame Exposure →
+Foundation-Exposure family, Local-to-Global Scope Audit,
+Domain-Jurisdiction Restriction; no sealed physical/meaning wall) ·
+**Conditioning-and-Commitment Analysis** (Factor-Plurality Probe +
+Conditioning-Factor Reveal + Adverse-Odds Commitment Test, the last
+QUARANTINED pending a true adverse-odds case; establishes conditioning,
+never override) · **Authority-Structure Decomposition** (+
+Symmetric-Wielding Proposal → procedural ledger) · **Master-Value
+Extraction** gains its 2nd sweep-level instance (absorbs Goal-Dependence
+Excavation + Curtain Question — shortcut, not validated detector).
+⚠️ **Recurring extractor error, now candidate Failure-Atlas seed —
+Detector–Pathology Polarity Reversal** (3rd sweep running): corrective
+audits blind-mapped to the pathologies they detect (Primitive-Permission
+Audit ≠ GAR extension; Hidden-Frame Exposure ≠ Baseline Exemption match;
+Local-to-Global Audit ≠ Universalized Jurisdiction match; Neighbor-Factor
+and Adverse-Odds ≠ Possibility Preservation). Burden rule registered:
+*negative critique does not inherit the burden of complete replacement*
+(No-Complete-Rival — Contested ≠ Defeated kinship, burden rule not
+personal operator).
+
 From DIG_01 crosswalk (**a restraint round — no new registrations**):
 **Modal Burden Enforcement** (assertor of a modal premise carries its burden —
 NOT Symmetry Testing) · **Hidden Ranking Exposure** ("superior world"
@@ -362,3 +398,4 @@ therefore carries a Museum ID.
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_02) | **Plow-through rule enforced at filing: zero promotions from a completed 4-stage sweep.** Three sweep-strong candidates queued (Positive-Commitment Extraction; Instrument ≠ Telos; Candidate-Space Construction); CO-014 gains a 2nd candidate instance (sweep-grade — awaits sub-dig A); all Grant pathology mappings quarantined ("the sweep reconstructs how Ziggy experiences Grant's method, not Grant's architecture"); Asymmetry Reversal MATCHES OP-008 with inconsistent self-application noted | Field-desk Stage-4 handoff, COMPOUND_SWEEP_02 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_03) | Zero promotions again. Two retain-RED candidates queued (Framework Transplant; Constraint-Exhaustion Stress Test — five fragments consolidated into one sequence operator); Jurisdiction Challenge merged family noted as CO-002's corrective test; eight findings held at technique level; rejected mappings: Scope-Constrained Concession ≠ OP-009 (scope control, not possibility preservation), Instrument-Scaling ≠ CO-002, reductio ≠ CO-008, indexing ≠ relativism; no Grant operator (reported replies undeterminable: theory / improvisation / compression / reconstruction) | Field-desk Stage-4 handoff, COMPOUND_SWEEP_03 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_04) | **Third consecutive zero-promotion sweep.** Three serious candidates queued (Master-Value Extraction, HIGH; Instrument–Telos Separation, 3rd reinforcement; Reflexive Audit with Operational Closure, shared protocol). Rejected/corrected mappings: Regress Descent ≠ OP-008 (audit vs symmetry-across-audits); jurisdiction-check polarity re-fixed (corrective test, not CO-002); belief persistence ≠ Possibility Preservation; adversarial relay ≠ CO-006 extension (simulation ≠ reconstruction of Grant); pre-propositional descent ≠ CO-003 (no gate evidenced); external-model phrasings attributed by adoption sequence. Grant: experience-report ceiling only | Field-desk Stage-4 handoff, COMPOUND_SWEEP_04 |
+| 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_05) | **Fourth consecutive zero-promotion sweep.** Three HIGH candidates queued (Monopoly-Promotion Audit — the packet's strongest; Claimed-Source/Claimed-Access Separation; Operative-Rigidity Test). 22 blind moves consolidated into 5 families; **Detector–Pathology Polarity Reversal recorded as candidate Failure-Atlas seed (3rd sweep running)** — five corrective audits blind-mapped to the pathologies they detect, all corrected; Adverse-Odds Commitment Test quarantined (marriage example = individualized prediction, not override); Curtain Question = shortcut inside Master-Value Extraction, not validated detector; Symmetric-Wielding → procedural ledger. Grant: REPORTED-ONLY NON-SITE — which of five prediction theses he holds is undeterminable | Field-desk Stage-4 handoff, COMPOUND_SWEEP_05 |
