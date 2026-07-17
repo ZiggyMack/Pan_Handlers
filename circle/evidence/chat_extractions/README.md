@@ -94,7 +94,8 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_02.md` | *(reset to clean template for reuse)* | EMPTY |
 | `DIG_COMPOUND_SWEEP_03_foundations_justification_and_jurisdiction.md` | ⚡ Compound sweep: Münchhausen trilemma → framework-relative justification → single-value underdetermination → **jurisdiction of justification** (checklist theme #4 — Z-06's home trench) | ✅ **COMPLETE — candidate harvest, ZERO promotions (plow-through held again)**; 2 retain-RED candidates queued (Framework Transplant, Constraint-Exhaustion Stress Test); Jurisdiction Challenge = CO-002's corrective test; seeds IT-019 |
 | `DIG_03.md` | | EMPTY |
-| `DIG_04.md` | | EMPTY |
+| `DIG_04.md` | *(template consumed into COMPOUND_SWEEP_08)* | — |
+| `DIG_COMPOUND_SWEEP_08_belief_justification_action_and_belief_rescue.md` | ⚡ Compound sweep: subjective experience as evidence (E1–E4 split); knowledge vs action thresholds; **what defeating a reason actually defeats** (only argument-level defeat is automatic); **belief rescue vs immunization** — Ziggy's admitted rescue impulse is the hottest prey; ⚠️ opens on Nova's reconstruction of an UNAVAILABLE earlier conversation | 🟡 IN PROGRESS — Stage 1 ⚠️ **conditional pass (source-boundary + Grant-ledger repairs as binding overlay: G4 → TARGET UNKNOWN, G5 → SPEAKER/TARGET UNCLEAR)**; 6 families forecast; Stage 2 authorized under overlay; 4 trails at close (IT-045…048) |
 | `DIG_05.md` | *(template consumed into DIG_AUX_07)* | — |
 | `DIG_AUX_07_axioms_prediction_logic_and_epistemic_bedrock.md` | Auxiliary/idea-trail dig: can faith function axiomatically, and does predictive power disqualify it? Grant's reported claim + Ziggy's bedrock counter + the logic-vs-prediction dependency dispute; ⭐ **the pilot's "prediction as ultimate standard" theme in its most direct form yet** (still reported-only) | ✅ **COMPLETE — ZERO promotions (aux ceiling)**; 4 durable families (Bedrock Extraction = strongest Ziggy candidate, danger clause attached); **reciprocal bedrock rule** + 8-step comparison procedure + G1–G6 ladder + six-step religious test case filed as instruments; A2 case law (3rd tier refinement); polarity reversal 6th consecutive dig; Absent-Opponent Reconstruction → RELATIONSHIP_MAP (highest attribution risk on record); seeds IT-039…044 (6 trails); Grant: G-REPORTED/NOVA-RECONSTRUCTED NON-SITE |
 | `DIG_06.md` | *(template consumed into COMPOUND_SWEEP_07)* | — |
@@ -160,7 +161,13 @@ titles):** **"delete_14"** (~06-08, logic foundational / prediction
 emergent — AUX_07's own question in an earlier thread; natural companion
 dig); **"MASTER BRANCH"** (~07-15, information theory / prediction /
 axiomatic foundations — ⚠️ recent thread, possible ambient-memory
-contamination risk, preflight carefully).
+contamination risk, preflight carefully). **From SWEEP_08's X-CONTEXT
+(new titles):** **"Final Why"** (~06-20, commitment / ultimate values /
+action after justificatory chains end — **charter candidate #2's home
+thread, long sought**); **"Religion as Technology"** (~06-20 — SW07's
+June-20 topic lead now titled); **"How Do You Know That"** (~06-28,
+source demands / provenance-disqualification — IT-046's genesis/warrant
+question in the wild). "Trust vs Prediction" now at **5 pointers**.
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**
