@@ -1033,10 +1033,22 @@ Begin Stage 4 now.
 
 **Contamination signature:** the output cites material from differently titled
 conversations, spans a date range instead of one session, or acknowledges
-combining multiple chats. **Do not proceed to the next stage.** Preserve the
-contaminated output as a corpus sweep (`evidence/corpus_sweeps/` — orientation
-only, never promotable), leave the dig workbook's output slot empty, and send
-this repair command in the target thread:
+combining multiple chats. **Do not proceed to the next stage.** First, always:
+preserve the contaminated output as a corpus sweep (`evidence/corpus_sweeps/` —
+orientation only, never promotable) and leave the dig workbook's output slot
+empty. Then repair by one of two routes:
+
+**Route A — edit-in-place (preferred; Ziggy's field simplification, 2026-07-16).**
+If the platform supports editing your message: after preserving the sweep, edit
+the original stage command and replace it with the current version of that
+stage's prompt. The conversation re-branches — the contaminated exchange drops
+off the active branch, and the extractor regenerates against the pristine
+thread. No special repair command needed. Note this fixes *thread*
+contamination only; the ambient kind (project-injected content, account memory)
+is still handled by the boundary clause and X-CONTEXT.
+
+**Route B — repair command (when editing isn't possible).** Send this in the
+target thread; it excludes the contaminated exchange explicitly:
 
 Copy everything inside the fence and send it as one message:
 
