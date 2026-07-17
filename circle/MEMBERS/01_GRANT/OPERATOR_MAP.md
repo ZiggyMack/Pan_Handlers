@@ -1,18 +1,32 @@
 # Operator Map: Grant
 
-**Last reviewed:** 2026-07-16 · **Observers:** Ziggy (hypotheses), P.H. Claude (structure)
+**Last reviewed:** 2026-07-17 · **Observers:** Ziggy (hypotheses), Nova (field desk), P.H. Claude (structure)
 
 > All eight operators below are lexicon entries CO-001…CO-008, registered at 🔴 RED.
-> **Evidence status (updated 2026-07-17):** G-001 is filed (reported ceiling) —
-> and it supports **none of these operators**. Field-desk rulings across seven
-> digs have *blocked* every attempted mapping: the DIG_01 zero was
-> argued-as-measured (CO-004's justified-zero duty enforced); no prediction
-> dispute appeared where prediction operators were tempting; Baseline Exemption
-> and Reconstruction Bypass were ruled unestablished or role-induced; the
-> reported possibility/plausibility distinction was preserved as ordinary
-> probabilistic discipline. **The restraint is itself the current finding.**
-> Field-desk rename adopted: Grant is a *reported epistemic-standard advocate*,
-> not a "gatekeeper." Definitions live in `../../OPERATOR_LEXICON.md`.
+> **Evidence status (updated 2026-07-17):** G-001 (reported ceiling) and now
+> ⭐ **G-002 (first G-DIRECT source)** are filed — and between them they support
+> **none of CO-001…CO-008**. Field-desk rulings across eighteen digs have
+> *blocked* every attempted pathology mapping; G-002's direct material shows
+> the opposite profile: **disciplined epistemic standards** (see the
+> packet-local ledger below). The Threshold-to-Character Escalation
+> hypothesis (unjustified→lying — CO-008-adjacent) is **QUARANTINED**: the
+> direct evidence supports temporal and individualization claims, never the
+> escalation rule; his actual inference may run through *pattern +
+> no-credible-basis + insult-behavior → truth-indifference*. **The restraint
+> is itself the current finding.** Grant is a *reported epistemic-standard
+> advocate*, not a "gatekeeper." Definitions: `../../OPERATOR_LEXICON.md`.
+
+## D0. ⭐ Packet-Local G-DIRECT Ledger (SWEEP_12 — first direct entries)
+
+> Narrow local positions from G-002's screenshots; the QC restriction
+> binds: *no broad personality trait promotes from one packet*, and
+> completed audit families ≠ demonstrated actor operators.
+
+| Seed | Evidence | Notes |
+| --- | --- | --- |
+| **Contemporaneous-Basis Insistence** | G-DIRECT (G-002) · HIGH locally | the evidential basis operative *when the accusation was made* is what counts; later rationales don't retroactively justify — kin to the archive's own pre-defeat centrality record (SW08) |
+| **Individualized-Evidence Insistence** | G-DIRECT (G-002) · HIGH locally | population correlation alone never justifies accusing a particular person — kin to SW09's Population-to-Individual Transfer Audit |
+| **Pattern Evidence About the Accuser** | G-DIRECT (G-002) · HIGH that the move was made | Gavin's reported history treated as a differentiator bearing on the *accuser's process*, never the accused's traits; the pattern's truth and interpretation unresolved |
 
 ## D. Recurring Operators
 
