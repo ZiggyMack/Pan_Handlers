@@ -93,7 +93,8 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_08.md` | | EMPTY |
 | `DIG_09.md` | | EMPTY |
 | `DIG_10.md` | | EMPTY |
-| `DIG_11.md` | | EMPTY |
+| `DIG_11.md` | *(template consumed into DIG_AUX_05)* | — |
+| `DIG_AUX_05_story_genre_wisdom_compression_and_orientation.md` | Story as wisdom compression; genre plurality vs Hero's Journey; Ethos/Pathos/Logos as orientation channels; **first Tale Recursion appearance**; 3 assistant-imported Grant positions caught & ruled UNSUPPORTED | STAGE 1 COMPLETE — field-desk PASS w/ corrections (date→UNKNOWN; orientation pending adoption; Grant ledger compressed — NON-SITE); Stage 2 authorized; X-CONTEXT yielded 4 named-title leads |
 
 Keep the Status column in sync with each workbook's Status line
 (EMPTY → IN PROGRESS → COMPLETE → FILED).
@@ -120,7 +121,13 @@ X-CONTEXT notices: **"Grant and Positivism"** (~2026-06-29 — now pointed at by
 **two independent bounded digs** (AUX_01, AUX_02): the strongest-signaled Grant
 target on the board), "Hilbert spaces and language models" (~2026-07-02,
 cross-model convergence), and "Impedance and attention analogy" (~2026-07-02,
-convergence across frameworks).
+convergence across frameworks). **Named-title leads from AUX_05's X-CONTEXT**
+(actual chat titles — highest navigability yet): **"digg_03"** (~06-15, myth
+compression + reported Grant objection — likely the Compression-vs-Transmission
+checklist thread); **"delete_6"** (~06-30, trust and prediction — likely THE
+Trust-vs-Prediction lead); **"digg_00"** (~06-06, chosen direction /
+pragmatism / final ends — possible "final why" thread); **"digg_05"**
+(~06-04, scientific and spiritual jurisdictions).
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**
