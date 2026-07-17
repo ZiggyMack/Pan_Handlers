@@ -24,7 +24,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ⚠️ CONDITIONALLY COMPLETE (PASS WITH ATTRIBUTION AND CONCEPTUAL REPAIRS); repairs filed as binding overlay in the Stage-1 review block; Stage 2 may proceed under that overlay
+**Status:** 🟡 IN PROGRESS — Stage 1 ⚠️ conditional (source-boundary overlay binding) · Stage 2 ✅ PASSED review; Stage 3 authorized; 6 families confirmed; 5 trails ordered at close (IT-045…049); Belief Rescue = high-value seed, recurrence unconfirmed
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep: subjective experience as evidence; public vs private warrant; knowledge standards vs action thresholds; belief/justification/truth separation; **what defeating a reason actually defeats**; belief rescue vs immunization (Ziggy's own admitted rescue impulse = the dig's hottest prey); ⚠️ opens with Nova reconstructing an UNAVAILABLE earlier conversation — source-boundary repair governs
@@ -2113,6 +2113,160 @@ Moderate to high
 * The thread does not distinguish propositional justification from the justification of a person’s actual believing. That missing distinction may affect several extracted moves.
 * It remains UNKNOWN whether Ziggy’s account of reasoning as step-tracing applies generally or only to deeply held commitments.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS AS COMPOUND SWEEP — run Stage 3. Strong extraction,
+especially around defeated reasons, confidence revision, and Ziggy's
+self-disclosed rescue impulse; the familiar weakness: twelve moves
+treated as independent operators when the thread yields ~six families.**
+
+```text
+GRANT VALUE: reported or reconstructed leads only
+GRANT OPERATOR PROMOTION: PROHIBITED
+```
+
+**Central architecture:** belief/truth/warrant/knowledge/action
+separated → hidden transitions inspected → failed reason restricted to
+its actual consequence → evidential centrality assessed → psychological
+origin distinguished from current warrant → replacement reasoning
+tested as repair or immunization.
+
+**📊 STAGE-1 PREDICTION SCORING:** all six forecast families surfaced —
+**6/6** (Experience–Interpretation recovered as the consolidated
+Evidential Symmetry and Scope Audit; the rest under their forecast
+names). *Common-cause caveat filed.*
+
+**Strongest recovered family — Reason-Defeat / Belief-Revision Audit**
+(Consequence Limitation + Load-Bearing Reason Test): the mature
+structure holds (automatic: the argument from R fails; possible: total
+justification weakens, confidence decreases, suspension; never
+automatic: B is false). **Stage-3 addition ordered:** split **rebutting
+defeaters** (evidence B is false) from **undercutting defeaters**
+(evidence the supporting route is unreliable) — defeating an argument
+usually produces the latter.
+
+**Rulings on the rest:**
+
+- **Component Separation** → toolkit; the distinctive finding is
+  **Epistemic-Status Layering** with the propositional/doxastic gap
+  ruled *not minor* — it affects the entire suspected
+  "belief/justification collapse": *belief and justification are
+  distinct ≠ belief's rational status is independent of justification.*
+- **Inferential Bridge Inspection** → strong reusable sub-technique;
+  deeper failure mode named: *selective* inspection — every arrow in the
+  opponent's framework inspected while one's own belief-retention arrow
+  (belief survives one failed argument → therefore search for a
+  replacement reason) goes unexamined. **That transition also needs
+  inspection.**
+- **Jurisdiction Sorting** → consolidated into **Knowledge–Action
+  Threshold Audit**; the action threshold is never simply "lower" — it
+  scales with stakes/urgency/reversibility/harm; otherwise Practical
+  Threshold Shift becomes *an all-purpose permission slip for favored
+  commitments.*
+- **Foundation Reversal + Standard Symmetry** → one family:
+  **Evidential Symmetry Test**; the consciousness case supports only
+  *first-person experience is not evidentially worthless* — never
+  *every interpretation has equal warrant*; the E1–E4 split must become
+  operational.
+- **Actual-Cause Reassessment** → inside **Genesis–Warrant Separation**,
+  with both risks attached: *rationalization blindness* (post-hoc reason
+  treated as genuine) and *public-criticism escape* (every defeated
+  reason dismissed as "not the real reason," basis retreating into an
+  inaccessible interior). Central question: not "did this reason cause
+  the belief?" but "does it now provide genuine independent warrant?"
+- **Belief Rescue** → **Z-DIRECT SELF-OBSERVATION, HIGH-VALUE PROFILE
+  SEED, RECURRENCE UNCONFIRMED** — not yet a stable operator from one
+  admission; the family (Belief-Repair / Immunization Audit) lacks a
+  stopping rule: *how many central failures, and what kind, force
+  suspension or abandonment?* Without it, "rescue" describes both
+  intellectual resilience and motivated reasoning.
+- **Action-Generated Evidence** → substantive epistemological
+  hypothesis, IDEA TRAIL not operator; the three theses (descriptive /
+  normative / generative) must not slide; limit: *action-generated
+  evidence justifies trying a reversible practice more easily than
+  risking severe irreversible harm.*
+- **Retrospective Trace Construction** → theory hypothesis inside
+  Genesis–Warrant (the packet never demonstrates Ziggy's own reasons
+  are historically reconstructed); reasoning stays plural (seven jobs),
+  never reduced to retrospective storytelling.
+- **Scientific–normative handoff** → weakest branch; keep secondary or
+  split to a later auxiliary dig.
+
+**🔀 CONSOLIDATION — twelve moves → six families:** Epistemic-Status
+Layering · Evidential Symmetry and Scope Audit · Knowledge–Action
+Threshold Audit · Reason-Defeat / Belief-Revision Audit ·
+Genesis–Warrant Separation · Belief-Repair / Immunization Audit.
+
+**Relationship-loop judgments:** *compression → expansion →
+self-application* strongly supported — **the final self-exposure
+interrupts a purely adversarial profile** (engine-loop kin, 9th
+same-shaped signal, same-extractor caveat) · *adversary reconstruction*
+strong and dangerous (Ziggy wonders whether Grant does X → Nova
+constructs Grant-X → Grant-X becomes target) — no Grant finding
+promotes · *justification challenge → belief preservation* — both
+versions permanently attached (productive: local correction without
+collapse; pathological: indefinite replacement without vulnerability) ·
+**self-exposure → symmetry restoration** — one of the packet's
+strongest interaction findings: the admission makes motivated reasoning
+directly investigable rather than projected onto Grant.
+
+**Stage-3 omissions to test:** 15 against Ziggy (incl. equal charity to
+opposing beliefs; what forces abandonment rather than repair; does
+confidence move during the search; were defeated reasons previously
+presented as central; would hidden experiential grounds be admitted for
+an opponent; does "not disproven" become "still rationally entitled") ·
+12 against Nova (incl. treating the unavailable conversation as
+partially remembered evidence; attributing the dismissal to Grant;
+binary belief language; missing rebutting/undercutting split; missing
+stopping rule; inaccessible "real reasons" as protection).
+
+**Expected survival (registered forecast, scored at Stage-3 return):**
+survives strongly — Reason-Defeat/Belief-Revision (with defeater split),
+Epistemic-Status Layering (with doxastic gap closed), Evidential
+Symmetry Test (bounded conclusion only), Genesis–Warrant Separation
+(both risks live), Knowledge–Action Threshold (scaling rule required);
+seed-level — Belief Rescue (recurrence unconfirmed); Idea Trail —
+Action-Generated Evidence, Retrospective Trace Construction; secondary —
+scientific–normative handoff; **Grant operators: none promote.**
+
+**Provisional Ziggy seeds (6, confidence graded):** status-layer
+separation (HIGH); reason-defeat restraint (HIGH); centrality-sensitive
+revision (HIGH); knowledge/action distinction (MOD-HIGH);
+subjective-evidence preservation (MODERATE — target and scope
+uncertain); introspective rescue detection (HIGH as self-observation;
+recurrence unestablished).
+
+**Grant disposition:** NO G-DIRECT · NO PROMOTION; quarantined:
+belief/justification collapse, subjective-evidence rejection,
+knowledge-standard overextension, justification-compels-belief,
+every-defeat-forces-abandonment, **Grant as belief-rescuer or
+justification-retreater** (the mirror attribution).
+
+**Trails at close (now 5):** field desk adds IT-050 → registry assigns
+**IT-049 Defeaters, Evidential Centrality, and Cumulative Belief
+Damage** alongside IT-045…048 (off-by-one noted).
+
+**Restrictions (updated):** no Grant promotion · no reconstructed prior
+conversation as direct evidence · no belief/justification
+total-independence claim · no subjective-occurrence→external-
+interpretation inference · no failed-reason→false-proposition inference
+· no belief-survival→rational-entitlement inference · no
+action-before-certainty→low-evidence permission · **no hidden-cause→
+public-criticism immunity** · no replacement-reason→legitimate-repair
+assumption · no binary update where confidence scaling is available.
+
+**Central Stage-3 prey (registered):** *when Ziggy "rescues" a belief
+after its stated reasons fail, does he reopen the belief to
+total-evidence revision — or does he preserve the conclusion first and
+recruit reasons afterward, making justification a rotating defense
+system rather than a genuine source of constraint?*
+
+**NEXT ACTION:** send Stage 3 (below) as its own message.
 
 ---
 
@@ -2173,7 +2327,1185 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+1. Confirmed Informative Omissions (A3/A2)
+
+### Omission 1: Grant’s framework was not reconstructed before being scored
+
+**Missing move**
+Reconstruct Grant’s actual framework, including his distinctions among belief, justification, knowledge, confidence, and action, before evaluating whether he collapses them.
+
+**Why relevant**
+The conversation repeatedly evaluates a possible Grant position despite having no G-DIRECT material.
+
+**Source anchor**
+
+* Ziggy: “is this what Grant is doing… collapsing justification and belief into just justification?”
+* Nova: “Grant often seems…”
+* Stage 1 source audit: no G-DIRECT evidence appears.
+
+**Availability tier**
+A3 — Demonstrated Available
+
+**Basis for availability**
+Nova repeatedly performs charitable and structured reconstructions of philosophers, hypothetical positions, and Ziggy’s intuitions elsewhere in the same conversation.
+
+**Omission classification**
+CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It allowed the discussion to proceed from a diagnostic possibility to a recurring characterization of Grant without first establishing that his framework actually licenses the alleged transitions.
+
+**Stable or situational?**
+Situational. Grant was absent, and the bounded thread contained no direct statement from him. The omission may reflect missing evidence rather than unwillingness to reconstruct.
+
+---
+
+### Omission 2: Ziggy’s own belief-rescue process was not subjected to the same burden imposed on Grant
+
+**Missing move**
+Apply the same bridge inspection and justification burden to Ziggy’s admission that he would preserve a belief and seek new reasons.
+
+**Why relevant**
+The thread challenges Grant for potentially assuming that justification governs belief, but it does not equally ask what licenses Ziggy’s preservation of belief after its stated reasons weaken.
+
+**Source anchor**
+
+* Ziggy: “my first reaction… would be to rescue the belief with new updated reasoning.”
+* Nova: “That’s not automatically irrational.”
+* Earlier Nova: “Where exactly does each arrow come from?”
+
+**Availability tier**
+A3 — Demonstrated Available
+
+**Basis for availability**
+Inferential Bridge Inspection and Standard Symmetry Check were repeatedly used elsewhere.
+
+**Omission classification**
+CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The rescue process received a warning about unfalsifiability, but no direct demand to identify what independent warrant remained after the original reasons failed.
+
+**Stable or situational?**
+Situational but consequential. Ziggy had just made a candid self-observation, and Nova adopted an interpretive rather than adversarial role.
+
+---
+
+### Omission 3: No stopping condition was specified for belief rescue
+
+**Missing move**
+State what cumulative evidence, failed reasons, or predictive failures would require abandoning rather than revising the belief.
+
+**Why relevant**
+The conversation explicitly identifies endless rescue as the main danger.
+
+**Source anchor**
+
+* Ziggy: “rescue the belief with new updated reasoning.”
+* Nova: “The obvious danger is: Belief becomes unfalsifiable.”
+* Stage 2: “No stopping condition is established.”
+
+**Availability tier**
+A3 — Demonstrated Available
+
+**Basis for availability**
+The actors repeatedly use consequence limitation, load-bearing tests, and practical thresholds; these tools could have been used to formulate a termination threshold.
+
+**Omission classification**
+CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The central distinction between rational repair and pathological immunization remains unresolved.
+
+**Stable or situational?**
+Likely situational. The thread ended immediately after the issue became explicit.
+
+---
+
+### Omission 4: The distinction between causes of belief and justifying reasons was introduced but not fully enforced
+
+**Missing move**
+Explicitly prevent psychological causes of belief from functioning as epistemic justification unless an additional argument connects them.
+
+**Why relevant**
+The conversation moves from failed articulated arguments to experience, identity, values, temperament, and community as possible real foundations.
+
+**Source anchor**
+
+* Nova: “Maybe the real foundation was personal experience, existential need, mystical encounter, community, tradition.”
+* Nova: “The person simply misreported their own reasons.”
+
+**Availability tier**
+A3 — Demonstrated Available
+
+**Basis for availability**
+Component Separation was one of the dominant moves in the conversation.
+
+**Omission classification**
+CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The psychological explanation for why a belief persists risks being treated as though it also supplies epistemic warrant.
+
+**Stable or situational?**
+Situational. The distinction was implied but not carried through.
+
+---
+
+### Omission 5: The thread did not clearly distinguish reduced confidence from total belief abandonment
+
+**Missing move**
+Represent belief revision as graded rather than binary.
+
+**Why relevant**
+Ziggy asks whether failed reasons should lead someone to “update” the belief, while much of the discussion contrasts preserving versus abandoning it.
+
+**Source anchor**
+
+* Ziggy: “therefore you should update your belief.”
+* Nova: “The belief is now under-supported.”
+* Nova: “You may have only succeeded in creating uncertainty.”
+
+**Availability tier**
+A3 — Demonstrated Available
+
+**Basis for availability**
+Nova explicitly discusses weakening, under-support, and uncertainty, demonstrating access to a graded model.
+
+**Omission classification**
+CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Moderately. The thread sometimes speaks as though the alternatives are belief preservation or belief rejection, although confidence reduction is the more direct response to weakened support.
+
+**Stable or situational?**
+Situational. Graded revision appears intermittently but is not integrated into the final belief-rescue model.
+
+---
+
+### Omission 6: The subjective-experience argument was not tested under reversed roles
+
+**Missing move**
+Ask whether Ziggy would accept another person’s private experience as significant evidence for a conclusion Ziggy finds implausible.
+
+**Why relevant**
+The thread defends subjective experience against wholesale dismissal and demands symmetrical evidential treatment.
+
+**Source anchor**
+
+* Ziggy: “self experience is used to justify someone is conscious.”
+* Nova: “You don’t get to use subjective experience to justify consciousness and then suddenly declare subjective experience invalid…”
+
+**Availability tier**
+A3 — Demonstrated Available
+
+**Basis for availability**
+Standard Symmetry Check was explicitly used against the imagined opposing framework.
+
+**Omission classification**
+CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The argument establishes that subjective experience cannot be assigned zero evidential value, but it does not determine how much weight adverse or incompatible private experiences should receive.
+
+**Stable or situational?**
+Situational. The discussion focused on admissibility rather than comparative weighting.
+
+---
+
+### Omission 7: A limited concession to the justificatory examiner was not fully developed
+
+**Missing move**
+Concede that public argument reasonably evaluates publicly offered reasons, even when those reasons did not causally generate the belief.
+
+**Why relevant**
+The conversation emphasizes that defeating reasons does not defeat the proposition, but the offered reasons still matter if they were presented as grounds.
+
+**Source anchor**
+
+* Ziggy: “it would be potentially misinformed depending how heavy it was using the reasoning.”
+* Nova: “Showing my reasons are insufficient may give me reason to revisit my belief.”
+
+**Availability tier**
+A3 — Demonstrated Available
+
+**Basis for availability**
+Ziggy himself supplies the concession that the belief may be misinformed or weakened.
+
+**Omission classification**
+CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Somewhat. The thread gives greater attention to limiting the critic’s conclusion than to defining the believer’s responsibility after presenting a reason that fails.
+
+**Stable or situational?**
+Situational. The concession appears, but it is not developed into a reciprocal norm.
+
+2. Possible Informative Omissions (A1)
+
+### Omission 1: No distinction between propositional and doxastic justification
+
+**Missing move**
+Distinguish:
+
+* whether evidence supports proposition P;
+* whether the person’s actual believing P is based appropriately on that evidence.
+
+**Why relevant**
+The conversation repeatedly separates belief and justification but does not distinguish evidence available to a person from the basis on which the person actually believes.
+
+**Source anchor**
+
+* Nova: “Justification is the evidential support. Belief is the psychological commitment.”
+* Discussion of a person understanding evidence without believing and believing without adequate justification.
+
+**Availability tier**
+A1 — Contextually Available
+
+**Omission classification**
+POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It leaves unresolved whether a belief can count as rational when good evidence exists but did not cause or sustain the belief.
+
+**Stable or situational?**
+Likely situational. The conversation uses a broad, nontechnical vocabulary.
+
+---
+
+### Omission 2: No explicit distinction between “unknown support” and “no support”
+
+**Missing move**
+Clarify that failure to articulate reasons may indicate:
+
+* no support;
+* inaccessible support;
+* forgotten support;
+* tacit competence;
+* mere conviction.
+
+**Why relevant**
+The child and spouse examples suggest people may have grounds they cannot articulate.
+
+**Source anchor**
+Nova: “having reasons, knowing your reasons, being able to express your reasons… are different things.”
+
+**Availability tier**
+A1 — Contextually Available
+
+**Omission classification**
+POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Moderately. The thread correctly resists equating failed articulation with falsity, but does not provide a method for discriminating tacit warrant from unsupported confidence.
+
+**Stable or situational?**
+Situational.
+
+---
+
+### Omission 3: No explicit test of whether the belief has independent evidence
+
+**Missing move**
+After a reason fails, ask what evidence remains that does not depend upon the defeated argument.
+
+**Why relevant**
+The load-bearing test identifies central versus peripheral reasons but relies heavily on the believer’s retrospective account.
+
+**Source anchor**
+
+* Nova: “Maybe that strand wasn’t carrying the weight.”
+* Stage 2 failure mode: defeated reasons may be reclassified as non-central after failure.
+
+**Availability tier**
+A1 — Contextually Available
+
+**Omission classification**
+POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Without independent corroboration, belief rescue can become ad hoc.
+
+**Stable or situational?**
+Situational.
+
+---
+
+### Omission 4: No examination of identity-protective cognition
+
+**Missing move**
+Ask whether the belief is being preserved because revising it would threaten identity, relationships, status, or existential stability.
+
+**Why relevant**
+The thread names community, tradition, values, and existential need as deeper causes of belief.
+
+**Source anchor**
+Nova’s list of possible real foundations after explicit arguments fail.
+
+**Availability tier**
+A1 — Contextually Available
+
+**Omission classification**
+POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Possibly. It may have obscured why certain beliefs are more aggressively rescued than ordinary factual beliefs.
+
+**Stable or situational?**
+UNKNOWN.
+
+---
+
+### Omission 5: No comparison between rescuing a belief and rescuing its negation
+
+**Missing move**
+Reverse the case and ask whether the same tolerance for replacement reasoning would be granted to an opponent preserving the opposite belief.
+
+**Why relevant**
+The thread repeatedly invokes symmetry but does not apply it to the rescue cycle.
+
+**Source anchor**
+
+* Ziggy: “rescue the belief with new updated reasoning.”
+* Nova: “Most people only notice this process in their opponents.”
+
+**Availability tier**
+A1 — Contextually Available
+
+**Omission classification**
+POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The rescue instinct remains understandable from the first-person perspective but insufficiently tested as a general epistemic norm.
+
+**Stable or situational?**
+Situational.
+
+---
+
+### Omission 6: No distinction between preserving a proposition and preserving certainty
+
+**Missing move**
+Allow the person to continue regarding the belief as plausible while relinquishing certainty or strong confidence.
+
+**Why relevant**
+The thread sometimes treats retaining the belief as though its prior strength remains unchanged.
+
+**Source anchor**
+
+* Nova: “You may have only succeeded in creating uncertainty.”
+* Later house and web metaphors preserve the belief while repairing reasons.
+
+**Availability tier**
+A1 — Contextually Available
+
+**Omission classification**
+POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Moderately. It makes belief rescue look more binary and potentially more defensive than a probabilistic update model would.
+
+**Stable or situational?**
+Situational.
+
+---
+
+### Omission 7: No functional analysis of justification demands in the relationship
+
+**Missing move**
+Ask what function Grant’s requests for justification serve:
+
+* truth-seeking;
+* burden control;
+* conversational dominance;
+* precision;
+* distrust;
+* decision coordination.
+
+**Why relevant**
+The conversation interprets Grant mainly through conceptual content rather than relational function.
+
+**Source anchor**
+Ziggy repeatedly asks what to say to “flush this out and bring awareness.”
+
+**Availability tier**
+A1 — Contextually Available
+
+**Omission classification**
+POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Possibly. A demand for justification may be epistemically legitimate while functioning interpersonally as control, or vice versa.
+
+**Stable or situational?**
+UNKNOWN.
+
+---
+
+### Omission 8: No direct challenge to the claim that reasoning “matters little”
+
+**Missing move**
+Test whether the reasoning could matter greatly even when it did not originally cause the belief—for calibration, communication, error correction, prediction, or coordination.
+
+**Why relevant**
+Ziggy proposes that reasoning may chiefly allow people to trace their steps.
+
+**Source anchor**
+Ziggy: “reasoning matters little… we just like / need it to be able to trace our step.”
+
+**Availability tier**
+A1 — Contextually Available
+
+**Omission classification**
+POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Nova largely validates the psychological insight and does not strongly contest the phrase “matters little.”
+
+**Stable or situational?**
+Situational. The statement was tentative and made at the end.
+
+3. Non-Informative Omissions (A0)
+
+### Omission 1: No direct examination of Grant’s own words
+
+**Missing move**
+Quote and analyze Grant directly.
+
+**Why relevant**
+The thread repeatedly characterizes his framework.
+
+**Source anchor**
+All Grant references are G-REPORTED or NOVA-INTERPRETATION.
+
+**Availability tier**
+A0 — Unknown
+
+**Omission classification**
+NON-INFORMATIVE
+
+**Did the absence change the outcome?**
+Yes, but no conclusion about the actors’ willingness or ability to use the move is warranted because no Grant text was available.
+
+**Stable or situational?**
+Situational by source limitation.
+
+---
+
+### Omission 2: No empirical evidence concerning how beliefs are formed
+
+**Missing move**
+Introduce research distinguishing intuitive, emotional, inferential, and socially acquired belief formation.
+
+**Why relevant**
+The thread makes broad claims about humans rationalizing beliefs after the fact.
+
+**Source anchor**
+Nova: humans are “far less like creatures that derive beliefs from reasons” than creatures that renegotiate reasons around commitments.
+
+**Availability tier**
+A0 — Unknown
+
+**Omission classification**
+NON-INFORMATIVE
+
+**Did the absence change the outcome?**
+It left the psychological generalization unsupported inside the bounded thread.
+
+**Stable or situational?**
+UNKNOWN.
+
+---
+
+### Omission 3: No formal Bayesian or probabilistic model
+
+**Missing move**
+Represent reasons as evidence that changes confidence rather than as binary support or defeat.
+
+**Why relevant**
+The thread repeatedly discusses how “heavy” a reason is and how confidence should update.
+
+**Source anchor**
+Ziggy: “depending how heavy it was using the reasoning.”
+
+**Availability tier**
+A0 — Unknown
+
+**Omission classification**
+NON-INFORMATIVE
+
+**Did the absence change the outcome?**
+It contributed to binary language, but there is insufficient basis to infer that a formal model was available to either actor in this exchange.
+
+**Stable or situational?**
+UNKNOWN.
+
+---
+
+### Omission 4: No investigation of involuntary belief
+
+**Missing move**
+Ask whether people can choose beliefs directly or only influence them indirectly through attention, inquiry, and exposure.
+
+**Why relevant**
+The question “Why must I therefore adopt the belief?” assumes that adoption may be separable from evidential recognition.
+
+**Source anchor**
+Nova’s diagnostic question about why excellent justification must produce belief.
+
+**Availability tier**
+A0 — Unknown
+
+**Omission classification**
+NON-INFORMATIVE
+
+**Did the absence change the outcome?**
+Yes. The normative transition from justification to belief remains underdescribed.
+
+**Stable or situational?**
+UNKNOWN.
+
+---
+
+### Omission 5: No account of disagreement among epistemic peers
+
+**Missing move**
+Ask what rational disagreement means when two informed people understand the same evidence yet believe differently.
+
+**Why relevant**
+Nova uses Christians, atheists, materialists, and idealists as examples of persistent disagreement.
+
+**Source anchor**
+Nova’s symmetry question about intelligent people understanding the same arguments yet remaining unconvinced.
+
+**Availability tier**
+A0 — Unknown
+
+**Omission classification**
+NON-INFORMATIVE
+
+**Did the absence change the outcome?**
+It left the relation between understanding evidence and rationally responding to it unresolved.
+
+**Stable or situational?**
+UNKNOWN.
+
+4. Counterevidence Findings
+
+### Characterization 1: The thread separates belief from justification
+
+**Supporting evidence**
+
+* Nova explicitly distinguishes belief as acceptance and justification as support.
+* Ziggy repeatedly tests whether criticism of reasons reaches the belief itself.
+
+**Counterevidence search**
+Searched for moments where the thread treats belief and justification as fully independent. None found.
+
+Instead, Ziggy explicitly recognizes dependence:
+
+* a belief may become “misinformed” depending on how heavily it relied upon the reasons;
+* failed central reasons create pressure to update.
+
+**Finding**
+The separation is conceptual, not absolute. The thread does not support the stronger claim that justification is irrelevant to rational belief.
+
+---
+
+### Characterization 2: Grant collapses belief into justification
+
+**Supporting evidence**
+
+* Ziggy explicitly raises the hypothesis.
+* Nova repeatedly reconstructs Grant as prioritizing justification.
+
+**Counterevidence search**
+Searched for G-DIRECT statements, explicit definitions from Grant, concessions by Grant, or examples in which Grant preserves belief despite incomplete justification.
+
+None found.
+
+**Finding**
+No direct confirmation exists. The characterization remains a diagnostic hypothesis rather than an established result.
+
+---
+
+### Characterization 3: Ziggy resists unjustified epistemic overreach
+
+**Supporting evidence**
+
+* He distinguishes refuting reasons from refuting propositions.
+* He asks whether belief and justification are being collapsed.
+* He defends subjective experience against wholesale exclusion.
+
+**Counterevidence search**
+Searched for strong demands by Ziggy that his own claims survive severe evidential pruning.
+
+Partial counterevidence found:
+
+* Ziggy concedes that failed reasons may make a belief misinformed and should prompt updating.
+
+No explicit stopping condition or self-applied falsification test appears.
+
+**Finding**
+The characterization survives, but Ziggy’s resistance may combine legitimate scope control with defensive belief preservation.
+
+---
+
+### Characterization 4: Reasoning may be retrospective rather than generative
+
+**Supporting evidence**
+
+* Ziggy says reasoning may help people trace their steps.
+* He predicts that he would rescue a belief with new reasoning.
+* Nova distinguishes causes of belief from reasons offered.
+
+**Counterevidence search**
+Searched for cases where reasoning clearly caused Ziggy to adopt or abandon a belief.
+
+None found in the bounded thread.
+
+Searched for acknowledgement that reasoning can independently transform belief.
+
+Partial evidence found:
+
+* Ziggy says wrong reasons may require belief updating.
+* Nova repeatedly treats argument criticism as capable of weakening confidence.
+
+**Finding**
+The retrospective model survives as a plausible account of some beliefs, but the stronger claim that reasoning generally “matters little” is not supported.
+
+---
+
+### Characterization 5: Belief Rescue is a stable Ziggy move
+
+**Supporting evidence**
+
+* Ziggy explicitly calls rescue his “first reaction.”
+* The thread repeatedly limits what defeated reasons prove.
+
+**Counterevidence search**
+Searched for a case in which Ziggy rejects an attractive belief, abandons a belief after criticism, or demands evidential pruning against his own commitment.
+
+None found.
+
+Searched for evidence that the admission was humorous or hypothetical rather than a stable pattern.
+
+The “hahahaha” suggests self-aware levity, but not rejection of the claim.
+
+**Finding**
+The move remains plausible but is evidenced by one explicit self-report rather than repeated observed enactment.
+
+---
+
+### Characterization 6: Nova uses conceptual distinctions as a dominant method
+
+**Supporting evidence**
+
+* belief versus justification;
+* truth versus acceptance;
+* knowledge versus action;
+* causes versus reasons;
+* central versus peripheral support.
+
+**Counterevidence search**
+Searched for stretches where Nova refuses distinctions or compresses concepts instead.
+
+Partial counterevidence found:
+
+* Nova sometimes moves quickly from psychological causes to “foundations” without clearly separating causal explanation from epistemic support.
+* Nova sometimes refers broadly to “religion and philosophy” as supplying ends, potentially combining distinct functions.
+
+**Finding**
+The characterization strongly survives, though Nova does not apply separation with perfect consistency.
+
+---
+
+### Characterization 7: Nova’s role is largely clarificatory rather than adversarial
+
+**Supporting evidence**
+
+* Nova validates Ziggy’s insight.
+* Nova expands compressed intuitions.
+* Nova names dangers on both sides.
+
+**Counterevidence search**
+Searched for direct adversarial pressure applied to Ziggy.
+
+Limited evidence found:
+
+* Nova warns that rescue can become unfalsifiability.
+* Nova notes that most people identify the process only in opponents.
+
+No sustained cross-examination of Ziggy’s stopping condition or independent warrant occurs.
+
+**Finding**
+The clarificatory-role characterization survives strongly.
+
+---
+
+### Characterization 8: The thread protects action from knowledge-level standards
+
+**Supporting evidence**
+
+* Gettier is assigned to knowledge rather than action.
+* Action under uncertainty is repeatedly defended.
+* Different thresholds for knowledge and action are proposed.
+
+**Counterevidence search**
+Searched for examples in which high-stakes action is said to require stronger evidence.
+
+None found explicitly.
+
+Searched for acknowledgement that action thresholds vary by stakes.
+
+Only indirectly present through references to practical necessity and forced decisions.
+
+**Finding**
+The characterization survives, but the absence of stake-sensitive limits weakens its precision.
+
+---
+
+### Characterization 9: Subjective experience is defended as legitimate evidence
+
+**Supporting evidence**
+
+* Consciousness is treated as grounded in first-person awareness.
+* Wholesale exclusion is portrayed as self-undermining.
+* Personal experience is offered as a possible basis of belief.
+
+**Counterevidence search**
+Searched for explicit recognition that subjective experiences can conflict, mislead, or receive unequal weights.
+
+Limited evidence found:
+
+* Nova says subjective experience does not prove the interpretation attached to it.
+* Private evidence is described as “a special kind of evidence.”
+
+No method for resolving incompatible subjective reports appears.
+
+**Finding**
+The admissibility claim survives. Any stronger claim about reliability or metaphysical authority is unsupported.
+
+---
+
+### Characterization 10: The thread is symmetrical in identifying dangers
+
+**Supporting evidence**
+Nova identifies:
+
+* the danger of abandoning beliefs too quickly;
+* the danger of rescuing them forever.
+
+**Counterevidence search**
+Searched for equal operational pressure applied to both dangers.
+
+Counterevidence found:
+
+* premature abandonment is illustrated with scientific theory change and treated as obviously unreasonable;
+* endless rescue is warned against, but no concrete abandonment criterion is imposed.
+
+**Finding**
+The rhetoric is symmetrical, but the practical analysis favors preservation over relinquishment.
+
+---
+
+### Characterization 11: Religion is treated as normative scaffolding beyond science
+
+**Supporting evidence**
+Nova assigns science means-oriented and descriptive functions and religion/philosophy ends-oriented functions.
+
+**Counterevidence search**
+Searched for cases where science contributes to values, where religion supplies empirical claims, or where secular ethics supplies normative orientation.
+
+None developed.
+
+**Finding**
+The characterization survives as the thread’s working model, but the division is schematic and under-tested.
+
+---
+
+### Characterization 12: The conversation distinguishes truth from available justification
+
+**Supporting evidence**
+The thread repeatedly notes that a belief may be true despite bad reasons.
+
+**Counterevidence search**
+Searched for any place where truth is inferred directly from sincerity, experience, or persistence.
+
+None explicit.
+
+Potential pressure point:
+Nova’s scientific analogy suggests that a phenomenon can remain while theories change, but no independent access to the “territory” of the disputed belief is established.
+
+**Finding**
+The distinction survives. The analogy may overstate how independently the target belief is known.
+
+5. Alternative Readings
+
+### Characterization: Component Separation
+
+**Primary reading**
+A recurring cognitive operation that prevents category collapse.
+
+**Strongest alternative**
+Assistant-role exposition: Nova is simply teaching by defining terms.
+
+**Discriminating evidence**
+It recurs across multiple domains and reorganizes later questions, supporting operator status. However, most instances are Nova-generated, so role effect remains substantial.
+
+**Result**
+Both readings remain viable; operator status is strongest for Nova’s conversational method, not necessarily Ziggy’s independent cognition.
+
+---
+
+### Characterization: Inferential Bridge Inspection
+
+**Primary reading**
+A reusable evaluative move targeting hidden transitions.
+
+**Strongest alternative**
+Ordinary philosophical demand for a valid argument.
+
+**Discriminating evidence**
+The same arrow-inspection structure appears in justification → belief, belief → action, and failed reason → false proposition.
+
+**Result**
+Operator reading survives.
+
+---
+
+### Characterization: Jurisdiction Sorting
+
+**Primary reading**
+A regulatory move assigning standards to domains.
+
+**Strongest alternative**
+A substantive philosophical belief that epistemology, ethics, psychology, and science have distinct jurisdictions.
+
+**Discriminating evidence**
+The move is repeatedly deployed to resolve disputes, but no general criterion for domain boundaries is articulated.
+
+**Result**
+Mixed. It functions operationally while also expressing a substantive pluralist framework.
+
+---
+
+### Characterization: Foundation Reversal
+
+**Primary reading**
+A reusable move that applies a standard back to its user’s foundations.
+
+**Strongest alternative**
+A one-time phenomenological argument concerning consciousness.
+
+**Discriminating evidence**
+Only one clear instance appears in the bounded thread.
+
+**Result**
+Weakened as a recurring operator; survives as a consequential one-time move.
+
+---
+
+### Characterization: Consequence Limitation
+
+**Primary reading**
+A regulatory operator preventing argumentative overreach.
+
+**Strongest alternative**
+A defensive rhetorical tactic preserving favored beliefs after their reasons fail.
+
+**Discriminating evidence**
+The logical distinction is valid and repeatedly stated. However, its most salient use is defensive, and no equally strong self-directed revision rule follows.
+
+**Result**
+Both readings remain active. Productive logical function is established; defensive use is also evidenced.
+
+---
+
+### Characterization: Load-Bearing Reason Test
+
+**Primary reading**
+A proportional evidential assessment.
+
+**Strongest alternative**
+Retrospective reclassification designed to protect the belief.
+
+**Discriminating evidence**
+Ziggy explicitly says the result depends on how heavily the belief used the reasoning, which supports genuine evidential weighting. No independent test of “load-bearing” status appears.
+
+**Result**
+Operator survives, but its reliability is unresolved.
+
+---
+
+### Characterization: Actual-Cause Reassessment
+
+**Primary reading**
+An exploratory move distinguishing why one believes from what one says in argument.
+
+**Strongest alternative**
+Speculative psychologizing that relocates a belief whenever public reasons fail.
+
+**Discriminating evidence**
+The conversation provides hypothetical examples but no direct evidence of a participant misidentifying the actual cause of a belief.
+
+**Result**
+Weakened as an observed operator; survives as a theoretical possibility.
+
+---
+
+### Characterization: Belief Rescue
+
+**Primary reading**
+A transformative operation that replaces failed reasons while preserving the belief.
+
+**Strongest alternative**
+A humorous one-off self-description rather than a stable cognitive pattern.
+
+**Discriminating evidence**
+Ziggy calls it his “first reaction,” which supports dispositional status. No repeated case is observed.
+
+**Result**
+Moderately survives; confidence should remain below that assigned in Stage 2.
+
+---
+
+### Characterization: Action-Generated Evidence
+
+**Primary reading**
+An exploratory operation in which commitment produces otherwise unavailable evidence.
+
+**Strongest alternative**
+A substantive thesis associated with practical or existential epistemology.
+
+**Discriminating evidence**
+The thread discusses the sequence abstractly but does not enact it.
+
+**Result**
+Better classified as a substantive model than an observed cognitive operator.
+
+---
+
+### Characterization: Standard Symmetry Check
+
+**Primary reading**
+A reusable evaluation of whether evidential rules are applied consistently.
+
+**Strongest alternative**
+A rhetorical accusation of special pleading.
+
+**Discriminating evidence**
+The consciousness example presents a genuine structural comparison, but the relevant differences between kinds of subjective evidence are not fully examined.
+
+**Result**
+Operator survives, though some uses may be rhetorically overcompressed.
+
+---
+
+### Characterization: Practical Threshold Shift
+
+**Primary reading**
+A regulatory adjustment from knowledge standards to action standards.
+
+**Strongest alternative**
+A defensive lowering of epistemic standards when certainty is unavailable.
+
+**Discriminating evidence**
+The distinction between knowledge and action is conceptually legitimate. The thread does not specify stake-sensitive limits.
+
+**Result**
+Operator survives; abuse risk remains unresolved.
+
+---
+
+### Characterization: Retrospective Trace Construction
+
+**Primary reading**
+Reasoning reconstructs a narratable path after belief formation.
+
+**Strongest alternative**
+A broad philosophical assertion about reasoning rather than an observed operation.
+
+**Discriminating evidence**
+Ziggy directly describes reasoning’s function this way, but no actual reconstruction is tested against a known causal history.
+
+**Result**
+Weakened as an observed operator; survives as Ziggy’s explicit meta-belief.
+
+---
+
+### Characterization: Compression–Expansion Loop
+
+**Primary reading**
+A relationship-level loop in which Ziggy compresses and Nova formalizes.
+
+**Strongest alternative**
+A normal user–assistant interaction pattern produced by conversational roles.
+
+**Discriminating evidence**
+The pattern appears repeatedly and shapes the substance, but it is inseparable from role structure.
+
+**Result**
+Survives strongly as a relationship-level, role-induced loop.
+
+---
+
+### Characterization: Adversary Reconstruction Loop
+
+**Primary reading**
+The pair builds and analyzes a model of absent Grant.
+
+**Strongest alternative**
+Reasonable hypothetical analysis rather than distortion.
+
+**Discriminating evidence**
+Nova repeatedly marks some claims as “seems” or possibilities, but the model later becomes increasingly stable without direct confirmation.
+
+**Result**
+Survives strongly; whether it is unfair remains UNKNOWN.
+
+---
+
+### Characterization: Self-Exposure–Symmetry Restoration Loop
+
+**Primary reading**
+Ziggy identifies in himself the same kind of motivated process under discussion.
+
+**Strongest alternative**
+The admission serves as rhetorical inoculation: acknowledging bias reduces pressure to correct it.
+
+**Discriminating evidence**
+Ziggy candidly admits the rescue instinct. No later behavioral revision or stopping rule follows.
+
+**Result**
+The self-exposure is genuine; whether it restores practical symmetry remains unresolved.
+
+6. Characterizations That Survived
+
+### Strongly survived
+
+* Belief, justification, truth, knowledge, and action are repeatedly treated as distinguishable.
+* Defeating a stated reason does not logically prove the associated proposition false.
+* Defeating a central reason can rationally weaken confidence in the belief.
+* Nova’s dominant conversational method is distinction-making and conceptual expansion.
+* Ziggy repeatedly challenges the extension of justificatory standards beyond what they directly establish.
+* The conversation distinguishes knowledge thresholds from action thresholds.
+* Subjective experience is defended against being assigned zero evidential value.
+* The pair repeatedly inspect hidden transitions between justification, belief, and action.
+* The interaction follows a compression–expansion pattern.
+* Grant is analyzed through reconstruction rather than direct evidence.
+* The belief-rescue cycle is explicitly recognized as carrying both productive and pathological possibilities.
+* The main unresolved issue is the stopping condition separating repair from immunization.
+
+### Survived with qualification
+
+* Ziggy exhibits a belief-preservation tendency. This is supported by explicit self-report but not repeated behavioral observation.
+* Consequence Limitation is both a valid logical control and a possible defensive tactic.
+* Load-Bearing Reason Testing is legitimate in principle but vulnerable to retrospective reclassification.
+* Jurisdiction Sorting is a recurring method, though the domains may be more interdependent than the thread suggests.
+* Practical Threshold Shifting is legitimate, but no stake-sensitive threshold is supplied.
+* Nova offers partial symmetry by naming dangers on both sides, although the discussion operationally favors preservation.
+* Reasoning may sometimes reconstruct rather than generate belief, but the thread does not support the stronger universal claim that reasoning generally matters little.
+* Action may generate evidence unavailable beforehand, though this appears as a substantive model rather than an observed operator.
+
+7. Characterizations That Weakened
+
+### Grant collapses belief into justification
+
+Weakened substantially.
+
+The thread contains no G-DIRECT evidence. The claim remains a useful diagnostic hypothesis but cannot be treated as an established description of Grant.
+
+---
+
+### Belief Rescue as a repeatedly observed operator
+
+Weakened moderately.
+
+It is directly self-reported once and described as a likely first reaction, but no repeated enactment occurs inside the bounded source.
+
+---
+
+### Actual-Cause Reassessment as an observed move
+
+Weakened.
+
+The conversation offers hypothetical explanations for why beliefs persist after arguments fail, but no participant’s actual causal belief history is established.
+
+---
+
+### Foundation Reversal as a repeated operator
+
+Weakened.
+
+It is clearly present in the consciousness discussion but not recurrent enough to establish a stable individual pattern.
+
+---
+
+### Retrospective Trace Construction as demonstrated cognition
+
+Weakened.
+
+It is explicitly proposed as a theory of reasoning but not independently verified through a mismatch between actual and reported belief formation.
+
+---
+
+### Full offense/defense symmetry
+
+Weakened.
+
+The thread rhetorically recognizes risks on both sides, but its concrete procedures more strongly protect beliefs from premature defeat than compel abandonment after cumulative failure.
+
+---
+
+### Reasoning “matters little”
+
+Weakened substantially.
+
+The same conversation gives reasoning major roles in:
+
+* exposing invalid transitions;
+* distinguishing concepts;
+* calibrating confidence;
+* identifying central support;
+* communicating beliefs;
+* revising explanations;
+* preventing overclaiming.
+
+The narrower claim that reasoning may not be the original cause of many beliefs remains viable.
+
+---
+
+### Subjective evidence as strongly justificatory
+
+Weakened to a narrower claim.
+
+The thread supports admissibility and nonzero evidential status. It does not establish equal reliability, sufficient justification, or authority over competing public and private evidence.
+
+---
+
+### Religion and science as cleanly separated jurisdictions
+
+Weakened.
+
+The thread uses the distinction productively, but provides no account of overlap, reciprocal correction, or cases where religious claims become empirical and scientific facts influence normative judgment.
+
+---
+
+### The defeated-reason model as complete
+
+Weakened.
+
+The model distinguishes local argumentative failure from proposition falsity, but omits:
+
+* probabilistic confidence revision;
+* independent residual evidence;
+* doxastic versus propositional justification;
+* a stopping condition;
+* role-reversed rescue tests.
+
 
 ---
 
