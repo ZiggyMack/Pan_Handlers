@@ -24,7 +24,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ⚠️ conditional pass (repair overlay binding) · Stages 2–3 ✅ PASSED review; Stage 4 authorized; 5 families + tools confirmed; **6 trails ordered at close (IT-032…037)**; largest availability-tier audit yet (10 omissions; Omission 2 = the archive's first A2 against the favored theory)
+**Status:** ✅ COMPLETE — all 4 stages passed field-desk review (Stage 1 conditionally, under the binding G-ANTICIPATED overlay). **No promotions executed — plow-through rule holds (6th consecutive sweep).** 4 durable families + 2 research frameworks; 5 pruned profile-ready Ziggy claims; the positive comparison rule synthesized; trails IT-032…038 opened; Grant: G-REPORTED/G-ANTICIPATED NON-SITE
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep: Shannon entropy vs semantic value; myth as cultural compression (encoding/decoding conditions); narrative vs explicit instruction ("story vs cookbook"); physical realization vs explanatory level (materialism branch); religion as transmission of experiential patterns; prediction as useful mechanism rather than sovereign value — direct sequel to AUX_06's compression dig and SW05's masters branch
@@ -5066,6 +5066,149 @@ Related discussions may exist under conversations concerning Grant, methodologic
 
 A related discussion may exist concerning religion as technology or secular replacement narratives, approximately June 20. Not evidence for this packet.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 + FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: SUCCESSFUL COMPLETED COMPOUND DIG — but Stage 4 still
+overpromotes generic clarification techniques, technical repairs, and
+substantive hypotheses into Museum operators. Real yield: four durable
+Ziggy reasoning families, two research frameworks, one unresolved theory
+hypothesis.**
+
+```text
+Status: COMPLETE
+Primary value: Ziggy reasoning architecture
+Secondary value: Nova–Ziggy technical-metaphor correction loop
+Grant profile value: NONE
+Museum promotion: SELECTIVE
+Idea-trail value: HIGH
+```
+
+**⚠️ MAJOR MAPPING CORRECTIONS (Detector–Pathology Polarity Reversal
+now at 5 consecutive sweeps — plus a generic-move inflation pattern):**
+
+- **Category Separation** → general toolkit behavior, never a standalone
+  operator; the distinctive content is the *specific* separations (truth
+  ≠ truth-seeking; realization ≠ sufficiency; surprise ≠ significance;
+  local ≠ global; exact ≠ distributional).
+- **Sovereignty Challenge** → NOT primarily Symmetry Testing; it is the
+  existing **Monopoly-Promotion Audit** (2nd sweep-level instance), with
+  the four-way symmetry rule permanently attached.
+- **Purpose Regress** → NOT wholly new: strengthens **Master-Value
+  Extraction** + **Instrument–Telos Separation**; renamed
+  **Foundation-to-Telos Audit**; terminal possibilities include
+  instrumental / intrinsic / constitutive / co-emergent / brute /
+  circular — diagnostic, never automatically reductive.
+- **Local-to-Global Boundary Test** → Possibility Preservation mapping
+  REJECTED; belongs to **Scope-to-Jurisdiction Audit** (2nd instance);
+  permits genuine model superiority and practical commitment.
+- **Substrate–Explanation Split** → corrective response, polarity made
+  unmistakable (NOT a UEJ extension); supports explanatory pluralism,
+  not substance dualism; emergence/reducibility/autonomy stay open.
+- **Surface–Depth Decomposition** → NOT UEJ or Unmeasured-to-Zero (no
+  actor scored semantic value at zero); the central rule doubles:
+  *unmeasured ≠ zero AND unmeasured ≠ secretly enormous.*
+- **Prediction-Scale Shift** → technical sub-technique; MYTHIC
+  APPLICATION QUARANTINED (no state space, baseline, prospective
+  forecast, scoring rule, or threshold).
+- **Carrier–Payload** → renamed **Token–Role Invariance Test**
+  ("carrier–payload" smuggles a container model stronger than the
+  evidence); supports multiple realization + token conventionality only;
+  provisional technique seed.
+- **Encoding Fitness Comparison** → NOT Cross-Disciplinary Swooping; the
+  mature classification is **Narrative-Transmission Fit Audit** — a
+  legitimate research framework establishing no superiority claim.
+- **Countermodel Admission** → NOVA ADVERSARIAL-BALANCING PROTOCOL
+  (role-induced, inconsistent, often following premature validation) —
+  not Museum promotion, not Possibility Preservation.
+- **Analogy Transfer** → generic analogy ≠ Cross-Disciplinary Swooping;
+  the threshold: distant structure imported + relations preserved +
+  dispute reorganized + disanalogies audited. Safe finding only: *Ziggy
+  uses cross-domain analogy exploratorily and lets it generate further
+  tests.*
+- **Terminological Recalibration** → repair process, not operator; the
+  real finding is the relationship-level failure mode: *Nova sometimes
+  grants a metaphor technical legitimacy before later correcting it*
+  (source-quality information).
+- **Observer-Model Recovery** → Reconstruction Bypass mapping REJECTED;
+  reclassified **Decoder-Condition Specification** inside the
+  narrative-cognition Idea Trail. Unsafe conclusion blocked: "Shannon
+  information is fundamentally a theory of subjective meaning."
+- **Decoder Installation Hypothesis** → NOT an operator candidate at
+  all: a substantive theory hypothesis; Idea Trail only.
+
+**Consolidation: 14 moves → 4 durable reasoning families:**
+**Monopoly-Promotion and Telos Audit** · **Shannon–Semantic Layer
+Audit** · **Substrate–Explanatory-Level Audit** ·
+**Narrative-Transmission Fit Audit** — plus two research frameworks
+outside the registry (Decoder-Oriented Narrative Model; Mythic
+Distributional Prediction, both with validation debt).
+
+**Serious profile-ready Ziggy claims (pruned 9 → 5, all provisional):**
+monopoly-promotion auditing (HIGH; same burden owed to narrative and
+myth) · meaning–metric separation (HIGH; no positive-magnitude
+inference) · **scope-controlled fallibilism** (HIGH; fallibilism must
+not become permanent non-pruning) · reduction–sufficiency auditing
+(HIGH; establishes no nonphysical ontology) · narrative-transmission
+comparison (MODERATE-HIGH; no superiority claim without equalized
+comparison + harmful-content analysis). Downgraded: Category Separation
+(duplicative), Carrier–Payload (one sequence), Cross-Disciplinary
+Swooping (needs case-by-case proof), Purpose Regress (may reflect a
+substantive teleological preference — kept as seed).
+
+**Relationship findings:** *intuition → formalization → pressure* loop
+strongly retained as a **dyadic protocol** with the standing
+qualification: *some cycles are genuine deepening; others repair Nova's
+premature agreement.* The validation→overreach→correction failure mode
+files with the accommodation-correction loop family.
+
+**Grant disposition:** `G-REPORTED / G-ANTICIPATED NON-SITE` — no
+G-DIRECT, no promotion; especially quarantined: Prediction Sovereignty,
+explanatory reductionism, eliminativism, physical-domain imperialism,
+rejection of narrative explanation, Reconstruction Bypass.
+
+**🏛️ THE POSITIVE COMPARISON RULE (the answer to Stage 3's decisive
+question — a synthesis produced by the extraction, NOT stated in the
+original thread):** *explanatory authority should be allocated by
+claim-sensitive comparative performance rather than inherited prestige
+or universal promotion.* Working procedure: identify the precise
+question → identify the relevant explanatory level → state what each
+model predicts/clarifies/enables → compare against appropriate rivals
+and baselines → price compression loss and failure modes → distinguish
+transmission success from truth or goodness → grant authority only
+within demonstrated jurisdiction → reopen comparison when the question
+changes.
+
+**Trails at close (7):** field desk retains IT-033…038 and adds IT-039
+(Formal Authority Leakage in Technical Metaphor) → registry assigns
+**IT-032…038** (off-by-one noted; field-desk ids in trail headers).
+
+**FINAL QC (key rulings):** cultural transmission fitness does not
+establish truth, wisdom, or moral quality · physical realization does
+not establish explanatory sufficiency, but explanatory plurality does
+not establish nonphysical ontology · no Grant operator promotes.
+
+**Deepest yield of the sweep:**
+
+> *The conversation successfully prevents prediction, matter, and
+> Shannon information from claiming universal sovereignty — but rigor
+> demands the same treatment of myth and narrative. **A story's
+> longevity proves that something transmitted successfully; it does not
+> yet tell us whether what survived was truth, wisdom, identity,
+> propaganda, or merely a pattern exceptionally fit to reproduce.***
+
+**Close-out orders (filing clerk):** trails IT-032…038 opened; lexicon
+paragraph + promotion-log row (**sixth consecutive zero-promotion
+sweep**); Ziggy recursive ledgers (Monopoly-Promotion Audit 2nd
+instance; Scope-to-Jurisdiction 2nd; Master-Value Extraction +
+Instrument–Telos reinforced; 5 pruned profile claims); relationship
+ledger (engine loop 7th occurrence; validation→overreach→correction to
+the accommodation-correction family); board, INDEX, timeline entries;
+memory updated.
 
 ---
 

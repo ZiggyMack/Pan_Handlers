@@ -371,6 +371,41 @@ proportional to reliability / claim-type fit / correction / comparative
 performance. **The balance point (permanent):** scientific authority
 without sovereignty; spiritual evidence without immunity.
 
+From COMPOUND_SWEEP_07 (**four durable families — registration deferred per
+plow-through, 6th consecutive; Stage 1 passed conditionally under the
+G-ANTICIPATED overlay**): **Monopoly-Promotion and Telos Audit** (2nd
+sweep-level instance — SW05, SW07; four-way symmetry rule permanently
+attached: *prediction works ≠ sovereign; narrative works ≠ sovereign; myth
+survives ≠ preserves wisdom; informational explanation helps ≠ physical
+explanation irrelevant*; absorbs Foundation-to-Telos Audit, which
+strengthens Master-Value Extraction + Instrument–Telos rather than
+registering new) · **Shannon–Semantic Layer Audit** (five dimensions;
+double rule: *unmeasured ≠ zero AND ≠ secretly enormous*; "semantic
+entropy"/"wisdom-per-bit" vocabulary quarantined) ·
+**Substrate–Explanatory-Level Audit** (realization ≠ sufficiency ≠
+nonphysical ontology; Token–Role Invariance sub-technique — "carrier–
+payload" rejected as container-model smuggling) ·
+**Narrative-Transmission Fit Audit** (research framework; no superiority
+claim without equalized comparison + harmful-transmission audit). Two
+research frameworks held OUTSIDE the registry: Decoder-Oriented Narrative
+Model (theory hypothesis; blocked by the archive's **first A2 against a
+favored theory**) · Mythic Distributional Prediction (P1–P4 split;
+analogical until operational scoring exists). Nova role/protocol:
+Countermodel Admission (adversarial balancing, not Possibility
+Preservation) · Terminological Recalibration (repair process — the real
+finding is **formal-authority residue**, named source-quality hazard).
+Rejected mappings (polarity reversal, 5th consecutive sweep): Sovereignty
+Challenge ≠ Symmetry Testing primary; Local-to-Global ≠ Possibility
+Preservation; Substrate Split ≠ UEJ extension; Surface–Depth ≠
+Unmeasured-to-Zero (nobody scored meaning at zero); Observer-Model
+Recovery ≠ Reconstruction Bypass (→ Decoder-Condition Specification);
+generic analogy ≠ Cross-Disciplinary Swooping (threshold: structure
+imported + relations preserved + dispute reorganized + disanalogies
+audited). **The positive comparison rule** (extraction-produced synthesis,
+not in-source): *explanatory authority allocated by claim-sensitive
+comparative performance, never inherited prestige* — 8-step procedure
+filed in the workbook's Stage-4 block.
+
 From DIG_AUX_06 (**micro-dig — zero promotions; Nova thread-level only**):
 three Nova reasoning sequences held at thread level — **Encoding–Recovery
 Reframing** (encoded ≠ recovered; recipient conditions inserted; variance
@@ -445,4 +480,5 @@ therefore carries a Museum ID.
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_04) | **Third consecutive zero-promotion sweep.** Three serious candidates queued (Master-Value Extraction, HIGH; Instrument–Telos Separation, 3rd reinforcement; Reflexive Audit with Operational Closure, shared protocol). Rejected/corrected mappings: Regress Descent ≠ OP-008 (audit vs symmetry-across-audits); jurisdiction-check polarity re-fixed (corrective test, not CO-002); belief persistence ≠ Possibility Preservation; adversarial relay ≠ CO-006 extension (simulation ≠ reconstruction of Grant); pre-propositional descent ≠ CO-003 (no gate evidenced); external-model phrasings attributed by adoption sequence. Grant: experience-report ceiling only | Field-desk Stage-4 handoff, COMPOUND_SWEEP_04 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_05) | **Fourth consecutive zero-promotion sweep.** Three HIGH candidates queued (Monopoly-Promotion Audit — the packet's strongest; Claimed-Source/Claimed-Access Separation; Operative-Rigidity Test). 22 blind moves consolidated into 5 families; **Detector–Pathology Polarity Reversal recorded as candidate Failure-Atlas seed (3rd sweep running)** — five corrective audits blind-mapped to the pathologies they detect, all corrected; Adverse-Odds Commitment Test quarantined (marriage example = individualized prediction, not override); Curtain Question = shortcut inside Master-Value Extraction, not validated detector; Symmetric-Wielding → procedural ledger. Grant: REPORTED-ONLY NON-SITE — which of five prediction theses he holds is undeterminable | Field-desk Stage-4 handoff, COMPOUND_SWEEP_05 |
 | 2026-07-17 | (micro-dig close, DIG_AUX_06) | **Zero promotions — micro-dig ceiling enforced.** Ziggy NONE, Grant NONE (exchange-level argument forms only), Nova thread-level (3 sequences: Encoding–Recovery Reframing; Symbolic-Function Reconstruction; Projection-Constraint Escalation). Stage-4 overpromotion corrected: ordinary hypothesis evaluation and single-response substeps are not operators. **Falsifiability Debt of the Compression Model** = theory-level finding. Deepest yield: claim-strength ladder (possible ≠ reliable ≠ important ≠ principal); "a theory that explains every reading as decompression risks explaining no reading at all" | Field-desk Stage-4 handoff, DIG_AUX_06 |
+| 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_07) | **Sixth consecutive zero-promotion sweep.** Four durable families (Monopoly-Promotion/Telos 2nd instance; Shannon–Semantic Layer; Substrate–Explanatory-Level; Narrative-Transmission Fit) + 2 research frameworks quarantined outside the registry (Decoder Installation — blocked by the archive's first A2 against a favored theory; Mythic Distributional Prediction). **Polarity reversal 5th consecutive sweep** + generic-move inflation named (Category Separation, Analogy Transfer = toolkit, never operators). Formal-authority residue = named source-quality hazard (IT-038). The positive comparison rule synthesized (claim-sensitive comparative performance). Grant: G-REPORTED/G-ANTICIPATED NON-SITE | Field-desk Stage-4 handoff, COMPOUND_SWEEP_07 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_06) | **Fifth consecutive zero-promotion sweep.** Three HIGH candidates queued (Adjudication-Frame Audit; Observer-State/Shared-World Audit; Claim-Type/Method-Fit Audit — domain-immunity safeguard attached). 14 blind moves → 5 families; **Detector–Pathology Polarity Reversal strikes a 4th consecutive sweep** (Domain-Fit ≠ UEJ match; Evidence-Type Reclassification ≠ GAR; Inferential Bridge ≠ Contest-to-Defeat extension; Local-to-Global ≠ Possibility Preservation) — Failure-Atlas seed reinforced; Jurisdiction Escalation cleared of evasion reading; stopping-rule correction + balance point filed permanent; engine-loop family gains intuition→formalization→stress-test→revision occurrence. Grant: REPORTED/RECONSTRUCTED NON-SITE (six candidate conclusions undetermined) | Field-desk Stage-4 handoff, COMPOUND_SWEEP_06 |

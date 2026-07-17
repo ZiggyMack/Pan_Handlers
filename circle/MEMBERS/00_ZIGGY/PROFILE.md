@@ -117,6 +117,20 @@ completed — confirmed A3) and the **symmetry debt** (super-frame scrutiny
 demonstrated against science, not yet applied to testimony/qualia —
 confirmed A3, though the thread ended as spirituality entered).
 
+**The symmetry turn (SWEEP_07 — the audit comes home):** the anti-monopoly
+architecture is now formally applied to Ziggy's own favored theories:
+*narrative works ≠ narrative is sovereign; myth survives ≠ myth preserves
+wisdom* — with the archive's **first A2 omission against a favored
+theory** (the decoder-ring validation question, answered with usefulness).
+Five pruned profile claims stand (monopoly-promotion auditing;
+meaning–metric separation; **scope-controlled fallibilism** — fallibilism
+must not become permanent non-pruning; reduction–sufficiency auditing;
+narrative-transmission comparison), each with a symmetry restriction
+attached. The **positive comparison rule** (claim-sensitive comparative
+performance, 8 steps) is the standing candidate answer to the
+architecture's accumulated debt — synthesized by the extraction, not yet
+demonstrated in use.
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
