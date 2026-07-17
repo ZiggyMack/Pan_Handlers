@@ -27,7 +27,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (PASS WITH MAJOR CONCEPTUAL CONSOLIDATION — overlay binding); Stages 2–4 pending
+**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ reviewed (consolidation overlays binding; **the extractor omitted the Practical–Ontological Bridge family — restored by the field desk**); Stage-3 output pasted, review pending; Stage 4 pending; 9 trails ordered at close (IT-093…101)
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep, ⭐ **second G-DIRECT-bearing packet** (Grant's shared-AI screenshots) — can "faith" describe acting under uncertainty, and does that pressure evidentialist nonbelief in God? Kierkegaard entry; the false Hume attribution caught and repaired (CO-CONSTRUCTED SYNTHESIS, never Hume-direct); the son-height/milk definition stress test; likelihood vs live options; the raffle; the God/brute-fact/ignorance trilemma · aux: Kierkegaard/Hegel tools; constants; tech archaeology; Jesus Wars
@@ -2105,6 +2105,163 @@ Repairs can appear post hoc, and the revised position may differ substantially f
 * “Delayed Choice Quantum Eraser,” approximately May 20, 2026 — available frameworks and paths.
 * “MISC_01,” approximately May 21, 2026 — explanatory deferral and responsibility for reality.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS WITH MAJOR CONSOLIDATION REPAIRS — proceed to Stage 3
+(no rerun; this review governs the already-pasted Stage-3 output
+retroactively). Nineteen moves for roughly seven durable families;
+Nova repairs, one-time counterexamples, protocol behaviors, and
+auxiliary material promoted too aggressively.**
+
+**📊 STAGE-1 PREDICTION SCORING:** the eight forecast families all
+surfaced (**8/8**) — with the notable twist that **the extractor itself
+omitted the Practical–Ontological Bridge Audit** (the forecast's
+Practical–Ontological Jurisdiction family) and the field desk restored
+it as *the most consequential missing family*. *Common-cause caveat
+filed.*
+
+**🔧 REPAIR 1 — faith-language consolidation:** four moves →
+**Concept–Label–Sense and Extension Audit**. Functional Reframing
+restricted (its current form is *Ziggy and Nova's proposed theory of
+faith*, not a neutral extraction; the failure mode: *define faith as
+uncertain action + everyone acts uncertainly → everyone has faith* —
+**true by stipulation rather than discovery**). The son-height example
+= a strong local *extension stress test* inside this family — and the
+decisive Stage-3 question: **were action-guidance, stakes, and forced
+choice part of the original concept, or introduced only after Grant's
+counterexample?**
+
+**🔧 REPAIR 2 — belief/action consolidation:** four moves →
+**Belief–Credence–Action–Commitment Audit** (*belief threshold ≠ action
+threshold*, AND action ≠ propositional belief; working reliance ≠
+categorical belief; decision rule ≠ faith automatically).
+**Forced-Commitment Filter stays PROVISIONAL** — principled boundary or
+ad hoc rescue is a temporal question. Universalization Pressure
+("Sometimes? Or all times?") = scope-testing submove; *residual
+uncertainty in ordinary deliberate action* is secure; the universal
+every-action claim is not.
+
+**🔧 REPAIR 3 — THE OMITTED CENTRAL FAMILY, restored:**
+**Practical–Ontological Bridge Audit** — the five-arrow chain (uncertain
+action → commitment/decision rule → called faith → religious commitment
+available → God as ultimate ground), *each arrow needing separate
+justification*. Mandatory: *evidence doesn't determine action ≠ God
+determines action; residual uncertainty ≠ religious faith; commitment
+possible ≠ God likely; logically possible ≠ metaphysical ground.*
+**Central for Stages 3–4.**
+
+**🔧 REPAIR 4 — Residual-Uncertainty and Decision-Rule Audit:** four
+sufficiency thresholds split (certainty / justified belief / specific
+action / incomplete-but-excellent); "belief without sufficient
+evidence" was materially misleading without a fixed standard; safe:
+*deliberate action commonly proceeds before uncertainty is eliminated*
+— never *the agent acts on an unjustified belief*.
+
+**🔧 REPAIR 5 — Possibility–Likelihood–Live-Option Audit:** the
+seven-rung ladder (*not disproven ≠ plausible ≠ live ≠ forced ≠
+momentous ≠ warranted-for-action ≠ warranted-for-belief*); "choose God"
+disambiguation mandatory; belief-voluntariness unresolved; James =
+Nova's interpretive tool, establishing nothing about Grant's psychology.
+
+**🔧 REPAIR 6 — probability consolidation:** two moves → **Ex Ante–Ex
+Post Probability and Evidence Audit** (four evidence situations:
+direct observation / ordinary report / unreliable testimony / fraud
+evidence). **"Probability Closure" renamed** — the loop files as
+**Likelihood Restriction–Possibility Reopening Loop** (*never build the
+accusation into the label*; no evidence Grant treats low probability as
+impossibility).
+
+**🔧 REPAIR 7 — historical consolidation:** two moves → **Historical
+Attribution and Synthesis-Repair Audit**; the Hume construction stays
+CO-CONSTRUCTED SYNTHESIS; **Structural Synthesis = Nova role behavior
+(POST-CHALLENGE REPAIRER)** with the danger named: **authority
+laundering** — assembling famous names after the original attribution
+fails, creating an impression of historical support without
+primary-text verification.
+
+**⬇️ NON-OPERATORS:** Brute-Terminus Enumeration → Idea Trail (the
+trilemma conflates causal/rational/metaphysical/existential questions;
+ten+ alternatives omitted) · Cross-Domain Structural Analogy (constants)
+→ Idea Trail (stopping-point structure ≠ shared explanatory role) ·
+Compression Request → protocol behavior · **"Authority-Borrowing
+Through External AI" renamed → External-AI Adjudication Attempt**
+(relationship/protocol behavior; the AI's function — check, ally,
+summary, evidence, or authority — is UNCLEAR; the old name implied
+improper deference).
+
+**Sequence repairs:** Sequence 1's "Cross-Position Application" is
+undefined — removed as a separate operator · **Sequence 4 gains the
+mandatory step: *surviving argument independently re-established*** —
+else *attribution fails → core presumed intact* becomes a
+protected-shell maneuver · Sequence 6 must not swap the belief-warrant
+question for a practical-option audit · Sequence 8's jurisdiction drift
+(uncertainty → metaphysical ground) held at Idea Trail — *ordinary
+decision theory may fully address the practical fact.*
+
+**Offense/defense corrections:** Ziggy's offense carries the four-step
+risk (*structural resemblance → same label → same status → religious
+implication* — each transition independently fallible); his defense
+carries the moving-target caution (*formulation defeated → claim
+narrowed → narrowed claim declared the original essence*) — legitimate
+refinement or moving-target preservation is a Stage-3 question. Grant:
+only the attribution challenge + extension test are secure;
+"Evidential Gatekeeper" too strong — LOCAL REPORTED ROLE only. **Nova:
+the amplification → premature confidence → external challenge →
+concession → reconstruction dynamic is worth more than any individual
+refinement.**
+
+**🔀 CONSOLIDATION — nineteen moves → seven families + one auxiliary:**
+Concept–Label–Sense and Extension · Belief–Credence–Action–Commitment ·
+Residual-Uncertainty and Decision-Rule · **Practical–Ontological
+Bridge** · Possibility–Likelihood–Live-Option · Ex Ante–Ex Post
+Probability and Evidence · Historical Attribution and Synthesis-Repair
+· aux: Model-as-Tool and Frame-Jurisdiction (the Kierkegaard/
+frame-theory branch).
+
+**Relationship loops surviving:** Intuition Amplification (with the
+back-attribution ban) · Skeptical Counterexample (pre-existing criteria
+vs post-hoc protections open) · Semantic Escalation (*what explanatory
+gain justifies fighting over the word once the phenomenon is agreed?*)
+· Symmetry Demand–Domain Difference (*similarity ≠ identity; domain
+distinction ≠ legitimate asymmetry automatically*) · **Error
+Concession–Core Preservation** (the caution: the core must be
+independently argued) · Likelihood Restriction–Possibility Reopening
+(neutral name) · Compression After Expansion (protocol only).
+
+**Packet-local seeds:** Ziggy 5 (framework instrumentalism; semantic
+bridge-building; belief/action boundary pressure; residual-uncertainty
+sensitivity; possibility-preservation pressure — all HIGH locally with
+restrictions) · **Grant 3** (historical-attribution testing, G-DIRECT;
+definitional extension testing, G-DIRECT; terminological restraint,
+G-REPORTED). No broad Grant evidentialist or anti-religious profile.
+
+**Stage-3 requirements registered (18):** incl. the temporal question
+(definition frozen before the counterexample?); the trivialization
+test; decision-theoretic explanation before invoking faith; the
+practical-ontological bridge explicitly defended; the post-Hume
+synthesis independently established; Nova's equal skepticism toward its
+own repairs; the external-AI function evaluated rather than pre-labeled.
+
+**Restrictions (updated):** Stage-1 set plus — no live-option→
+warranted-belief inference · no Nova repair language back-attributed ·
+sequence-4's independent-re-establishment step mandatory.
+
+**Central Stage-3 prey (registered):** *Ziggy's strongest point is not
+that atheists secretly possess religious faith — it is that evidential
+credence does not by itself determine practical action. Grant can
+accept that point while rejecting the word "faith" and declining belief
+in God. The unresolved bridges: whether the additional practical
+structure deserves the faith label, whether that label retains
+nontrivial content, and what — if anything — connects ordinary
+commitment under uncertainty to specifically religious belief.*
+
+**NEXT ACTION:** Stage 3 already executed (output below); Stage-3
+review follows on arrival.
 
 ---
 
@@ -2165,7 +2322,937 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+## 1. Confirmed Informative Omissions (A3/A2)
+
+### NONE FOUND
+
+After applying the availability test strictly, **no omission satisfies A3 (Demonstrated Available) or A2 (Explicitly Available then declined)**.
+
+Several candidate omissions initially appeared plausible, but they fail the availability criteria once the bounded conversation is examined carefully.
+
+---
+
+### Candidate rejected: Reverse-role symmetry test
+
+**Claim initially considered**
+
+Grant could have been asked:
+
+> "If a theist rejected 'acting under uncertainty' solely because the word 'uncertainty' had undesirable connotations, would you accept that?"
+
+**Availability test**
+
+A3 requires that Ziggy or Grant demonstrably use this reverse-role move elsewhere in the conversation.
+
+Search result:
+
+None found.
+
+The closest evidence is Ziggy's repeated search for symmetry ("atheists also...", "same structure"), but he never explicitly performs a full role-reversal test.
+
+Therefore:
+
+Availability = **A1**, not A3.
+
+---
+
+### Candidate rejected: Explicit reconstruction of Grant before critique
+
+Initially plausible because Ziggy often requested Grant's position be reconstructed.
+
+However:
+
+Stage 1 shows numerous attempts to restate Grant:
+
+* "Grant accepts acting under uncertainty..."
+* "Grant rejects faith..."
+* "Grant believes likelihood..."
+* Grant screenshots are analyzed directly.
+
+No point exists where Grant explicitly requested a reconstruction that was refused.
+
+Availability:
+
+A1 only.
+
+---
+
+### Candidate rejected: Explicit concession of Grant's semantic point
+
+Nova eventually recommends:
+
+> concede the word if the concept is accepted.
+
+That concession actually occurs later.
+
+Therefore omission disappeared inside the thread.
+
+No confirmed omission remains.
+
+---
+
+## 2. Possible Informative Omissions (A1)
+
+These omissions were contextually available but cannot be treated as demonstrated capacities.
+
+---
+
+### Omission A1-1
+
+### Reverse-role symmetry test
+
+Availability Tier
+
+A1
+
+Classification
+
+POSSIBLE INFORMATIVE OMISSION
+
+Relevant point
+
+During discussion of:
+
+"faith"
+
+versus
+
+"acting under uncertainty."
+
+Source anchor
+
+Ziggy:
+
+> "because faith could lead to misunderstanding..."
+
+Possible omitted move
+
+Temporarily reverse the roles:
+
+Would Grant permit the identical semantic objection if made by a religious believer?
+
+Why relevant
+
+It directly tests whether the semantic standard is symmetric.
+
+Outcome impact
+
+Possibly.
+
+It may have clarified whether the dispute concerned:
+
+* consistency
+
+or
+
+* ordinary language preference.
+
+Stable or situational
+
+UNKNOWN.
+
+No evidence Ziggy habitually performs explicit role reversals.
+
+---
+
+### Omission A1-2
+
+### Explicit charitable reconstruction immediately before criticism
+
+Availability Tier
+
+A1
+
+Classification
+
+POSSIBLE INFORMATIVE OMISSION
+
+Relevant point
+
+Several discussions of Grant's reported views.
+
+Possible move
+
+State:
+
+> "Let me reconstruct Grant's strongest possible position before objecting."
+
+Why relevant
+
+Would separate disagreement from paraphrase.
+
+Outcome impact
+
+Moderate.
+
+May have reduced ambiguity regarding Grant's actual commitments.
+
+Stable or situational
+
+Situational.
+
+The conversation instead alternates between paraphrase and critique.
+
+---
+
+### Omission A1-3
+
+### Separate belief threshold from action threshold earlier
+
+Availability Tier
+
+A1
+
+Classification
+
+POSSIBLE INFORMATIVE OMISSION
+
+Relevant point
+
+Early "atheists have faith" discussion.
+
+Possible move
+
+Immediately distinguish:
+
+belief criterion
+
+vs
+
+decision criterion
+
+rather than arriving there gradually.
+
+Why relevant
+
+Much later confusion stemmed from treating both under one rule.
+
+Outcome impact
+
+Likely significant.
+
+Stable or situational
+
+Situational.
+
+The distinction eventually emerges naturally.
+
+---
+
+### Omission A1-4
+
+### Ask Grant's stopping rule explicitly
+
+Availability Tier
+
+A1
+
+Classification
+
+POSSIBLE INFORMATIVE OMISSION
+
+Relevant point
+
+Likelihood discussion.
+
+Possible move
+
+Ask:
+
+"What probability would make belief rational?"
+
+instead of discussing likelihood abstractly.
+
+Why relevant
+
+Would expose whether Grant possesses:
+
+* threshold
+* Bayesian update
+* suspension
+* evidentialism
+
+Outcome impact
+
+Moderate.
+
+Stable or situational
+
+UNKNOWN.
+
+---
+
+### Omission A1-5
+
+### Explicit burden symmetry
+
+Availability Tier
+
+A1
+
+Classification
+
+POSSIBLE INFORMATIVE OMISSION
+
+Relevant point
+
+God likelihood discussion.
+
+Possible move
+
+Ask whether identical evidential standards apply to:
+
+naturalism
+
+or
+
+non-theism.
+
+Why relevant
+
+Could reveal asymmetry if present.
+
+Outcome impact
+
+UNKNOWN.
+
+Stable or situational
+
+UNKNOWN.
+
+No direct evidence Grant would reject symmetric burdens.
+
+---
+
+## 3. Non-Informative Omissions (A0)
+
+---
+
+### A0-1
+
+Grant's complete Bayesian framework.
+
+UNKNOWN.
+
+---
+
+### A0-2
+
+Grant's practical decision theory.
+
+UNKNOWN.
+
+---
+
+### A0-3
+
+Grant's metaphysical commitments beyond reported likelihood judgments.
+
+UNKNOWN.
+
+---
+
+### A0-4
+
+Grant's positive definition of faith.
+
+UNKNOWN.
+
+---
+
+### A0-5
+
+Grant's criteria for live versus dead options.
+
+UNKNOWN.
+
+---
+
+### A0-6
+
+Grant's response had Ziggy presented William James directly.
+
+UNKNOWN.
+
+---
+
+### A0-7
+
+Grant's view on expected utility.
+
+UNKNOWN.
+
+---
+
+### A0-8
+
+Grant's response to explicit reverse-role testing.
+
+UNKNOWN.
+
+---
+
+### A0-9
+
+Grant's complete account of action.
+
+UNKNOWN.
+
+---
+
+## 4. Counterevidence Findings
+
+---
+
+### Characterization:
+
+Ziggy primarily uses functional reframing.
+
+Counterevidence search
+
+Searched for occasions where Ziggy preferred ordinary meanings over functional analysis.
+
+Found:
+
+YES.
+
+Late in discussion Ziggy repeatedly asks for:
+
+plain list
+
+table
+
+one distinction only.
+
+These requests prioritize communicative clarity rather than abstraction.
+
+Effect
+
+Weakly moderates the characterization.
+
+Functional reframing is common but not exclusive.
+
+---
+
+### Characterization:
+
+Ziggy universalizes structures.
+
+Counterevidence
+
+Search:
+
+Does Ziggy ever resist universalization?
+
+Found:
+
+YES.
+
+Frame theory explicitly described as:
+
+tool
+
+model
+
+not literal ontology.
+
+This shows restraint.
+
+Effect
+
+Moderately weakens over-general characterization.
+
+---
+
+### Characterization:
+
+Grant primarily relies upon semantics.
+
+Counterevidence
+
+Search:
+
+Evidence Grant also performs substantive critique.
+
+Found:
+
+YES.
+
+The Hume attribution challenge.
+
+This concerns historical accuracy rather than semantics.
+
+Effect
+
+Strengthens picture of Grant as evidential critic rather than merely semantic gatekeeper.
+
+---
+
+### Characterization:
+
+Grant only attacks wording.
+
+Counterevidence
+
+Found.
+
+The son-height example attacks:
+
+scope
+
+extension
+
+definition.
+
+Not merely vocabulary.
+
+Characterization weakened.
+
+---
+
+### Characterization:
+
+Nova consistently strengthens Ziggy.
+
+Counterevidence
+
+Found repeatedly.
+
+Nova later:
+
+* retracts Hume attribution
+* narrows claims
+* warns Ziggy against overclaiming
+* separates ontology from existential commitment
+
+Effect
+
+The relationship includes correction, not merely reinforcement.
+
+---
+
+### Characterization:
+
+Nova overstates history.
+
+Counterevidence
+
+Search:
+
+Does Nova self-correct?
+
+Found repeatedly.
+
+Yes.
+
+The Hume discussion demonstrates explicit repair.
+
+Effect
+
+Weakens any portrayal of persistent resistance to correction.
+
+---
+
+### Characterization:
+
+Belief/action distinction remains completely separate.
+
+Counterevidence
+
+Found.
+
+Both Ziggy and Nova repeatedly reconnect them.
+
+Action:
+
+requires
+
+working beliefs
+
+preferences
+
+decision rules.
+
+Effect
+
+Supports linked-but-distinct reading.
+
+---
+
+### Characterization:
+
+Probability discussion ignored Bayesian distinctions.
+
+Counterevidence
+
+Found.
+
+Nova explicitly introduces:
+
+ex ante
+
+vs
+
+ex post.
+
+Characterization rejected.
+
+---
+
+### Characterization:
+
+Semantic dispute completely replaced substantive disagreement.
+
+Counterevidence
+
+Found.
+
+Conversation later returns to:
+
+belief
+
+action
+
+likelihood
+
+God
+
+grounding.
+
+Semantics never entirely dominates.
+
+---
+
+### Characterization:
+
+Historical attribution dominated discussion.
+
+Counterevidence
+
+Found.
+
+After Hume correction discussion moves rapidly back to structural issues.
+
+Historical debate was temporary.
+
+---
+
+## 5. Alternative Readings
+
+---
+
+### Functional Reframing
+
+Alternative
+
+Not operator.
+
+Simply Ziggy's philosophical belief.
+
+Discriminating evidence
+
+Supports operator reading:
+
+Applied repeatedly across:
+
+faith
+
+frameworks
+
+physics
+
+Christian history.
+
+Confidence
+
+Moderate-high.
+
+---
+
+### Frame Ownership Audit
+
+Alternative
+
+Merely frame theory itself.
+
+Discriminating evidence
+
+Repeatedly reused outside original context.
+
+Supports operator.
+
+---
+
+### Semantic/Substantive Split
+
+Alternative
+
+Conversation artifact.
+
+Discriminating evidence
+
+Appears repeatedly:
+
+faith
+
+Jesus Wars
+
+Hume attribution.
+
+Supports operator.
+
+---
+
+### Category Boundary Test
+
+Alternative
+
+Normal philosophical questioning.
+
+Discriminating evidence
+
+Repeated explicit concern about:
+
+collapsing concepts.
+
+Supports operator.
+
+---
+
+### Universalization Pressure
+
+Alternative
+
+One-off rhetorical emphasis.
+
+Evidence
+
+Occurs several times:
+
+faith
+
+action
+
+uncertainty
+
+physics.
+
+Supports moderate operator reading.
+
+---
+
+### Low Probability Stress Test
+
+Alternative
+
+Single thought experiment.
+
+Evidence
+
+Only one raffle example appears.
+
+No recurrence.
+
+Reading weakens.
+
+Better interpreted as:
+
+one consequential reasoning move
+
+rather than stable operator.
+
+---
+
+### Compression Request
+
+Alternative
+
+Formatting preference.
+
+Evidence
+
+Entire end of conversation shows repeated requests for:
+
+plain list
+
+rank order
+
+table
+
+single distinction.
+
+Protocol-induced explanation is stronger than cognitive operator.
+
+---
+
+### Authority Borrowing Through AI
+
+Alternative
+
+Simple evidence gathering.
+
+Evidence
+
+Occurs once.
+
+No recurrence.
+
+Better treated as:
+
+relationship tactic
+
+rather than operator.
+
+---
+
+### Distributed Historical Synthesis
+
+Alternative
+
+Assistant repair behavior.
+
+Evidence
+
+Appears only after Hume correction.
+
+Supports role-induced reading more strongly than stable operator.
+
+---
+
+## 6. Characterizations That Survived
+
+These remained well supported after counterevidence search.
+
+✓ Functional reframing
+
+✓ Model/reality separation
+
+✓ Frame ownership audit
+
+✓ Semantic/substantive distinction
+
+✓ Category boundary testing
+
+✓ Jurisdiction separation
+
+✓ Option-set inspection
+
+✓ Universalization pressure (moderately)
+
+✓ Ziggy as framework challenger
+
+✓ Grant as implication tester
+
+✓ Nova as conceptual amplifier
+
+✓ Nova as post-challenge repairer
+
+✓ Intuition amplification relationship loop
+
+✓ Skeptical counterexample loop
+
+✓ Error concession/core preservation loop
+
+---
+
+## 7. Characterizations That Weakened
+
+The following should be downgraded relative to Stage 2.
+
+---
+
+### Grant primarily semantic
+
+Weakened.
+
+Historical attribution and implication testing demonstrate broader concerns.
+
+---
+
+### Low Probability Stress Test as stable operator
+
+Downgraded.
+
+Evidence supports:
+
+one consequential move,
+
+not recurring operator.
+
+---
+
+### Authority Borrowing Through External AI as operator
+
+Downgraded.
+
+Evidence supports:
+
+relationship tactic,
+
+not stable reasoning pattern.
+
+---
+
+### Compression Request as cognitive operator
+
+Downgraded.
+
+Better explained as:
+
+protocol-induced information management preference.
+
+---
+
+### Nova primarily alliance partner
+
+Weakened.
+
+Evidence clearly shows substantial later correction and self-revision.
+
+Better characterization:
+
+iterative collaborator with repair behavior.
+
+---
+
+### Universalization as unconditional tendency
+
+Weakened.
+
+Counterevidence exists in Ziggy's repeated insistence that frameworks remain provisional tools rather than literal ontologies.
+
+---
+
+### Semantic dispute fully replaced substantive dispute
+
+Rejected.
+
+The conversation repeatedly returned to:
+
+* epistemology,
+* action,
+* probability,
+* grounding,
+* metaphysics.
+
+Semantics became one layer rather than the entire dispute.
+
+---
+
+### X-CONTEXT Notices
+
+A related discussion may exist under "Trust vs Prediction," approximately June 30, 2026. Not evidence for this packet.
+
+A related discussion may exist under "Markov Chains and Logic," approximately June 3, 2026. Not evidence for this packet.
+
+A related discussion may exist under "Assembly vs High-Level Languages," approximately May 30, 2026. Not evidence for this packet.
+
+A related discussion may exist under "Delayed Choice Quantum Eraser," approximately May 20, 2026. Not evidence for this packet.
+
+A related discussion may exist under "MISC_01," approximately May 21, 2026. Not evidence for this packet.
+
 
 ---
 
