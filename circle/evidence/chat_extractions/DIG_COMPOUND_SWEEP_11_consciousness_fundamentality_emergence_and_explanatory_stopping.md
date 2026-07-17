@@ -26,7 +26,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ⚠️ CONDITIONALLY reviewed (PASS WITH CONCEPTUAL AND ATTRIBUTION REPAIRS — overlay binding); Stages 2–4 pending
+**Status:** 🟡 IN PROGRESS — Stages 1–2 reviewed (⚠️ conditional overlay binding); **⚠️ Stage-2 blind output NOT yet pasted (owed to the workbook)**; Stage 3–4 pending; 11 trails ordered at close (IT-073…083)
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep: methodological bracketing of physicalism ("assume mind is fundamental" as sandbox); admissibility rules for consciousness inquiry; reason vs cause (PSR version control); mechanism vs phenomenal experience (the hard problem); lawful emergence vs "magic"; explanatory stopping points + matter/consciousness symmetry — **⚠️ the opponent is UNNAMED (Discord friend); unnamed speaker = Grant is UNKNOWN; "Grant Position Ledger" heading ruled misleading → Reported Opponent Position Ledger** · auxiliary seed: Aquinas-under-modern-science roleplay (separate future dig)
@@ -1208,6 +1208,144 @@ Begin Stage 2 now.
 ### ⏬ STAGE 2 OUTPUT
 
 (paste Stage 2 output here — replace this line)
+
+> ⚠️ **FILING NOTICE:** the Stage-2 blind output has NOT yet been pasted
+> above. Nova's Stage-2 review (below) arrived and is filed; the
+> extractor's Stage-2 output is owed to this workbook — paste it above
+> this notice to keep the fifth-artifact chain intact.
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS AS COMPOUND SWEEP — run Stage 3. Main weakness: operator
+inflation — twenty moves for roughly seven serious families; several
+entries are rhetorical packaging, substantive metaphysical theses,
+assistant editing behaviors, or comparative maps.**
+
+```text
+GRANT VALUE: NONE
+UNNAMED OPPONENT VALUE: THIRD-PARTY-REPORTED LEADS ONLY
+```
+
+**📊 STAGE-1 PREDICTION SCORING:** the seven forecast families all
+surfaced (**≈7/7** — Reason–Cause–Ground recovered inside Semantic and
+Level Repair; Explanatory-Termination split cleanly into the
+Reciprocal-Burden and Explanatory-Debt families; Unity–Multiplicity
+recovered as mapping/Idea Trail). *Common-cause caveat filed.*
+
+**Strongest survivals (rulings):**
+
+- **Generative Bracketing Audit** (two moves = one family) — the
+  Stage-3 test is never whether Ziggy *intended* scrutiny to return but
+  whether the protocol contains a **concrete return condition**; the
+  entrenchment sequence named (rich framework → psychological
+  entrenchment → criticism stays "premature" → bracket becomes
+  privilege).
+- **Admission–Weight–Sufficiency Audit** — *inadmissible ≠ weak ≠
+  insufficient ≠ false*; the opponent's actual position (methodological
+  naturalism vs reductive vs nonreductive physicalism vs functionalism
+  vs eliminativism vs "only chemicals" rhetoric) is undetermined.
+- **Semantic Repair** (Sense Separation + Local Concession = one
+  sequence) — Ziggy's self-correction is philosophically healthy; the
+  Stage-3 counterpressure: *if PSR never meant conscious reasoning, did
+  the repair fix Ziggy's argument — or reveal the original objection was
+  irrelevant to PSR?* (Limits what survives, not the repair's quality.)
+- **Level-of-Mentality Separation** (human-absence move) — legitimate
+  output is *neutrality*; failure mode named: **thesis dilution**
+  ("consciousness" weakened to primitive awareness until untestable);
+  Stage 3 asks what minimum properties qualify as conscious.
+- **Explanandum-Scope Audit** — the primary yield; three-gap discipline
+  binding (epistemic + conceptual strongly present; metaphysical argued,
+  not established); the arm example = sub-technique only (neutralizes
+  one inference; establishes neither causation nor fundamentality).
+- **Reciprocal Explanatory-Burden Audit** — survives strongly with PSR
+  version control; the tu-quoque failure mode permanent: *at most,
+  burden reversal establishes SHARED explanatory debt* — never victory.
+- **Emergence-Bridge Audit** — Nova's repair of the "magic" rhetoric is
+  the durable product; Rhetorical Compression itself does not promote.
+- **Explanatory-Debt Comparison** — no gap equalization: each theory's
+  debt differs in kind and severity; *"every theory has a hole the size
+  of consciousness" is an excellent prompt and a poor verdict.*
+- **Primitive-Symmetry and Function-Sense Audit** — Ziggy's mirror
+  defeats the teleological reading of "what is consciousness for?" most
+  clearly; five senses of "function" split; the explanatory-role
+  question stands unanswered.
+- **Comparative Metaphysical Mapping** (three moves = one product) —
+  Idea-Trail HIGH, historical-taxonomy confidence LIMITED; combination
+  vs individuation = *inverse* unity–multiplicity problems, not the same
+  problem.
+
+**⬇️ DOWNGRADES:** Formal-Category Search (exploratory terminology; high
+metaphor risk — the real question: *which ordinary categories are
+alleged insufficient, and why?*) · Rhetorical Compression (debate
+rhetoric) · Accident-or-Not Stress Test (local modal clarification) ·
+Vulnerable-Claim Replacement (Nova precision-editor behavior) ·
+Strong-Form Opponent Reconstruction (Nova role behavior) ·
+Purpose-by-Framework Supplement (substantive theistic possibility, not
+an operator) · Directional Mapping + Historical Translation (comparative
+artifacts) · Mechanism–Grounding Split (→ Aquinas aux branch; reciprocal
+danger: *metaphysical jurisdiction defined too broadly becomes
+empirically insulated*).
+
+**🔀 CONSOLIDATION — twenty moves → seven families:** 1. Generative
+Bracketing Audit · 2. Admission–Weight–Sufficiency Audit · 3. Semantic
+and Level Repair · 4. Explanandum-Scope and Emergence-Bridge Audit · 5.
+Reciprocal Explanatory-Burden Audit · 6. Explanatory-Debt Comparison ·
+7. Comparative Metaphysical / Unity–Multiplicity Mapping (Idea Trail).
+
+**Relationship-loop judgments:** *intuition → validation → precision*
+strongly survives (argument repair; risk: *better formulation ≠ stronger
+evidence*) · *opponent pressure → symmetry → ratification* strongly
+survives — **the packet's recurring defensive success and offensive
+limitation** (objection neutralized; positive case remains incomplete) ·
+*sandbagging perception → protected protocol* strong with unresolved
+fairness (was the rule reciprocal? did criticism return? did opponents
+consent?) · *historical analogy → existential amplification* (narrative
+force increased faster than historical precision). Engine-loop kin —
+12th same-shaped signal, same-extractor caveat.
+
+**Stage-3 pressure points pre-registered:** 30 against Ziggy (incl. does
+internal coherence count as evidence or only understanding?; does
+fundamental consciousness explain subjectivity or rename it?; could
+identity theory deny that experience "emerges" at all?; what would make
+Ziggy lower confidence?) · 16 against Nova (incl. did it convert the gap
+into evidence for fundamentality?; did it repair Ziggy's wording without
+marking authorship?; did it demand a criticism-return condition?).
+
+**Safe provisional Ziggy seeds (7, confidence graded):**
+generative-bracketing instinct (HIGH locally; reciprocity/return
+untested); semantic self-correction (HIGH); explanandum-scope
+sensitivity (HIGH); reflexive-burden use (HIGH locally; parity ≠
+positive evidence); emergence-bridge pressure (HIGH);
+primitive-symmetry sensitivity (HIGH locally); comparative-gap mapping
+(MOD-HIGH).
+
+**Opponent disposition:** THIRD-PARTY-REPORTED NON-SITE; quarantine
+unchanged.
+
+**Trails at close (now 11):** field desk adds IT-082/083/084 → registry
+assigns **IT-081 Epistemic, Conceptual, and Metaphysical Gaps · IT-082
+Sandboxing a Worldview Without Privileging It · IT-083 Teleological
+Purpose versus Theoretical Work** alongside IT-073…080 (off-by-one
+noted).
+
+**Restrictions (updated):** Stage-1 set plus — no
+burden-parity→positive-support inference · no rhetorical-"magic" claim
+treated as argument.
+
+**Central Stage-3 prey (registered):** *does the consciousness-first
+framework genuinely explain why experience exists and how individual
+subjects arise — or does it gain its advantage mainly by holding
+physicalism to a bridge standard that it does not yet impose with equal
+force upon its own primitive, individuation story, empirical
+consequences, and stopping point?*
+
+**NEXT ACTION:** paste the Stage-2 output above, then send Stage 3 as
+its own message.
 
 ---
 
