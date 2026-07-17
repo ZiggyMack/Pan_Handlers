@@ -255,6 +255,23 @@ DIG_AUX_04) · **Possibility Inflation** (QUARANTINED as a relationship-level
 escalation *risk pattern*, not a demonstrated fallacy — both participants
 interrupted the ladder with disclaimers; DIG_AUX_04).
 
+From COMPOUND_SWEEP_02 (**sweep-strong — field desk: "keep RED"; registration
+deferred to bounded sub-digs A–C per the plow-through rule**):
+**Positive-Commitment Extraction** ("Enthusiastic about *what*?" — negation →
+identify positive value/telos → expose full comparison target; never targets
+thin atheism as such) · **Instrument ≠ Telos** (accuracy necessary for ends ≠
+accuracy selects the end; 4th candidate of the ≠ family; overlaps founding
+trail #2 "final why") · **Candidate-Space Construction** (framework/narrative/
+encounter → candidate becomes cognitively live; explicitly ≠ Possibility
+Preservation — generation vs retention) · **Prior-Model Conditioning Audit**
+(weak, defensible form only) · **Context–Standard Shift Detection**
+(motive-free rename of "Frame-Lever Detection"). Also: Proof-to-Non-Exclusion
+Contraction → files toward **CO-014** (2nd candidate Ziggy instance, sweep-
+grade); Encounter-First Reorganization → REMOVED from operator consideration
+(transformative cognitive event); "Boundary-Defense Stalking" → REJECTED as
+name (motive import) → relationship-level hypothesis *Exploration–
+Qualification Conflict* (see RELATIONSHIP_MAP holding ledger).
+
 From DIG_01 crosswalk (**a restraint round — no new registrations**):
 **Modal Burden Enforcement** (assertor of a modal premise carries its burden —
 NOT Symmetry Testing) · **Hidden Ranking Exposure** ("superior world"
@@ -298,3 +315,4 @@ therefore carries a Museum ID.
 | 2026-07-17 | (crosswalk, DIG_AUX_04) | Evidential-Jurisdiction Restriction → MATCHES/APPLIES Museum OP-013 (corrective inverse of CO-002), no new entry; Conditional Mechanism Import → renamed Conditional Structural Analogy, queued; Ontological Reframing → frame transition, status UNKNOWN; Comparative Accommodation Analysis → research maneuver; Possibility Inflation → quarantined risk pattern | Field-desk Stage-4 handoff, DIG_AUX_04 |
 | 2026-07-17 | (crosswalk, DIG_01) | **Restraint round — zero new registrations.** Seven candidates queued at technique/thread level; forced mappings rejected (Modal Burden ≠ Symmetry Testing; Hidden Ranking ≠ Universalized Jurisdiction; Feasible-Space Humility ≠ Contested ≠ Defeated; Evaluation-Target Separation → broader Museum family, no new entry). **No Grant operator promotes** — the zero was argued-as-measured; wrong-target vs dimension-dominance stays open (CO-004's justified-zero duty enforced) | Field-desk Stage-4 handoff, DIG_01 |
 | 2026-07-17 | Logical-Status Compression | Recorded as **local reasoning error** (not an operator) — first entry in the Failure-Atlas seed list; committed by conversational Nova, caught by Stage 3, ruled by field-desk Nova | DIG_01 |
+| 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_02) | **Plow-through rule enforced at filing: zero promotions from a completed 4-stage sweep.** Three sweep-strong candidates queued (Positive-Commitment Extraction; Instrument ≠ Telos; Candidate-Space Construction); CO-014 gains a 2nd candidate instance (sweep-grade — awaits sub-dig A); all Grant pathology mappings quarantined ("the sweep reconstructs how Ziggy experiences Grant's method, not Grant's architecture"); Asymmetry Reversal MATCHES OP-008 with inconsistent self-application noted | Field-desk Stage-4 handoff, COMPOUND_SWEEP_02 |

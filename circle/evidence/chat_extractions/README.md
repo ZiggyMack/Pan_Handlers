@@ -83,7 +83,8 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_00.md` | *(reserved: CFA-zero — preflight required; workbook recreated after its file was consumed by a rename)* | EMPTY |
 | `DIG_00ABCD.md` *(operator's working name — proper identity assigned at field-desk review)* | Grant's evaluative architecture via the CT/Moral-Substance dispute + development of Diagnostic Interrogation, Coupling Probes, Cognitive Archaeology calibration, invariant-seeking methodology (heavy G-REPORTED; no G-DIRECT) | IN PROGRESS — Stages 1–2 pasted; awaiting field-desk reviews |
 | `DIG_01_classical_theism_evil_and_moral_generativity.md` | ⭐ **First Grant-relevant site**: reported 12-step problem-of-evil syllogism → moral-generativity zero; Ziggy's modal-burden + trade-off objections; Grant's reported denial (G-QUOTED-REPORTED) | ✅ **FILED** — 4th full-pipeline dig; **G-001 (first Grant source, reported ceiling)**, Z-004, IT-017, synthesis packet; restraint round: zero new operators, one recorded error (Logical-Status Compression) |
-| `DIG_02.md` | ⚡ Compound sweep: maps, experience, values, plausibility (4 child digs identified; segment D = experience/map-expansion/plausibility is the vein; ⚠️ privacy gate active) | STAGE 3 COMPLETE (compound sweep) — Stage 4 authorized, provisional mapping only; Grant's reported distinction preserved; potential CO-014 second instance flagged (sub-dig required) |
+| `DIG_COMPOUND_SWEEP_02_maps_experience_values_and_plausibility.md` *(renamed at close per field desk)* | ⚡ Compound sweep: maps, experience, values, plausibility; ⚠️ privacy gate active | ✅ **COMPLETE — candidate harvest, ZERO promotions (plow-through rule held)**; 3 sweep-strong candidates queued; seeds IT-018; sub-digs A/B/C queued (segment-D scope lock preserved in workbook) |
+| `DIG_02.md` | *(reset to clean template for reuse)* | EMPTY |
 | `DIG_03.md` | | EMPTY |
 | `DIG_04.md` | | EMPTY |
 | `DIG_05.md` | | EMPTY |
