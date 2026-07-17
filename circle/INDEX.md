@@ -41,12 +41,12 @@
 
 | Registry | Location | Count | Notes |
 | ---------- | ---------- | ------- | ------- |
-| Circle Operators | `OPERATOR_LEXICON.md` | 8 (all RED) | CO-001…CO-008, seeded from Grant pilot hypotheses |
-| Idea Trails | `IDEA_TRAILS/README.md` | 14 candidates, **1 OPEN** | first trail: `TR_invariance_stable_structure_and_convergence` (seeded by DIG_AUX_02) |
+| Circle Operators | `OPERATOR_LEXICON.md` | 10 (all RED) | CO-001…008 from Grant pilot hypotheses; **CO-009 Relational Parameterization** (first operator discovered by the pipeline itself) + **CO-010 Cross-Disciplinary Swooping** (first documented instance, Nova-attributed) from DIG_AUX_02 |
+| Idea Trails | `IDEA_TRAILS/README.md` | 14 candidates, **1 OPEN** | `IT-014_invariance_stable_structure_and_model_convergence` (seeded by DIG_AUX_02; central question registered) |
 | Debates | `DEBATES/` | 0 recorded | |
-| Extraction packets | `evidence/chat_extractions/` | 0 filed · 12 workbooks staged (DIG_00–11) · aux digs: AUX_01 (Stage 1 complete, Ziggy/shared-history), AUX_02 (Stage 1 complete, idea-trail seed) | protocol v0.2.2 FROZEN; human preflight before every Stage 1; DIG_00 reserved for a preflight-confirmed CFA-zero thread |
+| Extraction packets | `evidence/chat_extractions/` | **1 synthesis packet filed** (`ziggy_nova_invariance_2026-07`) · 12 workbooks staged (DIG_00–11) · aux digs: AUX_01 (Stage 1 complete, stages 2–4 postponed), AUX_02 (✅ COMPLETE/FILED — first full-pipeline dig) | protocol v0.2.2 FROZEN; human preflight before every Stage 1; DIG_00 reserved for a preflight-confirmed CFA-zero thread |
 | Corpus sweeps | `evidence/corpus_sweeps/` | 1 filed (SWEEP_00: Stage 1+2 verbatim) | orientation only — never promotable; yielded **9 thread leads**, incl. first cross-member lead (Angles) |
-| Sources filed | per-member `SOURCE_INDEX.md` | **0** | ← the current bottleneck for everything |
+| Sources filed | per-member `SOURCE_INDEX.md` | **1** (Z-001, Ziggy — thread-specific) | Grant sources still **0** — the Grant-campaign bottleneck stands; best-signaled target: "Grant and Positivism" (2 independent X-CONTEXT pointers) |
 
 ---
 

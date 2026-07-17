@@ -1,7 +1,13 @@
-# Trail: Invariance, Stable Structure, and Convergence
+# IT-014 — Invariance, Stable Structure, and Model Convergence
 
-**Status:** OPEN
-**Opened:** 2026-07-17 · **Observers:** Nova (field-desk), P.H. Claude (filing)
+**Status:** OPEN (seeding dig COMPLETE; research question live)
+**Registry:** #14 in `README.md` · **Opened:** 2026-07-17 · **Observers:** Nova (field-desk), P.H. Claude (filing)
+
+> **Central research question (registered 2026-07-17):**
+> *Which transformations must a claim survive before cross-model agreement
+> counts as invariance rather than correlated consensus?*
+> The dig began with "isn't an invariant just something that doesn't change?"
+> and ended by identifying precisely why **agreement is not yet invariance**.
 
 - **Seed:** *"Is an invariant just a fancy name for finding something that
   doesn't change?"* — with two tentative glosses: "a pattern in the data,"
@@ -34,7 +40,8 @@
 - **Inherited by:** candidate hand-off to the Nyquist/CFA convergence program
   once the transformation-class question is formulated precisely.
 - **Sources:** `../evidence/chat_extractions/DIG_AUX_02_invariance_and_stable_structure_2026-07.md`
-  (bounded Stage 1, boundary confirmed; Stage 2 complete; Stage 3 in progress).
+  (bounded; all four stages COMPLETE; dig closed 2026-07-17). Synthesis packet:
+  `../evidence/chat_extractions/ziggy_nova_invariance_2026-07.md`.
 
 ## Registered Prediction — Nova, pre-Stage-3 (2026-07-17)
 
@@ -94,3 +101,35 @@ The last step is the trail's value: the dig preserves not just the attractive
 analogy but **the exact point where the analogy becomes scientifically
 expensive** — what must be paid (a defined transformation class, independence
 tests, shared-cause analysis) before "invariant" means more than "they agreed."
+
+## Stage-4 Close-Out (2026-07-17)
+
+**Mapping-prediction score** (registered pre-Stage-4 in the workbook's Stage-3
+field-desk block): largely confirmed — Ziggy-side moves landed NEW/
+thread-specific; Framework Transfer matched Cross-Disciplinary Swooping
+(Nova-attributed) as predicted. **Two deviations:** the extractor mapped
+Qualified Agreement and Special-Case Subordination onto `Contested ≠ Defeated`,
+which the field desk **rejected** — no genuine contest or threatened defeat
+occurred; "adjacent in spirit is not lineage." The two-layer system worked:
+extractor over-mapped, field desk caught it, archive records both.
+
+**Operator outcomes:**
+
+- **CO-009 · Relational Parameterization** registered at 🔴 RED (thread-derived,
+  recurrence untested) — the dig's strongest discovery, with generalization far
+  beyond invariance: justified→under standard S; identical→under criterion C;
+  stable→over interval I; objective→across observer transformations O;
+  successful→by metric M.
+- **CO-010 · Cross-Disciplinary Swooping** entered the lexicon at 🔴 RED with its
+  first documented instance — attributed to **Nova** (the AI collaborator), not
+  Ziggy, for whom it remains an untested candidate theme.
+- Of the 13 Stage-2 moves: several compressed into phases/outputs of larger
+  operations per the conservative-compression rule ("excavate generously,
+  classify conservatively").
+
+**Refined lineage (final):** unchangedness → transformation-relative stability
+→ cross-domain abstraction → CFA transfer (model differences as
+transformations) → convergence as candidate invariant → **critical
+correction:** convergence may reflect common causes, correlated error, shared
+data, or prompt effects → **open requirement:** specify transformations,
+independence, failure criteria, and known-false controls.

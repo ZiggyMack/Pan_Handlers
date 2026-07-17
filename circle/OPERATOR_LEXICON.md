@@ -6,7 +6,7 @@
 > member-specific evidence. Operators are shared vocabulary, not member property,
 > and operator names must never become insults (`ETHICS_AND_CONSENT.md`).
 
-**Last updated:** 2026-07-16 · **Entries:** 8 (all RED)
+**Last updated:** 2026-07-17 · **Entries:** 10 (all RED)
 
 ---
 
@@ -153,15 +153,41 @@ in the promotion log.
 - **Museum link:** counter-principle originates in the Museum's ledger discipline.
 - **Instantiated in:** `MEMBERS/01_GRANT/OPERATOR_MAP.md`
 
+### CO-009 · Relational Parameterization  [🔴 RED]
+
+- **Definition:** An apparently intrinsic property is reconstructed as a relation indexed to a frame, condition, or transformation ("does not change" → "does not change under transformation T").
+- **Proposed by / first observed in:** blind-recovered by the v0.2.2 extraction pipeline from a bounded Ziggy–Nova exchange (DIG_AUX_02, 2026-07-17); performed by **Nova** in that instance. Recurrence untested — thread-derived.
+- **Typical trigger:** an absolute-sounding predicate is questioned or used loosely.
+- **Usual output:** the predicate gains an explicit parameter; disputes shift from "is it X?" to "under what T is it X?"
+- **Productive use:** enormous generalization surface — justified→under standard S; identical→under criterion C; stable→over interval I; objective→across observer transformations O; successful→by metric M.
+- **Failure mode:** parameter proliferation as evasion — endless re-indexing can defer any verdict indefinitely (relativism-by-parameterization).
+- **Counter-operator:** demand the parameter be *specified and defended*, not merely invoked.
+- **Museum link:** none yet. **Circle note (hypothesis only):** Ziggy's "jurisdiction of justification" thesis (SWEEP_00, Z-06) is structurally an *instance* of this operator (justified → justified under standard S) — if a bounded dig confirms Ziggy deploying the general form, CO-009 gains a second actor and a promotion case.
+- **Instantiated in:** `evidence/chat_extractions/DIG_AUX_02_invariance_and_stable_structure_2026-07.md` (Stage 4)
+
+### CO-010 · Cross-Disciplinary Swooping  [🔴 RED]
+
+- **Definition:** A structure or distinction is imported from a distant discipline to reframe the live dispute.
+- **Proposed by / first observed in:** long-listed as a candidate Ziggy theme (founding charter); **first documented instance** blind-recovered in DIG_AUX_02 (2026-07-17) as "Framework Transfer" — performed by **Nova** (math/physics invariance → model-convergence analysis), Stage-4 verdict MATCHES/EXTENDS. Ziggy recurrence untested.
+- **Typical trigger:** a dispute or concept stalls inside its home vocabulary.
+- **Usual output:** a reframing that makes new structure visible — and new obligations: the import is *real* before it is *valid*.
+- **Productive use:** discovery; unlocking stalled disputes; building bridges between registries.
+- **Failure mode:** analogies not yet technically earned — the imported structure's validity conditions (e.g., a formal transformation class) don't come along for the ride.
+- **Counter-operator:** demand the transfer's validity conditions be paid in the destination domain (the "scientifically expensive" step).
+- **Museum link:** none yet; candidate affinity with the Museum's translation-type operators — check at next cross-registry review.
+- **Instantiated in:** `evidence/chat_extractions/DIG_AUX_02_invariance_and_stable_structure_2026-07.md` (Stage 4; Nova-attributed)
+
 ---
 
 ## Candidate Queue (named, not yet entered)
 
 From the Phase 2 Ziggy theme list (`ARCHIVE_PLAN.md` §VI) — to be defined as CO
-entries when the Ziggy control profile opens: cross-disciplinary swooping ·
-possibility preservation · map expansion · institutional symmetry testing ·
-lived-experience admission · recursive synthesis · semantic pressure detection ·
-adversarial play · large-scale integration · over-generation / insufficient pruning.
+entries when the Ziggy control profile opens: possibility preservation ·
+map expansion · institutional symmetry testing · lived-experience admission ·
+recursive synthesis · semantic pressure detection · adversarial play ·
+large-scale integration · over-generation / insufficient pruning.
+*(Cross-disciplinary swooping graduated to CO-010, 2026-07-17 — first documented
+instance is Nova's, so it remains an untested candidate FOR ZIGGY.)*
 
 ---
 
@@ -170,3 +196,6 @@ adversarial play · large-scale integration · over-generation / insufficient pr
 | Date | Operator | Change | Evidence |
 | ------ | ---------- | -------- | ---------- |
 | 2026-07-16 | CO-001…CO-008 | Registered at RED | Grant pilot hypotheses, `ARCHIVE_PLAN.md` §IV |
+| 2026-07-17 | CO-009 Relational Parameterization | Registered at RED — first operator discovered by the extraction pipeline itself (blind Stage 2 → Stage 4 NEW verdict → field-desk confirmation) | DIG_AUX_02; actor Nova; recurrence untested |
+| 2026-07-17 | CO-010 Cross-Disciplinary Swooping | Entered from candidate queue at RED — first documented instance, blind-recovered (prompt-independent) | DIG_AUX_02 Stage 4 (Framework Transfer MATCHES/EXTENDS); actor Nova; Ziggy recurrence untested |
+| 2026-07-17 | (Contested ≠ Defeated) | Mapping attempts from DIG_AUX_02 (Qualified Agreement, Special-Case Subordination) **rejected** — no genuine contest occurred; "adjacent in spirit is not lineage" | Field-desk Stage-4 review, DIG_AUX_02 |

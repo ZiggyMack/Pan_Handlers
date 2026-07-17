@@ -1,6 +1,6 @@
 # DIG AUX 02 — Invariance and Stable Structure
 
-**Status:** STAGE 3 COMPLETE — field-desk PASS; STAGE 4 AUTHORIZED
+**Status:** ✅ COMPLETE — all four stages; field-desk final verdict filed; promotions executed 2026-07-17
 **Disposition:** IDEA-TRAIL SEED / ZIGGY–NOVA CONCEPTUAL EXCHANGE — **not Grant evidence**
 **Bounded subject:** whether an invariant is "just a fancy name for something that doesn't change," refined into stability relative to a specified transformation
 **Protocol:** v0.2.2 Stage 1 (bounded; `Source-boundary confirmation: Confirmed`) · **Extraction date:** 2026-07-17
@@ -2554,6 +2554,70 @@ Only thread-specific behavioral claims are profile-ready. No stable trait about 
 
 Grant remains entirely UNKNOWN.
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 / FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable.
+
+**Verdict: successful completed auxiliary dig.** Stage 4 resisted the two
+biggest dangers — forcing Grant-centered operators into unrelated material,
+and turning one articulate answer into a permanent cognitive profile. Self-
+audit praised for catching over-segmentation, transcript imbalance, role
+effects, formalism inflation, retrospective coherence.
+
+**Final disposition:** COMPLETE / IDEA-TRAIL SEED / primary subjects
+Ziggy–Nova–CFA convergence / Grant relevance NONE / profile promotion
+THREAD-SPECIFIC CLAIMS ONLY / operator promotion NO.
+
+**What the dig earned:**
+- **Relational Parameterization** — the strongest discovery: an apparently
+  intrinsic property reconstructed as a relation indexed to a frame,
+  condition, or transformation ("does not change" → "does not change under
+  T"). Generalizes: justified→under standard S; identical→under criterion C;
+  stable→over interval I; objective→across observer transformations O;
+  successful→by metric M. Registered as **CO-009, RED / thread-derived /
+  recurrence untested**.
+- **Framework Transfer → Cross-Disciplinary Swooping** — the cleanest
+  existing-operator match (Nova imported transformation-relative invariance
+  from math/physics into model-convergence analysis), preserving the
+  distinction between the transfer being *real* and being *valid*. Documented
+  as CO-010's first instance — attributed to **Nova**, Ziggy recurrence
+  untested.
+
+**Overreach corrected:** the Stage-4 mappings of Qualified Agreement and
+Special-Case Subordination onto `Contested ≠ Defeated` are **REJECTED FOR
+NOW** — no genuine contest, objection, or threatened defeat occurred; what
+happened was preserve-valid-content → restrict-scope → nest-in-broader-
+category. Adjacent in spirit is not lineage. Recorded as NEW/thread-local
+(Special-Case Subordination retained as possible submove of Qualified
+Preservation).
+
+**Conservative compression** ("excavate generously, classify conservatively"):
+of 13 Stage-2 moves — Compression Metaphor → rhetoric; Intellectual-Lineage
+Triangulation → research/navigation behavior; Variation-as-Transformation
+Reclassification → phase of Framework Transfer; Convergence Reinterpretation
+→ output of Framework Transfer; Special-Case Subordination → possible submove.
+Ziggy's sequence: Ordinary-Language Reduction → Signal-Extraction Framing.
+Nova's sequence: Qualified Preservation → Relational Parameterization →
+Cross-Domain Exemplification → Structural Abstraction → Framework Transfer →
+Convergence Reinterpretation → Stress-Survival Heuristic.
+
+**Profile ceilings enforced:** for Ziggy, only *"in this exchange, Ziggy tested
+a technical concept by proposing a plain-language reduction and a
+signal-versus-noise interpretation"* — NOT "Ziggy characteristically performs
+Ordinary-Language Reduction." For Nova: actual moves preserved, no stable
+architecture inferred. Interaction: *"this exchange displayed a generative,
+charitable pattern"* — NOT a characteristic dyadic style.
+
+**Trail registered:** `../../IDEA_TRAILS/IT-014_invariance_stable_structure_and_model_convergence.md`
+with the central research question: *which transformations must a claim
+survive before cross-model agreement counts as invariance rather than
+correlated consensus?* — "The dig began with 'isn't an invariant just
+something that doesn't change?' and ended by identifying precisely why
+**agreement is not yet invariance**. That is a proper idea trail."
 
 ---
 
