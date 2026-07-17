@@ -98,7 +98,7 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_13.md` | *(template consumed into COMPOUND_SWEEP_12)* | — |
 | `DIG_COMPOUND_SWEEP_12_lying_justification_culpability_and_productive_disruption.md` | ⚡ ⭐ **MILESTONE: first substantial G-DIRECT Grant material** (screenshots) — the Gavin dispute (did he lie?): mental-state ladder (error → recklessness → truth-indifference → lying); four meanings of "basis"; contemporaneous vs post-hoc; population correlation vs individual accusation; **the credit problem** (occasion ≠ contribution ≠ credit ≠ access); aux seeds: religious discernment; resistance/awakening (self-sealing danger named) | ✅ **COMPLETE — ZERO promotions (plow-through held, 11th consecutive)**; closed through the **second full self-correction cycle** (repair order → correction → **registry-completion patch**, new case law); ⭐ **G-002 = first G-DIRECT Grant source; 3 packet-local seeds** (disciplined standards, not pathologies); Threshold-to-Character Escalation QUARANTINED; 12 confirmed A3s; **omission-derived requirements ≠ demonstrated actor behavior** (new archive-wide restriction); 7 dig-level families; Ziggy = Salvager–Synthesizer; seeds IT-084…092 |
 | `DIG_14.md` | *(template consumed into COMPOUND_SWEEP_13)* | — |
-| `DIG_COMPOUND_SWEEP_13_faith_uncertainty_evidence_and_action.md` | ⚡ Compound sweep: faith, uncertainty, evidence, and action *(topic pending Stage-1 review)* | 🟡 IN PROGRESS — Stage 1 output pasted; awaiting Stage-1 field-desk review |
+| `DIG_COMPOUND_SWEEP_13_faith_uncertainty_evidence_and_action.md` | ⚡ ⭐ **Second G-DIRECT-bearing packet** (Grant's shared-AI screenshots) — can "faith" name acting under uncertainty, and does that pressure evidentialist nonbelief? The false Hume attribution caught (CO-CONSTRUCTED SYNTHESIS); the son-height/milk overbreadth test; the four-way separation (uncertainty ≠ commitment ≠ faith ≠ God); belief threshold ≠ action threshold; the raffle (observation vs report); the trilemma widened | 🟡 IN PROGRESS — Stage 1 ✅ reviewed (major conceptual consolidation binding); **2 G-DIRECT Grant seeds** (Hume-attribution challenge; example stress testing); trivialization problem + faith sense ledger filed; Stages 2–4 pending; **9 trails at close (IT-093…101)** |
 | `DIG_15.md` | *(fresh slot — minted 2026-07-17 from the DIG_14 template)* | EMPTY |
 | `DIG_16.md` | *(fresh slot)* | EMPTY |
 | `DIG_17.md` | *(fresh slot)* | EMPTY |
@@ -201,7 +201,13 @@ frameworks). **From SWEEP_12's X-CONTEXT:** ⭐ **"B-STORM_04_Castenada"**
 titled lead in the excavation**); "delete_6" **7th pointer**;
 "B-Storm_02" 2nd pointer (Grant's justification/prediction reliance);
 "delete_18" 2nd pointer (Grant's value framework); "Castaneda" 2nd
-pointer.
+pointer. **From SWEEP_13's X-CONTEXT (new titles):** **"Markov Chains
+and Logic"** (~06-03, local vs global reference frames / justification —
+kin to SW06's observer work); **"Delayed Choice Quantum Eraser"**
+(~05-20, established frameworks and available paths); **"MISC_01"**
+(~05-21, "kicking the can down the road" / responsibility for reality —
+kin to the stopping-rule family). "Trust vs Prediction" **8th pointer**;
+"Assembly vs High-Level Languages" 3rd pointer (full title confirmed).
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**
