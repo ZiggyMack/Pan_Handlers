@@ -1,4 +1,4 @@
-# DIG 17 — *(title once known)*
+# DIG 22 — *(title once known)*
 
 > **Self-contained dig workbook.** Work top to bottom: copy each stage prompt
 > into the old chat **as its own message**, wait for the reply, paste it under
