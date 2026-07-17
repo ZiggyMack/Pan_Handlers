@@ -242,6 +242,29 @@ conditions* — and the standing debts are now named A1s: comparative
 evaluation of his own Christian bridge, and explicit revision
 conditions for the commitment itself (IT-109).
 
+**The debate-conduct layer (SWEEP_15 — the audit reaches the arguer
+himself):** a G-REPORTED-only packet (no direct Grant corpus), so its
+whole yield is Ziggy-side: seven queue candidates at the extractor's
+"profile-ready" tier (counterexample pressure testing;
+structural–psychological separation; conditional commitment and
+transfer testing — a counter-operation to Universalized Evaluative
+Jurisdiction, never its performance; motive suspension with
+behavioral logging — a motive-space application of Possibility
+Preservation; memory-state qualification — counter to
+Unmeasured-to-Zero; analogy-based reconstruction; active AI agency,
+narrowly qualified). The layer's signature is self-implication: the
+confirmed A3s run **against the home side** — motive suspension
+dropped during the gamesmanship inference; structure and psychology
+recombined when opponents' desire to win was inferred; the
+weak-presentation burden not sustained; and above all **the
+escalation self-contribution omission** (his own deliberate
+provocation left out of the causal account of the "mental chess"
+environment — IT-111's standing symmetry test). The freshest
+category: *retained higher-order evidence from past reasoning*
+(IT-112). The tier walls hold: escalation, trickster identity, and
+warrior discipline are conduct and interpretive-role material, never
+operators.
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
@@ -270,8 +293,17 @@ bridge is exempted from the burden imposed on rivals); **preserved
 openness without loss conditions** (SWEEP_14 — the reciprocal prey:
 metaphysical openness that accepts no discriminating evidence or
 reachable defeat conditions drifts from preservation into
-protection). Candidate charter theme "over-generation / insufficient
-pruning" has not yet been directly tested — the opening research
-question stands.
+protection); **the escalation self-contribution omission** (SWEEP_15,
+confirmed A3-06 — his own deliberate provocation omitted from the
+causal account of the adversarial environment he then analyzed; the
+correction permanent: *opponent conduct + his provocation +
+reciprocal escalation + platform incentives*); **discipline decay
+under frustration** (SWEEP_15, confirmed A3-01/A3-04/A3-05 — motive
+suspension, structure/psychology separation, and the
+weak-presentation burden all demonstrated, all dropped in the heat of
+the gamesmanship dispute: *the capacity is real; the consistency is
+the open question*). Candidate charter theme "over-generation /
+insufficient pruning" has not yet been directly tested — the opening
+research question stands.
 
 *(Formal sections B–L still await Phase 2; this ledger feeds them.)*

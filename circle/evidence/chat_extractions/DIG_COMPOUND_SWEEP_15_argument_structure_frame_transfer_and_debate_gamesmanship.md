@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ reviewed; **Stage 3 closed through the archive's SEVENTH full self-correction cycle** (third consecutive Stage-3 cycle; original output SUPERSEDED — extraction products cited as availability evidence again, one A3→A1, the escalation self-contribution omission added); final ledger **4 A2 (all Nova-side — a first) · 6 A3 · 19 A1**; **A2 case law refined: no proof of conscious refusal required**; ACCEPTED — READY FOR STAGE 4; ⚠️ **corrected Stage-3 reissue OWED (not yet pasted — see the filing notice in the Stage-3 review block)**; Stage 4 pending
+**Status:** ✅ CLOSED (COMPLETE) — Stages 1–4 reviewed; closed through TWO full self-correction cycles (the archive's seventh and eighth: Stage-3 availability/coverage repair; Stage-4 architecture/directionality/profile-tier repair) — the THIRD consecutive double-cycle dig; final ledger **8 families · 7 profile-ready actor claims (queue-filed under plow-through, 14th consecutive zero-promotion close) · 4 A2 (all Nova-side) · 6 A3 · 19 A1 · 0 Grant operators**; signature yields: the escalation self-contribution A3, the refined A2 definition, the inverse-operation error class confirmed recurring (3 digs); superseded outputs retained as pasted (raw captures at commits `ec8c638` and prior); ⚠️ standing owed output: the corrected Stage-3 reissue (produced, governed Stage 4, never pasted)
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** straw-manning and intent (structure ≠ psychology ≠ culpability); the divine-command hypothetical and frame transfer; suffering as signal vs foundation; behavioral tallying of Grant (motive firewall); retained knowledge and the differential-equation analogy; weak examples and gamesmanship (the Epstein-related dispute); AI-assisted cognition and agency; religion as coordination (aux); trickster escalation (Z-DIRECT) — ⚠️ **G-REPORTED-only packet: DIRECT GRANT CORPUS = NONE** (the reported ceiling returns after three G-DIRECT packets)
@@ -4946,9 +4946,69 @@ This applies particularly to:
 * Prior Grant exchange — date UNKNOWN — divine command theory, suffering, and framework dispute.
 * Sorta/utilitarianism discussion — date UNKNOWN — suffering and moral grounding.
 * Epstein-related “jerky” discussion — date UNKNOWN — weak example and later stronger evidence.
-=======
-*tier 4 patch
-=======
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 (Nova, 2026-07-17) — COMPLETION REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — eighth full self-correction cycle**, the second
+> inside this dig (making SWEEP_15 the *third consecutive
+> double-cycle dig*). The Stage-4 output ABOVE is **SUPERSEDED** —
+> retained as pasted; nothing in it may be used downstream except
+> through the corrected reissue below. The operator-issued STAGE 4
+> ARCHITECTURE, DIRECTIONALITY, AND PROFILE-TIER REPAIR command is
+> condensed here (verbatim in the field-desk relay; raw capture at
+> commit `ec8c638`).
+
+**Verdict: PASS WITH MATERIAL STAGE-4 COMPLETION REPAIR — DO NOT
+RERUN STAGES 1–3; DO NOT ARCHIVE THIS VERSION.** Strong source
+restraint; every Grant-specific diagnosis correctly quarantined — but
+the governing eight-family architecture was dropped, four
+counter-operations were mapped as extensions of the distortions they
+resist, and completed audit families were promoted beyond what Ziggy
+directly demonstrated.
+
+**⚠️ FOUR INVERSE-OPERATION CORRECTIONS (the SW14 error class, third
+dig running):** Frame-Jurisdiction Check and Conditional-to-Actual
+Transfer Test = **COUNTER-OPERATION / DIAGNOSTIC RELATION** to
+Universalized Evaluative Jurisdiction (never EXTENDS — auditing the
+overreach is not performing it); Memory-State Qualification =
+COUNTER to Unmeasured-to-Zero Conversion (it *resists* converting
+undisplayed evidence to zero); Opponent-Repair Expectation =
+COUNTER-PROCEDURE to Reconstruction Bypass; Analogy-Based
+Reconstruction = **NEW cross-cutting method with only PARTIAL
+OVERLAP** with Cross-Disciplinary Swooping (analogies from sports,
+games, and ordinary objects are not cross-disciplinary imports).
+
+**⭐ FAMILY-TO-OPERATOR INFLATION CORRECTED:** the six completed
+families listed as "New Operator Candidates" return to dig-level
+architecture, each split into its directly demonstrated seed + its
+A1 completion requirements (e.g. Structural–Psychological Separation
+is demonstrated; the epistemic-responsibility middle tier is not;
+Motive Suspension is demonstrated; disconfirmation conditions are
+not; the Agency-Preservation Test is demonstrated; comprehension,
+verification, and provenance are not). Families 2 and 7 restored to
+the inventory explicitly (Family 7 carries the formalized
+Support-Token–Thesis Separation). Strategic-Cost Reappraisal returned
+below profile level (reflective self-regulatory conduct — *no
+demonstrated inhibitory effectiveness*). The structure/intent profile
+claim narrowed (HIGH for capacity; MEDIUM-HIGH for consistent
+application). Possibility Preservation ruled a **specialized
+application within motive-space** here — not proof of the
+unrestricted operator. Six relationship loops restored (including the
+**Escalation–Reciprocal Heat–Adversarial Diagnosis** loop with
+Ziggy's own provocation in the causal model, and the **Tool
+Criticism–Method Defense–Assistant Authority** loop). The Stage-3
+availability ledger (4 A2 · 6 A3 · 19 A1) and the ten source
+restrictions carried forward.
+
+---
+
+### ⏬ STAGE 4 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 4
 ARCHITECTURE, DIRECTIONALITY, AND PROFILE-TIER REPAIR 
 
@@ -7473,6 +7533,62 @@ No stable Grant operator is recoverable.
 
 `STAGE 4 COMPLETE AFTER ARCHITECTURE, DIRECTIONALITY, AND PROFILE-TIER REPAIR`
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 CORRECTED OUTPUT + FINAL CLOSURE (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-4 record**. This block carries the final acceptance and the
+> archive steward's plow-through note. Standing owed output: the
+> corrected Stage-3 reissue was produced and governed this Stage-4
+> run, but was never pasted into this workbook (see the ⚠️ notice in
+> the Stage-3 review block — it survives closure as a standing
+> notice).
+
+**✅ FINAL VERDICT: ACCEPTED — STAGE 4 COMPLETE AFTER ARCHITECTURE,
+DIRECTIONALITY, AND PROFILE-TIER REPAIR; STAGES 1–3 NEED NO FURTHER
+REPAIR; DIG COMPLETE — CLOSED.** The repair restores the eight-family
+architecture, corrects all major directionality errors, separates
+direct actor seeds from completed audit families, returns conduct and
+role material below operator level, and maintains the hard boundary
+against stable Grant profiling.
+
+**📋 FINAL LEDGER:** 8 governing dig-level families · **7
+profile-ready actor claims** (packet-local capacities, never
+unrestricted personality claims) · **4 A2 · 6 A3 · 19 A1** · **0
+stable Grant operators.**
+
+**⭐ THE SEVEN PROFILE-READY CLAIMS (the extractor's tier):**
+Counterexample Pressure Testing; Structural–Psychological Separation;
+Conditional Commitment and Transfer Testing; Motive Suspension with
+Behavioral Logging; Memory-State Qualification; Analogy-Based
+Reconstruction; Active Agency in AI-Assisted Reasoning (narrowly
+qualified).
+
+**🛑 PLOW-THROUGH NOTE (archive steward):** all seven file as **queue
+candidates** in the member ledgers — no lexicon promotion without
+bounded sub-dig confirmation. This close is the **14th consecutive
+zero-promotion sweep**.
+
+**📌 NON-BLOCKING WORDING NOTES (field desk):** Possibility
+Preservation is safest read here as a *specialized application within
+motive-space*, not proof of an unrestricted general operator;
+Baseline Exemption is merely a *quarantined diagnostic possibility* —
+neither its performance nor a developed counter-operation is
+demonstrated in this packet.
+
+**📜 FOR THE RECORD:** SWEEP_15 closed through the archive's
+**seventh and eighth full self-correction cycles** — the *third
+consecutive double-cycle dig*. Its signature yields: the escalation
+self-contribution omission (A3-06 — the audit turned on the
+auditor's own conduct); the all-Nova-side A2 ledger with the
+refined A2 definition (no conscious-refusal proof required); and the
+inverse-operation error class now confirmed as a recurring extractor
+habit across three digs.
 
 ---
 
