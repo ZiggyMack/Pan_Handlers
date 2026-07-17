@@ -24,7 +24,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** ✅ COMPLETE (review-complete) — all 4 stage reviews filed; **⚠️ Stage-4 blind output NOT yet pasted (owed to the workbook — fifth-artifact chain incomplete until it lands)**. Zero promotions — plow-through holds (7th consecutive sweep). 4 durable families; repair/immunization discriminator filed; **first confirmed relationship-level Reconstruction Bypass**; trails IT-045…051 opened; Grant: G-REPORTED/NOVA-RECONSTRUCTED NON-SITE
+**Status:** ✅ COMPLETE — all 4 outputs pasted and all 4 stage reviews filed (fifth-artifact chain closed; Stage-4 output arrived after the review — noted in the audit trail). Zero promotions — plow-through holds (7th consecutive sweep). 4 durable families; repair/immunization discriminator filed; **first confirmed relationship-level Reconstruction Bypass**; trails IT-045…051 opened; Grant: G-REPORTED/NOVA-RECONSTRUCTED NON-SITE
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep: subjective experience as evidence; public vs private warrant; knowledge standards vs action thresholds; belief/justification/truth separation; **what defeating a reason actually defeats**; belief rescue vs immunization (Ziggy's own admitted rescue impulse = the dig's hottest prey); ⚠️ opens with Nova reconstructing an UNAVAILABLE earlier conversation — source-boundary repair governs
@@ -3740,12 +3740,1196 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
 
-> ⚠️ **FILING NOTICE:** the Stage-4 blind output has NOT yet been pasted
-> above. Nova's final-disposition review (below) arrived and is filed;
-> the extractor's Stage-4 output itself is still owed to this workbook —
-> paste it above this notice to complete the fifth-artifact chain.
+1. Blind-to-Named Mapping
+
+### Move 1: Component Separation
+
+**Stage-2 provisional name**
+Component Separation
+
+**Mapping verdict**
+NEW
+
+**What matches existing candidates**
+It can support **Universalized Evaluative Jurisdiction** analysis by separating domains such as knowledge, belief, justification, and action before a standard crosses between them.
+
+**What does not match**
+The move itself is not the unauthorized extension of a standard. It is a general decomposition operation used to identify whether such an extension has occurred.
+
+**Stage-3 survival check**
+Partially survives.
+
+Stage 3 found that the pattern is strongly present but may be better explained as Nova’s assistant-role exposition and conceptual teaching method than as an independently demonstrated personal cognitive operator.
+
+**Final mapping status**
+Retain as a new neutral candidate, but do not profile it as an individual Ziggy operator from this thread.
+
+---
+
+### Move 2: Inferential Bridge Inspection
+
+**Stage-2 provisional name**
+Inferential Bridge Inspection
+
+**Mapping verdict**
+EXTENDS **Symmetry Testing of Standards**
+
+**What matches**
+Both operations require a standard or transition to justify its own authority rather than functioning as an invisible default.
+
+In this thread, the inspected transitions include:
+
+* justification → belief;
+* defeated reason → false belief;
+* knowledge standard → action standard.
+
+**Delta from the named candidate**
+**Symmetry Testing of Standards** usually reverses a burden onto the evaluating framework. Inferential Bridge Inspection is broader: it examines any hidden transition, even when no interpersonal or framework-level symmetry test is involved.
+
+**What does not match**
+Not every bridge inspection forces identical burdens onto two competing frameworks. Some merely ask whether a conclusion follows from its premise.
+
+**Stage-3 survival check**
+Survives strongly.
+
+Stage 3 found repeated use across several distinct conceptual transitions and rejected the strongest alternative that it was merely an isolated rhetorical question.
+
+**Final mapping status**
+A broader inferential form that contains symmetry testing as one application.
+
+---
+
+### Move 3: Jurisdiction Sorting
+
+**Stage-2 provisional name**
+Jurisdiction Sorting
+
+**Mapping verdict**
+MATCHES **Universalized Evaluative Jurisdiction** as its diagnostic counter-operation
+
+**What matches**
+The move identifies when a standard appropriate to one domain is extended into another without established authority.
+
+Examples include:
+
+* Gettier-grade knowledge standards applied to practical action;
+* scientific description treated as sufficient to determine human ends;
+* justification treated as exhaustive of belief or commitment.
+
+**What does not match**
+The named candidate describes the overextension itself. Jurisdiction Sorting is the corrective operation that detects and blocks it.
+
+**Stage-3 survival check**
+Survives with qualification.
+
+Stage 3 found the move recurrent and substantive, but also noted that it expresses a pluralist philosophical commitment and may overstate the separateness of domains that interact in practice.
+
+**Final mapping status**
+Strong diagnostic inverse of **Universalized Evaluative Jurisdiction**, not evidence that a specific absent participant committed the named error.
+
+---
+
+### Move 4: Foundation Reversal
+
+**Stage-2 provisional name**
+Foundation Reversal
+
+**Mapping verdict**
+MATCHES **Symmetry Testing of Standards**
+
+**What matches**
+The standard rejecting subjective experience is turned back upon the evaluator’s own accepted foundation for consciousness.
+
+The challenged framework must explain why first-person experience is admissible in one case but disqualified in another.
+
+**What does not match**
+The move does not establish that all subjective reports deserve equal evidential weight. It tests consistency of admissibility, not equivalence of reliability.
+
+**Stage-3 survival check**
+Survives only as a consequential one-time move.
+
+Stage 3 weakened its classification as a repeated operator because only one clear instance appears.
+
+**Final mapping status**
+Valid instance of **Symmetry Testing of Standards**, but not profile-ready as a stable individual pattern.
+
+---
+
+### Move 5: Consequence Limitation
+
+**Stage-2 provisional name**
+Consequence Limitation
+
+**Mapping verdict**
+MATCHES **Contested ≠ Defeated**
+
+**What matches**
+The move explicitly limits what follows from an objection:
+
+* a reason may fail;
+* justification may weaken;
+* the proposition has not thereby been proven false.
+
+It keeps the dialectical status open rather than treating a successful objection to one argument as total defeat.
+
+**What does not match**
+The move can also operate in cases where the issue is more than merely contested. A defeated central reason may warrant substantial confidence reduction even if falsity is not established.
+
+**Stage-3 survival check**
+Survives strongly, with a defensive-use qualification.
+
+Stage 3 found the logical function valid and recurrent, while also noting that it may become a belief-preservation tactic if applied asymmetrically.
+
+**Final mapping status**
+Strong match.
+
+---
+
+### Move 6: Load-Bearing Reason Test
+
+**Stage-2 provisional name**
+Load-Bearing Reason Test
+
+**Mapping verdict**
+EXTENDS **Contested ≠ Defeated**
+
+**What matches**
+Both resist converting local argumentative damage into total defeat.
+
+**Delta from the named candidate**
+The load-bearing test adds evidential weighting. It asks not only whether the belief remains undefeated, but how much rational support was lost when a particular reason failed.
+
+Possible outputs include:
+
+* negligible revision;
+* confidence reduction;
+* major reconstruction;
+* abandonment.
+
+**What does not match**
+**Contested ≠ Defeated** preserves an unresolved possibility. The load-bearing test may conclude that the belief is badly undermined even without strict disproof.
+
+**Stage-3 survival check**
+Survives with qualification.
+
+Stage 3 accepted the proportional logic but found no independent method for determining whether a reason was genuinely central rather than retrospectively demoted after refutation.
+
+**Final mapping status**
+A useful evidential extension, vulnerable to motivated reclassification.
+
+---
+
+### Move 7: Actual-Cause Reassessment
+
+**Stage-2 provisional name**
+Actual-Cause Reassessment
+
+**Mapping verdict**
+NEW
+
+**What matches existing candidates**
+It may support **Reconstruction Bypass** analysis by asking whether publicly offered arguments reconstruct the actual basis, aims, or causal history of the belief.
+
+**What does not match**
+It does not reconstruct an external framework according to its own ontology or success conditions. It distinguishes psychological causes of believing from articulated reasons and epistemic warrant.
+
+**Stage-3 survival check**
+Weakened.
+
+Stage 3 found that the thread offered hypothetical possibilities but did not establish any participant’s actual causal belief history. It may be speculative psychologizing rather than an observed operator.
+
+**Final mapping status**
+Retain as a theoretical candidate only.
+
+---
+
+### Move 8: Belief Rescue
+
+**Stage-2 provisional name**
+Belief Rescue
+
+**Mapping verdict**
+EXTENDS **Possibility Preservation**
+
+**What matches**
+The believed proposition remains on the map after a supporting argument fails rather than being removed immediately.
+
+**Delta from the named candidate**
+**Possibility Preservation** merely retains a low-plausibility candidate during exploration. Belief Rescue is more committed and directional:
+
+* the proposition is already believed;
+* the actor actively searches for replacement support;
+* the aim is preservation rather than neutral continued consideration.
+
+**What does not match**
+Belief Rescue may preserve confidence or identity investment, not merely logical possibility. It can therefore exceed exploratory preservation and become motivated immunization.
+
+**Stage-3 survival check**
+Moderately survives.
+
+The move is directly self-reported by Ziggy as his likely “first reaction,” but no repeated enactment appears in the bounded source.
+
+**Final mapping status**
+A commitment-weighted variant of **Possibility Preservation**, below profile threshold as a stable operator.
+
+---
+
+### Move 9: Action-Generated Evidence
+
+**Stage-2 provisional name**
+Action-Generated Evidence
+
+**Mapping verdict**
+NEW
+
+**What matches existing candidates**
+It can preserve possibilities that detached inquiry cannot yet evaluate, but this is not its defining operation.
+
+**What does not match**
+The move changes the sequence of inquiry itself:
+
+* uncertainty;
+* action or commitment;
+* experience;
+* new evidence;
+* revised understanding.
+
+None of the named candidates captures participation as an evidence-generating procedure.
+
+**Stage-3 survival check**
+Weakened as a cognitive operator.
+
+Stage 3 found it better classified as a substantive epistemological model introduced by Nova than as an observed individual operation.
+
+**Final mapping status**
+Retain as a new theoretical candidate, not a profile-ready actor trait.
+
+---
+
+### Move 10: Standard Symmetry Check
+
+**Stage-2 provisional name**
+Standard Symmetry Check
+
+**Mapping verdict**
+MATCHES **Symmetry Testing of Standards**
+
+**What matches**
+The same evidential rule is required to apply across favored and disfavored cases.
+
+The thread’s primary case asks whether subjective experience can be admitted for consciousness while being categorically rejected elsewhere.
+
+**What does not match**
+The comparison establishes a burden to articulate relevant differences. It does not establish that the cases are evidentially identical.
+
+**Stage-3 survival check**
+Survives with qualification.
+
+Stage 3 found the symmetry demand legitimate but noted that it may become an accusation of special pleading before relevant differences between subjective reports have been examined.
+
+**Final mapping status**
+Direct match.
+
+---
+
+### Move 11: Practical Threshold Shift
+
+**Stage-2 provisional name**
+Practical Threshold Shift
+
+**Mapping verdict**
+EXTENDS **Universalized Evaluative Jurisdiction**
+
+**What matches**
+It resists importing standards for knowledge attribution into practical decision-making.
+
+**Delta from the named candidate**
+Rather than merely diagnosing jurisdictional overreach, it supplies a replacement procedure: calibrate the evidential threshold to the action, available information, stakes, and cost of delay.
+
+**What does not match**
+The named candidate concerns illegitimate extension of authority. Practical Threshold Shift also makes the positive claim that action may rationally proceed below knowledge-level certainty.
+
+**Stage-3 survival check**
+Survives with qualification.
+
+The knowledge/action distinction remains strong, but the thread provides no developed stake-sensitive rule preventing opportunistic lowering of standards.
+
+**Final mapping status**
+A corrective and positive extension of **Universalized Evaluative Jurisdiction** analysis.
+
+---
+
+### Move 12: Retrospective Trace Construction
+
+**Stage-2 provisional name**
+Retrospective Trace Construction
+
+**Mapping verdict**
+NEW
+
+**What matches existing candidates**
+It may reveal a kind of **Reconstruction Bypass** when a person’s stated reasons are accepted as the actual history of belief formation without examination.
+
+**What does not match**
+The operation concerns construction of a narratable justificatory path after belief formation. It is not evaluation of a framework before reconstruction.
+
+**Stage-3 survival check**
+Weakened.
+
+Stage 3 found it directly stated as Ziggy’s meta-belief about reasoning but not independently demonstrated through comparison with an actual known causal history.
+
+**Final mapping status**
+Retain as an explicit theory of reasoning, not a verified recurring operator.
+
+---
+
+### Registry candidates not adequately evidenced as actor-level moves
+
+#### Prediction Sovereignty
+
+**Verdict**
+NO ADEQUATE MATCH
+
+The bounded thread discusses justification, belief, knowledge, action, and subjective evidence. It does not contain a recoverable claim that predictive success is the highest or final epistemic authority.
+
+Any association with Grant would rely on excluded cross-chat material.
+
+---
+
+#### Generative Admission Restriction
+
+**Verdict**
+PARTIAL THEMATIC CONTACT, NO PROFILE-LEVEL MATCH
+
+The opening concern involves subjective experience allegedly being dismissed. This could resemble denial of first-person experience as a serious source of hypotheses or evidence.
+
+However:
+
+* the rejecting actor is not securely identified;
+* the exact scope of the rejection is UNKNOWN;
+* the thread does not establish whether subjective experience was barred from generating candidates or merely judged insufficient to establish a conclusion.
+
+---
+
+#### Unmeasured-to-Zero Conversion
+
+**Verdict**
+NO ADEQUATE MATCH
+
+The conversation defends subjective evidence against wholesale dismissal, but does not clearly document anyone converting “unmeasured,” “private,” or “unverified” into a literal or functional score of zero.
+
+The closest operation is the challenge against treating subjective evidence as worthless, but the target position remains insufficiently evidenced.
+
+---
+
+#### Possibility Compression
+
+**Verdict**
+NO ADEQUATE ACTOR-LEVEL MATCH
+
+The thread repeatedly preserves distinctions and unresolved possibilities rather than compressing them.
+
+No recoverable participant is shown dismissing low-plausibility possibilities merely because they fall beneath a threshold.
+
+---
+
+#### Baseline Exemption
+
+**Verdict**
+PARTIAL MATCH AT THE DISPUTE-STRUCTURE LEVEL
+
+The conversation suspects that Grant’s justificatory framework may operate as an unexamined neutral baseline.
+
+However, Grant’s framework is not directly reconstructed, and no G-DIRECT evidence shows him refusing to justify his own standard.
+
+The pair’s proposed diagnostic questions resemble attempts to challenge a possible baseline exemption, but the underlying Grant behavior remains unverified.
+
+---
+
+#### Reconstruction Bypass
+
+**Verdict**
+MATCHES THE ZIGGY–NOVA TREATMENT OF GRANT AT THE RELATIONSHIP LEVEL
+
+The pair evaluates whether Grant collapses belief into justification without first obtaining a direct reconstruction of Grant’s framework in his own words.
+
+Stage 3 explicitly identifies this as a confirmed informative omission.
+
+This is not safely attributable to Grant. It is attributable to the extraction conversation’s handling of the absent Grant model.
+
+---
+
+#### Contest-to-Defeat Compression
+
+**Verdict**
+PARTIAL TARGET, NOT DIRECTLY OBSERVED
+
+Several moves resist the inference:
+
+* objection to a reason;
+* therefore defeat of the belief.
+
+This implies that such compression is a live concern.
+
+However, no direct statement in the bounded thread clearly performs the contested-to-defeated conversion. It is primarily a hypothetical error being guarded against.
+
+---
+
+#### Possibility Preservation
+
+**Verdict**
+MATCHES THE THREAD’S GENERAL DIALECTICAL POSTURE
+
+The conversation repeatedly keeps propositions open after particular reasons fail and distinguishes uncertainty from disproof.
+
+However, the strongest specific manifestation—Belief Rescue—is not neutral preservation. It actively seeks replacement support for an already-held commitment.
+
+---
+
+#### Cross-Disciplinary Swooping
+
+**Verdict**
+PARTIAL MATCH, PRIMARILY NOVA ROLE-INDUCED
+
+Nova imports distinctions and examples from:
+
+* phenomenology;
+* Gettier epistemology;
+* Humean practical reason;
+* Jamesian commitment;
+* Kierkegaardian uncertainty;
+* Nietzschean rationalization;
+* scientific theory change.
+
+These imports reframe the live dispute.
+
+Stage 3, however, identifies Nova’s behavior as strongly role-induced and protocol-like. The thread does not establish this as a Ziggy profile trait.
+
+2. New Operator Candidates
+
+### New Candidate 1: Component Separation
+
+**Definition**
+Decomposing a disputed whole into distinct functional elements so no implication between them is granted merely through verbal proximity.
+
+**Thread instances**
+
+* belief versus justification;
+* truth versus acceptance;
+* knowledge versus action;
+* reasons versus causes;
+* central versus peripheral support.
+
+**Classification status**
+Strong as a conversation-level Nova method.
+
+**Profile status**
+Not profile-ready for Ziggy. Primarily assistant-role and prompt-induced in this source.
+
+---
+
+### New Candidate 2: Inferential Bridge Inspection
+
+**Definition**
+Isolating the transition between propositions and requiring an independent warrant for the arrow rather than evaluating only the endpoints.
+
+**Thread instances**
+
+* justification → belief;
+* failed justification → false proposition;
+* knowledge requirement → action requirement.
+
+**Classification status**
+Strong and recurrent.
+
+**Profile status**
+Profile-ready at the co-constructed conversation level; actor-specific ownership requires qualification because Nova supplied many explicit formulations.
+
+---
+
+### New Candidate 3: Load-Bearing Reason Test
+
+**Definition**
+Determining how much confidence revision is warranted by asking what proportion of a belief’s support depended on the defeated reason.
+
+**Thread instance**
+Ziggy: “depending how heavy it was using the reasoning.”
+
+**Classification status**
+Conceptually strong, operational test incomplete.
+
+**Profile status**
+Potentially profile-ready as a Ziggy reasoning move, with a review condition requiring evidence that centrality is identified before rather than after refutation.
+
+---
+
+### New Candidate 4: Actual-Cause Reassessment
+
+**Definition**
+Distinguishing articulated reasons from the psychological causes, experiences, identities, or commitments that actually produced or sustain a belief.
+
+**Classification status**
+Theoretically useful but under-evidenced as an enacted move.
+
+**Profile status**
+Quarantined.
+
+---
+
+### New Candidate 5: Action-Generated Evidence
+
+**Definition**
+Treating participation or commitment as an inquiry procedure capable of producing evidence inaccessible from prior detached analysis.
+
+**Classification status**
+Substantive epistemological model rather than demonstrated personal operator.
+
+**Profile status**
+Quarantined as an actor claim.
+
+---
+
+### New Candidate 6: Retrospective Trace Construction
+
+**Definition**
+Constructing an articulated reason-path that renders an already-formed belief explainable, inspectable, and communicable.
+
+**Classification status**
+Explicitly proposed by Ziggy as a function of reasoning; not independently demonstrated.
+
+**Profile status**
+Quarantined pending behavioral evidence.
+
+---
+
+### New Candidate 7: Confidence-Preserving Reason Replacement
+
+**Definition**
+When a supporting argument fails, retain the proposition at approximately its prior commitment level while searching for an alternative justificatory route.
+
+**Derivation**
+This is narrower and more precise than the Stage-2 term Belief Rescue.
+
+It distinguishes:
+
+* neutral possibility preservation;
+* confidence reduction with continued openness;
+* active replacement of reasons while commitment remains stable.
+
+**Classification status**
+One direct Ziggy self-report.
+
+**Profile status**
+Quarantined pending repeated instances and a stopping condition.
+
+3. Profile-Ready Claims
+
+### Claim 1: Ziggy distinguishes defeating a reason from disproving the associated belief
+
+**Subject**
+Ziggy
+
+**Claim**
+Ziggy explicitly resists the inference that showing a person’s reason wrong automatically establishes the falsity of the proposition believed.
+
+**Evidence classification**
+Z-DIRECT
+
+**Confidence**
+High
+
+**Source anchor**
+Ziggy, late conversation: “Havnt shone the belief to be wrong …”
+
+**Stage-3 survival basis**
+
+* Directly stated.
+* Consistent with the later discussion.
+* Counterevidence showed that Ziggy still accepts rational pressure to update when the defeated reason was important.
+* Not better explained as mere rhetoric because he grants a limited consequence against his own preservation impulse.
+
+**Named mapping**
+**Contested ≠ Defeated**
+
+**Review condition**
+Revise if later direct material shows Ziggy routinely treats objections to opposing arguments as sufficient defeat of their conclusions.
+
+---
+
+### Claim 2: Ziggy treats the rational consequence of a failed reason as dependent on how much weight that reason carried
+
+**Subject**
+Ziggy
+
+**Claim**
+Ziggy uses a load-sensitive rather than purely binary model: a false reason may leave the belief intact, but if the belief relied heavily upon it, the person may be misinformed and should update.
+
+**Evidence classification**
+Z-DIRECT
+
+**Confidence**
+High
+
+**Source anchor**
+Ziggy: “it would be potentially misinformed depending how heavy it was using the reasoning.”
+
+**Stage-3 survival basis**
+
+* Survived counterevidence.
+* The strongest alternative—pure defensive preservation—is weakened by Ziggy’s concession that failed reasons can require updating.
+* The operation is substantive and not merely stylistic.
+
+**Named mapping**
+EXTENDS **Contested ≠ Defeated**
+
+**Review condition**
+Test whether Ziggy identifies which reasons are load-bearing before criticism or only reclassifies them afterward.
+
+---
+
+### Claim 3: Ziggy explicitly reports an initial tendency to preserve a belief and seek replacement reasoning when its current reasoning weakens
+
+**Subject**
+Ziggy
+
+**Claim**
+Ziggy says his first reaction would be to rescue the belief with updated reasons rather than immediately abandon it.
+
+**Evidence classification**
+Z-DIRECT self-report
+
+**Confidence**
+Moderate
+
+**Source anchor**
+Ziggy, final original message: “my first reaction … would be to rescue the belief with new updated reasoning hahahaha.”
+
+**Stage-3 survival basis**
+
+* The self-report is direct.
+* The humorous tone does not negate the admission.
+* Stage 3 found insufficient evidence to promote it into a repeatedly observed stable operator.
+
+**Named mapping**
+EXTENDS **Possibility Preservation**
+
+**Review condition**
+Promote confidence only after observing repeated cases, particularly cases involving beliefs with significant identity or existential investment. Test whether confidence decreases while replacement reasoning is sought.
+
+---
+
+### Claim 4: Ziggy treats belief and justification as distinguishable, while still recognizing that justification bears on rational confidence
+
+**Subject**
+Ziggy
+
+**Claim**
+Ziggy does not treat belief and justification as identical. He nevertheless recognizes that failed justification can make a belief less well-informed and create pressure to update it.
+
+**Evidence classification**
+Z-DIRECT and CO-CONSTRUCTED
+
+**Confidence**
+High
+
+**Source anchors**
+
+* Ziggy: “If belief and justification are separate…”
+* Ziggy: “it would be potentially misinformed depending how heavy it was using the reasoning.”
+
+**Stage-3 survival basis**
+Counterevidence strengthened rather than defeated this characterization: the concepts are separate but not causally or normatively unrelated.
+
+**Named mapping**
+No single adequate registry match; supported by **Inferential Bridge Inspection** and **Load-Bearing Reason Test**.
+
+**Review condition**
+Clarify in future material whether Ziggy distinguishes belief itself from degree of confidence and whether he accepts any evidential threshold that rationally requires abandonment.
+
+---
+
+### Claim 5: Ziggy challenges wholesale denial of subjective experience by applying the standard to consciousness
+
+**Subject**
+Ziggy
+
+**Claim**
+Ziggy argues that first-person experience cannot simply be assigned no justificatory role when first-person experience is also implicated in awareness of consciousness.
+
+**Evidence classification**
+Z-DIRECT core move; NOVA-INTERPRETATION supplied its strongest formal wording.
+
+**Confidence**
+Moderate to high
+
+**Source anchor**
+Ziggy, opening: “even self experience is used to justify someone is conscious.”
+
+**Stage-3 survival basis**
+
+* The admissibility argument survives.
+* The stronger claim that subjective experience is sufficient or equally reliable across domains did not survive and is excluded here.
+* The move is one-time but consequential and clearly recoverable.
+
+**Named mapping**
+**Symmetry Testing of Standards**
+
+**Review condition**
+Test under reversed roles: determine how Ziggy weighs another person’s incompatible private experience and what principled differences he allows between kinds of first-person evidence.
+
+---
+
+### Claim 6: The Ziggy–Nova exchange repeatedly inspects hidden transitions between justification, belief, knowledge, and action
+
+**Subject**
+Conversation-level, co-constructed
+
+**Claim**
+The pair repeatedly isolates and questions inferential transitions rather than treating adjacent concepts as automatically connected.
+
+**Evidence classification**
+CO-CONSTRUCTED
+
+**Confidence**
+High
+
+**Source anchors**
+
+* Nova: “Why must I therefore adopt the belief?”
+* Nova: “Sufficient for knowledge or sufficient for action?”
+* Ziggy: “Havnt shone the belief to be wrong…”
+
+**Stage-3 survival basis**
+
+* Recurrent across multiple disputes.
+* Not reducible to one rhetorical flourish.
+* Classification defended as a genuine reasoning operation, although Nova often supplies the explicit formalization.
+
+**Named mapping**
+EXTENDS **Symmetry Testing of Standards**
+
+**Review condition**
+Separate future actor-level evidence to determine whether Ziggy independently deploys the move without Nova’s conceptual expansion.
+
+---
+
+### Claim 7: The conversation resists applying knowledge-level standards directly to practical action
+
+**Subject**
+Conversation-level, primarily Nova and co-constructed with Ziggy
+
+**Claim**
+The exchange distinguishes what is required to classify a proposition as knowledge from what is sufficient to act under uncertainty.
+
+**Evidence classification**
+NOVA-INTERPRETATION / CO-CONSTRUCTED
+
+**Confidence**
+High as a thread-level claim
+
+**Source anchor**
+Nova: “The Gettier problem is a problem about: ‘When can we call something knowledge?’ Your point has usually been about: ‘When can we act?’”
+
+**Stage-3 survival basis**
+The distinction survived. The absence of stake-sensitive thresholds limits its scope but does not erase the jurisdictional separation.
+
+**Named mapping**
+Corrective to **Universalized Evaluative Jurisdiction**
+
+**Review condition**
+Require future specification of how evidential thresholds change with risk, reversibility, harm, and cost of delay.
+
+---
+
+### Claim 8: The extraction conversation evaluated Grant before reconstructing Grant’s framework from direct evidence
+
+**Subject**
+Ziggy–Nova interaction
+
+**Claim**
+The pair developed and tested the hypothesis that Grant collapses belief into justification despite having no G-DIRECT statements in the bounded thread.
+
+**Evidence classification**
+Source-structure fact; G-REPORTED and NOVA-INTERPRETATION only
+
+**Confidence**
+High
+
+**Source anchors**
+
+* Ziggy: “is this what Grant is doing…”
+* Repeated Nova formulations beginning “Grant often seems…”
+* Stage-1 audit: no G-DIRECT evidence.
+
+**Stage-3 survival basis**
+Stage 3 classified the missing reconstruction as a confirmed informative omission.
+
+**Named mapping**
+**Reconstruction Bypass**
+
+**Review condition**
+Suspend or revise all Grant-specific conclusions once direct Grant text or a mutually accepted reconstruction becomes available.
+
+4. Quarantined Claims
+
+### Quarantined Claim 1: Grant collapses belief into justification
+
+**Why quarantined**
+
+* No G-DIRECT evidence.
+* The claim began as Ziggy’s diagnostic question.
+* Nova’s reconstruction may have stabilized a hypothetical position into an apparent Grant trait.
+* Stage 3 substantially weakened the characterization.
+
+**Evidence needed for promotion**
+A direct Grant statement defining the relationship among belief, justification, truth, confidence, and action, preferably including his response to:
+
+* whether justification and belief are identical;
+* whether sufficient justification rationally compels belief;
+* whether failed reasons require confidence reduction or proposition rejection.
+
+---
+
+### Quarantined Claim 2: Grant universalizes justificatory jurisdiction
+
+**Why quarantined**
+The thread suspects that Grant may apply justification or knowledge standards across belief, action, and subjective experience, but no direct Grant sequence establishes the extension.
+
+**Evidence needed for promotion**
+Direct examples in which Grant explicitly moves from:
+
+* knowledge requires justification;
+* therefore all action must await that same standard;
+
+or treats one evaluative instrument as authoritative across distinct domains without argument.
+
+---
+
+### Quarantined Claim 3: Grant performs Generative Admission Restriction against subjective experience
+
+**Why quarantined**
+The opening recalls that “self justification was being dismissed,” but:
+
+* the actor is not securely named;
+* the scope of dismissal is unclear;
+* evidential insufficiency may have been mistaken for exclusion from candidate generation.
+
+**Evidence needed for promotion**
+Direct wording showing that Grant denies first-person experience any legitimate role in generating or supporting a candidate explanation, rather than merely assigning it limited weight.
+
+---
+
+### Quarantined Claim 4: Grant performs Unmeasured-to-Zero Conversion
+
+**Why quarantined**
+The conversation argues against treating subjective evidence as worthless, but no direct case shows Grant converting unmeasured, inaccessible, or privately evidenced claims into zero.
+
+**Evidence needed for promotion**
+A direct statement equating lack of public measurement, prediction, or verification with no evidential value, combined with refusal to use “unknown,” “untested,” or “outside current instrument.”
+
+---
+
+### Quarantined Claim 5: Grant uses Contest-to-Defeat Compression
+
+**Why quarantined**
+The thread repeatedly guards against this error but does not contain a direct Grant instance.
+
+**Evidence needed for promotion**
+A recoverable case where Grant treats defeat of one argument, or the presence of an unresolved objection, as sufficient defeat of the underlying proposition or framework.
+
+---
+
+### Quarantined Claim 6: Ziggy’s Belief Rescue is a stable operator
+
+**Why quarantined**
+It is supported by one direct self-report, not repeated observed behavior.
+
+**Evidence needed for promotion**
+Multiple instances where:
+
+* an argument supporting Ziggy’s belief fails;
+* Ziggy retains the belief;
+* searches for replacement reasons;
+* and either specifies or refuses a stopping condition.
+
+Evidence should distinguish rational repair from post-hoc immunization.
+
+---
+
+### Quarantined Claim 7: Ziggy treats reasoning mainly as retrospective trace construction
+
+**Why quarantined**
+Ziggy explicitly suggests this, but the thread does not establish that his articulated reasons differ from the actual causal formation of his beliefs.
+
+**Evidence needed for promotion**
+A case where:
+
+* Ziggy identifies his original reason;
+* later discovers a different causal basis;
+* and recognizes the earlier account as retrospective reconstruction.
+
+---
+
+### Quarantined Claim 8: Ziggy systematically privileges belief preservation over evidential revision
+
+**Why quarantined**
+The rescue admission supports this possibility, but Ziggy also explicitly concedes that wrong reasons can make a belief misinformed and require updating.
+
+**Evidence needed for promotion**
+Repeated asymmetric behavior:
+
+* generous possibility preservation for favored beliefs;
+* rapid compression or defeat treatment for disfavored beliefs;
+* resistance to confidence reduction despite cumulative evidential loss.
+
+---
+
+### Quarantined Claim 9: Nova’s cross-disciplinary reframing is a stable cognitive operator rather than an assistant-role effect
+
+**Why quarantined**
+The behavior is highly recurrent, but Stage 3 found it strongly explained by Nova’s explanatory role.
+
+**Evidence needed for promotion**
+Comparable cross-disciplinary reframing in contexts where Nova is not responding to a request for philosophical expansion, or direct actor-level evidence from Ziggy independently performing the same move.
+
+---
+
+### Quarantined Claim 10: Action-Generated Evidence characterizes Ziggy’s own epistemology
+
+**Why quarantined**
+The sequence was introduced and elaborated largely by Nova in response to Ziggy’s prompt. Ziggy did not explicitly endorse all of its stronger implications.
+
+**Evidence needed for promotion**
+A direct Ziggy statement that some beliefs or understandings can only be rationally assessed after committed participation, plus a concrete case where he uses action as an inquiry procedure.
+
+---
+
+### Quarantined Claim 11: The thread establishes subjective experience as sufficient justification
+
+**Why quarantined**
+The conversation establishes, at most, admissibility and nonzero evidential value.
+
+It does not establish:
+
+* sufficient warrant;
+* equal reliability across domains;
+* immunity from public counterevidence;
+* authority of the interpretation attached to the experience.
+
+**Evidence needed for promotion**
+A developed weighting rule explaining when private experience becomes sufficient, how conflicting experiences are compared, and what evidence can defeat its interpretation.
+
+---
+
+### Quarantined Claim 12: Religion and science occupy cleanly separate evaluative jurisdictions
+
+**Why quarantined**
+The distinction is schematically useful but under-tested.
+
+**Evidence needed for promotion**
+An account of:
+
+* empirical claims made by religions;
+* normative relevance of scientific findings;
+* secular sources of ends and values;
+* how jurisdictional conflicts are resolved when domains overlap.
+
+5. Extraction Self-Audit
+
+### Candidate-registry priming risk
+
+The candidate registry strongly foregrounded:
+
+* predictive authority;
+* jurisdictional overreach;
+* admission restrictions;
+* burden asymmetry;
+* possibility preservation;
+* reconstruction failures.
+
+This created a risk of redescribing ordinary distinctions in registry language even where the source did not independently support those operators.
+
+The highest-risk mappings were:
+
+* treating Jurisdiction Sorting as evidence of **Universalized Evaluative Jurisdiction** rather than as a response to a hypothetical danger;
+* interpreting the subjective-experience discussion as **Generative Admission Restriction** or **Unmeasured-to-Zero Conversion** without a direct rejecting statement;
+* inferring **Contest-to-Defeat Compression** merely because the conversation guarded against it.
+
+These were therefore limited or quarantined.
+
+---
+
+### Over-pattern-matching risk
+
+Stage 2 generated twelve moves from a relatively short philosophical exchange. Several may be better understood as:
+
+* ordinary conceptual distinctions;
+* one-time examples;
+* assistant-generated teaching structures;
+* substantive philosophical theses rather than cognitive operators.
+
+The most likely over-extractions were:
+
+* Foundation Reversal as a recurring operator;
+* Actual-Cause Reassessment as observed cognition;
+* Action-Generated Evidence as an actor-level move;
+* Retrospective Trace Construction as demonstrated rather than asserted;
+* Belief Rescue as stable rather than dispositional self-report.
+
+Stage 3 appropriately weakened these.
+
+---
+
+### Asymmetric charity risk
+
+The conversation gave Ziggy’s position extensive internal reconstruction and often framed his belief-preservation instinct as understandable before subjecting it to a stopping condition.
+
+Grant, by contrast, was modeled through a possible conceptual defect:
+
+* collapsing belief into justification;
+* overextending epistemic standards;
+* discounting subjective evidence.
+
+Because Grant had no direct voice, this creates a substantial asymmetry:
+
+* Ziggy’s motives were reconstructed sympathetically;
+* Grant’s framework was reconstructed diagnostically.
+
+The profile-ready section therefore contains no substantive Grant operator claims.
+
+---
+
+### Reconstruction Bypass committed by the extraction itself
+
+The extraction identified **Reconstruction Bypass** in the Ziggy–Nova treatment of Grant, but earlier stages also partially repeated that error by developing detailed Grant ledgers from G-REPORTED material.
+
+Although attribution labels were preserved, repetition may have made speculative Grant traits appear more established than they were.
+
+All such claims remain quarantined.
+
+---
+
+### UNCLEAR converted into apparent actor labels
+
+Potentially unsafe conversions include:
+
+* attributing the initial dismissal of self-justification to Grant;
+* treating “therefore you should update your belief” as Grant’s argument rather than Ziggy’s hypothetical;
+* speaking of “Grant’s epistemology” where only Ziggy’s suspicion and Nova’s reconstruction existed.
+
+Corrective status:
+
+* rejecting actor: UNKNOWN;
+* Grant collapse claim: diagnostic hypothesis;
+* Grant jurisdictional extension: UNKNOWN.
+
+---
+
+### Role-behavior contamination
+
+Nova’s repeated moves—distinction-making, philosopher comparison, examples, sequence construction, and cross-disciplinary reframing—are heavily shaped by the assistant role.
+
+They should not automatically enter a general cognitive profile.
+
+Likewise, Ziggy’s pattern of compressed questions followed by refinement may partly result from the interaction format rather than a stable reasoning trait outside this conversation.
+
+---
+
+### Rhetoric-versus-operator risk
+
+Several phrases may function rhetorically without evidencing a stable operator:
+
+* “rescue the belief”;
+* “trace our step”;
+* “depending how heavy”;
+* Nova’s house, web, and plumbing metaphors.
+
+The extraction retained only the directly supported logical commitments and quarantined broader dispositional conclusions.
+
+---
+
+### Substantive-belief-versus-operator risk
+
+The following are more safely treated as philosophical positions than demonstrated cognitive procedures:
+
+* action can generate evidence;
+* reasoning often follows commitment;
+* religion supplies ends while science supplies means;
+* subjective experience has nonzero evidential value.
+
+Where these were included as moves, actor-level profiling was withheld unless repeated operation was recoverable.
+
+---
+
+### Binary-belief framing risk
+
+The conversation and extraction sometimes contrasted retaining versus abandoning belief without sufficiently distinguishing:
+
+* belief from confidence;
+* confidence reduction from suspension;
+* proposition plausibility from personal commitment;
+* available evidence from evidence actually causing belief.
+
+This may exaggerate the apparent conflict between justification and belief.
+
+The strongest recoverable position is graded:
+
+> Failed reasons do not automatically establish falsity, but their rational effect depends on how much support they carried and what independent support remains.
+
+---
+
+### Incomplete self-symmetry testing
+
+The conversation applied symmetry pressure to the imagined critic of subjective experience but did not equally test:
+
+* whether Ziggy grants similar rescue latitude to opposing beliefs;
+* whether he accepts others’ incompatible private experiences;
+* whether he identifies stopping conditions for his own favored commitments.
+
+This absence limits claims that the thread achieved full epistemic symmetry.
+
+---
+
+### Confidence inflation in earlier stages
+
+Stage 2 assigned high confidence to several moves later weakened by Stage 3.
+
+Most notable:
+
+* Belief Rescue as a stable move;
+* Actual-Cause Reassessment;
+* Retrospective Trace Construction;
+* Foundation Reversal as recurrent.
+
+Stage 4 corrects these by distinguishing:
+
+* direct self-report;
+* hypothetical model;
+* one-time consequential move;
+* repeated observed operator.
+
+---
+
+### Final boundary caution
+
+The bounded thread does not support profile claims concerning:
+
+* Prediction Sovereignty;
+* predictive success as final authority;
+* systematic Possibility Compression;
+* systematic Unmeasured-to-Zero Conversion;
+* Grant’s actual definitions;
+* Grant’s direct argumentative behavior.
+
+Any stronger mapping would require evidence from another thread and is therefore excluded here.
+
+
+> ✅ **FILING NOTICE (resolved):** the Stage-4 blind output was pasted by
+> the operator after the final-disposition review was filed (same day,
+> 2026-07-17) — the fifth-artifact chain is now complete. Order of
+> arrival preserved for the audit trail: review first, output second.
 
 ---
 
