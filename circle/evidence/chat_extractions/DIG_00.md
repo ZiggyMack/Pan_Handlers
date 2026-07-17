@@ -14,7 +14,7 @@
 **Status:** EMPTY
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
-**Suggested target:** CFA scoring and Grant's zero — **run this dig first**
+**Discovered topic:** _fill in after Stage 1 reveals what this chat actually holds_
 
 ## Packet Header (fill as you go)
 

@@ -44,7 +44,7 @@
 | Circle Operators | `OPERATOR_LEXICON.md` | 8 (all RED) | CO-001…CO-008, seeded from Grant pilot hypotheses |
 | Idea Trails | `IDEA_TRAILS/README.md` | 13 candidates, 0 opened | |
 | Debates | `DEBATES/` | 0 recorded | |
-| Extraction packets | `evidence/chat_extractions/` | 0 filed · 12 workbooks staged (DIG_00–11) | protocol v0.2.1 active; Dig 0 = CFA zero |
+| Extraction packets | `evidence/chat_extractions/` | 0 filed · 12 workbooks staged (DIG_00–11) | protocol v0.2.1 active; digs are opportunistic — topics discovered at Stage 1, tracked against the theme coverage checklist |
 | Sources filed | per-member `SOURCE_INDEX.md` | **0** | ← the current bottleneck for everything |
 
 ---

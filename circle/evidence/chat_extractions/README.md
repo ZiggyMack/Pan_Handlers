@@ -30,25 +30,48 @@
 - A packet is a `DETAILED NOTES`-fidelity source about the chat unless it carries
   verbatim quotes — quoted spans are `TRANSCRIPT`-fidelity for the words quoted.
 
-## Dig Board (Nova's high-yield threads, mapped to workbooks)
+## Dig Board
 
-| Workbook | Thread theme | Primary subject | Status |
-| --- | --- | --- | --- |
-| `DIG_00.md` | **CFA scoring and Grant's zero** — run first | Grant | EMPTY |
-| `DIG_01.md` | Prediction as the ultimate standard | Grant | EMPTY |
-| `DIG_02.md` | Trust preceding prediction | Grant/Ziggy | EMPTY |
-| `DIG_03.md` | Possibility versus plausibility | both | EMPTY |
-| `DIG_04.md` | The jurisdiction of justification | Grant | EMPTY |
-| `DIG_05.md` | Classical theism generating moral norms | Grant | EMPTY |
-| `DIG_06.md` | Myth as compression | Ziggy | EMPTY |
-| `DIG_07.md` | Offense-versus-defense scoring asymmetry | both | EMPTY |
-| `DIG_08.md` | Institutional authority and preferred grounding standards | both | EMPTY |
-| `DIG_09.md` | *unassigned — your pick* | — | EMPTY |
-| `DIG_10.md` | *unassigned — your pick* | — | EMPTY |
-| `DIG_11.md` | *unassigned — your pick* | — | EMPTY |
+**How digs are run (opportunistic, by design):** the dig operator doesn't need to
+remember what's in an old chat — that's what the excavation is *for*. Pick any
+old conversation, claim the next EMPTY workbook in numeric order, run the four
+prompts. Stage 1's output tells us what the chat actually holds; record it in
+the Discovered topic column here and in the workbook's header.
 
-Keep this board's Status column in sync with each workbook's Status line
+| Workbook | Discovered topic (after Stage 1) | Status |
+| --- | --- | --- |
+| `DIG_00.md` | | EMPTY |
+| `DIG_01.md` | | EMPTY |
+| `DIG_02.md` | | EMPTY |
+| `DIG_03.md` | | EMPTY |
+| `DIG_04.md` | | EMPTY |
+| `DIG_05.md` | | EMPTY |
+| `DIG_06.md` | | EMPTY |
+| `DIG_07.md` | | EMPTY |
+| `DIG_08.md` | | EMPTY |
+| `DIG_09.md` | | EMPTY |
+| `DIG_10.md` | | EMPTY |
+| `DIG_11.md` | | EMPTY |
+
+Keep the Status column in sync with each workbook's Status line
 (EMPTY → IN PROGRESS → COMPLETE → FILED).
+
+## Theme Coverage Checklist (Nova's high-yield themes)
+
+Not assignments — a map of what we hope the digs eventually surface. When a
+dig's discovered topic hits one of these, check it off and note the workbook.
+
+| ☐ | Theme | Primary subject | Covered by |
+| --- | --- | --- | --- |
+| ☐ | **CFA scoring and Grant's zero** (highest value — the pilot question) | Grant | |
+| ☐ | Prediction as the ultimate standard | Grant | |
+| ☐ | Trust preceding prediction | Grant/Ziggy | |
+| ☐ | Possibility versus plausibility | both | |
+| ☐ | The jurisdiction of justification | Grant | |
+| ☐ | Classical theism generating moral norms | Grant | |
+| ☐ | Myth as compression | Ziggy | |
+| ☐ | Offense-versus-defense scoring asymmetry | both | |
+| ☐ | Institutional authority and preferred grounding standards | both | |
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**
