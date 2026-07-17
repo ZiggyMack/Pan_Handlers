@@ -143,6 +143,21 @@ sharpest formulation of the standing debt: *the regress was relocated, not
 eliminated* — the crown must not merely move from Grant's preferred
 foundation to Ziggy's.
 
+**The belief-revision layer (SWEEP_08 — the mirror held steady):** the
+architecture's revision dynamics arrive with the excavation's most
+self-implicating evidence: Ziggy's **admitted rescue impulse** (Z-DIRECT
+— preserve the belief, seek updated reasons), held at self-report level
+with the field desk's discriminator attached: *rational repair permits
+the replacement reasons to fail; immunization does not.* The deepest
+structural finding cuts at the whole architecture: **preservation bias**
+— the toolkit is rich in preservation instruments (defeat-scope
+calibration, centrality tests, subjective-evidence admission) and poor
+in abandonment instruments (cumulative accounting, confidence floors,
+stopping rules) — the charter's "over-generation / insufficient pruning"
+theme finally has a precise form. Standing correction: *bias admitted ≠
+bias corrected* — diagnostic symmetry restored, procedural symmetry
+still owed.
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility

@@ -24,7 +24,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ⚠️ conditional · Stages 2–3 ✅ PASSED review; Stage 4 authorized; **preservation asymmetry = deepest structural finding**; stopping architecture + decision tree filed; 6 trails ordered at close (IT-045…050)
+**Status:** ✅ COMPLETE (review-complete) — all 4 stage reviews filed; **⚠️ Stage-4 blind output NOT yet pasted (owed to the workbook — fifth-artifact chain incomplete until it lands)**. Zero promotions — plow-through holds (7th consecutive sweep). 4 durable families; repair/immunization discriminator filed; **first confirmed relationship-level Reconstruction Bypass**; trails IT-045…051 opened; Grant: G-REPORTED/NOVA-RECONSTRUCTED NON-SITE
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep: subjective experience as evidence; public vs private warrant; knowledge standards vs action thresholds; belief/justification/truth separation; **what defeating a reason actually defeats**; belief rescue vs immunization (Ziggy's own admitted rescue impulse = the dig's hottest prey); ⚠️ opens with Nova reconstructing an UNAVAILABLE earlier conversation — source-boundary repair governs
@@ -3741,6 +3741,178 @@ Begin Stage 4 now.
 ### ⏬ STAGE 4 OUTPUT
 
 (paste Stage 4 output here — replace this line)
+
+> ⚠️ **FILING NOTICE:** the Stage-4 blind output has NOT yet been pasted
+> above. Nova's final-disposition review (below) arrived and is filed;
+> the extractor's Stage-4 output itself is still owed to this workbook —
+> paste it above this notice to complete the fifth-artifact chain.
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 + FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+>
+> *Filing note: the relayed review contained minor transmission artifacts
+> (a stray citation token in the Grant section; a duplicated phrase in
+> the reasoning-role section); filed as received — content unaffected.*
+
+**Verdict: SUCCESSFUL COMPLETED COMPOUND DIG — but Stage 4 still
+overmaps general reasoning tools into the candidate registry and gives
+Belief Rescue too charitable a relationship to Possibility Preservation.
+Genuine yield: four durable reasoning families, one high-value Ziggy
+self-observation, and a clear test for distinguishing rational repair
+from epistemic immunization.**
+
+```text
+Status: COMPLETE
+Primary value: belief-revision architecture
+Secondary value: subjective-evidence and action-threshold analysis
+Grant profile value: NONE
+Ziggy profile value: SELECTIVE / PROVISIONAL
+Museum promotion: LIMITED
+Idea-trail value: HIGH
+```
+
+**⚠️ MAJOR MAPPING CORRECTIONS (polarity reversal, 7th consecutive
+dig):**
+
+- **Component Separation** → GENERAL TOOLKIT / NOVA ROLE-INDUCED; the
+  substantive result is **Epistemic-Status Layering**.
+- **Inferential Bridge Inspection** → Symmetry-Testing primary mapping
+  REJECTED — the move is broader and logically prior ("what licenses
+  the arrow?"); renamed **Inferential Bridge Audit**, one of the
+  packet's strongest reusable procedures; symmetry is one application.
+- **Jurisdiction Sorting** → corrective against possible UEJ (polarity
+  right); matured as **Status-and-Threshold Jurisdiction Audit** —
+  assign standards by question, never build sealed disciplinary
+  kingdoms.
+- **Foundation Reversal** → valid ONE-TIME Symmetry-Testing instance
+  (first-person experience ≠ zero evidence; NOT all interpretations
+  equal); no stable operator from one occurrence.
+- **Consequence Limitation** → cleanest Contested ≠ Defeated match;
+  matured as **Defeat-Scope Calibration** with the permanent warning:
+  *limiting what the critic proved does not restore the believer's
+  previous rational entitlement.*
+- **Load-Bearing Reason Test** → genuinely distinct: **Support-
+  Centrality Audit**; the pre-defeat centrality record is MANDATORY
+  (retrospective demotion is its failure mode).
+- **Actual-Cause Reassessment** → IDEA-TRAIL DISTINCTION, not observed
+  operator (no causal history established); "real foundations" may
+  explain persistence without supplying warrant.
+- **Belief Rescue** → **Possibility Preservation mapping REJECTED**:
+  Possibility Preservation is neutral option-retention; Belief Rescue
+  is *commitment-directed* (preservation as the intended outcome).
+  Neutral name offered — Confidence-Preserving Reason Replacement — but
+  even that presumes stable confidence, unestablished. Safest record:
+  *Ziggy reports an initial impulse to preserve the belief and seek
+  updated reasons* — high-value self-observation, not a stable
+  operator.
+- **Action-Generated Evidence** → substantive model, Idea Trail;
+  *action can generate evidence ≠ any action is justified by
+  uncertainty.*
+- **Standard Symmetry Check** → direct Symmetry-Testing match; symmetry
+  ≠ identical weighting (relevant-difference analysis required).
+- **Practical Threshold Shift** → corrective positive procedure:
+  **Stakes-Sensitive Action Threshold**; never "standards lower when
+  evidence is inconvenient."
+- **Retrospective Trace Construction** → Ziggy's explicit meta-theory,
+  not demonstrated cognition; inside Genesis–Warrant.
+
+**Registry-polarity language (binding):** Jurisdiction Sorting =
+corrective against UEJ · Consequence Limitation = corrective against
+Contest-to-Defeat Compression · Standard Symmetry Check = test for
+possible Baseline Exemption · Grant Reconstruction = corrective required
+to avoid Reconstruction Bypass — *never write the corrective as the
+pathology.*
+
+**🚨 RECONSTRUCTION BYPASS — first confirmed relationship-level
+instance:** *Ziggy raises possible Grant defect → Nova systematizes it →
+the systematized model is analyzed → no G-DIRECT reconstruction verifies
+it.* Described narrowly: *the pair evaluated a diagnostic model of Grant
+before obtaining a direct or mutually accepted reconstruction of his
+framework* — it proves the attribution is undersecured, not that the
+diagnosis is false.
+
+**Consolidation: 12 moves → 4 durable families:** 1. Epistemic-Status
+and Bridge Audit · 2. Defeat-Scope and Support-Centrality Audit · 3.
+Evidential Symmetry and Action-Threshold Audit · 4.
+Genesis–Repair–Immunization Audit.
+
+**🏛️ THE REPAIR/IMMUNIZATION DISCRIMINATOR (the answer to Stage 3's
+question — procedural):** nine rational-repair steps (failed reason
+explicitly withdrawn; prior centrality recorded honestly; confidence
+proportional; remaining evidence listed independently; new reasons
+tested not presumed; same latitude to opposing beliefs; failures
+accumulate; suspension/abandonment possible; defeaters statable) vs
+eight immunization marks (conclusion fixed; confidence static;
+retroactive "peripheral"; reasons appear only as replies to defeat;
+standards move with favor; psychological causes replace public warrant;
+failures isolated; no conceivable evidence suffices). **The cleanest
+discriminator:** *does the repair procedure permit the replacement
+reasons to fail and the belief eventually to lose rational entitlement?
+If no — it is immunization, regardless of how sophisticated the
+replacement arguments sound.*
+
+**Profile-ready findings (8 → 4, all provisional):** defeat-scope
+restraint (HIGH; does not imply previous confidence stays warranted) ·
+support-centrality sensitivity (HIGH locally; centrality identified
+before criticism) · status-layer sensitivity (HIGH;
+propositional/doxastic split owed) · **introspective preservation
+impulse** (HIGH as self-report; LOW-MODERATE as stable behavioral
+profile — no promotion until repeated enactments *and* stopping
+conditions are observed). Downgraded: subjective-evidence symmetry (one
+argument, not a trait); Inferential Bridge as specifically Ziggy's
+(co-constructed — Nova supplies most formulations); Cross-Disciplinary
+Swooping (Nova role behavior here).
+
+**Conversation-level findings:** **preservation bias** = the deepest
+structural finding (preservation tools developed; abandonment tools
+underdeveloped) · reasoning's role: *may not have generated the belief
+but can still regulate, test, communicate, revise, or rationalize it* ·
+subjective evidence: admissibility established, sufficiency not ·
+knowledge/action: separation sound, stake-sensitive threshold rule
+still owed.
+
+**Relationship loops:** compression → expansion → self-application
+survives strongly (engine-loop kin) · adversary reconstruction survives
+as source-risk loop (2nd occurrence — feeds the Absent-Opponent
+Reconstruction ledger row) · challenge → preservation → replacement
+survives with BOTH versions attached (productive revision loop /
+possible immunization loop) · **self-exposure without completed
+correction:** *bias admitted ≠ bias corrected* — the admission restores
+diagnostic symmetry, not yet procedural symmetry.
+
+**Grant disposition:** `G-REPORTED / NOVA-RECONSTRUCTED NON-SITE`; the
+full pathology quarantine list stands (belief/justification collapse,
+UEJ, GAR, Unmeasured-to-Zero, Contest-to-Defeat Compression,
+subjective-evidence rejection, justification-as-dominance). Safest
+statement: *Ziggy suspects Grant may give articulable justification too
+dominant a role — Grant's actual distinctions and revision rules are
+unavailable.*
+
+**Trails at close (7):** field desk retains IT-046…051 and adds IT-052
+→ registry assigns **IT-045…051** (off-by-one noted; IT-051 = Doxastic
+Responsibility after Public Reason Defeat).
+
+**Deepest yield of the sweep:**
+
+> *The difference between rational repair and epistemic armor is not
+> that one finds a new argument and the other does not. It is whether
+> the believer allows failed reasons to reduce confidence, keeps an
+> honest cumulative record of damage, tests replacement reasons
+> independently, applies the same mercy to rivals, and leaves suspension
+> or abandonment as live outcomes.*
+
+**Close-out orders (filing clerk):** trails IT-045…051 opened; lexicon
+paragraph + promotion-log row (**seventh consecutive zero-promotion
+sweep**); Ziggy ledgers (4 profile entries + Belief Rescue ≠ Possibility
+Preservation); relationship ledger (engine loop 9th; Absent-Opponent
+Reconstruction 2nd occurrence — now a confirmed relationship-level
+Reconstruction Bypass; challenge→preservation→replacement added);
+board, INDEX, timeline; memory updated. ⚠️ **Stage-4 blind output still
+owed to this workbook.**
 
 ---
 
