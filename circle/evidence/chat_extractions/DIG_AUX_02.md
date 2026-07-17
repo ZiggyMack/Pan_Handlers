@@ -1,14 +1,4 @@
-# DIG 00 — *(reserved: CFA scoring and Grant's zero)*
-
-> **Two prior attempts, both preserved elsewhere:**
-> **(1)** 2026-07-16 — Stage 1+2 on the old v0.2 prompts drew cross-chat project
-> context → multi-chat corpus, filed as
-> `../corpus_sweeps/SWEEP_00_grant_ziggy_orientation_2026-06_to_07.md`.
-> **(2)** 2026-07-17 — repaired bounded Stage 1 (Route A) held the boundary but
-> the reused thread's actual subject was institutional identity architecture →
-> repurposed as `DIG_AUX_01_repo_nova_institutional_identity_2026-07.md`.
-> This workbook stays reserved for a thread that **preflight confirms** actually
-> contains the CFA-zero scoring dispute.
+# DIG AUX 02 — *(subject discovered after Stage 1)*
 
 > **Self-contained dig workbook.** Work top to bottom: copy each stage prompt
 > into the old chat **as its own message**, wait for the reply, paste it under
@@ -146,7 +136,7 @@ Begin the extraction now.
 
 ### ⏬ STAGE 1 OUTPUT
 
-
+(paste Stage 1 output here — replace this line)
 
 ---
 

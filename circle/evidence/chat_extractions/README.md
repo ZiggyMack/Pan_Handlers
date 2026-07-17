@@ -59,6 +59,8 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | --- | --- | --- |
 | `DIG_AUX_00_Scope_CREEP.md` | *(record of the contaminated first run — canonical copy in SWEEP_00)* | ORIENTATION ONLY — NOT PROMOTABLE |
 | `DIG_AUX_01_repo_nova_institutional_identity_2026-07.md` | Repo Nova's institutional evolution; Repo Claude complementarity; extraction-design history | STAGE 1 COMPLETE — REPURPOSED (Ziggy/shared-history evidence; Stages 2–4 postponed) |
+| `DIG_AUX_02.md` | | EMPTY (staged for the mining walk) |
+| `DIG_AUX_03.md` | | EMPTY (staged for the mining walk) |
 | `DIG_00.md` | *(reserved: CFA-zero — preflight required)* | EMPTY |
 | `DIG_01.md` | | EMPTY |
 | `DIG_02.md` | | EMPTY |
