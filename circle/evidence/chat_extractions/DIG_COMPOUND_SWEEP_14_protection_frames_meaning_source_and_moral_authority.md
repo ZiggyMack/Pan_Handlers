@@ -5985,7 +5985,3967 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+## 1. Blind-to-Named Mapping
+
+### 1. Coherence–Selection Separation
+
+**Stage-2 move:** A framework’s successful defense does not determine why it should be selected over other defensible frameworks.
+
+**Mapping verdict:** **NEW — Coherence–Selection Separation**
+
+**What matches the registry:**
+It is adjacent to **Contested ≠ Defeated**, because both resist overreading a local dialectical result.
+
+**What does not match:**
+No objection is merely being held open. The operation distinguishes two different evaluative tasks:
+
+1. internal defense;
+2. comparative selection.
+
+It is also not **Symmetry Testing of Standards**, because no mirrored burden is required.
+
+**Stage-3 survival:** Survives. The alternative reading—that this was merely a substantive pluralist belief—was weakened by Ziggy’s explicit Christian commitment and his refusal to treat every framework or underdog equally.
+
+**Restriction:** The move does not establish that the relevant frameworks are equally true, warranted, moral, or socially compatible.
+
+---
+
+### 2. Foundation Descent
+
+**Stage-2 move:** Moving beneath a claim to the assumptions, standards, or commitments that authorize it.
+
+**Mapping verdict:** **NEW — Foundation Descent**
+
+**What matches the registry:**
+It can expose:
+
+* **Baseline Exemption**;
+* **Universalized Evaluative Jurisdiction**;
+* failures of **Symmetry Testing of Standards**.
+
+**What does not match:**
+Foundation Descent is more general than any one of these. It can be used even where there is no baseline asymmetry, jurisdictional overreach, or rival framework.
+
+**Stage-3 survival:** Survives as a repeated Ziggy operation. The rhetorical-regress alternative remains relevant because Ziggy did not apply it with equal depth to his own Christian bridge.
+
+**Restriction:** Reaching a non-derived commitment does not itself defeat the framework.
+
+---
+
+### 3. Normative Bridge Exposure
+
+**Stage-2 move:** Isolating the transition from facts to values and requiring an account of its normative authority.
+
+**Mapping verdict:** **NEW — Normative Bridge Exposure**
+
+**What matches the registry:**
+It can reveal **Universalized Evaluative Jurisdiction** when descriptive success is treated as sufficient authority over moral questions.
+
+It can also reveal **Baseline Exemption** when one moral bridge is presented as neutral while another must justify itself.
+
+**What does not match:**
+The operation is specifically about the descriptive-to-normative transition. The registry contains no candidate that directly captures this bridge audit.
+
+**Stage-3 survival:** Survives strongly.
+
+**Restriction:** Exposing that both sides require a bridge does not establish equal warrant between those bridges.
+
+---
+
+### 4. Symmetrical Burden Reassignment
+
+**Stage-2 move:** Requiring the evaluating standard to justify itself under the same kind of scrutiny imposed on the evaluated framework.
+
+**Mapping verdict:** **MATCHES Symmetry Testing of Standards**
+
+**What matches:**
+
+* both frameworks must disclose their normative bridge;
+* the critic’s preferred standard does not receive automatic exemption;
+* the evaluating framework must “file the same paperwork.”
+
+**What does not match:**
+
+* it is not literal role reversal;
+* it does not demonstrate equal evidential support;
+* it does not prove that both frameworks have identical burdens;
+* it does not complete the comparative evaluation.
+
+**Stage-3 survival:** Survives strongly.
+
+**Source limitation:** Ziggy demonstrated burden symmetry. The full reverse-role test remained an A1 omission.
+
+---
+
+### 5. Exclusivity Detachment
+
+**Stage-2 move:** Separating a framework’s internal viability from the additional assertion that no rival framework can be viable, permissible, or true.
+
+**Mapping verdict:** **EXTENDS Universalized Evaluative Jurisdiction**
+
+**What matches:**
+The move tests whether a framework’s authority has been extended beyond the domain actually established.
+
+**Delta:**
+The registry candidate concerns standards crossing jurisdictional boundaries. Exclusivity Detachment concerns a theory claiming universal monopoly merely from its own local success.
+
+**What does not match:**
+Some theories contain exclusivity as an actual internal entailment. The move cannot simply remove that entailment without first reconstructing the theory accurately.
+
+**Stage-3 survival:** Survives as a Ziggy reasoning move.
+
+**Target restriction:** Whether Grant’s reported DCT position actually made the relevant exclusivity claim remains `UNKNOWN`.
+
+---
+
+### 6. Modal Scope Testing
+
+**Stage-2 move:** Asking whether a conclusion holds in every possible frame, only one frame, or a limited subset.
+
+**Mapping verdict:** **EXTENDS Universalized Evaluative Jurisdiction**
+
+**What matches:**
+The operation prevents local authority from being universalized without argument.
+
+**Delta:**
+It tests modal range rather than merely disciplinary or evaluative jurisdiction.
+
+**What does not match:**
+Imagining an alternative frame does not establish that the frame is logically coherent, metaphysically possible, evidentially plausible, or practically live.
+
+**Stage-3 survival:** Survives strongly.
+
+**Restriction:** Modal scope testing must be paired with possibility qualification to avoid turning conceivability into evidence.
+
+---
+
+### 7. System-Level Interaction Translation
+
+**Stage-2 move:** Translating conflict between individually defensible frameworks into a systems problem involving coupling, timing, interference, and architecture.
+
+**Mapping verdict:** **EXTENDS Cross-Disciplinary Swooping**
+
+**What matches:**
+Ziggy imports structures from electrical engineering and signal systems:
+
+* PCB traces;
+* crosstalk;
+* field coupling;
+* modulation;
+* interference.
+
+**Delta:**
+This is not a brief analogy. It becomes a sustained systems-level transformation of the dispute.
+
+**What does not match:**
+The imported structure does not automatically preserve:
+
+* moral agency;
+* power;
+* responsibility;
+* coercion;
+* rights;
+* truth differences.
+
+**Stage-3 survival:** Survives as a recurring reasoning style.
+
+**Completion requirement:** The full grading dimensions and justice variables remained A1 omissions.
+
+---
+
+### 8. Interaction-Architecture Search
+
+**Stage-2 move:** Searching for sequencing, buffering, boundaries, modulation, and arbitration methods that allow rival frameworks to coexist.
+
+**Mapping verdict:** **NEW — Coexistence Architecture Search**
+
+**What matches the registry:**
+It relies on **Cross-Disciplinary Swooping** for its engineering vocabulary.
+
+**What does not match:**
+The actual operation is not importing the analogy; it is using the analogy to design interaction protocols.
+
+**Stage-3 survival:** Partially survives.
+
+The strongest alternative reading is that this is a substantive preference for coexistence rather than a stable individual cognitive operator. Because it was co-constructed and value-laden, it is retained as a dig-level candidate rather than a profile-ready individual operator.
+
+**Restriction:** It requires harm and nonreciprocity thresholds before general application.
+
+---
+
+### 9. Meaning-Signal Reconstruction
+
+**Stage-2 move:** Reconstructing intended meaning through words, context, feedback, and behavioral fit before evaluating implications.
+
+**Mapping verdict:** **NEW — Reconstruction-First Signal Recovery**
+
+**Relation to registry:**
+It is the affirmative inverse of **Reconstruction Bypass**.
+
+**What does not match:**
+The registry candidate names the failure to reconstruct. Ziggy’s move is a positive interpretive procedure designed to prevent that failure.
+
+**Stage-3 survival:** Survives as a deliberately articulated procedure.
+
+**Restriction:** Strong failed-reconstruction handling was not demonstrated. The method therefore survives as a procedure, not yet as a validated reliability claim.
+
+---
+
+### 10. Mechanism–Source Separation
+
+**Stage-2 move:** Distinguishing how an experience occurs from what ultimately originates or grounds its content.
+
+**Mapping verdict:** **NEW — Mechanism–Source Non-Collapse**
+
+**What matches the registry:**
+It can diagnose **Universalized Evaluative Jurisdiction** when a mechanism-level explanation is made to settle an ontological question.
+
+It can support **Possibility Preservation** by keeping source alternatives open.
+
+**What does not match:**
+It does not merely preserve a low-plausibility possibility. It separates explanatory levels.
+
+**Stage-3 survival:** Survives conceptually.
+
+**Restriction:** The disciplined form requires:
+
+* `non-exclusion ≠ evidence`;
+* discriminating observations;
+* comparative explanatory analysis;
+* revision conditions.
+
+Those components were incomplete, and the non-exclusion/support distinction was only later partially repaired.
+
+---
+
+### 11. Implication Reopening
+
+**Stage-2 move:** Restoring downstream philosophical questions after accepting a narrower mechanism-level explanation.
+
+**Mapping verdict:** **EXTENDS Possibility Preservation**
+
+**What matches:**
+It deliberately keeps explanatory or interpretive possibilities on the map.
+
+**Delta:**
+The preserved object is not always a low-probability hypothesis. It may be:
+
+* symbolic significance;
+* metaphysical implication;
+* experiential meaning;
+* source ontology.
+
+**What does not match:**
+Reopening a question does not show that every implication deserves equal probability or attention.
+
+**Stage-3 survival:** Survives as a Ziggy move.
+
+**Alternative-reading restriction:** It can function either as legitimate multi-level inquiry or as protection against explanatory closure.
+
+---
+
+### 12. Naturalizing Translation
+
+**Stage-2 move:** Grant’s local reframing of altered-state insight through non-conscious, layered, or cognitive mechanisms.
+
+**Mapping verdict:** **NEW — Cognitive Mechanism Translation**
+
+**What does not adequately match:**
+
+* **Generative Admission Restriction:** No direct evidence shows Grant refusing to let altered-state experience generate a candidate hypothesis.
+* **Possibility Compression:** No direct evidence establishes that Grant treated the broader possibilities as functionally irrelevant.
+* **Universalized Evaluative Jurisdiction:** The documented reply does not prove that Grant claimed cognitive mechanism had final authority over ontology.
+
+**Stage-3 survival:** Only the local descriptive move survives.
+
+The broad interpretation of a stable naturalizing, suppressive, or ontologically closed operator does not survive the alternative-reading check.
+
+**Profile status:** Not profile-ready as a stable Grant operator.
+
+---
+
+### 13. Dichotomy Repair
+
+**Stage-2 move:** Rejecting a forced binary and introducing intermediate cognitive possibilities.
+
+**Mapping verdict:** **NEW — Dichotomy Repair**
+
+**What matches the registry:**
+It can indirectly support **Possibility Preservation** by restoring excluded alternatives.
+
+**What does not match:**
+Its primary function is taxonomic correction, not preserving a possibility because it is low-plausibility.
+
+**Stage-3 survival:** Survives as a consequential local Grant move.
+
+**Profile restriction:** One directly documented use does not establish a stable Grant operator.
+
+---
+
+### 14. Significance Compression Detection
+
+**Stage-2 move:** Detecting when a reformulation retains some semantic content but reduces its practical or philosophical salience.
+
+**Mapping verdict:** **EXTENDS Possibility Compression**
+
+**What matches:**
+A possibility or implication may remain nominally present while being treated as functionally irrelevant.
+
+**Delta:**
+The registry candidate concerns possibilities below a plausibility threshold. Significance Compression Detection concerns reduced implication salience after reframing.
+
+**What does not match:**
+The detected compression may instead be:
+
+* legitimate precision;
+* evidential restraint;
+* methodological bracketing;
+* a mismatch in explanatory questions.
+
+**Stage-3 survival:** Survives as a Ziggy evaluative move.
+
+**Claim restriction:** It does not survive as an established fact about Grant’s intention.
+
+---
+
+### 15. Moral-Authority Reversal
+
+**Stage-2 move:** Responding to moral condemnation of God by asking what gives the critic’s standard authority to judge God.
+
+**Mapping verdict:** **EXTENDS Symmetry Testing of Standards**
+
+**What matches:**
+The critic’s evaluative standard must justify its own authority rather than functioning as an exempt baseline.
+
+**Delta:**
+The move tests normative jurisdiction. It is not literal actor reversal.
+
+**Secondary relation:**
+It can expose **Universalized Evaluative Jurisdiction** if a standard is extended over divine authority without an account of that jurisdiction.
+
+**What does not match:**
+
+* it does not establish personal moral superiority;
+* it does not answer the alleged divine act;
+* it does not apply automatically to internal critiques;
+* it does not establish that God’s authority is legitimate.
+
+**Stage-3 survival:** Survives conditionally when the critic is making an external or metanormative critique.
+
+---
+
+### 16. Intention-Hinge Testing
+
+**Stage-2 move:** Locating the decisive classification in double-effect reasoning and asking whether intended-versus-foreseen harm can carry the required burden.
+
+**Mapping verdict:** **NEW — Intention-Hinge Testing**
+
+**What matches the registry:**
+No registry candidate adequately captures this operation.
+
+**What does not match:**
+It is not simply reconstruction of meaning. It tests how a moral theory individuates acts and intentions.
+
+**Stage-3 survival:** Survives as a consequential one-time move.
+
+**Profile restriction:** The bounded thread does not show enough recurrence for individual profile promotion.
+
+---
+
+### 17. Archetype–Ontology Bifurcation
+
+**Stage-2 move:** Separating the psychological function of God as an archetype from the metaphysical status of what the archetype may represent.
+
+**Mapping verdict:** **NEW — Archetype–Ontology Bifurcation**
+
+**What matches the registry:**
+It can support **Possibility Preservation** by leaving both psychological and metaphysical interpretations open.
+
+**What does not match:**
+Its principal work is separating levels of description, not merely preserving a low-plausibility possibility.
+
+**Stage-3 survival:** Survives as a useful conceptual distinction.
+
+**Restriction:** It does not adjudicate projection versus perception, symbol versus source, or psychology versus theology.
+
+---
+
+### 18. Authorship Transparency Calibration
+
+**Stage-2 move:** Grant and Ziggy jointly testing whether AI-assisted language remains authentically attributable to Ziggy.
+
+**Mapping verdict:** **NEW — Authorship Transparency Calibration**
+
+**What matches the registry:**
+No candidate adequately captures provenance and trust regulation.
+
+**Stage-3 survival:** Survives strongly as a relationship-level protocol.
+
+**Classification restriction:** It is not an individual cognitive operator. It is dyadic, role-sensitive, and protocol-regulating.
+
+**Profile status:** Not profile-ready as an individual trait.
+
+---
+
+### 19. Frame-Mapping Suspension
+
+**Stage-2 move:** Temporarily delaying exclusive allegiance in order to model several frameworks.
+
+**Mapping verdict:** **MATCHES Possibility Preservation**
+
+**What matches:**
+
+* possibilities remain available during exploration;
+* premature foreclosure is resisted;
+* low-salience frames can be reconstructed before selection.
+
+**What does not match:**
+
+* Ziggy does not claim all preserved frames are equally true;
+* preservation is not permanent acceptance;
+* his explicit Christian commitment shows that suspension and choice can coexist.
+
+**Stage-3 survival:** Survives strongly.
+
+**Review condition:** Promotion should be revisited if future material shows no willingness to prune or rank possibilities after exploration.
+
+---
+
+### 20. Formulation Intensification
+
+**Stage-2 move:** Nova converts Ziggy’s emerging intuition into a compact, forceful debate formulation.
+
+**Mapping verdict:** **NEW — Formulation Intensification**
+
+**What matches the registry:**
+No candidate directly captures rhetorical compression and sharpening.
+
+**Stage-3 survival:** Survives as a Nova behavior.
+
+**Classification restriction:** It is strongly role-induced and protocol-induced.
+
+**Profile status:** Not eligible as a substantive individual operator in the same sense as Ziggy’s reasoning moves.
+
+---
+
+### 21. Validation-First Expansion
+
+**Stage-2 move:** Nova begins with affirmation, then broadens and systematizes Ziggy’s intuition.
+
+**Mapping verdict:** **NEW — Validation-First Expansion**
+
+**What matches the registry:**
+No adequate match.
+
+**Stage-3 survival:** Survives as a role tendency, with counterevidence showing that Nova also introduced genuine cautions.
+
+**Classification restriction:** It is primarily role-induced and protocol-induced.
+
+**Profile status:** Not eligible for substantive profile promotion.
+
+---
+
+### Registry Candidates Without a Supported Positive Match
+
+#### Prediction Sovereignty
+
+No actor is shown treating predictive success as the highest or final epistemic authority through which every other form of success must justify itself.
+
+**Verdict:** No supported match.
+
+---
+
+#### Generative Admission Restriction
+
+The bounded source does not establish that Grant or another actor barred revelation, symbolism, first-person experience, narrative, or metaphysical intuition from generating candidate hypotheses before evaluation.
+
+**Verdict:** Quarantined.
+
+---
+
+#### Unmeasured-to-Zero Conversion
+
+The bounded source does not show a clear conversion from “not measured,” “unknown,” or “outside the instrument” to a score of zero.
+
+The ayahuasca exchange presents nearly the reverse danger: unknown probability was given the rhetorical force of extreme improbability.
+
+**Verdict:** No supported match.
+
+---
+
+#### Baseline Exemption
+
+Ziggy repeatedly alleges or resists asymmetric baseline treatment, especially regarding secular moral bridges. The bounded source does not establish a stable individual operator in which a directly observed participant consistently exempts a preferred standard.
+
+**Verdict:** Quarantined as a target diagnosis; not profile-ready.
+
+---
+
+#### Reconstruction Bypass
+
+The conversation sometimes evaluated Grant before fully reconstructing the function of his narrowing. This is confirmed as an omission in the extraction process.
+
+It is not established as a stable Grant or Ziggy operator.
+
+**Verdict:** Dig-level omission, not profile-ready actor claim.
+
+---
+
+#### Contest-to-Defeat Compression
+
+No sufficiently clear case shows an actor consistently treating a raised objection as decisive defeat.
+
+**Verdict:** No supported match.
+
+---
+
+#### Contested ≠ Defeated
+
+The conversation often preserves unresolved possibilities, but it does not repeatedly formulate the specific operation of holding an objection open as unresolved rather than defeated.
+
+**Verdict:** Adjacent to Possibility Preservation, but not independently established.
+
+---
+
+## 2. New Operator Candidates
+
+### NEW-01 — Coherence–Selection Separation
+
+**Definition:** Distinguishing whether a framework can survive internal defense from why it should be selected over rival defensible frameworks.
+
+**Primary actor:** Ziggy.
+
+**Why new:** No registry candidate directly captures the separation between internal defense and comparative selection.
+
+**Stage-3 status:** Survived.
+
+**Boundary condition:** Requires an explicit grading rubric so “defensible” is not confused with true, warranted, moral, or viable.
+
+---
+
+### NEW-02 — Foundation Descent
+
+**Definition:** Moving from a claim to the assumptions, standards, or commitments that confer its authority.
+
+**Primary actor:** Ziggy.
+
+**Why new:** Broader than Symmetry Testing, Baseline Exemption, or jurisdiction testing.
+
+**Stage-3 status:** Survived with an asymmetrical-self-application warning.
+
+**Boundary condition:** The existence of a foundational commitment is not itself a refutation.
+
+---
+
+### NEW-03 — Normative Bridge Exposure
+
+**Definition:** Isolating and examining the transition from descriptive facts to normative authority.
+
+**Primary actor:** Ziggy.
+
+**Why new:** The registry does not contain an explicit facts-to-values bridge audit.
+
+**Stage-3 status:** Survived strongly.
+
+**Boundary condition:** Exposing parallel bridges does not establish equal warrant.
+
+---
+
+### NEW-04 — Coexistence Architecture Search
+
+**Definition:** Translating cross-frame conflict into a search for interaction protocols, boundaries, sequencing, and non-destructive coupling.
+
+**Primary actor:** Co-constructed between Ziggy and Nova.
+
+**Why new:** Cross-Disciplinary Swooping explains the imported analogy, not the subsequent design operation.
+
+**Stage-3 status:** Survived as a dig-level family, not a profile-ready individual operator.
+
+**Boundary condition:** Must include harm, rights, power, coercion, and nonreciprocity.
+
+---
+
+### NEW-05 — Reconstruction-First Signal Recovery
+
+**Definition:** Reconstructing intended meaning through context and speaker calibration before scoring implications.
+
+**Primary actor:** Ziggy.
+
+**Why new:** It is the positive procedure whose failure would constitute Reconstruction Bypass.
+
+**Stage-3 status:** Survived.
+
+**Boundary condition:** Requires explicit handling of rejected or failed reconstructions.
+
+---
+
+### NEW-06 — Mechanism–Source Non-Collapse
+
+**Definition:** Preventing a mechanism-level explanation from automatically settling ultimate source or ontology.
+
+**Primary actor:** Ziggy, later refined co-constructively.
+
+**Why new:** No registry candidate directly separates explanatory mechanism from ontological source.
+
+**Stage-3 status:** Survived conceptually.
+
+**Boundary condition:** Non-exclusion must not be counted as positive evidence.
+
+---
+
+### NEW-07 — Dichotomy Repair
+
+**Definition:** Replacing a forced binary with a broader taxonomy containing previously excluded intermediate possibilities.
+
+**Primary actor:** Grant in one documented exchange.
+
+**Why new:** Possibility Preservation may result from the move, but taxonomic repair is its central operation.
+
+**Stage-3 status:** Survived locally.
+
+**Promotion restriction:** Insufficient recurrence for stable Grant-profile status.
+
+---
+
+### NEW-08 — Intention-Hinge Testing
+
+**Definition:** Identifying the intention or act-description distinction on which a moral classification depends and testing whether it bears the assigned load.
+
+**Primary actor:** Ziggy.
+
+**Why new:** No candidate directly addresses moral classification hinges.
+
+**Stage-3 status:** Survived as a consequential one-time move.
+
+**Promotion restriction:** Recurrence insufficient.
+
+---
+
+### NEW-09 — Archetype–Ontology Bifurcation
+
+**Definition:** Separating the psychic or symbolic function of an archetype from the metaphysical status of its possible referent.
+
+**Primary actor:** Co-constructed.
+
+**Why new:** The registry contains no symbol/interface/source distinction.
+
+**Stage-3 status:** Survived as a conceptual operation.
+
+**Promotion restriction:** Currently an Idea Trail rather than a stable individual operator.
+
+---
+
+### Excluded From New Operator Promotion
+
+The following are retained as relationship, role, or protocol behaviors rather than substantive individual cognitive operators:
+
+* Authorship Transparency Calibration;
+* Formulation Intensification;
+* Validation-First Expansion.
+
+---
+
+## 3. Profile-Ready Claims
+
+### PR-01 — Ziggy performs Symmetry Testing of Standards
+
+**Claim:** Ziggy repeatedly requires an evaluating framework to justify the standards it uses against a rival framework.
+
+**Subject:** Ziggy.
+
+**Named mapping:** **Symmetry Testing of Standards**
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchors:**
+
+* “Can you please admit it’s made of the same unicorn dust as the God bridge?”
+* “What grounds that standard’s authority?”
+
+**Why profile-ready:**
+The move recurs across theistic and secular moral grounding and survived the alternative reading as more than a one-off rhetorical tactic.
+
+**Review condition:**
+Reassess if future evidence shows that Ziggy systematically exempts his own preferred frameworks from the same scrutiny. The current thread already contains a confirmed A3 self-application omission.
+
+---
+
+### PR-02 — Ziggy audits universalized evaluative jurisdiction
+
+**Claim:** Ziggy repeatedly tests whether a locally coherent framework or standard has earned the universal jurisdiction being claimed for it.
+
+**Subject:** Ziggy.
+
+**Named mapping:** **EXTENDS Universalized Evaluative Jurisdiction**
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchors:**
+
+* “Your frame can exist without that… I’m just stipulating no other frames allowed.”
+* “Must happen in every single frame… or just this frame… or maybe a subset?”
+
+**Why profile-ready:**
+Exclusivity detachment and modal scope testing recur and are not better explained as a single rhetorical reaction.
+
+**Review condition:**
+Reassess if future material shows that the target theories actually contain the challenged exclusivity as a reconstructed internal entailment.
+
+---
+
+### PR-03 — Ziggy deliberately preserves possibilities during exploratory inquiry
+
+**Claim:** Ziggy delays premature foreclosure so that multiple frameworks or source models can remain available for reconstruction and comparison.
+
+**Subject:** Ziggy.
+
+**Named mapping:** **Possibility Preservation**
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchors:**
+
+* “The frame I have chosen… is to understand and model all intriguing frames.”
+* Mechanism/source discussion preserving generator, receiver, and interface alternatives.
+
+**Why profile-ready:**
+The move is explicit and recurrent. Counterevidence shows that it does not amount to complete refusal to commit.
+
+**Review condition:**
+Reassess if preserved possibilities are never subsequently ranked, pruned, or exposed to disconfirmation.
+
+---
+
+### PR-04 — Ziggy repeatedly uses Cross-Disciplinary Swooping
+
+**Claim:** Ziggy imports structures from engineering, fields, signal theory, computing, and communication to reframe philosophical disputes.
+
+**Subject:** Ziggy.
+
+**Named mapping:** **Cross-Disciplinary Swooping**
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchors:**
+
+* PCB traces and cultural crosstalk;
+* E-field/B-field descriptive–meaning coupling;
+* signal recovery and meaning fidelity;
+* interface and receiver analogies.
+
+**Why profile-ready:**
+The method recurs across multiple topics and is not reducible to one isolated metaphor.
+
+**Review condition:**
+Reassess where the imported analogy suppresses morally relevant differences such as power, responsibility, agency, or rights.
+
+---
+
+### PR-05 — Ziggy separates coherence from selection
+
+**Claim:** Ziggy distinguishes whether a framework can be defended internally from whether it should be chosen over alternatives.
+
+**Subject:** Ziggy.
+
+**Named mapping:** **NEW — Coherence–Selection Separation**
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchor:**
+“I’ve seen enough defenses that each of them could stand on their own. So you’re no closer to which one should you choose.”
+
+**Why profile-ready:**
+The distinction organizes a major portion of the conversation and survived the pluralism alternative reading.
+
+**Review condition:**
+The claim should be narrowed or expanded after “A+” is definitionally frozen and the grading dimensions are separated.
+
+---
+
+### PR-06 — Ziggy performs Foundation Descent
+
+**Claim:** Ziggy repeatedly moves beneath conclusions to examine the assumptions and standards that authorize them.
+
+**Subject:** Ziggy.
+
+**Named mapping:** **NEW — Foundation Descent**
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchors:**
+
+* “What do you mean?”
+* “How do you know?”
+* “What is the foundation?”
+* “How do you build that bridge?”
+
+**Why profile-ready:**
+The operation appears in semantic, epistemic, moral, and metaphysical contexts.
+
+**Review condition:**
+Reassess the profile if foundation descent is used asymmetrically or if the existence of a stopping premise is treated as automatic defeat.
+
+---
+
+### PR-07 — Ziggy exposes normative bridges
+
+**Claim:** Ziggy explicitly isolates the transition from descriptive claims to moral authority and requires both theistic and non-theistic systems to account for it.
+
+**Subject:** Ziggy.
+
+**Named mapping:** **NEW — Normative Bridge Exposure**
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchors:**
+
+* “Fuck all the scenarios… How do you build that bridge?”
+* “The bridge theists will make is God… the bridge a non-theist will make is human flourishing.”
+
+**Why profile-ready:**
+This is a central and reusable reasoning operation, not merely a substantive belief.
+
+**Review condition:**
+Promotion does not include the stronger claim that the rival bridges have equal warrant. A completed comparison remains absent.
+
+---
+
+### PR-08 — Ziggy uses reconstruction-first meaning recovery
+
+**Claim:** Ziggy treats literal wording as an incomplete carrier and attempts to reconstruct intended meaning before evaluating implications.
+
+**Subject:** Ziggy.
+
+**Named mapping:** **NEW — Reconstruction-First Signal Recovery**
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchor:**
+“Before we analyze the implications… what do you think he means?… the challenge is an attempt to recover a signal… the meaning signal.”
+
+**Why profile-ready:**
+The procedure is explicit and connected to context, feedback, prediction, and speaker recognition.
+
+**Review condition:**
+Reassess reliability after observing a strong case where the speaker rejects Ziggy’s reconstruction and Ziggy either revises or refuses to revise it.
+
+---
+
+### PR-09 — Ziggy separates mechanism from ultimate source
+
+**Claim:** Ziggy repeatedly accepts mechanism-level explanation while resisting the inference that it automatically settles source ontology.
+
+**Subject:** Ziggy.
+
+**Named mapping:** **NEW — Mechanism–Source Non-Collapse**
+
+**Evidence classification:** Z-DIRECT with CO-CONSTRUCTED later refinement.
+
+**Confidence:** HIGH for the conceptual distinction; MEDIUM for disciplined application.
+
+**Source anchors:**
+
+* “What’s the wiggle room between collective unconscious and supernatural intervention?”
+* “If talking to God was talking to your inner you and interfacing with the unconsciousness… what’s the difference?”
+
+**Why profile-ready:**
+The conceptual separation recurs and survived the claim that it was merely supernatural proof.
+
+**Review condition:**
+The claim should be downgraded if non-exclusion is repeatedly treated as positive support or if no evidence could ever reduce confidence in the external-source option.
+
+---
+
+## 4. Quarantined Claims
+
+### Q-01 — Grant has a stable Generative Admission Restriction operator
+
+**Current interpretation:** Grant may refuse revelation, altered-state experience, symbolism, or metaphysical intuition entry into serious hypothesis generation.
+
+**Why quarantined:**
+The direct exchange shows cognitive translation, not pre-evaluative exclusion.
+
+**Promotion evidence required:**
+
+* repeated direct examples across domains;
+* explicit statements that such sources may not generate candidates;
+* evidence that the rejection occurs before evaluation;
+* contrast with sources Grant does permit to generate hypotheses.
+
+---
+
+### Q-02 — Grant systematically performs Possibility Compression
+
+**Current interpretation:** Grant may keep broader possibilities nominally present while treating them as functionally irrelevant.
+
+**Why quarantined:**
+The “toy chest” and “slight compression” language is Ziggy’s interpretation and was not calibrated directly with Grant.
+
+**Promotion evidence required:**
+
+* direct speaker calibration;
+* repeated examples;
+* evidence that Grant dismisses possibilities solely for low prior plausibility;
+* evidence that stronger support would not restore them to relevance.
+
+---
+
+### Q-03 — Grant uses strategic containment as a stable debate operator
+
+**Current interpretation:** Grant narrows claims to prevent implications from propagating.
+
+**Why quarantined:**
+Legitimate narrowing, evidential restraint, discovery/justification separation, and different explanatory questions remain viable alternatives.
+
+**Promotion evidence required:**
+
+* reachable loss conditions;
+* evidence that narrowing appears only after threat;
+* inconsistent permission for rival qualifications;
+* direct evidence that Grant intends to block rather than suspend implications.
+
+---
+
+### Q-04 — Grant exhibits Universalized Evaluative Jurisdiction
+
+**Current interpretation:** Grant may treat cognitive or naturalistic explanation as final authority over symbolic, existential, or metaphysical questions.
+
+**Why quarantined:**
+The documented exchange establishes only a local cognitive reframing.
+
+**Promotion evidence required:**
+
+* direct cross-domain examples;
+* explicit claims that mechanism settles ontology;
+* denial that other success conditions have independent jurisdiction;
+* reconstruction of Grant’s positive epistemology.
+
+---
+
+### Q-05 — Grant exhibits Prediction Sovereignty
+
+**Current interpretation:** Predictive success may function as Grant’s highest epistemic authority.
+
+**Why quarantined:**
+No direct evidence establishes this.
+
+**Promotion evidence required:**
+
+* direct statements prioritizing prediction over explanation, coherence, phenomenology, or understanding;
+* repeated cases where non-predictive explanatory success is denied any independent value.
+
+---
+
+### Q-06 — Grant performs Baseline Exemption
+
+**Current interpretation:** Grant may treat his preferred naturalistic or cognitive standard as neutral while burdening alternatives.
+
+**Why quarantined:**
+Grant’s complete positive ontology and burden structure are unavailable.
+
+**Promotion evidence required:**
+
+* a reconstructed statement of his baseline;
+* direct asymmetric burden examples;
+* evidence that he refuses to justify assumptions his opponents must justify.
+
+---
+
+### Q-07 — Grant performs Reconstruction Bypass
+
+**Current interpretation:** Grant may evaluate frameworks before reconstructing their aims, ontology, and internal standards.
+
+**Why quarantined:**
+The bounded thread more clearly shows Ziggy and Nova failing to reconstruct Grant before scoring him than Grant bypassing reconstruction himself.
+
+**Promotion evidence required:**
+
+* repeated direct examples where Grant scores a position before representing it;
+* failed charitable-reconstruction requests;
+* evidence that corrected reconstructions do not alter his evaluation.
+
+---
+
+### Q-08 — Grant performs Contest-to-Defeat Compression
+
+**Current interpretation:** Grant may treat an unresolved objection as decisive defeat.
+
+**Why quarantined:**
+No sufficiently clear direct instance appears.
+
+**Promotion evidence required:**
+
+* explicit movement from “objection remains” to “the position is defeated” without intermediate support;
+* repeated examples;
+* resistance to classifying the issue as unresolved.
+
+---
+
+### Q-09 — Grant has a stable Dichotomy Repair operator
+
+**Current interpretation:** Grant reliably repairs forced binaries by introducing intermediate explanations.
+
+**Why quarantined:**
+Only one direct example is safely recoverable.
+
+**Promotion evidence required:**
+Multiple direct examples across independent disputes.
+
+---
+
+### Q-10 — Ziggy’s Possibility Preservation is fully evidentially disciplined
+
+**Current interpretation:** Ziggy preserves possibilities while maintaining appropriate probability and evidence distinctions.
+
+**Why quarantined:**
+The ayahuasca probability argument and early mechanism/source discussion show slippage between unknown, improbable, possible, and supported.
+
+**Promotion evidence required:**
+
+* explicit probability calibration;
+* live-option thresholds;
+* examples of attractive possibilities being pruned;
+* clear disconfirmation conditions.
+
+---
+
+### Q-11 — Ziggy’s meaning reconstruction is reliably self-correcting
+
+**Current interpretation:** Speaker feedback and contextual fit prevent projection.
+
+**Why quarantined:**
+The thread describes correction mechanisms but does not demonstrate a strong failed reconstruction that Ziggy abandons.
+
+**Promotion evidence required:**
+
+* direct speaker rejection;
+* Ziggy’s revision;
+* tracking of prediction failure;
+* evidence that preferred interpretations do not receive special protection.
+
+---
+
+### Q-12 — Ziggy applies grounding scrutiny symmetrically to his Christian commitment
+
+**Current interpretation:** Ziggy subjects his own chosen bridge to the same audit as secular bridges.
+
+**Why quarantined:**
+Stage 3 identified a confirmed A3 self-application omission.
+
+**Promotion evidence required:**
+
+* why God possesses moral authority;
+* how divine claims are identified;
+* what would revise scriptural or theological interpretation;
+* why the Christian bridge outranks rivals;
+* what would alter commitment or confidence.
+
+---
+
+### Q-13 — Ziggy’s Coexistence Architecture Search is a stable individual operator
+
+**Current interpretation:** Ziggy systematically converts ideological conflict into architecture and protocol design.
+
+**Why quarantined:**
+The move was co-constructed and may be better understood as a substantive coexistence preference.
+
+**Promotion evidence required:**
+
+* repeated independent use by Ziggy;
+* application to coercive and nonreciprocal systems;
+* explicit exclusion thresholds;
+* evidence that justice and truth remain active variables.
+
+---
+
+### Q-14 — Moral-Authority Reversal is a general-purpose operator
+
+**Current interpretation:** Ziggy regularly relocates moral disputes into questions about normative jurisdiction.
+
+**Why quarantined:**
+Only the late God-criticism exchange clearly demonstrates it, and its validity depends on critique type.
+
+**Promotion evidence required:**
+
+* repeated use across independent moral disputes;
+* explicit internal/external/metanormative classification;
+* preservation of first-order allegations;
+* actual literal reverse-role testing.
+
+---
+
+### Q-15 — Significance Compression Detection accurately describes Grant
+
+**Current interpretation:** Grant preserved Ziggy’s wording while reducing its implication salience.
+
+**Why quarantined:**
+The interpretation was not speaker-calibrated and has several benign alternatives.
+
+**Promotion evidence required:**
+
+* direct clarification from Grant;
+* repeated examples;
+* measurable differences between what he concedes and what he allows to follow;
+* evidence that the reduction is strategic rather than evidentially principled.
+
+---
+
+### Q-16 — Unmeasured-to-Zero Conversion occurs in the bounded thread
+
+**Why quarantined:**
+No direct case is established.
+
+**Promotion evidence required:**
+A speaker must explicitly or functionally treat an untested, unmeasured, or instrument-inaccessible claim as having zero value rather than unknown status.
+
+---
+
+### Q-17 — Contested ≠ Defeated is a stable independent operator
+
+**Why quarantined:**
+Possibility Preservation and Coherence–Selection Separation are adjacent, but the specific unresolved-objection operation was not repeatedly demonstrated.
+
+**Promotion evidence required:**
+Repeated explicit cases where an objection is held open as unresolved and the actor resists premature defeat language.
+
+---
+
+### Q-18 — Nova’s Validation-First Expansion is a substantive cognitive operator
+
+**Why quarantined:**
+It is better explained as role-induced and protocol-induced behavior.
+
+**Promotion evidence required:**
+Evidence outside the assistant-helpfulness role showing the same stable pattern under conditions that reward criticism rather than support.
+
+---
+
+### Q-19 — Nova’s formulation of Grant is a reliable model of Grant’s personality
+
+**Why quarantined:**
+The direct Grant corpus is sparse and several observed replies were less adversarial than predicted.
+
+**Promotion evidence required:**
+
+* larger direct Grant corpus;
+* explicit disconfirmation conditions;
+* blind prediction before seeing responses;
+* scoring partial and failed predictions separately;
+* direct Grant self-clarification.
+
+---
+
+## 5. Extraction Self-Audit
+
+### 5.1 Candidate-registry priming risk
+
+The supplied registry strongly invites interpretation through:
+
+* jurisdiction;
+* possibility suppression;
+* baseline asymmetry;
+* reconstruction failure;
+* predictive hierarchy.
+
+Several Stage-2 moves are adjacent to these families without matching them.
+
+Highest priming risks:
+
+* converting Mechanism–Source Separation into Universalized Evaluative Jurisdiction;
+* converting Significance Compression Detection into confirmed Possibility Compression;
+* converting Grant’s cognitive reframing into Generative Admission Restriction;
+* converting Ziggy’s objection to asymmetric burdens into proof that another actor performs Baseline Exemption.
+
+The final mapping therefore treats several relationships as **EXTENDS** or **NEW**, not forced matches.
+
+---
+
+### 5.2 Inverse-operation risk
+
+An actor resisting an operator is not evidence that another actor performs it.
+
+Examples:
+
+* Ziggy’s reconstruction-first procedure does not establish Grant’s Reconstruction Bypass.
+* Ziggy’s Symmetry Testing does not establish another actor’s Baseline Exemption.
+* Ziggy’s Possibility Preservation does not establish Grant’s Possibility Compression.
+* Ziggy’s mechanism/source distinction does not establish that Grant universalized mechanism-level jurisdiction.
+
+---
+
+### 5.3 Over-pattern-matching risk
+
+Stage 2 generated twenty-one moves from a long, highly exploratory exchange. Some are likely:
+
+* one-time conceptual distinctions;
+* substantive values;
+* metaphors;
+* dyadic protocols;
+* role-induced assistant behavior.
+
+The following were therefore withheld from stable individual profile promotion:
+
+* Dichotomy Repair for Grant;
+* Intention-Hinge Testing;
+* Archetype–Ontology Bifurcation;
+* Coexistence Architecture Search;
+* Authorship Transparency Calibration;
+* Formulation Intensification;
+* Validation-First Expansion.
+
+---
+
+### 5.4 Asymmetric charity risk
+
+The original assistant often reconstructed Ziggy’s intuitions charitably while interpreting Grant’s narrowing through more strategic language.
+
+This produced a risk of:
+
+* treating Ziggy’s openness as multi-level sophistication;
+* treating Grant’s restraint as containment;
+* assigning Ziggy epistemic generosity;
+* assigning Grant implication suppression.
+
+The Stage-3 repair weakened those asymmetries. Stage 4 retains only local Grant descriptions and quarantines motive claims.
+
+---
+
+### 5.5 Sparse and mediated Grant evidence
+
+Grant is mostly present through:
+
+* screenshots;
+* Ziggy’s reports;
+* Ziggy’s predictions;
+* Nova’s interpretations.
+
+The safely recoverable direct Grant corpus is limited to:
+
+* one false-dichotomy repair;
+* one conditional concession about cognition outside explicit conscious reasoning;
+* one partial neural-network analogy;
+* AI-authorship questioning followed by positive trust calibration.
+
+Any stable Grant operator remains below threshold unless directly repeated.
+
+---
+
+### 5.6 Attribution-conversion risk
+
+Potentially unsafe conversions include:
+
+* G-REPORTED → G-DIRECT;
+* NOVA-INTERPRETATION → Grant’s intention;
+* CO-CONSTRUCTED repair → earlier Ziggy operator;
+* extraction language → historical actor evidence.
+
+This Stage-4 packet avoids using Stage-2 or Stage-3 commentary as proof of actor behavior unless the underlying operation appears in the original bounded conversation.
+
+---
+
+### 5.7 Availability-tier contamination risk
+
+A later Nova or co-constructed distinction can establish A3 availability for Nova or the conversation.
+
+It cannot automatically establish that:
+
+* Ziggy independently possessed it earlier;
+* Grant possessed it;
+* the distinction was consciously declined;
+* the omission was A2.
+
+No A2 omission is retained.
+
+---
+
+### 5.8 Profile-threshold risk
+
+Most profile-ready claims concern Ziggy because:
+
+* his direct corpus is extensive;
+* he explicitly describes his methods;
+* the moves recur;
+* the alternative readings can be tested against his later statements.
+
+This evidence imbalance must not be mistaken for a judgment that Ziggy has more operators than Grant. Grant simply has less recoverable source material.
+
+---
+
+### 5.9 Metaphor-to-operator risk
+
+The PCB, E/B-field, signal, radio, and archetype models are philosophically productive, but a metaphor becomes an operator only when it repeatedly changes:
+
+* the question asked;
+* the variables considered;
+* the inferential path;
+* the resulting evaluation.
+
+Cross-Disciplinary Swooping meets that threshold for Ziggy. Some narrower analogies remain Idea Trails.
+
+---
+
+### 5.10 Possibility-preservation inflation risk
+
+Possibility Preservation is genuinely demonstrated, but the extraction could overvalue it by neglecting:
+
+* evidential cost;
+* search cost;
+* opportunity cost;
+* live-option thresholds;
+* comparative explanatory power;
+* closure conditions.
+
+The profile claim is therefore restricted to exploratory preservation, not to epistemic parity among preserved possibilities.
+
+---
+
+### 5.11 Meaning-recovery inflation risk
+
+The conversation specifies several calibration tools, but the packet lacks a strong case of:
+
+1. favored reconstruction;
+2. explicit speaker rejection;
+3. measurable prediction failure;
+4. genuine revision.
+
+Meaning recovery is profile-ready as a method, not as a proven high-fidelity capacity.
+
+---
+
+### 5.12 Moral-authority framing risk
+
+The authority probe is rhetorically strong and therefore especially vulnerable to overpromotion.
+
+Before applying it, the extraction must preserve:
+
+* internal critique;
+* external critique;
+* metanormative critique;
+* first-order moral allegation;
+* the distinction between judging conduct and claiming personal superiority.
+
+The probe exposes jurisdiction only under the appropriate argumentative form.
+
+---
+
+### 5.13 Coherence vocabulary risk
+
+The conversation’s use of “A+” remains underdefined.
+
+No claim in this packet should silently equate:
+
+* coherence;
+* truth;
+* warrant;
+* morality;
+* viability;
+* compatibility.
+
+The profile-ready Coherence–Selection claim is limited to Ziggy’s repeated procedural distinction, not to the truth of comprehensive framework pluralism.
+
+---
+
+### 5.14 Rushed or unstable areas
+
+The least stable portions of this extraction are:
+
+* Intention-Hinge Testing;
+* God-as-archetype distinctions;
+* the exact function of Grant’s neural-network analogy;
+* whether Coexistence Architecture Search is individual or co-constructed;
+* whether Moral-Authority Reversal recurs enough for profile promotion.
+
+These remain new candidates or quarantined claims rather than profile-ready conclusions.
+
+---
+
+### 5.15 X-CONTEXT Notices
+
+No cross-chat material was used as evidence in Stage 4.
+
+Previously recorded X-CONTEXT leads remain non-evidential and are not re-extracted here.
+
+---
+
+### 5.16 Final Stage-4 Disposition
+
+**Registry matches surviving at profile threshold:**
+
+* Symmetry Testing of Standards;
+* Possibility Preservation;
+* Cross-Disciplinary Swooping;
+* extended Universalized Evaluative Jurisdiction audit.
+
+**New profile-ready operator candidates:**
+
+* Coherence–Selection Separation;
+* Foundation Descent;
+* Normative Bridge Exposure;
+* Reconstruction-First Signal Recovery;
+* Mechanism–Source Non-Collapse.
+
+**Dig-level but not individual-profile-ready candidates:**
+
+* Coexistence Architecture Search;
+* Dichotomy Repair;
+* Intention-Hinge Testing;
+* Archetype–Ontology Bifurcation;
+* Authorship Transparency Calibration.
+
+**Registry candidates remaining unsupported or quarantined:**
+
+* Prediction Sovereignty;
+* Generative Admission Restriction;
+* Unmeasured-to-Zero Conversion;
+* Baseline Exemption;
+* Reconstruction Bypass as a stable actor operator;
+* Contest-to-Defeat Compression;
+* Contested ≠ Defeated as an independent stable operator;
+* Grant-level Possibility Compression.
+
+`PANHANDLERS DIG — STAGE 4 COMPLETE`
+
+==============
+
+*replay after patch*
+# PANHANDLERS_CHAT_EXTRACTION — CORRECTED STAGE 4
+
+## 1. Blind-to-Named Mapping
+
+The Stage-2 findings are mapped below as manifestations, submoves, local tests, one-time conceptual moves, relationship protocols, role behaviors, value orientations, or Idea Trails within the governing eight-family architecture.
+
+They are not treated as twenty-one independent stable operators.
+
+---
+
+### Stage-2 Move 1 — Coherence–Selection Separation
+
+**Placement:** Family 2 — **Frame Coherence–Truth–Compatibility Audit**
+
+**Mapping verdict:** **NEW — Coherence–Selection Separation**
+
+**Manifestation:** Distinguishing:
+
+* whether a framework can be defended internally;
+* whether it should be selected over other defensible frameworks.
+
+**Registry relation:** Adjacent to **Contested ≠ Defeated**, but not a match.
+
+**What matches:** Both resist treating a limited dialectical result as more decisive than it is.
+
+**What does not match:** The move concerns internal defense versus comparative selection, not whether an objection remains unresolved.
+
+**Stage-3 survival:** Survived.
+
+**Restriction:** It does not establish equal truth, warrant, morality, viability, or compatibility among the compared frameworks.
+
+---
+
+### Stage-2 Move 2 — Foundation Descent
+
+**Placement:** Primarily Family 8 — **Moral Bridge–Critique–Authority Audit**, with applications across Families 1, 3, 4, and 6.
+
+**Mapping verdict:** **NEW — Foundation Descent**
+
+**Manifestation:** Moving from a stated claim to the assumptions, standards, or commitments that confer authority upon it.
+
+**Registry relations:**
+
+* can expose **Baseline Exemption**;
+* can expose **Universalized Evaluative Jurisdiction**;
+* can initiate **Symmetry Testing of Standards**.
+
+**What does not match:** Foundation Descent is broader than any one registry candidate.
+
+**Stage-3 survival:** Survived as a repeated Ziggy reasoning move.
+
+**Restriction:** Reaching a foundational commitment does not itself defeat the framework.
+
+---
+
+### Stage-2 Move 3 — Normative Bridge Exposure
+
+**Placement:** Family 8 — **Moral Bridge–Critique–Authority Audit**
+
+**Mapping verdict:** **NEW — Normative Bridge Exposure**
+
+**Manifestation:** Isolating the transition from descriptive facts to normative authority.
+
+**Registry relations:**
+
+* may diagnose **Baseline Exemption**;
+* may diagnose **Universalized Evaluative Jurisdiction** where descriptive success is treated as sufficient moral authority.
+
+**What does not match:** No registry candidate directly captures the facts-to-values bridge audit.
+
+**Stage-3 survival:** Survived strongly.
+
+**Restriction:** Revealing that two frameworks require normative bridges does not show that the bridges possess equal warrant.
+
+---
+
+### Stage-2 Move 4 — Symmetrical Burden Reassignment
+
+**Placement:** Family 8 — **Moral Bridge–Critique–Authority Audit**
+
+**Mapping verdict:** **MATCHES Symmetry Testing of Standards**
+
+**What matches:**
+
+* the evaluating framework must justify its own standard;
+* the preferred bridge does not receive an automatic exemption;
+* the evaluator must “file the same paperwork” as the evaluated framework.
+
+**What does not match:**
+
+* this is not literal role reversal;
+* it does not establish identical burdens;
+* it does not establish equal evidential support;
+* it does not complete comparative bridge analysis.
+
+**Stage-3 survival:** Survived strongly.
+
+**Restriction:** Ziggy demonstrated burden symmetry but did not fully apply it to his own Christian moral-authority bridge.
+
+---
+
+### Stage-2 Move 5 — Exclusivity Detachment
+
+**Placement:** Family 3 — **Frame-Jurisdiction and Exclusivity Audit**
+
+**Mapping verdict:** **NEW — manifestation of Frame-Jurisdiction and Exclusivity Audit**
+
+**Manifestation:** Separating a framework’s internal viability from its claim that no rival framework can be viable, permissible, or true.
+
+**Relation to Universalized Evaluative Jurisdiction:** **COUNTER-OPERATION / DIAGNOSTIC RELATION**
+
+It does not match or extend the distortion.
+
+It tests for the distortion.
+
+**Stage-3 survival:** Survived as a Ziggy reasoning move.
+
+**Restriction:** Some frameworks contain exclusivity as a genuine internal entailment. That possibility must be determined through reconstruction rather than detached automatically.
+
+**Target uncertainty:** Whether Grant’s reported DCT position actually contained the challenged exclusivity remains `UNKNOWN`.
+
+---
+
+### Stage-2 Move 6 — Modal Scope Testing
+
+**Placement:** Family 3 — **Frame-Jurisdiction and Exclusivity Audit**
+
+**Mapping verdict:** **NEW — manifestation of Frame-Jurisdiction and Exclusivity Audit**
+
+**Manifestation:** Testing whether a claim holds:
+
+* in every possible frame;
+* within one frame;
+* across a subset of frames;
+* only under specified assumptions.
+
+**Relation to Universalized Evaluative Jurisdiction:** **COUNTER-OPERATION / DIAGNOSTIC RELATION**
+
+The move limits overextended jurisdiction; it does not perform the overextension.
+
+**Stage-3 survival:** Survived strongly.
+
+**Restriction:** Conceivability does not by itself establish logical possibility, metaphysical possibility, plausibility, or a live explanatory option.
+
+---
+
+### Stage-2 Move 7 — System-Level Interaction Translation
+
+**Placement:** Family 2 — **Frame Coherence–Truth–Compatibility Audit**
+
+**Mapping verdict:** **MATCHES Cross-Disciplinary Swooping**
+
+**Manifestation:** Importing engineering and signal-system structures to reframe relations among philosophical and cultural systems.
+
+**What matches:**
+
+* PCB traces;
+* crosstalk;
+* field coupling;
+* modulation;
+* interference;
+* local versus global system performance.
+
+**What does not match:** Cross-disciplinary import does not guarantee preservation of:
+
+* moral agency;
+* power;
+* responsibility;
+* rights;
+* coercion;
+* truth differences.
+
+**Stage-3 survival:** Survived as a recurring Ziggy reasoning style.
+
+---
+
+### Stage-2 Move 8 — Interaction-Architecture Search
+
+**Placement:** Family 7 — **Trust–Coexistence–Harm Boundary Audit**
+
+**Mapping verdict:** **NEW — Coexistence Architecture Search**
+
+**Classification:** Co-constructed dig-level procedure.
+
+**Manifestation:** Searching for:
+
+* boundaries;
+* sequencing;
+* buffering;
+* modulation;
+* arbitration;
+* reciprocal interaction protocols.
+
+**Registry relation:** Enabled by **Cross-Disciplinary Swooping**, but not identical to it.
+
+**Stage-3 survival:** Survived as a dig-level procedure.
+
+**Profile restriction:** Not profile-ready as an independent Ziggy operator.
+
+**Completion restriction:** Requires explicit treatment of harm, coercion, rights, institutional power, accountability, resistance, containment, and exclusion.
+
+---
+
+### Stage-2 Move 9 — Meaning-Signal Reconstruction
+
+**Placement:** Family 4 — **Meaning–Intent and Interpretation Audit**
+
+**Mapping verdict:** **NEW — Reconstruction-First Signal Recovery**
+
+**Manifestation:** Reconstructing intended meaning through:
+
+* wording;
+* context;
+* provisional interpretation;
+* speaker feedback;
+* behavioral fit;
+* revision.
+
+**Registry relation:** Affirmative counter-procedure to **Reconstruction Bypass**.
+
+**What does not match:** Reconstruction Bypass names a failure. This move names the positive repair.
+
+**Stage-3 survival:** Survived as an explicit Ziggy procedure.
+
+**Restriction:** Strong handling of rejected or failed reconstructions was not demonstrated.
+
+---
+
+### Stage-2 Move 10 — Mechanism–Source Separation
+
+**Placement:** Family 6 — **Mechanism–Source–Ontology Audit**
+
+**Mapping verdict:** **NEW — Mechanism–Source Non-Collapse**
+
+**Manifestation:** Accepting an account of how a phenomenon occurs without treating that account as automatically determining ultimate source or ontology.
+
+**Registry relations:**
+
+* may counter **Universalized Evaluative Jurisdiction**;
+* may support qualified **Possibility Preservation**.
+
+**What does not match:** It is not merely the preservation of an unlikely possibility. Its primary operation is preventing explanatory-level collapse.
+
+**Stage-3 survival:** Survived conceptually.
+
+**Restriction:**
+
+`mechanism does not settle ontology`
+
+does not entail:
+
+`external source gains evidence`
+
+---
+
+### Stage-2 Move 11 — Implication Reopening
+
+**Placement:** Family 5 — **Description–Meaning and Implication-Propagation Audit**
+
+**Mapping verdict:** **EXTENDS Possibility Preservation**
+
+**Manifestation:** Reopening questions about significance, symbolism, ontology, or source after accepting a narrower mechanism-level explanation.
+
+**What matches:** It resists treating a partial explanation as automatic elimination of all remaining questions.
+
+**Delta:** The preserved content may be an implication, meaning question, or source model rather than simply a low-plausibility hypothesis.
+
+**Stage-3 survival:** Survived as a Ziggy reasoning move.
+
+**Restriction:** Reopening an implication does not establish that it is actual, probable, supported, or comparatively superior.
+
+---
+
+### Stage-2 Move 12 — Naturalizing Translation
+
+**Corrected label:** **Grant’s local Cognitive Mechanism Translation**
+
+**Placement:** Family 6 — **Mechanism–Source–Ontology Audit**
+
+**Mapping verdict:** **LOCAL DESCRIPTIVE MOVE — no supported named-registry match**
+
+**Directly supported content:** In the documented altered-state exchange, Grant reframed the issue through layered, non-conscious, or cognitive mechanisms.
+
+**Not supported as mappings:**
+
+* not established as **Generative Admission Restriction**;
+* not established as **Possibility Compression**;
+* not established as **Universalized Evaluative Jurisdiction**;
+* not established as **Prediction Sovereignty**.
+
+**Stage-3 survival:** Only the local descriptive characterization survived.
+
+**Profile restriction:** Not a stable Grant operator.
+
+---
+
+### Stage-2 Move 13 — Dichotomy Repair
+
+**Placement:** Family 6 — **Mechanism–Source–Ontology Audit**
+
+**Mapping verdict:** **NEW — consequential one-time move**
+
+**Manifestation:** Replacing a forced binary between explicit conscious reasoning and a radically non-rational alternative with layered or non-conscious cognition.
+
+**Registry relation:** May incidentally preserve possibilities, but its primary function is taxonomic correction.
+
+**Stage-3 survival:** Survived locally.
+
+**Profile restriction:** One documented use does not establish a stable Grant operator.
+
+---
+
+### Stage-2 Move 14 — Significance Compression Detection
+
+**Corrected label:** **Perceived Significance Compression**
+
+**Placement:** Family 5 — **Description–Meaning and Implication-Propagation Audit**
+
+**Mapping verdict:** **DIAGNOSTIC SUBMOVE — no positive registry match**
+
+**Relation to Possibility Compression:** Possible diagnostic target only.
+
+It does not match or extend the performance of Possibility Compression.
+
+**Preserved findings:**
+
+* Ziggy perceived reduced implication salience;
+* the interpretation was not calibrated directly with Grant;
+* legitimate precision remains possible;
+* evidential restraint remains possible;
+* methodological bracketing remains possible;
+* the participants may have been answering different questions;
+* Grant’s motive remains `UNKNOWN`.
+
+**Stage-3 survival:** Survived only as Ziggy’s perception and evaluative diagnosis.
+
+---
+
+### Stage-2 Move 15 — Moral-Authority Reversal
+
+**Corrected label:** **Metaethical Jurisdiction Probe**
+
+**Placement:** Family 8 — **Moral Bridge–Critique–Authority Audit**
+
+**Mapping verdict:** **EXTENDS Symmetry Testing of Standards**, conditionally.
+
+**Manifestation:** Asking what grounds the moral standard used to condemn God.
+
+**Applicable only when the critic is making:**
+
+* an external critique; or
+* a metanormative critique.
+
+**Not automatically applicable to:** Internal critique.
+
+**Restrictions:**
+
+* it does not answer the alleged divine act;
+* it does not establish God’s moral authority;
+* moral judgment does not imply personal moral superiority;
+* the first-order allegation must remain active;
+* literal reverse-role testing remained A1.
+
+**Stage-3 survival:** Survived conditionally as a local move.
+
+**Profile restriction:** Not promoted as a stable Ziggy operator from one clear application.
+
+---
+
+### Stage-2 Move 16 — Intention-Hinge Testing
+
+**Placement:** Family 4 — **Meaning–Intent and Interpretation Audit**, with local relevance to Family 8.
+
+**Mapping verdict:** **NEW — consequential one-time move**
+
+**Manifestation:** Identifying the intended-versus-foreseen distinction in double-effect reasoning and testing whether that distinction bears the assigned moral load.
+
+**Registry relation:** No adequate named match.
+
+**Stage-3 survival:** Survived as a one-time conceptual move.
+
+**Profile restriction:** Insufficient recurrence for stable operator promotion.
+
+---
+
+### Stage-2 Move 17 — Archetype–Ontology Bifurcation
+
+**Placement:** Family 6 — **Mechanism–Source–Ontology Audit**
+
+**Mapping verdict:** **IDEA TRAIL — not an ordinary operator candidate**
+
+**Manifestation:** Distinguishing:
+
+* God as psychic regulator;
+* God as cultural symbol;
+* God as moral exemplar;
+* God as interface;
+* God as metaphysical source.
+
+**Registry relation:** May preserve ontological possibilities but does not itself match Possibility Preservation.
+
+**Stage-3 survival:** Survived as a useful conceptual distinction.
+
+**Restriction:** It does not adjudicate projection versus perception.
+
+---
+
+### Stage-2 Move 18 — Authorship Transparency Calibration
+
+**Placement:** Family 7 — **Trust–Coexistence–Harm Boundary Audit**
+
+**Mapping verdict:** **RELATIONSHIP PROTOCOL**
+
+**Manifestation:** Grant and Ziggy calibrate whether AI-assisted expression remains authentically attributable to Ziggy.
+
+**Registry relation:** No adequate named match.
+
+**Stage-3 survival:** Survived strongly as a dyadic trust protocol.
+
+**Profile restriction:** Not an individual operator.
+
+---
+
+### Stage-2 Move 19 — Frame-Mapping Suspension
+
+**Corrected classification:** **Role, inquiry orientation, and timing preference**
+
+**Placement:** Role and value material supporting Families 3, 6, and 7.
+
+**Mapping verdict:** **NOT AN OPERATOR MATCH**
+
+**Relation to Possibility Preservation:** It helps explain why Ziggy may preserve alternatives but is not itself operator evidence.
+
+**Preserved role description:** Ziggy often delays exclusive foreclosure in order to map several frames.
+
+**Not operator evidence:**
+
+* frame-mapping identity;
+* balance orientation;
+* coexistence preference;
+* chosen Christian commitment.
+
+---
+
+### Stage-2 Move 20 — Formulation Intensification
+
+**Placement:** Role and protocol behavior.
+
+**Mapping verdict:** **NOVA ROLE BEHAVIOR**
+
+**Manifestation:** Nova converts a tentative Ziggy intuition into a compact, forceful formulation.
+
+**Registry relation:** No adequate named match.
+
+**Stage-3 survival:** Survived as role-induced and protocol-induced behavior.
+
+**Profile restriction:** Not a substantive actor-level philosophical operator.
+
+---
+
+### Stage-2 Move 21 — Validation-First Expansion
+
+**Placement:** Role and protocol behavior.
+
+**Mapping verdict:** **NOVA ROLE BEHAVIOR**
+
+**Manifestation:** Nova begins with affirmation, systematizes the intuition, and often increases its rhetorical force.
+
+**Registry relation:** No adequate named match.
+
+**Stage-3 survival:** Survived as a role tendency, with counterevidence that Nova also supplied genuine cautions.
+
+**Profile restriction:** Not a substantive philosophical operator.
+
+---
+
+### Registry Candidates Without Supported Positive Actor Matches
+
+#### Prediction Sovereignty
+
+No directly observed actor is shown treating predictive success as the final authority through which every other form of success must justify itself.
+
+**Disposition:** Unsupported.
+
+---
+
+#### Universalized Evaluative Jurisdiction
+
+Ziggy’s moves diagnose or resist possible jurisdictional overreach.
+
+They do not perform it.
+
+No directly observed actor is sufficiently shown extending a standard beyond its established jurisdiction.
+
+**Disposition:** Quarantined possible target diagnosis.
+
+---
+
+#### Generative Admission Restriction
+
+The bounded conversation does not establish that Grant or another actor prevented revelation, symbolism, first-person experience, tradition, or metaphysical intuition from generating hypotheses before evaluation.
+
+**Disposition:** Quarantined.
+
+---
+
+#### Unmeasured-to-Zero Conversion
+
+No clear case shows an actor converting:
+
+* unknown;
+* untested;
+* unmeasured;
+* outside an instrument’s jurisdiction,
+
+into a score of zero.
+
+The ayahuasca discussion displayed a different error risk: unknown probability was treated rhetorically as extreme improbability.
+
+**Disposition:** Unsupported.
+
+---
+
+#### Possibility Compression
+
+No actor-level performance is established.
+
+Ziggy perceived reduced implication salience, but detection is not performance.
+
+Grant’s motive remains `UNKNOWN`.
+
+**Disposition:** Quarantined possible target diagnosis.
+
+---
+
+#### Baseline Exemption
+
+Ziggy’s symmetry testing suggests concern about baseline exemption, but a stable directly observed actor-level exemption was not established.
+
+**Disposition:** Quarantined.
+
+---
+
+#### Reconstruction Bypass
+
+The packet itself sometimes evaluated Grant before fully reconstructing the functions of his narrowing.
+
+That is a confirmed extraction omission.
+
+It is not established as a stable Grant or Ziggy operator.
+
+**Disposition:** Dig-level audit failure, not actor-level profile claim.
+
+---
+
+#### Contest-to-Defeat Compression
+
+No sufficiently clear case shows an actor treating the existence of an objection as decisive defeat.
+
+**Disposition:** Unsupported.
+
+---
+
+#### Contested ≠ Defeated
+
+The conversation often preserves unresolved possibilities, but the specific operation of explicitly holding an objection open as unresolved rather than defeated was not independently established as a stable move.
+
+**Disposition:** Adjacent to qualified Possibility Preservation; not separately promoted.
+
+---
+
+## 2. Restored Eight-Family Consolidation
+
+The eight families govern the Stage-4 architecture.
+
+They combine:
+
+* directly demonstrated moves;
+* later co-constructed repairs;
+* confirmed A3 omissions;
+* possible A1 completion requirements;
+* unavailable A0 material.
+
+Their presence does not establish that Ziggy, Grant, or Nova performed every component.
+
+---
+
+# Family 1 — Protection–Defense and Loss-Condition Audit
+
+## Mapping verdict
+
+**NEW — primary dig-level analytic family**
+
+## Directly demonstrated Ziggy seed
+
+Ziggy distinguishes:
+
+* protecting a position from possible loss;
+* defending a position through reasons while allowing possible defeat.
+
+**Source anchor:** “You’ve just protected your side. You haven’t defended it.”
+
+## Manifestations and submoves
+
+* protection-versus-defense distinction;
+* allegations of narrowing or containment;
+* examination of whether objections are allowed to count;
+* concern about ad hoc qualification;
+* concern about asymmetric repair privileges.
+
+## Not demonstrated as a completed actor operation
+
+The bounded thread did not fully establish:
+
+* reachable defeaters;
+* explicit revision conditions;
+* principled versus post-threat qualification;
+* reciprocal repair rights;
+* a stable distinction between legitimate precision and immunization.
+
+## A1 completion requirements
+
+A completed audit asks:
+
+1. What evidence would count against the claim?
+2. Is that failure condition genuinely reachable?
+3. Would the speaker revise if it occurred?
+4. Was a qualification independently principled?
+5. Was it introduced only after a threatening objection?
+6. Are rival frameworks allowed equivalent repairs?
+
+Preserve:
+
+`claim narrowed ≠ claim protected`
+
+`mechanism requested ≠ meaning suppressed`
+
+`scope clarified ≠ defeat evaded`
+
+A position is protected only when relevant evidence is prevented from counting or loss conditions are made unreachable.
+
+## Registry relations
+
+Potentially diagnoses:
+
+* Baseline Exemption;
+* Reconstruction Bypass;
+* Contest-to-Defeat Compression.
+
+No positive actor-level match is established.
+
+## Profile restriction
+
+Ziggy directly demonstrates the protection-versus-defense distinction.
+
+The completed **Loss-Condition Audit** is not a fully demonstrated Ziggy operator.
+
+---
+
+# Family 2 — Frame Coherence–Truth–Compatibility Audit
+
+## Directly demonstrated seeds
+
+* Coherence–Selection Separation;
+* System-Level Interaction Translation;
+* local versus global system effects;
+* multiple “A+” frames;
+* PCB/crosstalk analysis.
+
+## Manifestations and submoves
+
+* distinguishing defense from selection;
+* examining interaction effects among locally functional frameworks;
+* importing system-design structures;
+* asking whether isolated coherence predicts social compatibility.
+
+## Confirmed A3 omission
+
+“A+” was not definitionally frozen.
+
+The term moved among:
+
+* internally coherent;
+* competently defended;
+* practically viable;
+* morally acceptable.
+
+## A1 completion requirements
+
+Explicitly distinguish:
+
+* internal coherence;
+* evidential warrant;
+* explanatory scope;
+* truth;
+* moral acceptability;
+* practical viability;
+* psychological livability;
+* social compatibility;
+* revision capacity.
+
+Preserve:
+
+`internally coherent ≠ true`
+
+`competently defended ≠ equally warranted`
+
+`locally functional ≠ socially compatible`
+
+`psychologically livable ≠ morally acceptable`
+
+## Registry mappings
+
+* System-Level Interaction Translation **MATCHES Cross-Disciplinary Swooping**.
+* Coherence–Selection Separation remains **NEW**.
+
+## Profile restriction
+
+The full grading audit is completed extraction architecture.
+
+It is not a demonstrated actor operation merely because the audit now articulates it.
+
+---
+
+# Family 3 — Frame-Jurisdiction and Exclusivity Audit
+
+## Directly demonstrated seeds
+
+* Exclusivity Detachment;
+* Modal Scope Testing;
+* local versus universal scope;
+* questioning whether parsimony has universal authority;
+* distinguishing a frame’s viability from its monopoly claim.
+
+## Manifestations and submoves
+
+* testing modal range;
+* testing evaluative jurisdiction;
+* separating internal entailment from added exclusivity;
+* asking where a standard legitimately applies.
+
+## Relation to Universalized Evaluative Jurisdiction
+
+**COUNTER-OPERATION / DIAGNOSTIC RELATION**
+
+Ziggy’s moves audit possible overreach.
+
+They do not perform the overreach.
+
+## A1 completion requirements
+
+* literal reverse-role testing;
+* explicit parsimony jurisdiction;
+* criteria for distinguishing genuine theoretical exclusivity from added monopoly;
+* reconstruction before detaching an exclusivity claim.
+
+## Safe profile claim
+
+> Ziggy repeatedly tests a framework’s scope, modal range, jurisdiction, and alleged exclusivity.
+
+## Target uncertainty
+
+Whether Grant’s reported DCT position actually contained the challenged exclusivity remains `UNKNOWN`.
+
+---
+
+# Family 4 — Meaning–Intent and Interpretation Audit
+
+## Directly demonstrated seeds
+
+* Reconstruction-First Signal Recovery;
+* distinction between literal wording and intended meaning;
+* contextual interpretation;
+* speaker feedback;
+* behavioral fit;
+* concern with intent in double-effect reasoning.
+
+## Manifestations and submoves
+
+* provisional reconstruction;
+* speaker calibration;
+* meaning fidelity;
+* audience uptake;
+* revising interpretation after feedback;
+* Intention-Hinge Testing as a local submove.
+
+## Confirmed A3 omissions
+
+* compression interpretation was not calibrated directly with Grant;
+* internal/external critique distinction was not reapplied before the moral-authority discussion.
+
+## A1 completion requirements
+
+* explicit failed-reconstruction handling;
+* tracking prediction failures;
+* distinguishing speaker intention from audience uptake;
+* distinguishing functional semantic competence from conscious understanding;
+* preventing charitable overprojection.
+
+## Registry mapping
+
+Reconstruction-First Signal Recovery is the affirmative counter-procedure to **Reconstruction Bypass**.
+
+It is not itself a match to the distortion.
+
+---
+
+# Family 5 — Description–Meaning and Implication-Propagation Audit
+
+## Directly demonstrated seeds
+
+* descriptive versus meaning layers;
+* E/B-field analogy;
+* Implication Reopening;
+* concern that a mechanism-level formulation may leave meaning questions open;
+* Perceived Significance Compression.
+
+## Manifestations and submoves
+
+* distinguishing descriptive explanation from significance;
+* asking which implications actually follow;
+* reopening questions after a limited concession;
+* distinguishing implication denial from suspension;
+* distinguishing unsupported implication from ignored implication.
+
+## Perceived Significance Compression
+
+Ziggy perceived that Grant’s reformulation reduced implication salience.
+
+That remains:
+
+* a Ziggy perception;
+* an uncalibrated interpretation;
+* not evidence that Grant performed Possibility Compression.
+
+Keep live:
+
+* legitimate precision;
+* evidential restraint;
+* methodological bracketing;
+* discovery/justification separation;
+* different explanatory questions;
+* rhetorical minimization;
+* overreading by Ziggy or Nova.
+
+Grant’s motive remains `UNKNOWN`.
+
+## A3 omissions
+
+* strongest functional reconstruction of Grant was absent before containment scoring;
+* compression interpretation was not tested through speaker calibration;
+* Nova’s evidential caution was applied inconsistently to the Grant model.
+
+## Profile restriction
+
+Perceived Significance Compression is a lower-tier diagnostic submove, not a profile-ready operator.
+
+---
+
+# Family 6 — Mechanism–Source–Ontology Audit
+
+## Directly demonstrated seeds
+
+* Mechanism–Source Non-Collapse;
+* accepting cognitive mechanism without automatic ontological closure;
+* asking whether the unconscious generates, receives, or interfaces;
+* local Cognitive Mechanism Translation by Grant;
+* one-time Dichotomy Repair by Grant.
+
+## Manifestations and submoves
+
+* mechanism versus source;
+* process versus ontology;
+* psychological explanation versus metaphysical origin;
+* generator, receiver, and interface models;
+* unconscious cognition as mechanism;
+* God-as-archetype material as an Idea Trail.
+
+## Confirmed A3 omission
+
+Ontological non-exclusion was not separated early enough from positive support.
+
+It was later partially repaired.
+
+Preserve:
+
+`not logically excluded ≠ positively supported`
+
+`logical possibility ≠ evidential plausibility`
+
+`evidential plausibility ≠ comparative explanatory power`
+
+`comparative possibility ≠ live research hypothesis`
+
+`mechanism does not settle ontology ≠ external source gains evidence`
+
+## A1 completion requirements
+
+* generator/receiver/interface discriminators;
+* live-option thresholds;
+* comparative explanatory analysis;
+* closure conditions;
+* revision conditions;
+* God-as-archetype disambiguation.
+
+## Grant restriction
+
+The direct Grant corpus supports only:
+
+* one false-dichotomy repair;
+* one conditional concession concerning cognition outside explicit conscious reasoning;
+* one partial neural-network analogy.
+
+It does not support a stable naturalizing operator or ontological closure.
+
+---
+
+# Family 7 — Trust–Coexistence–Harm Boundary Audit
+
+## Directly demonstrated seeds
+
+* trust as predictable conduct rather than doctrinal agreement;
+* interaction architecture;
+* coexistence protocols;
+* AI-authorship transparency;
+* concern with balance and unfair constraint.
+
+## Manifestations and submoves
+
+* Coexistence Architecture Search;
+* Authorship Transparency Calibration;
+* reciprocal conduct;
+* accurate representation;
+* predictable updating;
+* boundaries and arbitration;
+* sequencing and buffering.
+
+## Role and value material
+
+* Ziggy’s balance orientation;
+* Ziggy’s underdog sensitivity;
+* Ziggy’s coexistence preference;
+* Ziggy’s frame-mapping role.
+
+These help explain inquiry direction but are not automatically operators.
+
+## Missing completion architecture
+
+A complete audit must include:
+
+* epistemic reliability;
+* moral safety;
+* reciprocity;
+* rights;
+* coercion;
+* deception;
+* institutional power;
+* accountability;
+* containment;
+* resistance;
+* exclusion.
+
+Preserve:
+
+`trust ≠ agreement`
+
+`trust ≠ validation`
+
+`procedural honesty ≠ moral safety`
+
+`internal coherence ≠ institutional permission`
+
+`coexistence ≠ unrestricted access or authority`
+
+## Profile restriction
+
+Coexistence Architecture Search is co-constructed and not profile-ready as an individual Ziggy operator.
+
+Authorship Transparency Calibration is a relationship protocol.
+
+---
+
+# Family 8 — Moral Bridge–Critique–Authority Audit
+
+## Directly demonstrated seeds
+
+* Normative Bridge Exposure;
+* Symmetry Testing of Standards;
+* questioning the authority of moral standards;
+* internal/external critique distinction;
+* Metaethical Jurisdiction Probe;
+* intention analysis in double effect.
+
+## Manifestations and submoves
+
+* facts-to-values bridge audit;
+* burden symmetry;
+* authority-source questions;
+* first-order versus metaethical distinction;
+* internal, external, and metanormative critique;
+* Metaethical Jurisdiction Probe;
+* double effect as a local test.
+
+## Confirmed A3 omissions
+
+* self-application of symmetrical grounding scrutiny;
+* internal/external distinction dropped at the crucial point;
+* first-order moral allegation not preserved alongside metaethical grounding.
+
+## A1 completion requirements
+
+* literal reverse-role testing;
+* comparative bridge evaluation;
+* differentiation among DCT, divine-nature theory, natural law, and other theistic moral accounts;
+* full double-effect analysis;
+* explicit revision conditions for Ziggy’s Christian interpretation and commitment.
+
+## Metaethical Jurisdiction Probe restrictions
+
+The probe may ask:
+
+> What grounds the moral standard being used to judge God?
+
+It does not:
+
+* answer the alleged divine act;
+* establish God’s authority;
+* imply personal moral superiority;
+* automatically apply to internal critique;
+* defeat the critic’s position by itself.
+
+## A0 restrictions
+
+The unnamed critics’ exact frameworks and Ziggy’s systematic theology remain `UNKNOWN`.
+
+---
+
+## 3. Corrected Registry Matches
+
+### 3.1 Symmetry Testing of Standards
+
+**Status:** PROFILE-READY MATCH
+
+**Subject:** Ziggy.
+
+**Direct manifestations:**
+
+* symmetrical burden reassignment;
+* requiring secular and theistic bridges to justify themselves;
+* questioning what grounds a standard used to condemn God.
+
+**Restrictions:**
+
+* burden symmetry does not establish equal warrant;
+* the operation was not fully self-applied;
+* literal reverse-role testing remained A1.
+
+---
+
+### 3.2 Possibility Preservation
+
+**Status:** PROFILE-READY MATCH — narrowed and qualified
+
+**Subject:** Ziggy.
+
+**Supported manifestations:**
+
+* retaining unresolved source alternatives;
+* reopening implications after accepting a mechanism-level explanation;
+* resisting premature elimination or monopoly;
+* allowing a local explanation without treating it as exhaustive.
+
+**Corrected profile formulation:**
+
+> Ziggy locally preserves unresolved possibilities during exploratory inquiry rather than treating low support, a partial explanation, or local success as automatic elimination.
+
+**Confidence:** MODERATE-HIGH.
+
+**Restrictions:**
+
+* preservation does not establish equal probability;
+* preservation does not establish evidential plausibility;
+* preservation does not establish a live explanatory option;
+* preservation does not establish positive support;
+* ranking, pruning, and defeat conditions remain underdeveloped;
+* frame-mapping identity is not itself operator evidence.
+
+---
+
+### 3.3 Cross-Disciplinary Swooping
+
+**Status:** PROFILE-READY MATCH
+
+**Subject:** Ziggy.
+
+**Direct manifestations:**
+
+* PCB traces and cultural crosstalk;
+* E/B-field description–meaning coupling;
+* meaning as signal recovery;
+* interface and receiver models;
+* computing and communication analogies.
+
+**Restrictions:**
+
+* imported structures require domain-fit checks;
+* analogies may omit agency, justice, rights, or power;
+* metaphorical productivity does not establish literal equivalence.
+
+---
+
+### Registry Candidates Not Positively Matched
+
+* Prediction Sovereignty;
+* Universalized Evaluative Jurisdiction;
+* Generative Admission Restriction;
+* Unmeasured-to-Zero Conversion;
+* Possibility Compression;
+* Baseline Exemption;
+* Reconstruction Bypass as a stable actor operator;
+* Contest-to-Defeat Compression;
+* Contested ≠ Defeated as a separately established stable operator.
+
+---
+
+## 4. Corrected New-Candidate List
+
+### NEW-01 — Coherence–Selection Separation
+
+**Family:** Frame Coherence–Truth–Compatibility Audit.
+
+**Subject:** Ziggy.
+
+**Definition:** Distinguishing successful internal defense from comparative reasons for selecting a framework.
+
+**Stage-3 status:** Survived.
+
+**Profile status:** PROFILE-READY.
+
+---
+
+### NEW-02 — Foundation Descent
+
+**Family:** Primarily Moral Bridge–Critique–Authority Audit.
+
+**Subject:** Ziggy.
+
+**Definition:** Moving beneath a claim to inspect the assumptions, standards, and foundations that confer authority upon it.
+
+**Stage-3 status:** Survived.
+
+**Profile status:** PROFILE-READY.
+
+---
+
+### NEW-03 — Normative Bridge Exposure
+
+**Family:** Moral Bridge–Critique–Authority Audit.
+
+**Subject:** Ziggy.
+
+**Definition:** Isolating and auditing the transition from descriptive claims to normative authority.
+
+**Stage-3 status:** Survived strongly.
+
+**Profile status:** PROFILE-READY.
+
+---
+
+### NEW-04 — Frame-Jurisdiction and Exclusivity Audit
+
+**Family:** Frame-Jurisdiction and Exclusivity Audit.
+
+**Subject:** Ziggy.
+
+**Definition:** Testing a framework’s scope, modal range, jurisdiction, and alleged exclusivity.
+
+**Constituent manifestations:**
+
+* Exclusivity Detachment;
+* Modal Scope Testing;
+* local versus universal jurisdiction.
+
+**Registry relation:** Counter-operation to possible Universalized Evaluative Jurisdiction.
+
+**Stage-3 status:** Survived.
+
+**Profile status:** PROFILE-READY.
+
+---
+
+### NEW-05 — Reconstruction-First Signal Recovery
+
+**Family:** Meaning–Intent and Interpretation Audit.
+
+**Subject:** Ziggy.
+
+**Definition:** Reconstructing intended meaning through context and speaker calibration before evaluating implications.
+
+**Stage-3 status:** Survived.
+
+**Profile status:** PROFILE-READY as a procedure.
+
+**Restriction:** Reliability under failed reconstruction remains under-tested.
+
+---
+
+### NEW-06 — Mechanism–Source Non-Collapse
+
+**Family:** Mechanism–Source–Ontology Audit.
+
+**Subject:** Ziggy, with later co-constructed refinement.
+
+**Definition:** Preventing a mechanism-level explanation from automatically settling ultimate source or ontology.
+
+**Stage-3 status:** Survived conceptually.
+
+**Profile status:** PROFILE-READY.
+
+**Confidence restriction:** High for the distinction; moderate for disciplined application.
+
+---
+
+### Provisional Direct Seed — Protection versus Defense
+
+**Family:** Protection–Defense and Loss-Condition Audit.
+
+**Subject:** Ziggy.
+
+**Definition:** Distinguishing a reasoned position exposed to possible defeat from a position insulated against loss.
+
+**Status:** DIRECT SEED, NOT COMPLETED PROFILE-READY AUDIT.
+
+The completed Loss-Condition Audit was not demonstrated.
+
+---
+
+### Not New Stable Operators
+
+The following remain lower-tier:
+
+* Coexistence Architecture Search;
+* Metaethical Jurisdiction Probe;
+* Dichotomy Repair;
+* Intention-Hinge Testing;
+* Archetype–Ontology Bifurcation;
+* Perceived Significance Compression;
+* Authorship Transparency Calibration;
+* Formulation Intensification;
+* Validation-First Expansion;
+* Frame-Mapping Suspension.
+
+---
+
+## 5. Profile-Ready Claims
+
+### PR-01 — Ziggy performs Symmetry Testing of Standards
+
+**Claim:** Ziggy repeatedly requires the evaluating framework to justify the standards it uses against a rival framework.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchors:**
+
+* “Can you please admit it’s made of the same unicorn dust as the God bridge?”
+* “What grounds that standard’s authority?”
+
+**Stage-3 survival:** Survived counterevidence and alternative readings.
+
+**Review condition:** Reassess if future evidence shows continuing exemption of Ziggy’s own Christian bridge from equivalent scrutiny.
+
+---
+
+### PR-02 — Ziggy locally performs Possibility Preservation
+
+**Claim:** Ziggy retains unresolved possibilities during exploratory inquiry rather than treating low support, partial explanation, or local success as automatic elimination.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT with later CO-CONSTRUCTED qualification.
+
+**Confidence:** MODERATE-HIGH.
+
+**Source anchors:**
+
+* mechanism/source alternatives;
+* implication reopening after unconscious-cognition concession;
+* resistance to exclusive frame monopoly.
+
+**Stage-3 survival:** Survived, with non-exclusion/support restrictions.
+
+**Review condition:** Reassess if future material shows no ranking, pruning, or reachable defeat conditions for preserved possibilities.
+
+---
+
+### PR-03 — Ziggy performs Cross-Disciplinary Swooping
+
+**Claim:** Ziggy repeatedly imports structures from engineering, signal theory, computing, and communication to reframe philosophical disputes.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchors:**
+
+* PCB trace and crosstalk analogy;
+* E/B-field analogy;
+* meaning-signal recovery;
+* interface and receiver models.
+
+**Stage-3 survival:** Survived.
+
+**Review condition:** Reassess where the imported model suppresses relevant differences involving agency, power, justice, or responsibility.
+
+---
+
+### PR-04 — Ziggy separates coherence from selection
+
+**Claim:** Ziggy distinguishes whether a framework can be defended internally from whether it should be selected over alternatives.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchor:** “I’ve seen enough defenses that each of them could stand on their own. So you’re no closer to which one should you choose.”
+
+**Stage-3 survival:** Survived.
+
+**Review condition:** Refine after “A+” is definitionally frozen and the grading dimensions are separated.
+
+---
+
+### PR-05 — Ziggy performs Foundation Descent
+
+**Claim:** Ziggy repeatedly moves beneath conclusions to examine the assumptions and foundations authorizing them.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchors:**
+
+* “What do you mean?”
+* “How do you know?”
+* “What is the foundation?”
+* “How do you build that bridge?”
+
+**Stage-3 survival:** Survived.
+
+**Review condition:** Reassess where it becomes an asymmetrical regress tactic or treats every foundational stopping point as defeat.
+
+---
+
+### PR-06 — Ziggy performs Normative Bridge Exposure
+
+**Claim:** Ziggy isolates the transition from descriptive claims to moral authority and requires both theistic and secular accounts to disclose that bridge.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchors:**
+
+* “Fuck all the scenarios… How do you build that bridge?”
+* “The bridge theists will make is God… the bridge a non-theist will make is human flourishing.”
+
+**Stage-3 survival:** Survived strongly.
+
+**Review condition:** Does not include the unestablished conclusion that the bridges possess equal warrant.
+
+---
+
+### PR-07 — Ziggy performs Frame-Jurisdiction and Exclusivity Audit
+
+**Claim:** Ziggy repeatedly tests a framework’s scope, modal range, jurisdiction, and alleged exclusivity.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH.
+
+**Source anchors:**
+
+* “Your frame can exist without that… I’m just stipulating no other frames allowed.”
+* “Must happen in every single frame… or just this frame… or maybe a subset?”
+
+**Stage-3 survival:** Survived.
+
+**Review condition:** Reassess each application after reconstructing whether exclusivity is an actual internal entailment of the target theory.
+
+---
+
+### PR-08 — Ziggy performs Reconstruction-First Signal Recovery
+
+**Claim:** Ziggy treats literal wording as an incomplete carrier and attempts to reconstruct intended meaning before scoring implications.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** HIGH for procedure; MODERATE for demonstrated reliability.
+
+**Source anchor:** “Before we analyze the implications… what do you think he means?… the challenge is an attempt to recover a signal… the meaning signal.”
+
+**Stage-3 survival:** Survived.
+
+**Review condition:** Reassess after a strong case in which the speaker rejects the reconstruction and Ziggy must revise or refuse revision.
+
+---
+
+### PR-09 — Ziggy performs Mechanism–Source Non-Collapse
+
+**Claim:** Ziggy accepts mechanism-level explanations while resisting the inference that they automatically settle ultimate source or ontology.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT with CO-CONSTRUCTED later repair.
+
+**Confidence:** HIGH for conceptual distinction; MODERATE for disciplined application.
+
+**Source anchors:**
+
+* “What’s the wiggle room between collective unconscious and supernatural intervention?”
+* “If talking to God was talking to your inner you and interfacing with the unconsciousness… what’s the difference?”
+
+**Stage-3 survival:** Survived, with a confirmed earlier non-exclusion/support omission.
+
+**Review condition:** Downgrade if non-exclusion repeatedly functions as positive support or no conceivable evidence could reduce confidence in the external-source alternative.
+
+---
+
+## 6. Lower-Tier Moves, Roles, Protocols, and Idea Trails
+
+### 6.1 Consequential one-time moves
+
+#### Grant’s Dichotomy Repair
+
+Grant locally repaired the binary between explicit conscious reasoning and radically non-rational cognition.
+
+**Status:** Consequential one-time move.
+
+**Not profile-ready.**
+
+---
+
+#### Intention-Hinge Testing
+
+The conversation identified intended-versus-foreseen harm as a decisive hinge in double-effect reasoning.
+
+**Status:** Consequential one-time move.
+
+**Not profile-ready.**
+
+---
+
+### 6.2 Local diagnostic submoves
+
+#### Perceived Significance Compression
+
+Ziggy perceived that Grant’s reformulation reduced the salience of the implications he considered important.
+
+**Status:** Local diagnostic interpretation.
+
+**Not evidence that Grant performed Possibility Compression.**
+
+---
+
+#### Metaethical Jurisdiction Probe
+
+The conversation asked what grounds the moral standard used to judge God.
+
+**Status:** Local conditional probe.
+
+**Not a stable Ziggy operator from the available evidence.**
+
+---
+
+### 6.3 Idea Trails
+
+#### Archetype–Ontology Bifurcation
+
+God as:
+
+* psychic regulator;
+* cultural symbol;
+* moral exemplar;
+* interface;
+* metaphysical source.
+
+---
+
+#### Generator–Receiver–Interface Models
+
+The unconscious as:
+
+* generator;
+* receiver;
+* interface;
+* mixed process.
+
+---
+
+#### Altered-State Discovery
+
+Ayahuasca and altered states as possible cases of:
+
+* non-linear discovery;
+* unconscious insight;
+* cultural experimentation;
+* visionary interpretation.
+
+---
+
+#### Double Effect
+
+Intention, act-description, causal sequencing, and proportionality.
+
+---
+
+#### LLM Meaning
+
+Distinguishing:
+
+* semantic competence;
+* reference;
+* speaker intention;
+* audience uptake;
+* conscious understanding.
+
+---
+
+#### God as Moral Archetype
+
+Psychological organization versus metaphysical grounding.
+
+---
+
+### 6.4 Relationship protocol
+
+#### Authorship Transparency Calibration
+
+Grant and Ziggy successfully calibrated:
+
+* AI assistance;
+* human ownership;
+* unfiltered versus integrated output;
+* trust in provenance.
+
+**Status:** Dyadic relationship protocol.
+
+---
+
+### 6.5 Role and protocol behavior
+
+#### Nova’s Formulation Intensification
+
+Nova sharpens tentative intuitions into portable debate language.
+
+---
+
+#### Nova’s Validation-First Expansion
+
+Nova tends to affirm first and then generalize or intensify.
+
+---
+
+#### Ziggy’s Frame-Mapping Suspension
+
+A role and inquiry orientation involving delayed foreclosure.
+
+---
+
+#### Ziggy’s Balance and Coexistence Orientation
+
+A value-guided preference for fair contestability and coexistence.
+
+---
+
+#### Ziggy’s Chosen Christian Commitment
+
+An existential position and autobiographical commitment.
+
+It is not itself operator evidence.
+
+---
+
+### 6.6 Co-constructed dig-level procedure
+
+#### Coexistence Architecture Search
+
+A co-constructed search for boundaries, sequencing, buffering, modulation, and arbitration among conflicting frameworks.
+
+**Primary placement:** Trust–Coexistence–Harm Boundary Audit.
+
+**Not profile-ready as an individual Ziggy operator.**
+
+---
+
+## 7. Quarantined Claims
+
+### Q-01 — Grant has a stable naturalizing operator
+
+**Why quarantined:** Direct evidence supports only one local cognitive reframing.
+
+**Promotion evidence required:**
+
+* repeated direct cases across independent domains;
+* evidence that symbolic or metaphysical implications are consistently translated into cognitive terms;
+* evidence distinguishing ordinary precision from stable naturalizing preference.
+
+---
+
+### Q-02 — Grant performs strategic containment
+
+**Why quarantined:** Legitimate narrowing, evidential restraint, methodological bracketing, discovery/justification separation, and different explanatory questions remain viable.
+
+**Promotion evidence required:**
+
+* reachable defeaters;
+* evidence that narrowing appears specifically after threat;
+* asymmetric repair rights;
+* direct calibration of Grant’s intended implication boundary.
+
+---
+
+### Q-03 — Grant performs Possibility Compression
+
+**Why quarantined:** Ziggy’s perception of reduced salience is not Grant’s demonstrated operation.
+
+**Promotion evidence required:**
+
+* direct examples where Grant treats a possibility as functionally irrelevant merely because its prior plausibility is low;
+* speaker calibration;
+* repeated cases;
+* evidence that stronger support would not restore relevance.
+
+---
+
+### Q-04 — Grant performs Universalized Evaluative Jurisdiction
+
+**Why quarantined:** The documented exchange shows cognitive translation, not demonstrated extension of cognitive standards over every explanatory domain.
+
+**Promotion evidence required:**
+
+* direct cross-domain statements;
+* explicit claim that mechanism settles ontology;
+* denial that symbolic, experiential, or metaphysical questions possess independent jurisdiction.
+
+---
+
+### Q-05 — Grant performs Prediction Sovereignty
+
+**Why quarantined:** No direct evidence establishes prediction as Grant’s final epistemic authority.
+
+**Promotion evidence required:**
+
+* direct prioritization of prediction over explanation, understanding, phenomenology, or coherence;
+* repeated examples.
+
+---
+
+### Q-06 — Grant performs Generative Admission Restriction
+
+**Why quarantined:** No direct evidence shows that altered states, narrative, symbolism, or first-person experience are barred from generating candidate hypotheses before evaluation.
+
+**Promotion evidence required:**
+
+* explicit pre-evaluative exclusion;
+* repeated comparison with sources Grant permits;
+* direct statements about admissible hypothesis generators.
+
+---
+
+### Q-07 — Grant performs Baseline Exemption
+
+**Why quarantined:** Grant’s full positive framework is unavailable.
+
+**Promotion evidence required:**
+
+* reconstructed baseline;
+* direct asymmetric burden examples;
+* refusal to justify assumptions imposed upon rivals.
+
+---
+
+### Q-08 — Grant performs Reconstruction Bypass
+
+**Why quarantined:** The stronger documented reconstruction failure occurred in the Ziggy–Nova extraction process.
+
+**Promotion evidence required:**
+
+* direct examples of Grant evaluating a framework before reconstructing it;
+* rejected requests for charitable reconstruction;
+* failure to revise after correction.
+
+---
+
+### Q-09 — Grant performs Contest-to-Defeat Compression
+
+**Why quarantined:** No direct instance clearly establishes this.
+
+**Promotion evidence required:** Explicit movement from “an objection exists” to “the position is defeated” without sufficient intermediary reasoning.
+
+---
+
+### Q-10 — Grant has a stable Dichotomy Repair operator
+
+**Why quarantined:** Only one documented repair is safely recoverable.
+
+**Promotion evidence required:** Repeated independent examples.
+
+---
+
+### Q-11 — Ziggy’s Possibility Preservation is fully disciplined
+
+**Why quarantined:** Unknown, possible, plausible, and supported were not consistently separated early in the discussion.
+
+**Promotion evidence required:**
+
+* explicit probability calibration;
+* examples of attractive possibilities being pruned;
+* ranking procedures;
+* reachable defeat conditions;
+* live-option thresholds.
+
+---
+
+### Q-12 — Ziggy’s meaning recovery is reliably self-correcting
+
+**Why quarantined:** Correction mechanisms were described but not strongly demonstrated under failure.
+
+**Promotion evidence required:**
+
+* explicit speaker rejection;
+* subsequent revision;
+* prediction failure tracking;
+* evidence that favored reconstructions receive no special protection.
+
+---
+
+### Q-13 — Ziggy fully applies grounding scrutiny to his Christian bridge
+
+**Why quarantined:** A confirmed A3 omission remains.
+
+**Promotion evidence required:**
+
+* why God possesses ultimate moral authority;
+* how divine acts or commands are identified;
+* why the Christian bridge outranks rivals;
+* what revises scriptural or theological interpretation;
+* what alters confidence or commitment.
+
+---
+
+### Q-14 — Protection–Defense and Loss-Condition Audit is a completed Ziggy operator
+
+**Why quarantined:** Ziggy directly distinguishes protection from defense, but the full loss-condition machinery was not demonstrated.
+
+**Promotion evidence required:**
+
+* explicit reachable defeaters;
+* revision conditions;
+* principled qualification tests;
+* reciprocal repair rights;
+* examples distinguishing narrowing from immunization.
+
+---
+
+### Q-15 — Coexistence Architecture Search is a stable Ziggy operator
+
+**Why quarantined:** It was co-constructed and may reflect a value orientation more than an individual reasoning operation.
+
+**Promotion evidence required:**
+
+* repeated independent Ziggy use;
+* application to predatory frames;
+* harm and exclusion thresholds;
+* integration of rights, justice, and institutional power.
+
+---
+
+### Q-16 — Metaethical Jurisdiction Probe is a stable Ziggy operator
+
+**Why quarantined:** One clear application is insufficient.
+
+**Promotion evidence required:**
+
+* repeated use in independent moral disputes;
+* explicit classification of internal, external, and metanormative critique;
+* preservation of first-order allegations;
+* literal reverse-role testing.
+
+---
+
+### Q-17 — Perceived Significance Compression accurately characterizes Grant’s intention
+
+**Why quarantined:** No direct calibration occurred.
+
+**Promotion evidence required:**
+
+* direct Grant clarification;
+* repeated examples;
+* evidence that implications were intentionally suppressed rather than merely unsupported or bracketed.
+
+---
+
+### Q-18 — Frame-Mapping Suspension is an operator
+
+**Why quarantined:** It is better classified as a role, inquiry orientation, and timing preference.
+
+**Promotion evidence required:** Evidence that it functions as a repeatable inferential transformation independent of identity or value orientation.
+
+---
+
+### Q-19 — Archetype–Ontology Bifurcation is a stable operator
+
+**Why quarantined:** It is currently an Idea Trail and one-time conceptual distinction.
+
+**Promotion evidence required:** Repeated independent application to new disputes.
+
+---
+
+### Q-20 — Nova’s Validation-First Expansion is a substantive philosophical operator
+
+**Why quarantined:** It is better explained by assistant role and protocol pressures.
+
+**Promotion evidence required:** Evidence of the same pattern outside the affiliative-assistant role.
+
+---
+
+### Q-21 — Nova’s Grant model is a reliable personality model
+
+**Why quarantined:** Grant’s direct corpus is sparse, and several responses were less adversarial than predicted.
+
+**Promotion evidence required:**
+
+* larger direct corpus;
+* preregistered predictions;
+* explicit disconfirmation conditions;
+* separate scoring of partial matches and failures;
+* direct Grant correction.
+
+---
+
+## 8. Relationship-Level Loops
+
+### Loop 1 — Expansive Claim–Mechanism Translation–Implication Reopening Loop
+
+`Ziggy expansive proposal`
+→ `Grant offers cognitive or mechanism-level translation`
+→ `Ziggy accepts mechanism`
+→ `Ziggy asks which implications remain`
+→ `Nova interprets possible significance loss`
+→ `meaning or ontology question reopens`
+
+**Productive function:**
+
+* creates local agreement;
+* distinguishes mechanism from source;
+* preserves meaning and ontology questions.
+
+**Alternative readings kept live:**
+
+* legitimate narrowing;
+* evidential restraint;
+* methodological bracketing;
+* discovery/justification separation;
+* rhetorical minimization;
+* overreading by Ziggy or Nova;
+* participants answering different questions.
+
+**Restriction:** This is a packet-level interaction loop, not a settled Grant personality trait.
+
+---
+
+### Loop 2 — Grant Prediction–Response–Model Reinforcement Loop
+
+`Ziggy asks what Grant will say`
+→ `Nova predicts narrowing, mechanism, or causal caution`
+→ `Grant gives a partially matching response`
+→ `the response is scored as predictive success`
+→ `the Grant model becomes more fixed`
+→ `future replies are interpreted through the model`
+
+**Required pressure test:**
+
+> What response would have counted as disconfirmation of the model?
+
+**Restriction:** Partial matching language must not count as complete predictive success.
+
+**Counterevidence:**
+
+* genuine concession;
+* false-dichotomy repair;
+* positive AI trust calibration.
+
+---
+
+### Loop 3 — Intuition–Validation–Intensification Loop
+
+`Ziggy presents tentative intuition`
+→ `Nova validates the core`
+→ `Nova sharpens it`
+→ `Ziggy tests the stronger formulation`
+→ `Nova generalizes it`
+→ `confidence may exceed the initial evidence`
+
+**Classification:** Nova–Ziggy relationship dynamic.
+
+**Productive function:** Rapid conceptual articulation.
+
+**Failure mode:** Premature certainty and motive attribution.
+
+---
+
+### Loop 4 — Meaning Reconstruction–Trust Calibration Loop
+
+`literal wording creates uncertainty`
+→ `Ziggy reconstructs intended meaning`
+→ `context or speaker response is used as calibration`
+→ `apparent fit increases trust`
+→ `future interpretation becomes more charitable`
+
+**Restriction:** Strong failed-reconstruction handling was not demonstrated.
+
+**Failure mode:** Apparent fit may become self-reinforcing.
+
+---
+
+### Loop 5 — Threatened Frame–Balance Intervention Loop
+
+`one frame appears dominant`
+→ `Ziggy notices a constrained alternative`
+→ `the weaker side is strengthened or reconstructed`
+→ `the dominant side receives stricter scrutiny`
+→ `contestability is restored`
+
+**Classification:** Relationship and value-guided pattern.
+
+**Not automatically:** A substantive philosophical operator.
+
+**Failure mode:** Reverse asymmetry or chronic anti-dominance bias.
+
+---
+
+### Loop 6 — Grounding Challenge–Mutual Underdetermination Loop
+
+`one side attacks the other’s foundation`
+→ `Ziggy applies the burden in reverse`
+→ `both frameworks reach non-derived commitments`
+→ `the dispute becomes competing bridges`
+→ `discussion shifts toward outcomes, choice, or coexistence`
+
+Preserve:
+
+`shared foundational limits ≠ equal warrant`
+
+**Failure mode:** Generalized underdetermination may flatten meaningful evidential differences.
+
+---
+
+### Loop 7 — Authorship Suspicion–Disclosure–Recognition Loop
+
+`Grant detects possible AI influence`
+→ `Grant asks about authorship`
+→ `Ziggy discloses tool use and asserts ownership`
+→ `Grant recognizes the Ziggy/AI boundary`
+→ `trust increases`
+
+**Classification:** Successful dyadic trust protocol.
+
+**Failure mode:** Stylistic intuition may substitute for substantive provenance analysis.
+
+---
+
+## 9. Stage-3 Availability Ledger
+
+## Confirmed A3 omissions
+
+1. **Self-application of symmetrical grounding scrutiny.**
+
+2. **“A+” was not definitionally frozen.**
+
+3. **Internal/external critique distinction was dropped.**
+
+4. **Ayahuasca probability claim was not foundation-audited.**
+
+5. **Strongest functional reconstruction of Grant was absent before containment scoring.**
+
+6. **Compression interpretation was not calibrated through meaning recovery.**
+
+7. **Nova’s evidential caution was not consistently applied to the Grant model.**
+
+8. **First-order moral problem was not preserved alongside metaethical grounding.**
+
+9. **Ontological non-exclusion was not separated early enough from positive support.**
+
+The ninth omission was later partially repaired.
+
+---
+
+## A2 omissions
+
+**None supported.**
+
+---
+
+## A1 completion requirements
+
+1. Literal reverse-role testing.
+
+2. Full grading-dimension separation.
+
+3. Reachable defeaters and revision conditions.
+
+4. Legitimate narrowing versus protective immunization.
+
+5. Generator/receiver/interface discriminators.
+
+6. Comparative moral-bridge evaluation.
+
+7. Parsimony jurisdiction.
+
+8. Harmful-frame exclusion thresholds.
+
+9. Power and justice inside the PCB analogy.
+
+10. Theistic moral-theory differentiation.
+
+11. Full double-effect analysis.
+
+12. LLM meaning distinctions.
+
+13. God-as-archetype disambiguation.
+
+14. Grant-model disconfirmation conditions.
+
+15. Christian-commitment revision conditions.
+
+---
+
+## A0 / UNKNOWN
+
+Retain as unavailable and non-informative:
+
+* Grant’s positive ontology;
+* whether Grant endorses naturalism or physicalism;
+* Grant’s complete DCT formulation;
+* the critics’ exact moral frameworks;
+* whether their critiques were internal, external, or metanormative;
+* Grant’s response to strong external-source evidence;
+* Ziggy’s systematic theology;
+* exact double-effect judgments in unspecified cases.
+
+No adverse conclusion may be drawn from A0 material.
+
+---
+
+## 10. Source and Attribution Restrictions
+
+1. G-REPORTED material must not become G-DIRECT.
+
+2. NOVA-INTERPRETATION must not become Grant’s intention.
+
+3. CO-CONSTRUCTED repairs must not automatically become earlier Ziggy operations.
+
+4. Extraction language must not become historical actor evidence.
+
+5. Later repairs may establish A3 availability for Nova or the conversation.
+
+6. Later repairs do not prove earlier actor possession.
+
+7. Omission-derived completion requirements are not actor performances.
+
+8. Role, value, protocol, and existential material are not automatically operators.
+
+9. The eight completed families are dig-level architecture, not eight fully demonstrated personal traits.
+
+10. No cross-chat material may be used as evidence.
+
+11. The safely recoverable direct Grant findings remain limited to:
+
+* one false-dichotomy repair;
+* one conditional concession concerning cognition outside explicit conscious reasoning;
+* one partial neural-network analogy;
+* AI-authorship questioning followed by positive trust calibration.
+
+12. Do not promote the following Grant claims:
+
+* stable naturalizing operator;
+* strategic containment;
+* ontological closure;
+* broad implication suppression;
+* broad intent denial;
+* broad causal-evidence gatekeeping;
+* Prediction Sovereignty;
+* Possibility Compression;
+* Universalized Evaluative Jurisdiction;
+* Baseline Exemption;
+* Reconstruction Bypass;
+* Contest-to-Defeat Compression;
+* positive naturalism or physicalism.
+
+13. The expansion–translation–reopening pattern may remain a relationship loop but not a Grant personality trait.
+
+14. The supplied Stage-4 completion-and-architecture repair governs this corrected reissue but does not itself constitute historical actor evidence. 
+
+---
+
+## 11. Extraction Self-Audit
+
+### 11.1 Registry priming
+
+The registry strongly foregrounds:
+
+* jurisdictional overreach;
+* possibility suppression;
+* baseline asymmetry;
+* reconstruction failure;
+* predictive hierarchy.
+
+This creates pressure to force adjacent diagnostic moves into positive actor matches.
+
+Corrections applied:
+
+* Ziggy’s jurisdiction audit is not Universalized Evaluative Jurisdiction.
+* Ziggy’s detection of significance loss is not Possibility Compression.
+* reconstruction-first interpretation is not Reconstruction Bypass.
+* symmetry testing does not prove Baseline Exemption by another actor.
+
+---
+
+### 11.2 Inverse-operation mapping
+
+A participant diagnosing or resisting a distortion does not perform that distortion.
+
+Examples:
+
+* Exclusivity Detachment counters possible jurisdictional overreach.
+* Modal Scope Testing counters over-universalization.
+* Perceived Significance Compression diagnoses a possibility; it does not perform compression.
+* Reconstruction-First Signal Recovery counters Reconstruction Bypass.
+* Symmetry Testing may reveal Baseline Exemption but does not prove it occurred.
+
+---
+
+### 11.3 Operator inflation
+
+The Stage-2 inventory included:
+
+* stable reasoning moves;
+* one-time conceptual repairs;
+* relationship protocols;
+* role behaviors;
+* values;
+* metaphors;
+* Idea Trails.
+
+The corrected architecture prevents every item from becoming an independent operator.
+
+Lower-tier classifications were restored for:
+
+* Dichotomy Repair;
+* Intention-Hinge Testing;
+* Archetype–Ontology Bifurcation;
+* Perceived Significance Compression;
+* Authorship Transparency Calibration;
+* Formulation Intensification;
+* Validation-First Expansion;
+* Frame-Mapping Suspension.
+
+---
+
+### 11.4 Actor-profile inflation
+
+A complete dig-level family may contain:
+
+* demonstrated seeds;
+* later repairs;
+* A3 omissions;
+* A1 completion requirements;
+* A0 unknowns.
+
+The completed family must not be mistaken for a complete personal capacity.
+
+Highest-risk example:
+
+* Ziggy demonstrates protection-versus-defense;
+* Ziggy does not demonstrate the full Loss-Condition Audit.
+
+---
+
+### 11.5 Sparse Grant evidence
+
+Grant’s direct evidence is limited and mediated.
+
+Safely recoverable:
+
+* one false-dichotomy repair;
+* one conditional concession;
+* one partial neural-network analogy;
+* one successful AI-authorship trust calibration.
+
+No stable Grant operator should be inferred from this small corpus without additional direct evidence.
+
+---
+
+### 11.6 Asymmetric charity
+
+The original Ziggy–Nova analysis often treated:
+
+* Ziggy’s openness as sophistication;
+* Grant’s restraint as containment.
+
+Possible benign readings of Grant were not always reconstructed first.
+
+Corrections applied:
+
+* local Cognitive Mechanism Translation retained;
+* strategic containment quarantined;
+* Grant’s motive marked `UNKNOWN`;
+* direct concession and trust calibration preserved as counterevidence.
+
+---
+
+### 11.7 Role-to-operator conversion
+
+The following are not automatically operators:
+
+* Ziggy’s frame-mapping identity;
+* balance orientation;
+* coexistence preference;
+* Christian commitment;
+* Nova’s validation-first assistant behavior;
+* Nova’s formulation role.
+
+These can influence reasoning without constituting reusable inferential transformations.
+
+---
+
+### 11.8 Metaphor-to-operator conversion
+
+The PCB, E/B-field, signal, interface, radio, and archetype analogies are not automatically operators.
+
+Cross-Disciplinary Swooping qualifies because the repeated import changes:
+
+* the question asked;
+* the variables considered;
+* the inferential pathway.
+
+Narrower analogies remain Idea Trails unless recurrence is demonstrated.
+
+---
+
+### 11.9 Possibility-preservation inflation
+
+Possibility Preservation can become epistemically undisciplined if it ignores:
+
+* probability;
+* evidence;
+* explanatory competition;
+* research cost;
+* closure conditions;
+* defeat conditions.
+
+The profile claim is therefore restricted to local exploratory preservation.
+
+It does not imply equal support or permanent retention.
+
+---
+
+### 11.10 Meaning-recovery inflation
+
+Reconstruction-First Signal Recovery is profile-ready as a procedure.
+
+It is not proven as a high-fidelity capacity because the packet lacks a strong sequence of:
+
+1. favored reconstruction;
+2. explicit speaker rejection;
+3. measurable failure;
+4. genuine revision.
+
+---
+
+### 11.11 Coexistence without harm thresholds
+
+The coexistence and trust architecture risks protecting frameworks that are:
+
+* coercive;
+* deceptive;
+* violent;
+* institutionally dominant;
+* nonreciprocal;
+* rights-violating.
+
+A completed audit must distinguish:
+
+* toleration;
+* access;
+* authority;
+* institutional permission;
+* containment;
+* resistance;
+* exclusion.
+
+---
+
+### 11.12 Moral-authority overpromotion
+
+The Metaethical Jurisdiction Probe is rhetorically strong but limited.
+
+It must not erase:
+
+* internal critique;
+* first-order moral allegations;
+* divine-goodness consistency questions;
+* the need to establish divine authority;
+* the distinction between moral judgment and personal superiority.
+
+It remains lower-tier until repeated and properly classified applications appear.
+
+---
+
+### 11.13 Omission-derived architecture mistaken for actor behavior
+
+The completed eight-family architecture contains moves that were:
+
+* demonstrated;
+* later repaired;
+* omitted but available;
+* contextually available;
+* unavailable.
+
+The architecture is an archival analysis system.
+
+It is not a transcript of what any one actor already knew or performed.
+
+---
+
+### 11.14 Grant-prediction confirmation bias
+
+The Grant model risks becoming self-sealing when any careful or qualified response is counted as narrowing.
+
+Required question:
+
+> What response would have counted as disconfirmation?
+
+Partial matches must be scored separately from complete matches.
+
+---
+
+### 11.15 “A+” ambiguity
+
+The packet must not silently equate:
+
+* coherence;
+* warrant;
+* truth;
+* morality;
+* viability;
+* compatibility.
+
+“A+” remains a confirmed underdefined term in the original exchange.
+
+---
+
+## 12. Final Archival Disposition
+
+### Governing architecture
+
+Retain the eight completed dig-level analytic families:
+
+1. **Protection–Defense and Loss-Condition Audit**
+2. **Frame Coherence–Truth–Compatibility Audit**
+3. **Frame-Jurisdiction and Exclusivity Audit**
+4. **Meaning–Intent and Interpretation Audit**
+5. **Description–Meaning and Implication-Propagation Audit**
+6. **Mechanism–Source–Ontology Audit**
+7. **Trust–Coexistence–Harm Boundary Audit**
+8. **Moral Bridge–Critique–Authority Audit**
+
+---
+
+### Named registry matches surviving at profile threshold
+
+1. **Symmetry Testing of Standards**
+2. **Possibility Preservation** — narrowed and qualified
+3. **Cross-Disciplinary Swooping**
+
+---
+
+### New profile-ready operator candidates
+
+1. **Coherence–Selection Separation**
+2. **Foundation Descent**
+3. **Normative Bridge Exposure**
+4. **Frame-Jurisdiction and Exclusivity Audit**
+5. **Reconstruction-First Signal Recovery**
+6. **Mechanism–Source Non-Collapse**
+
+---
+
+### Provisional direct seed
+
+* **Protection versus Defense distinction**
+
+The completed Loss-Condition Audit remains unperformed.
+
+---
+
+### Lower-tier retained material
+
+#### Consequential one-time moves
+
+* Grant’s Dichotomy Repair;
+* Intention-Hinge Testing.
+
+#### Local diagnostic submoves
+
+* Perceived Significance Compression;
+* Metaethical Jurisdiction Probe.
+
+#### Relationship protocol
+
+* Authorship Transparency Calibration.
+
+#### Role and protocol behavior
+
+* Nova’s Formulation Intensification;
+* Nova’s Validation-First Expansion;
+* Ziggy’s Frame-Mapping Suspension;
+* Ziggy’s balance and coexistence orientation;
+* Ziggy’s chosen Christian commitment.
+
+#### Co-constructed dig-level procedure
+
+* Coexistence Architecture Search.
+
+#### Idea Trails
+
+* Archetype–Ontology Bifurcation;
+* God-as-archetype variants;
+* generator/receiver/interface models;
+* altered-state discovery;
+* double effect;
+* LLM meaning distinctions.
+
+---
+
+### Grant disposition
+
+Profile promotion is not supported beyond the safely recoverable local findings:
+
+* one false-dichotomy repair;
+* one conditional concession;
+* one partial neural-network analogy;
+* one successful AI-authorship trust calibration.
+
+The following remain quarantined:
+
+* stable naturalizing operator;
+* strategic containment;
+* ontological closure;
+* broad implication suppression;
+* broad intent denial;
+* broad causal-evidence gatekeeping;
+* Prediction Sovereignty;
+* Possibility Compression;
+* Universalized Evaluative Jurisdiction;
+* Baseline Exemption;
+* Reconstruction Bypass;
+* Contest-to-Defeat Compression;
+* positive naturalism or physicalism.
+
+---
+
+### Final packet judgment
+
+The bounded conversation demonstrates a strong Ziggy pattern of:
+
+* exposing hidden foundations and normative bridges;
+* applying symmetrical justificatory burdens;
+* separating local coherence from comparative selection;
+* testing scope, modal range, jurisdiction, and exclusivity;
+* reconstructing intended meaning before implication scoring;
+* importing distant conceptual structures to reframe disputes;
+* preserving unresolved possibilities without treating partial explanation as automatic elimination;
+* separating mechanism-level explanation from ultimate-source claims.
+
+The packet also demonstrates recurring incompletions:
+
+* protection was not operationalized through reachable defeat conditions;
+* “A+” was not definitionally frozen;
+* coherence, truth, warrant, morality, and compatibility were not fully separated;
+* burden symmetry was not fully self-applied;
+* unknown probability was sometimes treated as improbability;
+* Grant was scored before his strongest legitimate functions were reconstructed;
+* compression interpretations were not speaker-calibrated;
+* ontological non-exclusion initially carried excess evidential force;
+* coexistence architecture lacked explicit harm and exclusion thresholds;
+* metaethical jurisdiction sometimes displaced rather than preserved first-order moral questions.
+
+The corrected Stage-4 archive therefore promotes only recurrent, source-anchored reasoning operations that survived Stage-3 testing, while returning one-time moves, relationship protocols, values, roles, and speculative interpretations to lower tiers.
+
+`DIG_COMPOUND_14_protection_frames_meaning_source_and_moral_authority`
+
+`STAGE 4 COMPLETE AFTER COMPLETION PATCH`
 
 ---
 
