@@ -272,6 +272,22 @@ grade); Encounter-First Reorganization → REMOVED from operator consideration
 name (motive import) → relationship-level hypothesis *Exploration–
 Qualification Conflict* (see RELATIONSHIP_MAP holding ledger).
 
+From COMPOUND_SWEEP_03 (**two retain-RED candidates — field desk high
+confidence; registration deferred to bounded sub-digs per plow-through**):
+**Framework Transplant** (temporarily occupy another framework's premises and
+derive consequences internally — validity conditional on *transplant
+fidelity*: a transplanted slogan is not a reconstructed framework) ·
+**Constraint-Exhaustion Stress Test** (sequence-level: adopt principle →
+derive limiting implication → revise around objections → identify the
+constraint that stops the derivation; 8 substeps consolidated from five
+Stage-4 fragments; purpose = *constraint discovery, not framework
+destruction*) · **Jurisdiction Challenge** (merged family:
+Standard-Authority Challenge + Jurisdiction Indexing → identify governing
+standard → identify domain → ask what authorizes it there → index the
+verdict; maps to Museum OP-013; **structurally the corrective test for
+CO-002's suspected pathology** — the probe that would detect Universalized
+Evaluative Jurisdiction if deployed against a live interlocutor).
+
 From DIG_01 crosswalk (**a restraint round — no new registrations**):
 **Modal Burden Enforcement** (assertor of a modal premise carries its burden —
 NOT Symmetry Testing) · **Hidden Ranking Exposure** ("superior world"
@@ -316,3 +332,4 @@ therefore carries a Museum ID.
 | 2026-07-17 | (crosswalk, DIG_01) | **Restraint round — zero new registrations.** Seven candidates queued at technique/thread level; forced mappings rejected (Modal Burden ≠ Symmetry Testing; Hidden Ranking ≠ Universalized Jurisdiction; Feasible-Space Humility ≠ Contested ≠ Defeated; Evaluation-Target Separation → broader Museum family, no new entry). **No Grant operator promotes** — the zero was argued-as-measured; wrong-target vs dimension-dominance stays open (CO-004's justified-zero duty enforced) | Field-desk Stage-4 handoff, DIG_01 |
 | 2026-07-17 | Logical-Status Compression | Recorded as **local reasoning error** (not an operator) — first entry in the Failure-Atlas seed list; committed by conversational Nova, caught by Stage 3, ruled by field-desk Nova | DIG_01 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_02) | **Plow-through rule enforced at filing: zero promotions from a completed 4-stage sweep.** Three sweep-strong candidates queued (Positive-Commitment Extraction; Instrument ≠ Telos; Candidate-Space Construction); CO-014 gains a 2nd candidate instance (sweep-grade — awaits sub-dig A); all Grant pathology mappings quarantined ("the sweep reconstructs how Ziggy experiences Grant's method, not Grant's architecture"); Asymmetry Reversal MATCHES OP-008 with inconsistent self-application noted | Field-desk Stage-4 handoff, COMPOUND_SWEEP_02 |
+| 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_03) | Zero promotions again. Two retain-RED candidates queued (Framework Transplant; Constraint-Exhaustion Stress Test — five fragments consolidated into one sequence operator); Jurisdiction Challenge merged family noted as CO-002's corrective test; eight findings held at technique level; rejected mappings: Scope-Constrained Concession ≠ OP-009 (scope control, not possibility preservation), Instrument-Scaling ≠ CO-002, reductio ≠ CO-008, indexing ≠ relativism; no Grant operator (reported replies undeterminable: theory / improvisation / compression / reconstruction) | Field-desk Stage-4 handoff, COMPOUND_SWEEP_03 |
