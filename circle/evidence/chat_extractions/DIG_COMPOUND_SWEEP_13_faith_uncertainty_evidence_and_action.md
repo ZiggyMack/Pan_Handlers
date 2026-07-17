@@ -7908,6 +7908,2939 @@ The profile-ready claims are restricted to this bounded packet unless their revi
 * Brute-Terminus Enumeration
 * Cross-Domain Structural Analogy as a stable profile claim
 
+The Stage-4 packet is analytically strong, but it is **not ready for final archival closure**. Two Stage-3 distinctions were accidentally reversed, and the packet again blurs **dig-level audit architecture** with **demonstrated actor operators**. 
+
+## Verdict
+
+```text
+RESULT:
+PASS WITH MATERIAL COMPLETION PATCH
+
+DO NOT RERUN STAGES 1–3
+
+DO NOT ARCHIVE THIS VERSION AS FINAL
+
+PRIMARY REPAIRS:
+1. Independent post-Hume re-establishment remains A1
+2. Evidence-source analysis in the raffle remains A1
+3. Dig-level families must not become actor operators automatically
+4. Forced-Commitment Filter must be reconsolidated
+5. Universalization Pressure is not a demonstrated symmetry operator
+```
+
+### The two material errors
+
+**Historical Attribution and Conceptual Re-establishment Audit** overstates what happened. The thread demonstrated attribution challenge, concession, and synthesis repair. It did **not** independently re-derive and defend the surviving thesis. That stronger operation was correctly downgraded to A1 in the final Stage-3 review.
+
+Likewise, the **Ex Ante–Ex Post Probability and Evidence Audit** claims to identify the source and quality of evidence. But direct observation versus testimony, official records, dubious reports, fraud, and error were retained as A1 omissions—not demonstrated moves.
+
+There is also profile inflation in the phrase **“Profile-ready new families.”** The seven families are primarily **dig-level analytical families**. Some components were directly performed; others were recovered as omission-derived completion requirements.
+
+Send Nova this completion patch:
+
+# PANHANDLERS DIG — STAGE 4 COMPLETION PATCH
+
+The Stage-4 extraction is substantially successful, but it contains several carried-forward classification errors.
+
+This is a completion patch, not a request to restart the dig.
+
+Use only:
+
+1. the bounded original conversation;
+2. completed Stage 1;
+3. completed Stage 2;
+4. the corrected Stage-3 recovery;
+5. the Stage-3 final tier correction;
+6. the current Stage-4 extraction;
+7. the supplied candidate registry.
+
+Do not use Project Conversation Content, other chats, memories, external sources, archives, or system/developer context as evidence.
+
+Do not rerun Stages 1–3.
+
+Repair and reissue the complete Stage-4 packet.
+
+## I. Correct the historical-attribution family
+
+The current Stage 4 incorrectly promotes:
+
+* `Historical Attribution and Conceptual Independence Audit`;
+* `Historical Attribution and Conceptual Re-establishment Audit`;
+
+as demonstrated operator candidates.
+
+The stronger operation—
+
+> independently reconstructing and proving the surviving thesis after the Hume attribution failed
+
+—was corrected to **A1**, not A3.
+
+The bounded thread demonstrated:
+
+1. Grant directly challenged the Hume attribution.
+2. Nova conceded the attribution error.
+3. Nova redistributed components among Hume, Kierkegaard, and William James.
+4. A revised synthesis was proposed.
+5. The false formulation was no longer retained as Hume-direct.
+
+The bounded thread did **not** demonstrate:
+
+1. derivation of the revised thesis from explicit premises;
+2. full testing of objections;
+3. primary-text validation;
+4. independent proof that the distributed synthesis is coherent or historically accurate.
+
+Rename Family 7:
+
+**Historical Attribution and Synthesis-Repair Audit**
+
+Demonstrated operations:
+
+* historical attribution challenge;
+* provenance-versus-validity distinction;
+* concession of attribution error;
+* proposal of a revised synthesis;
+* prevention of false thinker-direct attribution.
+
+A1 completion requirement:
+
+**Independent re-establishment of the surviving conceptual thesis after borrowed historical authority is removed.**
+
+Preserve:
+
+`historical attribution removed → conceptual thesis still requires independent argument`.
+
+Do not include “conceptual independence” or “conceptual re-establishment” in the demonstrated operator name.
+
+Do not classify the revised Hume/Kierkegaard/James synthesis as independently validated.
+
+## II. Narrow the probability family
+
+The current Stage 4 defines the probability family as including identification of the source and quality of evidence.
+
+That overstates the bounded performance.
+
+The demonstrated operation is:
+
+**Ex Ante–Ex Post Probability Audit**
+
+Demonstrated:
+
+1. prior probability guides rational expectation before the outcome;
+2. an improbable outcome remains possible;
+3. ex ante expectation differs from ex post acceptance;
+4. surprise does not itself refute an outcome;
+5. improbability is not impossibility.
+
+Not demonstrated and therefore retained as A1:
+
+* direct observation versus testimony;
+* official record versus personal report;
+* reliable versus dubious source;
+* fraud;
+* measurement error;
+* procedural error;
+* how evidence quality affects posterior belief.
+
+Do not describe those A1 extensions as already performed core operations.
+
+The stronger mature audit may be archived as a completion requirement, but not as demonstrated actor behavior.
+
+## III. Separate dig-level families from actor operators
+
+The seven primary families are **dig-level audit families**.
+
+Some components were directly performed in the bounded conversation.
+
+Other components were recovered through Stage-3 omission analysis and were absent at the relevant earlier points.
+
+Use this mandatory restriction:
+
+> A completed dig-level audit family must not be treated as a fully demonstrated actor operator merely because Stage 3 identified the missing components needed to complete it.
+
+Replace the heading:
+
+`Profile-ready new families`
+
+with:
+
+`Primary dig-level audit families and candidate procedures`
+
+Actor-profile promotion requires separate direct or repeated performance.
+
+### Safe packet-local actor claims
+
+#### Ziggy
+
+* functional reframing within the faith dispute;
+* concept/label and sense separation;
+* disambiguation rescue;
+* model-as-tool framing;
+* frame-jurisdiction questioning;
+* local possibility preservation;
+* local scope testing;
+* belief/action boundary pressure.
+
+#### Grant
+
+* direct Hume-attribution challenge;
+* direct son-height definitional-extension test;
+* reported terminological restraint concerning “faith.”
+
+#### Nova or the co-constructed conversation
+
+* later belief/credence/action/commitment separation;
+* later practical/ontological distinction;
+* ex ante/ex post clarification;
+* amplification followed by post-challenge repair.
+
+Do not backdate later repairs into earlier actor reasoning.
+
+### Omission-derived completion requirements that are not automatically profile-ready
+
+* freezing a definition before testing counterexamples;
+* complete decision-theoretic comparison before invoking faith;
+* fully disambiguating “choose God”;
+* systematic live-option qualification;
+* complete practical-to-ontological bridge analysis;
+* independent post-Hume re-establishment;
+* direct-observation/testimony analysis;
+* explanatory-gain versus communicative-cost scoring before semantic escalation.
+
+## IV. Reconsolidate the Forced-Commitment Filter
+
+Do not promote:
+
+**Forced-Commitment Filter**
+
+as a separate new operator named:
+
+**Live-Option Qualification Filter**.
+
+The son-height filter primarily concerns the definition and extension of “faith”:
+
+* action guidance;
+* practical reliance;
+* stakes;
+* vulnerability;
+* unavoidable commitment.
+
+Place it primarily within:
+
+1. **Concept–Label–Sense and Extension Audit**; and
+2. secondarily, **Belief–Credence–Action–Commitment Audit**.
+
+The separate God-option analysis belongs within:
+
+**Possibility–Likelihood–Live-Option Audit**
+
+Do not merge the son-height definitional problem with the Jamesian question of whether God is psychologically live, forced, or momentous for Grant.
+
+Preserve:
+
+* the son-height repair may have been principled;
+* it may have been post-counterexample criterion addition;
+* the bounded source does not decide;
+* status remains `UNKNOWN`.
+
+## V. Correct the Symmetry Testing mapping
+
+The current Stage 4 says:
+
+> Universalization Pressure EXTENDS Symmetry Testing of Standards.
+
+That mapping is too strong.
+
+Ziggy’s:
+
+> “Sometimes? Or all times?”
+
+is a **scope-universalization test**.
+
+It does not necessarily:
+
+* reverse actor roles;
+* force the evaluator to undergo the same test;
+* apply identical evidential paperwork to competing frameworks;
+* test burdens reciprocally.
+
+Use:
+
+**NO MATCH — structurally adjacent to Symmetry Testing of Standards**
+
+or:
+
+**LOCAL SCOPE-TESTING SUBMOVE — not a full registry match**
+
+A literal reverse-role semantic test remained A1.
+
+Do not transform general scope pressure into demonstrated burden symmetry.
+
+## VI. Preserve the seven-family consolidation
+
+Retain these as the primary dig-level families:
+
+1. **Concept–Label–Sense and Extension Audit**
+2. **Belief–Credence–Action–Commitment Audit**
+3. **Residual-Uncertainty and Decision-Rule Audit**
+4. **Practical–Ontological Bridge Audit**
+5. **Possibility–Likelihood–Live-Option Audit**
+6. **Ex Ante–Ex Post Probability Audit**
+7. **Historical Attribution and Synthesis-Repair Audit**
+
+Retain as auxiliary:
+
+8. **Model-as-Tool and Frame-Jurisdiction Audit**
+
+Do not create nineteen independent operator candidates from the original Stage-2 move inventory.
+
+The individual moves may be mapped as manifestations, submoves, one-time stress tests, role behaviors, or Idea Trails without receiving independent operator promotion.
+
+## VII. Registry dispositions to preserve or refine
+
+### Possibility Preservation
+
+Retain as the strongest named registry match.
+
+It applies locally to:
+
+* Ziggy’s preservation of God as an option;
+* the low-probability raffle outcome.
+
+Restrictions:
+
+* possibility does not establish plausibility;
+* plausibility does not establish live-option status;
+* live-option status does not establish warranted belief;
+* impartial application remains unknown.
+
+### Contested ≠ Defeated
+
+Retain only as a packet-level or Nova-repair relation:
+
+* failure of the Hume attribution does not automatically defeat every broader question;
+* keeping the question open does not validate the revised thesis.
+
+Do not promote Structural Synthesis After Attribution Failure as a stable independent operator.
+
+### Cross-Disciplinary Swooping
+
+Retain the physical-constants analogy as an Idea-Trail-level descriptive match only.
+
+Do not use it as stable Ziggy profile evidence.
+
+### Negative registry candidates
+
+Continue to withhold actor-level promotion for:
+
+* Prediction Sovereignty;
+* Universalized Evaluative Jurisdiction;
+* Generative Admission Restriction;
+* Unmeasured-to-Zero Conversion;
+* Possibility Compression;
+* Baseline Exemption;
+* Reconstruction Bypass;
+* Contest-to-Defeat Compression.
+
+The bounded source does not establish those Grant pathologies.
+
+## VIII. Correct final archival language
+
+The final disposition must state:
+
+> The seven families are completed dig-level analytic procedures. Their presence in the final audit does not prove that Ziggy, Grant, or Nova performed every component. Directly demonstrated operations, later co-constructed repairs, and omission-derived completion requirements must remain separately labeled.
+
+The corrected archive should preserve:
+
+### Direct Ziggy seeds
+
+* semantic bridge-building;
+* functional reframing;
+* model instrumentalism;
+* frame-jurisdiction questioning;
+* possibility preservation;
+* local scope testing;
+* belief/action boundary pressure.
+
+### Direct Grant seeds
+
+* historical-attribution testing;
+* definitional-extension testing.
+
+### Nova/co-constructed developments
+
+* belief/credence/action/commitment separation;
+* practical/ontological separation;
+* ex ante/ex post correction;
+* amplification and later repair.
+
+### A1 completion requirements
+
+* independent post-Hume re-establishment;
+* observation/testimony distinction in the raffle;
+* explicit Grant credence threshold;
+* nonpropositional action;
+* alternatives to the God/brute-fact/ignorance trilemma;
+* function of external-AI material;
+* literal reverse-role test.
+
+## IX. Required output
+
+Reissue the complete corrected Stage-4 extraction containing:
+
+1. blind-to-named mapping;
+2. seven-family consolidation;
+3. corrected new-candidate list;
+4. packet-local profile claims;
+5. quarantined claims;
+6. relationship and role findings;
+7. Idea Trails;
+8. attribution restrictions;
+9. extraction self-audit;
+10. final archival disposition.
+
+Do not merely append corrections.
+
+Do not rerun Stage 3.
+
+Do not ask for another stage.
+
+Execute the corrected final Stage 4 now.
+
+After that patch, the dig should be ready for final closure.
+===============================
+
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+## 1. Blind-to-Named Mapping
+
+### 1.1 Functional Reframing
+
+**Mapping verdict:** **NEW — manifestation of Concept–Label–Sense and Extension Audit**
+
+**Match**
+
+Ziggy removes “faith” from an exclusively religious sense and asks what functional structure the term identifies.
+
+**Does not match**
+
+* Not **Generative Admission Restriction**.
+* Not **Cross-Disciplinary Swooping**.
+* Not full **Symmetry Testing of Standards**.
+
+**Stage-3 survival**
+
+Survives strongly within the faith dispute.
+
+**Actor status**
+
+Directly demonstrated for Ziggy in this local dispute. Cross-domain stability is `UNKNOWN`.
+
+---
+
+### 1.2 Model/Reality Separation
+
+**Mapping verdict:** **NEW — manifestation of Model-as-Tool and Frame-Jurisdiction Audit**
+
+**Match**
+
+Ziggy distinguishes a framework’s usefulness from the claim that it is a literal or exhaustive ontology.
+
+**Does not match**
+
+It is adjacent to **Reconstruction Bypass**, but it does not itself demonstrate that anyone bypassed reconstruction.
+
+**Stage-3 survival**
+
+Survives strongly as an auxiliary packet-local move.
+
+**Actor status**
+
+Directly demonstrated for Ziggy.
+
+---
+
+### 1.3 Frame-Ownership Audit
+
+**Mapping verdict:** **NEW — manifestation of Model-as-Tool and Frame-Jurisdiction Audit**
+
+**Match**
+
+It asks:
+
+* who establishes the frame;
+* who consents;
+* what its boundaries are;
+* whether movement between frames is possible;
+* whether the standard has jurisdiction.
+
+**Does not match**
+
+It may detect:
+
+* **Baseline Exemption**;
+* **Universalized Evaluative Jurisdiction**;
+* **Reconstruction Bypass**;
+
+but it is not evidence that those distortions occurred.
+
+**Stage-3 survival**
+
+Survives strongly.
+
+**Actor status**
+
+Directly demonstrated for Ziggy.
+
+---
+
+### 1.4 Semantic/Substantive Split
+
+**Mapping verdict:** **NEW — manifestation of Concept–Label–Sense and Extension Audit**
+
+**Match**
+
+The move separates agreement about “acting under uncertainty” from disagreement about whether “faith” is an appropriate label.
+
+**Does not match**
+
+None of the named registry candidates directly governs the distinction among:
+
+* phenomenon;
+* label;
+* stipulated sense;
+* ordinary sense;
+* imported connotation.
+
+**Stage-3 survival**
+
+Survives strongly.
+
+**Restriction**
+
+The remaining dispute is not automatically trivial. Labels may import substantive implications.
+
+---
+
+### 1.5 Disambiguation Rescue
+
+**Mapping verdict:** **NEW — manifestation of Concept–Label–Sense and Extension Audit**
+
+**Match**
+
+Ziggy proposes preserving an overloaded term by explicitly separating its senses.
+
+**Unresolved point**
+
+The move does not establish that the explanatory gain from retaining “faith” exceeds its communicative cost.
+
+**Stage-3 survival**
+
+Survives as a direct Ziggy move.
+
+**Completion requirement**
+
+A full audit would compare “faith” with alternatives such as:
+
+* trust;
+* reliance;
+* commitment;
+* policy;
+* risk acceptance;
+* practical orientation.
+
+That full scoring was not performed before semantic escalation.
+
+---
+
+### 1.6 Category Boundary Test
+
+**Mapping verdict:** **NEW — manifestation of Belief–Credence–Action–Commitment Audit**
+
+**Match**
+
+Ziggy pressures the relation between:
+
+* belief;
+* incomplete evidence;
+* decision;
+* action;
+* commitment.
+
+**Does not match**
+
+It is not itself **Universalized Evaluative Jurisdiction**. It may expose that error, but the direction is diagnostic rather than distortive.
+
+**Stage-3 survival**
+
+Survives strongly.
+
+**Packet-local result**
+
+* identity between belief and action: not established;
+* complete independence: not established;
+* linked but nonidentical: strongly supported.
+
+---
+
+### 1.7 Jurisdiction Separation
+
+**Mapping verdict:** **NEW — manifestation of Belief–Credence–Action–Commitment Audit**
+
+**Match**
+
+Nova and the later co-constructed conversation distinguish:
+
+* what evidence warrants believing;
+* what values and decision rules warrant doing;
+* what practical commitment means;
+* what metaphysical conclusions follow.
+
+**Does not match**
+
+This is a counter-operation to **Universalized Evaluative Jurisdiction**, not an instance of it.
+
+**Stage-3 survival**
+
+Survives strongly as a later Nova/co-constructed development.
+
+**Restriction**
+
+It must not be backdated into the earlier “atheists have faith” argument.
+
+---
+
+### 1.8 Forced-Commitment Filter
+
+**Mapping verdict:** **NO INDEPENDENT OPERATOR PROMOTION**
+
+**Primary placement**
+
+**Concept–Label–Sense and Extension Audit**
+
+**Secondary placement**
+
+**Belief–Credence–Action–Commitment Audit**
+
+**Function**
+
+The son-height dispute introduces possible limiting conditions for “faith”:
+
+* action guidance;
+* practical reliance;
+* stakes;
+* vulnerability;
+* unavoidable commitment.
+
+**Does not belong primarily to**
+
+**Possibility–Likelihood–Live-Option Audit**
+
+The son-height question concerns the extension of “faith.” The separate Jamesian issue concerns whether God is psychologically live, forced, or momentous for Grant.
+
+**Stage-3 survival**
+
+The criterion-building is demonstrated later.
+
+**Unresolved classification**
+
+Whether those criteria were:
+
+* implicit in the original concept; or
+* added after Grant’s counterexample
+
+remains `UNKNOWN`.
+
+---
+
+### 1.9 Historical Attribution Audit
+
+**Mapping verdict:** **NEW — manifestation of Historical Attribution and Synthesis-Repair Audit**
+
+**Demonstrated operations**
+
+* Grant directly challenges the Hume attribution.
+* Nova concedes the attribution error.
+* The false formulation is no longer retained as Hume-direct.
+* Nova proposes a revised Hume/Kierkegaard/James synthesis.
+
+**Not demonstrated**
+
+* derivation from explicit premises;
+* primary-text validation;
+* full objection testing;
+* independent proof that the revised synthesis is coherent.
+
+**Stage-3 survival**
+
+Historical challenge and correction survive strongly.
+
+Independent post-Hume re-establishment remains an A1 completion requirement.
+
+---
+
+### 1.10 Structural Synthesis After Attribution Failure
+
+**Mapping verdict:** **EXTENDS Contested ≠ Defeated — packet-level repair relation only**
+
+**What matches**
+
+Failure of the Hume attribution does not automatically defeat every broader question about uncertainty, action, and commitment.
+
+**What does not match**
+
+Keeping the thesis open does not validate the revised synthesis.
+
+**Correct delta**
+
+> attribution fails
+> → the broader question may remain open
+> → the surviving thesis still requires independent argument
+
+**Stage-3 survival**
+
+Survives as Nova’s repair behavior and as an interactional sequence.
+
+**Operator status**
+
+Do not promote as an independent stable operator.
+
+---
+
+### 1.11 Option-Set Inspection
+
+**Mapping verdict:** **MATCHES Possibility Preservation**
+
+**What matches**
+
+Ziggy keeps God available as a possible object of inquiry or practical consideration despite reported low assessed likelihood.
+
+**What does not match**
+
+This does not establish that God is:
+
+* plausible;
+* psychologically live for Grant;
+* forced;
+* momentous;
+* epistemically warranted.
+
+It also does not prove that Grant excluded God before inquiry.
+
+**Stage-3 survival**
+
+Survives as a local Ziggy move.
+
+**Impartiality**
+
+`UNKNOWN`
+
+---
+
+### 1.12 Low-Probability Stress Test
+
+**Mapping verdict:** **MATCHES Possibility Preservation as a one-time stress test**
+
+**What matches**
+
+The raffle preserves an extremely improbable outcome as genuinely possible.
+
+**What does not match**
+
+It does not establish that Grant performs **Possibility Compression** or treats improbability as impossibility.
+
+**Stage-3 survival**
+
+Survives as one consequential thought experiment.
+
+**Operator status**
+
+Do not promote independently.
+
+**A1 extension**
+
+The thread does not distinguish:
+
+* direct observation;
+* testimony;
+* official record;
+* dubious report;
+* fraud;
+* error.
+
+---
+
+### 1.13 Ex Ante/Ex Post Split
+
+**Mapping verdict:** **NEW — manifestation of Ex Ante–Ex Post Probability Audit**
+
+**Demonstrated operations**
+
+1. Prior probability rationally guides expectation before the outcome.
+2. An improbable outcome remains possible.
+3. Ex ante expectation differs from ex post acceptance.
+4. Surprise does not itself refute an outcome.
+5. Improbability is not impossibility.
+
+**Not demonstrated**
+
+* direct observation versus testimony;
+* official record versus personal report;
+* reliable versus dubious source;
+* fraud analysis;
+* measurement error;
+* procedural error;
+* evidence-quality effects on posterior belief.
+
+**Stage-3 survival**
+
+Survives as a later Nova/co-constructed clarification.
+
+---
+
+### 1.14 Universalization Pressure
+
+**Mapping verdict:** **LOCAL SCOPE-TESTING SUBMOVE — NO FULL REGISTRY MATCH**
+
+**Structurally adjacent to**
+
+**Symmetry Testing of Standards**
+
+**What is demonstrated**
+
+Ziggy asks:
+
+> “Sometimes? Or all times?”
+
+This tests the scope of a claim.
+
+**What is not demonstrated**
+
+The move does not necessarily:
+
+* reverse roles;
+* force the evaluator to undergo the same test;
+* impose identical burdens on competing frameworks;
+* apply reciprocal evidential paperwork.
+
+**Stage-3 survival**
+
+Survives as direct Ziggy local scope testing.
+
+**A1 remainder**
+
+A literal reverse-role semantic test remains unperformed.
+
+---
+
+### 1.15 Brute-Terminus Enumeration
+
+**Mapping verdict:** **NEW — Idea Trail: Explanatory-Terminus Enumeration**
+
+**Function**
+
+Ziggy lists:
+
+* God;
+* brute fact;
+* “I do not know”
+
+as candidate stopping points.
+
+**Why no registry match**
+
+No named registry candidate concerns enumerating ultimate explanatory termini.
+
+**Stage-3 survival**
+
+Does not survive as a durable operator.
+
+**Restriction**
+
+The list is not shown to be exhaustive.
+
+---
+
+### 1.16 Cross-Domain Structural Analogy
+
+**Mapping verdict:** **MATCHES Cross-Disciplinary Swooping at Idea-Trail level only**
+
+**What matches**
+
+A structure involving unexplained premises or stopping points is transported among:
+
+* practical action;
+* physical constants;
+* metaphysics;
+* theology.
+
+**What does not match**
+
+The thread does not establish that the analogy preserves the relevant differences among empirical constants, practical norms, and metaphysical explanations.
+
+**Stage-3 survival**
+
+Descriptive match only.
+
+**Profile status**
+
+Not stable Ziggy profile evidence.
+
+---
+
+### 1.17 Compression Request
+
+**Mapping verdict:** **NEW — protocol behavior, not operator**
+
+**Function**
+
+Ziggy requests:
+
+* plain lists;
+* rankings;
+* tables;
+* one distinction per item.
+
+**Stage-3 survival**
+
+Survives as an information-management preference.
+
+**Profile status**
+
+Do not classify as a primary philosophical operator.
+
+---
+
+### 1.18 Adversarial Implication Test
+
+**Mapping verdict:** **NEW — Definitional-Extension Test**
+
+**Function**
+
+Grant applies the proposed definition of faith to an awkward son-height example to test its extension.
+
+**Does not match**
+
+It is not **Contest-to-Defeat Compression**. Grant’s prompt tests the definition; it does not directly declare the whole framework defeated.
+
+**Stage-3 survival**
+
+Survives as a direct Grant move.
+
+**Stability**
+
+One documented direct instance only.
+
+---
+
+### 1.19 External-AI Adjudication Attempt
+
+**Mapping verdict:** **NEW — relationship/protocol behavior, not stable operator**
+
+**Function**
+
+Grant introduces an external AI exchange concerning:
+
+* the Hume attribution;
+* the son-height extension.
+
+**Intended status**
+
+`UNKNOWN`
+
+It may have functioned as:
+
+* argument;
+* evidence;
+* independent check;
+* summary;
+* authority;
+* rhetorical support.
+
+**Restriction**
+
+Do not classify it as improper authority borrowing without additional evidence.
+
+---
+
+### 1.20 Registry Candidates Not Established at Actor Level
+
+#### Prediction Sovereignty
+
+No adequate actor-level match.
+
+Reported use of likelihood to guide belief does not establish predictive success as Grant’s highest or final epistemic authority.
+
+#### Universalized Evaluative Jurisdiction
+
+No adequate actor-level match.
+
+The conversation later distinguishes belief standards from action standards, but it does not directly establish that Grant universalized one standard across all domains.
+
+#### Generative Admission Restriction
+
+No adequate match.
+
+No direct evidence shows Grant barring revelation, tradition, first-person experience, narrative, or metaphysical intuition from generating candidate hypotheses.
+
+#### Unmeasured-to-Zero Conversion
+
+No adequate match.
+
+No actor is shown converting untested or outside-jurisdiction material from `UNKNOWN` to zero or false.
+
+#### Possibility Compression
+
+No adequate Grant-level match.
+
+Low likelihood guiding belief is not equivalent to erasing a possibility from exploratory inquiry.
+
+#### Baseline Exemption
+
+No adequate match.
+
+No reciprocal framework audit demonstrates that Grant exempts a preferred positive framework from burdens imposed on rivals.
+
+#### Reconstruction Bypass
+
+No adequate actor-level match.
+
+The bounded source does not show Grant evaluating a framework while consciously bypassing an available internal reconstruction.
+
+#### Contest-to-Defeat Compression
+
+No adequate match.
+
+No participant is directly shown treating a raised objection as conclusive defeat of the whole position.
+
+#### Symmetry Testing of Standards
+
+Not fully demonstrated.
+
+Ziggy performs local scope testing, not a complete reciprocal-burden or reversed-role operation.
+
+#### Contested ≠ Defeated
+
+Retained only at packet level in the Hume repair sequence.
+
+#### Possibility Preservation
+
+Strongest named registry match.
+
+#### Cross-Disciplinary Swooping
+
+Retained only as an Idea-Trail-level descriptive match.
+
+---
+
+## 2. Seven-Family Consolidation
+
+The seven primary families below are **completed dig-level analytic procedures**.
+
+They combine:
+
+* directly demonstrated moves;
+* later co-constructed repairs;
+* omission-derived completion requirements.
+
+Their presence in the completed audit does not prove that any actor performed every component.
+
+### Family 1 — Concept–Label–Sense and Extension Audit
+
+**Purpose**
+
+Determine whether disagreement concerns:
+
+* the phenomenon;
+* the label;
+* a stipulated sense;
+* an ordinary sense;
+* imported connotations;
+* category extension;
+* explanatory benefit;
+* communicative cost.
+
+**Directly demonstrated seeds**
+
+* Ziggy’s functional reframing.
+* Ziggy’s concept/label separation.
+* Ziggy’s disambiguation rescue.
+* Grant’s son-height extension test.
+* Later Nova recognition that the term might be conceded.
+
+**Omission-derived completion requirements**
+
+* freeze the definition before scoring the counterexample;
+* distinguish uncertainty from action guidance, reliance, stakes, and vulnerability;
+* compare explanatory gain with communicative cost before semantic escalation.
+
+**Restriction**
+
+The completed family must not be treated as a fully demonstrated actor operator.
+
+---
+
+### Family 2 — Belief–Credence–Action–Commitment Audit
+
+**Purpose**
+
+Separate and reconnect:
+
+* graded credence;
+* categorical belief;
+* suspension;
+* working belief;
+* values;
+* preferences;
+* decision;
+* action;
+* practical reliance;
+* identity commitment.
+
+**Directly demonstrated seeds**
+
+* Ziggy’s belief/action boundary pressure.
+* Nova’s later “linked but not the same” distinction.
+* Later co-constructed discussion of working beliefs, values, preferences, and decision rules.
+
+**Omission-derived completion requirements**
+
+* separate belief thresholds from action thresholds earlier;
+* test nonpropositional action;
+* avoid assuming categorical belief is voluntarily selectable.
+
+**Restriction**
+
+Nova supplied much of the formal vocabulary. It must not be back-attributed to Ziggy as independently pre-existing.
+
+---
+
+### Family 3 — Residual-Uncertainty and Decision-Rule Audit
+
+**Purpose**
+
+Determine:
+
+* what uncertainty remains;
+* whether evidence is incomplete or inadequate;
+* whether uncertainty is local or universal;
+* what moves an agent from credence to action;
+* whether “faith” adds explanatory work beyond ordinary practical reasoning.
+
+**Demonstrated seeds**
+
+* Ziggy’s “Sometimes? Or all times?”
+* Ziggy’s residual-uncertainty sensitivity.
+* Later discussion of values, options, costs, preferences, and decision rules.
+
+**Core comparison**
+
+`credence + values + costs + options + decision rule → action`
+
+Then ask:
+
+> What additional function does “faith” perform?
+
+**Omission-derived completion requirements**
+
+* distinguish incomplete evidence from unjustified belief;
+* test ordinary decision-theoretic alternatives before invoking faith;
+* test reflex, habit, embodied skill, and automatic action.
+
+**Restriction**
+
+The family does not establish that every action is faith.
+
+---
+
+### Family 4 — Practical–Ontological Bridge Audit
+
+**Purpose**
+
+Audit each transition among:
+
+1. residual uncertainty;
+2. decision structure;
+3. practical commitment;
+4. the label “faith”;
+5. religious commitment;
+6. belief that God exists;
+7. God as ground of practical agency.
+
+**Demonstrated seeds**
+
+* ontological-foundation pushback;
+* Nova’s later practical/ontological distinction;
+* Ziggy’s “choose God” argument;
+* Ziggy’s God/brute-fact/ignorance question.
+
+**Omission-derived completion requirements**
+
+* fully disambiguate “choose God”;
+* provide separate arguments for every bridge;
+* test alternatives to the proposed metaphysical trilemma.
+
+**Restrictions**
+
+* `residual uncertainty ≠ religious faith`
+* `religious practice is available ≠ God exists`
+* `God is logically possible ≠ God grounds action`
+* `evidence does not determine action alone ≠ God supplies the missing determinant`
+
+---
+
+### Family 5 — Possibility–Likelihood–Live-Option Audit
+
+**Purpose**
+
+Separate:
+
+* logical possibility;
+* assessed likelihood;
+* evidential plausibility;
+* psychological liveliness;
+* practical availability;
+* forced choice;
+* momentousness;
+* epistemic warrant.
+
+**Demonstrated seeds**
+
+* Ziggy’s preservation of God as an option.
+* Ziggy’s raffle example.
+* Nova’s later introduction of live, forced, and momentous distinctions.
+
+**Omission-derived completion requirements**
+
+* systematically distinguish “choose to believe,” “choose to trust,” “choose to practice,” “choose to investigate,” and “choose to hope”;
+* determine Grant’s own classification of God;
+* distinguish preserved possibility from warranted belief.
+
+**Restriction**
+
+Grant’s classification remains `UNKNOWN`.
+
+---
+
+### Family 6 — Ex Ante–Ex Post Probability Audit
+
+**Purpose**
+
+Separate:
+
+* rational expectation before an outcome;
+* possibility of an improbable outcome;
+* acceptance after an outcome is established;
+* psychological surprise;
+* logical impossibility.
+
+**Demonstrated operations**
+
+1. Prior probability guides expectation.
+2. Improbable outcomes remain possible.
+3. Ex ante and ex post judgments differ.
+4. Surprise is not refutation.
+5. Improbability is not impossibility.
+
+**A1 completion requirements**
+
+* direct observation versus testimony;
+* official record versus personal report;
+* reliable versus dubious source;
+* fraud;
+* measurement error;
+* procedural error;
+* evidence-quality effects on posterior belief.
+
+**Restriction**
+
+Those evidence-source extensions are not demonstrated core operations.
+
+---
+
+### Family 7 — Historical Attribution and Synthesis-Repair Audit
+
+**Purpose**
+
+Separate:
+
+* what a thinker actually said;
+* whether the proposed idea remains philosophically interesting;
+* whether a revised synthesis can be proposed after attribution failure;
+* whether the revised thesis has been independently established.
+
+**Demonstrated operations**
+
+* Grant’s direct Hume-attribution challenge.
+* Nova’s concession of attribution error.
+* provenance-versus-validity separation.
+* proposal of a revised Hume/Kierkegaard/James synthesis.
+* prevention of continued false thinker-direct attribution.
+
+**A1 completion requirement**
+
+**Independent re-establishment of the surviving conceptual thesis after borrowed historical authority is removed.**
+
+**Preserved rule**
+
+`historical attribution removed → conceptual thesis still requires independent argument`
+
+**Restriction**
+
+The distributed synthesis is not independently validated.
+
+---
+
+### Auxiliary Family 8 — Model-as-Tool and Frame-Jurisdiction Audit
+
+**Purpose**
+
+Determine:
+
+* whether a framework is an instrument or total ontology;
+* who established the frame;
+* who accepted it;
+* what its limits are;
+* what questions its standard can legitimately govern.
+
+**Directly demonstrated seeds**
+
+* Ziggy’s model instrumentalism.
+* Ziggy’s frame-jurisdiction questioning.
+
+**Restriction**
+
+This auxiliary family does not establish recurrence for the primary faith/action families.
+
+---
+
+## 3. Corrected New-Candidate List
+
+The following are **dig-level candidate procedures**, not automatically actor-level operators.
+
+### Primary dig-level audit families and candidate procedures
+
+1. Concept–Label–Sense and Extension Audit
+2. Belief–Credence–Action–Commitment Audit
+3. Residual-Uncertainty and Decision-Rule Audit
+4. Practical–Ontological Bridge Audit
+5. Possibility–Likelihood–Live-Option Audit
+6. Ex Ante–Ex Post Probability Audit
+7. Historical Attribution and Synthesis-Repair Audit
+
+### Auxiliary candidate procedure
+
+8. Model-as-Tool and Frame-Jurisdiction Audit
+
+### Named registry procedure retained within the packet
+
+**Possibility Preservation**
+
+This is the strongest direct registry match.
+
+### Packet-level relation retained
+
+**Contested ≠ Defeated**
+
+Applied only to the Hume repair:
+
+* attribution failure does not defeat every wider question;
+* keeping the wider question open does not validate the repaired thesis.
+
+### Idea-Trail-only registry match
+
+**Cross-Disciplinary Swooping**
+
+Applied descriptively to the physical-constants analogy only.
+
+### Not independently promoted
+
+* Forced-Commitment Filter
+* Live-Option Qualification Filter
+* Low-Probability Stress Test
+* Structural Synthesis After Attribution Failure
+* Brute-Terminus Enumeration
+* Cross-Domain Structural Analogy
+* Compression Request
+* External-AI Adjudication Attempt
+
+These remain submoves, one-time tests, role behaviors, protocol behaviors, or Idea Trails.
+
+---
+
+## 4. Packet-Local Profile Claims
+
+### Claim 1 — Functional reframing within the faith dispute
+
+**Subject**
+
+Ziggy
+
+**Claim**
+
+Ziggy directly reframes “faith” according to a functional relation involving uncertainty and action rather than accepting an exclusively religious definition.
+
+**Evidence classification**
+
+Z-DIRECT
+
+**Confidence**
+
+High within this bounded dispute.
+
+**Source anchor**
+
+* “remind me how even atheist have faith”
+* “the faith to act in spite of not knowing the next solid ground underneath your foot”
+
+**Review condition**
+
+Do not generalize across domains without additional direct recurrence. Reassess if Ziggy resists equivalent functional reframing when it threatens a preferred conclusion.
+
+---
+
+### Claim 2 — Concept/label and sense separation
+
+**Subject**
+
+Ziggy
+
+**Claim**
+
+Ziggy distinguishes agreement about “acting under uncertainty” from disagreement over whether the term “faith” should name it and proposes explicit disambiguation.
+
+**Evidence classification**
+
+Z-DIRECT
+
+**Confidence**
+
+High.
+
+**Source anchor**
+
+* “He is okay with the concept acting under uncertainty…”
+* “we can do the foot work to disambiguate the differences”
+
+**Review condition**
+
+The explanatory gain of retaining “faith” remains unresolved.
+
+---
+
+### Claim 3 — Model instrumentalism
+
+**Subject**
+
+Ziggy
+
+**Claim**
+
+Ziggy treats philosophical systems as provisional tools whose usefulness does not require literal or exhaustive truth.
+
+**Evidence classification**
+
+Z-DIRECT
+
+**Confidence**
+
+High.
+
+**Source anchor**
+
+> “some of these philosophical systems, they’re like tools and models”
+
+**Review condition**
+
+Reassess if the framework’s conclusions are later treated as binding while the framework remains insulated from falsification as “only a tool.”
+
+---
+
+### Claim 4 — Frame-jurisdiction questioning
+
+**Subject**
+
+Ziggy
+
+**Claim**
+
+Ziggy directly asks who establishes a frame, who consents to it, and what its boundaries and bridges are.
+
+**Evidence classification**
+
+Z-DIRECT
+
+**Confidence**
+
+High.
+
+**Source anchor**
+
+> “everything’s a frame and who’s establishing it and who’s consenting to it”
+
+**Review condition**
+
+Do not infer that every disagreement is an illegitimate frame imposition.
+
+---
+
+### Claim 5 — Local Possibility Preservation
+
+**Subject**
+
+Ziggy
+
+**Claim**
+
+Ziggy locally resists treating low probability or unresolved uncertainty as automatic elimination of a possibility from exploratory or practical consideration.
+
+**Evidence classification**
+
+Z-DIRECT
+
+**Confidence**
+
+Moderate-high.
+
+**Source anchor**
+
+* “you could choose God… unless you eliminated the choice from a belief option”
+* the trillion-ticket raffle
+
+**Review condition**
+
+Promotion to a stable profile requires evidence that Ziggy also preserves unattractive low-probability possibilities and accepts justified pruning of attractive possibilities.
+
+---
+
+### Claim 6 — Local scope testing
+
+**Subject**
+
+Ziggy
+
+**Claim**
+
+Ziggy tests whether a restricted statement should be expanded across the whole class, as in his challenge from “sometimes” to “all times.”
+
+**Evidence classification**
+
+Z-DIRECT
+
+**Confidence**
+
+High for the documented move.
+
+**Source anchor**
+
+> “Sometimes? Or all times? I thought ultimately we all act from uncertainty…”
+
+**Review condition**
+
+Do not convert scope testing into full burden symmetry or reversed-role testing.
+
+---
+
+### Claim 7 — Belief/action boundary pressure
+
+**Subject**
+
+Ziggy
+
+**Claim**
+
+Ziggy directly pressures whether uncertain action can be cleanly separated from the beliefs, expectations, or commitments involved in choosing the action.
+
+**Evidence classification**
+
+Z-DIRECT
+
+**Confidence**
+
+High.
+
+**Source anchor**
+
+> “how is the mechanism of acting from uncertainty any different than believing the act you inevitably take…”
+
+**Review condition**
+
+The record does not establish that every action requires propositional belief.
+
+---
+
+### Claim 8 — Direct historical-attribution testing
+
+**Subject**
+
+Grant
+
+**Claim**
+
+Grant directly asks whether the alleged “existential commitment under uncertainty” account is faithful to Hume.
+
+**Evidence classification**
+
+G-DIRECT
+
+**Confidence**
+
+High for the instance.
+
+**Source anchor**
+
+> “whether this is a reasonable or faithful representation of Hume’s view”
+
+**Review condition**
+
+Treat as a demonstrated instance, not a stable cross-context operator without further direct evidence.
+
+---
+
+### Claim 9 — Direct definitional-extension testing
+
+**Subject**
+
+Grant
+
+**Claim**
+
+Grant directly tests the proposed definition of faith by applying it to a son-height prediction.
+
+**Evidence classification**
+
+G-DIRECT
+
+**Confidence**
+
+High for the instance.
+
+**Source anchor**
+
+> “I have faith that your son will be 6 ft 2 in tall because you’re giving him milk.”
+
+**Review condition**
+
+Whether the example preserved or omitted the proposed concept’s intended conditions remains unresolved.
+
+---
+
+### Claim 10 — Reported terminological restraint
+
+**Subject**
+
+Grant
+
+**Claim**
+
+Grant reportedly accepts the underlying idea of acting under uncertainty while resisting “faith” because its ordinary religious meaning may cause misunderstanding.
+
+**Evidence classification**
+
+G-REPORTED
+
+**Confidence**
+
+Moderate-high as Ziggy’s report; not independently Grant-direct.
+
+**Source anchor**
+
+> “He is okay with the concept acting under uncertainty—just insists using faith will lead to being misunderstood.”
+
+**Review condition**
+
+Seek Grant-direct wording before expanding this into a general philosophy of language.
+
+---
+
+### Claim 11 — Later belief/credence/action/commitment separation
+
+**Subject**
+
+Nova or the co-constructed conversation
+
+**Claim**
+
+The later exchange separates belief, credence, values, decision rules, action, and practical commitment while treating them as linked rather than identical.
+
+**Evidence classification**
+
+NOVA-INTERPRETATION / CO-CONSTRUCTED
+
+**Confidence**
+
+High as a later development.
+
+**Source anchor**
+
+* Nova: belief and action are “linked but not the same”
+* later discussion of working beliefs, preferences, values, and decision rules
+
+**Review condition**
+
+Do not backdate the mature separation into the earlier argument or treat all terminology as Ziggy-original.
+
+---
+
+### Claim 12 — Later practical/ontological separation
+
+**Subject**
+
+Nova or the co-constructed conversation
+
+**Claim**
+
+The later discussion recognizes that action under uncertainty does not by itself establish God, religious truth, or an ontological foundation.
+
+**Evidence classification**
+
+NOVA-INTERPRETATION / CO-CONSTRUCTED
+
+**Confidence**
+
+High as a later repair.
+
+**Source anchor**
+
+* ontological-foundation objection
+* Nova’s later concession that uncertain action does not prove God
+
+**Review condition**
+
+Do not infer that the full bridge audit was performed at the earlier points where it was needed.
+
+---
+
+### Claim 13 — Ex ante/ex post clarification
+
+**Subject**
+
+Nova or the co-constructed conversation
+
+**Claim**
+
+The raffle discussion distinguishes rational expectation before an outcome from acceptance after an improbable result is established.
+
+**Evidence classification**
+
+NOVA-INTERPRETATION / CO-CONSTRUCTED
+
+**Confidence**
+
+High for the demonstrated clarification.
+
+**Source anchor**
+
+Nova’s response to the trillion-ticket raffle.
+
+**Review condition**
+
+Evidence-source quality remains untested.
+
+---
+
+### Claim 14 — Amplification followed by repair
+
+**Subject**
+
+Nova
+
+**Claim**
+
+Nova initially strengthens Ziggy’s intuition and overstates some historical support, then narrows and repairs the argument after Grant’s challenge.
+
+**Evidence classification**
+
+NOVA-INTERPRETATION supported by the observable interaction sequence
+
+**Confidence**
+
+High.
+
+**Source anchor**
+
+* early use of “Hume’s second definition”
+* later concession of attribution error
+* later Hume/Kierkegaard/James redistribution
+
+**Review condition**
+
+The repair must not be mistaken for independent proof of the surviving synthesis.
+
+---
+
+## 5. Quarantined Claims
+
+### 5.1 Prediction Sovereignty — Grant
+
+**Why quarantined**
+
+Likelihood-guided belief does not establish predictive success as Grant’s highest or final epistemic authority.
+
+**Promotion evidence needed**
+
+Direct Grant statements subordinating explanation, experience, coherence, interpretation, or other epistemic success to prediction as the final standard.
+
+---
+
+### 5.2 Universalized Evaluative Jurisdiction — Grant
+
+**Why quarantined**
+
+The bounded source does not show Grant applying one evidential standard across belief, action, identity, and metaphysics without establishing jurisdiction.
+
+**Promotion evidence needed**
+
+A direct Grant argument using an epistemic belief rule to settle a distinct practical or existential domain without separate justification.
+
+---
+
+### 5.3 Generative Admission Restriction — Grant
+
+**Why quarantined**
+
+No direct evidence shows Grant barring revelation, narrative, tradition, intuition, or first-person experience from generating candidate hypotheses.
+
+**Promotion evidence needed**
+
+A direct candidate-admission rule excluding those sources before evaluation.
+
+---
+
+### 5.4 Unmeasured-to-Zero Conversion — Grant
+
+**Why quarantined**
+
+No case shows Grant converting untested, unmeasured, or outside-jurisdiction material into a zero score.
+
+**Promotion evidence needed**
+
+A recoverable instance where `UNKNOWN` is explicitly converted into false, impossible, or zero.
+
+---
+
+### 5.5 Possibility Compression — Grant
+
+**Why quarantined**
+
+Using likelihood to regulate belief does not prove that low-probability possibilities are erased from exploration.
+
+**Promotion evidence needed**
+
+Direct refusal to retain or investigate a relevant low-plausibility option solely because it falls below a threshold.
+
+---
+
+### 5.6 Baseline Exemption — Grant
+
+**Why quarantined**
+
+No direct reciprocal comparison establishes asymmetric burden.
+
+**Promotion evidence needed**
+
+A case where Grant demands scrutiny of theism or another framework while exempting a positive preferred framework from the same test.
+
+---
+
+### 5.7 Reconstruction Bypass — Grant
+
+**Why quarantined**
+
+Grant’s direct material is too limited to establish that he evaluated a weaker version while bypassing an available stronger reconstruction.
+
+**Promotion evidence needed**
+
+An explicit reconstruction made available to Grant, followed by a demonstrable bypass.
+
+---
+
+### 5.8 Contest-to-Defeat Compression
+
+**Why quarantined**
+
+No actor is directly shown converting a raised objection into decisive defeat of the entire framework.
+
+**Promotion evidence needed**
+
+Direct language moving from unresolved objection to full defeat without closing the intermediate reasoning.
+
+---
+
+### 5.9 Full Symmetry Testing of Standards — Ziggy
+
+**Why quarantined**
+
+Ziggy performs local scope testing, not a demonstrated role reversal or reciprocal-burden test.
+
+**Promotion evidence needed**
+
+A literal reversed-role case or identical evidential paperwork applied to both competing frameworks.
+
+---
+
+### 5.10 Every uncertain action is faith
+
+**Why quarantined**
+
+The claim may be made true by an overbroad definition.
+
+**Promotion evidence needed**
+
+* frozen necessary and sufficient conditions;
+* clear negative cases;
+* treatment of reflex, habit, automatic response, and trivial action;
+* explanation of the gain from the classification.
+
+---
+
+### 5.11 Faith is the indispensable bridge from evidence to action
+
+**Why quarantined**
+
+Ordinary practical reasoning may already explain action through:
+
+`credence + values + costs + options + decision rule`
+
+**Promotion evidence needed**
+
+A demonstrated explanatory remainder not handled by:
+
+* values;
+* preference;
+* utility;
+* policy;
+* habit;
+* risk acceptance;
+* practical necessity;
+* trust;
+* identity.
+
+---
+
+### 5.12 “Choose God” is a unitary voluntary act
+
+**Why quarantined**
+
+The phrase may refer to different acts:
+
+* belief;
+* trust;
+* practice;
+* inquiry;
+* hope;
+* behavior;
+* identity.
+
+**Promotion evidence needed**
+
+Explicit disambiguation and a defensible account of voluntariness for each act.
+
+---
+
+### 5.13 God is live, forced, or momentous for Grant
+
+**Why quarantined**
+
+Grant’s own classification is absent.
+
+**Promotion evidence needed**
+
+Grant-direct statements about psychological availability, unavoidable choice, stakes, and practical consequences.
+
+---
+
+### 5.14 Grant excludes God before inquiry
+
+**Why quarantined**
+
+Ziggy raises this possibility, but no direct evidence establishes it.
+
+**Promotion evidence needed**
+
+A Grant-direct candidate-admission rule excluding God before evidential assessment.
+
+---
+
+### 5.15 Son-height repair was principled
+
+**Why quarantined**
+
+The limiting conditions were not frozen before Grant supplied the counterexample.
+
+**Promotion evidence needed**
+
+An earlier definition already containing action guidance, reliance, stakes, vulnerability, or unavoidable commitment.
+
+---
+
+### 5.16 Son-height repair was ad hoc
+
+**Why quarantined**
+
+Later clarification can legitimately expose previously implicit conditions.
+
+**Promotion evidence needed**
+
+Evidence that the criteria were introduced solely to evade the counterexample and cannot be independently justified.
+
+---
+
+### 5.17 Independent post-Hume re-establishment occurred
+
+**Why quarantined**
+
+The conversation proposed a revised synthesis but did not derive and test it independently.
+
+**Promotion evidence needed**
+
+* explicit premises;
+* inferential derivation;
+* objection testing;
+* conceptual coherence analysis;
+* primary-text validation where historical attribution is retained.
+
+---
+
+### 5.18 Hume/Kierkegaard/James synthesis is historically valid
+
+**Why quarantined**
+
+The synthesis is Nova’s repair proposal, not a validated historical result.
+
+**Promotion evidence needed**
+
+Primary-text evidence for the relevant claims and a demonstration that the combined structure does not distort the thinkers.
+
+---
+
+### 5.19 Raffle demonstrates irrational evidential resistance
+
+**Why quarantined**
+
+The source of the claimed result is unspecified.
+
+**Promotion evidence needed**
+
+Clear distinction among:
+
+* direct observation;
+* testimony;
+* official evidence;
+* fraud suspicion;
+* measurement error;
+* procedural error.
+
+---
+
+### 5.20 God / brute fact / ignorance is exhaustive
+
+**Why quarantined**
+
+The trilemma does not test alternatives.
+
+**Promotion evidence needed**
+
+Evaluation and rejection of:
+
+* constitutive norms;
+* practical necessity;
+* biological disposition;
+* social commitment;
+* values;
+* identity;
+* emergent normativity;
+* explanatory pluralism.
+
+---
+
+### 5.21 External AI was improper authority borrowing
+
+**Why quarantined**
+
+Grant’s intended use of the material is `UNKNOWN`.
+
+**Promotion evidence needed**
+
+A direct claim that the external AI’s answer settles the issue merely because of its authority rather than its reasoning.
+
+---
+
+### 5.22 Cross-Disciplinary Swooping is a stable Ziggy operator
+
+**Why quarantined**
+
+The strongest evidence comes from the auxiliary physical-constants branch.
+
+**Promotion evidence needed**
+
+Repeated primary-dispute use with explicit auditing of domain differences.
+
+---
+
+## 6. Relationship and Role Findings
+
+### 6.1 Intuition Amplification Loop
+
+Ziggy intuition
+→ Nova supplies philosophical language
+→ Ziggy recognizes or adopts the formulation
+→ formulation is used externally
+→ Grant challenges an implication or attribution
+→ Nova repairs
+
+**Supported instance**
+
+The development of “faith as existential commitment under uncertainty” and the later Hume correction.
+
+**Productive function**
+
+Rapid articulation of partially formed ideas.
+
+**Failure risk**
+
+Nova-generated language may become falsely remembered as:
+
+* Ziggy-original;
+* Grant-direct;
+* thinker-direct.
+
+**Restriction**
+
+Repeated use does not change source attribution.
+
+---
+
+### 6.2 Skeptical Counterexample Loop
+
+Definition proposed
+→ awkward example supplied
+→ missing criterion identified
+→ definition repaired
+
+**Supported instance**
+
+Faith under uncertainty
+→ son-height example
+→ action guidance, stakes, reliance, or forced commitment introduced
+
+**Productive function**
+
+Boundary clarification.
+
+**Failure risk**
+
+Post-counterexample criterion addition.
+
+**Unresolved question**
+
+Were the conditions implicit or newly added?
+
+`UNKNOWN`
+
+---
+
+### 6.3 Semantic Escalation Loop
+
+Shared phenomenon
+→ disputed label
+→ proposed disambiguation
+→ continuing conflict over language governance
+
+**Supported instance**
+
+Acting under uncertainty
+→ “faith” disputed
+→ Ziggy proposes sense separation
+→ Grant reportedly continues to resist the term
+
+**Productive function**
+
+Clarifies semantic standards.
+
+**Failure risk**
+
+The label becomes the main battlefield after partial conceptual agreement.
+
+**Completion question**
+
+What explanatory value justifies retaining “faith”?
+
+---
+
+### 6.4 Symmetry Demand–Domain Difference Loop
+
+Structural similarity asserted
+→ asymmetry challenged
+→ category or domain distinction offered
+→ distinction tested
+
+**Supported instances**
+
+* believers and atheists both act under uncertainty;
+* belief versus action;
+* possibility versus likelihood.
+
+**Preserved constraints**
+
+`structural similarity ≠ identity`
+
+`domain difference ≠ legitimate asymmetry automatically`
+
+**Restriction**
+
+This loop does not establish full **Symmetry Testing of Standards**.
+
+---
+
+### 6.5 Error Concession–Core Preservation Loop
+
+Historical or conceptual error exposed
+→ local concession
+→ broader thesis reformulated
+
+**Supported instance**
+
+Hume attribution challenged
+→ attribution withdrawn
+→ broader uncertainty/commitment thesis redistributed among Hume, Kierkegaard, and James
+
+**Productive function**
+
+Prevents local error from automatically destroying every related question.
+
+**Failure risk**
+
+The surviving core may be declared intact without independent re-establishment.
+
+**Disposition**
+
+Independent post-Hume proof remains A1.
+
+---
+
+### 6.6 Likelihood Restriction–Possibility Reopening Loop
+
+Likelihood lowers credence
+→ Ziggy preserves possibility
+→ practical availability is considered
+
+**Supported instances**
+
+* Grant reportedly considers God unlikely.
+* Ziggy keeps God on the option map.
+* The raffle preserves an improbable outcome.
+
+**Restriction**
+
+Do not rename this “Probability Closure.”
+
+No direct evidence shows Grant treating low probability as impossibility.
+
+---
+
+### 6.7 Nova’s Amplifier–Repairer Role
+
+**Early phase**
+
+* sharpens Ziggy’s intuitions;
+* supplies philosophical terminology;
+* expresses premature confidence;
+* overstates historical support.
+
+**Later phase**
+
+* concedes the Hume error;
+* separates belief from action;
+* separates practical from ontological claims;
+* narrows the God inference;
+* corrects probability language.
+
+**Disposition**
+
+Nova is neither consistently neutral nor merely partisan.
+
+---
+
+### 6.8 Ziggy’s Compression and Comparison Preference
+
+**Demonstrated behavior**
+
+Requests:
+
+* plain list;
+* ranking;
+* table;
+* one core distinction.
+
+**Classification**
+
+Protocol and information-management behavior.
+
+**Restriction**
+
+Do not use the *Jesus Wars* branch as recurrence evidence for faith/action operators.
+
+---
+
+### 6.9 Grant’s External-AI Adjudication Attempt
+
+**Demonstrated behavior**
+
+Grant introduces external AI material into the dispute.
+
+**Function**
+
+`UNKNOWN`
+
+Possible roles:
+
+* checking;
+* argument;
+* evidence;
+* summary;
+* authority;
+* rhetorical support.
+
+**Restriction**
+
+Do not classify as improper merely because an external AI was used.
+
+---
+
+## 7. Idea Trails
+
+### 7.1 Explanatory-Terminus Trail
+
+**Seed**
+
+Ziggy asks whether the ultimate stopping point is:
+
+* God;
+* brute fact;
+* ignorance.
+
+**Status**
+
+Open Idea Trail.
+
+**Missing work**
+
+* test whether the list is exhaustive;
+* distinguish explanation from practical motivation;
+* examine alternative naturalized and normative accounts.
+
+---
+
+### 7.2 Physical-Constants Analogy
+
+**Seed**
+
+Measured constants accepted without derivation are compared with brute premises or unexplained practical rules.
+
+**Registry relation**
+
+Idea-Trail-level **Cross-Disciplinary Swooping**.
+
+**Status**
+
+Open and unvalidated.
+
+**Missing work**
+
+Establish whether empirical parameters, practical norms, and metaphysical grounds share enough structure for the analogy to carry argumentative weight.
+
+---
+
+### 7.3 Raffle Evidence-Source Trail
+
+**Seed**
+
+An extremely improbable winner is stipulated.
+
+**Demonstrated result**
+
+Improbability is not impossibility; ex ante expectation differs from ex post acceptance.
+
+**Missing work**
+
+Distinguish:
+
+* direct observation;
+* testimony;
+* official verification;
+* fraud;
+* reporting error;
+* procedural error.
+
+---
+
+### 7.4 “Choose God” Trail
+
+**Seed**
+
+Ziggy says one could “choose God” unless God had already been eliminated from the option set.
+
+**Missing work**
+
+Separate:
+
+* belief;
+* trust;
+* practice;
+* inquiry;
+* hope;
+* behavior;
+* identity.
+
+**Status**
+
+Unresolved.
+
+---
+
+### 7.5 Faith’s Explanatory Remainder
+
+**Seed**
+
+Faith is proposed as the bridge from incomplete evidence to action.
+
+**Competing ordinary model**
+
+`credence + values + costs + options + decision rule → action`
+
+**Open question**
+
+What additional explanatory function, if any, does “faith” perform?
+
+---
+
+### 7.6 Post-Hume Conceptual Thesis
+
+**Seed**
+
+The Hume attribution fails, but a broader thesis about uncertainty and commitment is retained.
+
+**Status**
+
+Open Idea Trail.
+
+**Required work**
+
+Independently derive, define, and test the thesis without relying on borrowed historical authority.
+
+---
+
+### 7.7 Technological Archaeology and Early-Christian Taxonomy
+
+**Status**
+
+Auxiliary side branches only.
+
+They do not supply primary recurrence evidence for the seven central audit families.
+
+The *Jesus Wars* branch primarily supports a compression and comparison preference, not a faith/action reasoning operator.
+
+---
+
+## 8. Attribution Restrictions
+
+1. “Existential commitment under uncertainty” is not Hume-direct.
+
+2. “Hume’s second definition of faith” is unsupported.
+
+3. The revised Hume/Kierkegaard/James synthesis is Nova’s proposed repair unless separately evidenced.
+
+4. Grant’s direct contributions are securely limited to:
+
+   * the Hume-attribution question;
+   * the son-height extension test.
+
+5. Most other Grant positions remain G-REPORTED.
+
+6. The external AI’s answers are not Grant-direct.
+
+7. Later Nova distinctions establish later Nova or co-constructed capacity. They do not prove that Ziggy independently possessed those distinctions earlier.
+
+8. Omission-derived completion requirements are not actor performances.
+
+9. The completed seven-family audit must not be projected backward into the original argument.
+
+10. Ziggy’s functional faith account does not establish:
+
+    * that every uncertain action is faith;
+    * that religious faith follows;
+    * that God exists;
+    * or that God grounds action.
+
+11. Grant should not be characterized as:
+
+    * refusing uncertainty;
+    * treating low probability as impossibility;
+    * excluding God before inquiry;
+    * holding complete formal evidentialism;
+    * holding a complete decision theory;
+    * positively endorsing naturalism.
+
+12. Nova’s later correction does not erase the initial attribution overreach.
+
+13. Nova’s repaired synthesis is not independently validated merely because multiple philosophers are named.
+
+14. The son-height repair is neither confirmed principled nor confirmed ad hoc.
+
+15. God’s live, forced, or momentous status for Grant remains `UNKNOWN`.
+
+16. Categorical belief’s voluntariness remains `UNKNOWN`.
+
+17. The raffle does not directly diagnose Grant.
+
+18. The physical-constants analogy remains an Idea Trail.
+
+19. The technological archaeology, physical constants, and *Jesus Wars* branches must not establish primary recurrence for the faith/action families.
+
+20. The seven families are analytic consolidations of the dig, not automatically stable Museum operators attributable to a person.
+
+---
+
+## 9. Extraction Self-Audit
+
+### 9.1 Candidate-registry priming
+
+The registry contains negatively charged candidates such as:
+
+* Prediction Sovereignty;
+* Generative Admission Restriction;
+* Unmeasured-to-Zero Conversion;
+* Baseline Exemption;
+* Reconstruction Bypass;
+* Contest-to-Defeat Compression.
+
+This creates pressure to diagnose Grant through sparse and mostly reported evidence.
+
+The corrected extraction withholds those assignments.
+
+---
+
+### 9.2 Dig-family / actor-operator conflation
+
+The prior Stage 4 risked treating a completed analytic family as proof that an actor performed every component.
+
+The corrected restriction is:
+
+> A completed dig-level audit family must not be treated as a fully demonstrated actor operator merely because Stage 3 identified the missing components needed to complete it.
+
+Direct performance, later repair, and omission-derived requirements remain separately labeled.
+
+---
+
+### 9.3 Historical-family inflation
+
+The prior labels “Conceptual Independence Audit” and “Conceptual Re-establishment Audit” overstated what occurred.
+
+What occurred:
+
+* attribution challenge;
+* concession;
+* revised synthesis proposal;
+* prevention of continued false attribution.
+
+What did not occur:
+
+* independent proof of the revised thesis.
+
+The family is therefore named:
+
+**Historical Attribution and Synthesis-Repair Audit**
+
+---
+
+### 9.4 Probability-family inflation
+
+The prior Stage 4 included evidence-source and evidence-quality operations inside the demonstrated probability family.
+
+Those operations were not performed.
+
+The demonstrated family is limited to:
+
+**Ex Ante–Ex Post Probability Audit**
+
+Observation/testimony, fraud, and error analysis remain A1 completion requirements.
+
+---
+
+### 9.5 Forced-commitment / live-option conflation
+
+The son-height issue and the God-option issue were previously brought too close together.
+
+They concern different questions:
+
+* son-height: what counts as “faith”;
+* God-option: whether God is live, forced, momentous, or warranted.
+
+The corrected extraction places them in different families.
+
+---
+
+### 9.6 Symmetry overmapping
+
+“Sometimes or all times?” tests scope.
+
+It does not demonstrate:
+
+* reversed roles;
+* reciprocal burden;
+* identical standards for competing frameworks.
+
+The mapping to **Symmetry Testing of Standards** was therefore withdrawn.
+
+---
+
+### 9.7 Source asymmetry
+
+Ziggy provides extensive direct material.
+
+Grant provides limited direct material.
+
+Fine-grained claims about Grant therefore require stricter quarantine than claims about Ziggy.
+
+---
+
+### 9.8 Asymmetric charity
+
+Ziggy’s arguments could be reconstructed through their strongest intention while Grant’s reported views could be reduced to crude formulations.
+
+The strongest recoverable Grant position remains:
+
+> Belief should track assessed evidence and likelihood. Acting under ordinary uncertainty does not license adopting weakly supported propositions, and calling ordinary uncertain action “faith” may import religious connotations without providing additional explanatory value.
+
+This is a charitable reconstruction, not verified Grant-direct wording.
+
+---
+
+### 9.9 Counterexample-repair uncertainty
+
+The son-height sequence supports two live readings:
+
+1. legitimate clarification of implicit criteria;
+2. post-counterexample protection.
+
+The bounded source does not discriminate decisively.
+
+---
+
+### 9.10 Historical-name laundering
+
+Redistributing an idea among Hume, Kierkegaard, and James can produce an appearance of philosophical pedigree without establishing coherence.
+
+The revised synthesis remains unvalidated.
+
+---
+
+### 9.11 Auxiliary recurrence contamination
+
+Side branches were prevented from proving stable primary operators.
+
+Specifically excluded as primary recurrence evidence:
+
+* technological archaeology;
+* physical constants;
+* *Jesus Wars*;
+* Christian-group compression.
+
+---
+
+### 9.12 Possibility-preservation motivation
+
+Ziggy’s preservation of possibility may reflect:
+
+* disciplined openness;
+* attachment to a preferred possibility;
+* logical caution;
+* resistance to premature pruning.
+
+The operation is demonstrated; the dominant motivation is `UNKNOWN`.
+
+---
+
+### 9.13 Profile inflation
+
+A packet-local demonstrated move is not automatically:
+
+* a global personality trait;
+* a stable cognitive operator;
+* a cross-context epistemic profile;
+* a relationship strategy.
+
+Every profile claim retains a review condition.
+
+---
+
+### 9.14 Completion-patch compliance
+
+This packet applies the supplied Stage-4 completion patch, including the corrected historical family, narrowed probability family, dig-level/actor-level separation, forced-commitment reconsolidation, and symmetry-mapping correction. 
+
+---
+
+## 10. Final Archival Disposition
+
+### Primary dig-level audit families and candidate procedures
+
+1. Concept–Label–Sense and Extension Audit
+2. Belief–Credence–Action–Commitment Audit
+3. Residual-Uncertainty and Decision-Rule Audit
+4. Practical–Ontological Bridge Audit
+5. Possibility–Likelihood–Live-Option Audit
+6. Ex Ante–Ex Post Probability Audit
+7. Historical Attribution and Synthesis-Repair Audit
+
+### Auxiliary dig-level family
+
+8. Model-as-Tool and Frame-Jurisdiction Audit
+
+### Strongest named registry match
+
+**Possibility Preservation**
+
+Applies locally to:
+
+* Ziggy’s preservation of God as an option;
+* the low-probability raffle outcome.
+
+Restrictions:
+
+* possibility does not establish plausibility;
+* plausibility does not establish live-option status;
+* live-option status does not establish warranted belief;
+* impartial application remains `UNKNOWN`.
+
+### Packet-level relation
+
+**Contested ≠ Defeated**
+
+Applied only to the Hume repair:
+
+* the failed attribution does not automatically defeat every broader question;
+* retaining the broader question does not validate the revised thesis.
+
+### Idea-Trail-level named match
+
+**Cross-Disciplinary Swooping**
+
+Applied descriptively to the physical-constants analogy only.
+
+### Negative registry candidates withheld
+
+No actor-level promotion for:
+
+* Prediction Sovereignty
+* Universalized Evaluative Jurisdiction
+* Generative Admission Restriction
+* Unmeasured-to-Zero Conversion
+* Possibility Compression
+* Baseline Exemption
+* Reconstruction Bypass
+* Contest-to-Defeat Compression
+
+### Direct Ziggy seeds retained
+
+* semantic bridge-building;
+* functional reframing;
+* concept/label and sense separation;
+* disambiguation rescue;
+* model instrumentalism;
+* frame-jurisdiction questioning;
+* possibility preservation;
+* local scope testing;
+* belief/action boundary pressure.
+
+### Direct Grant seeds retained
+
+* historical-attribution testing;
+* definitional-extension testing.
+
+### Reported Grant material retained with restriction
+
+* terminological restraint concerning “faith”;
+* assessed likelihood guiding belief.
+
+No broad Grant evidentialist or anti-religious profile.
+
+### Nova/co-constructed developments retained
+
+* later belief/credence/action/commitment separation;
+* later practical/ontological separation;
+* ex ante/ex post clarification;
+* conceptual amplification followed by post-challenge repair.
+
+These later developments must not be backdated.
+
+### A1 completion requirements retained
+
+* independent post-Hume re-establishment;
+* observation/testimony distinction in the raffle;
+* explicit Grant credence threshold;
+* nonpropositional action;
+* alternatives to the God/brute-fact/ignorance trilemma;
+* function of Grant’s external-AI material;
+* literal reverse-role test;
+* definition freeze before counterexample scoring;
+* complete decision-theoretic comparison before invoking faith;
+* full “choose God” disambiguation;
+* systematic live-option qualification;
+* complete practical-to-ontological bridge analysis;
+* explanatory-gain versus communicative-cost scoring before semantic escalation.
+
+### Role and protocol findings retained
+
+* Nova as Conceptual Amplifier;
+* Nova as Post-Challenge Repairer;
+* Nova as amplifier–repairer;
+* Ziggy’s compression and comparison preference;
+* Grant’s External-AI Adjudication Attempt.
+
+### Idea Trails retained
+
+* explanatory termini;
+* physical-constants analogy;
+* raffle evidence-source question;
+* “choose God” disambiguation;
+* faith’s possible explanatory remainder;
+* independent post-Hume conceptual thesis.
+
+### Final restriction
+
+> The seven families are completed dig-level analytic procedures. Their presence in the final audit does not prove that Ziggy, Grant, or Nova performed every component. Directly demonstrated operations, later co-constructed repairs, and omission-derived completion requirements must remain separately labeled.
+
+### Final packet judgment
+
+The bounded thread supports a narrower and more disciplined account than the earliest argument implied:
+
+* Ziggy repeatedly reframes concepts, separates labels from phenomena, presses scope, and preserves possibilities.
+* Grant directly tests historical attribution and definitional extension.
+* Nova amplifies Ziggy’s early intuition, introduces overconfident formulations, and later repairs them through distinctions that were needed earlier.
+* The conversation eventually separates belief, action, practical commitment, probability, possibility, and ontology, but many of those separations are later repairs rather than original actor operations.
+* The failure of the Hume attribution leaves the conceptual question open; it does not independently establish the repaired thesis.
+* Human action may proceed under residual uncertainty, but that fact alone does not establish that every action is faith, that religious commitment is warranted, or that God grounds practical agency.
+==============
+
+# PANHANDLERS DIG — FINAL STAGE-4 TIER-LEDGER CORRECTION
+
+## Confirmed A3 Omission-Derived Completion Requirements
+
+These operations were demonstrated later in the bounded conversation and were therefore available earlier for Nova or the co-constructed conversation:
+
+1. Earlier belief-threshold versus action-threshold separation.
+2. Incomplete evidence versus inadequate evidence.
+3. Definition freeze before the son-height counterexample was scored.
+4. Universal uncertainty versus trivialization of “faith.”
+5. Practical-to-ontological bridge analysis.
+6. Decision-theoretic alternatives before invoking “faith.”
+7. Full disambiguation of “choose God.”
+8. Logical possibility versus live-option qualification.
+9. Strongest reconstruction of Grant’s recoverable position.
+10. Explanatory gain versus communicative cost of retaining “faith,” later partially repaired.
+
+These are completed dig-level requirements.
+
+They must not automatically be treated as demonstrated Ziggy, Grant, or Nova operators merely because the completed audit now contains them.
+
+## A1 Possible Completion Requirements
+
+These operations would have been useful, but their relevant forms were not demonstrated elsewhere in the bounded conversation:
+
+1. Independent post-Hume re-establishment of the surviving conceptual thesis.
+2. Direct observation versus testimony in the raffle.
+3. Grant’s explicit probability or credence threshold.
+4. Reciprocal evidential-burden testing between theism and a positive rival framework.
+5. Action without propositional belief, including habit, reflex, embodied skill, and automatic response.
+6. Alternatives to the God/brute-fact/ignorance trilemma.
+7. Classification of Grant’s external-AI material as argument, evidence, authority, summary, or rhetorical support.
+8. A literal reverse-role semantic test.
+
+## A0 / UNKNOWN Material
+
+The following remain unavailable within the bounded source and must not be treated as omission-derived completion requirements:
+
+### Grant’s classification of God
+
+* live;
+* dead;
+* forced;
+* momentous;
+* psychologically available;
+* practically unavoidable.
+
+**Status:** `UNKNOWN`
+
+### Additional unavailable material
+
+* Grant’s complete evidential theory — `UNKNOWN`
+* Grant’s complete decision theory — `UNKNOWN`
+* Grant’s positive definition of faith — `UNKNOWN`
+* Whether categorical belief is directly voluntary — `UNKNOWN`
+
+No adverse conclusion may be drawn from these absences.
+
+## Mixed-Family Tier Clarifications
+
+### Belief–Credence–Action–Commitment Audit
+
+**Confirmed A3 repair**
+
+* Earlier belief-threshold versus action-threshold separation.
+
+**Possible A1 extension**
+
+* Testing nonpropositional action, including habit, reflex, embodied skill, and automatic response.
+
+---
+
+### Ex Ante–Ex Post Probability Audit
+
+**Demonstrated**
+
+* Prior expectation versus later acceptance.
+* Improbability versus impossibility.
+* Surprise does not itself refute an established outcome.
+
+**Possible A1 extension**
+
+* Direct observation versus testimony.
+* Source reliability.
+* Official record versus personal report.
+* Fraud.
+* Measurement error.
+* Procedural error.
+* Effects of evidence quality on posterior belief.
+
+---
+
+### Possibility–Likelihood–Live-Option Audit
+
+**Confirmed A3 repairs**
+
+* Logical possibility versus live-option status.
+* Full disambiguation of “choose God.”
+
+**Unavailable datum**
+
+* Grant’s actual classification of God remains `UNKNOWN`.
+
+The completed audit may distinguish logical possibility, plausibility, psychological liveliness, practical availability, forced choice, and momentousness without claiming to know where Grant places God within those categories.
+
+## Final Archive Status
+
+**Archive record**
+
+`DIG_COMPOUND_13_faith_uncertainty_evidence_and_action`
+
+**Status**
+
+`COMPLETE`
+
+**Preserved archival rule**
+
+> The seven families are completed dig-level analytic procedures. Directly demonstrated operations, later co-constructed repairs, confirmed A3 omissions, possible A1 extensions, and unavailable A0 material must remain separately labeled.
 
 ---
 
