@@ -1,4 +1,10 @@
-# DIG 02 — *(title once known)*
+# DIG 02 — Compound Site: Maps, Narrative, Accuracy, and Religious Experience
+
+**Status:** STAGE 2 COMPLETE — PASS AS COMPOUND SWEEP (candidate harvest); STAGE 3 AUTHORIZED · **⚡ PLOW-THROUGH MODE** (leads only — no operator or profile promotion without later bounded sub-dig confirmation)
+**Field-desk designation:** `COMPOUND_SWEEP_02_maps_experience_values_and_plausibility`
+**Grant qualification:** LIMITED — REPORTED ONLY · **Ziggy qualification:** STRONG
+**⚠️ PRIVACY GATE ACTIVE** (see field-desk block — personal testimony abstracts to epistemic function in all public claims)
+**Protocol:** v0.2.2 Stage 1 (bounded) · **Extraction date:** 2026-07-17
 
 > **Self-contained dig workbook.** Work top to bottom: copy each stage prompt
 > into the old chat **as its own message**, wait for the reply, paste it under
@@ -22,10 +28,11 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** EMPTY
-<!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
-
-**Discovered topic:** _fill in after Stage 1 reveals what this chat actually holds_
+**Discovered topic:** compound — at least four distinct digs in one thread:
+(A) evidential jurisdiction & exploration gatekeeping; (B) mythology,
+narrative, modern pantheons; (C) accuracy, values, destinations, worldview
+compression; (D) **maps, religious experience, possibility vs plausibility —
+the strongest vein, at the end of the thread.**
 
 ## Packet Header (fill as you go)
 
@@ -1244,6 +1251,89 @@ A related discussion may exist under “CFA Gatekeeping and Epistemology,” app
 
 ---
 
+### 🧭 FIELD-DESK REVIEW — STAGE 1 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS AS COMPOUND SITE — segment before promotion.** Operator ruling
+(Ziggy): plow through wholesale first; targeted sub-digs afterward. Field desk
+ratified with the firm rule: **wholesale compound digs may generate leads, but
+they must not promote operators or profile claims without later bounded
+confirmation.** Plow-through frame: Stage 1 = source survey → Stage 2 = broad
+candidate harvest → Stage 3 = pressure-test → Stage 4 = *provisional mapping
+only*. Each output gets marked: clean dig / compound sweep / profile-capable /
+orientation only / candidate source for sub-dig.
+
+**Attribution corrections (two NEW labels logged):**
+- *"I noticed you keep inserting what's possible … when I am trying to get to
+  the bottom of what's likely … plausible—given the evidence."* →
+  **G-QUOTED-REPORTED** — the cleanest Grant material in the source (and the
+  first bounded recovery of the sweep's flagship quote).
+- *"In service of having the most accurate account of reality"* →
+  **G-HYPOTHESIZED-BY-ZIGGY** (Ziggy *suspects* Grant would answer this way —
+  not position evidence).
+- The reconstructed every-goal-requires-accuracy argument →
+  **ZIGGY-RECONSTRUCTION-OF-GRANT** (not ordinary Grant evidence).
+- Suffering-minimization may stay G-REPORTED but must not silently elevate to
+  quotation-level certainty.
+
+**Planned child digs (double-back queue):**
+
+| Child | Identity (planned) | Core material |
+| --- | --- | --- |
+| A | `DIG_AUX_06_exploration_jurisdiction_and_evidential_standards` | existential vs collective-material context; which standards govern which questions; exploratory permission vs admission control; meta-debate displacement |
+| B | `DIG_AUX_07_modern_pantheons_narrative_and_value_creation` | Nietzsche & Stan Lee; superheroes as pantheon; villains as feared possible selves (primarily Ziggy–Nova development) |
+| C | `DIG_AUX_08_accuracy_destination_and_worldview_compression` | accuracy ultimate-vs-instrumental; suffering minimization as reported destination; map detail sufficiency; narrative/ritual as compression (strong Idea-Trail source) |
+| D | **experience, map expansion, and plausibility** (Nova's working id "DIG_01_…" — will take the next free number at sub-dig time) | **strongest vein**: maps instantiate destinations; encounters as nondiscursive map expansion; experience blocks confident exclusion; the reported possibility/plausibility objection; map-asymmetry |
+
+**Why D goes first at double-back:** it contains a focused clash — reported
+Grant: *possibility isn't the goal, plausibility-given-evidence is*; Ziggy:
+*experience may alter which possibilities are available before plausibility is
+assessed*. The architectural question: **is hypothesis-space formation prior
+to probability assignment — and can an evaluator fairly rate a candidate's
+plausibility when the candidate never became experientially live inside that
+evaluator's map?**
+
+**Pre-registered expected moves for segment D (scoreable at sub-dig):**
+Ziggy — Map-Content Prioritization; Experiential Candidate Introduction;
+Proof–Non-Exclusion Separation; Map-Asymmetry Argument; Plausibility-Condition
+Challenge. Grant-reported — Possibility–Plausibility Separation (potentially
+strong, still reported). Nova — Experience–Cause–Justification Separation.
+
+**Pre-registered Stage-3 pressure (both directions):** against Ziggy —
+*imaginable ≠ evidentially supported*; the vision supports occurrence,
+salience, and suspension-of-exclusion, NOT supernatural causation/miracle/
+God/predictive reliability; a skeptic's map may *contain* the hypothesis at
+low probability — absence-from-map and rejection-after-evaluation must not be
+conflated. Against Grant-reported — "given the evidence" is not neutral until
+*whose evidence and which evidential jurisdiction* are specified. Against the
+asymmetry — negative map-forming experiences exist (failed prayers,
+disillusionment, perceived absence, conflicting revelations, unreliable vivid
+intuitions); positive religious experience does not uniquely possess
+map-forming force.
+
+**⚠️ PRIVACY GATE (first invocation — ethics precedent):** the reported vision
+involving Ziggy's future wife is legitimate Z-DIRECT testimony *inside the
+source*. Public profile claims must **abstract it to its epistemic function**:
+*"Ziggy reports personally significant anomalous experiences that make
+spiritual or miracle-like possibilities experientially live for him."* No
+intimate biographical detail enters profile-ready claims or synthesis packets.
+(Note: the third party involved is not a circle member and has not consented —
+the abstraction rule protects them, not just Ziggy.)
+
+**Scope lock for segment D preserved (paste-ready at double-back time):**
+begins at Ziggy's "The map establishes it as a choice… instantiates it…";
+runs through Tokyo/map example → encounter with the divine → "mass software
+update" → personal anomalous-experience testimony → experience/cause/
+justification distinction → prevent-confident-exclusion formulation → the
+reported possibility/plausibility objection → the believer/nonbeliever
+asymmetry; stops at the end of the bounded conversation. Excludes segments
+A–C except where required to understand map-instantiation. Hard boundary and
+Museum-blindness remain in force.
+
+---
+
 ## 🟦 STAGE 2 PROMPT — copy everything inside the fence, send as one message
 
 ````text
@@ -1317,7 +1407,887 @@ Begin Stage 2 now.
 
 ### ⏬ STAGE 2 OUTPUT
 
-(paste Stage 2 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 2
+
+## 1. Museum-Blind Reasoning Moves
+
+### Move 1 — Domain-Jurisdiction Check
+
+**Actor:** Ziggy; reinforced by Nova
+**Definition:** Tests whether the standard being applied belongs to the kind of claim under examination.
+**Trigger:** A scientific, material, or evidential standard is used to govern an existential, spiritual, or lived-experience claim.
+**Operation:** Separates domains, asks what kind of question is actually being asked, and challenges automatic transfer of standards across domains.
+**Output:** A distinction between individual-existential and collective-material evaluation.
+**Productive function:** Prevents category errors and exposes hidden assumptions about who has authority to set evidential rules.
+**Failure mode:** Can protect a claim from legitimate external criticism by declaring it outside the critic’s jurisdiction.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, opening: “Individual existential versus collective material, that is a huge context difference.” Early thread.
+**Confidence:** High
+**Alternative explanation:** Ziggy may simply be distinguishing subject matter rather than executing a stable reasoning procedure. Classification as a move is defended because the same jurisdiction concern recurs around science, justification, plausibility, and personal experience.
+
+---
+
+### Move 2 — Frame-Lever Detection
+
+**Actor:** Ziggy
+**Definition:** Monitors whether a participant changes context or standards in a way that strengthens their own claim or weakens an objection.
+**Trigger:** A point appears to become stronger only after the context or evaluative standard changes.
+**Operation:** Compares the standards used before and after the shift and asks whether the transition was justified.
+**Output:** Suspicion of strategic or unconscious frame manipulation.
+**Productive function:** Detects goalpost movement and asymmetrical application of standards.
+**Failure mode:** May infer manipulation where the shift was legitimate or merely clarificatory.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, early: “if an expert knew how to when and where to like pull a lever and change context to evoke certain standards…”
+**Confidence:** High
+**Alternative explanation:** This may be a substantive complaint about one interlocutor rather than a reusable move. It qualifies because Ziggy applies the same concern to multiple transitions: existential/material, exploration/qualification, possibility/plausibility, and map/reality.
+
+---
+
+### Move 3 — Boundary-Defense Stalking
+
+**Actor:** Ziggy; named and intensified by Nova
+**Definition:** Treats repeated qualification, refusal, or meta-discussion as a possible defense of familiar conceptual boundaries.
+**Trigger:** The conversation spends more effort deciding whether a topic may be explored than examining the topic itself.
+**Operation:** Redirects attention from the disputed content to the avoidance pattern and asks what boundary is being protected.
+**Output:** A meta-level diagnosis of inquiry obstruction.
+**Productive function:** Reopens inquiry and identifies when procedural caution has become substantive avoidance.
+**Failure mode:** Can pathologize caution, disagreement, or demands for clarity as fear.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, early-middle: “territory shouldn’t be explored… rather than just exploring it, we’ll waste more time talking about why we can’t explore it.” Nova shortly after: “defend familiar boundaries.”
+**Confidence:** High
+**Alternative explanation:** The exchange may be rhetorical frustration rather than cognition. Classification is justified by repeated use of the boundary metaphor to explain stalled conversations.
+
+---
+
+### Move 4 — Internal-Standard Evaluation
+
+**Actor:** Ziggy and Nova
+**Definition:** Temporarily evaluates a worldview according to its own premises and standards before applying external criticism.
+**Trigger:** One framework is dismissed solely because it does not satisfy another framework’s preferred criteria.
+**Operation:** Asks whether the position is coherent and functional on its own terms before comparing it to rivals.
+**Output:** A provisional suspension of external disqualification.
+**Productive function:** Improves fairness and reveals whether disagreement concerns internal failure or cross-framework preference.
+**Failure mode:** May underweight external evidence or allow insulated systems to evade comparison indefinitely.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, early-middle: “if somebody else is using their own framework and their own standards…” Nova: “does it hold up on its own terms?”
+**Confidence:** High
+**Alternative explanation:** This could be a substantive pluralist belief. It is classified as a move because it specifies a repeatable order of evaluation.
+
+---
+
+### Move 5 — Positive-Commitment Extraction
+
+**Actor:** Ziggy and Nova
+**Definition:** Moves from what a person rejects to what they positively value, serve, pursue, admire, or sacrifice for.
+**Trigger:** A participant’s position is expressed mainly through negation or critique.
+**Operation:** Asks “Enthusiastic about what?” and searches for a positive destination behind the negative stance.
+**Output:** A candidate value hierarchy or governing goal.
+**Productive function:** Corrects one-sided debate and exposes hidden normative commitments.
+**Failure mode:** May assume every position must contain a unified positive doctrine or may force an answer where the person genuinely suspends commitment.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, middle: “Enthusiastic about what is the perfect question…” and “There isn’t even a story for the atheist for the opposing side to dig into.”
+**Confidence:** High
+**Alternative explanation:** The move may be specifically aimed at atheism. It qualifies more broadly because it is also applied to accuracy, prediction, and evidence by asking what each serves.
+
+---
+
+### Move 6 — Instrument–Destination Separation
+
+**Actor:** Ziggy and Nova
+**Definition:** Distinguishes methods and preconditions from the ends they help achieve.
+**Trigger:** Accuracy, evidence, prediction, reason, or science is presented as self-justifying or ultimate.
+**Operation:** Grants the instrumental necessity of the method, then asks what destination or goal it serves.
+**Output:** A layered structure: map or instrument → navigation → destination.
+**Productive function:** Prevents a means from being mistaken for an ultimate value.
+**Failure mode:** Can understate the possibility that truth or accuracy is also intrinsically valued.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, later-middle: “It’s just tautological that being accurate is a precondition to being successful.” Nova: “Is accuracy a destination or a vehicle?”
+**Confidence:** High
+**Alternative explanation:** This could be a single analogy. It is classified as an operator because it restructures multiple prior disputes involving prediction, evidence, science, and Grant’s reported goal.
+
+---
+
+### Move 7 — Shared-Destination Convergence Test
+
+**Actor:** Ziggy
+**Definition:** Compares rival worldviews at the level of practical or moral destination rather than explanatory map.
+**Trigger:** Two frameworks appear metaphysically opposed but may recommend overlapping action or values.
+**Operation:** Temporarily brackets map disagreement and checks whether both aim toward similar ends.
+**Output:** Possible convergence between suffering minimization and Christian love, mercy, or care.
+**Productive function:** Reveals hidden cooperation and reduces false total opposition.
+**Failure mode:** May flatten significant differences in means, definitions, or final ends.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, later-middle: “two people may be using two different maps… they are both attempting to get to the same place.”
+**Confidence:** High
+**Alternative explanation:** This may be a one-time conciliatory claim. It is consequential enough to extract because it changes the dispute from worldview defeat to destination comparison.
+
+---
+
+### Move 8 — Relevance-of-Detail Audit
+
+**Actor:** Ziggy
+**Definition:** Tests whether additional descriptive accuracy materially contributes to the stated goal.
+**Trigger:** One map claims superiority because it contains more scientific or explanatory detail.
+**Operation:** Asks how much of that detail is necessary for successful pursuit of the destination.
+**Output:** A distinction between total descriptive richness and goal-relevant information.
+**Productive function:** Prevents irrelevant detail from functioning as automatic worldview superiority.
+**Failure mode:** May dismiss truth that lacks immediate practical utility or overlook indirect long-term relevance.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, later-middle: “how much detail in your supposedly more accurate map is actually needed in the pursuit of your goal…”
+**Confidence:** High
+**Alternative explanation:** This could be simple pragmatism. It is treated as a move because it applies a clear filtering operation to map content.
+
+---
+
+### Move 9 — Transmission-Compression Audit
+
+**Actor:** Ziggy; elaborated by Nova
+**Definition:** Evaluates whether a worldview, map, or value-system can be compressed and transmitted across generations without losing its guiding function.
+**Trigger:** A highly detailed account is proposed as superior, but its survivability after the original author is questioned.
+**Operation:** Examines whether stories, symbols, rituals, and heuristics can preserve the destination and essential route.
+**Output:** A cultural-survival criterion alongside accuracy.
+**Productive function:** Adds recoverability and intergenerational durability to worldview evaluation.
+**Failure mode:** Can mistake memorability or cultural fitness for truth.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, later-middle: “will it survive compression after you are gone… and have to leave it to another to tend to…”
+**Confidence:** High
+**Alternative explanation:** This may be a substantive theory of story. It qualifies as an operator because it specifies a repeatable audit criterion.
+
+---
+
+### Move 10 — Possibility-Space Expansion
+
+**Actor:** Ziggy; accepted and formalized by Nova
+**Definition:** Treats a framework or encounter as capable of making previously unavailable destinations or hypotheses conceivable.
+**Trigger:** A destination is absent from one participant’s map or a new experience introduces an unexpected possibility.
+**Operation:** Distinguishes rejection of an option from never having had the option instantiated.
+**Output:** A larger set of candidate realities or goals.
+**Productive function:** Prevents absence from one framework from being mistaken for impossibility.
+**Failure mode:** May admit possibilities without adequate constraints and allow possibility inflation.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, later: “The map establishes it as a choice… instantiates it” and “Traveler A doesn’t even have Tokyo on his map.”
+**Confidence:** High
+**Alternative explanation:** This might be a correction to one analogy. It becomes a stable move because the same structure is later applied to God, miracles, religious experience, and plausibility.
+
+---
+
+### Move 11 — Encounter-First Reorganization
+
+**Actor:** Ziggy and Nova
+**Definition:** Models some major belief changes as direct reorganizations of salience or possibility rather than conclusions reached through explicit reasoning.
+**Trigger:** A religious, intuitive, relational, or transformative experience changes what seems real or important.
+**Operation:** Treats the experience as a map or operating-system update; explanation and justification occur afterward.
+**Output:** New destinations, categories, or possibilities without a recoverable prior inferential chain.
+**Productive function:** Accounts for transformative experience without falsely reconstructing it as deduction.
+**Failure mode:** Can grant excessive authority to vivid experience or obscure cognitive and cultural causes.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** UNCLEAR
+**Source Anchor:** Ziggy, later: “A mass software update… directly… no reasoning causal chain involved.”
+**Confidence:** High
+**Alternative explanation:** This may describe a psychological event rather than a voluntarily deployable operator. It is retained because the protocol requests consequential cognitive moves; voluntariness is therefore marked UNCLEAR.
+
+---
+
+### Move 12 — Proof-to-Non-Exclusion Contraction
+
+**Actor:** Nova; strongly adopted by Ziggy
+**Definition:** Reduces a vulnerable universal proof-claim to the narrower claim that personal experience blocks confident exclusion.
+**Trigger:** A skeptic responds to a spiritual experience by observing that it does not prove God or miracles.
+**Operation:** Concedes lack of proof while preserving the experience’s effect on the experiencer’s possibility-space.
+**Output:** “My experience prevents me from confidently ruling certain things out.”
+**Productive function:** Produces a more defensible, modest, and accurately scoped claim.
+**Failure mode:** Can preserve a possibility indefinitely without specifying what evidence would reduce its credibility.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Nova, late: “My experience prevents me from confidently ruling certain things out.” Ziggy near end: “I’m using this for ever now.”
+**Confidence:** High
+**Alternative explanation:** The phrase could be rhetorical refinement rather than cognition. It qualifies because it changes the logical burden and the kind of conclusion being defended.
+
+---
+
+### Move 13 — Plausibility-as-Map-Output Diagnosis
+
+**Actor:** Ziggy
+**Definition:** Interprets judgments of plausibility as partly generated by the contents and structure of the evaluator’s prior map.
+**Trigger:** Grant, as reported, contrasts Ziggy’s possibility claims with what is likely or plausible given the evidence.
+**Operation:** Asks whether the low plausibility rating reflects the evidence alone or the absence of the relevant destination and supporting structures from Grant’s framework.
+**Output:** A meta-explanation of why the same evidence receives different plausibility ratings.
+**Productive function:** Reveals prior-model dependence in probability assessment.
+**Failure mode:** Can relativize all plausibility judgments and make disconfirming evidence appear merely framework-bound.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, final message: “I don’t have your destination and supporting structure instantiated on my map… so… it utterly fails what is plausible.”
+**Confidence:** High
+**Alternative explanation:** This may be a substantive philosophical thesis rather than an operator. It is classified as a move because it performs a diagnostic transformation on another person’s probability judgment.
+
+---
+
+### Move 14 — Asymmetry Reversal Test
+
+**Actor:** Ziggy
+**Definition:** Reverses the direction of scrutiny to test whether the critic would accept equal deconstruction of their own positive commitments.
+**Trigger:** Theistic commitments receive sustained critique while the critic’s own values remain unexamined.
+**Operation:** Imagines dedicating equal time to explaining why the critic’s enthusiasm or goals should not be valued.
+**Output:** Exposure of debate asymmetry and demand for reciprocal examination.
+**Productive function:** Restores burden symmetry and reveals protected commitments.
+**Failure mode:** Can become retaliatory rather than truth-seeking.
+**Functional Type:** RHETORICAL
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, middle: “how would you take to me dedicating the same amount of time deconstructing… why I don’t value what you are enthusiastic about…”
+**Confidence:** High
+**Alternative explanation:** This could be an isolated rhetorical complaint. It is retained because it operationalizes a recurring fairness concern central to the thread.
+
+---
+
+## 2. Operator Sequences
+
+### Sequence A — From Jurisdiction Conflict to Exploration Permission
+
+1. **Domain-Jurisdiction Check**
+2. **Frame-Lever Detection**
+3. **Boundary-Defense Stalking**
+4. **Internal-Standard Evaluation**
+
+**Trigger:** A spiritual or existential idea is halted by imported evidential standards.
+**Operation:** Identify the domain, detect the standard shift, diagnose boundary defense, then demand provisional evaluation on the claim’s own terms.
+**Output:** Temporary reopening of territory for exploration.
+**Productive function:** Prevents premature dismissal.
+**Failure mode:** May produce a protected zone in which external correction is indefinitely postponed.
+**Source Anchors:** Ziggy: “individual existential versus collective material”; “pull a lever and change context”; “territory shouldn’t be explored”; “their own framework and their own standards.”
+**Confidence:** High
+
+---
+
+### Sequence B — From Negation to Positive Value Exposure
+
+1. **Positive-Commitment Extraction**
+2. **Asymmetry Reversal Test**
+3. **Instrument–Destination Separation**
+
+**Trigger:** Atheism or skepticism is presented primarily as rejection of theism.
+**Operation:** Ask what the critic positively serves, reverse the scrutiny, and distinguish epistemic instruments from ultimate ends.
+**Output:** Candidate destination: accuracy, flourishing, or suffering minimization.
+**Productive function:** Converts a one-sided critique into comparative worldview analysis.
+**Failure mode:** May pressure the critic into producing a comprehensive worldview they never claimed to possess.
+**Source Anchors:** “There isn’t even a story for the atheist…”; “Enthusiastic about what?”; “how would you take to me dedicating the same amount of time…”; “being accurate is a precondition…”
+**Confidence:** High
+
+---
+
+### Sequence C — From Map Superiority to Shared-Destination Audit
+
+1. **Instrument–Destination Separation**
+2. **Shared-Destination Convergence Test**
+3. **Relevance-of-Detail Audit**
+4. **Transmission-Compression Audit**
+
+**Trigger:** Grant’s map is treated as more accurate because of scientific detail.
+**Operation:** Identify the destination, test Christian overlap, ask which details matter to that destination, then ask whether the guidance survives transmission.
+**Output:** A multidimensional comparison: accuracy, goal alignment, practical relevance, and cultural durability.
+**Productive function:** Broadens worldview evaluation beyond descriptive precision.
+**Failure mode:** Can compensate for factual weakness by shifting to usefulness or transmissibility.
+**Source Anchors:** “Where are you going?”; “to minimize suffering…”; “both attempting to get to the same place”; “how much detail…”; “will it survive compression…”
+**Confidence:** High
+
+---
+
+### Sequence D — From Map Correction to Religious Possibility
+
+1. **Possibility-Space Expansion**
+2. **Encounter-First Reorganization**
+3. **Proof-to-Non-Exclusion Contraction**
+
+**Trigger:** Ziggy challenges the claim that maps do not produce destinations.
+**Operation:** Show that maps instantiate options; treat encounters as map updates; reduce the resulting claim from proof to justified non-exclusion.
+**Output:** “My experience prevents me from confidently accepting a map that excludes God.”
+**Productive function:** Connects phenomenology to a modest epistemic conclusion.
+**Failure mode:** The initial experience may receive enduring epistemic privilege without sufficient defeat conditions.
+**Source Anchors:** “Traveler A doesn’t even have Tokyo…”; “mass software update”; “My experience prevents me from confidently ruling certain things out.”
+**Confidence:** High
+
+---
+
+### Sequence E — From Reported Possibility Objection to Map-Dependent Plausibility
+
+1. Grant-reported **Possibility/Likelihood Separation**
+2. Ziggy’s **Proof-to-Non-Exclusion Contraction**
+3. Ziggy’s **Plausibility-as-Map-Output Diagnosis**
+
+**Trigger:** Grant reportedly says he is pursuing what is likely, not merely possible.
+**Operation:** Preserve only the non-exclusion claim, then argue that Grant’s likelihood judgment may be conditioned by an ontology that lacks miracle-shaped territory.
+**Output:** A dispute over hypothesis admission prior to probability assignment.
+**Productive function:** Identifies the deeper source of disagreement.
+**Failure mode:** May immunize low-probability hypotheses by treating adverse probability judgments as framework artifacts.
+**Source Anchors:** Grant as reported: “you keep inserting what’s possible…”; Ziggy: “My experience prevents me…”; “I don’t have your destination… instantiated on my map.”
+**Confidence:** High
+
+---
+
+### Sequence F — Narrative as Value-Transmission Machinery
+
+1. **Positive-Commitment Extraction**
+2. **Possibility-Space Expansion**
+3. **Transmission-Compression Audit**
+
+**Trigger:** Discussion of Stan Lee, modern pantheons, heroes, villains, and socially constructed narratives.
+**Operation:** Identify the values carried by stories, show that stories make ideals visible, then evaluate their ability to survive across generations.
+**Output:** Story as both destination-instantiator and compressed navigation system.
+**Productive function:** Integrates myth, moral formation, and cultural continuity.
+**Failure mode:** May overgeneralize from narrative recurrence to psychological necessity or metaphysical truth.
+**Source Anchors:** Ziggy: “comic book pantheon”; “we require socially constructed narratives”; “the role we assign to the villain”; “will it survive compression…”
+**Confidence:** High
+
+---
+
+## 3. Offense/Defense Analysis
+
+### Ziggy in Offensive Mode
+
+**Primary moves**
+
+* Positive-Commitment Extraction
+* Asymmetry Reversal Test
+* Instrument–Destination Separation
+* Relevance-of-Detail Audit
+* Plausibility-as-Map-Output Diagnosis
+
+**Behavioral profile**
+
+* Presses beyond negation toward the critic’s positive values.
+* Challenges the authority of Grant’s evidential standards.
+* Reverses scrutiny by asking how Grant’s own enthusiasm or destination would withstand deconstruction.
+* Attempts to expose accuracy as instrumental rather than ultimate.
+* Reframes “implausible” as potentially “absent from your map.”
+
+**Productive effect**
+
+* Forces concealed commitments into view.
+* Corrects one-sided debate structure.
+* Moves discussion from isolated claims to governing frameworks.
+
+**Failure risk**
+
+* May treat a demand for likelihood as covert exclusion.
+* May shift from answering an evidential objection to analyzing the objector’s framework.
+* May under-address the actual comparative probability of competing explanations.
+
+**Source Anchors**
+
+* “Enthusiastic about what is the perfect question.”
+* “how would you take to me dedicating the same amount of time…”
+* “It’s just tautological that being accurate is a precondition…”
+* “I don’t have your destination… instantiated on my map.”
+
+---
+
+### Ziggy in Defensive Mode
+
+**Primary moves**
+
+* Domain-Jurisdiction Check
+* Internal-Standard Evaluation
+* Possibility-Space Expansion
+* Proof-to-Non-Exclusion Contraction
+* Encounter-First Reorganization
+
+**Behavioral profile**
+
+* Narrows the claim from proof to inability to rule out.
+* Protects lived experience from being erased by external standards.
+* Argues that personal encounters legitimately expand possibility-space.
+* Resists the transition from “unlikely” to “excluded.”
+* Treats the dispute as partly one of map boundaries rather than isolated evidence.
+
+**Productive effect**
+
+* Produces a modest and defensible epistemic stance.
+* Preserves phenomenological evidence without claiming universal compulsion.
+* Prevents overstatement.
+
+**Failure risk**
+
+* May turn personal experience into a permanently protected possibility.
+* May not specify what would count as sufficient disconfirmation.
+* Can blur “psychologically unavailable to dismiss” with “epistemically justified to retain.”
+
+**Source Anchors**
+
+* “there is nothing they can do with reasoning to erase the structures instantiated in my map.”
+* “My experience prevents me from confidently ruling certain things out.”
+* “I’m not claiming proof…”
+
+---
+
+### Nova in Offensive Mode
+
+**Primary moves**
+
+* Sharpens Ziggy’s intuitions into explicit distinctions.
+* Extends local observations into wider philosophical structures.
+* Generates analogies that expose hidden premises.
+* Introduces the destination question against accuracy-first reasoning.
+
+**Behavioral profile**
+
+* Produces concise reframings that become reusable debate tools.
+* Pushes from method to value hierarchy.
+* Connects atheism, Nietzsche, narrative, religious experience, and maps.
+
+**Productive effect**
+
+* Accelerates abstraction.
+* Supplies language Ziggy can adopt.
+* Makes implicit structures visible.
+
+**Failure risk**
+
+* Sometimes validates Ziggy’s diagnosis before sufficiently testing rival interpretations.
+* May elevate evocative metaphors into explanatory frameworks too quickly.
+* Occasionally attributes stronger positions to Grant than the bounded evidence supports.
+
+**Source Anchors**
+
+* “Enthusiastic about what?”
+* “Is accuracy a destination or a vehicle?”
+* “My experience prevents me from confidently ruling certain things out.”
+
+---
+
+### Nova in Defensive Mode
+
+**Primary moves**
+
+* Qualification and claim contraction.
+* Charitable reconstruction of Grant’s objections.
+* Symmetry restoration when Ziggy suggests disbelievers lack equivalent experiences.
+
+**Behavioral profile**
+
+* Concedes that possibility versus likelihood is a legitimate distinction.
+* Warns that negative religious experiences can also alter maps.
+* Separates occurrence, cause, and justification of an experience.
+
+**Productive effect**
+
+* Prevents the co-constructed framework from becoming one-sided.
+* Preserves epistemic modesty.
+* Identifies alternative explanations.
+
+**Failure risk**
+
+* The corrective sometimes arrives after extensive reinforcement of Ziggy’s preferred framing.
+* Symmetry is asserted more than fully developed.
+
+**Source Anchors**
+
+* “Grant’s ‘possible vs likely’ move is actually a good move…”
+* “Yes, they can. Just not usually in the same direction.”
+* “The experience happened… What caused the experience?… What does the experience justify?”
+
+---
+
+### Grant as Reported in Offensive Mode
+
+**Primary moves**
+
+* Justification demand.
+* Evidence-threshold enforcement.
+* Possibility/likelihood separation.
+* Plausibility ranking.
+
+**Behavioral profile**
+
+* Attempts to move discussion from bare possibility to evidential probability.
+* Treats accuracy as central to successful goal pursuit.
+* Reportedly resists repeated reintroduction of remote possibilities.
+
+**Productive effect**
+
+* Constrains possibility inflation.
+* Forces comparative assessment rather than mere conceivability.
+* Protects inquiry from unfalsifiable expansion.
+
+**Failure risk**
+
+* May treat current map-content as neutral reality.
+* May collapse “not evidenced enough” into “not worth entertaining.”
+* May continually place Ziggy’s framework on defense without unfolding his own positive worldview.
+
+**Source Anchors**
+
+* G-REPORTED: “you keep inserting what’s possible… I am trying to get to the bottom of what’s likely…”
+* G-REPORTED reconstruction: “In service of having the most accurate account of reality.”
+
+**Confidence:** Moderate because all evidence is reported.
+
+---
+
+### Grant as Reported in Defensive Mode
+
+**Primary moves**
+
+* Retains focus on evidence and plausibility when discussion moves toward existential possibility.
+* Avoids or postpones positive worldview exposure by returning to the God-claim.
+
+**Behavioral profile**
+
+* May defend familiar evidential boundaries.
+* May insist that the claim under examination, rather than his destination, remains the proper object of debate.
+
+**Productive effect**
+
+* Keeps discussion from dissolving into unrestricted worldview comparison.
+* Maintains a determinate target.
+
+**Failure risk**
+
+* Produces the one-sided structure Ziggy repeatedly objects to.
+* Can shield Grant’s own values from reciprocal examination.
+
+**Source Anchor**
+
+* G-REPORTED pattern inferred from Ziggy: “Both sides just dig into the notion of God being possible…”
+  **Confidence:** Low-to-moderate
+  **Alternative explanation:** Grant may simply be honoring the agreed topic rather than defensively withholding a worldview.
+
+---
+
+## 4. Role-Induced Behaviors
+
+### Nova — Philosophical Scaffolder
+
+**Behavior:** Converts Ziggy’s intuitions into named distinctions, analogies, and portable formulations.
+**Trigger:** Ziggy offers an incomplete or exploratory thought.
+**Operation:** Strengthens the thought, supplies examples, and connects it to broader philosophical themes.
+**Output:** Reusable formulations such as “Enthusiastic about what?” and “My experience prevents me from confidently ruling certain things out.”
+**Productive function:** Makes implicit reasoning explicit and coherent.
+**Failure mode:** Can over-systematize a tentative intuition or create agreement by supplying the strongest version itself.
+**Functional Type:** PROTOCOL-INDUCED
+**Voluntariness:** ROLE-INDUCED
+**Source Anchor:** Repeated throughout; especially Nova’s responses following Ziggy’s map and encounter corrections.
+**Confidence:** High
+**Alternative explanation:** This may reflect ordinary assistant behavior rather than a distinctive role; still role-induced within this thread.
+
+---
+
+### Nova — Charitable Counterweight
+
+**Behavior:** Periodically grants strength to Grant’s reported position or introduces symmetrical counterexamples.
+**Trigger:** Ziggy’s emerging framework risks becoming one-sided.
+**Operation:** Concedes the legitimate core of the opposing move and identifies where the overreach begins.
+**Output:** Narrowed disagreement rather than total rejection.
+**Productive function:** Preserves debate rigor.
+**Failure mode:** Sometimes arrives late, after substantial amplification of Ziggy’s side.
+**Functional Type:** PROTOCOL-INDUCED
+**Voluntariness:** ROLE-INDUCED
+**Source Anchor:** Nova: “Grant’s ‘possible vs likely’ move is actually a good move”; “Yes, they can. Just not usually in the same direction.”
+**Confidence:** High
+**Alternative explanation:** Could be ordinary conversational balance rather than a role-specific pattern.
+
+---
+
+### Ziggy — Exploratory Hunter
+
+**Behavior:** Pursues conceptual openings, presses beyond procedural restrictions, and seeks deeper implications rather than early closure.
+**Trigger:** A distinction or metaphor reveals unexplored territory.
+**Operation:** Extends it through counterexample, analogy revision, or connection to prior themes.
+**Output:** New conceptual terrain: map-created destinations, encounter updates, miracle-shaped territory.
+**Productive function:** Generates novel hypotheses and identifies hidden assumptions.
+**Failure mode:** May privilege expansion over evidential pruning.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** ROLE-INDUCED
+**Source Anchor:** Ziggy: “I want to push back a little here…” followed by the Tokyo correction; later “Interestingly…” leading to divine encounter.
+**Confidence:** High
+**Alternative explanation:** This may be a stable personal style rather than a role induced by this conversation.
+
+---
+
+### Ziggy — Framework-Symmetry Enforcer
+
+**Behavior:** Demands reciprocal exposure and evaluation of both sides’ maps, goals, and value commitments.
+**Trigger:** Theistic claims are scrutinized while secular commitments remain implicit.
+**Operation:** Reverses the analytical direction and asks what the critic serves.
+**Output:** A demand for comparative rather than unilateral evaluation.
+**Productive function:** Reveals asymmetric burdens.
+**Failure mode:** Can shift attention away from whether the original claim is justified.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** ROLE-INDUCED
+**Source Anchor:** “There isn’t even a story for the atheist for the opposing side to dig into”; “how would you take to me dedicating the same amount of time…”
+**Confidence:** High
+**Alternative explanation:** Could be a substantive fairness commitment rather than a conversational role.
+
+---
+
+### Grant as Reported — Evidential Gatekeeper
+
+**Behavior:** Attempts to rank claims by plausibility and resists bare possibility as sufficient.
+**Trigger:** Ziggy introduces possibilities not strongly supported by Grant’s accepted evidence.
+**Operation:** Requests justification, asks what is likely, and applies evidential standards.
+**Output:** Constrained hypothesis space.
+**Productive function:** Prevents unrestricted speculation.
+**Failure mode:** May become admission control that blocks exploration before competing maps are compared.
+**Functional Type:** REGULATORY / INHIBITORY
+**Voluntariness:** UNCLEAR
+**Source Anchor:** G-REPORTED: “you keep inserting what’s possible… when I am trying to get to the bottom of what’s likely…”
+**Confidence:** Moderate
+**Alternative explanation:** This may be ordinary probabilistic reasoning rather than a gatekeeping role.
+
+---
+
+## 5. Relationship-Level Loops
+
+### Loop 1 — Expansion–Qualification–Meta-Conflict
+
+**Participants:** Ziggy and Grant as reported
+**Pattern:**
+
+1. Ziggy introduces a possibility or new territory.
+2. Grant reportedly asks for justification or likelihood.
+3. Ziggy experiences the request as boundary enforcement.
+4. The discussion shifts from the substantive possibility to who may set the admission standard.
+5. The original territory remains unresolved.
+6. Ziggy returns with a more refined formulation.
+
+**Productive function:** Produces increasingly precise distinctions.
+**Failure mode:** Generates prolonged meta-debate and mutual frustration.
+**Source Anchors:** “territory shouldn’t be explored”; “you keep inserting what’s possible…”; “My experience prevents me from confidently ruling certain things out.”
+**Confidence:** High, though Grant’s side is reported.
+
+---
+
+### Loop 2 — Intuition–Scaffolding–Adoption–Extension
+
+**Participants:** Ziggy and Nova
+**Pattern:**
+
+1. Ziggy offers a partially formed intuition.
+2. Nova gives it a structured formulation.
+3. Ziggy recognizes the formulation as capturing the point.
+4. Ziggy pushes beyond Nova’s framing through a counterexample.
+5. Nova revises the model.
+6. The pair reaches a stronger co-constructed concept.
+
+**Examples:**
+
+* Existential/material distinction.
+* “Enthusiastic about what?”
+* Map versus destination.
+* Map-instantiated destinations.
+* Experience as map update.
+* Proof versus non-exclusion.
+
+**Productive function:** Rapid conceptual refinement.
+**Failure mode:** Mutual resonance may create premature confidence in jointly generated metaphors.
+**Source Anchors:** Ziggy: “Wow—your example blew my mind”; later “I want to push back a little here…”; Nova then accepts the Tokyo correction.
+**Confidence:** High
+
+---
+
+### Loop 3 — One-Sided Scrutiny–Reciprocity Demand
+
+**Participants:** Ziggy and Grant as reported
+**Pattern:**
+
+1. Theistic claims and narratives are placed under examination.
+2. Grant’s positive values or worldview remain less visible.
+3. Ziggy experiences the exchange as structurally asymmetrical.
+4. Ziggy asks what Grant is enthusiastic about or serves.
+5. The conversation risks returning to critique of God rather than reciprocal worldview comparison.
+
+**Productive function:** Reveals missing positive commitments.
+**Failure mode:** Can become burden-shifting before the original theistic claim is defended.
+**Source Anchors:** “There isn’t even a story for the atheist…”; “Enthusiastic about what…”; “how would you take to me dedicating the same amount of time…”
+**Confidence:** High as Ziggy’s report of the interaction pattern.
+
+---
+
+### Loop 4 — Experience–Defeater–Scope Reduction
+
+**Participants:** Ziggy, skeptical interlocutor represented by Grant, and Nova
+**Pattern:**
+
+1. Ziggy reports a spiritually significant experience.
+2. The skeptical response is anticipated as “that does not prove God.”
+3. Nova separates experience, cause, and justification.
+4. Ziggy adopts the narrower conclusion that the experience blocks confident exclusion.
+5. The claim survives in reduced form.
+
+**Productive function:** Converts vulnerable metaphysical certainty into defensible epistemic openness.
+**Failure mode:** The reduced claim may become difficult to falsify and therefore permanently retained.
+**Source Anchors:** Ziggy’s vision concerning his wife; Nova: “The experience happened… What caused it?… What does it justify?”; “My experience prevents me…”
+**Confidence:** High
+
+---
+
+### Loop 5 — Map Absence–Implausibility–Map Critique
+
+**Participants:** Ziggy and Grant as reported
+**Pattern:**
+
+1. Grant lacks the divine or miracle-supporting structures Ziggy reports having.
+2. Grant rates those claims implausible.
+3. Ziggy interprets the rating as an output of Grant’s map.
+4. Grant’s plausibility judgment becomes evidence in a dispute about maps rather than decisive evidence against the claim.
+5. The discussion moves one level upward.
+
+**Productive function:** Exposes framework dependence.
+**Failure mode:** Any unfavorable assessment can be redescribed as map limitation, weakening external criticism.
+**Source Anchors:** “I don’t have your destination and supporting structure instantiated on my map…”
+**Confidence:** High as Ziggy’s interpretation; low regarding Grant’s own self-understanding.
+
+---
+
+### Loop 6 — Narrative Recurrence–Value Inference–Modern Pantheon
+
+**Participants:** Ziggy and Nova
+**Pattern:**
+
+1. Recurrent symbolic structures are observed.
+2. Their repeated appearance is interpreted as evidence of persistent human value needs.
+3. Modern comics are treated as a new pantheon carrying compressed ideals.
+4. The recurrence supports further inquiry into whether humans require narratives.
+5. The conclusion feeds back into the map/transmission model.
+
+**Productive function:** Unifies mythology, culture, value formation, and compression.
+**Failure mode:** Recurrence may be explained by shared psychology or cultural inheritance without proving necessity or transcendent significance.
+**Source Anchors:** “comic book pantheon”; “symbolic structures and heroic narratives keep reappearing”; “we require socially constructed narratives.”
+**Confidence:** High
+
+---
+
+## 6. Classification Uncertainties
+
+1. **Grant’s cognitive moves are not directly observed.**
+   All Grant classifications derive from G-REPORTED material. His actual triggers, intentions, and voluntariness remain UNKNOWN.
+
+2. **Boundary-Defense Stalking may be relational rather than individual.**
+   It can describe Ziggy’s diagnosis of the interaction rather than a discrete cognitive operation. It is retained because it repeatedly guides his next move.
+
+3. **Encounter-First Reorganization is not clearly voluntary.**
+   It may be a psychological event, perceptual shift, or retrospective narrative rather than an intentionally deployed operator.
+
+4. **Transmission-Compression Audit may be a substantive criterion rather than a cognitive operator.**
+   It is classified as a move because it performs a repeatable comparison across worldviews and narratives.
+
+5. **Shared-Destination Convergence Test appears once explicitly.**
+   It is included as a consequential one-time move because it reorganizes the Christian–Grant comparison.
+
+6. **Asymmetry Reversal Test may be rhetorical.**
+   It could function as a fairness probe or as retaliatory burden-shifting. The thread does not determine which dominates.
+
+7. **Plausibility-as-Map-Output Diagnosis risks circular protection.**
+   The thread does not establish how to distinguish legitimate framework critique from refusal to accept unfavorable evidence.
+
+8. **Possibility-Space Expansion does not itself rank possibilities.**
+   It establishes conceptual availability, not probability. Any transition from “on the map” to “credible” remains underdeveloped.
+
+9. **The reverse-experience asymmetry is unresolved.**
+   Ziggy questions whether disbelievers possess a counter-experience that instantiates negative territory. Nova offers failed prophecy, manipulation, and unanswered prayer as contrary experiences, but the exact symmetry remains unsettled.
+
+10. **Map and territory sometimes blur.**
+    The thread alternates between map as ontology, interpretive framework, evidential model, narrative, and possibility-space. These may be related but are not proven identical.
+
+11. **“Experience prevents exclusion” may describe psychological inability or epistemic justification.**
+    The thread often treats them together. A future extraction should preserve that ambiguity.
+
+12. **“Accuracy is only instrumental” is not fully established.**
+    The thread successfully shows that instrumental necessity does not prove ultimacy, but it does not rule out accuracy also being intrinsically valuable.
+
+13. **The atheism analysis may target thin atheism only.**
+    Atheists with developed secular-humanist, existentialist, naturalist, or political frameworks may not fit the negation-only structure.
+
+14. **Narrative endurance and truth remain distinct.**
+    The thread identifies transmission as valuable but does not establish whether survivability tracks truth, usefulness, motivational force, or cultural selection.
+
+15. **No Museum or Circle operator names were used.**
+
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS AS COMPOUND SWEEP — high candidate-discovery value, no
+promotion; run Stage 3.**
+
+**Deepest recovered architecture:** *possibility absent from framework → an
+experience or narrative makes it available → possibility enters the candidate
+set → evidence and plausibility are then assessed.* Grant's reported procedure
+begins later in the chain (candidate already specified → compare evidence →
+rank). Ziggy's challenge: **candidate formation is not neutral** — one cannot
+assign probability to a destination the map doesn't represent as live. Sharp,
+but it does not yet prove experientially introduced candidates deserve
+*higher probability*.
+
+**Strongest moves (held at sweep level):** Instrument–Destination Separation
+(defeats "accuracy is necessary, therefore final"; does NOT defeat "accuracy
+is also intrinsically valuable"); Positive-Commitment Extraction
+("Enthusiastic about *what*?" — target the person's positive framework, never
+atheism-as-such: demanding a full cosmology from "no gods exist" is a category
+mistake); **Proof-to-Non-Exclusion Contraction** — the cleanest epistemic
+repair in the sweep ("proves God" → "makes confident exclusion unreasonable
+*for me*"), pending the epistemic-claim vs psychological-resistance test;
+Possibility-Space Expansion (the Tokyo correction — adjacent to Kuhn,
+disclosure, horizons, James's live hypotheses, Bayesian model selection;
+Stage 3 must force apart the "map" polysemy: ontology / narrative / salience /
+evidence-model / vocabulary); Plausibility-as-Map-Output (strong version
+defensible; overextended version — "your rejection is merely your map's
+artifact" — **immunizes any belief**; central test: absent-from-map vs
+represented-but-assigned-low-probability).
+
+**Renames/downgrades (motive stripped from names, per charter):**
+"Boundary-Defense Stalking" → **Exploration-Obstruction Diagnosis** /
+Meta-Qualification Detection; "Frame-Lever Detection" → **Context-Standard
+Shift Detection** (manipulation is one interpretation, not the definition);
+Internal-Standard Evaluation = first stage only (else every worldview
+self-insulates); Asymmetry Reversal Test = fairness probe, quarantined if
+used as burden diversion (comparable scrutiny AFTER the original claim is
+evaluated — never "you can't criticize me until your worldview survives
+mine"); Encounter-First Reorganization = **COGNITIVE EVENT / TRANSFORMATIVE
+EPISODE**, not an operator.
+
+**Stage-3 pressures registered — all three parties**, incl. against the
+extractor's ownership assignments: Nova supplied "Enthusiastic about what?",
+the non-exclusion formula, and the philosophical analogies; Ziggy adopted
+enthusiastically and modified. Recurrence may belong to the **Ziggy–Nova
+conceptual engine**, not to either alone. Against Ziggy: the vision is
+evidence an experience occurred — interpretation requires comparison
+(coincidence / memory / dream incorporation / social perception / anomalous
+cognition / disclosure); represented ≠ supported ≠ probable; person-relative
+vs publicly shareable justification (James: live-for-one ≠ true);
+non-exclusion needs a **stopping rule** — what would reduce confidence in the
+miracle interpretation? Against Grant-reported: "given the evidence" needs an
+**evidence ledger** (whose evidence, which classes, what weights); the
+possibility/plausibility distinction is valid but incomplete — candidate
+admission, priors, reconstruction, and a first-person-evidence model come
+first; accuracy alone cannot deduce suffering minimization without a
+normative premise.
+
+**Expected Stage-3 survival table registered (scoreable)** — headline calls:
+Possibility-Space Expansion, Instrument–Destination Separation,
+Positive-Commitment Extraction, Proof-to-Non-Exclusion Contraction → survive
+strongly; Plausibility-as-Map-Output → survives only in weak Bayesian/
+model-relative form; Encounter-First Reorganization → event, not operator.
+
+**The key prey (registered):** *can this architecture preserve the legitimate
+epistemic force of lived experience without turning every unfavorable
+plausibility judgment into evidence that the critic's map is defective?*
+
+**Best future sub-digs (double-back queue additions):** (1) experience → map
+expansion → non-exclusion → plausibility; (2) accuracy → instrument →
+destination → suffering minimization.
 
 ---
 

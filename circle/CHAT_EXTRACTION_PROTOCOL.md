@@ -504,6 +504,8 @@ transformed the underlying recovery.
 | X-CONTEXT | **never maps** — not evidence | cross-chat recollections become dig leads (which thread to excavate next), nothing more |
 | G-QUOTED-REPORTED | at most `INFERRED` about Grant; `DIRECT` about the report itself | field label (DIG_01, 2026-07-17): quoted-form transmission through Ziggy — an attributed structured argument or attributed direct reply. Stronger than loose G-REPORTED (supports "Grant is reported as denying X"), weaker than G-DIRECT (cannot support "Grant definitively understands his argument as X") |
 | THIRD-PARTY-QUOTED (TP-QUOTED) | **never maps to member ledgers** | field label (DIG_01, 2026-07-17): pasted third-party material (e.g., an AI rebuttal, a pasted report). Evidence the content *entered the exchange*, not that it is correct. Replaces UNCLEAR for this class |
+| G-HYPOTHESIZED-BY-ZIGGY | `INFERRED` at most — hypothesis-grade, below G-REPORTED | field label (DIG_02, 2026-07-17): Ziggy *suspects* Grant would say X. Not position evidence; files as a Ziggy expectation about Grant |
+| ZIGGY-RECONSTRUCTION-OF-GRANT | never files as Grant position evidence | field label (DIG_02, 2026-07-17): an argument Ziggy *builds on Grant's behalf*. Evidence of Ziggy's modeling of Grant, usable for the relationship layer and prediction-testing — not for Grant's ledger |
 
 ## Promotion thresholds (strengthened in v0.2)
 

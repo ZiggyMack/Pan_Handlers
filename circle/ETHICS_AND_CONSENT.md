@@ -43,6 +43,16 @@ NEVER ENTERS THE ARCHIVE  (ingestion filter — checked before every commit)
     assistant formulations attributed to members who never adopted them
 ```
 
+**Personal-testimony abstraction rule (precedent: DIG_02 privacy gate,
+2026-07-17):** when a member's reasoning-relevant testimony carries intimate
+biographical detail — especially detail involving **third parties who are not
+consenting members** — the detail abstracts to its *epistemic function* in all
+profile-ready claims and synthesis packets (e.g., "reports personally
+significant anomalous experiences that make such possibilities experientially
+live"). The reasoning is preserved; the private specifics are not republished
+beyond the source layer, and on a member's request they are removed from the
+source layer too (§6).
+
 Two disciplines survive the public turn **unchanged**:
 
 - **Consent to share ideas ≠ endorsement of our interpretation of them.** The

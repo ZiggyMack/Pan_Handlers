@@ -54,6 +54,16 @@ numeric order and run the four prompts. Stage 1's output tells us what the chat
 actually holds; record it in the Discovered topic column here and in the
 workbook's header.
 
+**Plow-through mode (compound sites):** the operator may run wholesale stages
+2–4 on a compound thread as *data collection* — Stage 1 source survey → broad
+candidate harvest → pressure-test → **provisional mapping only**. Firm rule
+(Nova, 2026-07-17): **wholesale compound digs generate leads; they never
+promote operators or profile claims without later bounded sub-dig
+confirmation.** Field desk marks each output: *clean dig / compound sweep /
+profile-capable / orientation only / candidate source for sub-dig*. Child-dig
+scope locks are preserved in the parent workbook's field-desk blocks for the
+double-back.
+
 **Auxiliary digs (`DIG_AUX_NN_*.md`):** a bounded, scope-clean extraction whose
 thread turned out to hold a different subject than intended is not discarded —
 it's renamed as an AUX dig and repurposed for whatever it actually evidences
@@ -73,7 +83,7 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_00.md` | *(reserved: CFA-zero — preflight required; workbook recreated after its file was consumed by a rename)* | EMPTY |
 | `DIG_00ABCD.md` *(operator's working name — proper identity assigned at field-desk review)* | Grant's evaluative architecture via the CT/Moral-Substance dispute + development of Diagnostic Interrogation, Coupling Probes, Cognitive Archaeology calibration, invariant-seeking methodology (heavy G-REPORTED; no G-DIRECT) | IN PROGRESS — Stages 1–2 pasted; awaiting field-desk reviews |
 | `DIG_01_classical_theism_evil_and_moral_generativity.md` | ⭐ **First Grant-relevant site**: reported 12-step problem-of-evil syllogism → moral-generativity zero; Ziggy's modal-burden + trade-off objections; Grant's reported denial (G-QUOTED-REPORTED) | ✅ **FILED** — 4th full-pipeline dig; **G-001 (first Grant source, reported ceiling)**, Z-004, IT-017, synthesis packet; restraint round: zero new operators, one recorded error (Logical-Status Compression) |
-| `DIG_02.md` | | EMPTY |
+| `DIG_02.md` | ⚡ Compound sweep: maps, experience, values, plausibility (4 child digs identified; segment D = experience/map-expansion/plausibility is the vein; ⚠️ privacy gate active) | STAGE 2 COMPLETE (compound sweep) — Stage 3 authorized; plow-through: leads only, no promotion |
 | `DIG_03.md` | | EMPTY |
 | `DIG_04.md` | | EMPTY |
 | `DIG_05.md` | | EMPTY |
