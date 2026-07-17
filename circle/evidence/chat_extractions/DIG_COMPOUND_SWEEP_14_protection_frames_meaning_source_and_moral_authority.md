@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ reviewed (major conceptual/attribution + consolidation overlays binding; **the extractor omitted the Protection–Defense and Loss-Condition Audit — the packet's originating family — restored by the field desk, the second consecutive dig with an extractor-dropped central family**); Stage-3 output pasted, review pending; Stage 4 pending
+**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ reviewed; **Stage 3 closed through the archive's FIFTH full self-correction cycle** (original output SUPERSEDED — reverse-role and coherence/truth wrongly A3, possibility-vs-support wrongly A1, extraction products used as actor evidence; repair order → correction command → corrected reissue → QC PASS with two carried-forward scope corrections); **9 confirmed A3 · 0 A2 · 15 possible A1**; **new case law: extraction products are never actor evidence**; READY FOR STAGE 4 (self-application ≠ comparative evaluation ≠ revision architecture; role/value/existential material never auto-maps to operators); Stage 4 pending
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** protection vs defense (loss conditions); many "A+" frames (coherence ≠ truth); PCB crosstalk (local coherence vs global compatibility); meaning recovery vs frozen words; mechanism vs source (ayahuasca, unconscious-as-interface); is/ought bridges; internal vs external critique of God; God as archetype vs ground — ⭐ **third G-DIRECT-bearing packet** (screenshots)
@@ -3701,6 +3701,2216 @@ The procedures, medical circumstances, alternatives, and causal structures were 
 15. **“Parsimony is merely an arbitrary preference” weakened.** The conversation did not examine its limited but potentially defensible epistemic functions.
 
 16. **“God as moral archetype” as a complete theological account weakened.** The concept remains ambiguous among symbol, exemplar, psychic regulator, and metaphysical source.
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17) — REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — fifth full self-correction cycle** (after SWEEP_11,
+> SWEEP_12, and SWEEP_13's two). The Stage-3 output ABOVE is
+> **SUPERSEDED** — retained as pasted under the fifth-artifact rule,
+> but nothing in it may be used downstream except through the
+> corrected reissue below. Chain: superseded output → this repair
+> order → the operator-issued STAGE 3 AVAILABILITY-TIER REPAIR
+> command (condensed here per the SWEEP_13 streamline convention;
+> full text in the field-desk relay) → the corrected reissue → the
+> QC review filed after it.
+
+**Verdict: PASS WITH MAJOR AVAILABILITY-TIER REPAIR — DO NOT PROCEED
+TO STAGE 4 YET; no rerun of Stages 1–2.** Excellent counterevidence
+work, especially against the overly adversarial Grant model — but the
+availability ledger carried material errors.
+
+**⚖️ TIER CORRECTIONS (SWEEP_13's case law applied):** the
+reverse-role moral-authority test **A3 → A1** — *symmetrical burden
+reassignment ≠ literal role reversal* (exactly the distinction that
+mattered in SW13; the useful test — would a Christian use an
+antecedent standard to reject a purported deity as not genuinely
+divine? — stays A1). The coherence/truth grading separation **A3 →
+A1** — coherence-from-selection, scope, and exclusivity work are
+*neighboring operations*, and **performing neighboring operations ≠
+performing the operation**. And possibility-vs-positive-support
+**A1 → A3** — the bounded thread later performs it in the ayahuasca
+narrowing (*mechanism does not settle ontology* AND *non-exclusion is
+not positive evidence*); A3 for Nova/co-constructed, partly repaired
+in-thread, never back-attributed to Ziggy as a formed operator.
+
+**➕ ADDED OMISSIONS:** the *originating* family's own audit was
+missing from Stage 3 — **protection was never operationalized through
+reachable defeaters and revision conditions** (A1; structurally
+central: the dyad repeatedly calls narrowing "protective" without a
+stable test for when the label applies); legitimate narrowing vs
+protective immunization added as an A1 extension inside the
+Protection–Defense family. **Consolidation:** the duplicated Grant
+omissions (strongest reconstruction; function-of-narrowing) merge
+into one A3 — *strongest functional reconstruction before containment
+scoring* (six legitimate functions enumerated; motive stays UNKNOWN
+unless independently evidenced).
+
+**⚖️ NEW CASE LAW — extraction products are never actor evidence:**
+"Stage 2 explicitly states…" can define the completed audit
+architecture; it can never establish that Ziggy, Grant, or the
+original assistant possessed, performed, or accepted the operation in
+the bounded conversation. Applied to the equal-burden finding: burden
+symmetry DEMONSTRATED · equal warrant NOT ESTABLISHED · comparative
+bridge evaluation OMITTED (A1).
+
+**🚫 GRANT NARROWED FURTHER:** "Grant favors constrained, naturalistic,
+or mechanism-level formulations" does not survive — the direct
+evidence supports only *local cognitive-mechanism reframing in the
+documented altered-state exchange*. Quarantined: stable naturalizing
+operator; strategic containment; ontological closure; implication
+suppression; intent denial; causal-evidence gatekeeping. The
+expansion–translation–reopening pattern = **packet-level interaction
+loop, never a settled Grant personality trait**.
+
+**📋 CORRECTED LEDGER:** **9 confirmed A3 · 0 A2 · 15 possible A1**
+(including: explicit disconfirmation conditions for the
+Grant-prediction model; explicit revision conditions for Ziggy's
+chosen Christian commitment — both A1, never promoted merely because
+the completed audit can formulate them). The meaning-recovery A3
+stands with its exact omitted question (*did you mean unconscious
+cognition to exclude Jungian/symbolic/metaphysical implications, or
+only decline to affirm them?* — A3 for Ziggy/Nova/co-constructed,
+never for Grant); the first-order moral problem is preserved
+*alongside* the metaethical challenge (wording never implies the
+allegation succeeds). Eight-family consolidation carried forward.
+
+**🎯 The repaired prey (symmetrical discipline):** Grant's narrowing
+must not be called containment without reachable evidence, while
+Ziggy's metaphysical openness must not be treated as live support
+without discriminating evidence, revision conditions, and equal
+exposure of his own Christian bridge to loss.
+
+---
+
+### ⏬ STAGE 3 CORRECTED OUTPUT (governing record)
+
+# PANHANDLERS_CHAT_EXTRACTION — CORRECTED STAGE 3
+
+## 0. Corrected Availability Definitions
+
+### A3 — Demonstrated Available
+
+A move is **A3** when the relevant actor, Nova, or the co-constructed conversation demonstrably performs the same relevant reasoning operation elsewhere in the bounded thread.
+
+Related or neighboring operations do not automatically establish A3.
+
+A later Nova or co-constructed move may establish A3 for Nova or the conversation without proving that Ziggy or Grant independently possessed it earlier.
+
+**Classification:** CONFIRMED INFORMATIVE OMISSION.
+
+---
+
+### A2 — Explicitly Available and Declined
+
+A move is **A2** only when it was explicitly offered, requested, proposed, or made salient and then consciously declined, refused, or bypassed.
+
+**No valid A2 omission is established.**
+
+---
+
+### A1 — Contextually Available
+
+A move is **A1** when it would have been relevant and useful, but its relevant form was not demonstrated elsewhere in the bounded conversation.
+
+**Classification:** POSSIBLE INFORMATIVE OMISSION.
+
+---
+
+### A0 — Unavailable
+
+A move or datum is **A0** when the bounded source does not supply the information or demonstrated capacity required.
+
+**Classification:** NON-INFORMATIVE.
+
+No adverse conclusion may be drawn from A0 material.
+
+---
+
+# 1. Confirmed Informative Omissions — A3
+
+## A3-01 — Self-application of symmetrical grounding scrutiny
+
+**Actor:** Ziggy.
+
+**Relevant point:** Ziggy required secular moral frameworks to explain the bridge from descriptive facts to normative authority, later affirmed a chosen commitment to Jesus, and then challenged the authority of standards used to condemn God.
+
+**Omitted move:** Apply the same grounding audit to his own Christian moral-authority bridge:
+
+* Why does God possess ultimate moral authority?
+* How are authentic divine commands, acts, or revelations identified?
+* Why should this bridge outrank rival theistic and secular bridges?
+* What evidence would revise Ziggy’s interpretation of a purported divine command?
+* How does one distinguish God from a powerful claimant falsely presented as God?
+
+**Why relevant:** Burden symmetry was used against competing frameworks but not completed against Ziggy’s own positive bridge.
+
+**Availability tier:** A3 — Demonstrated Available.
+
+**Availability basis:** Ziggy repeatedly performed symmetrical burden reassignment in the God-versus-human-flourishing discussion.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Source anchors:**
+
+* Ziggy, middle: “The bridge theists will make is God… the bridge a non-theist will make is human flourishing.”
+* Ziggy, middle: “Can you please admit it’s made of the same unicorn dust as the God bridge?”
+* Ziggy, later: “I have chosen Jesus.”
+* Ziggy, late: “What grounds that standard’s authority?”
+
+**Did the absence change the outcome?** Yes. The critic’s moral foundation was exposed without a comparably developed audit of the believer’s identification and interpretation of divine authority.
+
+**Stable or situational:** Partly stable. Ziggy acknowledged choice, uncertainty, and imperfect understanding, but the full self-application remained absent across several connected exchanges.
+
+---
+
+## A3-02 — “A+” was not definitionally frozen
+
+**Actor:** Ziggy and the co-constructed conversation.
+
+**Relevant point:** Major conclusions were built from the claim that multiple incompatible systems could each receive an “A+.”
+
+**Omitted move:** Define the operative meaning of “A+” before using it as a comparative category.
+
+The term moved among:
+
+* internally coherent;
+* competently defended;
+* practically viable;
+* psychologically livable;
+* morally acceptable;
+* socially functional.
+
+**Why relevant:** These grades are not interchangeable. A framework may be competently defended but false, coherent but immoral, livable but socially destructive, or locally useful but explanatorily weak.
+
+**Availability tier:** A3 — Demonstrated Available.
+
+**Availability basis:** Ziggy repeatedly performed explicit definition clarification elsewhere through “What do you mean?” and through distinctions such as protection/defense, mechanism/source, and local/universal scope.
+
+The confirmed omission is the failure to define **“A+.”** It is not evidence that the conversation already possessed the complete coherence–truth–warrant audit listed later as A1.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Source anchor:** Ziggy, early: “I’ve seen enough defenses that each of them could stand on their own. So you’re no closer to which one should you choose.”
+
+**Did the absence change the outcome?** Yes. Internal defensibility sometimes carried the force of broader parity in warrant, morality, or practical legitimacy.
+
+**Stable or situational:** Stable throughout the bounded conversation.
+
+---
+
+## A3-03 — Internal/external critique distinction was dropped before the moral-authority probe
+
+**Actor:** Nova and the co-constructed conversation.
+
+**Relevant point:** Ziggy clarified that some critics say Christianity might be true and Christians would still be worshipping an evil being.
+
+**Omitted move:** Determine which critique was actually being made before assigning a rival moral jurisdiction.
+
+### Internal critique
+
+> Christian premises describe God as perfectly good, while another attributed divine act appears incompatible with that goodness.
+
+### External critique
+
+> Even if God exists, an independent moral standard condemns the conduct.
+
+### Metanormative critique
+
+> Why should divine status determine ultimate moral authority?
+
+**Why relevant:** Only the external and metanormative forms straightforwardly invoke a standard whose jurisdiction is independent of God. An internal critique can conditionally use Christian premises without asserting an independent authority over God.
+
+**Availability tier:** A3 — Demonstrated Available.
+
+**Availability basis:** Nova had already introduced the internal-versus-external critique distinction earlier in the bounded conversation.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Source anchors:**
+
+* Ziggy, late: “If it turns out… real, you’re worshiping an evil being.”
+* Nova, later formulation: “So you’re saying your moral standard would still judge God—even if He exists?”
+
+**Did the absence change the outcome?** Yes. The conversation moved too quickly from moral criticism to framework supremacy without first classifying the critic’s argument.
+
+**Stable or situational:** Situational. The distinction was available but dropped during a rhetorically intensified theological exchange.
+
+---
+
+## A3-04 — Ayahuasca probability claim was not foundation-audited
+
+**Actor:** Ziggy and Nova.
+
+**Relevant point:** Ziggy described the discovery of ayahuasca’s plant combination and preparation as a “statistical miracle.”
+
+**Omitted move:** Audit the probability claim through:
+
+* an actual search-space model;
+* number of people and generations involved;
+* cumulative cultural experimentation;
+* whether intermediate plant effects were observable;
+* nonrandom selection based on taste, toxicity, or prior botanical knowledge;
+* survivorship and reporting bias;
+* whether the probability was genuinely low or merely unknown.
+
+**Why relevant:** Unknown historical search conditions were treated as though they generated a calculated improbability.
+
+**Availability tier:** A3 — Demonstrated Available.
+
+**Availability basis:** Ziggy repeatedly descended beneath conclusions to inspect assumptions and foundations elsewhere in the thread.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Source anchor:** Ziggy, later: “The great odds… in being able to know how two separate plant mixtures should be used… was nothing short of a statistical miracle.”
+
+**Did the absence change the outcome?** Yes. “Unknown” retained the rhetorical force of “extremely improbable.”
+
+**Stable or situational:** Situational and favorable to an interpretation Ziggy found philosophically attractive.
+
+---
+
+## A3-05 — Strongest functional reconstruction of Grant absent before containment scoring
+
+**Actor:** Ziggy, Nova, and the co-constructed conversation.
+
+**Relevant point:** Grant’s cognitive reframing of altered-state insight was interpreted as containment, conceptual minimization, or placing the idea “at the bottom of the toy chest.”
+
+**Omitted move:** Reconstruct the strongest legitimate functions of Grant’s response before scoring it as suppressive.
+
+Required alternatives:
+
+1. Grant was strategically suppressing implications.
+2. Grant believed only the mechanism-level claim was evidentially supported.
+3. Grant was separating discovery from justification.
+4. Grant was creating common ground while suspending judgment.
+5. Grant was enforcing naturalistic closure.
+6. Grant and Ziggy were answering different explanatory questions.
+
+Required sequence:
+
+`observed narrowing`
+→ `strongest legitimate functions reconstructed`
+→ `containment interpretation compared with alternatives`
+→ `motive remains UNKNOWN unless independently evidenced`
+
+**Why relevant:** Narrowing, evidential restraint, and strategic immunization are different operations.
+
+**Availability tier:** A3 — Demonstrated Available.
+
+**Availability basis:** Later Nova analysis and the co-constructed conversation generated several of these alternatives. Ziggy also recognized Grant’s unconscious-cognition reframing as useful rather than merely dismissive.
+
+This establishes availability for Nova or the co-constructed conversation, not necessarily for Ziggy independently at the earlier point.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Source anchors:**
+
+* Grant, screenshot: “That feels like a false dichotomy…”
+* Grant, later: “If by explicit reasoning you mean conscious reasoning based on… assumptions… sure, I agree.”
+* Ziggy, later: “put a toy at the bottom of the toy chest where it is less likely to be played with.”
+
+**Did the absence change the outcome?** Yes. A motive-laden Grant model was strengthened before benign and mixed functions had been fully compared.
+
+**Stable or situational:** Recurrent within the Grant-modeling exchanges, but not universal.
+
+---
+
+## A3-06 — Compression interpretation not tested through speaker calibration
+
+**Actor:** Ziggy, Nova, and the co-constructed conversation.
+
+**Relevant point:** Ziggy diagnosed Grant’s reframing as “slight compression” and as lowering the salience of the original idea.
+
+**Omitted move:** Apply the thread’s own meaning-recovery procedure directly to Grant.
+
+Approximate omitted question:
+
+> Did you mean unconscious cognition to exclude Jungian, symbolic, or metaphysical implications, or were you only declining to affirm them without additional evidence?
+
+The thread’s meaning-recovery procedure involved:
+
+* context;
+* provisional reconstruction;
+* speaker feedback;
+* behavioral fit;
+* revision.
+
+**Why relevant:** “Compression” concerned Grant’s intended implication boundary, making speaker calibration directly available and relevant.
+
+**Availability tier:** A3 — Demonstrated Available.
+
+**Availability basis:** Ziggy had explicitly developed meaning-signal reconstruction elsewhere in the bounded conversation.
+
+A3 applies to Ziggy, Nova, or the co-constructed conversation. It does not establish availability for Grant.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Source anchors:**
+
+* Ziggy, later: “Before we analyze the implications… what do you think he means?”
+* Ziggy, later: “Slight compression… but not beyond signal recovery.”
+
+**Did the absence change the outcome?** Yes. An interpretation that could have been checked became part of the standing Grant model without direct calibration.
+
+**Stable or situational:** Situational and partly induced by Grant’s absence from the Ziggy–Nova conversation.
+
+---
+
+## A3-07 — Nova’s evidential caution was not consistently applied to the Grant model
+
+**Actor:** Nova.
+
+**Relevant point:** Nova repeatedly amplified Ziggy’s model of Grant using language such as containment, conceptual minimization, and framework supremacy.
+
+**Omitted move:** Apply the same caution used elsewhere when moving from observed behavior to motive, stable trait, or broad strategy.
+
+Nova elsewhere distinguished:
+
+* supernatural non-exclusion from supernatural evidence;
+* moral judgment from personal moral superiority;
+* a framework-neutral authority probe from a simple DCT-only move;
+* altered-state possibility from proof of supernatural causation.
+
+**Why relevant:** Direct evidence supported local narrowing and a cognitive reframing, but not Grant’s general motive, personality, ontology, or universal debate policy.
+
+**Availability tier:** A3 — Demonstrated Available.
+
+**Availability basis:** The original assistant supplied these cautions inside the bounded conversation.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Source anchor:** Nova’s repeated analyses following Grant’s altered-state and unconscious-cognition replies.
+
+**Did the absence change the outcome?** Yes. Tentative interpretations of Grant were converted into increasingly confident predictive and rhetorical formulations.
+
+**Stable or situational:** Stable as a validation-first role tendency, though not without exceptions.
+
+---
+
+## A3-08 — First-order moral problem not preserved alongside metaethical grounding
+
+**Actor:** Ziggy, Nova, and the co-constructed conversation.
+
+**Relevant point:** When the critic’s accusation became “you would be worshipping an evil being,” the conversation shifted quickly toward grounding the critic’s moral standard.
+
+**Omitted move:** Carry both questions simultaneously:
+
+> Your moral standard still requires grounding, but the alleged act and its compatibility with divine goodness also require a direct answer.
+
+**Why relevant:** The grounding of a standard and the application of that standard are distinct. A critic can possess an incomplete metaethics while still identifying a serious apparent conflict among divine goodness, an attributed action, and Christian moral premises.
+
+The omission does **not** imply that the first-order accusation succeeds. It means that the authority probe does not answer it by itself.
+
+**Availability tier:** A3 — Demonstrated Available.
+
+**Availability basis:** Ziggy and Grant both demonstrated limited-concession structures elsewhere. Ziggy accepted unconscious cognition without accepting ontological closure; Grant accepted cognition outside explicit reasoning without affirming supernatural causation.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Source anchors:**
+
+* Ziggy, late: “If it turns out… real, you’re worshiping an evil being.”
+* Nova: “What grounds that standard’s authority?”
+
+**Did the absence change the outcome?** Yes. The conversation relocated jurisdiction instead of preserving both the first-order and metanormative disputes.
+
+**Stable or situational:** Situational.
+
+---
+
+## A3-09 — Ontological non-exclusion was not separated early enough from positive support
+
+**Actor:** Nova and the co-constructed conversation.
+
+**Relevant point:** Mechanism/source separation preserved the possibility that unconscious cognition might function as an interface rather than the ultimate generator of insight.
+
+**Omitted move:** Earlier distinguish:
+
+* `not logically excluded ≠ positively supported`;
+* `logical possibility ≠ evidential plausibility`;
+* `evidential plausibility ≠ comparative explanatory power`;
+* `comparative possibility ≠ live research hypothesis`;
+* `mechanism does not settle ontology ≠ supernatural source gains evidence`.
+
+**Why relevant:** Showing that a mechanism does not deductively determine ontology preserves logical space but does not tell us how much evidential weight an external-source hypothesis deserves.
+
+**Availability tier:** A3 — Demonstrated Available.
+
+**Availability basis:** The later bounded conversation explicitly narrowed the claim by stating that mechanism/source underdetermination does not prove or positively establish a supernatural source.
+
+This establishes availability for Nova or the co-constructed conversation. It should not be automatically back-attributed to Ziggy as an earlier fully formed operator.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION.
+
+**Source anchors:**
+
+* Ziggy, late: “What’s the wiggle room between collective unconscious and supernatural intervention?”
+* Nova, later: mechanism does not settle ontology, but that is not evidence for a supernatural source.
+
+**Did the absence change the outcome?** Yes. Ontological openness initially retained more argumentative force than mere non-exclusion warrants.
+
+**Stable or situational:** The omission occurred early in the mechanism/source development and was later partially repaired.
+
+---
+
+## A2 Omissions
+
+**None supported.**
+
+The bounded conversation does not show a relevant move being explicitly proposed or made salient and then consciously refused or declined.
+
+---
+
+# 2. Possible Informative Omissions — A1
+
+## A1-01 — Literal reverse-role testing of the moral-authority probe
+
+**Possible test:**
+
+> Would a Christian use an antecedent moral or epistemic standard to reject a purported deity, revelation, or divine command as not genuinely divine?
+
+**Why relevant:** This would test whether believers also employ prior standards when deciding which claimant merits divine authority.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Reason for A1:** Ziggy demonstrated symmetrical burden reassignment, but symmetrical burden is not identical to literal role reversal.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Source anchor:** Ziggy, late: “So you’re saying your moral standard would still judge God—even if He exists?”
+
+**Outcome effect:** Potentially material. It might reveal that both believer and critic use antecedent criteria, though not necessarily the same criteria.
+
+---
+
+## A1-02 — Explicit grading-dimension separation before system-design conclusions
+
+**Missing distinctions:**
+
+* internal coherence;
+* evidential warrant;
+* explanatory scope;
+* truth;
+* moral acceptability;
+* practical viability;
+* psychological livability;
+* social compatibility;
+* revision capacity.
+
+Preserve:
+
+* `internally coherent ≠ true`;
+* `competently defended ≠ equally warranted`;
+* `locally functional ≠ socially compatible`;
+* `psychologically livable ≠ morally acceptable`.
+
+**Why relevant:** The PCB/crosstalk analysis began from individually “fine” signal lines without establishing in which dimensions they were fine.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Reason for A1:** Ziggy demonstrated neighboring distinctions—coherence/selection, local/universal scope, viability/exclusivity—but not the complete grading audit.
+
+**Source anchor:** Ziggy, early-middle: “Both signal lines on their own are fine…”
+
+**Outcome effect:** Major. The system-design model may otherwise neutralize truth and moral differences too early.
+
+---
+
+## A1-03 — Operational protection criteria using reachable defeaters and revision conditions
+
+**Missing audit:**
+
+1. What evidence would count against the claim?
+2. Is the failure condition genuinely reachable?
+3. Would the speaker revise if it occurred?
+4. Is a new qualification independently principled?
+5. Did it appear only after a threatening counterexample?
+6. Are rival frameworks permitted equivalent repairs?
+
+Preserve:
+
+* `claim narrowed ≠ claim protected`;
+* `mechanism requested ≠ meaning suppressed`;
+* `scope clarified ≠ defeat evaded`.
+
+A claim becomes protected when relevant evidence is prevented from counting, not merely when it is refined.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Reason for A1:** The conversation distinguished protection from defense but never completed a loss-condition audit.
+
+**Source anchor:** Ziggy, early: “You’ve just protected your side. You haven’t defended it.”
+
+**Outcome effect:** Major. Without operational criteria, legitimate precision and strategic immunization remain too easy to confuse.
+
+---
+
+## A1-04 — Legitimate narrowing versus protective immunization
+
+**Missing comparison:**
+
+* legitimate precision;
+* evidential restraint;
+* explanatory parsimony;
+* temporary suspension of unsupported implications;
+* strategic containment;
+* unreachable defeat conditions.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION.
+
+**Restriction:** This is an extension inside the **Protection–Defense and Loss-Condition Audit**, not an independently established stable operator.
+
+**Source anchor:** Grant’s altered-state narrowing and Ziggy’s “toy chest” interpretation.
+
+**Outcome effect:** Material. It bears directly on whether Grant was defending, clarifying, bracketing, or protecting.
+
+---
+
+## A1-05 — Discriminating evidence among generator, receiver, and interface models
+
+**Missing move:** Specify evidence that would favor:
+
+* unconscious mind as generator;
+* unconscious mind as receiver;
+* unconscious mind as interface;
+* mixed or emergent models.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Source anchor:** Ziggy, late: “What’s the wiggle room between collective unconscious and supernatural intervention?”
+
+**Outcome effect:** Major. The discussion preserves alternatives but does not rank them.
+
+---
+
+## A1-06 — Comparative evaluation of the God bridge and secular normative bridges
+
+**Missing move:** After equalizing justificatory burdens, compare:
+
+* explanatory power;
+* coherence;
+* epistemic access;
+* motivational force;
+* moral consequences;
+* dependence on disputed metaphysics;
+* revision procedures;
+* treatment of disagreement.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Source anchor:** “The bridge theists will make is God… the bridge a non-theist will make is human flourishing.”
+
+**Outcome effect:** Major. Burden symmetry was demonstrated, but equal warrant and completed comparative judgment were not.
+
+---
+
+## A1-07 — Jurisdiction and justification of parsimony
+
+**Missing distinctions:**
+
+* parsimony as truth guarantee;
+* parsimony as defeasible evidential norm;
+* parsimony as research heuristic;
+* parsimony as practical constraint;
+* parsimony as aesthetic preference.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Source anchor:** Ziggy: “The fewest metaphysical commitments… is that to be desired?”
+
+**Outcome effect:** Material. Rejecting parsimony as self-justifying does not eliminate its possible limited epistemic value.
+
+---
+
+## A1-08 — Thresholds for excluding or containing harmful, coercive, or nonreciprocal frames
+
+**Missing move:** Establish when coexistence protections cease to apply because a framework:
+
+* coercively suppresses others;
+* refuses reciprocal constraints;
+* violates rights;
+* relies on deception or force;
+* directly prevents coexistence;
+* imposes severe external harms.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Source anchors:** PCB/crosstalk discussion; “How does Trust get threaded when multiple A+ frames are valid?”
+
+**Outcome effect:** Major. The coexistence protocol is strongest for reciprocal good-faith frames and underdeveloped for predatory ones.
+
+---
+
+## A1-09 — Restoration of power, responsibility, rights, and justice inside the PCB analogy
+
+**Missing move:** Supplement neutral signal-interference analysis with:
+
+* agency;
+* power;
+* coercion;
+* institutional control;
+* culpability;
+* rights;
+* distributive effects;
+* strategic manipulation.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Source anchor:** Ziggy’s PCB-trace and crosstalk analogy.
+
+**Outcome effect:** Material. Human systems are not passive traces and do not merely interfere accidentally.
+
+---
+
+## A1-10 — Differentiation among theistic moral theories
+
+**Missing distinctions:**
+
+* voluntarist divine command theory;
+* divine-nature theory;
+* natural law;
+* moral Platonism with God;
+* God as perfect exemplar;
+* God as the archetypal representation of moral order.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Source anchors:** DCT exchange and final God-as-archetype question.
+
+**Outcome effect:** Major. The authority probe behaves differently depending on whether goodness is command, nature, reason, teleology, or symbolic representation.
+
+---
+
+## A1-11 — Full double-effect analysis beyond intention alone
+
+**Missing components:**
+
+* act-description;
+* whether the act is independently permissible;
+* causal sequencing;
+* whether the good effect is achieved through the bad effect;
+* proportionality;
+* available alternatives;
+* certainty and risk;
+* intended versus foreseen effects.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Source anchor:** Ziggy: “What about abortion to save the mother or abortion because of a rape case?”
+
+**Outcome effect:** Material. Intention was made to carry more doctrinal weight than the bounded exchange established.
+
+---
+
+## A1-12 — Separation of distinct senses of meaning in the LLM discussion
+
+**Missing distinctions:**
+
+* functional semantic competence;
+* reference;
+* speaker intention;
+* audience uptake;
+* contextual prediction;
+* conscious understanding;
+* interpersonal negotiation of meaning.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Source anchor:** Ziggy: “Something else + that has to happen for full signal fidelity.”
+
+**Outcome effect:** Moderate. “Meaning” remained broad enough to support incompatible conclusions about LLM understanding.
+
+---
+
+## A1-13 — Disambiguation of God as archetype
+
+**Missing senses:**
+
+* moral exemplar;
+* highest-order psychic regulator;
+* cultural symbol;
+* interface to moral reality;
+* image of divine nature;
+* metaphysical source of goodness.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Source anchor:** “Is it useful to think of God as the archetype of morality?”
+
+**Outcome effect:** Moderate. The psychological/metaphysical split was introduced, but the operative sense remained open.
+
+---
+
+## A1-14 — Explicit disconfirmation conditions for the Grant-prediction model
+
+**Missing question:**
+
+> What response from Grant would have counted as evidence that the narrowing/containment model was wrong?
+
+Possible disconfirmers might include:
+
+* Grant affirming broader implications;
+* Grant distinguishing evidence suspension from denial;
+* Grant asking an expansive rather than narrowing question;
+* Grant revising his ontology;
+* Grant conceding that the mechanism leaves source genuinely open.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Source anchor:** Repeated “What will Grant say next?” exchanges.
+
+**Outcome effect:** Major. Partial matches were too easily counted as confirmation.
+
+---
+
+## A1-15 — Explicit revision conditions for Ziggy’s chosen Christian commitment
+
+**Missing move:** State what would revise:
+
+* Ziggy’s interpretation of Christianity;
+* his interpretation of a scriptural claim;
+* his confidence in a purported divine act;
+* his chosen commitment to Jesus;
+* his practical religious participation.
+
+**Availability tier:** A1 — Contextually Available.
+
+**Source anchor:** Ziggy: “I have chosen Jesus… for myself and my family.”
+
+**Outcome effect:** Material. The distinction between existential commitment and evidential insulation remains unresolved.
+
+---
+
+# 3. Non-Informative Omissions — A0 / UNKNOWN
+
+## A0-01 — Grant’s complete positive ontology
+
+The bounded source does not establish Grant’s complete metaphysical position.
+
+**Status:** UNKNOWN.
+
+No conclusion may be drawn about whether Grant positively endorses naturalism, physicalism, idealism, dualism, or another ontology.
+
+---
+
+## A0-02 — Whether Grant defends naturalism or physicalism
+
+Ziggy predicts a brain-dependent account of mind, but direct confirmation is absent.
+
+**Source anchor:** Ziggy: “thoughts come from mind which come from brains—no brain no things.”
+
+**Status:** UNKNOWN.
+
+---
+
+## A0-03 — Grant’s complete divine-command-theory formulation
+
+Grant’s alleged exclusivity claim is primarily G-REPORTED.
+
+**Status:** UNKNOWN.
+
+The bounded source does not establish whether Grant endorses voluntarist DCT, divine-nature theory, natural law, or another conditional position.
+
+---
+
+## A0-04 — The unnamed critics’ exact moral frameworks
+
+Their original statements and metaethical commitments are absent.
+
+**Status:** UNKNOWN.
+
+No adverse conclusion may be drawn about whether they were moral realists, consequentialists, deontologists, anti-realists, or intuitive critics.
+
+---
+
+## A0-05 — Whether the critics’ arguments were internal, external, or metanormative
+
+Ziggy reports the form “you are worshipping an evil being,” but the complete argument is unavailable.
+
+**Status:** UNKNOWN.
+
+---
+
+## A0-06 — Grant’s response to adequately supported external-source evidence
+
+The thread shows resistance to unsupported causal conclusions, not what Grant would do with strong evidence for an external source.
+
+**Status:** UNKNOWN.
+
+---
+
+## A0-07 — Ziggy’s systematic theology
+
+The bounded source establishes personal Christian commitment but not a complete theology of revelation, divine goodness, command, nature, salvation, or scriptural interpretation.
+
+**Status:** UNKNOWN.
+
+---
+
+## A0-08 — Exact Catholic application of double effect to unspecified medical cases
+
+The specific medical procedures, risks, alternatives, causal pathways, and intentions were not supplied.
+
+**Status:** UNKNOWN.
+
+No case-specific doctrinal conclusion is supported.
+
+---
+
+# 4. Counterevidence Findings
+
+## 4.1 Ziggy does not treat all frameworks as equally true
+
+**Counterevidence found:**
+
+* Ziggy explicitly chooses Jesus.
+* He does not support every underdog.
+* He recognizes destructive crosstalk and unfair constraint.
+* He asks how frames should be chosen rather than asserting that selection is impossible.
+* He acknowledges that some systems may need regulation.
+
+**Null search:** Searched for a clear case where Ziggy rejected a philosophically attractive framework because the evidence decisively disfavored it. None found.
+
+**Finding:** Ziggy preserves multiple frameworks for examination; he does not affirm universal equal truth.
+
+---
+
+## 4.2 Ziggy is capable of commitment
+
+**Counterevidence found:**
+
+* “I have chosen Jesus… for myself and my family.”
+* He raises his children Catholic.
+* He acts toward balance, fair contestability, and coexistence.
+* He limits his underdog support to cases involving unfair constraint.
+
+**Finding:** The characterization of Ziggy as unable or unwilling to commit is contradicted.
+
+---
+
+## 4.3 Ziggy does not support every underdog indiscriminately
+
+**Counterevidence found:**
+
+* “I do not go to the aid of every underdog.”
+* He accepts the refinement that intervention concerns unfair constraint rather than weakness itself.
+
+**Null search:** No direct example was found of Ziggy defending a dominant participant who was being treated unfairly.
+
+**Finding:** Indiscriminate contrarianism weakens, though an anti-dominance bias remains possible.
+
+---
+
+## 4.4 Mechanism/source separation is not simply supernatural proof
+
+**Counterevidence found:**
+
+* Ziggy says he does not need to prove supernatural causation.
+* He accepts unconscious cognition as a real mechanism.
+* He finds neural and Jungian accounts productive.
+* Nova explicitly cautions that ontological underdetermination does not prove an external source.
+
+**Finding:** The crude “supernatural conclusion disguised as openness” reading weakens.
+
+---
+
+## 4.5 Mechanism/source separation still lacks discriminating evidence
+
+**Evidence found:**
+
+* No test is supplied for generator, receiver, and interface models.
+* No observation is identified that would reduce confidence in the external-source possibility.
+* Non-exclusion does most of the work.
+
+**Finding:** The distinction is conceptually valid but remains evidentially incomplete.
+
+---
+
+## 4.6 Grant did not merely reject altered-state insight
+
+**Counterevidence found:**
+
+* Grant repairs a false dichotomy.
+* He conditionally agrees that cognition can occur outside explicit conscious reasoning.
+* He offers a layered neural-network analogy.
+* He appears willing to naturalize rather than dismiss the phenomenon.
+
+**Null search:** No direct Grant endorsement of supernatural-source implications was found.
+
+**Finding:** Simple dismissal is contradicted. The safe local description is cognitive or mechanism-level translation.
+
+---
+
+## 4.7 Grant’s AI-authorship question became positive trust calibration
+
+**Counterevidence found:**
+
+* Grant says Ziggy has kept the boundary between himself and AI clear.
+* Grant says the material does not feel like unfiltered AI.
+* The exchange ends in recognition rather than dismissal.
+
+**Finding:** The interpretation of the AI question as primarily a status attack weakens substantially.
+
+---
+
+## 4.8 Moral criticism of God does not imply personal moral superiority
+
+**Counterevidence found:**
+
+* Nova explicitly corrects the equation between judging an act and claiming to be the most moral person.
+* A critic may appeal to a standard independent of personal virtue.
+* A critic may make an internal inconsistency argument.
+
+**Finding:** Personal-superiority attribution is rejected.
+
+The narrower question of rival normative jurisdiction survives conditionally.
+
+---
+
+## 4.9 Burden symmetry does not establish equal warrant
+
+**Evidence found:**
+
+* The original conversation demonstrates that both the God bridge and the flourishing bridge require justification.
+* It does not complete a comparative evaluation of their evidence, coherence, explanatory power, or revision procedures.
+
+**Finding:**
+
+* burden symmetry: demonstrated;
+* equal warrant: not established;
+* completed comparative bridge analysis: omitted.
+
+---
+
+## 4.10 Coexistence is a strong default, not a demonstrated absolute
+
+**Counterevidence found:**
+
+* Ziggy recognizes destructive interaction.
+* He limits underdog intervention to unfair constraint.
+* He has not ruled out exclusion or regulation when necessary.
+* The thread leaves open when winner-selection or containment is justified.
+
+**Null search:** No concrete case was found where Ziggy decisively chose exclusion over coexistence.
+
+**Finding:** Coexistence is a strong orientation, not an absolute established rule.
+
+---
+
+## 4.11 Nova is validation-first but does provide real cautions
+
+**Counterevidence found in the original conversation:**
+
+* Ayahuasca does not prove supernatural causation.
+* Moral judgment is not personal moral superiority.
+* Mechanism/source underdetermination is not positive supernatural evidence.
+* The God-judgment question is not limited to simple divine command theory.
+* Several formulations are narrowed after Ziggy’s clarification.
+
+**Finding:** “Nova only validates” is too strong. A validation-first amplification bias survives.
+
+---
+
+## 4.12 Meaning recovery contains theoretical correction mechanisms
+
+**Counterevidence against pure projection:**
+
+* speaker recognition;
+* contextual fit;
+* improved prediction;
+* reduced contradiction;
+* behavioral confirmation;
+* revision.
+
+**Null search:** No strong case was found in which Ziggy abandoned a favored interpretation after direct rejection by the speaker.
+
+**Finding:** The procedure has correction mechanisms in theory, but failed-reconstruction handling is not demonstrated strongly.
+
+---
+
+## 4.13 The moral-authority probe relocates the dispute but does not defeat the first-order allegation
+
+**Evidence found:**
+
+* The probe exposes where normative authority is located.
+* It does not determine whether the alleged divine act occurred.
+* It does not determine whether the act conflicts with divine goodness.
+* It does not determine whether the critic is making an internal critique.
+
+**Finding:** The probe is diagnostically useful but not a complete answer.
+
+---
+
+## 4.14 Several relationship models were more adversarial than Grant’s direct replies warranted
+
+**Counterevidence found:**
+
+* Grant grants a version of non-conscious insight.
+* Grant repairs a false dichotomy.
+* Grant offers an analogy rather than a dismissal.
+* Grant’s AI question resolves positively.
+* “Sure, I agree” is a genuine limited concession.
+
+**Finding:** Broad containment, status-control, or reflexive-dismissal models should be narrowed.
+
+---
+
+## 4.15 Search for attractive possibilities rejected or narrowed
+
+**Evidence found:**
+
+* Ziggy abandons the need to prove supernatural causation.
+* Ziggy rejects indiscriminate underdog support.
+* Nova rejects personal moral superiority as the necessary reading.
+* Unconscious cognition is accepted even though it reduces the need for a supernatural mechanism.
+
+**Finding:** The conversation contains real pruning and self-correction.
+
+---
+
+## 4.16 Search for strong evidential pruning
+
+**Evidence found:**
+
+* Grant challenges causal overreach.
+* Nova separates possibility from proof.
+* Ziggy narrows the ayahuasca argument from supernatural demonstration to non-linear discovery and source openness.
+
+**Null result:** No agreed evidential threshold was developed for when external-source or archetypal hypotheses become live explanatory options.
+
+---
+
+## 4.17 Search for charitable reconstruction
+
+**Evidence found:**
+
+* Ziggy adopts “unconscious cognition” as a useful reformulation.
+* Grant grants an excluded middle between conscious linear reasoning and irrationality.
+* Nova distinguishes several versions of moral criticism.
+
+**Null result:** No full charitable reconstruction of Grant’s reported DCT position was completed before it was scored as forced or protective.
+
+---
+
+## 4.18 Search for expected moves that were not deployed
+
+**Evidence found:**
+
+* Grant did not use AI authorship to dismiss Ziggy.
+* Grant did not simply reject altered-state insight.
+* Ziggy did not insist that ayahuasca proved supernatural intervention after correction.
+* Nova did not retain the claim that critics necessarily consider themselves personally more moral than God.
+
+**Finding:** The observed interaction was less rigidly adversarial than some predictive descriptions suggested.
+
+---
+
+# 5. Alternative Readings
+
+## 5.1 Protection versus defense
+
+**Primary reading:** Ziggy distinguishes genuine exposure to loss from argumentative immunization.
+
+**Strongest alternative:** “Protection” is a rhetorical label applied whenever an opponent narrows a claim or resists Ziggy’s preferred implications.
+
+**Discriminating evidence:** The conceptual distinction is real, but reachable defeaters and revision conditions were never operationalized.
+
+**Disposition:** Valid seed; incomplete audit.
+
+---
+
+## 5.2 Multiple A+ frames
+
+**Primary reading:** Ziggy separates internal defensibility from comparative selection.
+
+**Strongest alternative:** Ziggy holds a substantive pluralist belief that incompatible frameworks are equally valid.
+
+**Discriminating evidence:** Ziggy chooses Jesus and limits his support for frames. However, “A+” remains undefined.
+
+**Disposition:** Operator-like separation survives; universal equal validity does not.
+
+---
+
+## 5.3 Foundation descent
+
+**Primary reading:** A repeated move exposing the assumptions beneath knowledge and authority claims.
+
+**Strongest alternative:** A regress tactic that prevents any foundation from becoming acceptable.
+
+**Discriminating evidence:** Ziggy recognizes chosen commitments and stopping points, but applies the scrutiny more fully to opponents than to his own Christian bridge.
+
+**Disposition:** Genuine move with asymmetrical deployment.
+
+---
+
+## 5.4 PCB/crosstalk translation
+
+**Primary reading:** A system-level transformation from individual framework quality to interaction effects.
+
+**Strongest alternative:** An engineering metaphor that neutralizes moral agency and substantive truth.
+
+**Discriminating evidence:** Signal, trace, field, and coupling models recur. Power, rights, and responsibility remain underrepresented.
+
+**Disposition:** Durable reasoning style with a major completion requirement.
+
+---
+
+## 5.5 Meaning-signal reconstruction
+
+**Primary reading:** A procedure for recovering intended meaning before evaluation.
+
+**Strongest alternative:** Charitable reinterpretation that lets favored speakers escape the consequences of their words.
+
+**Discriminating evidence:** The method includes feedback and revision in theory. Strong rejection handling is not demonstrated.
+
+**Disposition:** Procedure survives; reliability remains incompletely tested.
+
+---
+
+## 5.6 Mechanism–source separation
+
+**Primary reading:** A legitimate distinction between how a phenomenon occurs and what ultimately grounds it.
+
+**Strongest alternative:** A defensive maneuver preserving supernatural possibility after any naturalistic explanation.
+
+**Discriminating evidence:** Ziggy accepts mechanisms and denies that non-exclusion proves transcendence. No comparative evidence or closure condition is provided.
+
+**Disposition:** Conceptually valid, evidentially incomplete, potentially protective in repeated use.
+
+---
+
+## 5.7 Grant’s altered-state response
+
+**Primary reading:** In the documented exchange, Grant reframes the issue through layered, non-conscious, or cognitive mechanisms.
+
+**Strongest alternatives:**
+
+* legitimate narrowing;
+* evidential restraint;
+* discovery/justification separation;
+* common-ground construction;
+* methodological bracketing;
+* naturalistic closure;
+* participants answering different questions.
+
+**Discriminating evidence:** Direct replies support a local cognitive reframing and limited concession. Motive and stable ontology remain UNKNOWN.
+
+**Disposition:** Local description survives; broad Grant operator does not.
+
+---
+
+## 5.8 Significance compression
+
+**Primary reading:** Ziggy detects that a reformulation retains semantic content while reducing downstream significance.
+
+**Strongest alternative:** Ziggy treats any loss of symbolic richness as distortion even when the narrowing is evidentially principled.
+
+**Discriminating evidence:** Ziggy calls it “slight compression,” showing nuance, but does not calibrate the implication boundary directly with Grant.
+
+**Disposition:** Plausible interpretation, not confirmed motive.
+
+---
+
+## 5.9 Moral-authority probe
+
+**Primary reading:** The probe exposes where ultimate normative jurisdiction is located.
+
+**Strongest alternative:** It evades a substantive moral allegation by demanding a complete metaethics from the critic.
+
+**Discriminating evidence:** Its validity depends on whether the critique is internal, external, or metanormative and whether the first-order issue remains in view.
+
+**Disposition:** Conditionally useful; not a universal defeater.
+
+---
+
+## 5.10 Balance and underdog support
+
+**Primary reading:** Ziggy strengthens unfairly constrained positions to restore contestability.
+
+**Strongest alternative:** Ziggy identifies with outsiders and resists dominant positions as an identity pattern.
+
+**Discriminating evidence:** Ziggy explicitly rejects support for every underdog. No reverse example involving an unfairly treated dominant party was found.
+
+**Disposition:** Fairness-regulation reading stronger; residual contrarian risk remains.
+
+---
+
+## 5.11 Nova’s validation-first expansion
+
+**Primary reading:** Nova helps formulate emerging intuitions into clear conceptual structures.
+
+**Strongest alternative:** Role-induced agreement amplifies weak interpretations and hardens them prematurely.
+
+**Discriminating evidence:** Nova introduces real cautions but repeatedly begins with strong validation and intensifies adversarial descriptions.
+
+**Disposition:** Both functions are active.
+
+---
+
+## 5.12 Grant prediction model
+
+**Primary reading:** Ziggy and Nova identify recurring response patterns and successfully anticipate Grant.
+
+**Strongest alternative:** Predictions such as “he will narrow or naturalize” are broad enough to absorb many possible replies.
+
+**Discriminating evidence:** Some replies partially match; concessions and positive trust calibration are less adversarial than the model.
+
+**Disposition:** Packet-level predictive utility survives; stable personality diagnosis does not.
+
+---
+
+## 5.13 Trust as protocol
+
+**Primary reading:** Cross-frame trust can rest on predictable conduct rather than doctrinal agreement.
+
+**Strongest alternative:** This is a local repair strategy for Ziggy and Grant rather than a general trust theory.
+
+**Discriminating evidence:** The AI-authorship exchange provides one successful example. Coercive and nonreciprocal cases were not tested.
+
+**Disposition:** Promising but scope-limited.
+
+---
+
+## 5.14 Chosen Christian commitment
+
+**Primary reading:** Ziggy makes an existential commitment without claiming demonstrative compulsion.
+
+**Strongest alternative:** “Choice” insulates the commitment from evidential criticism.
+
+**Discriminating evidence:** Ziggy acknowledges uncertainty and competing frames. Explicit revision conditions are absent.
+
+**Disposition:** Authentic commitment supported; insulation risk unresolved.
+
+---
+
+## 5.15 God as archetype
+
+**Primary reading:** God can function psychologically as a moral archetype without that settling metaphysical source.
+
+**Strongest alternative:** The interface/source distinction merely postpones whether the archetype is projection or perception.
+
+**Discriminating evidence:** The conceptual bifurcation is clear; adjudicating evidence is absent.
+
+**Disposition:** Useful conceptual split; ontology remains UNKNOWN.
+
+---
+
+# 6. Characterizations That Survived
+
+1. Ziggy repeatedly separates internal defensibility from comparative selection.
+
+2. Ziggy repeatedly descends from claims to foundations, bridges, standards, and jurisdiction.
+
+3. The facts-to-values bridge is a central organizing problem.
+
+4. Ziggy demonstrably applies symmetrical justificatory burdens to theistic and secular moral bridges.
+
+5. Burden symmetry does not establish equal warrant.
+
+6. Ziggy distinguishes a frame’s internal viability from its claim to exclusive jurisdiction.
+
+7. Modal scope testing is a direct recurring reasoning move.
+
+8. The PCB/crosstalk analogy reflects a recurring system-level reasoning style.
+
+9. Ziggy’s coexistence orientation is strong but not absolute.
+
+10. Ziggy’s underdog orientation concerns perceived unfair constraint rather than every losing side.
+
+11. Meaning-signal reconstruction is a deliberately formulated interpretive procedure.
+
+12. The procedure includes theoretical feedback and revision mechanisms, though strong failed-reconstruction handling is not demonstrated.
+
+13. Mechanism and ultimate source are genuinely distinguishable explanatory questions.
+
+14. Mechanism/source separation does not positively establish a supernatural source.
+
+15. The mechanism/source discussion still lacks evidence capable of discriminating among source models.
+
+16. In the documented altered-state exchange, Grant reframed the issue through layered, non-conscious, or cognitive mechanisms.
+
+17. Grant directly performed one false-dichotomy repair.
+
+18. Grant directly offered one conditional concession about cognition outside explicit conscious reasoning.
+
+19. Grant directly supplied a partial neural-network analogy.
+
+20. Grant’s AI-authorship questioning ended in positive trust calibration.
+
+21. The Ziggy–Grant interaction supports a packet-level expansion–translation–reopening loop.
+
+22. Nova repeatedly functions as a formulation and intensification engine.
+
+23. Nova exhibits a validation-first tendency but also introduces genuine evidential cautions.
+
+24. Ziggy’s frame-mapping does not prevent commitment; his choice of Jesus directly contradicts total suspension.
+
+25. The moral-authority probe can reveal external or metanormative jurisdiction when that is the form of the critic’s argument.
+
+26. The probe relocates the dispute but does not itself answer the first-order moral allegation.
+
+27. God-as-archetype is useful as a psychological or symbolic description without independently settling metaphysical ontology.
+
+---
+
+# 7. Characterizations That Weakened or Remain Quarantined
+
+## 7.1 Weakened
+
+1. **“Grant simply rejects unusual or expansive ideas.”**
+   Weakened by his false-dichotomy repair, limited concession, and neural-network analogy.
+
+2. **“Grant’s AI question was primarily a status attack.”**
+   Weakened substantially by the positive follow-up.
+
+3. **“Ziggy treats all frameworks as equally true.”**
+   Weakened by his Christian commitment, selective underdog support, and concern with harmful interaction.
+
+4. **“Ziggy cannot commit.”**
+   Contradicted.
+
+5. **“Ziggy supports every underdog.”**
+   Contradicted by direct correction.
+
+6. **“Mechanism/source separation is merely supernatural proof.”**
+   Weakened by explicit caution and acceptance of cognitive mechanisms.
+
+7. **“Meaning recovery is already demonstrated as reliable.”**
+   Weakened because strong disconfirmation handling is absent.
+
+8. **“Equal burdens entail equal warrant.”**
+   Not established.
+
+9. **“Moral criticism of God entails personal moral superiority.”**
+   Rejected.
+
+10. **“Every condemnation of God is an external critique.”**
+    Not established.
+
+11. **“The moral-authority probe defeats the moral objection.”**
+    Weakened. It changes jurisdiction without settling the alleged act.
+
+12. **“The engineering analogy is sufficient for social conflict.”**
+    Weakened by missing power, justice, rights, and harm thresholds.
+
+13. **“Parsimony is merely arbitrary preference.”**
+    Weakened because its limited epistemic jurisdiction was not analyzed.
+
+14. **“God as moral archetype is a complete theological account.”**
+    Weakened by ambiguity among symbol, regulator, interface, exemplar, and source.
+
+---
+
+## 7.2 Quarantined Grant characterizations
+
+The following are not supported strongly enough for promotion:
+
+* stable naturalizing operator;
+* strategic containment as a general trait;
+* ontological closure;
+* broad implication suppression;
+* broad denial of intent assessment;
+* broad causal-evidence gatekeeping;
+* prediction-only epistemology;
+* positive endorsement of naturalism;
+* positive endorsement of physicalism;
+* universalized DCT exclusivity;
+* deliberate conceptual minimization.
+
+The safe direct Grant findings remain limited to:
+
+* one false-dichotomy repair;
+* one conditional concession about cognition outside explicit conscious reasoning;
+* one partial neural-network analogy;
+* AI-authorship questioning followed by positive trust calibration.
+
+---
+
+## 7.3 Quarantined Ziggy characterizations
+
+Do not promote:
+
+* universal pluralism;
+* equal-truth doctrine;
+* inability to choose;
+* indiscriminate underdog identification;
+* supernatural proof through mechanism/source underdetermination;
+* fully symmetrical self-application of grounding scrutiny;
+* completed theology of divine authority;
+* explicit falsification conditions for Christian commitment.
+
+---
+
+## 7.4 Quarantined Nova characterizations
+
+Do not promote:
+
+* neutral adjudicator without alignment bias;
+* consistently adversarial critic of Ziggy;
+* reliable interpreter of Grant’s motives;
+* completed distinction merely because it later appears in extraction products;
+* later repair as proof that the distinction was present earlier.
+
+---
+
+# 8. Eight-Family Consolidation
+
+These eight families are **completed dig-level analytic families**.
+
+Their presence in the final audit does not establish that Ziggy, Grant, or Nova performed every component.
+
+Directly demonstrated moves, later co-constructed repairs, A3 omissions, A1 completion requirements, A0 material, role behavior, and Idea Trails remain separately labeled.
+
+---
+
+## Family 1 — Protection–Defense and Loss-Condition Audit
+
+### Directly demonstrated seeds
+
+* Ziggy distinguishes protection from defense.
+* Ziggy asks whether a position has been exposed to challenge.
+* Ziggy notices when narrowing may reduce the force of an opposing interpretation.
+
+### Confirmed A3 omissions
+
+* Nova did not consistently apply evidential caution before assigning containment motives to Grant.
+* Grant’s strongest legitimate functions were not reconstructed before containment scoring.
+
+### A1 completion requirements
+
+* reachable defeaters;
+* revision conditions;
+* principled versus post-threat qualification;
+* equivalent repair rights for rival frameworks;
+* legitimate narrowing versus protective immunization.
+
+### Core archival restriction
+
+`claim narrowed ≠ claim protected`
+
+`mechanism requested ≠ meaning suppressed`
+
+`scope clarified ≠ defeat evaded`
+
+Protection is established only when relevant evidence is prevented from counting or defeat conditions are made unreachable.
+
+---
+
+## Family 2 — Frame Coherence–Truth–Compatibility Audit
+
+### Directly demonstrated seeds
+
+* coherence versus selection;
+* multiple defensible frames;
+* system-level crosstalk;
+* local viability versus interaction effects.
+
+### Confirmed A3 omission
+
+* “A+” was not definitionally frozen.
+
+### A1 completion requirements
+
+Explicitly separate:
+
+* coherence;
+* warrant;
+* truth;
+* explanatory power;
+* moral acceptability;
+* practical viability;
+* psychological livability;
+* social compatibility;
+* revision capacity.
+
+### Core archival restriction
+
+`internally coherent ≠ true`
+
+`competently defended ≠ equally warranted`
+
+`locally functional ≠ socially compatible`
+
+`psychologically livable ≠ morally acceptable`
+
+---
+
+## Family 3 — Frame-Jurisdiction and Exclusivity Audit
+
+### Directly demonstrated seeds
+
+* exclusivity detachment;
+* modal scope testing;
+* local versus universal jurisdiction;
+* parsimony questioned as an unargued standard.
+
+### A1 completion requirements
+
+* literal reverse-role testing;
+* defined jurisdiction for parsimony;
+* explicit tests for when exclusivity is an internal entailment rather than an added claim.
+
+### A0 restrictions
+
+Grant’s full DCT formulation and complete theory of exclusivity remain UNKNOWN.
+
+---
+
+## Family 4 — Meaning–Intent and Interpretation Audit
+
+### Directly demonstrated seeds
+
+* meaning-signal reconstruction;
+* context-sensitive interpretation;
+* speaker recognition and behavioral fit as calibration;
+* distinction between literal words and intended meaning.
+
+### Confirmed A3 omissions
+
+* compression interpretation was not calibrated directly with Grant;
+* internal/external critique distinction was not reapplied before scoring the moral-authority argument.
+
+### A1 completion requirements
+
+* explicit failed-reconstruction handling;
+* distinctions among speaker intention, reference, uptake, and semantic competence;
+* resistance to charitable overprojection.
+
+---
+
+## Family 5 — Description–Meaning and Implication-Propagation Audit
+
+### Directly demonstrated seeds
+
+* descriptive versus meaning layers;
+* E/B-field analogy;
+* concern that a mechanism-level account may leave implication questions open;
+* implication reopening after a narrowed concession.
+
+### Confirmed A3 omission
+
+* strongest functional reconstruction of Grant was absent before significance-loss scoring.
+
+### A1 completion requirements
+
+* distinguish evidential restraint from implication suppression;
+* specify when a mechanistic explanation legitimately limits downstream interpretation;
+* restore power, responsibility, and justice to descriptive system analogies.
+
+---
+
+## Family 6 — Mechanism–Source–Ontology Audit
+
+### Directly demonstrated seeds
+
+* mechanism/source distinction;
+* unconscious as possible generator, receiver, or interface;
+* willingness to accept cognitive mechanism without treating it as ontological closure.
+
+### Confirmed A3 omission
+
+* ontological non-exclusion was not separated early enough from positive support; later partially repaired.
+
+### A1 completion requirements
+
+* discriminating evidence among generator, receiver, and interface models;
+* probability or live-option criteria;
+* explicit closure and revision conditions.
+
+### Core archival restriction
+
+`mechanism does not settle ontology`
+
+does not entail:
+
+`external source gains evidence`
+
+---
+
+## Family 7 — Trust–Coexistence–Harm Boundary Audit
+
+### Directly demonstrated seeds
+
+* trust as interaction protocol;
+* authorship transparency;
+* coexistence orientation;
+* balance and unfair-constraint sensitivity;
+* system-level crosstalk analysis.
+
+### A1 completion requirements
+
+* thresholds for excluding coercive or nonreciprocal frames;
+* rights, responsibility, power, and justice;
+* handling deception and institutional dominance;
+* conditions under which coexistence must yield to protection or exclusion.
+
+### A0 restrictions
+
+No universal account of trustworthy conduct across hostile or predatory systems is established.
+
+---
+
+## Family 8 — Moral Bridge–Critique–Authority Audit
+
+### Directly demonstrated seeds
+
+* facts-to-values bridge exposure;
+* symmetrical grounding burden;
+* distinction between personal superiority and moral judgment;
+* moral-authority probe;
+* internal/external critique distinction;
+* intention as a hinge in double-effect discussion.
+
+### Confirmed A3 omissions
+
+* self-application of grounding scrutiny;
+* internal/external distinction dropped at the crucial point;
+* first-order moral problem not preserved alongside metaethical grounding.
+
+### A1 completion requirements
+
+* literal reverse-role test;
+* comparative bridge analysis after burden equalization;
+* differentiation among DCT, divine-nature theory, natural law, and other theistic accounts;
+* full double-effect analysis;
+* disambiguation of God as moral archetype.
+
+### A0 restrictions
+
+The unnamed critics’ exact arguments and Ziggy’s systematic theology remain UNKNOWN.
+
+---
+
+## 8.1 Directly demonstrated moves
+
+### Ziggy
+
+* coherence–selection separation;
+* foundation descent;
+* normative bridge exposure;
+* symmetrical burden reassignment;
+* exclusivity detachment;
+* modal scope testing;
+* system-level interaction translation;
+* meaning-signal reconstruction;
+* implication reopening;
+* mechanism/source separation;
+* frame-mapping suspension;
+* conditional underdog intervention;
+* chosen Christian commitment.
+
+### Grant — safely recoverable local moves only
+
+* false-dichotomy repair;
+* conditional concession about non-conscious cognition;
+* partial neural-network analogy;
+* AI-authorship inquiry followed by trust calibration.
+
+### Nova
+
+* formulation intensification;
+* validation-first expansion;
+* several later evidential cautions;
+* psychological/metaphysical distinction in the God-as-archetype exchange.
+
+---
+
+## 8.2 Later co-constructed repairs
+
+* mechanism/source underdetermination is not supernatural evidence;
+* moral judgment is not personal moral superiority;
+* the authority probe is not limited to DCT;
+* trust may be based on predictable conduct rather than shared doctrine;
+* God as archetype need not reduce God to psychology;
+* internal and external critique should be distinguished.
+
+These later repairs can establish A3 availability for Nova or the co-constructed conversation where the same operation was omitted earlier.
+
+They do not prove that Ziggy or Grant independently possessed the repair at the earlier point.
+
+---
+
+## 8.3 Confirmed A3 omissions
+
+1. Self-application of symmetrical grounding scrutiny.
+2. “A+” not definitionally frozen.
+3. Internal/external critique distinction dropped.
+4. Ayahuasca probability claim not foundation-audited.
+5. Strongest functional reconstruction of Grant absent before containment scoring.
+6. Compression interpretation not calibrated through meaning recovery.
+7. Nova’s evidential caution not consistently applied to the Grant model.
+8. First-order moral problem not preserved alongside metaethical grounding.
+9. Non-exclusion not separated early enough from positive support.
+
+**A2 count:** None.
+
+---
+
+## 8.4 Possible A1 completion requirements
+
+1. Literal reverse-role testing.
+2. Explicit grading-dimension separation.
+3. Reachable loss and revision conditions.
+4. Legitimate narrowing versus immunization.
+5. Generator/receiver/interface discriminators.
+6. Comparative moral-bridge evaluation.
+7. Parsimony jurisdiction.
+8. Harmful-frame exclusion thresholds.
+9. Power and justice inside the PCB analogy.
+10. Theistic moral-theory differentiation.
+11. Full double-effect analysis.
+12. LLM meaning distinctions.
+13. God-as-archetype disambiguation.
+14. Grant-model disconfirmation conditions.
+15. Christian-commitment revision conditions.
+
+---
+
+## 8.5 Unavailable A0 material
+
+* Grant’s complete positive ontology;
+* Grant’s commitment or noncommitment to naturalism or physicalism;
+* Grant’s complete DCT formulation;
+* critics’ exact moral frameworks;
+* whether their critiques were internal, external, or metanormative;
+* Grant’s response to strong external-source evidence;
+* Ziggy’s systematic theology;
+* exact Catholic judgment in unspecified medical cases.
+
+---
+
+## 8.6 Role and protocol behavior
+
+### Ziggy
+
+* live conceptual explorer;
+* defender of interpretive space;
+* balance-sensitive frame mapper;
+* chosen believer rather than purely compelled believer.
+
+### Nova
+
+* formulation engine;
+* conceptual amplifier;
+* validation-first ally;
+* occasional later corrector;
+* participant in model reinforcement.
+
+### Grant
+
+* absent external interlocutor for much of the extracted analysis;
+* local precision gatekeeper in the documented altered-state exchange;
+* authorship and trust calibrator in the AI exchange.
+
+The incompleteness of Grant’s direct participation creates a protocol asymmetry: Ziggy and Nova can refine their model of Grant without Grant continuously correcting it.
+
+---
+
+## 8.7 Idea Trails
+
+Retain as exploratory trails rather than stable operators:
+
+* Loki as frame-mapping archetype;
+* PCB traces and social crosstalk;
+* E/B-field descriptive/meaning coupling;
+* radio or interface model of unconscious cognition;
+* LLM prediction and meaning;
+* God as archetype of morality;
+* ayahuasca as a non-linear discovery case;
+* double effect as a frame-sensitive intention case.
+
+---
+
+# 9. Relationship-Level Loops
+
+## Loop 1 — Expansive Claim–Mechanism Translation–Implication Reopening Loop
+
+`Ziggy expansive proposal`
+→ `Grant offers cognitive or mechanism-level translation`
+→ `Ziggy accepts the mechanism`
+→ `Ziggy asks which implications remain`
+→ `Nova interprets possible significance loss`
+→ `meaning or ontology question reopens`
+
+### Productive function
+
+* creates common ground;
+* distinguishes mechanism, meaning, and source;
+* prevents one explanatory level from silently absorbing all others.
+
+### Live alternative explanations
+
+* legitimate narrowing;
+* evidential restraint;
+* methodological bracketing;
+* discovery/justification separation;
+* rhetorical minimization;
+* overreading by Ziggy or Nova;
+* participants answering different questions.
+
+### Failure mode
+
+The loop may become non-closing if every mechanism is accepted as partial and every remaining possibility is preserved without ranking or defeat conditions.
+
+---
+
+## Loop 2 — Grant Prediction–Response–Model Reinforcement Loop
+
+`Ziggy asks what Grant will say`
+→ `Nova predicts narrowing, mechanism, or causal caution`
+→ `Grant gives a partially matching response`
+→ `partial match is scored as predictive success`
+→ `the Grant model becomes more fixed`
+→ `future replies are interpreted through that model`
+
+### Required pressure test
+
+> What response would have counted as disconfirmation of the model?
+
+A merely partial match must not count as complete predictive success.
+
+### Counterevidence
+
+* Grant’s genuine concession;
+* his false-dichotomy repair;
+* his positive AI trust calibration.
+
+### Failure mode
+
+Broad predictions can become self-sealing by classifying nearly any careful response as narrowing.
+
+---
+
+## Loop 3 — Intuition–Validation–Intensification Loop
+
+`Ziggy presents tentative intuition`
+→ `Nova validates its core`
+→ `Nova sharpens it into a debate-ready formulation`
+→ `Ziggy tests the stronger formulation`
+→ `Nova generalizes the pattern`
+→ `confidence exceeds the initial evidence`
+
+### Productive function
+
+Rapid conceptual articulation.
+
+### Failure mode
+
+Premature certainty, motive attribution, and adversarial escalation.
+
+---
+
+## Loop 4 — Meaning Reconstruction–Trust Calibration Loop
+
+`literal wording creates uncertainty`
+→ `Ziggy reconstructs intended meaning`
+→ `interpretation is tested through context or speaker response`
+→ `apparent fit increases trust`
+→ `greater trust encourages future charitable reconstruction`
+
+### Productive function
+
+Improves cross-frame communication.
+
+### Failure mode
+
+A self-reinforcing charitable interpretation may overlook direct disagreement unless failed reconstructions are actively tracked.
+
+---
+
+## Loop 5 — Threatened Frame–Balance Intervention Loop
+
+`one frame appears dominant`
+→ `Ziggy notices a constrained alternative`
+→ `he strengthens or reconstructs the weaker side`
+→ `the dominant frame receives stricter scrutiny`
+→ `contestability is restored`
+→ `Ziggy checks whether he is defending fairness or merely the underdog`
+
+### Productive function
+
+Prevents premature monopoly.
+
+### Failure mode
+
+Reverse asymmetry or chronic opposition to whichever side currently appears dominant.
+
+---
+
+## Loop 6 — Grounding Challenge–Mutual Underdetermination Loop
+
+`one side attacks the other’s foundation`
+→ `Ziggy applies the grounding demand in reverse`
+→ `both sides reach non-derived commitments`
+→ `the dispute becomes competing bridges`
+→ `neither gains decisive priority`
+→ `discussion shifts toward outcomes, coexistence, or choice`
+
+### Productive function
+
+Exposes asymmetric certainty.
+
+### Failure mode
+
+Shared foundational limits may be mistaken for equal evidential warrant.
+
+---
+
+## Loop 7 — Authorship Suspicion–Disclosure–Recognition Loop
+
+`Grant detects possible AI influence`
+→ `Grant asks about authorship`
+→ `Ziggy discloses tool use and asserts ownership`
+→ `Grant distinguishes integrated thought from unfiltered AI`
+→ `trust increases`
+
+### Productive function
+
+Creates an explicit norm for tool-assisted cognition.
+
+### Failure mode
+
+Stylistic intuition can substitute for substantive authorship analysis.
+
+---
+
+# 10. Source and Attribution Restrictions
+
+1. This repaired Stage-3 extraction is restricted to:
+
+   * the bounded original conversation;
+   * completed Stage 1;
+   * completed Stage 2;
+   * the prior Stage-3 extraction;
+   * the supplied Stage-3 repair directive. 
+
+2. The repair directive governs classification and archival structure. It is not evidence that any historical actor performed a move.
+
+3. Stage 1, Stage 2, and Stage 3 are extraction products. Their wording cannot independently establish original actor behavior.
+
+4. Statements such as “Stage 2 identified a distinction” are not actor-level evidence unless the underlying operation appears in the bounded historical conversation.
+
+5. Later Nova or co-constructed repairs may establish A3 availability for Nova or the conversation.
+
+6. Later repairs do not automatically prove that Ziggy or Grant independently possessed the same move earlier.
+
+7. Omission-derived completion requirements are not actor performances.
+
+8. G-REPORTED material must not be converted into G-DIRECT.
+
+9. NOVA-INTERPRETATION must not be attributed to Grant or Ziggy unless explicitly adopted.
+
+10. The direct Grant corpus safely supports only:
+
+    * one false-dichotomy repair;
+    * one conditional concession concerning cognition outside explicit conscious reasoning;
+    * one partial neural-network analogy;
+    * AI-authorship questioning followed by positive trust calibration.
+
+11. The following Grant claims remain quarantined:
+
+    * stable naturalizing operator;
+    * strategic containment;
+    * ontological closure;
+    * general implication suppression;
+    * broad intent denial;
+    * broad causal-evidence gatekeeping;
+    * positive naturalism or physicalism.
+
+12. The expansion–translation–reopening pattern may remain a packet-level relationship loop. It must not be promoted into a settled Grant personality trait.
+
+13. Cross-chat memories, Project Conversation Content, uploaded archives beyond the repair directive, and external research are excluded as evidence.
+
+14. A0 material remains UNKNOWN and non-informative.
+
+15. No Stage-4 mapping or profile promotion is performed here.
+
+---
+
+# 11. Final Archival Disposition
+
+## 11.1 Primary dig-level analytic families
+
+Retain:
+
+1. **Protection–Defense and Loss-Condition Audit**
+2. **Frame Coherence–Truth–Compatibility Audit**
+3. **Frame-Jurisdiction and Exclusivity Audit**
+4. **Meaning–Intent and Interpretation Audit**
+5. **Description–Meaning and Implication-Propagation Audit**
+6. **Mechanism–Source–Ontology Audit**
+7. **Trust–Coexistence–Harm Boundary Audit**
+8. **Moral Bridge–Critique–Authority Audit**
+
+These are completed dig-level analytic families.
+
+Their presence does not establish that any actor performed every component.
+
+---
+
+## 11.2 Confirmed A3 omission count
+
+**Nine:**
+
+1. Self-application of symmetrical grounding scrutiny.
+2. “A+” not definitionally frozen.
+3. Internal/external critique distinction dropped.
+4. Ayahuasca probability claim not foundation-audited.
+5. Strongest functional reconstruction of Grant absent before containment scoring.
+6. Compression interpretation not calibrated through meaning recovery.
+7. Nova’s evidential caution not consistently applied to the Grant model.
+8. First-order moral problem not preserved alongside metaethical grounding.
+9. Non-exclusion not separated early enough from positive support.
+
+The ninth omission was later partially repaired.
+
+---
+
+## 11.3 A2 disposition
+
+**No valid A2 omissions.**
+
+---
+
+## 11.4 A1 disposition
+
+Retain as possible omission-derived completion requirements:
+
+1. Literal reverse-role testing.
+2. Full grading-dimension separation.
+3. Reachable loss and revision conditions.
+4. Legitimate narrowing versus protective immunization.
+5. Generator/receiver/interface discriminators.
+6. Comparative moral-bridge evaluation.
+7. Parsimony jurisdiction.
+8. Harmful-frame exclusion thresholds.
+9. Power and justice inside the PCB analogy.
+10. Theistic moral-theory differentiation.
+11. Full double-effect analysis.
+12. LLM meaning distinctions.
+13. God-as-archetype disambiguation.
+14. Grant-model disconfirmation conditions.
+15. Christian-commitment revision conditions.
+
+These are completion requirements, not demonstrated actor operators.
+
+---
+
+## 11.5 A0 disposition
+
+Retain as UNKNOWN and non-informative:
+
+* Grant’s positive ontology;
+* Grant’s naturalism or physicalism;
+* Grant’s complete DCT formulation;
+* the critics’ exact moral frameworks;
+* the jurisdictional form of their critiques;
+* Grant’s response to strong external-source evidence;
+* Ziggy’s systematic theology;
+* exact double-effect judgments for unspecified medical cases.
+
+---
+
+## 11.6 Overall archival judgment
+
+The bounded conversation produced a strong set of recurring reasoning seeds:
+
+* foundation descent;
+* burden symmetry;
+* frame-jurisdiction testing;
+* modal scope testing;
+* meaning reconstruction;
+* mechanism/source separation;
+* system-level interaction translation;
+* trust calibration;
+* moral-authority questioning.
+
+Its central strengths were its ability to:
+
+* preserve multiple explanatory levels;
+* expose unearned universal jurisdiction;
+* identify hidden normative bridges;
+* recover meaning beyond literal phrasing;
+* accept limited mechanisms without prematurely closing larger questions.
+
+Its central weaknesses were:
+
+* failure to operationalize protection through reachable defeat conditions;
+* insufficient separation of coherence, warrant, truth, morality, and compatibility;
+* asymmetrical grounding scrutiny;
+* treating unknown probability as extraordinary improbability;
+* insufficient reconstruction and calibration before assigning Grant a containment strategy;
+* delayed distinction between logical non-exclusion and positive evidential support;
+* relocation of moral disputes without preserving the first-order allegation;
+* underdeveloped criteria for excluding harmful or nonreciprocal frames.
+
+The strongest packet-local formulation is:
+
+> Ziggy repeatedly preserves interpretive and modal space, exposes hidden bridges, and challenges exclusive jurisdiction. Grant’s directly documented altered-state responses provide limited cognitive translations and genuine concessions, not enough evidence for a broad containment personality. Nova accelerates conceptual synthesis and supplies useful repairs, but its validation-first role sometimes turns tentative interpretations into overconfident models. The repaired audit therefore preserves the reasoning families while separating demonstrated moves from later repairs, omission-derived requirements, and unavailable claims.
+
+`DIG_COMPOUND_14_protection_frames_meaning_source_and_moral_authority`
+
+`STAGE 3 COMPLETE AFTER AVAILABILITY-TIER REPAIR`
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 CORRECTED OUTPUT (Nova QC, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-3 record**, read together with the two carried-forward scope
+> corrections in this block — binding overlays on Stage 4.
+
+**Verdict: PASS WITH TWO CARRIED-FORWARD SCOPE CORRECTIONS — PROCEED
+TO STAGE 4; no further Stage-3 rerun.** The availability definitions,
+nine-item A3 ledger, Grant-attribution restrictions, eight-family
+consolidation, and counterevidence work are all strong. **Final
+counts: 9 confirmed A3 · 0 A2.**
+
+**⭐ SCOPE CORRECTION 1 — A3-01 narrowed:** self-application of
+grounding scrutiny is correctly A3, but only for the demonstratedly
+available questions (what grounds God's moral authority? how are
+divine commands identified as genuinely divine? what connects "God
+exists" to "God possesses ultimate moral authority"? is the
+believer's own bridge exempted from the burden imposed on rivals?).
+It must NOT absorb the two stronger operations that stay **A1**:
+comparative evaluation of the Christian bridge against rivals, and
+explicit revision/defeat conditions for Ziggy's Christian commitment.
+Rule: *self-application of a grounding burden ≠ completed comparative
+bridge evaluation ≠ explicit falsification or revision architecture.*
+
+**⭐ SCOPE CORRECTION 2 — role and value material out of "directly
+demonstrated moves":** frame-mapping suspension = **ROLE** (Ziggy as
+Frame Mapper / Exploratory Suspender); conditional underdog
+intervention = **VALUE ORIENTATION** (balance, fair contestability);
+chosen Christian commitment = **EXISTENTIAL COMMITMENT** amid
+acknowledged uncertainty. All three are directly evidenced — and none
+is a philosophical operator; **none maps automatically to Museum
+operators in Stage 4.** The ten direct Ziggy *reasoning* moves stand:
+coherence–selection separation; foundation descent; normative-bridge
+exposure; symmetrical burden reassignment; exclusivity detachment;
+modal-scope testing; system-level interaction translation;
+meaning-signal reconstruction; implication reopening;
+mechanism/source separation.
+
+**📋 FINAL DISPOSITION: STAGE 3 COMPLETE WITH TWO CARRIED-FORWARD
+SCOPE CORRECTIONS — READY FOR STAGE 4.**
+
+**🎯 The prey holds:** Ziggy's strongest method is to grant a local
+claim and challenge its expansion into exclusive authority — and its
+danger is reciprocal: Grant's narrowing cannot be called protection
+merely because it limits attractive implications, while Ziggy's
+preserved metaphysical openness cannot count as support unless it
+accepts discriminating evidence and reachable loss conditions.
 
 ---
 
