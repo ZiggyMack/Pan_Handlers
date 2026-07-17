@@ -91,7 +91,8 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_00ABCD.md` *(operator's working name — proper identity assigned at field-desk review)* | Grant's evaluative architecture via the CT/Moral-Substance dispute + development of Diagnostic Interrogation, Coupling Probes, Cognitive Archaeology calibration, invariant-seeking methodology (heavy G-REPORTED; no G-DIRECT) | IN PROGRESS — Stages 1–2 pasted; awaiting field-desk reviews |
 | `DIG_01_classical_theism_evil_and_moral_generativity.md` | ⭐ **First Grant-relevant site**: reported 12-step problem-of-evil syllogism → moral-generativity zero; Ziggy's modal-burden + trade-off objections; Grant's reported denial (G-QUOTED-REPORTED) | ✅ **FILED** — 4th full-pipeline dig; **G-001 (first Grant source, reported ceiling)**, Z-004, IT-017, synthesis packet; restraint round: zero new operators, one recorded error (Logical-Status Compression) |
 | `DIG_COMPOUND_SWEEP_02_maps_experience_values_and_plausibility.md` *(renamed at close per field desk)* | ⚡ Compound sweep: maps, experience, values, plausibility; ⚠️ privacy gate active | ✅ **COMPLETE — candidate harvest, ZERO promotions (plow-through rule held)**; 3 sweep-strong candidates queued; seeds IT-018; sub-digs A/B/C queued (segment-D scope lock preserved in workbook) |
-| `DIG_02.md` | *(topic TBD at review)* | 🟡 IN PROGRESS — Stages 1–2 outputs pasted (operator running ahead); awaiting Stage-1 field-desk review |
+| `DIG_02.md` | *(template consumed into COMPOUND_SWEEP_10)* | — |
+| `DIG_COMPOUND_SWEEP_10_stochastic_diminishing_roles_noise_and_persuasion_frames.md` | ⚡ Compound sweep: "stochastic diminishing" → **Conversational Possibility-Space Contraction** (six narrowing types; non-monotonic); conversational functions vs identities; noise utility vs participation entitlement (**the Angles dispute — first bounded dig with substantial member-03 material, THIRD-PARTY-REPORTED ceiling**); concept vs implementation; persuasion vs understanding | 🟡 IN PROGRESS — all 4 outputs pasted; Stages 1–2 reviewed; forecast 6/6 + one surprise family (**Reflexive Attribution Audit**); ⚠️ **Reflexive Self-Sealing Risk = the packet's most dangerous Nova move** (resistance-as-confirmation); Angles/Grant wall hard; 8 trails at close (IT-061…068) |
 | `DIG_12.md` | *(fresh slot — minted 2026-07-17 from the DIG_02 template)* | EMPTY |
 | `DIG_13.md` | *(fresh slot — minted 2026-07-17)* | EMPTY |
 | `DIG_14.md` | *(fresh slot — minted 2026-07-17)* | EMPTY |
@@ -176,7 +177,11 @@ question in the wild). "Trust vs Prediction" now at **5 pointers** (**6th at SW0
 (~05-29, value adoption / rational rejection / smuggled normative frames
 — the earliest-dated lead yet; kin to SW09's Agnostic-Proxy question);
 **"delete_13"** (~06-11, provisional truth / "true as far as we know" —
-kin to IT-015's underdetermination trail).
+kin to IT-015's underdetermination trail). **From SWEEP_10's X-CONTEXT
+(topic leads):** ⭐ *listening, asymmetrical exchange, and "vampiric
+scaling"* (~June 2026 — **charter candidate #9's home thread, long
+sought**); *Grant, prediction, justification, local/global frames*
+(~May–June); *value rejection and justification demands* (~May).
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**
