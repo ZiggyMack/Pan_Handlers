@@ -171,6 +171,20 @@ The category-repair/evidential-escape discriminator now polices the
 architecture's oldest habit: *after the category correction, does the
 claimant return to evidence that could lower confidence?*
 
+**The conversation layer (SWEEP_10 — the architecture turns to dialogue
+itself):** six bounded entries extend the audit to conversation as a
+system — led by **Function–Endorsement Separation** (a disruptive
+dynamic's conditional utility ≠ endorsement or protection of its
+producer; *value and access are separate decisions*), with
+conversation-frame diagnosis, success-condition pluralism, and
+recursive-burden sensitivity beside it. The standing restrictions travel:
+*understanding orientation ≠ immunity from evaluation*, and the
+useful-noise thresholds (IT-071's ten-step test) remain the undeveloped
+half of the phase-sensitivity claim. The sweep also delivered the
+excavation's clearest live self-sealing failure — a caution the profile's
+own theorizing inherits: *a model that explains every objection explains
+nothing* (IT-067/IT-072).
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility

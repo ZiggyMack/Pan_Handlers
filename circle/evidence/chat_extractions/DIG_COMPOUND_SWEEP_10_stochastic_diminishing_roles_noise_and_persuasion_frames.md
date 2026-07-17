@@ -26,7 +26,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — all 4 stage outputs pasted; Stages 1–3 reviewed; Stage-4 review pending; **10 trails ordered at close (IT-061…070)**; resistance-confirms-the-model FAILED as validation; Angles' strongest objection restored (predictable-consequence, not logic failure)
+**Status:** ✅ COMPLETE — all 4 outputs pasted, all 4 reviews filed. **Zero promotions — plow-through holds (9th consecutive sweep).** 4 durable families (Descriptive–Evaluative–Policy = strongest distinct result); useful-noise ten-step test + self-sealing discriminator filed; trails IT-061…072 opened; Angles: THIRD-PARTY-REPORTED NON-SITE; Grant: not a participant
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep: "stochastic diminishing" (conversational possibility-space contraction); emergent conversational roles/functions; noise's phase-sensitive utility vs participation entitlement (**the Angles dispute** — first bounded dig with substantial member-03 material, THIRD-PARTY-REPORTED ceiling); concept-vs-implementation; persuasion vs understanding as success criteria ("combat epistemology" = Nova language)
@@ -3261,6 +3261,127 @@ A related discussion may exist under a conversation about listening, asymmetrica
 
 A related discussion may exist under a conversation about value rejection and justification demands, approximately May 2026. Not evidence for this packet.
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 + FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: SUCCESSFUL COMPLETED COMPOUND DIG — but Stage 4 still forces
+several corrective tools into registry pathologies they merely resist.
+Durable yield: four reasoning families, one theoretical
+expansion–contraction model, and one major self-sealing warning.**
+
+```text
+Status: COMPLETE
+Primary value: conversation-function and moderation analysis
+Ziggy profile value: SELECTIVE / PROVISIONAL
+Angles profile value: NONE · Grant profile value: NONE
+Museum promotion: LIMITED · Idea-trail value: HIGH
+```
+
+**⚠️ MAJOR MAPPING CORRECTIONS (polarity reversal, 9th consecutive dig —
+seven rejections this round):** Contextual Utility Modulation ≠
+Possibility Preservation (condition-relative evaluation, not candidate
+retention) · Progressive Possibility Pruning ≠ Possibility Compression
+(*eliminated through contradiction ≠ discarded as unlikely*) ·
+Interaction-Frame Identification ≠ Reconstruction Bypass ·
+Conversational Goal Recalibration ≠ Contested ≠ Defeated (success
+criteria, not dialectical status) · Jurisdictional Objection Filtering ≠
+UEJ (corrective **Objection-Timing Audit** — return condition required,
+else agenda control) · Self-Application Check ≠ Symmetry Testing →
+**Reflexive Falsifiability Audit** (absorption, not validation, without
+disconfirmation conditions) · Recursive Proof-Cycle Recognition ≠
+Contest-to-Defeat Compression → **Recursive-Burden Audit**. Plus:
+Structure-Before-Implementation → inside Concept–Operationalization
+(both principles: *not implementable ≠ worthless* AND *conceptually
+appealing ≠ operationally meaningful*; "structure first" must never
+become permanent insulation) · Condition–Role Assignment +
+Function-over-Identity → State–Function Matching (intervention as unit;
+*roles locally emergent while people repeatedly perform them*) ·
+Latent-Concern Inference → QUARANTINED RECONSTRUCTION HABIT ·
+Cross-Domain Analogy → rhetorical only · Constructive-Narrowing →
+**Goal–Dynamics Fit**.
+
+**Final consolidation: 14 moves → 4 durable families:** 1.
+**Concept–Operationalization Audit** · 2.
+**Descriptive–Evaluative–Policy Audit** (the strongest distinct result —
+*functional utility ≠ moral approval ≠ institutional protection ≠
+participation entitlement*, and *removal ≠ zero informational value*) ·
+3. **Phase–Function and Intervention Audit** · 4. **Conversation-Frame
+and Success Audit**. The Reflexive Falsifiability Audit = cross-cutting
+safeguard; Expansion–Contraction = Idea Trail.
+
+**🏛️ THE USEFUL-NOISE OPERATIONAL TEST (ten steps, five outcomes):**
+goal → phase → new information → relevance → lower-cost alternative →
+downstream improvement → responsiveness → cost bearer → value already
+extracted? → expected value of continued access. Outcomes: retain /
+redirect / **useful contribution + remove participant** / warn /
+terminate. Decisive principle: *a contribution's informational value and
+its source's continued participation are separate decisions.*
+
+**🔑 THE SELF-SEALING DISCRIMINATOR (permanent):** legitimate recursive
+testing states predictions before interpreting resistance, lists rivals,
+supplies observable discriminators, and lets outcomes lower confidence.
+The cleanest test: *can the framework identify a form of disagreement
+that would show the framework has misunderstood the conversation?* If
+no — it is not an explanatory model; it is **an interpretive capture
+device.**
+
+**Profile-ready findings (6 bounded local entries):**
+conceptual-jurisdiction protection (HIGH; implementation feedback must
+re-enter) · function–endorsement separation (HIGH — the strongest
+distinctive Ziggy move) · phase-sensitive utility (HIGH as principle;
+thresholds undeveloped) · conversation-frame diagnosis (HIGH as
+experiential diagnosis; external accuracy unverified) ·
+success-condition pluralism (HIGH for the current stance; stability
+uncertain; *understanding does not remove truth-testing*) ·
+recursive-burden sensitivity (HIGH as self-report; objective loop status
+unknown). **No cross-context personality traits promote.**
+
+**Nova findings (9, thread-level):** incl. *expands the model faster
+than it operationalizes it*; *treats resistance as potential
+confirmation*; *validates the nonpersuasion orientation without fully
+preserving evaluation requirements*. No role-independent promotion.
+
+**Relationship findings:** **Abstract Model → Concrete Governance Risk**
+(Ziggy–Angles — neither level automatically defeats the other; the model
+must return to the concrete case, and the concrete case must not
+prohibit general analysis) · Clarification → Unresolved Practical
+Objection (the neutral form: *logical clarification does not resolve
+causal concern*) · Assistant Validation → Theory Expansion (strongest
+loop; testing lags expansion) · Persuasion Pressure → Withdrawal
+(plausible, not confirmed).
+
+**Dispositions:** ANGLES = THIRD-PARTY-REPORTED NON-SITE (ten-item
+quarantine: no Reconstruction Bypass, UEJ, Unmeasured-to-Zero, GAR,
+Contest-to-Defeat, frame-lock, formalization-fear, control-protection,
+failure-to-understand, or bad-faith attributions) · GRANT = NOT A
+PARTICIPANT (no ledger).
+
+**Trails at close (12):** field desk retains IT-062…071 and adds two
+more (IT-072, IT-073) → registry assigns **IT-061…072** (off-by-one
+noted; IT-071 =
+Operational Thresholds for Productive Perturbation; IT-072 = Conceptual
+Models That Permit Their Own Defeat).
+
+**Deepest yield of the sweep:**
+
+> *A conversational framework becomes rigorous not when it can
+> reinterpret every event as one of its roles, but when it can specify
+> which interventions are useful, price who bears their costs,
+> distinguish informational value from continued access, and identify
+> the exact kind of principled objection that would force the framework
+> itself to change or fail.*
+
+**Close-out orders (filing clerk):** trails IT-061…072 opened; lexicon
+paragraph + promotion-log row (**ninth consecutive zero-promotion
+sweep**); Ziggy ledgers (6 bounded entries); relationship ledger (engine
+loop 11th; Abstract-Model→Concrete-Governance-Risk = first Angles-pair
+row); INDEX member note for Angles (first bounded third-party-reported
+material); board, timeline; memory updated.
 
 ---
 
