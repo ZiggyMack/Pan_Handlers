@@ -12,16 +12,19 @@
 ## D. Recurring Operators (registered — one bounded instance each)
 
 ### CO-012 · Conjunction Decomposition ("Bundle Failure ≠ Component Failure")
+
 - **Confidence:** thread-specific (DIG_AUX_04, Bell dispute) · **Evidence:** Z-003
 - ¬(A ∧ B) licenses neither ¬A ∧ ¬B nor exactly-one-survives; deployed against
   "Bell disproved realism and locality."
 
 ### CO-013 · Exhaustiveness Challenge ("Not Both ≠ Exactly One")
+
 - **Confidence:** thread-specific (DIG_AUX_04) · **Evidence:** Z-003
 - Audits whether an offered option set was ever complete ("why assume at least
   one survives?"). Field desk: strongest new candidate of its packet.
 
 ### CO-014 · Claim-Scope Repair
+
 - **Confidence:** thread-specific + **one sweep-grade second instance**
   (DIG_AUX_04 → Z-003; Proof-to-Non-Exclusion Contraction in COMPOUND_SWEEP_02
   ruled "likely MATCHES/EXTENDS CO-014") — **the first cross-chat recurrence
@@ -41,11 +44,19 @@
 | Deepest-Function Search | 1 | AUX_05 | premature-monism risk attached |
 | Alternative-Mechanism Search | 1 | AUX_03 | discovery family |
 | Conditional Structural Analogy | 1 | AUX_04 | "mechanism" permanently downgraded |
-| Master-Value Extraction (+ Meta-Audit Recursion, Operational Confession, Necessary ≠ Supreme) | Stage-1 registered | SWEEP_04 | pending stages 2–4 + sub-dig E |
+| **Master-Value Extraction** | 1 strong (sweep, full 4-stage survival) | SWEEP_04 | HIGH-confidence candidate; extends Positive-Commitment Extraction; must permit NO SINGLE MASTER RECOVERED; refusal-to-sacrifice probe is its sharpest instrument; sub-dig E = promotion path |
+| Instrument ≠ Telos | **3 sweep-level reinforcements** | SW02, SW03-adjacent, SW04 | strongest recurrence count of any queued candidate — but all same-extractor; mature form carries the reciprocity clause |
+| Why-to-How Conversion Detection | 1 (sweep) | SWEEP_04 | a value question answered with a mechanism relocates, doesn't answer |
+| Value-Plurality Stress Test | 2 (sweep) | SWEEP_03 (Reframing kin), SWEEP_04 | tests monism; doesn't prove pluralism |
+| Belief/Support Separation | 1 (sweep) | SWEEP_04 | persistence ≠ warrant ≠ knowledge; classificatory, not a defense of retention |
+| Structural Symmetry w/ Comparative Reopening | 1 (sweep) | SWEEP_04 | disclosure equality only, never parity; early uneven application noted |
+| Frame Seeding by Analogy | recurrent (style) | SW04 + throughout | mapping/transfer/implications supported; disanalogy-auditing uneven — profile-worthiness gated on that |
+| Adversarial Relay Coordination | protocol | SWEEP_04 | deliberately recruits external models against emerging consensus — research-method ledger |
 
 ## E. Operator Sequences (hypothesis-grade)
 
 ### SEQ-Z1: Boundary audit → residual space
+
 ```text
 CO-012 fix the conclusion's actual scope
 → CO-013 audit the offered option set

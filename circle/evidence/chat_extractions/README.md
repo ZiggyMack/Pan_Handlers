@@ -99,9 +99,10 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_06.md` | | EMPTY |
 | `DIG_07.md` | | EMPTY |
 | `DIG_08.md` | | EMPTY |
-| `DIG_09.md` | | EMPTY |
+| `DIG_09.md` | *(template consumed into COMPOUND_SWEEP_05)* | — |
+| `DIG_COMPOUND_SWEEP_05_prediction_trust_law_and_master_frames.md` | ⚡ Compound sweep: can prediction, truth, suffering, law, religion, or consciousness serve as a **master frame**? Curt Jimungal video entry; presup/method dispute; Grant G-REPORTED only; extractor self-flagged heavy NOVA-INTERPRETATION load ("prediction is a servant," "optimization function") — direct sequel to SWEEP_04's masters neighborhood | 🟡 IN PROGRESS — Stage 1 pasted; Stages 2–4 pending |
 | `DIG_10.md` | *(template consumed into COMPOUND_SWEEP_04)* | — |
-| `DIG_COMPOUND_SWEEP_04_belief_prediction_foundations_and_masters.md` | ⚡ Largest sweep yet — 5 neighborhoods; spine: belief/justification → foundations → **masters** → CFA meta-audit; ⚠️ external-model contamination risk HIGH (Grok/Claude echoes ≠ witnesses); 6 sub-digs queued (E = prediction/truth/masters is the prize) | STAGE 3 COMPLETE — Stage 4 authorized; **first confirmed A2 omissions (both Nova-side)**; tool/end made reciprocal; NO-SINGLE-MASTER result permitted; confession ≠ justification; two trails ordered at close |
+| `DIG_COMPOUND_SWEEP_04_belief_prediction_foundations_and_masters.md` | ⚡ Largest sweep yet — 5 neighborhoods; spine: belief/justification → foundations → **masters** → CFA meta-audit; ⚠️ external-model contamination risk HIGH (Grok/Claude echoes ≠ witnesses); 6 sub-digs queued (E = prediction/truth/masters is the prize) | ✅ **COMPLETE — candidate harvest, ZERO promotions (plow-through held, 3rd consecutive)**; 3 serious candidates queued (Master-Value Extraction HIGH; Instrument≠Telos ×3; Reflexive Audit protocol); seeds IT-020/021/022; sub-digs E/F = promotion paths |
 | `DIG_11.md` | *(template consumed into DIG_AUX_05)* | — |
 | `DIG_AUX_05_story_genre_wisdom_compression_and_orientation.md` | Story as wisdom compression; genre plurality vs Hero's Journey; Ethos/Pathos/Logos as orientation channels; **first Tale Recursion appearance**; 3 assistant-imported Grant positions caught & ruled UNSUPPORTED | STAGE 3 COMPLETE — Stage 4 authorized; A3 standard sharpened (specific move demonstrated in-thread, not general ability); orientation weakened to organizing hypothesis; clearest rigor failure: asymmetric functional treatment of science |
 

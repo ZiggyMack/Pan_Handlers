@@ -1,6 +1,7 @@
 # COMPOUND SWEEP 04 — Belief, Prediction, Foundations, and Masters
 
-**Status:** STAGE 3 COMPLETE — PASS; STAGE 4 AUTHORIZED · **⚡ PLOW-THROUGH MODE** (candidate harvest only) · strongest correction: shared termination ≠ equal warrant
+**Status:** ✅ COMPLETE — all four stages; compound-sweep close-out filed 2026-07-17
+**Disposition:** CANDIDATE HARVEST / Ziggy reasoning architecture (primary) / distributed adversarial research protocol (secondary) / **GRANT PROFILE VALUE: NONE** / Museum promotion SELECTIVE (3 serious candidates queued) / targeted sub-digs REQUIRED · **No promotions executed — plow-through rule holds (3rd consecutive sweep)**
 **Ziggy evidence:** STRONG · **Grant evidence:** REPORTED ONLY · **Co-construction:** VERY STRONG · **⚠️ EXTERNAL-MODEL CONTAMINATION RISK: HIGH**
 **Neighborhoods (5):** belief/justification/faith · language/prosody/framing · quantum observer speculation (ISOLATE — technical correctness unresolved) · metaphysics/epistemology/category relations · **prediction/truth/masters/CFA self-audit** (the spine)
 **Protocol:** v0.2.2 Stage 1 (bounded) · **Extraction date:** 2026-07-17
@@ -4245,7 +4246,1184 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+## 1. Blind-to-Named Mapping
+
+### Move 1 — Belief/Support Separation
+
+**Mapping verdict:** NEW — retain **Belief/Support Separation**
+
+**What matches:**
+No registry candidate adequately captures the separation between:
+
+* a belief’s psychological persistence;
+* the justification currently supporting it;
+* the belief’s epistemic status.
+
+**What does not match:**
+This is not itself Generative Admission Restriction, Possibility Preservation, or Contested ≠ Defeated. It concerns the architecture of belief and support rather than candidate admission or dispute status.
+
+**Stage-3 survival:** PARTIAL
+The distinction survived. The stronger implication that belief may remain rationally acceptable after its justification fails did not.
+
+---
+
+### Move 2 — Communicative Bridge Reclassification
+
+**Mapping verdict:** NEW — retain **Communicative Bridge Reclassification**
+
+**What matches:**
+No named candidate captures the move of reclassifying justification as cross-frame communication infrastructure rather than the generator of belief.
+
+**What does not match:**
+It is not Reconstruction Bypass because its function is not primarily to reconstruct an opponent’s ontology. It instead makes locally held beliefs available for shared examination.
+
+**Stage-3 survival:** YES
+The bridge function survived, although justification’s role in knowledge remained stronger than the earliest formulations sometimes allowed.
+
+---
+
+### Move 3 — Steering-to-Feedback Demotion
+
+**Mapping verdict:** NEW — retain **Steering-to-Feedback Demotion**
+
+**What matches:**
+No candidate directly captures the relocation of justification from immediate behavioral control to retrospective assessment and future retraining.
+
+**What does not match:**
+It is not Prediction Sovereignty. It concerns the causal role assigned to conscious reasons.
+
+**Stage-3 survival:** PARTIAL
+The feedback role survived. The stronger “rearview mirror only” claim weakened because prospective deliberation was not adequately tested.
+
+---
+
+### Move 4 — Regress Descent
+
+**Mapping verdict:** EXTENDS **Symmetry Testing of Standards**
+
+**What matches:**
+The move eventually forces the preferred criterion—truth, prediction, suffering reduction, God, or another value—to disclose its own stopping point rather than exempting itself from the demand for justification.
+
+**Delta:**
+Symmetry Testing usually compares burdens across two frameworks. Regress Descent can be applied within a single framework before any explicit comparison occurs.
+
+**What does not match:**
+It does not necessarily apply an identical evidential test to both sides. Its primary action is downward foundational probing.
+
+**Stage-3 survival:** YES, WITH RESTRICTION
+It survived as a method for finding operative commitments. It no longer guarantees discovery of an ultimate, uniquely final foundation.
+
+---
+
+### Move 5 — Why-to-How Conversion Detection
+
+**Mapping verdict:** NEW — retain **Why-to-How Conversion Detection**
+
+**What matches:**
+No registry item directly captures the distinction between:
+
+* an intrinsic-value answer;
+* an instrumental mechanism that merely relocates the value question.
+
+**What does not match:**
+It is not Contest-to-Defeat Compression or Prediction Sovereignty, although it can expose the instrumental structure beneath a sovereignty claim.
+
+**Stage-3 survival:** YES, WITH RESTRICTION
+The diagnostic survived. Deweyan and holistic counterreadings show that instrumental and final values can interact rather than forming a perfectly linear hierarchy.
+
+---
+
+### Move 6 — Service-Chain Probe
+
+**Mapping verdict:** NEW — retain **Service-Chain Probe**
+
+**What matches:**
+No candidate directly captures questions such as:
+
+* “What does this ultimately serve?”
+* “What would you refuse to sacrifice?”
+* “What master do you serve?”
+
+**What does not match:**
+It is not merely rhetorical framing. It repeatedly redirects inquiry from causal efficiency to protected allegiance.
+
+**Stage-3 survival:** YES
+The move remained recoverable, repeated, self-applied, and not better explained as a one-time rhetorical tactic.
+
+---
+
+### Move 7 — Tool/Destination Split
+
+**Mapping verdict:** NEW — retain **Tool/Destination Split**
+
+**What matches:**
+No named candidate directly captures the demarcation between:
+
+* selecting an end;
+* optimizing movement toward that end.
+
+**What does not match:**
+The move challenges Prediction Sovereignty but is not itself a variant of sovereignty. Prediction, pragmatism, and logic are reclassified as possible servants rather than universally disqualified.
+
+**Stage-3 survival:** PARTIAL
+The means/end distinction survived. The strict one-directional picture weakened because inquiry and consequences can revise ends.
+
+---
+
+### Move 8 — Initial-Condition Mapping
+
+**Mapping verdict:** MATCHES **Cross-Disciplinary Swooping**
+
+**What matches:**
+A structure from dynamical systems and physics—equations operating on initial or boundary conditions—is imported to reframe the relationship between epistemic tools and prior aims.
+
+**What does not match:**
+The analogy does not prove that human values behave like fixed physical inputs. It imports a useful structure, not an identity.
+
+**Stage-3 survival:** YES, AS ANALOGY
+It survived as a frame-building move. It weakened as a literal model because aims can emerge and mutate during inquiry.
+
+---
+
+### Move 9 — Jurisdiction Boundary Check
+
+**Mapping verdict:** MATCHES **Universalized Evaluative Jurisdiction**
+
+**What matches:**
+The move explicitly detects when a standard validated in one class of inquiry is extended into another without an established bridge.
+
+**Canonical thread form:**
+“Science successfully predicts planetary motion” does not by itself establish that scientific standards can adjudicate meaning, beauty, purpose, or ultimate value.
+
+**What does not match:**
+The move does not deny cross-domain influence. It permits empirical findings to constrain ethical, theological, and existential claims containing empirical premises.
+
+**Stage-3 survival:** YES
+It survived strongly, provided it is not used to seal domains against legitimate correction.
+
+---
+
+### Move 10 — Dependence/Identity Separation
+
+**Mapping verdict:** NEW — retain **Dependence/Identity Separation**
+
+**What matches:**
+No named candidate directly captures the difference between:
+
+* requiring epistemic methods to investigate metaphysics;
+* reducing metaphysics to epistemology.
+
+**What does not match:**
+It can support a Jurisdiction Boundary Check but operates through a distinct dependence-versus-reduction distinction.
+
+**Stage-3 survival:** YES
+No sustained counterevidence in the bounded thread established that methodological dependence entails categorical identity.
+
+---
+
+### Move 11 — Structural Symmetry Extraction
+
+**Mapping verdict:** MATCHES **Symmetry Testing of Standards**
+
+**What matches:**
+It forces secular and religious frameworks to disclose whether both possess:
+
+* unproved premises;
+* brute stopping points;
+* normative commitments;
+* metaphysical assumptions.
+
+**What does not match:**
+It does not establish equal evidence, equal parsimony, equal revisability, or equal explanatory success.
+
+**Stage-3 survival:** YES, IN NARROW FORM
+The shared-termination claim survived. Strong parity between Christianity and naturalism did not.
+
+---
+
+### Move 12 — Rival-Value Injection
+
+**Mapping verdict:** EXTENDS **Possibility Preservation**
+
+**What matches:**
+Love, beauty, curiosity, cooperation, freedom, meaning, and heart are deliberately kept on the map when suffering, prediction, truth, or survival is presented as exhaustive.
+
+**Delta:**
+Possibility Preservation ordinarily retains low-plausibility hypotheses. Rival-Value Injection preserves alternative evaluative dimensions rather than factual hypotheses.
+
+**What does not match:**
+Retaining alternatives does not establish equal rank or irreducibility.
+
+**Stage-3 survival:** YES
+It survived as a check against premature monism, not as proof of pluralism.
+
+---
+
+### Move 13 — Cost-Structure Audit
+
+**Mapping verdict:** EXTENDS **Symmetry Testing of Standards**
+
+**What matches:**
+Each framework must disclose:
+
+* its master;
+* its price;
+* its distortions;
+* its fruits.
+
+The preferred evaluator receives the same burden as its rivals.
+
+**Delta:**
+The move goes beyond symmetrical paperwork by comparing what each framework must sacrifice or leave unexplained.
+
+**What does not match:**
+It does not provide a neutral currency for comparing all costs.
+
+**Stage-3 survival:** YES
+It survived as a disclosure and comparative-audit procedure, not as a complete decision algorithm.
+
+---
+
+### Move 14 — Audit-the-Auditor Recursion
+
+**Mapping verdict:** EXTENDS **Symmetry Testing of Standards**
+
+**What matches:**
+The evaluator must file the same disclosure required of the evaluated framework.
+
+**Delta:**
+The symmetry requirement is recursively applied to:
+
+* criteria;
+* scoring systems;
+* CFA;
+* disclosure itself.
+
+**Secondary affinity:**
+It directly counters **Baseline Exemption** by refusing to let the preferred referee present itself as neutral.
+
+**What does not match:**
+It does not eliminate all baseline asymmetry and can itself become an endless protocol.
+
+**Stage-3 survival:** YES, WITH STOPPING RULE
+It survived when bounded by practical confession at the operating level.
+
+---
+
+### Move 15 — Adversarial Stand-In Testing
+
+**Mapping verdict:** EXTENDS **Reconstruction Bypass**
+
+**What matches:**
+The move arises because evaluating Grant, naturalism, or prediction before reconstructing the strongest rival framework would be a bypass. Grok and Claude are instructed to generate steelmanned opposition.
+
+**Delta:**
+The registry candidate describes the failure. The Stage-2 move is a corrective protocol designed to prevent that failure.
+
+**What does not match:**
+A prompted model simulation is not equivalent to direct reconstruction by the actual participant.
+
+**Stage-3 survival:** PARTIAL
+It survived as a useful stress test. It did not survive as independent validation or as evidence of Grant’s actual position.
+
+---
+
+### Move 16 — Frame Seeding by Analogy
+
+**Mapping verdict:** EXTENDS **Cross-Disciplinary Swooping**
+
+**What matches:**
+Structures from:
+
+* control theory;
+* navigation;
+* computing;
+* physics;
+* architecture;
+* monarchy;
+* maritime travel
+
+are imported to reorganize the philosophical dispute.
+
+**Delta:**
+Some analogies are not cross-disciplinary in a strict academic sense; they are ordinary metaphorical frames. The broader move includes both technical imports and common-image reframings.
+
+**What does not match:**
+The analogy may create rather than merely reveal the structure.
+
+**Stage-3 survival:** YES
+It strongly survived as a recurring reasoning move, with explicit recognition that analogies can smuggle assumptions.
+
+---
+
+### Move 17 — Pre-Propositional Layer Descent
+
+**Mapping verdict:** EXTENDS **Generative Admission Restriction**
+
+**What matches:**
+The move contests an admission rule that would treat only explicit propositions, measurements, or publicly shareable claims as serious generators of hypotheses. It opens space for:
+
+* first-person experience;
+* prosody;
+* symbolic compression;
+* narrative;
+* rhythm;
+* wordless art;
+* metaphysical intuition.
+
+**Delta:**
+The registry item describes restrictive exclusion. The observed move is the counter-operation: expanding generative admission before evaluation.
+
+**What does not match:**
+Admission as a hypothesis generator does not establish evidential authority or truth.
+
+**Stage-3 survival:** PARTIAL
+The pre-propositional communication claim survived. Stronger memory, language, and truth claims remained speculative.
+
+---
+
+### Move 18 — Operational Confession Stop
+
+**Mapping verdict:** NEW — retain **Operational Confession Stop**
+
+**What matches:**
+No named candidate captures the practical termination of recursive audit by explicitly confessing the commitment operating at the present level.
+
+**What does not match:**
+This is not Contested ≠ Defeated. It regulates when inquiry proceeds to action despite unresolved deeper foundations.
+
+**Stage-3 survival:** YES, AS PRACTICAL RULE
+It does not solve the logical regress or establish the confessed commitment’s warrant.
+
+---
+
+### Move 19 — Tool-Temple Inhibition
+
+**Mapping verdict:** NEW — retain **Tool-Temple Inhibition**
+
+**What matches:**
+No registry candidate directly captures the danger that:
+
+* auditing;
+* prediction;
+* disclosure;
+* CFA;
+* analysis itself
+
+becomes the ultimate path rather than serving a lived aim.
+
+**What does not match:**
+It is not merely regulatory rhetoric. It identifies a repeated relationship-level failure in the late conversation.
+
+**Stage-3 survival:** YES, WITH BEHAVIORAL COUNTEREVIDENCE
+The participants sincerely adopted the rule but continued several rounds after identifying the problem. That strengthens the operator’s relevance while weakening claims of successful enactment.
+
+---
+
+### Registry candidates without an adequate Stage-2 match
+
+**Prediction Sovereignty**
+Present as a reported characterization of Grant’s framework, but not established as a Stage-2 cognitive move attributable through direct evidence.
+
+**Unmeasured-to-Zero Conversion**
+No sufficiently anchored instance establishes that Grant or another actor explicitly converted unmeasured success into a literal zero rather than unsupported, unknown, or outside scope.
+
+**Possibility Compression**
+The conversation alleges forms of narrowing, but no direct Grant corpus establishes a stable thresholding operator.
+
+**Baseline Exemption**
+The conversation contains repeated attempts to detect and correct this pattern, especially regarding prediction, naturalism, and CFA. Direct attribution of the exemption to Grant remains below threshold.
+
+**Contest-to-Defeat Compression**
+No sufficiently recoverable instance establishes that an actor consistently treated a raised objection as decisive defeat.
+
+**Contested ≠ Defeated**
+The principle appears implicitly in later qualifications, but Stage 2 did not isolate a repeated operator with adequate actor-specific anchors.
+
+---
+
+## 2. New Operator Candidates
+
+### New Candidate 1 — Belief/Support Separation
+
+**Definition:**
+Separates belief persistence from the support currently offered for it and from its status as knowledge.
+
+**Primary actor:** Ziggy
+
+**Why new:**
+No registry candidate addresses internal doxastic architecture.
+
+**Stage-3 status:** Survived in restricted form.
+
+---
+
+### New Candidate 2 — Communicative Bridge Reclassification
+
+**Definition:**
+Reclassifies justification as an interface enabling locally held beliefs to enter shared examination.
+
+**Primary actors:** Ziggy and Nova
+
+**Why new:**
+The registry focuses on admission, evaluation, and jurisdiction, not the cross-frame communicative function of reasons.
+
+**Stage-3 status:** Survived.
+
+---
+
+### New Candidate 3 — Steering-to-Feedback Demotion
+
+**Definition:**
+Moves a purported real-time controller into a retrospective correction and retraining role.
+
+**Primary actors:** Ziggy and Nova
+
+**Why new:**
+No registry candidate captures causal-role reassignment.
+
+**Stage-3 status:** Partially survived; empirical strength remains uncertain.
+
+---
+
+### New Candidate 4 — Why-to-How Conversion Detection
+
+**Definition:**
+Detects when an ultimate-value question is answered by specifying how the candidate produces some further end.
+
+**Primary actor:** Ziggy
+
+**Why new:**
+The registry has no explicit intrinsic-versus-instrumental reason detector.
+
+**Stage-3 status:** Survived with a warning against overly linear hierarchies.
+
+---
+
+### New Candidate 5 — Service-Chain Probe
+
+**Definition:**
+Locates operative masters by asking what a method, value, institution, or framework ultimately serves.
+
+**Primary actor:** Ziggy
+
+**Why new:**
+No registry item directly probes allegiance, protected sacrifice, or ultimate service.
+
+**Stage-3 status:** Strongly survived.
+
+---
+
+### New Candidate 6 — Tool/Destination Split
+
+**Definition:**
+Separates systems that optimize movement from commitments that select ends.
+
+**Primary actors:** Ziggy and Nova
+
+**Why new:**
+Prediction Sovereignty names one possible imperial result but not the underlying means/end separation.
+
+**Stage-3 status:** Partially survived because tools can also reshape ends.
+
+---
+
+### New Candidate 7 — Dependence/Identity Separation
+
+**Definition:**
+Prevents the need for an access method from being converted into reduction of the object to that method.
+
+**Primary actors:** Nova, adopted by Ziggy
+
+**Why new:**
+No registry candidate isolates dependence-versus-identity reasoning.
+
+**Stage-3 status:** Survived.
+
+---
+
+### New Candidate 8 — Operational Confession Stop
+
+**Definition:**
+Bounds recursive foundational inquiry by naming and pricing the commitment presently governing action.
+
+**Primary source:** Claude, adopted by Nova and Ziggy
+
+**Why new:**
+The registry contains no practical stopping operator for unavoidable regress.
+
+**Stage-3 status:** Survived as procedure, not as proof.
+
+---
+
+### New Candidate 9 — Tool-Temple Inhibition
+
+**Definition:**
+Detects when a method intended to aid judgment becomes the object of devotion or substitutes for action.
+
+**Primary source:** Claude, adopted by Nova and Ziggy
+
+**Why new:**
+The registry addresses overextended jurisdiction but not a tool becoming the activity’s ultimate purpose.
+
+**Stage-3 status:** Survived conceptually; enactment remained incomplete.
+
+---
+
+## 3. Profile-Ready Claims
+
+### Claim 1 — Ziggy repeatedly uses a Service-Chain Probe
+
+**Claim:**
+When an interlocutor presents prediction, truth, science, justification, knowledge, or religion as authoritative, Ziggy asks what it serves and what the actor would refuse to sacrifice for it.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High
+
+**Source Anchor:**
+Ziggy, late screenshot: “What is it that you care about so much that prediction serves it?” followed by “Prediction serves what? Truth serves what? Knowledge serves what? Religion serves what? Science serves what?”
+
+**Review condition:**
+Reassess if a broader direct sample shows this occurs only in the present prediction dispute and not across distinct topics.
+
+---
+
+### Claim 2 — Ziggy repeatedly performs Regress Descent toward operative commitments
+
+**Claim:**
+Ziggy follows justificatory answers through successive “why?” questions until an intrinsic value, brute commitment, circularity, or explicit stopping point appears.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High
+
+**Source Anchor:**
+Ziggy, early portion: “the final why at the end of the road”; later discussion of truth, prediction, suffering, flourishing, and God.
+
+**Review condition:**
+Do not infer that Ziggy always seeks an ultimate metaphysical foundation. The later operating rule accepts proximate confession.
+
+---
+
+### Claim 3 — Ziggy uses Why-to-How Conversion Detection
+
+**Claim:**
+Ziggy notices when an answer to “Why value X?” merely explains how X produces a further value and then redirects inquiry to that further end.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT / CO-CONSTRUCTED
+
+**Confidence:** High
+
+**Source Anchor:**
+Ziggy, late portion: “why something is will usually expose bedrock except for circumstances where the why becomes a how.”
+
+**Review condition:**
+Reassess where means and ends are explicitly modeled as reciprocal rather than hierarchical.
+
+---
+
+### Claim 4 — Ziggy uses Rival-Value Injection to resist premature single-metric supremacy
+
+**Claim:**
+When suffering, prediction, truth, or survival is treated as exhaustive, Ziggy introduces rival goods such as love, cooperation, beauty, curiosity, freedom, or heart.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High
+
+**Source Anchor:**
+Ziggy, later-middle portion: “counterexamples to suffering... cooperation and love”; later contrast with “beauty or curiosity.”
+
+**Review condition:**
+This supports exploratory pluralization, not a conclusion that every injected value is irreducible or equally ranked.
+
+---
+
+### Claim 5 — Ziggy performs Jurisdiction Boundary Checks
+
+**Claim:**
+Ziggy challenges the transfer of empirical or predictive authority from physical and biological inquiry into meaning, morality, aesthetics, or theology unless the bridge is separately defended.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT / CO-CONSTRUCTED
+
+**Confidence:** High
+
+**Source Anchor:**
+Late discussion: “Science successfully predicts planetary motion. Therefore... scientific standards should adjudicate meaning.”
+
+**Review condition:**
+Reassess if the move is used to block empirical correction of factual claims embedded in religious or existential frameworks.
+
+---
+
+### Claim 6 — Ziggy repeatedly seeds frames through analogies imported from other domains
+
+**Claim:**
+Ziggy uses technical and ordinary analogies to set roles and relations before continuing explicit argument.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High
+
+**Source Anchor:**
+Ziggy, late portion: “Frame building... metaphors and analogies... parables... SUPER useful for creating frames”; examples include rearview mirror, initial conditions, anchor, and master.
+
+**Review condition:**
+Audit whether a given analogy reveals the structure or predetermines the conclusion through an unearned disanalogy.
+
+---
+
+### Claim 7 — Ziggy uses Structural Symmetry Testing but accepts later limits on parity
+
+**Claim:**
+Ziggy forces secular and religious frameworks to disclose their own brute commitments rather than allowing one side to present itself as foundationless.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT / CO-CONSTRUCTED
+
+**Confidence:** High
+
+**Source Anchor:**
+“I am not claiming Christianity avoids bruteness. I am claiming naturalism doesn’t avoid it either.”
+
+**Review condition:**
+The claim must remain restricted to shared foundational structure. It must not be used to infer equal evidence or equal explanatory adequacy.
+
+---
+
+### Claim 8 — Ziggy employs Belief/Support Separation
+
+**Claim:**
+Ziggy distinguishes a belief’s persistence from its current justification and observes that people may retain the former while repairing the latter.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High
+
+**Source Anchor:**
+Opening portion: “belief stands on its own” and “you don’t go and change your belief, you rush to find a new justification.”
+
+**Review condition:**
+Do not convert this descriptive psychological claim into the normative claim that unsupported belief remains justified or counts as knowledge.
+
+---
+
+### Claim 9 — Ziggy adopts a Tool/Destination Split when evaluating prediction and pragmatism
+
+**Claim:**
+Ziggy repeatedly asks whether prediction and pragmatism select ends or merely optimize conduct after an aim has been selected.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT / CO-CONSTRUCTED
+
+**Confidence:** Medium-high
+
+**Source Anchor:**
+Ziggy, late portion: “both pragmatism & prediction serve the pre-selected value.”
+
+**Review condition:**
+Maintain the Stage-3 qualification that inquiry, consequences, and tools can revise ends rather than merely obey them.
+
+---
+
+## 4. Quarantined Claims
+
+### Quarantined Claim 1 — Grant exhibits Prediction Sovereignty
+
+**Interpretation:**
+Grant treats predictive success as the final epistemic authority and requires other forms of success to justify themselves through it.
+
+**Why quarantined:**
+All evidence is G-REPORTED or NOVA-INTERPRETATION. The thread also alternates among truth, survival, correct representation, and prediction as Grant’s possible highest commitment.
+
+**Promotion evidence required:**
+Direct Grant statements defining:
+
+* prediction;
+* its relationship to truth;
+* whether it is intrinsic or instrumental;
+* whether any value can override it.
+
+---
+
+### Quarantined Claim 2 — Grant universalizes scientific jurisdiction over meaning
+
+**Interpretation:**
+Grant uses standards developed for modeling matter or behavior to adjudicate meaning, value, God, and existential experience.
+
+**Why quarantined:**
+The pattern is reconstructed by Ziggy and Nova rather than directly demonstrated. A sophisticated naturalist could distinguish causal explanation from normative adjudication.
+
+**Promotion evidence required:**
+A direct exchange where Grant explicitly applies predictive or empirical standards as sufficient to decide an irreducibly normative, aesthetic, or existential question.
+
+---
+
+### Quarantined Claim 3 — Grant applies Generative Admission Restriction
+
+**Interpretation:**
+Grant prevents revelation, first-person experience, narrative coherence, tradition, or symbolic insight from generating serious hypotheses.
+
+**Why quarantined:**
+The bounded thread shows Ziggy’s concern but no direct Grant admission rule.
+
+**Promotion evidence required:**
+Direct Grant criteria specifying which sources may generate candidates before evaluation and whether excluded sources are treated as impossible, irrelevant, or merely weak.
+
+---
+
+### Quarantined Claim 4 — Grant performs Unmeasured-to-Zero Conversion
+
+**Interpretation:**
+Failure under prediction or empirical measurement is converted into zero rather than unknown or outside jurisdiction.
+
+**Why quarantined:**
+No direct scored case is recoverable.
+
+**Promotion evidence required:**
+A case where Grant explicitly assigns failure or nonexistence because the selected instrument cannot measure the candidate, despite acknowledging the candidate may lie outside that instrument’s scope.
+
+---
+
+### Quarantined Claim 5 — Grant performs Possibility Compression
+
+**Interpretation:**
+Low-plausibility metaphysical or religious possibilities are removed from consideration before adequate reconstruction.
+
+**Why quarantined:**
+No direct thresholding behavior appears in the bounded thread.
+
+**Promotion evidence required:**
+A direct case showing:
+
+* the possibility was acknowledged;
+* its nonzero status was understood;
+* it was nevertheless discarded as functionally impossible without further testing.
+
+---
+
+### Quarantined Claim 6 — Grant claims Baseline Exemption for prediction or naturalism
+
+**Interpretation:**
+Grant treats his preferred standard as neutral while imposing burdens on rival frameworks.
+
+**Why quarantined:**
+The thread develops this as a likely structural criticism, but Grant’s direct self-description is absent.
+
+**Promotion evidence required:**
+A direct comparison in which Grant refuses to identify or justify the metaphysical and axiological assumptions behind his own evidential standard.
+
+---
+
+### Quarantined Claim 7 — Steering-to-Feedback Demotion accurately models human action
+
+**Interpretation:**
+Justification is primarily retrospective feedback rather than real-time guidance.
+
+**Why quarantined:**
+The requested empirical research was not conducted. Prospective deliberation was not seriously examined.
+
+**Promotion evidence required:**
+Source-grounded cognitive-science evidence distinguishing:
+
+* habitual action;
+* affective action;
+* post-hoc rationalization;
+* conscious prospective planning;
+* moral deliberation.
+
+---
+
+### Quarantined Claim 8 — Pre-Propositional Layer Descent identifies a genuine knowledge channel
+
+**Interpretation:**
+Prosody, imagery, music, and wordless art communicate forms of meaning prior to explicit language.
+
+**Why quarantined:**
+Affective or relational communication is supported by the discussion, but transmission of stable truth or knowledge was not established.
+
+**Promotion evidence required:**
+Clear criteria distinguishing:
+
+* induced state;
+* emotional contagion;
+* semantic communication;
+* propositional knowledge;
+* intersubjectively recoverable content.
+
+---
+
+### Quarantined Claim 9 — Language is necessary for memory, narrative beginnings, or temporal selfhood
+
+**Interpretation:**
+Prelinguistic experience lacks durable autobiographical memory and remains dreamlike.
+
+**Why quarantined:**
+The deaf-community anecdote and developmental claims were not independently sourced.
+
+**Promotion evidence required:**
+Relevant developmental, neurological, and linguistic research, including evidence on nonverbal episodic memory and autobiographical memory before full language.
+
+---
+
+### Quarantined Claim 10 — Apparatus design preserves a decisive conscious-observer role in quantum measurement
+
+**Interpretation:**
+A humanly constructed detector remains a proxy for conscious awareness even when no person directly observes the result.
+
+**Why quarantined:**
+The bounded thread contains sustained disagreement and no source-grounded quantum analysis.
+
+**Promotion evidence required:**
+Primary experimental literature and a clear distinction among:
+
+* physical decoherence;
+* stored which-path information;
+* observer knowledge;
+* interpretation;
+* consciousness-caused collapse.
+
+---
+
+### Quarantined Claim 11 — Path with heart is Ziggy’s final master
+
+**Interpretation:**
+All epistemic and practical tools ultimately serve the path with the most heart.
+
+**Why quarantined:**
+The phrase alternates among:
+
+* terminal value;
+* selection heuristic;
+* existential orientation;
+* phenomenological test;
+* meta-criterion.
+
+**Promotion evidence required:**
+A direct clarification from Ziggy identifying its precise structural role and how it resolves conflicts with truth, love, morality, or others’ well-being.
+
+---
+
+### Quarantined Claim 12 — CFA’s proximate master is disclosure
+
+**Interpretation:**
+CFA exists to make hidden commitments visible while leaving ultimate purpose open.
+
+**Why quarantined:**
+The proposal is philosophically developed but not implemented or tested. Disclosure may be one proximate value among comparability, agency, fairness, and error reduction.
+
+**Promotion evidence required:**
+A formal CFA self-disclosure statement plus evidence that the interface and scoring behavior actually reflect this commitment.
+
+---
+
+### Quarantined Claim 13 — Cost-Structure Audit can neutrally compare worldviews
+
+**Interpretation:**
+MASTER/PRICE/DISTORTIONS/FRUITS supplies a fair common scale.
+
+**Why quarantined:**
+The thread itself establishes that “price,” “reality,” and “fruit” depend on hidden value currencies.
+
+**Promotion evidence required:**
+Explicit evaluator disclosures, multiple rival weightings, sensitivity analysis, and evidence that rankings do not merely reproduce the chosen master.
+
+---
+
+### Quarantined Claim 14 — Adversarial Stand-In Testing reveals Grant’s likely strongest defense
+
+**Interpretation:**
+Grok and Claude adequately simulate the absent Grant.
+
+**Why quarantined:**
+The behavior is protocol-induced and strongly scaffolded. Grant’s actual framework may differ.
+
+**Promotion evidence required:**
+Direct comparison between generated steelmen and Grant’s own response, including corrections by Grant.
+
+---
+
+### Quarantined Claim 15 — Contested ≠ Defeated is a stable operator in this thread
+
+**Interpretation:**
+An actor consistently preserves unresolved objections without converting them into defeat.
+
+**Why quarantined:**
+The principle appears in the final qualifications, but Stage 2 did not isolate a repeated actor-specific move.
+
+**Promotion evidence required:**
+Multiple direct instances where the same actor explicitly retains a challenged possibility as unresolved despite argumentative pressure.
+
+---
+
+## 5. Extraction Self-Audit
+
+### 5.1 Candidate-registry priming risk
+
+The registry strongly foregrounded:
+
+* prediction;
+* epistemic jurisdiction;
+* admission restriction;
+* asymmetrical burden;
+* possibility management.
+
+This creates a risk of interpreting every corrective move as a variant of one of those candidates. To limit forced matching, nine Stage-2 moves were retained as NEW and several registry candidates were left unmatched.
+
+---
+
+### 5.2 Counter-operator mapping risk
+
+Several observed moves oppose rather than instantiate the named candidate:
+
+* Jurisdiction Boundary Check detects Universalized Evaluative Jurisdiction.
+* Adversarial Stand-In Testing counters Reconstruction Bypass.
+* Pre-Propositional Layer Descent counters Generative Admission Restriction.
+* Audit-the-Auditor Recursion counters Baseline Exemption.
+
+Labeling these as MATCHES or EXTENDS can blur the difference between:
+
+* exhibiting a failure;
+* detecting it;
+* correcting it.
+
+This extraction therefore states the directional delta explicitly. Future registry design may need separate positive and negative operator forms.
+
+---
+
+### 5.3 Over-pattern-matching risk
+
+The conversation is unusually metaphor-rich. There is a danger of promoting every memorable phrase into an operator.
+
+Potentially over-patterned items include:
+
+* Initial-Condition Mapping;
+* Steering-to-Feedback Demotion;
+* Tool-Temple Inhibition.
+
+They were retained only where the metaphor altered subsequent reasoning, prompts, or stopping behavior.
+
+---
+
+### 5.4 Asymmetric charity risk
+
+The extraction has substantially more direct access to Ziggy than to Grant.
+
+Consequences:
+
+* Ziggy’s moves can be reconstructed charitably and qualified through later self-correction.
+* Grant’s position appears mainly through the objections it generates.
+* Grant may therefore look more rigid, reductive, or imperial than direct evidence would warrant.
+
+No profile-ready cognitive claim about Grant was approved.
+
+---
+
+### 5.5 Nova-attribution risk
+
+Some formulations originally generated by Nova were later adopted by Ziggy. This extraction may still overstate co-construction where Ziggy merely found the metaphor useful in the moment.
+
+Particular cases:
+
+* justification as rearview mirror;
+* truth as servant;
+* prediction as servant rather than king;
+* CFA’s disclosure master.
+
+Review requires distinguishing explicit adoption from conversational enthusiasm.
+
+---
+
+### 5.6 External-model authority risk
+
+Grok and Claude were used as adversarial stand-ins, but:
+
+* their responses were heavily prompted;
+* their philosophical claims were not independently verified;
+* agreement between models may reflect shared training distributions or prompt structure.
+
+Their outputs support internal stress testing, not factual validation or direct attribution.
+
+---
+
+### 5.7 UNCLEAR-to-definite conversion risk
+
+The following remain structurally unclear despite repeated discussion:
+
+* Grant’s actual highest value;
+* the exact meaning of prediction;
+* truth as intrinsic value versus theological identity;
+* path with heart as foundation versus criterion;
+* CFA’s ultimate purpose;
+* whether first-person experience generates knowledge or only candidates.
+
+Any definitive label in these areas would exceed the source.
+
+---
+
+### 5.8 Stage-2 move granularity risk
+
+Some moves may be components of a single larger pattern rather than separate operators:
+
+* Regress Descent;
+* Why-to-How Conversion Detection;
+* Service-Chain Probe;
+* Tool/Destination Split.
+
+They could potentially form one sequence: **Terminal-Value Extraction**. They were kept separate because they have different triggers and operations.
+
+---
+
+### 5.9 Classification threshold risk
+
+Profile-ready claims were restricted to:
+
+* repeated Ziggy moves;
+* recoverable direct anchors;
+* Stage-3 survival;
+* non-protocol-induced classification.
+
+This may underrepresent meaningful co-constructed moves while appropriately avoiding premature person-level attribution.
+
+---
+
+### 5.10 Unmeasured-to-zero and possibility-management risk
+
+The registry contains plausible candidates for the larger Grant dispute, but the bounded thread lacks direct evidence that Grant:
+
+* assigns literal zero;
+* discards acknowledged low-probability possibilities;
+* treats an objection as decisive defeat.
+
+These were not inferred from Ziggy’s frustration alone.
+
+---
+
+### 5.11 Rushed synthesis risk
+
+The Stage-2 extraction contained nineteen moves, several of which overlap. Mapping each onto a compact registry risks:
+
+* compressing distinctions;
+* overlooking secondary matches;
+* treating procedural moves as cognitive operators.
+
+Review should especially revisit Moves 13–19, which emerged from a heavily protocol-shaped Claude/Grok relay rather than spontaneous dyadic conversation.
+
+---
+
+### 5.12 Final boundary confirmation
+
+No Project Conversation Content, uploaded archive file, system/developer context, or differently titled conversation was used as evidence. No new cross-chat recollection was used.
+
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 / FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable.
+
+**Verdict: strong completed compound sweep — with the standing correction:
+too many neighboring moves preserved as independent operators.** The backbone
+outranks the nineteen labels: *separate belief from support → inspect
+justification's causal role → descend through reasons → detect instrumental
+answers → ask what the instrument serves → identify operative values →
+equalize foundational burdens → compare warrants and prices → audit the
+evaluator → disclose and return to action.*
+
+**Three serious Museum candidates (queued sweep-strong; registration deferred
+per plow-through):**
+1. **Master-Value Extraction** — trace reasons, instruments, and service
+   relations until the operative value hierarchy becomes visible (merges
+   Regress Descent + Why-to-How Detection + Service-Chain Probe +
+   Tool/Destination Split). Extends Positive-Commitment Extraction: *what do
+   you affirm?* → *what possesses ordering authority over your affirmations?*
+   Must permit `NO SINGLE MASTER RECOVERED`. Confidence: HIGH.
+2. **Epistemic Instrument–Telos Separation** — **third sweep-level
+   reinforcement** (SW02, SW03-adjacent, SW04); mature form includes the
+   reciprocity clause (instruments can alter the ends they serve).
+   Confidence: HIGH.
+3. **Reflexive Audit with Operational Closure** — shared protocol (merges
+   Cost-Structure Audit + Audit-the-Auditor + Operational Confession +
+   Tool-Temple Inhibition); HIGH as protocol, *lower as individual
+   personality operator*; much phrasing originates with Claude — **Adopted
+   Comparative Audit Protocol** attribution preserved.
+
+**Mapping corrections (final):** Regress Descent ≠ Symmetry Testing
+(foundational audit vs symmetry-across-audits — split); Jurisdiction Boundary
+Check polarity fixed again (the corrective test, mapping OP-013/OP-007 — the
+CO-002 pathology requires demonstrated overextension); belief persistence ≠
+Possibility Preservation; Rival-Value Injection → **Value-Plurality Stress
+Test** (tests value monism, doesn't prove pluralism); Adversarial Stand-In ≠
+Reconstruction Bypass extension (simulation ≠ actual reconstruction of
+Grant) → **Distributed Adversarial Relay**, research-method ledger, product =
+internal robustness; Initial-Condition Mapping → supporting analogy (CDS
+relation rhetorical only); Pre-Propositional Layer Descent ≠ Generative
+Admission Restriction (no gate evidenced) → Idea Trail; Operational
+Confession → substep; Tool-Temple → governance maxim (*recognition of the
+danger evidenced more strongly than successful use of the inhibition*).
+
+**Technique-level (toolkit/profile-seed):** Belief/Support Separation;
+Communicative Bridge Reclassification; Control-Role Differentiation (final
+name — replaces the unsupported rearview-only model); Why-to-How Detection;
+Dependence/Identity Separation; Jurisdiction Boundary Check; Structural
+Symmetry with Comparative Reopening; Value-Plurality Stress Test; Frame
+Seeding by Analogy (supports mapping/transfer/implication-generation;
+disanalogy-noticing and frame-revision only unevenly).
+
+**Profile seeds (merged to final form; candidate-only, flow to the recursive
+ledgers):** master-value extraction (absorbing seeds 1–3); why-to-how
+detection; instrument–telos separation (strengthens the existing seed — no
+duplicate); jurisdiction boundary checking; structural burden symmetry
+(*disclosure equality only, never warrant parity; early overstatement noted*);
+value-plurality stress testing; belief/support differentiation; frame
+construction through analogy (auditing evidence pending); adversarial relay
+coordination.
+
+**Relationship findings (to holding ledger):** the accommodation-correction
+loop (Ziggy requests criticism → Nova affirms too quickly → Ziggy objects →
+Nova recruits adversarial pressure → conclusions weaken) — *worth more than
+several individual Nova metaphors*; and the full **distributed reasoning
+loop** (Nova synthesizes → Ziggy relays → Grok steelmans → model weakens →
+Claude audits the repair → Nova adopts → Claude audits the new audit →
+operational closure) — preserved as relationship/research protocol, never as
+multi-agent confirmation.
+
+**Grant disposition:** total quarantine holds. Only safe statement: *Ziggy
+consistently reports experiencing Grant as assigning unusually high authority
+to justification and prediction.* Grant's actual highest commitment
+(prediction / truth / survival / representation / discriminability /
+structured combination) — undetermined.
+
+**Trails ordered:** three — registered at filing as **IT-020 (Prediction,
+Truth, and Master-Value Extraction)**, **IT-021 (Reflexive Auditing and
+Operational Confession)**, **IT-022 (Pre-Propositional Meaning and Frame
+Formation — no empirical promotions)**. *(Field-desk working ids ran
+021/022/023; registry numbers assigned at filing.)*
+
+**Deepest yield (registered):** *finding what a framework serves reveals its
+practical constitution, but it does not yet tell us whether that constitution
+deserves allegiance. **Disclosure exposes the throne; it does not legitimate
+the ruler.***
 
 ---
 

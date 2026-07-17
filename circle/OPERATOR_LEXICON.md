@@ -288,6 +288,26 @@ verdict; maps to Museum OP-013; **structurally the corrective test for
 CO-002's suspected pathology** — the probe that would detect Universalized
 Evaluative Jurisdiction if deployed against a live interlocutor).
 
+From COMPOUND_SWEEP_04 (**three serious candidates — registration deferred to
+bounded sub-digs E/F per plow-through**): **Master-Value Extraction** (regress
+descent → why-to-how detection → service-chain probe → instrument/telos
+separation → operative hierarchy; extends Positive-Commitment Extraction one
+level down — *what orders your affirmations*; must permit `NO SINGLE MASTER
+RECOVERED`; sharpest instrument: the refusal-to-sacrifice probe; HIGH
+confidence) · **Epistemic Instrument–Telos Separation** (**third sweep-level
+reinforcement** — SW02/SW03-adjacent/SW04; mature form carries the reciprocity
+clause: instruments can transform the ends they serve) · **Reflexive Audit
+with Operational Closure** (shared protocol — *Adopted Comparative Audit
+Protocol*, Claude-originated phrasing, adoption sequence preserved; the
+stopping rule is part of the operator). Technique-level from this sweep:
+Belief/Support Separation · Control-Role Differentiation · Why-to-How
+Detection · Dependence/Identity Separation · Structural Symmetry with
+Comparative Reopening (disclosure equality, never warrant parity) ·
+Value-Plurality Stress Test (2nd instance — SW03's Value-Plurality Reframing
+kin) · Frame Seeding by Analogy (auditing evidence uneven) · Distributed
+Adversarial Relay (research-method ledger; product = internal robustness,
+never external verification).
+
 From DIG_01 crosswalk (**a restraint round — no new registrations**):
 **Modal Burden Enforcement** (assertor of a modal premise carries its burden —
 NOT Symmetry Testing) · **Hidden Ranking Exposure** ("superior world"
@@ -341,3 +361,4 @@ therefore carries a Museum ID.
 | 2026-07-17 | Logical-Status Compression | Recorded as **local reasoning error** (not an operator) — first entry in the Failure-Atlas seed list; committed by conversational Nova, caught by Stage 3, ruled by field-desk Nova | DIG_01 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_02) | **Plow-through rule enforced at filing: zero promotions from a completed 4-stage sweep.** Three sweep-strong candidates queued (Positive-Commitment Extraction; Instrument ≠ Telos; Candidate-Space Construction); CO-014 gains a 2nd candidate instance (sweep-grade — awaits sub-dig A); all Grant pathology mappings quarantined ("the sweep reconstructs how Ziggy experiences Grant's method, not Grant's architecture"); Asymmetry Reversal MATCHES OP-008 with inconsistent self-application noted | Field-desk Stage-4 handoff, COMPOUND_SWEEP_02 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_03) | Zero promotions again. Two retain-RED candidates queued (Framework Transplant; Constraint-Exhaustion Stress Test — five fragments consolidated into one sequence operator); Jurisdiction Challenge merged family noted as CO-002's corrective test; eight findings held at technique level; rejected mappings: Scope-Constrained Concession ≠ OP-009 (scope control, not possibility preservation), Instrument-Scaling ≠ CO-002, reductio ≠ CO-008, indexing ≠ relativism; no Grant operator (reported replies undeterminable: theory / improvisation / compression / reconstruction) | Field-desk Stage-4 handoff, COMPOUND_SWEEP_03 |
+| 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_04) | **Third consecutive zero-promotion sweep.** Three serious candidates queued (Master-Value Extraction, HIGH; Instrument–Telos Separation, 3rd reinforcement; Reflexive Audit with Operational Closure, shared protocol). Rejected/corrected mappings: Regress Descent ≠ OP-008 (audit vs symmetry-across-audits); jurisdiction-check polarity re-fixed (corrective test, not CO-002); belief persistence ≠ Possibility Preservation; adversarial relay ≠ CO-006 extension (simulation ≠ reconstruction of Grant); pre-propositional descent ≠ CO-003 (no gate evidenced); external-model phrasings attributed by adoption sequence. Grant: experience-report ceiling only | Field-desk Stage-4 handoff, COMPOUND_SWEEP_04 |

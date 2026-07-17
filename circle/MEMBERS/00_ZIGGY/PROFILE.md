@@ -55,7 +55,7 @@ Decomposition, CO-013 Exhaustiveness Challenge, CO-014 Claim-Scope Repair
 (first cross-chat recurrence signal pending sub-dig) — see `OPERATOR_MAP.md`.
 
 **The emerging architecture (hypothesis-grade, synthesis-phase material):**
-across seven digs the same shape keeps surfacing — *fix the actual boundary of
+across eight digs the same shape keeps surfacing — *fix the actual boundary of
 what was established; audit whether the offered options were ever complete;
 preserve what remains unexcluded; challenge the authority of the standard
 doing the excluding.* Field-desk compressions of it: "Residual-Space
@@ -64,11 +64,32 @@ exhaustive" (AUX_04); "constraint discovery, not framework destruction"
 (SWEEP_03). Its attached price, registered from the archive's own operators:
 **preserved ≠ preferred (CO-011)** — the promotion-pathway debt.
 
+**The authority-audit summit (SWEEP_04 addition):** the architecture's newest
+and highest-reaching member turns the audit on the auditor — **Master-Value
+Extraction** (HIGH-confidence candidate): *when a framework claims neutrality,
+extract what actually possesses ordering authority over its verdicts; test by
+refusal-to-sacrifice, not by self-description.* Mature form must permit
+`NO SINGLE MASTER RECOVERED`. Companion moves queued the same sweep:
+why-to-how conversion detection (a mechanism answer to a value question
+relocates, doesn't answer), belief/support separation (persistence ≠ warrant),
+and structural symmetry with comparative reopening (disclosure equality only,
+never parity). Deepest sweep yield, filed as the standing caution on the whole
+family: *disclosure exposes the throne; it does not legitimate the ruler.*
+
+**Research-method signature (candidate, method not cognition):** deliberate
+adversarial relay — recruiting external models (Grok steelman, Claude audit)
+*against* an emerging consensus rather than for confirmation; first three-AI
+distributed loop on record (SWEEP_04, RELATIONSHIP_MAP holding ledger). Product
+is internal robustness, never multi-witness confirmation (echo rule).
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
-moves without stopping rules (DIG_01, AUX_04). Candidate charter theme
-"over-generation / insufficient pruning" has not yet been directly tested —
-the opening research question stands.
+moves without stopping rules (DIG_01, AUX_04); **frame seeding by analogy with
+uneven disanalogy-auditing** (SWEEP_04 — mapping/transfer supported, the
+auditing step is what's inconsistent); early uneven application of the
+comparative-symmetry standard before its mature form stabilized (SWEEP_04).
+Candidate charter theme "over-generation / insufficient pruning" has not yet
+been directly tested — the opening research question stands.
 
 *(Formal sections B–L still await Phase 2; this ledger feeds them.)*
