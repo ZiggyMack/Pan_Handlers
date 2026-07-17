@@ -26,6 +26,14 @@
 - A workbook missing a stage output is not promotable. Profiles never cite
   workbooks or packets directly — they cite `SOURCE_INDEX.md` entries (promotion
   rules: the protocol's Archive Integration section).
+- **Profile recursion (the FILED step, made explicit):** when a dig closes,
+  Stage-4-cleared material flows to *three* places, not two: (1) the member's
+  `SOURCE_INDEX.md`, (2) the synthesis packet, and (3) **the member's
+  profile-layer documents** (`OPERATOR_MAP.md`, `POSITION_LEDGER.md`, and the
+  PROFILE's Provisional Evidence Ledger) at their promotion ceiling.
+  Candidate/sweep material updates instance counts in the member's operator
+  map without asserting traits. Profiles grow recursively with every close —
+  the Phase-2 synthesis will be built *from* these ledgers, not from scratch.
 - **Field-desk reviews** (Nova's verdicts on stage outputs — run the next stage,
   repurpose, quarantine constraints, expected mappings) are filed *in the
   workbook* as `🧭 FIELD-DESK REVIEW` blocks after the relevant OUTPUT section:
@@ -93,7 +101,7 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_08.md` | | EMPTY |
 | `DIG_09.md` | | EMPTY |
 | `DIG_10.md` | *(template consumed into COMPOUND_SWEEP_04)* | — |
-| `DIG_COMPOUND_SWEEP_04_belief_prediction_foundations_and_masters.md` | ⚡ Largest sweep yet — 5 neighborhoods; spine: belief/justification → foundations → **masters** → CFA meta-audit; ⚠️ external-model contamination risk HIGH (Grok/Claude echoes ≠ witnesses); 6 sub-digs queued (E = prediction/truth/masters is the prize) | STAGE 1 COMPLETE — Stage 2 authorized; candidate harvest only |
+| `DIG_COMPOUND_SWEEP_04_belief_prediction_foundations_and_masters.md` | ⚡ Largest sweep yet — 5 neighborhoods; spine: belief/justification → foundations → **masters** → CFA meta-audit; ⚠️ external-model contamination risk HIGH (Grok/Claude echoes ≠ witnesses); 6 sub-digs queued (E = prediction/truth/masters is the prize) | STAGE 2 COMPLETE — Stage 3 authorized; master-seeking + CFA-audit families consolidated; external-model independence NOT established; Instrument ≠ Telos gains 2nd sweep recurrence |
 | `DIG_11.md` | *(template consumed into DIG_AUX_05)* | — |
 | `DIG_AUX_05_story_genre_wisdom_compression_and_orientation.md` | Story as wisdom compression; genre plurality vs Hero's Journey; Ethos/Pathos/Logos as orientation channels; **first Tale Recursion appearance**; 3 assistant-imported Grant positions caught & ruled UNSUPPORTED | STAGE 3 COMPLETE — Stage 4 authorized; A3 standard sharpened (specific move demonstrated in-thread, not general ability); orientation weakened to organizing hypothesis; clearest rigor failure: asymmetric functional treatment of science |
 

@@ -1,6 +1,6 @@
 # COMPOUND SWEEP 04 — Belief, Prediction, Foundations, and Masters
 
-**Status:** STAGE 1 COMPLETE — PASS AS LARGE COMPOUND SWEEP; STAGE 2 AUTHORIZED · **⚡ PLOW-THROUGH MODE** (candidate harvest only)
+**Status:** STAGE 2 COMPLETE — PASS AS LARGE COMPOUND SWEEP; STAGE 3 AUTHORIZED · **⚡ PLOW-THROUGH MODE** (candidate harvest only) · external-model independence NOT established
 **Ziggy evidence:** STRONG · **Grant evidence:** REPORTED ONLY · **Co-construction:** VERY STRONG · **⚠️ EXTERNAL-MODEL CONTAMINATION RISK: HIGH**
 **Neighborhoods (5):** belief/justification/faith · language/prosody/framing · quantum observer speculation (ISOLATE — technical correctness unresolved) · metaphysics/epistemology/category relations · **prediction/truth/masters/CFA self-audit** (the spine)
 **Protocol:** v0.2.2 Stage 1 (bounded) · **Extraction date:** 2026-07-17
@@ -2593,6 +2593,89 @@ May blur the difference between accurately modeling authenticity and possessing 
 
     * No cross-chat material beyond the Stage-1 notices was used as evidence in this Stage-2 extraction.
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS AS LARGE COMPOUND SWEEP — run Stage 3.** A genuinely coherent
+central architecture, but Stage 2 over-split it and occasionally treated
+adopted Grok/Claude formulations as independently recurring Ziggy behavior.
+**External-model independence: NOT established.**
+
+**Central sequence (the ore):** claimed epistemic supremacy → grant local
+usefulness → distinguish tool from destination → ask what the tool serves →
+detect instrumental "why" answers → expose a master or stopping commitment →
+name its price and distortions → audit the evaluator → stop operationally
+through disclosure.
+
+**Strongest survivors (sweep-grade):** Belief–Justification Separation (four
+layers kept distinct: persistence / confidence / warrant / defensibility);
+Communicative Bridge Reclassification (with the guard: a bridge also *exposes
+that a destination cannot bear the weight* — truth-discrimination role must
+survive); **Control-Role Differentiation** (renamed from steering-demotion —
+justification serves prospective planning, inhibition, monitoring, post-hoc
+explanation, corrective learning; the rearview mirror is one role, not the
+vehicle); Regress Descent (all chains terminate ≠ all termini equally
+arbitrary ≠ equally warranted); **Why-to-How Conversion Detection** ("because
+it helps us survive" explains *how prediction serves survival* while
+relocating the value question); Jurisdiction Boundary Check (bridge-principle
+test required — mixed claims remain mixed); Dependence ≠ Identity (portable:
+observation/reality, language/meaning, models/objects); Structural Symmetry
+Extraction (= **burden equalization followed by comparative reopening**, never
+parity); **Value-Plurality Stress Test** (renamed from "Rival-Value Injection"
+— motive stripped again).
+
+**Merges ordered:** the master-seeking family (Regress Descent + Why-to-How +
+Service-Chain Probe + Tool/Destination Split + Initial-Condition Mapping) →
+**Master-Value Extraction** (identify alleged ultimate → ask what it serves →
+detect instrumental answers → reclassify tools → continue until practical
+ordering appears; the refusal-to-sacrifice probe is its sharpest instrument);
+the CFA self-audit family (Cost-Structure Audit + Audit-the-Auditor +
+Operational Confession + Tool-Temple Inhibition) → **Reflexive Audit with
+Operational Closure** (name master and price → audit criteria → disclose
+evaluator distortions → stop at operative level → return to action — the
+stopping rule is *part of the operator*, not optional); the external-model
+work → **Distributed Adversarial Relay** (research-protocol ledger: shared
+model → external steelman → return → **inspect prompt dependence** → revise).
+Attribution layering enforced: Cost-Structure Audit is *Claude formulates →
+adopted → shared protocol* — not a preexisting Ziggy operator.
+
+**Downgrades:** Initial-Condition Mapping → model-building analogy (values
+aren't fixed inputs — they're revised, negotiated, discovered, transformed);
+Frame Seeding by Analogy → too generic (the profile-worthy version requires:
+explicit component mapping, preserved disanalogies, testable consequences,
+later frame audits); Pre-Propositional Layer Descent → Idea Trail lead
+(affect → prosody → proto-symbol → language → narrative → justification);
+Tool-Temple Inhibition → project-governance maxim; **"Grant as epistemic
+gatekeeper" → RENAMED "Grant as reported epistemic-standard advocate"**
+(pejorative import stripped — adopted in Grant's operator map).
+
+**Instrument ≠ Telos gains its second sweep-level recurrence** — this packet
+applies it to prediction, logic, pragmatism, science, truth-seeking; field
+desk: *strengthens the existing candidate, no duplicate registration.*
+
+**Stage-3 pressures registered:** vs Ziggy ×8 (incl. #8: *what follows when
+the disclosed price is unacceptable? disclosure without revision may become
+ritualized immunity*); vs Grant-reported ×5 (all for a direct corpus); vs
+Nova ×6 (incl. tracking external-model origination before assigning Ziggy
+ownership); vs external-model triangulation ×4 (prompt genealogy: was the
+objection independent, was the architecture embedded in the prompt, did the
+model merely reverse framing on command, did Ziggy adopt the argument or the
+phrase?).
+
+**Expected survival table registered (scoreable).** Sub-dig priority:
+1. prediction_truth_and_master_values · 2. CFA_meta_audit_and_operational_
+confession · 3. belief_justification_faith_and_feedback · 4. metaphysics_
+epistemology_and_category_authority. Quantum + language stay quarantined.
+
+**Central Stage-3 prey (registered):** *when we expose the master served by
+prediction, truth, justification, or CFA — have we discovered a genuine
+terminal value, or merely found the next level at which the framework
+currently chooses to stop asking?*
 
 ---
 

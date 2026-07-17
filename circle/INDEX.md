@@ -24,8 +24,8 @@
 
 | # | Member | Version | Status | Last Reviewed | Observers | Member Response |
 | --- | -------- | --------- | -------- | --------------- | ----------- | ----------------- |
-| 0 | Ziggy | 0.0 | STUB (Phase 2 control) | 2026-07-16 | — | not invited |
-| 1 | Grant | 0.1 | SCAFFOLDED | 2026-07-16 | Ziggy, P.H. Claude | not invited |
+| 0 | Ziggy | 0.2 | **EVIDENCE ACCUMULATING** (pre-Phase-2: Z-001…004, CO-012/013/014, ZP-1…6, recursive ledgers live) | 2026-07-17 | Nova (field desk), P.H. Claude | not invited |
+| 1 | Grant | 0.1 | SCAFFOLDED + first source (G-001, reported ceiling; all operator mappings blocked to date) | 2026-07-17 | Ziggy, Nova, P.H. Claude | not invited |
 | 2 | Tale Recursion | 0.0 | NOT STARTED | — | — | — |
 | 3 | Angles | 0.0 | NOT STARTED | — | — | — |
 | 4 | Hugz | 0.0 | NOT STARTED | — | — | — |
