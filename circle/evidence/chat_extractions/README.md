@@ -26,6 +26,13 @@
 - A workbook missing a stage output is not promotable. Profiles never cite
   workbooks or packets directly — they cite `SOURCE_INDEX.md` entries (promotion
   rules: the protocol's Archive Integration section).
+- **Field-desk reviews** (Nova's verdicts on stage outputs — run the next stage,
+  repurpose, quarantine constraints, expected mappings) are filed *in the
+  workbook* as `🧭 FIELD-DESK REVIEW` blocks after the relevant OUTPUT section:
+  the dig's decision log, attributed as NOVA-INTERPRETATION about the
+  extraction, never promotable as chat evidence. Her *predictions* register in
+  the relevant idea-trail or dig file **before** the predicted stage returns,
+  so they stay scoreable. Her *norms* go to `SHARED_HISTORY/TIMELINE.md`.
 - **Contamination check (v0.2.2):** the dig operator's account shares context
   across chats, so leakage is ambient. If a stage output cites other
   conversations or spans a date range, STOP — preserve it in

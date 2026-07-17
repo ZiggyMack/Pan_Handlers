@@ -11,6 +11,11 @@
 > this workbook at filing as a separate, derived artifact, so later audits can
 > distinguish source recovery from synthesis.
 >
+> **Field-desk reviews:** commentary from the field desk (Nova) on a stage's
+> output is filed after that OUTPUT section under a '🧭 FIELD-DESK REVIEW'
+> heading — an attributed decision log (NOVA-INTERPRETATION about the
+> extraction), never promotable evidence.
+>
 > **Contamination check:** if a stage output cites material from other
 > conversations, spans a date range instead of one session, or admits combining
 > chats — STOP. Do not send the next stage. Preserve the output as a corpus

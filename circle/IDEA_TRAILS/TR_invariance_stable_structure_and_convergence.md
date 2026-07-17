@@ -61,3 +61,36 @@ Filed before Stage 3 returned, so it can be scored against the actual output:
 Stage-4 go/no-go rides on whether Stage 3 leaves enough standing — the live
 question being whether Framework Transfer blind-recovers something close to
 Cross-Disciplinary Swooping (which would attribute to **Nova**, not Ziggy).
+
+## Prediction Score — Stage 3 returned (2026-07-17, scored by P.H. Claude)
+
+| # | Claim | Outcome |
+| --- | --- | --- |
+| 1 | Five named moves survive as local moves | **CONFIRMED** — all five appear in "Characterizations That Survived"; recurrence honestly downgraded ("repeated moves" → "mostly consequential one-time moves") |
+| 2 | Framework Transfer / Variation-as-Transformation / Convergence Reinterpretation weaken | **CONFIRMED** — transfer survives *as a move* but weakens as an epistemic claim; model-differences-as-transformations = "analogy but not a formal transformation structure"; convergence reliability unestablished (no independence test, no shared-cause analysis) |
+| 3 | Vulnerable set stays thread-specific | **CONFIRMED** — loops → "a single interaction pattern"; stress-survival lacks a pre-specified transformation class; philosophical comparisons weaken as historical claims; "epistemic invariant" → "assistant-generated exploratory label" |
+| 4 | No stable profile operators promoted | **ON TRACK** — formal verdict at Stage 4; Stage 3 establishes no recurrence |
+| 5 | UNKNOWN-dominance; Ziggy's silence = source limitation, not omission | **CONFIRMED** — "No confirmed informative omissions exist under A3 or A2"; adoption of Nova's extensions remains UNKNOWN |
+
+**Calibration note:** first scored field-desk prediction ≈ 5/5. One instrument
+finding en route: "Omission 7" (adoption-status not announced) reclassified by
+the field desk as **archival attribution risk from an unfinished exchange** —
+a category produced by turning live conversation into evidence, not a
+cognitive omission by either participant.
+
+## Trail Chain (refined post-pruning, Nova 2026-07-17)
+
+```text
+unchangedness
+→ pattern above noise
+→ transformation-relative stability
+→ cross-domain examples
+→ model differences treated as transformations   (analogy, not yet formal)
+→ convergence labeled candidate invariance       (unadopted, quarantine-grade)
+→ pruning reveals missing independence and shared-cause tests
+```
+
+The last step is the trail's value: the dig preserves not just the attractive
+analogy but **the exact point where the analogy becomes scientifically
+expensive** — what must be paid (a defined transformation class, independence
+tests, shared-cause analysis) before "invariant" means more than "they agreed."
