@@ -507,6 +507,11 @@ transformed the underlying recovery.
 | G-HYPOTHESIZED-BY-ZIGGY | `INFERRED` at most — hypothesis-grade, below G-REPORTED | field label (DIG_02, 2026-07-17): Ziggy *suspects* Grant would say X. Not position evidence; files as a Ziggy expectation about Grant |
 | ZIGGY-RECONSTRUCTION-OF-GRANT | never files as Grant position evidence | field label (DIG_02, 2026-07-17): an argument Ziggy *builds on Grant's behalf*. Evidence of Ziggy's modeling of Grant, usable for the relationship layer and prediction-testing — not for Grant's ledger |
 
+**Alias registry (filing-side identity resolution):** **MindCourier = Ziggy**
+(second account; operator-disclosed 2026-07-17). Material attributed to
+MindCourier in any bounded thread files as **Z-DIRECT**. Extractors are not
+told this mid-dig (boundary discipline); the resolution applies at filing.
+
 ## Promotion thresholds (strengthened in v0.2)
 
 1. A packet is promotable only when **all four stages** are complete and saved.

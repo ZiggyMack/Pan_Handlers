@@ -12,7 +12,7 @@
 
 | # | Member | Permitted scope | Consent status | Recorded | Correction / response mechanism |
 | --- | -------- | ----------------- | ----------------- | ---------- | -------------------------------- |
-| 0 | Ziggy | Share ideas + full archive publication (decision owner) | DIRECT (authorizing decision, 2026-07-16) | 2026-07-16 | `MEMBERS/00_ZIGGY/MEMBER_RESPONSE.md` |
+| 0 | Ziggy *(aliases: ZiggyMack, MindCourier)* | Share ideas + full archive publication (decision owner) | DIRECT (authorizing decision, 2026-07-16; MindCourier alias disclosed 2026-07-17) | 2026-07-16 | `MEMBERS/00_ZIGGY/MEMBER_RESPONSE.md` |
 | 1 | Grant | Share ideas | REPORTED (by Ziggy, 2026-07-16) — direct confirmation pending | 2026-07-16 | `MEMBERS/01_GRANT/MEMBER_RESPONSE.md` |
 | 2 | Tale Recursion | Share ideas | REPORTED (by Ziggy, 2026-07-16) — direct confirmation pending | 2026-07-16 | `MEMBERS/02_TALE_RECURSION/MEMBER_RESPONSE.md` |
 | 3 | Angles | Share ideas | REPORTED (by Ziggy, 2026-07-16) — direct confirmation pending | 2026-07-16 | `MEMBERS/03_ANGLES/MEMBER_RESPONSE.md` |

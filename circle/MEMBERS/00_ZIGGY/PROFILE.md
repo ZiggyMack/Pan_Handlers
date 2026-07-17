@@ -7,7 +7,7 @@
 > same falsification discipline.
 
 ## A. Orientation
-- **Name / handle:** Ziggy (git: ZiggyMack)
+- **Name / handle:** Ziggy (git: ZiggyMack; second account: **MindCourier** — disclosed 2026-07-17, files as Z-DIRECT)
 - **Role in circle:** Core member (#0); primary observer; vision architect of the
   PanHandlers federation
 - **Relationship to project:** founder; his interpretations shape every other
