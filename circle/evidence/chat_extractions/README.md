@@ -67,7 +67,8 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_AUX_00_Scope_CREEP.md` | *(record of the contaminated first run — canonical copy in SWEEP_00)* | ORIENTATION ONLY — NOT PROMOTABLE |
 | `DIG_AUX_01_repo_nova_institutional_identity_2026-07.md` | Repo Nova's institutional evolution; Repo Claude complementarity; extraction-design history | STAGE 1 COMPLETE — REPURPOSED (Ziggy/shared-history evidence; Stages 2–4 postponed) |
 | `DIG_AUX_02_invariance_and_stable_structure_2026-07.md` | Invariance as transformation-relative stability (Ziggy–Nova conceptual exchange) | ✅ **FILED** — first dig through all 4 stages; seeded IT-014, CO-009, CO-010, Z-001; synthesis: `ziggy_nova_invariance_2026-07.md` |
-| `DIG_AUX_03.md` | | EMPTY (staged for the mining walk) |
+| `DIG_AUX_03_prediction_ontology_and_effective_theories_2026-07.md` | Prediction vs truth: does predictive success settle ontology? (real clash; Ziggy/Nova; NO Grant evidence — attribution-corrected) | STAGE 1 COMPLETE — Stage 2 authorized; seeds IT-015 |
+| `DIG_AUX_04.md` | | EMPTY (staged for the mining walk) |
 | `DIG_00.md` | *(reserved: CFA-zero — preflight required)* | EMPTY |
 | `DIG_01.md` | | EMPTY |
 | `DIG_02.md` | | EMPTY |

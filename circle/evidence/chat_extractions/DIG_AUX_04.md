@@ -1,4 +1,4 @@
-# DIG AUX 03 — *(subject discovered after Stage 1)*
+# DIG AUX 04 — *(subject discovered after Stage 1)*
 
 > **Self-contained dig workbook.** Work top to bottom: copy each stage prompt
 > into the old chat **as its own message**, wait for the reply, paste it under
