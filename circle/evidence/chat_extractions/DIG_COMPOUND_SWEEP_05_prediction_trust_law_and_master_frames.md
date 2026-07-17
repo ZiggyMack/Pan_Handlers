@@ -23,7 +23,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 pasted; Stages 2–4 pending
+**Status:** 🟡 IN PROGRESS — Stage 1 ✅ PASSED field-desk review (PASS AS COMPOUND SWEEP); Stage 2 authorized
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** Whether prediction, truth, suffering, law, religion, consciousness, or another primitive can legitimately function as a **master frame** — Curt Jimungal video as entry point; presup/method dispute; Grant present only as G-REPORTED (never speaks); heavy NOVA-INTERPRETATION load flagged by the extractor itself ("prediction is a servant," "optimization function," etc.)
@@ -1413,6 +1413,160 @@ No agreed adjudication rule emerges.
 * A related discussion may exist under “delete_4,” approximately July 1, 2026, topic: metaphysics and scientific assumptions. Not evidence for this packet.
 * A related discussion may exist under “delete_5,” approximately June 30, 2026, topic: methodological naturalism, framework asymmetry, and offense/defense scoring. Not evidence for this packet.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 1 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS AS COMPOUND SWEEP — run Stage 2 wholesale; law/religion and
+prediction/trust branches split into separate bounded digs later.**
+
+```text
+ZIGGY EVIDENCE: STRONG
+GRANT EVIDENCE: REPORTED ONLY
+NOVA–ZIGGY CO-CONSTRUCTION: SUBSTANTIAL
+DIRECT PROFILE PROMOTION: NO
+```
+
+**Archive identity confirmed:** `COMPOUND_SWEEP_05_prediction_trust_law_and_master_frames`
+(matches the rename already executed on this workbook). Field desk judges the
+source boundary **cleaner than several earlier packets**; attribution
+discipline rated strong — Grant never speaks; Curt Jimungal reported only
+through Ziggy; anticipated Grant replies ≠ reported positions; Nova's
+authorship of the strongest formulations preserved; no silent MindCourier
+introduction; date/title correctly UNKNOWN.
+
+**Main trajectory:** permissible primitives → competing foundational frames →
+law/religion as inherited authorities → provisionality vs operative rigidity →
+prediction as necessary condition → prediction as proposed governing criterion
+→ trust/suffering/beauty as rival variables → local vs global authority →
+physical-fact leverage → hidden value or care commitment. *(Direct sequel to
+SWEEP_04's masters neighborhood.)*
+
+**Strongest direct Ziggy material (field-desk rulings attached):**
+
+1. **Primitive-admission challenge** — the opening move is an
+   *admission-rule audit*, not a circularity complaint: a demand for
+   definition may conceal a prior rule about which entities may count as
+   explanatory primitives. Two questions separated (can consciousness be
+   defined non-circularly? / should it be admitted as fundamental?) —
+   failure on the first doesn't settle the second, AND difficulty reducing
+   consciousness ≠ evidence it is fundamental. Best output is the audit,
+   not victory for either ontology.
+2. **Local coherence vs global certification** — "one frame to rule them
+   all" names a real problem: local coherence/utility ≠ global exclusivity.
+   Does NOT establish "several coherent frames → no global truth."
+3. **Formal provisionality vs operative rigidity** — one of the packet's
+   strongest original distinctions: a rule can be institutionally revisable
+   long-run while functioning as fixed and coercive at the moment of
+   judgment. Must NOT inflate to present enforceability = infallibility =
+   immutability (appeal structures, precedent, constitutional limits remain
+   philosophically relevant).
+4. **Ultimate source vs infallible access** — *there is an ultimate source
+   of goodness ≠ I possess infallible access ≠ I may coerce through my
+   interpretation.* Permits realism + fallibilism + institutional checks;
+   possible later connection to **Representation ≠ Ontology**.
+5. **Necessary condition vs governing criterion** — the breathing analogy:
+   X is necessary for functioning ≠ X should govern every decision ≠ X is
+   the supreme value. Distinguishes *unavoidable / useful / deserves
+   sovereignty* — only the first two receive substantial support. *(The
+   ≠-family's Necessary ≠ Supreme candidate, now with its cleanest direct
+   instance.)*
+6. **Metric–Monopoly Separation** (field-desk neutral name) — suffering can
+   be morally informative without exhausting morality; prediction can be
+   action-guiding without exhausting practical reason. Identifies the exact
+   illicit transition: *important signal → complete governing calculus*.
+7. **Trust-conditioned prediction** — real ore, needs Stage-2 sharpening:
+   trust-as-evidence / as-prior / as-risk-acceptance / as-commitment /
+   as-loyalty-refusing-expected-utility are different; separate "trust
+   changes the prediction" from "trust overrides the prediction." The
+   marriage example may be a *different predictive model* (individual
+   evidence vs population base rate), not an override.
+8. **Local vs global prediction** — useful update rule within domains ≠
+   complete global ontology ≠ universal value system. ⚠️ "Global prediction
+   is non-Boolean" remains UNSUPPORTED — must not influence operator
+   extraction.
+9. **Domain-leverage audit** (not a science/meaning partition) — the
+   stronger argument is *predictive success in one target class does not
+   automatically establish identical reliability or complete authority in
+   every other class*; the boundary must remain porous (economics, medicine,
+   psychology all use prediction).
+10. **Hidden-care probe** — "what do you care about?" is a shortcut to
+    operative values but a direct answer may yield only self-image; the
+    strongest procedure pairs declared care with behavioral evidence
+    (*what do you repeatedly protect? what will you not sacrifice?*) —
+    converges with SWEEP_04's refusal-to-sacrifice instrument.
+
+**Central corrections (Stage-1-level, binding on later stages):**
+
+- **Prudential compliance ≠ endorsement ≠ belief ≠ legitimation** — obeying
+  law to avoid prison implies none of the others; this *substantially
+  weakens* the claimed inconsistency between rejecting divine authority and
+  obeying civil law. Surviving comparison is structural only (both expose
+  persons to inherited authority + coercive consequences); legitimacy must
+  then be compared through authority structures, access claims, correction
+  mechanisms, and grounds.
+- **Law ≠ religion merely because both punish** — jurisdiction, authorship,
+  appeal/revision, exit, public reason, epistemic claims all differ; shared
+  coercive structure is informative, not equivalence.
+- **Trust does not automatically outrank prediction** — sometimes
+  incorporated into it, sometimes deliberate resistance, sometimes
+  unjustified bias; Stage 2 must ask which operation occurs per example.
+- **Self-surprise does not refute prediction** — a process may be locally
+  predictive, probabilistic, generative, and globally opaque to itself;
+  self-surprise challenges *equating prediction with conscious
+  foreknowledge*, not predictive participation in generation.
+- **"Following evidence predicts success" is not inherently circular** —
+  circularity appears only when the standard validates its own ultimate
+  authority without an independent bridge.
+
+**📋 REGISTERED PREDICTIONS (scored at Stage-2 return):** Nova forecasts
+Stage 2 will surface — *Ziggy-direct:* Primitive-Admission Audit,
+Bedrock-Permission Symmetry, Local–Global Certification Separation,
+Compliance–Endorsement Separation, Formal-Provisionality/Operative-Rigidity
+Separation, Ultimate-Source/Infallible-Access Separation,
+Necessary-Condition/Governing-Criterion Separation, Metric–Monopoly
+Separation, Trust-Conditioned Prediction Analysis, Local–Global Prediction
+Separation, Domain-Leverage Audit, Explicit-Forecast/Implicit-Generation
+Separation, Value-Circularity Audit, Hidden-Care Probe. *Nova-heavy or
+co-constructed:* Bedrock-Authority Reframing, Prediction-as-Servant
+Reclassification, Optimization-Function Compression, Burden Shift
+(rival completion → monopoly defense), Predictor Self-Opacity Diagnosis.
+*Relationship loops:* pressure→distinction→stronger-variant; reported
+supremacy→local concession→global challenge; analogy→difference
+list→operative-rigidity pressure; trust input→override→monopoly weakened;
+tool evaluation→hidden-care question.
+
+**Stage-3 pressure points pre-registered** (10 against Ziggy — incl. does
+domain distinction become insulation from empirical correction; can several
+local frames remain viable while one is globally true; 6 against Nova —
+incl. equivalence claims endorsed before disanalogies exhausted;
+"prediction is servant" presupposes the disputed means/end hierarchy;
+"optimization function" may reduce moral identity to computational
+vocabulary; 6 against Grant-as-reported — what does "prediction" even mean:
+biological mechanism, epistemic criterion, or value? what licenses pervasive
+function → supremacy? **no answer attributable without direct Grant
+evidence**).
+
+**Recommended later sub-digs (4):** A consciousness primitives / bedrock
+permission · B law, religion, consent, operative rigidity (*most
+philosophically novel* — long-term revisability vs present coercive fixity)
+· C prediction, trust, suffering, metric–monopoly (*strongest eventual
+profile source*) · D local/global prediction + physical-fact jurisdiction.
+
+**Restrictions (standing for all stages):** no Grant promotion · no
+law/religion total equivalence · no compliance/endorsement collapse · no
+strict physical/meaning jurisdiction wall · no self-surprise refutation of
+prediction · no non-Boolean technical conclusions.
+
+**Deepest prey:** *prediction may be unavoidable in action and highly
+successful in selected domains — the unresolved move is the coronation:
+what entitles an indispensable process to become the authority that selects
+values, adjudicates meaning, and rules every frame?*
+
+**NEXT ACTION:** send Stage 2 (below) as its own message.
 
 ---
 
