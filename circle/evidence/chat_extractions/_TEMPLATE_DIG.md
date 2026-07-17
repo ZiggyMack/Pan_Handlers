@@ -1,70 +1,36 @@
-# ⛏️ PanHandlers Cognitive Archaeology Protocol v0.2 — ACTIVE
+# DIG NN_PLACEHOLDER — *(title once known)*
 
-> **The dig instrument, second edition.** v0.1 (Nova, 2026-07-16) survived contact
-> with reality for exactly one deployment: pasted whole into an old chat, it was
-> received as *an artifact submitted for review*, not *an instruction to execute* —
-> the extractor opened with "This is already very strong, but…" and sharpened the
-> shovel instead of digging. Nova's diagnosis: **a mode-control failure, not a
-> reasoning failure** — no execution lock, no immediate stage target, candidate
-> operator names inviting methodological reflection, and an extractor trained by
-> this very project to improve frameworks on sight.
+> **Self-contained dig workbook.** Work top to bottom: copy each stage prompt
+> into the old chat **as its own message**, wait for the reply, paste it under
+> the matching OUTPUT heading here, save the file, then move to the next stage.
+> Never paste the whole protocol (or this file) into the chat — the prompts are
+> self-contained by design. One workbook = one source conversation.
 >
-> v0.2 adopts her improvements. v0.1 is preserved as provenance in
-> [`CHAT_EXTRACTION_PROTOCOL_v0.1.md`](CHAT_EXTRACTION_PROTOCOL_v0.1.md).
+> **Fifth-artifact rule:** once pasted, stage outputs are IMMUTABLE — never edit,
+> correct, or summarize them in place. The synthesis packet is assembled from
+> this workbook at filing as a separate, derived artifact, so later audits can
+> distinguish source recovery from synthesis.
 
-**Output destination:** `evidence/chat_extractions/` (one packet per chat, all four stage outputs)
-**Promotion path:** packet → review → `SOURCE_INDEX.md` entries → labeled profile claims
-**Filing-side rules:** see **Archive Integration** section at the end (not part of any paste)
+**Status:** EMPTY
+<!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
----
+**Suggested target:** TARGET_PLACEHOLDER
 
-## The Mode-Control Rule
+## Packet Header (fill as you go)
 
-**Never paste the whole protocol and expect an extraction.** Run digs as staged
-execution commands, sent **one at a time**, each opening with the execution
-wrapper. Optionally paste the protocol first *for reference only* — but the work
-happens through the stage commands.
-
-**Execution wrapper — mandatory, verbatim, at the top of every stage command:**
-
-> This is an execution command, not a request for protocol review. Do not
-> critique, improve, summarize, or discuss the protocol. Execute the requested
-> stage now using the complete conversation above as the source corpus. Mark
-> missing evidence as UNKNOWN. Do not ask questions. Return only the requested
-> extraction output.
-
-Save each stage's output before sending the next stage.
-
-## What Changed From v0.1 (Nova's field-test improvements)
-
-1. Execution split into **four saved stages** (was: fourteen passes in one prompt).
-2. **Museum-blind extraction** (Stage 2) runs *before* candidate operator names
-   are shown (Stage 4) — the candidate list in v0.1's Pass E was a priming risk.
-3. **Tiered availability test** for claimed omissions (v0.2.1) — A3 Demonstrated /
-   A2 Explicit / A1 Contextual / A0 Unknown; only A3/A2 yields a CONFIRMED
-   informative omission, A1 yields POSSIBLE, A0 is non-informative. Sensitivity
-   without manufactured negative space.
-4. Explicit separation of **cognitive operators, epistemic brakes, rhetorical
-   tactics, role behavior, relationship dynamics, and protocol-induced behavior**.
-5. New per-move fields: **Functional Type** and **Voluntariness**.
-6. **Stronger promotion thresholds** for profile-ready claims (see Archive Integration).
-7. **Recoverable chronological source anchors** required (speaker + unique opening
-   phrase or recoverable wording + approximate location).
-8. Dispute records gain **Surface Question / Underlying Question / Jurisdiction
-   Conflict / Mutation Point** fields.
-9. **Extraction self-audit** (Stage 4) — the instrument reports its own likely errors.
-10. **Relationship-level operator ledger** — interaction loops owned by a pair,
-    not a person (files into `RELATIONSHIP_MAP.md`).
-
-v0.1's source-discipline labels (G-DIRECT / G-REPORTED / Z-DIRECT /
-NOVA-INTERPRETATION / CO-CONSTRUCTED / UNCLEAR) and final constraints carry
-forward unchanged.
+| Field | Value |
+| --- | --- |
+| Chat title | |
+| Source chat date (approx) | |
+| Participants | |
+| Extractor model | |
+| Protocol version | v0.2 |
+| Dig operator | Ziggy |
+| Extraction date | |
 
 ---
 
-## STAGE 1 — Source and Positions
-
-Copy everything inside the fence and send it as one message:
+## 🟦 STAGE 1 PROMPT — copy everything inside the fence, send as one message
 
 ````text
 # PANHANDLERS DIG EXECUTION — STAGE 1
@@ -129,11 +95,15 @@ Evidence balance:
 Begin the extraction now.
 ````
 
+> ⛔ **Wait for the reply. Paste it below. Only then send Stage 2.**
+
+### ⏬ STAGE 1 OUTPUT
+
+(paste Stage 1 output here — replace this line)
+
 ---
 
-## STAGE 2 — Blind Cognitive Architecture
-
-Copy everything inside the fence and send it as one message:
+## 🟦 STAGE 2 PROMPT — copy everything inside the fence, send as one message
 
 ````text
 # PANHANDLERS DIG EXECUTION — STAGE 2
@@ -200,11 +170,15 @@ PANHANDLERS_CHAT_EXTRACTION — STAGE 2
 Begin Stage 2 now.
 ````
 
+> ⛔ **Wait for the reply. Paste it below. Only then send Stage 3.**
+
+### ⏬ STAGE 2 OUTPUT
+
+(paste Stage 2 output here — replace this line)
+
 ---
 
-## STAGE 3 — Omissions, Counterevidence, Alternative Readings
-
-Copy everything inside the fence and send it as one message:
+## 🟦 STAGE 3 PROMPT — copy everything inside the fence, send as one message
 
 ````text
 # PANHANDLERS DIG EXECUTION — STAGE 3
@@ -255,11 +229,15 @@ PANHANDLERS_CHAT_EXTRACTION — STAGE 3
 Begin Stage 3 now.
 ````
 
+> ⛔ **Wait for the reply. Paste it below. Only then send Stage 4.**
+
+### ⏬ STAGE 3 OUTPUT
+
+(paste Stage 3 output here — replace this line)
+
 ---
 
-## STAGE 4 — Named Mapping and Verdicts
-
-Copy everything inside the fence and send it as one message:
+## 🟦 STAGE 4 PROMPT — copy everything inside the fence, send as one message
 
 ````text
 # PANHANDLERS DIG EXECUTION — STAGE 4
@@ -326,69 +304,19 @@ PANHANDLERS_CHAT_EXTRACTION — STAGE 4
 Begin Stage 4 now.
 ````
 
+### ⏬ STAGE 4 OUTPUT
+
+(paste Stage 4 output here — replace this line)
+
 ---
 
-## Archive Integration (filing-side rules — never pasted)
+## ✅ After Stage 4
 
-## Assembling the packet (fifth-artifact rule, v0.2.1)
-
-The dig workbook (`evidence/chat_extractions/DIG_NN.md`) holds the four stage
-outputs **immutably** — once pasted, a stage output is never edited, corrected,
-or summarized in place. At filing, a **fifth, derived artifact** is assembled:
-`<subject-or-topic>_<slug>_<YYYY-MM>.md` (dated by the source chat) — the
-synthesis packet carrying the header (chat title, date, participants, extractor
-model, protocol version, dig operator), the promoted claims, and
-cross-references back into the workbook. Excavation and synthesis stay separate
-so later audits can check whether the synthesis exaggerated, softened, or
-transformed the underlying recovery.
-
-## Label mapping at promotion time
-
-| Extraction label | Archive label (`PROFILE_SCHEMA.md` §1) | Notes |
-| --- | --- | --- |
-| G-DIRECT + DIRECT | `DIRECT` (about Grant) | the chat itself is the transcript |
-| G-REPORTED | at most `INFERRED` (about Grant) — but `DIRECT` about *Ziggy's report* | the double-bookkeeping that prevents retrospective legend |
-| Z-DIRECT + DIRECT | `DIRECT` (about Ziggy) | |
-| NOVA-INTERPRETATION | `INFERRED`, observer: Nova | Nova is an attributed observer like any other |
-| CO-CONSTRUCTED | `INFERRED`, observers: both | never attributable to either alone |
-| STRONG INFERENCE | `INFERRED` (candidate `REPEATED` once seen in ≥2 packets) | cross-chat recurrence earns promotion |
-| TENTATIVE INFERENCE | `INFERRED` — or stay QUARANTINED | when in doubt, quarantine |
-| CONTESTED / REVISED | `CONTESTED` / position state `REVISED` | |
-| UNCLEAR / UNKNOWN | `UNKNOWN` | |
-
-## Promotion thresholds (strengthened in v0.2)
-
-1. A packet is promotable only when **all four stages** are complete and saved.
-2. Only Stage-4 **PROFILE-READY CLAIMS** may enter profiles; Stage-1/2 material
-   alone is never profile-grade.
-3. Operator attributions enter a member's `OPERATOR_MAP.md` **with Functional
-   Type and Voluntariness recorded**. `PROTOCOL-INDUCED` or `PROMPT-INDUCED`
-   evidence cannot support attributing an operator to the *person* — it
-   describes the situation, not the architecture.
-4. `RHETORICAL` moves and role-induced behavior file under Debate Behavior
-   (schema §H), not as cognitive operators.
-5. Relationship-level loops file into `RELATIONSHIP_MAP.md`'s ledger, owned by
-   the pair, not either member.
-6. Cross-chat recurrence still governs the ladder: one packet → candidate;
-   ≥2 independent packets → `REPEATED` / lexicon 🟡 PROPOSED; counterexample
-   search performed across packets → 🟢 GREEN eligibility.
-7. A **blind rediscovery** (Stage 2 finds a move that Stage 4 maps onto an
-   existing CO/OP name) is stronger evidence than any primed match — flag these
-   explicitly when filing; they also feed the Nyquist Museum's promotion paths.
-8. **Omission claims:** only CONFIRMED INFORMATIVE OMISSIONS (A3/A2) can support
-   profile-ready claims. POSSIBLE (A1) omissions are quarantine-grade until they
-   recur across independent packets. A0 is never interpreted.
-9. **Situation vs architecture:** a behavior observed once under a specific role
-   or prompt condition files to the situation ledger (Debate Behavior /
-   relationship dynamics), not to the person's operator map — the v0.1 field
-   test itself validated ROLE-INDUCED and PROTOCOL-INDUCED as categories, not
-   any stable operator of the extractor who exhibited them. Stability requires
-   recurrence outside the originating situation.
-
-## Version history
-
-| Version | Date | Change | By |
-| --- | --- | --- | --- |
-| 0.1 | 2026-07-16 | Initial protocol; superseded same day (see `CHAT_EXTRACTION_PROTOCOL_v0.1.md`) | Nova / P.H. Claude |
-| 0.2 | 2026-07-16 | Field-test rebuild: execution wrapper, four saved stages, Museum-blind Stage 2, availability test, Functional Type + Voluntariness, dispute-mutation fields, self-audit, relationship ledger, strengthened promotion thresholds | Nova (design) / P.H. Claude (filing) |
-| 0.2.1 | 2026-07-16 | Tiered availability (A0–A3) replacing binary test — Nova: binary risked false negatives, tiers preserve PASS-F sensitivity without manufactured negative space; fifth-artifact rule (immutable stage outputs, derived synthesis packet); situation-vs-architecture threshold added. Approved for Dig 0 (CFA zero). | Nova (amendments) / P.H. Claude (filing) |
+1. Set **Status** at the top to `COMPLETE` and fill any empty Packet Header fields.
+   **Do not touch the four pasted outputs — they are now immutable.**
+2. Hand the workbook to P.H. Claude for the filing pass: a separate derived
+   synthesis packet is assembled (fifth-artifact rule), source anchors become
+   `SOURCE_INDEX.md` entries, Stage-4 PROFILE-READY CLAIMS promote into profiles
+   per the protocol's Archive Integration rules. Quarantined claims stay in the
+   workbook; only CONFIRMED (A3/A2) omissions can support profile-ready claims.
+3. Status becomes `FILED` once promotion is done and logged in `INDEX.md`.
