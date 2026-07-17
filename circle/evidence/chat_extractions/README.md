@@ -95,7 +95,8 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_COMPOUND_SWEEP_03_foundations_justification_and_jurisdiction.md` | ⚡ Compound sweep: Münchhausen trilemma → framework-relative justification → single-value underdetermination → **jurisdiction of justification** (checklist theme #4 — Z-06's home trench) | ✅ **COMPLETE — candidate harvest, ZERO promotions (plow-through held again)**; 2 retain-RED candidates queued (Framework Transplant, Constraint-Exhaustion Stress Test); Jurisdiction Challenge = CO-002's corrective test; seeds IT-019 |
 | `DIG_03.md` | | EMPTY |
 | `DIG_04.md` | | EMPTY |
-| `DIG_05.md` | | EMPTY |
+| `DIG_05.md` | *(template consumed into DIG_AUX_07)* | — |
+| `DIG_AUX_07_axioms_prediction_logic_and_epistemic_bedrock.md` | Auxiliary/idea-trail dig: can faith function axiomatically, and does predictive power disqualify it? Grant's reported claim + Ziggy's bedrock counter + the logic-vs-prediction dependency dispute; ⭐ **the pilot's "prediction as ultimate standard" theme in its most direct form yet** (still reported-only) | 🟡 IN PROGRESS — Stage 1 ⚠️ conditional (five-axiom-senses overlay); Stage 2 ✅ reviewed; **Stage 3 authorized**; forecast scored 5/5; 14 moves → 5 families; ⚠️ **Absent-Opponent Reconstruction = highest source-contamination risk on record**; 4 trails at close (IT-039…042); Grant promotion PROHIBITED |
 | `DIG_06.md` | *(template consumed into COMPOUND_SWEEP_07)* | — |
 | `DIG_COMPOUND_SWEEP_07_entropy_semantic_compression_materialism_and_narrative_transmission.md` | ⚡ Compound sweep: Shannon entropy vs semantic value; myth-as-compression (encoding/decoding); story vs cookbook; materialism / explanatory levels; religion as experiential-pattern transmission; prediction as mechanism not sovereign — sequel to AUX_06 + SW05 masters branch | ✅ **COMPLETE — candidate harvest, ZERO promotions (plow-through held, 6th consecutive)**; 4 durable families (Monopoly-Promotion/Telos ×2; Shannon–Semantic Layer; Substrate–Explanatory-Level; Narrative-Transmission Fit) + 2 quarantined research frameworks; **first A2 against a favored theory** (decoder-ring validation); formal-authority residue → IT-038; transmission ≠ content quality; seeds IT-032…038 (7 trails — largest single-dig trail harvest); Grant: G-REPORTED/G-ANTICIPATED NON-SITE |
 | `DIG_07.md` | *(template consumed into COMPOUND_SWEEP_06)* | — |
@@ -151,10 +152,15 @@ likely the checklist's Offense-vs-Defense thread; SW05 Stage 4 repeats the
 topic under the title **"Methodological naturalism and framework
 asymmetry"**). **"Trust vs Prediction"** (~06-30, whether trust precedes or
 overrides prediction — SW05 Stage 4; same date and topic as "delete_6":
-likely the same thread under its real title — IT-023's target dig; **3rd
-pointer at SW07 Stage 1 — the most-signaled unopened lead on the
-board**). **From SWEEP_07's X-CONTEXT:** topic-lead *mythology,
-Christianity, and Castaneda* (no title/date recovered).
+likely the same thread under its real title — IT-023's target dig; **4th
+pointer at AUX_07 — unambiguously the priority target**). **From
+SWEEP_07's X-CONTEXT:** topic-lead *mythology, Christianity, and
+Castaneda* (no title/date recovered). **From AUX_07's X-CONTEXT (new
+titles):** **"delete_14"** (~06-08, logic foundational / prediction
+emergent — AUX_07's own question in an earlier thread; natural companion
+dig); **"MASTER BRANCH"** (~07-15, information theory / prediction /
+axiomatic foundations — ⚠️ recent thread, possible ambient-memory
+contamination risk, preflight carefully).
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**
