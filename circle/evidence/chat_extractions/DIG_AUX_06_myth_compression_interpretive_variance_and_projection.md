@@ -25,7 +25,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ PASSED field-desk review (MICRO-AUXILIARY); Stage 4 authorized; ⚠️ no Ziggy/Grant promotion — Nova thread-level claims only; trail IT-026 ordered at close
+**Status:** ✅ COMPLETE — all 4 stages passed field-desk review (MICRO-AUXILIARY). **Zero promotions: Ziggy NONE, Grant NONE, Nova thread-level only.** Deepest finding: the claim-strength ladder (possible ≠ reliable ≠ important ≠ principal); trail IT-026 opened; Falsifiability Debt filed theory-level; ⚠️ Stage-2 review tail still pending re-relay
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** Whether interpretive disagreement undermines the hypothesis that myths culturally compress values/meaning — one Ziggy report of Grant's objection + one brief Z-DIRECT reaction ("I don't get it") + one substantial Nova reconstruction; likely the **Myth-as-Compression checklist theme's** first bounded site (micro-scale; no G-DIRECT)
@@ -3712,6 +3712,128 @@ The claims about recurring motifs, Jung, Campbell, intentionally multilayered tr
 
 None used as evidence. No additional cross-chat notice is necessary for this packet.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 + FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: SUCCESSFUL COMPLETED MICRO-DIG — but Stage 4 still overpromotes
+ordinary scientific reasoning and individual steps within Nova's single
+response into separate operator candidates. The strongest product is not a
+new actor profile — it is a precise diagnosis of how a theory can be
+rescued from one objection while remaining deeply underdetermined.**
+
+```text
+Status: COMPLETE
+Site type: MICRO-AUXILIARY / IDEA-TRAIL
+Primary value: Nova reasoning-sequence analysis
+Ziggy profile value: NONE
+Grant profile value: NONE
+Museum promotion: VERY LIMITED
+```
+
+**The actual architecture (replaces most of the twelve move labels):**
+principal-explanation claim → reported convergence test →
+compression/recovery distinction → variance relocated to interpretation →
+mythic function reconstructed → replacement prediction proposed →
+projection problem exposed → explanatory primacy remains unresolved.
+
+**⚠️ MAJOR MAPPING CORRECTIONS:**
+
+- **Consequence Testing** → REPORTED ARGUMENT FORM, NOT PERSONAL OPERATOR
+  (ordinary hypothesis evaluation; one reported instance insufficient;
+  provides no evidence of Prediction Sovereignty).
+- **Rival-Explanation Pressure** → REPORTED METHODOLOGICAL DEMAND, no
+  Grant promotion (given "principally," may be standard
+  inference-to-best-explanation discipline; whether Grant demanded
+  comparative superiority, elimination, or mere discrimination is
+  undeterminable).
+- **Entailment Separation** → Contested ≠ Defeated mapping REJECTED as
+  primary relation; the operation is **Compression–Convergence
+  Separation** — preserving dispute status is an *outcome*, not the main
+  cognitive operation.
+- **Mechanism Relocation / Decoder-Variance Expansion / Evidence
+  Revaluation** → substeps of Encoding–Recovery Reframing, not
+  independent operators; causal adequacy unknown (source ambiguity and
+  transmission drift never comparatively tested); mature conclusion:
+  *disagreement is not automatically decisive* — NOT *disagreement
+  provides no evidence against compression*.
+- **Controlled Analogy** ("power corrupts") → PEDAGOGICAL/TOOLKIT DEVICE;
+  may demonstrate polysemy rather than the intended compression mechanism.
+- **Prediction Re-specification** → **Alternative Prediction
+  Construction**; central risk = post-hoc accommodation (the replacement
+  prediction may have been chosen because the observation was already
+  familiar).
+- **Function Reclassification** → does NOT extend Reconstruction Bypass;
+  it's a proposed corrective reconstruction — **Symbolic-Function
+  Reconstruction**; reconstruction-before-scoring applies only after the
+  proposed function is independently grounded, not merely supplied by the
+  defender.
+- **Domain-Model Diagnosis** → even "matches Universalized Evaluative
+  Jurisdiction" too strong; label: **SPECULATIVE OPPONENT-FRAME
+  ATTRIBUTION** — a source-quality warning, not an operator mapping.
+- **Cross-Case Consistency Challenge** → EXCLUDED (key premise lies
+  outside the bounded corpus): UNSUPPORTED CROSS-CASE SYMMETRY ATTEMPT.
+- **Adversarial Strengthening** → strongest standalone Nova move (reject
+  weak objection → preserve critical pressure → formulate stronger
+  objection); thread-level only.
+
+**Consolidation: twelve blind moves → three Nova sequences:**
+
+1. **Encoding–Recovery Reframing** (strong thread-level method;
+   restriction: nothing establishes variance primarily originates in the
+   decoder);
+2. **Symbolic-Function Reconstruction** (genuine theory construction;
+   proposed, not demonstrated; vulnerable to post-hoc function
+   switching);
+3. **Projection-Constraint Escalation** (strongest conceptual advance:
+   permit plurality → recognize projection risk → demand constraints →
+   leave the hypothesis methodologically indebted).
+
+**The packet's deepest and most durable finding — the claim-strength
+ladder:** Nova's response preserves the logical possibility of ~C1–C2 (a
+story *can* be read as containing cultural information; some *was*
+historically encoded) and establishes none of C3 (constrained-reliability
+transmission), C4 (important function), or C5 (principal explanation) —
+Grant's reported pressure targets C5. *Possible compression ≠ reliable
+transmission ≠ important function ≠ principal explanation.*
+
+**Grant's strongest charitable reconstruction survives Nova's rebuttal**
+(above-baseline constraint version), and Nova now owes: degree of
+convergence, comparison baseline, central-vs-peripheral meaning
+stability, source-side constraints, historical continuity, rival
+analysis. **Falsifiability Debt of the Compression Model** archived as a
+theory-level finding (not an actor operator).
+
+**Profile disposition — "profile-ready" renamed *exchange-level*:**
+GRANT none (two exchange-level statements: reported predicted-convergence
+test; reported rival-comparison demand — one relayed argument, not stable
+cognition) · ZIGGY none (reports objection → expresses confusion →
+requests adjudication; no adoption evidenced) · NOVA thread-level only
+(eight safe findings, incl. #7 *initially fails to distinguish
+possibility from explanatory primacy* and #8 *does not apply
+comparative-rival pressure to the replacement model*).
+
+**Trail retained at close:** field desk's "IT-027" files as **IT-026 —
+Mythic Compression, Interpretive Constraint, and Projection** (registry
+next-available; off-by-one noted).
+
+**Deepest yield of the micro-dig:**
+
+> *Interpretive plurality can save cultural compression from a demand for
+> perfect sameness, but every freedom granted to the decoder increases
+> the burden of proving that anything determinate was encoded. **A theory
+> that explains every reading as decompression risks explaining no
+> reading at all.***
+
+**Close-out orders (filing clerk):** trail IT-026 opened; lexicon
+paragraph + promotion-log row (zero promotions — micro-dig ceiling);
+Grant exchange-level notes to OPEN_QUESTIONS evidence ledger; Myth-as-
+Compression checklist theme gets its first bounded site (reported-only;
+"digg_03" remains the promotion-path lead); board, INDEX, timeline
+entries; memory updated.
 
 ---
 

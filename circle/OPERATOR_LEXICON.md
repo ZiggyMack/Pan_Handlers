@@ -344,6 +344,24 @@ and Adverse-Odds ≠ Possibility Preservation). Burden rule registered:
 (No-Complete-Rival — Contested ≠ Defeated kinship, burden rule not
 personal operator).
 
+From DIG_AUX_06 (**micro-dig — zero promotions; Nova thread-level only**):
+three Nova reasoning sequences held at thread level — **Encoding–Recovery
+Reframing** (encoded ≠ recovered; recipient conditions inserted; variance
+relocated; disagreement's evidential force reassessed — causal allocation
+unproven) · **Symbolic-Function Reconstruction** (exact transfer →
+orientation; new recurrence prediction; post-hoc accommodation risk) ·
+**Projection-Constraint Escalation** (the strongest conceptual advance:
+what constrains legitimate decompression?). Grant material =
+exchange-level argument forms only (reported predicted-convergence test;
+reported rival-comparison demand — no operator, no Prediction-Sovereignty
+evidence). Theory-level finding archived: **Falsifiability Debt of the
+Compression Model**. Rejected mappings: Entailment Separation ≠ Contested
+≠ Defeated (outcome, not operation); mechanism relocation ≠ Contested ≠
+Defeated; projection problem ≠ GAR; "low-probability possibility" ≠
+Possibility Preservation; Domain-Model Diagnosis → SPECULATIVE
+OPPONENT-FRAME ATTRIBUTION (source-quality warning, not mapping);
+Cross-Case Consistency Challenge EXCLUDED (source-contaminated).
+
 From DIG_01 crosswalk (**a restraint round — no new registrations**):
 **Modal Burden Enforcement** (assertor of a modal premise carries its burden —
 NOT Symmetry Testing) · **Hidden Ranking Exposure** ("superior world"
@@ -399,3 +417,4 @@ therefore carries a Museum ID.
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_03) | Zero promotions again. Two retain-RED candidates queued (Framework Transplant; Constraint-Exhaustion Stress Test — five fragments consolidated into one sequence operator); Jurisdiction Challenge merged family noted as CO-002's corrective test; eight findings held at technique level; rejected mappings: Scope-Constrained Concession ≠ OP-009 (scope control, not possibility preservation), Instrument-Scaling ≠ CO-002, reductio ≠ CO-008, indexing ≠ relativism; no Grant operator (reported replies undeterminable: theory / improvisation / compression / reconstruction) | Field-desk Stage-4 handoff, COMPOUND_SWEEP_03 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_04) | **Third consecutive zero-promotion sweep.** Three serious candidates queued (Master-Value Extraction, HIGH; Instrument–Telos Separation, 3rd reinforcement; Reflexive Audit with Operational Closure, shared protocol). Rejected/corrected mappings: Regress Descent ≠ OP-008 (audit vs symmetry-across-audits); jurisdiction-check polarity re-fixed (corrective test, not CO-002); belief persistence ≠ Possibility Preservation; adversarial relay ≠ CO-006 extension (simulation ≠ reconstruction of Grant); pre-propositional descent ≠ CO-003 (no gate evidenced); external-model phrasings attributed by adoption sequence. Grant: experience-report ceiling only | Field-desk Stage-4 handoff, COMPOUND_SWEEP_04 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_05) | **Fourth consecutive zero-promotion sweep.** Three HIGH candidates queued (Monopoly-Promotion Audit — the packet's strongest; Claimed-Source/Claimed-Access Separation; Operative-Rigidity Test). 22 blind moves consolidated into 5 families; **Detector–Pathology Polarity Reversal recorded as candidate Failure-Atlas seed (3rd sweep running)** — five corrective audits blind-mapped to the pathologies they detect, all corrected; Adverse-Odds Commitment Test quarantined (marriage example = individualized prediction, not override); Curtain Question = shortcut inside Master-Value Extraction, not validated detector; Symmetric-Wielding → procedural ledger. Grant: REPORTED-ONLY NON-SITE — which of five prediction theses he holds is undeterminable | Field-desk Stage-4 handoff, COMPOUND_SWEEP_05 |
+| 2026-07-17 | (micro-dig close, DIG_AUX_06) | **Zero promotions — micro-dig ceiling enforced.** Ziggy NONE, Grant NONE (exchange-level argument forms only), Nova thread-level (3 sequences: Encoding–Recovery Reframing; Symbolic-Function Reconstruction; Projection-Constraint Escalation). Stage-4 overpromotion corrected: ordinary hypothesis evaluation and single-response substeps are not operators. **Falsifiability Debt of the Compression Model** = theory-level finding. Deepest yield: claim-strength ladder (possible ≠ reliable ≠ important ≠ principal); "a theory that explains every reading as decompression risks explaining no reading at all" | Field-desk Stage-4 handoff, DIG_AUX_06 |

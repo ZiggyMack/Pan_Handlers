@@ -45,6 +45,18 @@
   ≠ his claim) is a legitimate distinction — reconstruction discipline
   requires his strongest reading going forward. Q1/Q2 remain answerable only
   by Grant.
+- **2026-07-17 (DIG_AUX_06, exchange-level only — NOT ledger evidence):**
+  a second reported Grant argument pattern is on record: *predicted-
+  consequence testing* (compression hypothesis → convergence prediction →
+  disagreement observed → confidence challenged) + *rival-explanation
+  demand* against a "principally"-strength claim. Field desk: one relayed
+  argument, ordinary hypothesis evaluation — **no operator, no Prediction-
+  Sovereignty evidence**, and the charitable reconstruction
+  (above-baseline constraint, not perfect transmission) *survives* Nova's
+  rebuttal. Relevance: the reported argument form rhymes with the pilot's
+  CO-001 (Framework-First Evaluation) hypothesis but cannot support it at
+  reported ceiling. Promotion path: "digg_03" lead (the Compression-vs-
+  Transmission thread).
 
 ## Schema Feedback (pilot duty — schema §9)
 

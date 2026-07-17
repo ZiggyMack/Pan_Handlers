@@ -2520,7 +2520,854 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+## 1. Blind-to-Named Mapping
+
+### Move 1 — Predictive-performance prioritization
+
+**Blind finding:** Grant reportedly treats predictive success as a leading criterion for comparing frameworks.
+
+**Mapping verdict:** **MATCHES Prediction Sovereignty — locally and incompletely**
+
+**What matches:**
+The recovered move explicitly elevates prediction and uses predictive performance to rank explanations.
+
+**What does not match:**
+The candidate definition requires predictive success to function as the highest or final authority through which all other epistemic virtues must justify themselves. The corpus contains Ziggy’s report that Grant calls prediction “ultimate,” but it does not establish how Grant treats explanation, coherence, experience, or other forms of success when they conflict with prediction.
+
+**Stage-3 survival:**
+**Partial.** The reported prioritization survived, but the “sovereignty” interpretation weakened because it may be a substantive belief, local methodological emphasis, or debate-role behavior.
+
+**Source Anchor:**
+Ziggy, “Grant keeps saying how prediction is ultimate...” — approximately 2026-06-30, “Trust vs Prediction,” opening.
+
+**Confidence:** Moderate.
+
+---
+
+### Move 2 — Rival-account comparison
+
+**Blind finding:** Grant reportedly introduces alternative explanations and asks what discriminates the favored account from them.
+
+**Mapping verdict:** **NEW — Rival-account comparison**
+
+**Why no adequate named match:**
+This move does not necessarily elevate prediction as sovereign, compress possibility, bypass reconstruction, or treat a contested claim as defeated. It is a general comparative-evaluation operation.
+
+**Stage-3 survival:**
+**Limited.** It survived as a consequential move in the cultural-compression dispute but weakened as a stable Grant profile because only one clear case is recoverable.
+
+**Source Anchor:**
+Ziggy, “He thinks there are other explanations that we need to be shown are not good explanations...” — approximately 2026-06-15, “Compression vs Transmission in Myths.”
+
+**Confidence:** Moderate as an instance; low as a stable trait.
+
+---
+
+### Move 3 — Likelihood-centered narrowing
+
+**Blind finding:** Grant reportedly redirects attention from bare possibility toward what is likely or plausible given the evidence.
+
+**Mapping verdict:** **EXTENDS Possibility Compression**
+
+**Delta:**
+This is an attenuated or precursor form. It prioritizes plausibility and restricts conversational attention, but the corpus does not establish that low-plausibility possibilities are treated as nonexistent, illegitimate, or completely irrelevant.
+
+**What matches:**
+Candidate-space contraction based on an evidential threshold.
+
+**What does not match:**
+No demonstrated conversion from “unlikely” to “off the map.”
+
+**Stage-3 survival:**
+**Partial.** The local narrowing behavior survived. The stronger interpretation that Grant rejects possibility did not.
+
+**Source Anchor:**
+Ziggy quoting Grant, “I noticed you keep inserting what’s possible... when I am trying to get to the bottom of what’s likely... what’s plausible—given the evidence.” — approximately 2026-06-20.
+
+**Confidence:** Moderate to high for the local move; low for full Possibility Compression.
+
+---
+
+### Move 4 — Function-to-consequence derivation
+
+**Blind finding:** Grant reportedly derives an expected observable consequence from Ziggy’s claim that myths principally function as cultural compression.
+
+**Mapping verdict:** **NEW — Function-to-consequence derivation**
+
+**Why no adequate named match:**
+The move creates a testable consequence from a functional hypothesis. It does not by itself establish Prediction Sovereignty, because prediction need not be treated as the final authority.
+
+**Stage-3 survival:**
+**Uncertain.** The move occurred, but it may have tested an overly lossless reconstruction of Ziggy’s claim.
+
+**Source Anchor:**
+Ziggy reporting Grant’s challenge, “We would all reliably get the same message and concept when we communicate—and we don’t...” — approximately 2026-06-15.
+
+**Confidence:** Moderate as an instance; interpretation uncertain.
+
+---
+
+### Move 5 — Non-exclusion under uncertainty
+
+**Blind finding:** Ziggy separates “not established,” “unlikely,” and “ruled out,” preserving a proposition without claiming proof.
+
+**Mapping verdict:** **MATCHES Possibility Preservation**
+
+**What matches:**
+The move deliberately keeps a low-plausibility possibility available during inquiry and resists its removal merely because it lacks current evidential dominance.
+
+**What does not match:**
+The corpus does not provide a stopping rule or show whether Ziggy preserves equally unattractive possibilities.
+
+**Secondary overlap:**
+It also supports **Contested ≠ Defeated**, because unresolved evidential weakness is not treated as decisive defeat. The primary operation, however, is preservation of possibility rather than management of a specific objection.
+
+**Stage-3 survival:**
+**Yes, locally.** The move survived strongly, although its domain-generality remains unknown.
+
+**Source Anchor:**
+Ziggy’s response to Grant’s reported complaint about repeatedly introducing possibility — approximately 2026-06-20, “Pivot point distinction.”
+
+**Confidence:** High for this corpus.
+
+---
+
+### Move 6 — First-person evidence localization
+
+**Blind finding:** Ziggy limits the force of personal experience to what the experiencer may responsibly dismiss, without presenting it as public proof.
+
+**Mapping verdict:** **NEW — First-person evidence localization**
+
+**Why no adequate named match:**
+Possibility Preservation describes the result, but not the distinctive operation: relocating evidential force from universal demonstration to first-person rational permission.
+
+**Stage-3 survival:**
+**Yes.** The distinction survived the counterevidence search and was explicitly adopted by Ziggy. Its initial wording was co-constructed with Nova.
+
+**Source Anchor:**
+Ziggy, “My experience prevents me from confidently ruling certain things out... I’m using this forever now...” — approximately 2026-06-20.
+
+**Confidence:** High as an adopted distinction.
+
+---
+
+### Move 7 — Positive-negative experiential asymmetry
+
+**Blind finding:** Ziggy argues that having an experience and merely lacking that experience are not evidentially equal and opposite states.
+
+**Mapping verdict:** **NEW — Positive-negative experiential asymmetry**
+
+**Why no adequate named match:**
+The move is not merely Possibility Preservation. It compares the epistemic structure of positive experience with nonexperience and rejects automatic symmetry between them.
+
+**Stage-3 survival:**
+**Yes, with limits.** The basic distinction survived. The corpus does not show how Ziggy treats repeated non-observation under conditions where an event should be expected.
+
+**Source Anchor:**
+Ziggy, “There’s not really a counter reverse experience that instantiates negative territories?” — approximately 2026-06-20.
+
+**Confidence:** High locally; broader scope unknown.
+
+---
+
+### Move 8 — Criterion-precondition exposure
+
+**Blind finding:** Ziggy responds to prediction’s alleged ultimacy by asking what prior trust, standards, or procedures make predictive success recognizable.
+
+**Mapping verdict:** **EXTENDS Symmetry Testing of Standards**
+
+**Delta:**
+Rather than directly applying the identical burden to two competing frameworks, this variant turns the evaluative instrument back upon itself and asks it to disclose its own conditions of operation.
+
+**What matches:**
+The standard must justify the assumptions and procedures it demands that other frameworks justify.
+
+**What does not match:**
+The meaning of “trust” remains ambiguous, and no full symmetrical comparison was completed.
+
+**Stage-3 survival:**
+**Partial.** The meta-level challenge survived, but the stronger conclusion that trust is prior to prediction weakened.
+
+**Source Anchor:**
+Ziggy, “Doesn’t trust technically come first? Trusting a particular set of guidelines that leads and/or provides predictions?” — approximately 2026-06-30.
+
+**Confidence:** Moderate.
+
+---
+
+### Move 9 — Evaluative-jurisdiction relocation
+
+**Blind finding:** Ziggy imports the structure of legal jurisdiction to reframe a dispute over justification as a dispute over evaluative authority.
+
+**Mapping verdict:** **MATCHES Cross-Disciplinary Swooping**
+
+**What matches:**
+A structure from law—jurisdiction—is imported into epistemology to reorganize the live disagreement.
+
+**What does not match:**
+The corpus does not show that this is a stable or repeated cross-disciplinary practice independent of Nova’s scaffolding.
+
+**Secondary relation:**
+The move diagnoses a possible **Universalized Evaluative Jurisdiction**, but it is not itself that failure mode. It is a proposed corrective or detector.
+
+**Stage-3 survival:**
+**Yes as a diagnostic reframing.** It did not survive as a complete solution because no procedure for adjudicating between jurisdictions was supplied.
+
+**Source Anchor:**
+Ziggy, “Where—what’s the jurisdiction of justification?” and “If I’m coming from the Christian county, he’s rejecting my jurisdiction.” — approximately 2026-06-20.
+
+**Confidence:** High as a move in this discussion; moderate as a stable operator.
+
+---
+
+### Move 10 — Reciprocal burden reversal
+
+**Blind finding:** Ziggy reverses offense and defense so that the evaluating framework must also provide positive evidence and submit to comparable scoring.
+
+**Mapping verdict:** **MATCHES Symmetry Testing of Standards**
+
+**What matches:**
+The evaluating standard is required to “file the same paperwork” as the framework it evaluates.
+
+**What does not match:**
+The corpus does not show consistent application of this method against Ziggy’s own favored claims.
+
+**Stage-3 survival:**
+**Yes as a demonstrated method; no as a consistently self-applied norm.** Protocol induction also contributes because the CFA structure makes role reversal salient.
+
+**Source Anchor:**
+Ziggy, “They’re never having a chance to be pro-methodological naturalism...” — approximately 2026-06-30.
+
+**Confidence:** High for the specific method; moderate for profile generalization.
+
+---
+
+### Move 11 — Performance-over-provenance assessment
+
+**Blind finding:** Ziggy prefers testing whether a claim is accurately represented and works under examination rather than focusing first on where the speaker learned it.
+
+**Mapping verdict:** **NEW — Performance-over-provenance assessment**
+
+**Why no adequate named match:**
+The move opposes a possible form of Generative Admission Restriction, but it is not identical to that candidate. It changes the order and target of evaluation rather than simply admitting all sources.
+
+**Stage-3 survival:**
+**Yes as a stated debate norm.** Its broader epistemic scope weakened because legitimate source-reliability questions were not addressed.
+
+**Source Anchor:**
+Ziggy, “‘How do you know that’ is an annoying question to me... I personally don’t care where it came from...” — approximately 2026-06-28.
+
+**Confidence:** High as a self-reported conversational preference.
+
+---
+
+### Move 12 — Cross-framework functional comparison
+
+**Blind finding:** Ziggy compares religious and secular systems by the functions they perform despite their different vocabularies and metaphysical commitments.
+
+**Mapping verdict:** **EXTENDS Cross-Disciplinary Swooping**
+
+**Delta:**
+The move does not merely import one concept from a distant discipline. It abstracts two ideological systems to a shared functional level and compares them through a technological or systems-oriented lens.
+
+**What matches:**
+The “religion as technology” framing imports a functional-engineering perspective to reframe a religious–secular dispute.
+
+**What does not match:**
+Functional overlap does not establish equivalence, and the move may be a local apologetic analogy rather than a general cross-disciplinary method.
+
+**Stage-3 survival:**
+**Yes as a consequential comparison; uncertain as a stable operator.**
+
+**Source Anchor:**
+Ziggy, “I wanna call religion like a type of technology...” and “that’s what the framework of religion was always there to do.” — approximately 2026-06-20.
+
+**Confidence:** High for the instance; moderate for generalization.
+
+---
+
+### Move 13 — Domain-sensitive standard selection
+
+**Blind finding:** Ziggy argues that standards designed for physical description may not automatically govern systems primarily concerned with meaning, value, or orientation.
+
+**Mapping verdict:** **NEW — Domain-sensitive standard selection**
+
+**Why no adequate named match:**
+This move is the corrective inverse of **Universalized Evaluative Jurisdiction**, not the jurisdictional overextension itself.
+
+**Relation to named candidate:**
+It attempts to prevent Universalized Evaluative Jurisdiction by requiring a standard to establish authority over the domain it evaluates.
+
+**Stage-3 survival:**
+**Yes as a warning against mismatched evaluation.** A stronger thesis that meaning systems are insulated from empirical assessment did not survive.
+
+**Source Anchor:**
+Ziggy, “It’s a category error to judge the systems that describe meaning with our systems that describe physical matter.” — approximately 2026-06-15.
+
+**Confidence:** High for the methodological warning; low for strict domain separation.
+
+---
+
+### Named candidates not adequately recovered from the blind extraction
+
+#### Universalized Evaluative Jurisdiction
+
+A possible target of Ziggy’s criticism, but no direct Grant evidence establishes that he actually extends one standard into every domain without qualification.
+
+**Verdict:** Not recovered as a confirmed performed move.
+
+#### Generative Admission Restriction
+
+No adequate evidence shows Grant or another participant refusing to admit revelation, tradition, first-person experience, or symbolic interpretation as candidate-generating sources before evaluation begins.
+
+**Verdict:** Not recovered.
+
+#### Unmeasured-to-Zero Conversion
+
+No recoverable case shows an unmeasured or jurisdictionally inappropriate result being explicitly scored as zero rather than unknown.
+
+**Verdict:** Not recovered.
+
+#### Baseline Exemption
+
+Ziggy suspects that prediction or methodological naturalism may be treated as neutral baselines, but direct evidence that Grant exempts them from scrutiny is insufficient.
+
+**Verdict:** Below mapping threshold.
+
+#### Reconstruction Bypass
+
+The myth-compression dispute raises a possible case, but Grant’s exact reconstruction and reply to the lossy-transmission clarification are absent.
+
+**Verdict:** Possible omission, not recovered performed operator.
+
+#### Contest-to-Defeat Compression
+
+No clear source shows either participant treating the existence of an objection as decisive defeat.
+
+**Verdict:** Not recovered.
+
+#### Contested ≠ Defeated
+
+Strong conceptual overlap exists with Ziggy’s non-exclusion under uncertainty, but the recovered move concerns possibility and evidential status more generally rather than the precise handling of an unresolved objection.
+
+**Verdict:** Secondary overlap, not the primary mapping.
+
+## 2. New Operator Candidates
+
+### Candidate N-01 — Rival-account comparison
+
+**Definition:**
+Introduce competing explanations and require the favored account to identify evidence that discriminates among them.
+
+**Recovered actor:** Grant — G-REPORTED.
+
+**Status:** Consequential one-time candidate.
+
+**Promotion requirement:**
+A second independent Grant-authored example or direct confirmation that comparative discrimination is a recurring method.
+
+---
+
+### Candidate N-02 — Function-to-consequence derivation
+
+**Definition:**
+Translate a proposed function into expected observable consequences against which the claim can be tested.
+
+**Recovered actor:** Grant — G-REPORTED.
+
+**Status:** Consequential one-time candidate.
+
+**Promotion requirement:**
+Direct evidence clarifying whether Grant tested Ziggy’s actual lossy-compression thesis or a stronger substitute.
+
+---
+
+### Candidate N-03 — First-person evidence localization
+
+**Definition:**
+Restrict the epistemic consequence of private experience to the experiencer’s own rational permissions rather than treating it as universally compelling proof.
+
+**Recovered actor:** Ziggy, with Nova-assisted formulation.
+
+**Status:** Strong new candidate.
+
+**Failure mode:**
+Can protect private claims from public criticism if no internal revision conditions are specified.
+
+**Promotion requirement:**
+Independent reuse in another domain and explicit criteria for when private evidence should lose force.
+
+---
+
+### Candidate N-04 — Positive-negative experiential asymmetry
+
+**Definition:**
+Distinguish positive experiential content from mere absence of that experience, preventing nonexperience from automatically functioning as equal-and-opposite evidence.
+
+**Recovered actor:** Ziggy.
+
+**Status:** Strong local candidate.
+
+**Failure mode:**
+Can ignore evidentially meaningful non-observation when the experience should have occurred under specified conditions.
+
+**Promotion requirement:**
+Application beyond spiritual experience and explicit treatment of expected non-observation.
+
+---
+
+### Candidate N-05 — Performance-over-provenance assessment
+
+**Definition:**
+Evaluate a claim first through accurate representation, coherence, and behavior under application rather than through the speaker’s acquisition history or credentials.
+
+**Recovered actor:** Ziggy.
+
+**Status:** Debate-norm candidate.
+
+**Failure mode:**
+Can neglect source reliability where the claim depends on testimony, empirical reporting, or inaccessible evidence.
+
+**Promotion requirement:**
+A principled account distinguishing pedigree gatekeeping from legitimate provenance checks.
+
+---
+
+### Candidate N-06 — Domain-sensitive standard selection
+
+**Definition:**
+Require an evaluative standard to establish fitness and authority for the type of object or domain it is being used to judge.
+
+**Recovered actor:** Ziggy.
+
+**Status:** Strong methodological candidate.
+
+**Failure mode:**
+Can be used to isolate a domain from relevant external criticism.
+
+**Promotion requirement:**
+A test for mixed claims that simultaneously concern meaning, history, causation, and physical reality.
+
+## 3. Profile-Ready Claims
+
+### Profile Claim 1
+
+**Claim:**
+Ziggy repeatedly distinguishes among possibility, probability, proof, and exclusion rather than treating them as interchangeable epistemic statuses.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT across repeated exchanges.
+
+**Confidence:** High.
+
+**Source Anchor:**
+Ziggy’s response to Grant’s reported statement, “I noticed you keep inserting what’s possible...” — approximately 2026-06-20, followed by Ziggy’s sustained defense of keeping possibilities open without claiming proof.
+
+**Why profile-ready:**
+The distinction survived the counterevidence search, appears repeatedly, and is not adequately explained as a single rhetorical reaction.
+
+**Review condition:**
+Reassess if future evidence shows Ziggy refusing the same distinctions to possibilities he disfavors.
+
+---
+
+### Profile Claim 2
+
+**Claim:**
+Ziggy explicitly accepts that personal experience may constrain what he can responsibly rule out without thereby constituting public proof for others.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT + CO-CONSTRUCTED.
+
+**Confidence:** High.
+
+**Source Anchor:**
+Ziggy, “My experience prevents me from confidently ruling certain things out... I’m using this forever now...” — approximately 2026-06-20.
+
+**Why profile-ready:**
+Ziggy explicitly adopted the formulation, and no contrary claim was found in which he treated private experience as automatically binding on outsiders.
+
+**Review condition:**
+Reassess when evidence appears concerning what could overturn, reinterpret, or reduce the force of such an experience for him.
+
+---
+
+### Profile Claim 3
+
+**Claim:**
+Ziggy repeatedly responds to object-level disagreement by examining the standards, authority, or framework through which the disagreement is being judged.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT across multiple topics; some language CO-CONSTRUCTED with Nova.
+
+**Confidence:** High.
+
+**Source Anchors:**
+
+* “Doesn’t trust technically come first?” — prediction dispute, approximately 2026-06-30.
+* “What’s the jurisdiction of justification?” — approximately 2026-06-20.
+* “They’re never having a chance to be pro-methodological naturalism.” — approximately 2026-06-30.
+* “It’s a category error to judge the systems that describe meaning with our systems that describe physical matter.” — approximately 2026-06-15.
+
+**Why profile-ready:**
+The pattern recurs across prediction, justification, worldview scoring, and domain selection. It is broader than one rhetorical phrase.
+
+**Review condition:**
+Differentiate future cases where the meta-level move clarifies the dispute from cases where it displaces unresolved object-level evidence.
+
+---
+
+### Profile Claim 4
+
+**Claim:**
+Ziggy’s stated debate preference is to evaluate whether a claim is accurately represented and survives application before treating the speaker’s information source as disqualifying.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** High within debate settings.
+
+**Source Anchor:**
+Ziggy, “‘How do you know that’ is an annoying question to me... I personally don’t care where it came from... hoping it’s accurately being represented and attempted to be used.” — approximately 2026-06-28.
+
+**Why profile-ready:**
+This is an explicit self-description rather than an inferred operator.
+
+**Review condition:**
+Do not generalize beyond conversational debate until Ziggy clarifies how provenance should function in empirical, historical, legal, or high-stakes claims.
+
+---
+
+### Profile Claim 5
+
+**Claim:**
+Ziggy uses functional comparison to identify overlap between religious and secular systems that present themselves in different conceptual vocabularies.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** High for this thread; moderate as a domain-general practice.
+
+**Source Anchor:**
+Ziggy, “If the seculars are even saying... we do know we need this type of framework...” and “I wanna call religion like a type of technology.” — approximately 2026-06-20.
+
+**Why profile-ready:**
+The actual comparison is directly stated and survived as a consequential reasoning move. The claim is limited to use of the comparison, not to full functional equivalence.
+
+**Review condition:**
+Reassess the strength of the comparison when disanalogies, harmful functions, and successful secular replacements are explicitly considered.
+
+---
+
+### Profile Claim 6
+
+**Claim:**
+Ziggy warns against applying evaluative standards to domains without first establishing that those standards are fitted to the target.
+
+**Subject:** Ziggy.
+
+**Evidence classification:** Z-DIRECT.
+
+**Confidence:** High as a methodological warning.
+
+**Source Anchor:**
+Ziggy, “It’s a category error to judge the systems that describe meaning with our systems that describe physical matter.” — approximately 2026-06-15.
+
+**Why profile-ready:**
+The position is explicit and consistent with his later jurisdiction reasoning.
+
+**Review condition:**
+Do not convert this into a claim that meaning systems are exempt from empirical assessment when they make empirical or historical assertions.
+
+---
+
+### Profile Claim 7
+
+**Claim:**
+Nova materially contributes metaphors and formulations that Ziggy then evaluates, adopts, and integrates into his own reasoning.
+
+**Subject:** Ziggy–Nova dyad.
+
+**Evidence classification:** CO-CONSTRUCTED.
+
+**Confidence:** High.
+
+**Source Anchor:**
+Ziggy’s explicit adoption of “My experience prevents me from confidently ruling certain things out,” following Nova’s formulation — approximately 2026-06-20.
+
+**Why profile-ready:**
+The source history is recoverable, and Ziggy openly marks adoption rather than the extraction silently assigning authorship.
+
+**Review condition:**
+Maintain separate attribution for originating language, conceptual adoption, and later independent development.
+
+## 4. Quarantined Claims
+
+### Quarantined Claim 1 — Grant practices Prediction Sovereignty
+
+**Current evidence:**
+Ziggy reports, “Grant keeps saying how prediction is ultimate.”
+
+**Why quarantined:**
+No Grant-authored statement establishes scope, qualifications, or whether other epistemic virtues are subordinated to prediction.
+
+**Promotion evidence required:**
+Direct Grant material across at least two domains, including his response to a case where explanation, experience, or coherence conflicts with predictive performance.
+
+---
+
+### Quarantined Claim 2 — Grant performs Possibility Compression
+
+**Current evidence:**
+Grant reportedly redirects discussion from what is possible to what is plausible.
+
+**Why quarantined:**
+The move may be relevance management rather than treating low-plausibility possibilities as functionally irrelevant.
+
+**Promotion evidence required:**
+A direct case where Grant explicitly removes a possibility from inquiry because it falls below a plausibility threshold, while acknowledging it is not impossible.
+
+---
+
+### Quarantined Claim 3 — Grant universalizes one evaluative jurisdiction
+
+**Current evidence:**
+Ziggy experiences Grant’s predictive and justificatory standards as governing domains that Ziggy believes require different standards.
+
+**Why quarantined:**
+The universality is inferred from Ziggy’s experience of the disputes, not directly stated by Grant.
+
+**Promotion evidence required:**
+Grant explicitly claiming that the same standard governs physical, metaphysical, moral, religious, first-person, and meaning-oriented claims, or repeatedly applying it across those domains without qualification.
+
+---
+
+### Quarantined Claim 4 — Grant exempts his preferred baseline from scrutiny
+
+**Current evidence:**
+Ziggy asks whether prediction presupposes trust and argues that methodological naturalism should be positively evaluated.
+
+**Why quarantined:**
+The corpus does not preserve Grant’s response or demonstrate that he refuses equivalent scrutiny.
+
+**Promotion evidence required:**
+A direct exchange in which Grant demands framework justification from others while declining comparable examination of prediction or methodological naturalism.
+
+---
+
+### Quarantined Claim 5 — Grant bypasses reconstruction
+
+**Current evidence:**
+His reported convergence prediction may address a stronger, more lossless compression thesis than Ziggy intended.
+
+**Why quarantined:**
+Grant may have meant relative convergence, and his response to clarification is absent.
+
+**Promotion evidence required:**
+Direct transcript showing Ziggy clarifying the lossy model, Grant acknowledging that clarification, and then continuing to evaluate the stronger substitute.
+
+---
+
+### Quarantined Claim 6 — Grant performs Generative Admission Restriction
+
+**Current evidence:**
+No adequate blind finding.
+
+**Why quarantined:**
+The corpus does not establish that Grant refuses to let experience, tradition, revelation, or symbolic narratives generate hypotheses before evaluation.
+
+**Promotion evidence required:**
+Direct evidence that he excludes such sources at the candidate-generation stage rather than merely assigning them low evidential weight later.
+
+---
+
+### Quarantined Claim 7 — Grant performs Unmeasured-to-Zero Conversion
+
+**Current evidence:**
+None recoverable.
+
+**Why quarantined:**
+No source shows an untested, unmeasured, or jurisdictionally inappropriate result being scored as zero.
+
+**Promotion evidence required:**
+A recoverable scoring event in which “unknown,” “not measured,” or “outside instrument scope” is explicitly converted into failure.
+
+---
+
+### Quarantined Claim 8 — Grant compresses contest into defeat
+
+**Current evidence:**
+None clearly recoverable.
+
+**Why quarantined:**
+No preserved exchange shows him treating an unresolved objection as decisive refutation.
+
+**Promotion evidence required:**
+A direct instance where an acknowledged open objection is used as though it conclusively defeats the target position.
+
+---
+
+### Quarantined Claim 9 — Ziggy applies symmetry consistently
+
+**Current evidence:**
+Ziggy clearly reverses burdens when methodological naturalism or another opposing framework is advantaged.
+
+**Why quarantined:**
+Stage 3 found no equivalent prospective test applied to several of Ziggy’s favored experiential, religious, or possibility-preserving claims.
+
+**Promotion evidence required:**
+A case in which Ziggy subjects a personally attractive claim to the same reversal and accepts a damaging result.
+
+---
+
+### Quarantined Claim 10 — Ziggy’s Possibility Preservation is domain-general
+
+**Current evidence:**
+Strong evidence in spiritual, metaphysical, and personally experiential disputes.
+
+**Why quarantined:**
+No disliked, threatening, or opponent-favored possibility is shown receiving equivalent preservation.
+
+**Promotion evidence required:**
+Independent cases involving possibilities contrary to Ziggy’s preferred worldview.
+
+---
+
+### Quarantined Claim 11 — Trust is epistemically prior to prediction
+
+**Current evidence:**
+Ziggy asks whether trust in guidelines comes first.
+
+**Why quarantined:**
+“Trust” is not distinguished from provisional adoption, operational reliance, confidence, or non-evidential commitment.
+
+**Promotion evidence required:**
+A developed argument specifying the sense of trust, why prediction cannot precede it, and how the claim avoids circularity.
+
+---
+
+### Quarantined Claim 12 — Evaluative jurisdiction provides a resolution procedure
+
+**Current evidence:**
+The jurisdiction framing successfully diagnoses conflicting standards.
+
+**Why quarantined:**
+No method is given for resolving conflicts among jurisdictions or identifying cross-framework standards.
+
+**Promotion evidence required:**
+A procedure for deciding when a standard has standing, how jurisdictions overlap, and how appeals are adjudicated.
+
+---
+
+### Quarantined Claim 13 — Religious and secular systems are functionally equivalent
+
+**Current evidence:**
+Ziggy identifies important functional overlap.
+
+**Why quarantined:**
+Overlap does not establish equivalence in efficacy, truth conditions, authority, institutional consequences, or replaceability.
+
+**Promotion evidence required:**
+A dimension-by-dimension functional comparison including differences, failures, unique functions, and replacement performance.
+
+---
+
+### Quarantined Claim 14 — The Grant–Ziggy narrowing/reopening loop is a stable dyadic architecture
+
+**Current evidence:**
+The selected reports repeatedly show Grant-associated contraction followed by Ziggy-associated reopening and meta-level reframing.
+
+**Why quarantined:**
+The corpus is mediated by Ziggy, lacks Grant’s direct replies, and may select precisely the exchanges that fit this pattern.
+
+**Promotion evidence required:**
+Multiple complete direct transcripts, including role-reversed cases and examples selected independently of the hypothesis.
+
+## 5. Extraction Self-Audit
+
+### Candidate-registry priming risk
+
+The named registry strongly encouraged mapping Grant’s reported behavior toward Prediction Sovereignty, Possibility Compression, Universalized Evaluative Jurisdiction, and Baseline Exemption. The blind findings were therefore rechecked against the stronger definitions. Only the first two received even partial mappings; the others remained below threshold.
+
+### Risk of mapping corrective moves onto failure-mode names
+
+Several recovered Ziggy moves resist or diagnose named failures rather than instantiate them:
+
+* Domain-sensitive standard selection resists Universalized Evaluative Jurisdiction.
+* Performance-over-provenance assessment resists some forms of Generative Admission Restriction.
+* Criterion-precondition exposure resists Baseline Exemption.
+* Evaluative-jurisdiction relocation detects possible jurisdictional overreach.
+
+Treating detector and defect as the same operator would have erased their directionality.
+
+### Over-pattern-matching risk
+
+Grant’s reported comments were sparse but conceptually aligned. That creates a strong temptation to infer one unified architecture—prediction, plausibility, comparison, compression—from only a few disputes. The extraction therefore keeps most Grant claims quarantined.
+
+### Asymmetric evidence risk
+
+Ziggy has extensive direct speech and visible self-correction. Grant is available only through Ziggy’s reports. Apparent greater complexity or charity on Ziggy’s side may be an artifact of source resolution rather than a difference between the participants.
+
+### Asymmetric charity risk
+
+Stage 3 scrutinized whether Ziggy applies his own symmetry demands to favored beliefs. Equivalent testing of Grant was impossible because his defensive responses are missing. This may make Ziggy’s omissions appear more numerous simply because his reasoning is more fully visible.
+
+### Co-construction attribution risk
+
+The map, territory, jurisdiction, and localized-experience formulations were partly generated or sharpened by Nova. The extraction may still over-credit Ziggy’s independent architecture if later adoption is mistaken for original generation. Profile claims therefore distinguish adoption from authorship.
+
+### Role-behavior risk
+
+Grant may appear contractionary because he occupies the skeptical challenger role. Ziggy may appear possibility-preserving because he occupies the spiritual or metaphysical defense role. Ziggy’s reciprocal burden testing is also partly induced by CFA experimental design.
+
+### Rhetoric-versus-operation risk
+
+The following may be powerful rhetorical reframings rather than stable cognitive operators:
+
+* “trust before prediction”;
+* legal jurisdiction metaphors;
+* religion as technology;
+* performance over provenance.
+
+They were retained only at the scope directly supported.
+
+### UNCLEAR-to-definite-label check
+
+The extraction avoided definite claims that:
+
+* Grant denies spirituality;
+* Grant is personally a methodological naturalist;
+* Grant rejects possibility;
+* Grant treats every unsupported claim as zero;
+* Grant refuses reconstruction;
+* Grant treats objections as defeats.
+
+Those remain UNKNOWN or quarantined.
+
+### Possible under-description of Grant
+
+Because direct Grant material is absent, genuine Grant concessions, distinctions, and self-application may have been omitted from the source corpus. The current result is better understood as a profile of **Grant-as-reported-in-these-disputes** than of Grant without qualification.
+
+### Possible over-description of Ziggy
+
+Ziggy’s long reflections permit extraction of many distinctions from a small number of recurring commitments. Some apparent operators may be multiple descriptions of one deeper pattern: preserving distinctions when an evaluative framework attempts premature closure.
+
+### Strongest surviving extraction-level conclusion
+
+The most defensible finding is not that Grant and Ziggy possess fixed opposite architectures. It is that the accessible disputes repeatedly organize around a tension between:
+
+* Grant-associated pressure toward prediction, comparison, plausibility, and narrowing; and
+* Ziggy-associated protection of distinctions, possibility, local evidence, jurisdiction, and reciprocal evaluation.
+
+Whether that tension belongs to their stable personalities, their assigned roles, or the selected disputes remains unresolved.
+
 
 ---
 
