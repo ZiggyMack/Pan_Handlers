@@ -26,7 +26,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — all 4 stage outputs pasted; Stages 1–2 reviewed (⚠️ conditional overlay + consolidation binding); Stage 3–4 reviews pending; **8 trails ordered at close (IT-061…068)**; ⚠️ Reflexive Self-Sealing Risk flagged for maximum Stage-3 pressure
+**Status:** 🟡 IN PROGRESS — all 4 stage outputs pasted; Stages 1–3 reviewed; Stage-4 review pending; **10 trails ordered at close (IT-061…070)**; resistance-confirms-the-model FAILED as validation; Angles' strongest objection restored (predictable-consequence, not logic failure)
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep: "stochastic diminishing" (conversational possibility-space contraction); emergent conversational roles/functions; noise's phase-sensitive utility vs participation entitlement (**the Angles dispute** — first bounded dig with substantial member-03 material, THIRD-PARTY-REPORTED ceiling); concept-vs-implementation; persuasion vs understanding as success criteria ("combat epistemology" = Nova language)
@@ -2335,6 +2335,153 @@ His withdrawal is targeted at persuasion loops, not inquiry itself.
     A related discussion may exist under a conversation about listening, asymmetrical exchange, and “vampiric scaling,” approximately June 2026. Not evidence for this packet.
     A related discussion may exist under a conversation about value rejection and justification demands, approximately May 2026. Not evidence for this packet.
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS — run Stage 4 (already executed; this review governs it
+retroactively). Stage 3 does its job: it breaks the flattering
+self-confirming version of the model, restores Angles' strongest
+practical objection, and sharply separates Ziggy's rejection of
+compulsory persuasion from any claim of exemption from evaluation.**
+
+```text
+ANGLES PROFILE VALUE: NONE — THIRD-PARTY-REPORTED NON-SITE
+ZIGGY PROFILE VALUE: SELECTIVE / PROVISIONAL
+NOVA PROFILE VALUE: THREAD-LEVEL / ROLE-INDUCED
+```
+
+**📊 STAGE-2 SURVIVAL-FORECAST SCORING:** near-clean — the Reflexive
+Self-Sealing move received its maximum pressure and **failed as
+validation** exactly as ordered; latent-concern inference weakened
+almost completely; convergence-as-quality weakened; the six families
+held. *Common-cause caveat filed.*
+
+**⚖️ AVAILABILITY-TIER REVIEW:**
+
+- **Useful-noise criteria** — A3 fully justified; the eight-question
+  operational test filed (relevant alternative? unstated assumption?
+  contradiction? information unavailable at lower cost? responsive
+  engagement? later clarity? disproportionate cost? continued after
+  value extracted?). The decisive variable is never whether disruption
+  produced *anything*: *did it produce sufficient value to justify its
+  cognitive, emotional, temporal, and governance costs?* Without that
+  standard, Angles' slippery-slope concern remains live.
+- **Charitable reconstruction of Angles** — A3, consequential: the
+  strongest bounded reconstruction is a **predictable-consequence
+  objection**, not a logic failure — *institutionalizing "noise can be
+  useful" may create incentives to tolerate harmful disruption*
+  (moderation hesitation, false positives, bad-faith exploitation, cost
+  distribution). The thread answered the entailment objection; Angles
+  may have been raising the consequence objection. **Both preserved for
+  Stage 4.**
+- **Symmetrical burden on the model** — A3, the strongest omission: a
+  model explaining ambiguity reduction, role emergence, quality,
+  Angles' resistance, persuasion loops, AND frame rigidity must state
+  what would count against it — else *agreement confirms, disagreement
+  confirms, confusion confirms, refusal confirms*: interpretation-
+  complete and evidence-insensitive.
+- **Implementation feedback** — **A2** (meets the tightened standard;
+  partially repaired by Ziggy's own acknowledgment). Surviving form:
+  feasibility must not prematurely terminate conceptual inquiry — but
+  "implementation is irrelevant until the model is complete" does not
+  survive; the relation is reciprocal.
+- **Nonpersuasion vs nonevaluation** — A3: *I do not need to convert
+  you ≠ I do not need to answer criticism; I want to be understood ≠ I
+  require acceptance; you remain unconvinced ≠ you misunderstood me.*
+  Central for Stage 4.
+
+**Strongest surviving families (rulings):** Descriptive–Evaluative–
+Policy Audit (cleanest durable family; both reciprocals permanent) ·
+Concept–Operationalization Audit (an *audit*, never "structure first";
+the model eventually owes unit of analysis, state variables, transition
+conditions, observables, error cases, disconfirmation conditions) ·
+Conversation-Frame and Success Audit (*repeated challenge = rigorous
+inquiry under a truth-testing goal OR extractive burden escalation under
+a perspective-exchange goal* — the frame diagnosis must stay open to
+first-order criticism) · Phase–Function Regulation (functional family
+stronger than the role names) · Expansion–Contraction Model (Idea Trail;
+quality = fit among dynamics, declared goal, informational yield, and
+participant costs) · **Reflexive Attribution Audit** (enters Stage 4
+principally as a QUARANTINE mechanism: rival explanation + direct
+evidence + discriminating prediction + disconfirmation condition +
+evidence not drawn from the model's own vocabulary).
+
+**Counterevidence judgments:** concept-vs-implementation survives
+(iterative, not absolute) · **Angles' category collapse does NOT survive
+as established diagnosis** (five live alternatives) · phase-dependent
+utility survives as stated position (truth untested) ·
+understanding-over-persuasion survives as *current orientation* — not
+yet durable philosophical maturation (context-specific exhaustion
+equally supported) · emergent roles = co-constructed model only ·
+convergence-as-quality weakens substantially · **latent fear behind
+Angles' objections weakens almost completely** · **resistance-confirms-
+the-model FAILS as validation** · burden loop survives as Ziggy's
+experience, not objective diagnosis (requires: answers don't update the
+challenger; standards shift; no satisfaction conditions; objections
+don't narrow; asymmetric burdens).
+
+**Alternative-reading review:** frame diagnosis vs defensive exit — the
+primary reading better supported (Ziggy seeks a different protocol, not
+an exit from inquiry), with the standing audit: *does he still answer
+relevant criticisms once persuasion is removed as the goal?* · systems
+abstraction vs local-problem avoidance — both active; the procedure:
+*abstract → construct model → RETURN to the originating case → test
+whether the abstraction preserved the relevant harms* · **Nova
+articulation vs theory inflation — both survive; the packet's most
+important relationship-level caution** (names too many entities;
+attributes motives; treats metaphors as mechanics; absorbs objections;
+validates before testing).
+
+**Consolidation confirmed (14 → 5 families; Expansion–Contraction stays
+an Idea Trail through families 3–4); Stage-4 mapping expectations filed
+(14 dispositions).**
+
+**Safe provisional Ziggy seeds (7):** function–endorsement separation
+(HIGH locally); conceptual-jurisdiction protection (HIGH);
+phase-sensitive evaluation (MOD-HIGH); conversation-frame diagnosis
+(HIGH as experiential judgment); success-condition pluralism (HIGH
+locally); burden-loop sensitivity (HIGH as self-report, external
+validity unresolved); understanding-oriented engagement (HIGH).
+**Permanent restriction: understanding orientation ≠ immunity from
+evaluation.**
+
+**Nova findings (10, thread-level):** incl. *expands the concept faster
+than it operationalizes it*; *interprets resistance through the model
+itself*; *insufficiently distinguishes nonpersuasion from
+nonevaluation*. No role-independent promotion.
+
+**Angles disposition:** `THIRD-PARTY-REPORTED NON-SITE` — quarantine
+extended with Unmeasured-to-Zero Conversion + Possibility Compression
+(the registry pathologies must not be back-attributed through the
+report). Safest statement: *Ziggy reports that Angles focused on AI
+expense and on the possibility that treating conversational noise as
+useful could encourage inclusion or protection of disruptive
+participants.*
+
+**Trails at close (now 10):** field desk adds IT-070 + IT-071 → registry
+assigns **IT-069 Understanding Without Agreement** + **IT-070 Useful
+Contribution versus Continued Access** alongside IT-061…068 (off-by-one
+noted).
+
+**Restrictions (final pre-Stage-4 set):** Stage-2 set plus — no
+conceptual-sequencing→implementation-immunity inference · no
+nonpersuasion→nonevaluation inference · **no
+repeated-objection→moving-goalpost inference without sequence
+evidence**.
+
+**The decisive Stage-4 question (registered):** *can the framework
+distinguish productive perturbation from costly derailment, permit
+implementation concerns to revise its ontology, and allow principled
+resistance to count against it — or does the model turn every
+conversational event into one of its roles while treating every
+objection as another confirmation of its own explanatory reach?*
+
+**NEXT ACTION:** Stage 4 already executed (output below); the final
+review completes the packet on arrival.
 
 ---
 
