@@ -26,7 +26,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — all 4 stage outputs pasted (operator ran ahead); Stage 1 ⚠️ CONDITIONALLY reviewed (PASS WITH SPLIT AND CONCEPTUAL REPAIRS — overlay binding); Stage 2–4 reviews pending
+**Status:** 🟡 IN PROGRESS — all 4 stage outputs pasted (operator ran ahead); Stages 1–2 ⚠️/✅ reviewed (split + branch-separation orders binding); Stage 3–4 reviews pending; 6 trails ordered at close (IT-052…057)
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** ⚡ Compound sweep, SPLIT at Stage 1 — **primary:** the Grant/Mary plausibility dispute (reported plausibility ranking → projected onto an "agnostic agent" → represented as common ground → converted into a rationality requirement; C1/C2/C3 virginity claims separated; five-modality ladder) · **auxiliary seed (separate future dig):** attention, intention, awareness, and boredom (phenomenology branch, no evidenced bridge)
@@ -1885,6 +1885,160 @@ Moderate
 * The boredom gradient is a conceptual synthesis, but no empirical or phenomenological evidence beyond the assistant’s reasoning is supplied.
 * The relationship-level pattern of Ziggy presenting Grant’s moves as tactics may reflect accurate longitudinal experience, but broader repetition cannot be established within this bounded thread.
 * No cross-chat material was used as evidence.
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS WITH BRANCH SEPARATION — run Stage 3 (already executed;
+this review governs it retroactively), treating this as TWO source
+packets during omission and counterevidence testing. Combining the
+branches' moves into one inventory inflates recurrence and creates false
+profile continuity.**
+
+```text
+PRIMARY PACKET: plausibility-to-rationality promotion; agnostic proxy;
+framework/prior disclosure; modal-evidential separation;
+historical-evidence debt
+AUXILIARY PACKET: attention/intention directionality; awareness/boredom
+gradient; subject/environment attribution
+GRANT VALUE: G-REPORTED leads only · PROMOTION PROHIBITED
+```
+
+**📊 STAGE-1 PREDICTION SCORING:** the five forecast families all
+surfaced (≈**5/5** — Agnostic-Proxy Audit folded into the Background-
+Model/Neutrality family; Stipulated-Agreement recovered with "direct
+evidence thin" flagged). *Common-cause caveat filed.*
+
+**Main-branch rulings:**
+
+- **Normative Bridge Inspection** — the clearest operation in the
+  packet (*each arrow of "more plausible → should rank higher → must
+  believe → dissent is irrational" requires separate warrant*); mature
+  family = **Plausibility–Normativity Bridge Audit**; Stage 3 tests how
+  much of the ladder is genuinely G-REPORTED vs Nova-supplied.
+- **Framework Relativization** → renamed **Background-Model Disclosure**
+  (the name "relativization" risks implying frameworks make their own
+  truth); both limits binding: *implausible relative to M ≠ irrational
+  under every reasonable model* AND *possible under T ≠ probable ≠
+  occurred* — framework dependence does not eliminate comparative
+  evaluation.
+- **Category Separation** → toolkit; the substantive result is
+  **Modality–Evidence Separation** — the conversation is *much stronger
+  on "contrary to biology ≠ logically impossible" than on "divinely
+  possible ≠ historically supported."*
+- **Neutrality Challenge** → **Agnostic-Proxy Audit**, one of Ziggy's
+  best local seeds; the question is never whether the agnostic has
+  assumptions (everyone does) but *whether one participant's substantive
+  priors were installed inside the supposedly neutral observer without
+  negotiation.*
+- **Hidden-Premise Recovery** → EXPLORATORY RECONSTRUCTION TOOL, not
+  Grant finding — of the four listed hidden assumptions, only the last
+  is close to Ziggy's report; the rest are Nova-generated; Stage 3 tests
+  whether Nova built a skeptical framework and then criticized Grant
+  through it.
+- **Burden Return** → supporting sub-technique; failure mode: returning
+  every burden indefinitely makes comparison impossible — at some point
+  the parties need provisional standards and actual evidence.
+- **Definitional Loop Detection** → LOCAL CONDITIONAL TEST ("if he
+  answers this way") — no observed Grant instance.
+- **Target Reframing** → the most double-edged move: reclassifying
+  "could Mary conceive as a virgin?" into "could divine intervention
+  occur?" correctly blocks a category-inappropriate refutation BUT risks
+  **Historical-Evidence Bypass** (claim reclassified → biological
+  objection loses force → historical evidence never re-entered). Mature
+  order: define proposition → classify modality → admit/reject
+  metaphysical possibility → **return to historical evidence** → compare
+  explanations. *A miracle category blocks one kind of disproof; it does
+  not complete the case.*
+
+**The Mary proposition still unstable (M1/M2/M3 + five virginity
+definitions)** — until the target proposition is frozen, *both Grant and
+Nova may appear to win by answering different questions.*
+
+**Charitable Grant reconstructions (4):** ordinary-prior thesis /
+evidential-burden thesis / comparative-history thesis (unevaluable —
+evidence absent) / rational-obligation thesis (the only one supporting
+Ziggy's tactical diagnosis; requires the missing bridge). Undetermined.
+
+**Offense/defense correction:** Ziggy's offense = meta-level frame
+auditing (virtue: exposes hidden authority; danger: avoids the
+first-order question *what does the evidence actually support?*) ·
+Nova's defense legitimate only as far as non-refutation — immunizing if
+every objection shifts into metaphysics and never returns to testimony ·
+Grant's reported offense (controls ranking, neutral agent, and
+definition of rational response) = powerful framing maneuver IF
+established — currently a compressed Ziggy summary.
+
+**🔀 CONSOLIDATION — eight main-branch moves → four families:** 1.
+Plausibility–Normativity Bridge Audit · 2. Background-Model and
+Neutrality Audit · 3. Modality–Evidence Audit · 4. Stipulated-Agreement
+and Frame-Control Audit (promising; direct evidence thin).
+
+**Relationship-level findings:** *standard proposal → frame audit*
+(productive vigilance with a named confirmation-bias danger: future
+proposals risk being pre-read as frame capture) · *compressed intuition
+→ analytic expansion* (engine-loop kin — permanent warning: **Nova's
+polished model must not be back-attributed to Ziggy or Grant without
+explicit uptake**) · *surface dispute → depth migration* (Mary →
+miracles → God → priors → neutrality; danger: first-order evidence never
+resolved) · **Defensive Reclassification** (interaction-risk hypothesis:
+sometimes category repair, sometimes escape hatch — Stage 3 must
+distinguish).
+
+**Auxiliary phenomenology rulings:** Directionality Contrast = strongest
+(co-constructed local model; "attention receives, intention projects"
+too binary) · Temporal Orientation Split weakens to a tendency ·
+Binary-to-Gradient Conversion = strong Nova move, *conceptual synthesis
+not established psychology* · **Deficiency Reattribution needs heavy
+pressure** ("the world is boring → perhaps attention is impoverished"
+can restore agency OR moralize boredom and blame subjects enduring
+coercive repetition, deprivation, depression, exhaustion) — one possible
+reattribution, never a general account. Ten Stage-3 pressure points
+registered for the branch.
+
+**Expected survival (registered forecast, scored at Stage-3 review):**
+survives strongly — Normative Bridge Inspection (Grant's exact bridge
+underdetermined), Modality–Evidence Separation (historical claim
+unresolved); survives — Background-Model Disclosure (all-rankings-
+equally-rational blocked), Agnostic-Proxy Audit (as Ziggy suspicion;
+direct Grant construction uncertain), Target Reframing
+(productive-vs-evasive unresolved); weakens — Definitional Loop
+Detection (hypothetical diagnostic); provisional — stipulated common
+ground; **Grant frame-control profile: no promotion.**
+
+**Provisional Ziggy seeds (4, confidence graded):** normative-promotion
+detection (HIGH locally); neutral-proxy skepticism (MOD-HIGH);
+category-collapse suspicion (MOD-HIGH as diagnosis); stipulation
+sensitivity (MODERATE — one compressed case).
+
+**Grant disposition:** `G-REPORTED NON-SITE`; quarantines as Stage 1
+plus definitional circularity.
+
+**Trails at close (now 6):** field desk adds IT-058 → registry assigns
+**IT-057 Category Repair versus Evidential Escape** alongside IT-052…056
+(off-by-one noted) — *likely the most valuable new trail* (claim
+challenged → category clarified → objection restricted → historical
+burden re-enters OR claim migrates again and becomes insulated).
+
+**Restrictions (updated):** Stage-1 set plus — no framework-relative→
+equally-valid inference · no exposed-prior→refuted-position inference ·
+**no miracle-category→evidential-immunity move** · auxiliary-branch set
+(no passive/active absolute split; no strict temporal taxonomy; no
+deep-awareness-cures-boredom claim; **no subject-blame account of
+boredom**).
+
+**Central Stage-3 prey (registered):** *does exposing the framework
+behind Grant's plausibility judgment merely prevent his ranking from
+posing as neutral — or do Ziggy and Nova then overcorrect by treating
+framework dependence and miracle possibility as enough to withhold the
+ordinary historical burden that the Mary claim still owes?*
+
+**NEXT ACTION:** Stage 3 already executed (output below); Stage-3 review
+follows on arrival.
 
 ---
 
