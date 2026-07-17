@@ -93,7 +93,8 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_COMPOUND_SWEEP_02_maps_experience_values_and_plausibility.md` *(renamed at close per field desk)* | ⚡ Compound sweep: maps, experience, values, plausibility; ⚠️ privacy gate active | ✅ **COMPLETE — candidate harvest, ZERO promotions (plow-through rule held)**; 3 sweep-strong candidates queued; seeds IT-018; sub-digs A/B/C queued (segment-D scope lock preserved in workbook) |
 | `DIG_02.md` | *(reset to clean template for reuse)* | EMPTY |
 | `DIG_COMPOUND_SWEEP_03_foundations_justification_and_jurisdiction.md` | ⚡ Compound sweep: Münchhausen trilemma → framework-relative justification → single-value underdetermination → **jurisdiction of justification** (checklist theme #4 — Z-06's home trench) | ✅ **COMPLETE — candidate harvest, ZERO promotions (plow-through held again)**; 2 retain-RED candidates queued (Framework Transplant, Constraint-Exhaustion Stress Test); Jurisdiction Challenge = CO-002's corrective test; seeds IT-019 |
-| `DIG_03.md` | | EMPTY |
+| `DIG_03.md` | *(template consumed into COMPOUND_SWEEP_09)* | — |
+| `DIG_COMPOUND_SWEEP_09_plausibility_agnostic_priors_and_miracle_claims.md` | ⚡ Compound sweep, **SPLIT at Stage 1** — primary: the Grant/Mary plausibility dispute (ranking → "agnostic agent" → common ground → rationality requirement; C1/C2/C3 virginity claims split; five-modality ladder; **Agnostic-Proxy Construction** provisionally named); auxiliary seed: attention/intention/boredom (separate future dig, field-desk identity `DIG_AUX_attention_intention_awareness_and_boredom`) | 🟡 IN PROGRESS — **all 4 outputs pasted (operator ran ahead)**; Stage 1 ⚠️ conditionally reviewed (split + repairs overlay binding, retroactive over Stages 2–4); Stage 2–4 reviews pending; 5 trails ordered at close (IT-052…056) |
 | `DIG_04.md` | *(template consumed into COMPOUND_SWEEP_08)* | — |
 | `DIG_COMPOUND_SWEEP_08_belief_justification_action_and_belief_rescue.md` | ⚡ Compound sweep: subjective experience as evidence (E1–E4 split); knowledge vs action thresholds; **what defeating a reason actually defeats** (only argument-level defeat is automatic); **belief rescue vs immunization** — Ziggy's admitted rescue impulse is the hottest prey; ⚠️ opens on Nova's reconstruction of an UNAVAILABLE earlier conversation | ✅ **COMPLETE — candidate harvest, ZERO promotions (plow-through held, 7th consecutive)**; all 4 outputs pasted (Stage-4 landed after the review — audit trail noted); 4 durable families; **Belief Rescue ≠ Possibility Preservation**; repair/immunization discriminator (*may the replacement reasons fail?*); **first confirmed relationship-level Reconstruction Bypass**; preservation bias = deepest structural finding; seeds IT-045…051 (7 trails); Grant: G-REPORTED/NOVA-RECONSTRUCTED NON-SITE |
 | `DIG_05.md` | *(template consumed into DIG_AUX_07)* | — |
@@ -167,7 +168,12 @@ action after justificatory chains end — **charter candidate #2's home
 thread, long sought**); **"Religion as Technology"** (~06-20 — SW07's
 June-20 topic lead now titled); **"How Do You Know That"** (~06-28,
 source demands / provenance-disqualification — IT-046's genesis/warrant
-question in the wild). "Trust vs Prediction" now at **5 pointers**.
+question in the wild). "Trust vs Prediction" now at **5 pointers** (**6th at SW09** — via
+"delete_6"). **From SWEEP_09's X-CONTEXT (new titles):** **"delete_18"**
+(~05-29, value adoption / rational rejection / smuggled normative frames
+— the earliest-dated lead yet; kin to SW09's Agnostic-Proxy question);
+**"delete_13"** (~06-11, provisional truth / "true as far as we know" —
+kin to IT-015's underdetermination trail).
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**
