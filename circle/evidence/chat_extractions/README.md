@@ -96,7 +96,8 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_03.md` | | EMPTY |
 | `DIG_04.md` | | EMPTY |
 | `DIG_05.md` | | EMPTY |
-| `DIG_06.md` | | EMPTY |
+| `DIG_06.md` | *(template consumed into COMPOUND_SWEEP_07)* | — |
+| `DIG_COMPOUND_SWEEP_07_entropy_semantic_compression_materialism_and_narrative_transmission.md` | ⚡ Compound sweep: Shannon entropy vs semantic value; myth-as-compression (encoding/decoding); story vs cookbook; materialism / explanatory levels; religion as experiential-pattern transmission; prediction as mechanism not sovereign — sequel to AUX_06 + SW05 masters branch | 🟡 IN PROGRESS — Stage 1 ⚠️ **CONDITIONAL PASS (attribution + scope repairs filed as binding overlay)**: new **G-ANTICIPATED** label introduced (anticipated Grant replies ≠ reported positions); co-construction inflation reverted to NOVA-INTERPRETATION pending uptake evidence; 5 compression senses split; Stage 2 authorized under overlay |
 | `DIG_07.md` | *(template consumed into COMPOUND_SWEEP_06)* | — |
 | `DIG_COMPOUND_SWEEP_06_belief_justification_observer_frames_and_scientific_jurisdiction.md` *(renamed at close per field desk from the DIG_07-slot working file)* | ⚡ Compound sweep, 3 sites: belief/justification/warrant/truth; observer facts vs world facts (teapot — anti-relativist correction); scientific jurisdiction over spiritual claim types ("taking the theist idea into their frame to die" got its two-sided test) — G1–G4 Grant theses kept apart | ✅ **COMPLETE — candidate harvest, ZERO promotions (plow-through held, 5th consecutive)**; 3 HIGH candidates queued (Adjudication-Frame Audit; Observer-State/Shared-World Audit; Claim-Type/Method-Fit Audit + domain-immunity safeguard); 14 moves → 5 families; polarity-reversal seed reinforced (4th sweep); seeds IT-027…031; balance point filed permanent (*authority without sovereignty; evidence without immunity*); Grant: REPORTED/RECONSTRUCTED NON-SITE; sub-digs A/B/C queued (A = profile prize, C = Museum prize) |
 | `DIG_08.md` | *(template consumed into DIG_AUX_06)* | — |
@@ -150,7 +151,10 @@ likely the checklist's Offense-vs-Defense thread; SW05 Stage 4 repeats the
 topic under the title **"Methodological naturalism and framework
 asymmetry"**). **"Trust vs Prediction"** (~06-30, whether trust precedes or
 overrides prediction — SW05 Stage 4; same date and topic as "delete_6":
-likely the same thread under its real title — IT-023's target dig).
+likely the same thread under its real title — IT-023's target dig; **3rd
+pointer at SW07 Stage 1 — the most-signaled unopened lead on the
+board**). **From SWEEP_07's X-CONTEXT:** topic-lead *mythology,
+Christianity, and Castaneda* (no title/date recovered).
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**
