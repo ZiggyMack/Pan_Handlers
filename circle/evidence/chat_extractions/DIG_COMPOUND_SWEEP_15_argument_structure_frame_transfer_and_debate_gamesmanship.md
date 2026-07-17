@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ reviewed (conceptual-consolidation + tier-repair overlays binding; **8-family forecast held 8/8 at Stage 2 — and for the first time in three digs the extractor did NOT drop the central family**); Stage-3 output pasted, review pending; Stage 4 pending
+**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ reviewed; **Stage 3 closed through the archive's SEVENTH full self-correction cycle** (third consecutive Stage-3 cycle; original output SUPERSEDED — extraction products cited as availability evidence again, one A3→A1, the escalation self-contribution omission added); final ledger **4 A2 (all Nova-side — a first) · 6 A3 · 19 A1**; **A2 case law refined: no proof of conscious refusal required**; ACCEPTED — READY FOR STAGE 4; ⚠️ **corrected Stage-3 reissue OWED (not yet pasted — see the filing notice in the Stage-3 review block)**; Stage 4 pending
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** straw-manning and intent (structure ≠ psychology ≠ culpability); the divine-command hypothetical and frame transfer; suffering as signal vs foundation; behavioral tallying of Grant (motive firewall); retained knowledge and the differential-equation analogy; weak examples and gamesmanship (the Epstein-related dispute); AI-assisted cognition and agency; religion as coordination (aux); trickster escalation (Z-DIRECT) — ⚠️ **G-REPORTED-only packet: DIRECT GRANT CORPUS = NONE** (the reported ceiling returns after three G-DIRECT packets)
@@ -3254,6 +3254,99 @@ X-CONTEXT NOTICES
 * Sorta/utilitarianism discussion — date `UNKNOWN` — suffering and moral grounding.
 * Epstein-related “jerky” discussion — date `UNKNOWN` — weak example and later stronger evidence.
 
+
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17) — REPAIR ORDER + FINAL ACCEPTANCE
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — seventh full self-correction cycle** (third
+> consecutive dig with a Stage-3 cycle). The Stage-3 output ABOVE is
+> **SUPERSEDED** — retained as pasted; nothing in it may be used
+> downstream except through the correction chain summarized here.
+> Chain: superseded output → repair order → operator-issued STAGE 3
+> AVAILABILITY AND COVERAGE REPAIR command (condensed here; verbatim
+> in the field-desk relay) → corrected reissue → final acceptance.
+>
+> **⚠️ FILING NOTICE — OWED OUTPUT:** the corrected Stage-3 reissue
+> (the extractor's repaired output, which the acceptance below
+> reviews) has NOT yet been pasted into this workbook. When
+> available, paste it under a "### ⏬ STAGE 3 CORRECTED OUTPUT
+> (governing record)" header directly above this block; this notice
+> then flips to ✅ resolved.
+
+**REPAIR-ORDER VERDICT: PASS WITH MAJOR AVAILABILITY AND COVERAGE
+REPAIRS — DO NOT PROCEED TO STAGE 4 YET; no rerun of Stages 1–2.**
+Strong counterevidence work; all Grant claims correctly below
+threshold — but: **extraction products used as historical-availability
+evidence again** (SWEEP_14's case law violated in the very next dig);
+one A3 → A1 (conceptual-label discrimination — *neighboring
+conceptual skill is insufficient for A3*); one A3 evidence-basis
+repair (Nova's conditionalization of Grant diagnoses re-anchored to
+the original conversation's own conditional language — "If he's
+forcing you into one rigid version…" — never to the extraction's
+G-REPORTED ledger); the **self-contribution omission was missing**
+and enters as A3 (Ziggy's deliberate escalation omitted from the
+causal account of the adversarial environment — the co-production
+symmetry test lands as a confirmed omission); the
+epistemic-responsibility middle tier added (A1); Grant-model
+disconfirmation conditions added (A1 — a completion requirement for
+the *Ziggy–Nova model*, never a Grant omission);
+**Support-Token–Thesis Separation formalized with three simultaneous
+burdens** (Ziggy bore the initial support burden; example-defeat ≠
+thesis-defeat; gamesmanship needs knowledge + obligation +
+total-defeat overclaiming evidence); the AI audit expanded
+(comprehension / verification / provenance beyond agency); Stage-2
+consolidation restored (Bridge-Demand stays a submove; the
+eight-family architecture governs).
+
+**⚖️ A2 CASE-LAW REFINEMENT:** *A2 does not require proof of
+conscious refusal* — explicitly supplied, requested, or made salient
+at the relevant point and then left incomplete, redirected, or
+bypassed suffices. **The four A2 omissions are all Nova-side**
+(a first): structure-vs-intent separation bypassed after Ziggy
+supplied it; behavioral logging answered with de-escalation and
+moral-relational framing; the explicitly requested Don Juan/warrior
+framework initially displaced by generic moderation language; the
+clarification-vs-revision-vs-accommodation comparison left
+incomplete. Non-blocking note carried to Stage 4: the warrior-frame
+A2 is an *assistant-role and framing omission*, not a new
+philosophical operator.
+
+**📋 FINAL LEDGERS (accepted):** **4 A2 · 6 A3 · 19 A1 · A0
+preserved without adverse inference.** The six A3s: motive suspension
+dropped during the gamesmanship inference; Nova's own motive caution
+unapplied before endorsing "debate gamesmanship"; Nova's inconsistent
+conditionalization of Grant diagnoses; structure/psychology
+recombined when inferring opponents' desire to win; the
+weak-presentation burden not sustained; **the escalation
+self-contribution omission**. The A3 ledger is properly actor-scoped
+and no longer cites extraction commentary as historical evidence.
+
+**✅ FINAL ACCEPTANCE: ACCEPTED — STAGE 3 COMPLETE AFTER AVAILABILITY
+AND COVERAGE REPAIR; READY FOR STAGE 4; Stages 1–2 need no further
+repair.** The eight families + two cross-cutting methods govern the
+Stage-4 mapping; the fifteen-item restriction set carries forward
+verbatim (no G-REPORTED→G-DIRECT; no stable Grant operator; no
+misrepresentation→deception; no hypothetical-participation→actual
+commitment; no retrieval-failure→dishonesty; no
+weak-example-defeat→thesis-defeat; no behavioral-prediction→motive;
+no unconscious-possibility→established motive; no active-AI-use→
+comprehension; no assistant-vocabulary→established diagnosis; no
+role/identity/escalation/value material as operators; and the rest).
+
+**🎯 The stable central prey:** Ziggy's strongest discipline is
+separating public argumentative structure from private psychology and
+keeping hypothetical commitments from leaking into actual
+attribution. Its failure mode appears when fallacy clusters replace
+reconstruction, behavioral evidence becomes motive evidence,
+weak-form rebuttal becomes gamesmanship, or **his own deliberate
+escalation disappears from the causal account**. Nova's parallel
+danger: converting conceptual understanding of Ziggy into evidential
+endorsement of claims about an absent Grant.
 
 ---
 
