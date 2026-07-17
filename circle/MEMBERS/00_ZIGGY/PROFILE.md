@@ -201,6 +201,24 @@ criticism-return and reciprocity conditions were never stated
 (A3-5/A3-6); the function-sense split, demonstrated for "reason," went
 unused for "function" (A3-4).
 
+**The faith-and-action layer (SWEEP_13 — the architecture meets
+practical commitment):** four packet-local seeds carry the audit into
+belief–action territory (concept–label–sense separation with functional
+reframing and disambiguation rescue; belief/action boundary pressure;
+model-as-tool / frame-jurisdiction questioning; local scope testing —
+ruled NO MATCH, structurally adjacent to Symmetry Testing of
+Standards), and **Possibility Preservation gains its third instance as
+the packet's strongest named registry match** (God kept in the option
+set; the raffle) — now permanently chained: *possibility ≠ plausibility
+≠ live option ≠ warranted belief*, impartial application unknown. The
+sweep's closing discipline binds this whole ledger: **completed audit
+architecture ≠ demonstrated actor behavior** — the dig's ten confirmed
+A3 omissions belong to Nova or the co-constructed conversation unless
+Ziggy separately performs them. His best packet-local result stands
+narrow and real: *evidence and credence do not by themselves determine
+action* — with the label question (what extra explanatory work does
+"faith" do?) left open where it belongs (IT-095/IT-100).
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
@@ -213,7 +231,13 @@ confirmed A3 — the strongest Ziggy-directed omission of that packet);
 **frame recursion without a completed stopping rule** (SWEEP_06, confirmed
 A3); **own foundation escaped equal reflexive pressure** (AUX_07,
 confirmed A3 — "how does prediction validate itself?" was asked; "how does
-logic validate itself? why must axioms be first?" were not). Candidate
+logic validate itself? why must axioms be first?" were not);
+**the true-by-stipulation risk on functional reframing** (SWEEP_13 —
+everyone-has-faith made true by definition rather than discovery; the
+frozen-conditions test is the repair); **the error-concession /
+core-preservation loop's standing question** (SWEEP_13, co-constructed
+with Nova — after local concessions, was the surviving thesis
+independently re-established or merely declared intact?). Candidate
 charter theme "over-generation / insufficient pruning" has not yet been
 directly tested — the opening research question stands.
 

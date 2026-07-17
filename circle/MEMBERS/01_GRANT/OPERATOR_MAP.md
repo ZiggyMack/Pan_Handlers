@@ -3,12 +3,13 @@
 **Last reviewed:** 2026-07-17 · **Observers:** Ziggy (hypotheses), Nova (field desk), P.H. Claude (structure)
 
 > All eight operators below are lexicon entries CO-001…CO-008, registered at 🔴 RED.
-> **Evidence status (updated 2026-07-17):** G-001 (reported ceiling) and now
-> ⭐ **G-002 (first G-DIRECT source)** are filed — and between them they support
-> **none of CO-001…CO-008**. Field-desk rulings across eighteen digs have
-> *blocked* every attempted pathology mapping; G-002's direct material shows
-> the opposite profile: **disciplined epistemic standards** (see the
-> packet-local ledger below). The Threshold-to-Character Escalation
+> **Evidence status (updated 2026-07-17):** G-001 (reported ceiling) plus
+> ⭐ **G-002 and G-003 (the two G-DIRECT sources)** are filed — and among them
+> they support **none of CO-001…CO-008**. Field-desk rulings across nineteen
+> digs have *blocked* every attempted pathology mapping — SWEEP_13 withheld
+> all eight negative candidates yet again — while the direct material keeps
+> showing the opposite profile: **disciplined epistemic standards and direct
+> testing** (see the packet-local ledger below). The Threshold-to-Character Escalation
 > hypothesis (unjustified→lying — CO-008-adjacent) is **QUARANTINED**: the
 > direct evidence supports temporal and individualization claims, never the
 > escalation rule; his actual inference may run through *pattern +
@@ -16,17 +17,26 @@
 > is itself the current finding.** Grant is a *reported epistemic-standard
 > advocate*, not a "gatekeeper." Definitions: `../../OPERATOR_LEXICON.md`.
 
-## D0. ⭐ Packet-Local G-DIRECT Ledger (SWEEP_12 — first direct entries)
+## D0. ⭐ Packet-Local G-DIRECT Ledger (SWEEP_12 + SWEEP_13 — direct entries)
 
-> Narrow local positions from G-002's screenshots; the QC restriction
-> binds: *no broad personality trait promotes from one packet*, and
-> completed audit families ≠ demonstrated actor operators.
+> Narrow local positions from G-002's and G-003's screenshots; the QC
+> restriction binds: *no broad personality trait promotes from one
+> packet*, and completed audit families ≠ demonstrated actor operators.
 
 | Seed | Evidence | Notes |
 | --- | --- | --- |
 | **Contemporaneous-Basis Insistence** | G-DIRECT (G-002) · HIGH locally | the evidential basis operative *when the accusation was made* is what counts; later rationales don't retroactively justify — kin to the archive's own pre-defeat centrality record (SW08) |
 | **Individualized-Evidence Insistence** | G-DIRECT (G-002) · HIGH locally | population correlation alone never justifies accusing a particular person — kin to SW09's Population-to-Individual Transfer Audit |
 | **Pattern Evidence About the Accuser** | G-DIRECT (G-002) · HIGH that the move was made | Gavin's reported history treated as a differentiator bearing on the *accuser's process*, never the accused's traits; the pattern's truth and interpretation unresolved |
+| **Historical Attribution Testing** | G-DIRECT (G-003) · HIGH locally | the alleged Hume "second definition" of faith challenged head-on — conceded, synthesis re-filed CO-CONSTRUCTED; the aftermath is guarded by the authority-laundering caution (IT-099) |
+| **Definitional Extension Stress Testing** | G-DIRECT (G-003) · HIGH locally | the son-height prediction (with spoiled milk) as an extension test of faith-as-uncertain-action — a legitimate overbreadth probe; whether the repair it forced was principled or ad hoc stays UNKNOWN (IT-093) |
+
+*Also filed from SWEEP_13 at **G-REPORTED** (reported ceiling — not part
+of this direct ledger): terminological restraint concerning "faith" —
+Grant's reported refusal to let clarification alone rescue the word,
+including its communicative-cost rationale (IT-095). And ruled UNCLEAR:
+his External-AI Adjudication Attempt's function (argument, evidence,
+authority, summary, or rhetoric — never pre-labeled as deference).*
 
 ## D. Recurring Operators
 

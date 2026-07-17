@@ -35,7 +35,7 @@
 
 | Candidate | Instances | Sources | Notes |
 | --- | --- | --- | --- |
-| Possibility Preservation | 2 (thread-level) | AUX_03, AUX_04 | field desk: the regulatory consequence of CO-012+CO-013 — *fix the actual exclusion boundary → preserve everything outside it*; reciprocal constraint = CO-011 |
+| **Possibility Preservation** | **3 (2 thread-level + 1 sweep — SW13's strongest named registry match)** | AUX_03, AUX_04, SWEEP_13 (God kept in the option set; the raffle) | field desk: the regulatory consequence of CO-012+CO-013 — *fix the actual exclusion boundary → preserve everything outside it*; reciprocal constraint = CO-011; SW13's restriction chain permanent: *possibility ≠ plausibility ≠ live option ≠ warranted belief*, impartial application unknown (IT-096) |
 | Framework Transplant | 1 strong (sweep) | SWEEP_03 | retain-RED high confidence; fidelity condition attached |
 | Constraint-Exhaustion Stress Test | 1 strong (sweep) | SWEEP_03 | 8-substep sequence; purpose = constraint discovery |
 | Scope-Controlled Concession | 1 (sweep) | SWEEP_03 | framework-shopping failure condition attached |
@@ -100,6 +100,10 @@
 | Structural Symmetry w/ Comparative Reopening | **2 (sweep)** | SWEEP_04, SWEEP_05 ("symmetry under explicit invariants") | disclosure equality only, never parity; *sometimes initially overextends the result* (SW05: law/religion equivalence narrowed to selected variables) |
 | Frame Seeding by Analogy | recurrent (style) | SW04, SW05 + throughout | mapping/transfer/implications supported; disanalogy-auditing uneven — profile-worthiness gated on that (SW05 reconfirms: "uneven disanalogy control") |
 | Adversarial Relay Coordination | protocol | SWEEP_04 | deliberately recruits external models against emerging consensus — research-method ledger |
+| Concept–Label–Sense Separation (w/ Functional Reframing + Disambiguation Rescue) | 1 strong (sweep, ⭐ G-DIRECT packet) | SWEEP_13 | HIGH locally — separates concept, label, sense, and extension inside the faith dispute; restriction permanent: his Functional Reframing as formed = *his and Nova's proposed theory of faith* — the everyone-has-faith result is true by stipulation, never discovery (IT-093); the SW13 closure rule binds all SW13 rows: *completed audit architecture ≠ demonstrated actor behavior* |
+| Belief/Action Boundary Pressure | 1 strong (sweep) | SWEEP_13 | HIGH locally — presses that evidence rules may not exhaust action rules (belief threshold ≠ action threshold); the full separation arrived later as a co-constructed repair and is never backdated to him (conversation-level A3-1) |
+| Model-as-Tool / Frame-Jurisdiction Questioning | 1 strong (sweep) | SWEEP_13 | HIGH locally — frameworks held as provisional instruments plus "who owns the frame?" pressure; kin to Instrument ≠ Telos and Adjudication-Frame Audit (same-extractor caveat on all kinship) |
+| Local Scope Testing (Universalization Pressure) | 1 (sweep) | SWEEP_13 | HIGH locally — "Sometimes? Or all times?"; ruled **NO MATCH — structurally adjacent** to Symmetry Testing of Standards (a scope test reverses no roles and tests no reciprocal burdens); aggressive overgeneralization = live failure risk |
 
 ## E. Operator Sequences (hypothesis-grade)
 
