@@ -537,7 +537,14 @@ transformed the underlying recovery.
     dig operator (or a bounded second pass) verifies that the claim's anchor
     actually resolves inside the bounded thread. Anchors that don't resolve →
     claim demoted to quarantine.
-11. **Three independence dimensions (Nova, 2026-07-17)** — record each
+11. **Full-Museum crosswalk before registration (Nova, 2026-07-17):** the
+    candidate registry pasted into Stage 4 is deliberately limited, so Stage-4
+    `NEW` verdicts are **provisional**. Before any lexicon registration, the
+    filing pass crosswalks the finding against the complete Circle lexicon and
+    the Nyquist Museum (OP-001…019): *Stage-4 limited-registry mapping → full
+    Museum crosswalk → conservative filing decision.* A finding that overlaps
+    an existing operator files as an instance, not a new entry.
+12. **Three independence dimensions (Nova, 2026-07-17)** — record each
     separately on every recurrence claim:
     * **Source independence** — the finding appears in separate conversations.
     * **Extractor independence** — different models or memory conditions

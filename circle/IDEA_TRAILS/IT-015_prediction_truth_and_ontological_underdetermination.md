@@ -64,3 +64,54 @@ Cross-dig note: if confirmed, this is the second occurrence of the Ziggy-opens
 relationship-loop recurrence evidence, though **extractor independence is
 absent** (same memory-enabled Nova extracted both; see the protocol's
 independence dimensions).
+
+## Prediction Score — Stage 2 returned (2026-07-17, scored by P.H. Claude)
+
+All ten predicted move-families were blind-recovered under different names —
+the naming divergence with structural match is itself a small
+prompt-independence signal (the prediction was never shown to the extractor):
+
+| Predicted (pre-Stage-2) | Recovered blind (Stage 2) |
+| --- | --- |
+| Criterion Separation | Utility–Truth Decoupling + Two-Axis Separation |
+| Success-to-Truth Challenge | Criterion Challenge |
+| Historical Displacement Analogy | Historical-Reversal Analogy |
+| Low-Utility Truth Preservation | Possibility Preservation |
+| Mechanism Reopening | Alternative-Mechanism Search |
+| Distinction Stabilization | Two-Axis Separation |
+| Effective-Theory Reframing | Effective-Layer Reframing |
+| Constraint Restoration | Empirical-Burden Reassertion |
+| Speculation-Brake | Unconstrained-Depth Brake |
+| Conceptual Untangling | Domain Disentanglement |
+
+Relationship sequence (reopen → validate → formalize → brake): **CONFIRMED**
+at thread level (Stage 3 keeps it thread-specific). Unpredicted extras
+recovered: Candidate-Class Expansion, Emergence-by-Analogy (both judged
+role-induced/rhetorical at review). Field-desk calibration: two-for-two digs
+with near-perfect stage predictions.
+
+## Trail Center (adopted from Stage 3, 2026-07-17)
+
+> **"A theory can be operationally excellent without being ontologically
+> final, while ontological possibility alone does not establish comparative
+> warrant."**
+
+Avoiding both errors: *predictive success → ontology proven* and *ontology
+unrefuted → ontology warranted*. The unresolved middle: **what noncircular
+standards rank deeper ontologies?** Candidate discriminators (not
+conclusions): independent substrate evidence; derivation of the successful
+effective theory; unification across domains; causal-mechanical explanation;
+reduction of brute assumptions; novel retrodiction/prediction; structural
+necessity; explanatory compression with failure conditions.
+
+**The axis, resolved:** Ziggy protects **metaphysical possibility**; Nova
+regulates **epistemic entitlement** — the claims coexist ("a pressure-like
+ontology could be true" ∧ "we lack grounds to prefer it"). Cross-dig echo
+(hypothesis, same-extractor caveat): this is structurally the sweep's
+possibility-vs-plausibility axis from the Ziggy–Grant disputes — the circle's
+recurring fault line may be *admissibility vs entitlement*, with different
+interlocutors playing the entitlement pole.
+
+**Pre-Stage-4 mapping forecast** registered in the workbook's Stage-3
+field-desk block (scoreable); `NEW` verdicts remain provisional pending the
+**full-Museum crosswalk**.

@@ -1,6 +1,6 @@
 # DIG AUX 03 — Prediction, Ontology, and Effective Theories
 
-**Status:** STAGE 1 COMPLETE — field-desk PASS WITH ATTRIBUTION CORRECTION; STAGE 2 AUTHORIZED
+**Status:** STAGE 3 COMPLETE — field-desk PASS WITH AVAILABILITY DOWNGRADES; STAGE 4 AUTHORIZED (carry the three corrections)
 **Classification:** PARTIALLY QUALIFIED for Grant · QUALIFIED for Ziggy/Nova and the truth-versus-prediction idea trail
 **Bounded subject:** gravity as pressure/buoyancy/emergence → whether predictive success settles ontology
 **Protocol:** v0.2.2 Stage 1 (bounded; boundary confirmed) · **Extraction date:** 2026-07-17
@@ -755,7 +755,644 @@ Begin Stage 2 now.
 
 ### ⏬ STAGE 2 OUTPUT
 
-(paste Stage 2 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 2
+
+1. Museum-Blind Reasoning Moves
+
+### Move 1
+
+**Provisional neutral name:** Alternative-Mechanism Search
+**Actor:** Ziggy
+**Definition:** Searches for historically or scientifically serious models that redescribe an accepted phenomenon through a different causal mechanism.
+**Trigger:** Dissatisfaction with, or curiosity about, the accepted gravitational model.
+**Operation:** Asks whether gravity has been modeled through pressure differentials, buoyancy, or related processes rather than the dominant account.
+**Output:** A widened candidate space containing push, medium, fluid-like, induced, and emergent approaches.
+**Productive function:** Prevents the accepted model from monopolizing the ontology merely because it is dominant.
+**Failure mode:** Mechanistically dissimilar theories may be grouped together because they share only a loose analogy to pressure or emergence.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “What theories seriously tried and came close,” first original message.
+**Confidence:** High
+**Alternative explanation:** The question may be historical curiosity rather than an attempt to generate a live alternative ontology.
+
+**Classification defense:** This is more than a substantive belief because it performs a repeatable search operation: begin with an accepted account, identify an alternative mechanism class, and scan for serious candidates.
+
+---
+
+### Move 2
+
+**Provisional neutral name:** Candidate-Class Expansion
+**Actor:** Assistant
+**Definition:** Broadens a narrowly stated mechanism category into a larger family of theories connected by functional or structural resemblance.
+**Trigger:** Ziggy’s request for gravity theories based on pressure differentials or buoyancy.
+**Operation:** Expands from literal pressure models to ether, induced gravity, emergent gravity, superfluid-vacuum theories, and analogue gravity.
+**Output:** A larger conceptual field divided between literal mechanical models and emergent descriptions.
+**Productive function:** Reveals nearby theoretical territory that may preserve the original intuition without retaining its literal mechanics.
+**Failure mode:** Category inflation can blur decisive differences between physical pressure, effective stress, information gradients, elasticity, analogy, and mathematical resemblance.
+**Functional Type:** EXPLORATORY
+**Voluntariness:** PROMPT-INDUCED
+**Source Anchor:** Assistant, “This is actually a fascinating rabbit hole,” first assistant response.
+**Confidence:** High
+**Alternative explanation:** The assistant may simply be supplying examples rather than carrying out a distinct reasoning operation.
+
+**Classification defense:** This qualifies as a cognitive move because it transforms the search domain from a narrow literal category into a broader family organized by resemblance.
+
+---
+
+### Move 3
+
+**Provisional neutral name:** Empirical-Burden Reassertion
+**Actor:** Assistant
+**Definition:** Evaluates alternatives by requiring them to reproduce the established empirical successes of the dominant theory.
+**Trigger:** Presentation of alternative gravitational theories.
+**Operation:** Lists observations and predictions associated with General Relativity and treats reproduction of those results as the replacement threshold.
+**Output:** Most pressure- or buoyancy-based alternatives are downgraded despite conceptual appeal.
+**Productive function:** Prevents explanatory novelty from being mistaken for evidential parity.
+**Failure mode:** Predictive reproduction may be treated as though it settles deeper ontology rather than merely constraining viable models.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** ROLE-INDUCED
+**Source Anchor:** Assistant, “Any replacement has to reproduce every one of those successes,” late in the first assistant response.
+**Confidence:** High
+**Alternative explanation:** The assistant may be describing ordinary scientific practice rather than applying an independent reasoning move.
+
+**Classification defense:** It is not merely a belief that General Relativity is successful; it applies a general admission test to rivals.
+
+---
+
+### Move 4
+
+**Provisional neutral name:** Utility–Truth Decoupling
+**Actor:** Ziggy
+**Definition:** Separates a model’s practical, predictive, or calculational usefulness from its possible ontological truth.
+**Trigger:** The assistant’s emphasis on the accepted model’s predictive successes.
+**Operation:** Proposes that what is most true might perform less work and asks why predictive success should determine which model is more correct.
+**Output:** The debate shifts from comparative scientific performance to the relation between empirical success and truth.
+**Productive function:** Exposes an unargued transition from “works better” to “is more real.”
+**Failure mode:** The move can leave “more true” without any usable discrimination criterion.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “it’s possible for what is most true to do the least amount of work for us,” second original message.
+**Confidence:** High
+**Alternative explanation:** Ziggy may only be asking about logical possibility, not endorsing a general separation between truth and predictive success.
+
+**Classification defense:** This is a consequential transformation of the governing comparison standard, not merely a belief about gravity.
+
+---
+
+### Move 5
+
+**Provisional neutral name:** Criterion Challenge
+**Actor:** Ziggy
+**Definition:** Questions whether the currently used success criterion has the authority to decide the disputed issue.
+**Trigger:** Reliance on General Relativity’s predictive achievements.
+**Operation:** Asks, “Why hinge on those predictive successes … can it be proven or not?”
+**Output:** Predictive success itself becomes an object of evaluation rather than an unquestioned standard.
+**Productive function:** Surfaces the hidden jurisdiction of the standard: whether it measures usefulness, warrant, truth, or proof.
+**Failure mode:** The demand for “proof” may invoke an undefined or impossible standard for empirical science.
+**Functional Type:** EVALUATIVE
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “Why hinge on those predictive successes,” early in the second original message.
+**Confidence:** High
+**Alternative explanation:** The wording may express frustration rather than a stable criterion-testing procedure.
+
+**Classification defense:** This qualifies because it targets the authority and scope of an evaluative rule, rather than merely rejecting the conclusion reached under it.
+
+---
+
+### Move 6
+
+**Provisional neutral name:** Possibility Preservation
+**Actor:** Ziggy
+**Definition:** Keeps open an ontology that has not been shown impossible, even when it underperforms operationally.
+**Trigger:** The apparent dismissal of less predictive gravity alternatives.
+**Operation:** Asks who can rule out the possibility that a pressure-based account is more correct but less usable.
+**Output:** The rejected candidate remains live at the level of metaphysical possibility.
+**Productive function:** Prevents empirical underdevelopment from being silently converted into ontological impossibility.
+**Failure mode:** Mere non-refutation can become indefinite insulation from evidential pressure.
+**Functional Type:** REGULATORY / INHIBITORY
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “Who’s to say that’s not the more correct model,” middle of the second original message.
+**Confidence:** High
+**Alternative explanation:** This may be a one-time skeptical reaction rather than a reusable operation.
+
+**Classification defense:** The move regulates inference by blocking a specific transition: lower utility or lower predictive development does not entail falsity.
+
+---
+
+### Move 7
+
+**Provisional neutral name:** Historical-Reversal Analogy
+**Actor:** Ziggy
+**Definition:** Uses a past theory transition to weaken confidence that present dominance tracks final truth.
+**Trigger:** The accepted model’s apparent authority.
+**Operation:** Invokes a rough analogy to the transition to heliocentrism.
+**Output:** Current theoretical dominance is reframed as potentially provisional.
+**Productive function:** Reminds the discussion that successful or entrenched frameworks can later be reinterpreted or displaced.
+**Failure mode:** The historical analogy may be too imprecise to establish parity with the current gravity dispute.
+**Functional Type:** RHETORICAL
+**Voluntariness:** VOLUNTARY
+**Source Anchor:** Ziggy, “Like what happened switching to the heliosphere or something,” middle of the second original message.
+**Confidence:** Medium
+**Alternative explanation:** Ziggy may simply be searching for an example rather than deploying a deliberate historical argument.
+
+**Classification defense:** It is better classified as rhetorical than as a substantive operator because the analogy is undeveloped and performs persuasion more than a precise inferential transformation.
+
+---
+
+### Move 8
+
+**Provisional neutral name:** Two-Axis Separation
+**Actor:** Assistant
+**Definition:** Replaces a single ranking of theories with separate dimensions for instrumental performance and ontological truth.
+**Trigger:** Ziggy’s utility–truth challenge.
+**Operation:** Distinguishes “Which model is more instrumentally useful?” from “Which ontology is actually true?”
+**Output:** The dominant model can score highly on prediction while remaining metaphysically nonfinal.
+**Productive function:** Prevents a category mistake between successful representation and ultimate ontology.
+**Failure mode:** The second axis may remain inaccessible or unconstrained, producing a formal distinction without an evidential procedure.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** PROMPT-INDUCED
+**Source Anchor:** Assistant, “Which model is more instrumentally useful? Which ontology is actually true?” opening of the final assistant response.
+**Confidence:** High
+**Alternative explanation:** The assistant may simply be paraphrasing Ziggy’s concern rather than introducing a distinct move.
+
+**Classification defense:** It changes the structure of comparison from one scale to two independently assessable dimensions.
+
+---
+
+### Move 9
+
+**Provisional neutral name:** Effective-Layer Reframing
+**Actor:** Assistant
+**Definition:** Reinterprets an apparently competing theory as a valid higher-level description generated by a deeper substrate.
+**Trigger:** Ziggy’s suggestion that a less usable pressure model might be more correct.
+**Operation:** Proposes that General Relativity could be a superb effective theory while a pressure-, elasticity-, information-, or substrate-based account is more fundamental.
+**Output:** The theories no longer need to be straightforward rivals; one may emerge from the other.
+**Productive function:** Preserves the empirical achievements of the accepted theory while allowing ontological revision.
+**Failure mode:** The deeper theory may gain compatibility by merely promising to reproduce the successful theory without actually deriving it.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** PROMPT-INDUCED
+**Source Anchor:** Assistant, “General Relativity is merely a superb effective theory,” early-middle of the final assistant response.
+**Confidence:** High
+**Alternative explanation:** This may be a substantive hypothesis rather than a general reasoning operator.
+
+**Classification defense:** It is operator-like because it systematically converts replacement conflicts into layered-description relations.
+
+---
+
+### Move 10
+
+**Provisional neutral name:** Unconstrained-Depth Brake
+**Actor:** Assistant
+**Definition:** Blocks the inference that a model’s reduced predictive content or hiddenness is evidence of greater truth.
+**Trigger:** Utility–truth decoupling and possibility preservation.
+**Operation:** Notes that infinitely many deeper mechanisms could be invented unless further constraints are imposed.
+**Output:** Ontological possibility is retained, but evidential entitlement is restricted.
+**Productive function:** Prevents speculative depth from becoming self-validating.
+**Failure mode:** The brake may quietly restore predictive supremacy if no other standards of ontological comparison are admitted.
+**Functional Type:** REGULATORY / INHIBITORY
+**Voluntariness:** ROLE-INDUCED
+**Source Anchor:** Assistant, “A theory that predicts less isn’t automatically more true,” middle of the final assistant response.
+**Confidence:** High
+**Alternative explanation:** This may be a local objection rather than a reusable regulatory move.
+
+**Classification defense:** It regulates what may be inferred from underdetermination; it does not itself choose a theory.
+
+---
+
+### Move 11
+
+**Provisional neutral name:** Domain Disentanglement
+**Actor:** Assistant
+**Definition:** Separates concepts that are associated in ordinary language but belong to distinct theoretical roles.
+**Trigger:** Ziggy’s question linking the absence of a required graviton with the particle produced at the LHC.
+**Operation:** Distinguishes Higgs boson, inertial mass, gravitational sourcing, and the hypothetical graviton.
+**Output:** The apparent conflict dissolves because the LHC discovery does not establish a graviton.
+**Productive function:** Removes a false dependency generated by conceptual conflation.
+**Failure mode:** The clarification can terminate inquiry before addressing why mass, energy, Higgs coupling, and gravity remain intuitively linked.
+**Functional Type:** TRANSFORMATIVE
+**Voluntariness:** PROMPT-INDUCED
+**Source Anchor:** Assistant, “The LHC has not detected a graviton,” second half of the final assistant response.
+**Confidence:** High
+**Alternative explanation:** This may be ordinary factual correction rather than a general cognitive operator.
+
+**Classification defense:** It qualifies because the operation is reusable: identify an apparent contradiction, separate the domains, and test whether the contradiction survives.
+
+---
+
+### Move 12
+
+**Provisional neutral name:** Emergence-by-Analogy
+**Actor:** Assistant
+**Definition:** Explains a possibly nonfundamental phenomenon by analogy with collective properties such as sound, temperature, pressure, or elasticity.
+**Trigger:** Need to explain how gravity could exist without a fundamental graviton.
+**Operation:** Compares gravity to sound emerging from collective microscopic behavior.
+**Output:** A conceptual model in which gravitational behavior exists without requiring a fundamental gravity particle.
+**Productive function:** Makes emergence intelligible without presupposing the disputed microscopic ontology.
+**Failure mode:** Analogy can be mistaken for mechanism or evidence.
+**Functional Type:** RHETORICAL
+**Voluntariness:** ROLE-INDUCED
+**Source Anchor:** Assistant, “Think of sound,” late in the final assistant response.
+**Confidence:** High
+**Alternative explanation:** The comparison may be purely pedagogical and not part of the underlying reasoning.
+
+**Classification defense:** The move primarily aids comprehension and persuasion; it does not independently establish emergent gravity.
+
+2. Operator Sequences
+
+### Sequence A: Alternative search → class expansion → empirical filtering
+
+1. Ziggy initiates an **Alternative-Mechanism Search**.
+2. The assistant performs **Candidate-Class Expansion**.
+3. The assistant applies **Empirical-Burden Reassertion**.
+4. Literal pressure and buoyancy accounts are treated as attractive but insufficient replacements.
+5. Emergent approaches remain comparatively live because they may preserve the accepted equations at a higher level.
+
+**Output of sequence:** The initial alternative ontology is admitted into discussion but subordinated to the requirement that it reproduce established gravitational results.
+
+**Confidence:** High
+
+---
+
+### Sequence B: Predictive emphasis → utility–truth challenge → criterion dispute
+
+1. The assistant foregrounds General Relativity’s predictive successes.
+2. Ziggy performs **Utility–Truth Decoupling**.
+3. Ziggy applies a **Criterion Challenge** to predictive success.
+4. Ziggy adds **Possibility Preservation**, preventing lower utility from entailing ontological defeat.
+5. Ziggy reinforces the challenge through a **Historical-Reversal Analogy**.
+
+**Output of sequence:** The dispute migrates from physics-content comparison to philosophy-of-science jurisdiction.
+
+**Confidence:** High
+
+---
+
+### Sequence C: Two-axis separation → layered reconciliation → speculative constraint
+
+1. The assistant accepts Ziggy’s distinction through **Two-Axis Separation**.
+2. The assistant performs **Effective-Layer Reframing**, allowing General Relativity to remain operationally valid but nonfundamental.
+3. The assistant introduces the **Unconstrained-Depth Brake**.
+4. The conversation arrives at an unresolved middle position:
+
+   * predictive success does not prove ontology;
+   * ontological possibility does not establish warrant;
+   * a deeper theory must be constrained somehow.
+
+**Output of sequence:** Neither predictive success nor metaphysical possibility receives total authority.
+
+**Confidence:** High
+
+---
+
+### Sequence D: Apparent empirical contradiction → conceptual separation → emergent analogy
+
+1. Ziggy asks whether an LHC particle conflicts with graviton-free gravity.
+2. The assistant performs **Domain Disentanglement**.
+3. The apparent Higgs–graviton equivalence is rejected.
+4. The assistant uses **Emergence-by-Analogy** to show how gravity could exist without a fundamental mediator.
+
+**Output of sequence:** The empirical objection is dissolved and replaced by a conceptual model of collective gravitational behavior.
+
+**Confidence:** High
+
+3. Offense/Defense Analysis
+
+### Ziggy on offense
+
+Ziggy attacks the governing standard rather than attempting to outperform General Relativity on its own predictive terrain.
+
+His offensive pattern is:
+
+1. identify a candidate ontology excluded by current practice;
+2. question whether the exclusion criterion measures truth or only usefulness;
+3. preserve the candidate as possible unless impossibility has been demonstrated;
+4. invoke historical fallibility to weaken present-model authority.
+
+This is strategically significant because it avoids accepting the burden:
+
+> “Predict everything General Relativity predicts before the alternative can even be ontologically considered.”
+
+Instead, Ziggy asks whether that burden is itself jurisdictionally legitimate.
+
+**Primary offensive moves:**
+
+* Utility–Truth Decoupling
+* Criterion Challenge
+* Possibility Preservation
+* Historical-Reversal Analogy
+
+**Strength:** Exposes that predictive superiority and ontological truth are not deductively identical.
+
+**Weakness:** Does not yet supply a positive method for ranking hidden ontologies.
+
+---
+
+### Ziggy on defense
+
+Ziggy’s defense consists mainly of protecting logical and ontological possibility.
+
+He does not defend a developed pressure-gravity theory. He defends the weaker claim that such a theory might be more correct despite doing less operational work.
+
+This lowers the evidential burden but also lowers the positive content of the defended position.
+
+**Defensive success:** The assistant concedes that General Relativity could be effective rather than fundamental.
+
+**Defensive vulnerability:** The possibility can be preserved indefinitely unless Ziggy specifies what would count as support, defeat, or comparative advantage.
+
+---
+
+### Assistant on offense
+
+The assistant’s offensive role appears when it challenges unconstrained metaphysical depth.
+
+Its pattern is:
+
+1. grant the logical distinction between truth and usefulness;
+2. allow a deeper ontology;
+3. demand some additional explanatory or empirical purchase;
+4. reject the inference from “less predictive” to “more true.”
+
+This does not directly prove General Relativity’s ontology. It attacks the entitlement of an alternative ontology.
+
+**Primary offensive moves:**
+
+* Empirical-Burden Reassertion
+* Unconstrained-Depth Brake
+* Domain Disentanglement
+
+**Strength:** Prevents possibility from being treated as evidence.
+
+**Weakness:** Risks reinstalling predictive success as the only meaningful evidential currency after verbally conceding that truth and prediction differ.
+
+---
+
+### Assistant on defense
+
+The assistant defends the accepted model more modestly than absolutely.
+
+It does not claim that General Relativity is the final ontology. It defends:
+
+* its status as the best-supported effective description;
+* its accumulated predictive burden;
+* the requirement that alternatives explain why it works.
+
+This is a layered defense rather than a realism defense.
+
+**Defensive success:** Preserves General Relativity’s authority without claiming ontological proof.
+
+**Defensive vulnerability:** The assistant does not establish why reproduction of predictions is the correct threshold for judging deeper ontology, rather than merely effective-theory adequacy.
+
+---
+
+### Asymmetry between the two sides
+
+Ziggy is defending a possibility claim:
+
+> A less useful theory might be more true.
+
+The assistant is defending a warrant claim:
+
+> We are not entitled to prefer that theory without further constraints.
+
+These are not direct contradictories.
+
+Both can be true simultaneously.
+
+The apparent disagreement persists because the actors are answering different questions:
+
+* Ziggy: What remains metaphysically possible?
+* Assistant: What are we justified in preferring?
+
+This is the principal offense/defense asymmetry in the thread.
+
+4. Role-Induced Behaviors
+
+### Assistant as scientific explainer
+
+**Behavior:** Supplies historical examples, classifications, empirical benchmarks, and conceptual corrections.
+
+**Inducing role:** The initial user request asks for theories and the later question asks for particle clarification.
+
+**Effects:**
+
+* increases informational breadth;
+* imposes conventional scientific viability standards;
+* introduces authoritative factual framing;
+* risks overexpanding beyond the exact pressure/buoyancy category.
+
+**Source anchors:** “The major ones are”; “Why General Relativity won”; “The LHC has not detected a graviton.”
+
+**Confidence:** High
+
+---
+
+### Assistant as epistemic moderator
+
+**Behavior:** Concedes the logical possibility of deeper ontology while limiting the inferential consequences of that concession.
+
+**Inducing role:** Ziggy challenges the standard of predictive success.
+
+**Effects:**
+
+* keeps the discussion from collapsing into either naïve realism or unconstrained speculation;
+* produces a compromise structure;
+* may smooth over unresolved conflict by declaring both levels valid.
+
+**Source anchors:** “Those are not necessarily the same question”; “A theory that predicts less isn’t automatically more true.”
+
+**Confidence:** High
+
+---
+
+### Ziggy as framework challenger
+
+**Behavior:** Refuses to let the assistant’s scientific explanation set the final jurisdiction of truth.
+
+**Inducing role:** Self-selected; not imposed by the prompt.
+
+**Effects:**
+
+* moves the discussion from theory cataloguing to criterion analysis;
+* attacks hidden assumptions in the assistant’s ranking method;
+* preserves excluded possibilities.
+
+**Source anchors:** “Why hinge on those predictive successes”; “Who’s to say that’s not the more correct model.”
+
+**Confidence:** High
+
+---
+
+### Ziggy as speculative bridge-builder
+
+**Behavior:** Connects pressure-based gravity, theory change, truth-versus-usefulness, and particle ontology in one line of inquiry.
+
+**Inducing role:** Self-selected exploratory style.
+
+**Effects:**
+
+* creates novel conceptual links;
+* exposes possible hidden dependencies;
+* can also create conflations, as with Higgs and graviton.
+
+**Source anchors:** Entire second original message, especially transition from historical analogy to the LHC question.
+
+**Confidence:** Medium-high
+
+5. Relationship-Level Loops
+
+### Loop 1: Expansion → constraint → jurisdiction challenge → qualified concession
+
+1. Ziggy opens a speculative possibility.
+2. The assistant expands and explains it.
+3. The assistant constrains it using accepted scientific standards.
+4. Ziggy challenges the authority or scope of those standards.
+5. The assistant concedes the philosophical distinction.
+6. The assistant installs a new limiting condition to prevent overreach.
+
+**Productive effect:** The discussion repeatedly reaches a more precise distinction than either party began with.
+
+**Risk:** The assistant may appear to concede Ziggy’s point while restoring nearly the same exclusion through a differently worded standard.
+
+**Confidence:** High
+
+---
+
+### Loop 2: Ziggy preserves possibility; assistant prices entitlement
+
+1. Ziggy asks whether an excluded ontology could still be true.
+2. The assistant says yes in principle.
+3. The assistant then distinguishes possibility from justified preference.
+4. Ziggy’s possibility survives, but its evidential status remains low.
+
+**Productive effect:** Separates metaphysical openness from epistemic endorsement.
+
+**Risk:** The loop can recur indefinitely because no shared rule is established for moving a possibility into warranted belief.
+
+**Confidence:** High
+
+---
+
+### Loop 3: Conceptual collision → assistant disentanglement
+
+1. Ziggy links nearby concepts whose relation is unclear.
+2. The assistant separates them into distinct theoretical functions.
+3. The collision yields a cleaner conceptual map.
+4. The underlying intuition motivating the link may remain only partly explored.
+
+The Higgs–graviton exchange is the clearest example.
+
+**Productive effect:** Rapid correction of category conflation.
+
+**Risk:** The assistant may solve the literal confusion without pursuing the deeper reason Ziggy grouped the concepts.
+
+**Confidence:** High
+
+---
+
+### Loop 4: Accepted model treated as both target and scaffold
+
+1. Ziggy questions whether the accepted model is ultimately true.
+2. The assistant allows that it may be nonfundamental.
+3. Both continue using its predictive structure as the benchmark any deeper account must explain.
+4. The challenged theory therefore remains the scaffold for evaluating its possible replacement.
+
+**Productive effect:** Avoids discarding accumulated knowledge during ontological revision.
+
+**Risk:** The dominant model may become structurally unfalsifiable at the framework level because all alternatives must first translate themselves into its terms.
+
+**Confidence:** Medium-high
+
+---
+
+### Loop 5: Shared refinement without full resolution
+
+Ziggy supplies the destabilizing intuition:
+
+> Truth may do less work.
+
+The assistant supplies the stabilizing constraint:
+
+> Doing less work is not evidence of greater truth.
+
+Together they produce the unresolved but sharper question:
+
+> What warrants belief in a deeper ontology when operational success and ontological truth are decoupled?
+
+This is best classified as a relationship-level co-construction, not an individual cognitive operator.
+
+**Confidence:** High
+
+6. Classification Uncertainties
+
+7. **Alternative-Mechanism Search** is evidenced only once in this short thread. Its classification as a reusable move is justified by its structured search form, but repetition within the bounded corpus is absent.
+
+8. **Historical-Reversal Analogy** is probably rhetorical rather than cognitive-transformative because the example is vague and does not carry a developed inference.
+
+9. **Emergence-by-Analogy** is pedagogical and rhetorical. It should not be treated as evidence for emergent gravity.
+
+10. **Effective-Layer Reframing** may be an assistant-generated substantive hypothesis rather than a stable operator. It was retained because it performs a recognizable transformation from rivalry to layered compatibility.
+
+11. The assistant’s **Empirical-Burden Reassertion** may reflect its explainer role and conventional scientific norms more than a voluntary reasoning choice.
+
+12. Ziggy’s **Possibility Preservation** could be either:
+
+    * a legitimate inhibition against overclaiming;
+    * or a one-time defense of a favored possibility.
+
+    The bounded thread cannot determine which.
+
+13. No repeated Grant behavior can be extracted. Grant appears only through assistant characterization, so no Grant-specific operator classification is warranted.
+
+14. The thread is too short to establish stable personality-level cognitive tendencies. The moves identified here belong to this interaction unless independently replicated elsewhere.
+
+15. The central disagreement may be partly verbal because “more true,” “proven,” “accepted model,” and “predictive success” remain undefined.
+
+16. Offense and defense are role-relative:
+
+    * Ziggy is offensive against the standard but defensive regarding the alternative ontology.
+    * The assistant is defensive regarding scientific warrant but offensive against unconstrained metaphysical entitlement.
+
+17. The bounded corpus does not establish whether either participant believes predictive success is necessary, sufficient, merely relevant, or only pragmatically useful for truth-tracking.
+
+18. No X-CONTEXT material was used in this extraction.
+
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable.
+
+**Verdict: PASS, with three pressure points — run Stage 3.** Strongest blind
+recoveries: Utility–Truth Decoupling; Criterion Challenge; Possibility
+Preservation; Two-Axis Separation; Effective-Layer Reframing;
+Unconstrained-Depth Brake; Domain Disentanglement. Central relational finding:
+**"Ziggy is asking what remains metaphysically possible, while Nova is asking
+what we are justified in preferring"** — they are not answering exact
+contradictories.
+
+**Stage 3 must attack:**
+
+1. Is "truth may do less work" a real insight or an **insulation device**? The
+   weak form (predictively superior ≠ deductively proven ontology) is valid;
+   the strong form (less useful may be more true) is empty without a positive
+   discriminator. Missing question: what observable/explanatory/structural/
+   causal feature would make the pressure ontology *comparatively preferable*,
+   not merely possible?
+2. Is Nova's concession substantive or cosmetic? "Prediction doesn't prove
+   ontology → but nothing counts unless it reproduces prediction" is not a
+   contradiction (necessary ≠ sufficient), but prediction's exact status is
+   unresolved.
+3. Loops built on two user turns are too strong — **"structurally
+   unfalsifiable at the framework level" is not yet earned**; safer version:
+   *the dominant model may become the mandatory translation scaffold for
+   alternatives, potentially biasing what replacements are considered
+   intelligible.*
+
+Counterevidence targets (both directions) and expected pruning registered; the
+pre-Stage-2 move prediction is scored in
+`../../IDEA_TRAILS/IT-015_prediction_truth_and_ontological_underdetermination.md`.
 
 ---
 
@@ -816,7 +1453,833 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+1. Confirmed Informative Omissions (A3/A2)
+
+### Omission 1: Explicitly clarifying the jurisdiction of predictive success
+
+**Actor:** Assistant
+
+**Relevant point:** After Ziggy asked, “Why hinge on those predictive successes,” the assistant distinguished usefulness from ontology but did not fully specify what predictive success is entitled to establish.
+
+**Source anchor:** Ziggy, “Why hinge on those predictive successes,” second original user message; assistant, “Which model is more instrumentally useful? Which ontology is actually true?” opening of the final assistant response.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:** The assistant did partially perform jurisdictional separation by distinguishing instrumental usefulness from ontological truth. The more precise move—stating exactly what predictive success licenses and what it does not—was therefore demonstrably available.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**What was omitted:** A direct formulation such as:
+
+* predictive success supports empirical adequacy;
+* sustained novel prediction may support increased confidence;
+* it does not deductively prove the ontology;
+* it constrains any deeper theory because that theory must explain the observed success;
+* it may not independently rank empirically equivalent ontologies.
+
+**Whether absence changed the outcome:** Yes. Without that explicit jurisdictional statement, the assistant appeared to concede the utility–truth distinction and then partly reinstall predictive success as the operative standard without fully explaining the transition.
+
+**Stable or situational:** Situational. The assistant showed the capacity to make the distinction but stopped before completing it.
+
+---
+
+### Omission 2: Applying the underconstraint concern symmetrically to the accepted model
+
+**Actor:** Assistant
+
+**Relevant point:** The assistant warned that infinitely many hidden mechanisms could be called “deeper,” but did not apply an equivalent underdetermination test to General Relativity’s ontology.
+
+**Source anchor:** Assistant, “A theory that predicts less isn’t automatically more true,” middle of the final assistant response.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:** The assistant had already distinguished the equations’ operational success from ontological truth. It therefore had the demonstrated conceptual resources to ask whether multiple ontologies might generate the same successful gravitational structure.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**What was omitted:** A symmetry check:
+
+> If speculative pressure ontologies are underconstrained by the observations, is the ontology commonly read into General Relativity also underconstrained?
+
+**Whether absence changed the outcome:** Yes. The asymmetry allowed speculative alternatives to be criticized for excess ontology while leaving the accepted framework’s metaphysical interpretation comparatively unpriced.
+
+**Stable or situational:** Situational within this thread. There is insufficient evidence to infer a stable asymmetric habit.
+
+---
+
+### Omission 3: Separating “unknown” from “false” in the theory survey
+
+**Actor:** Assistant
+
+**Relevant point:** In the initial survey, the assistant moved quickly from unresolved or incomplete status to statements that pressure or buoyancy theories had not cleared the required bar.
+
+**Source anchor:** Assistant, “none have become accepted because they either conflict with experiment or fail to reproduce General Relativity’s predictions,” opening of the first assistant response.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:** In the later response, the assistant explicitly allowed that General Relativity could be nonfundamental and that ontological truth remains unknown. The distinction between unsupported, incomplete, false, and unknown was therefore demonstrated as available.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**What was omitted:** A theory-by-theory status distinction among:
+
+* experimentally contradicted;
+* internally incomplete;
+* unable to recover known observations;
+* mathematically suggestive but not a full theory;
+* presently underdetermined;
+* conceptually analogous rather than literally pressure-based.
+
+**Whether absence changed the outcome:** Yes. The initial answer compressed heterogeneous failure statuses into a general impression that all such theories had been comparably defeated.
+
+**Stable or situational:** Situational, likely produced by the survey format.
+
+---
+
+### Omission 4: Reconstructing Ziggy’s strongest version before installing the speculative-depth brake
+
+**Actor:** Assistant
+
+**Relevant point:** Ziggy’s claim could be read as saying that operational success may underdetermine ontology. The assistant answered partly as though Ziggy were suggesting that lower predictive power itself indicates greater truth.
+
+**Source anchor:** Ziggy, “Who’s to say that’s not the more correct model … but just doesn’t let us use it the way we currently use the ‘wrong’ model”; assistant, “A theory that predicts less isn’t automatically more true.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:** The assistant had already reconstructed a strong version: “the pressure model is actually ontologically correct, but General Relativity is merely a superb effective theory.” It therefore demonstrated the ability to formulate Ziggy’s position charitably.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**What was omitted:** An explicit statement that Ziggy was not necessarily inferring:
+
+> less predictive → more true,
+
+but may instead have been arguing:
+
+> more predictive does not entail more ontologically true.
+
+**Whether absence changed the outcome:** Yes. The assistant’s brake answered a stronger and less defensible proposition than Ziggy clearly stated.
+
+**Stable or situational:** Situational. The assistant both reconstructed and partially distorted the position within the same response.
+
+2. Possible Informative Omissions (A1)
+
+### Omission 1: Asking what “more correct” means
+
+**Actor:** Assistant
+
+**Relevant point:** Ziggy repeatedly used truth-language, including “most true,” “more correct,” and “‘wrong’ model.”
+
+**Source anchor:** Ziggy, “what is most true”; “more correct model”; “‘wrong’ model,” second original user message.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**What was omitted:** Clarification of whether “more correct” meant:
+
+* more fundamental;
+* more causally accurate;
+* more literal;
+* more explanatorily unifying;
+* closer to mind-independent reality;
+* superior across all domains.
+
+**Whether absence changed the outcome:** Yes. The discussion proceeded as though “ontologically true” had a sufficiently stable meaning, when several importantly different claims were possible.
+
+**Stable or situational:** Situational. The compressed conversational style likely encouraged immediate engagement rather than terminological clarification.
+
+---
+
+### Omission 2: Asking what “proven” means in an empirical theory context
+
+**Actor:** Assistant
+
+**Relevant point:** Ziggy asked, “can it be proven or not.”
+
+**Source anchor:** Ziggy, “can it be proven or not,” second original user message.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**What was omitted:** A distinction between:
+
+* deductive proof;
+* empirical confirmation;
+* exclusion of alternatives;
+* derivation from deeper principles;
+* direct detection of mechanism;
+* inference to the best explanation.
+
+**Whether absence changed the outcome:** Yes. The assistant answered the broad concern but did not resolve whether Ziggy was demanding an unavailable form of certainty or a reasonable evidential demonstration.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 3: Testing the historical analogy rather than merely absorbing it
+
+**Actor:** Assistant
+
+**Relevant point:** Ziggy invoked “switching to the heliosphere or something,” apparently referring to heliocentrism.
+
+**Source anchor:** Ziggy, “Like what happened switching to the heliosphere or something.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**What was omitted:** A comparison of whether the proposed gravity shift resembles:
+
+* replacing a predictive framework;
+* reinterpreting the same observations;
+* moving from an effective theory to a deeper theory;
+* changing reference frames;
+* abandoning an ontology while preserving calculations.
+
+**Whether absence changed the outcome:** Moderately. The analogy helped motivate openness but remained too vague to support a specific conclusion.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 4: Temporarily granting a literal pressure ontology and tracing its consequences
+
+**Actor:** Assistant
+
+**Relevant point:** Ziggy asked whether pressure-based gravity could be more true despite being less useful.
+
+**Source anchor:** Ziggy, “Who’s to say that’s not the more correct model.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**What was omitted:** A disciplined conditional test:
+
+> Grant that gravity is fundamentally generated by pressure differentials. What else would follow? What must the medium be like? What would distinguish this ontology from curvature? What observations could remain unchanged, and what novel consequences might appear?
+
+**Whether absence changed the outcome:** Yes. The exchange remained mostly at the level of permission to believe rather than implications of the proposed ontology.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 5: Asking what explanatory function the pressure picture serves
+
+**Actor:** Assistant
+
+**Relevant point:** The assistant noted that pressure-based gravity is intuitive but did not deeply investigate why Ziggy found it ontologically attractive.
+
+**Source anchor:** First assistant response, “Why the idea is so attractive”; Ziggy’s continued defense in the second user message.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**What was omitted:** Examination of whether the pressure model offers:
+
+* mechanical intelligibility;
+* contact causation;
+* elimination of action at a distance;
+* unification with fluid behavior;
+* a substrate for emergence;
+* relief from treating spacetime geometry as causal.
+
+**Whether absence changed the outcome:** Yes. The underlying explanatory demand remained implicit, so the conversation focused on theory ranking more than on what problem the alternative was trying to solve.
+
+**Stable or situational:** Situational.
+
+---
+
+### Omission 6: Reversing the burden
+
+**Actor:** Ziggy
+
+**Relevant point:** Ziggy challenged prediction as a truth criterion but did not ask the accepted ontology to positively establish its own metaphysical interpretation.
+
+**Source anchor:** Ziggy, “Why hinge on those predictive successes.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**What was omitted:** A direct reversed-role test:
+
+> If the pressure model must show why General Relativity works, what must General Relativity show to establish that curvature is fundamental rather than emergent?
+
+**Whether absence changed the outcome:** Yes. Ziggy attacked the standard but did not formulate the strongest symmetrical burden against the accepted model.
+
+**Stable or situational:** Situational. His message was exploratory and compressed.
+
+---
+
+### Omission 7: Supplying a positive ranking standard after decoupling truth from utility
+
+**Actor:** Ziggy
+
+**Relevant point:** Ziggy argued that the truer model might do less work but did not state how such a model should be recognized.
+
+**Source anchor:** Ziggy, “what is most true [may] do the least amount of work for us.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**What was omitted:** Candidate standards such as:
+
+* causal coherence;
+* unification;
+* fewer brute facts;
+* derivation of the accepted model;
+* independent evidence for the substrate;
+* conceptual necessity;
+* explanatory compression;
+* novel retrodiction;
+* cross-domain integration.
+
+**Whether absence changed the outcome:** Yes. It left the proposal protected as possible but unable to earn comparative superiority.
+
+**Stable or situational:** Situational. The user was challenging a criterion, not yet presenting a full replacement epistemology.
+
+---
+
+### Omission 8: Limited concession from Ziggy regarding empirical burden
+
+**Actor:** Ziggy
+
+**Relevant point:** The assistant stressed the need to recover established observations. Ziggy did not explicitly concede that any deeper theory must at least explain why those observations are successfully modeled.
+
+**Source anchor:** Assistant, “Any replacement has to reproduce every one of those successes”; Ziggy’s response challenging the hinge on prediction.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**What was omitted:** A concession such as:
+
+> Predictive success does not prove ontology, but a deeper account still owes an explanation of why the successful effective theory works.
+
+**Whether absence changed the outcome:** Moderately. Without it, Ziggy’s challenge could be read as discounting predictive success more radically than may have been intended.
+
+**Stable or situational:** Situational.
+
+3. Non-Informative Omissions (A0)
+
+### Omission 1: Formal comparison of specific pressure theories
+
+**Actor:** Both
+
+**Relevant point:** The thread named multiple theories but did not compare their equations, assumptions, or empirical records in detail.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Reason:** The bounded conversation does not establish that either participant possessed or intended a full technical comparison.
+
+**Whether absence changed the outcome:** It limited technical resolution, but no behavioral inference is warranted.
+
+**Stable or situational:** UNKNOWN
+
+---
+
+### Omission 2: Direct derivation of General Relativity from a pressure substrate
+
+**Actor:** Both
+
+**Relevant point:** The conversation entertained the possibility that gravity is emergent from pressure-like behavior.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Reason:** Such a derivation would require technical machinery not evidenced as available in the exchange.
+
+**Whether absence changed the outcome:** Yes at the scientific level, but it is not an informative conversational omission.
+
+**Stable or situational:** UNKNOWN
+
+---
+
+### Omission 3: Direct evidence from Grant
+
+**Actor:** Grant
+
+**Relevant point:** The assistant characterized Grant as treating prediction as primary epistemic currency.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Reason:** Grant was not a participant in the bounded thread. His failure to clarify or defend the position cannot be interpreted.
+
+**Whether absence changed the outcome:** It prevented reliable attribution.
+
+**Stable or situational:** UNKNOWN
+
+---
+
+### Omission 4: Resolution of the ontology of spacetime
+
+**Actor:** Both
+
+**Relevant point:** The exchange distinguished effective description from fundamental ontology.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Reason:** The thread lacks sufficient evidence or technical scope to resolve whether spacetime is fundamental, emergent, fluid-like, informational, or something else.
+
+**Whether absence changed the outcome:** The ultimate question remained open, but no conversational deficiency follows.
+
+**Stable or situational:** UNKNOWN
+
+4. Counterevidence Findings
+
+### Characterization: Ziggy preserves low-probability possibilities
+
+**Evidence supporting:** Ziggy asks who can rule out a less useful but more correct pressure model.
+
+**Counterevidence searched:** Evidence that Ziggy rejects an attractive possibility because it lacks adequate support.
+
+**Result:** Searched, none found.
+
+**Assessment:** The characterization survives within this thread, but the corpus is too short to establish whether Ziggy preserves possibilities indiscriminately or only in this case.
+
+---
+
+### Characterization: Ziggy discounts predictive success
+
+**Evidence supporting:** “Why hinge on those predictive successes.”
+
+**Counterevidence searched:** Explicit acknowledgment from Ziggy that predictive success remains evidentially important even if not ontologically decisive.
+
+**Result:** Searched, none found.
+
+**Assessment:** The stronger claim that Ziggy rejects predictive evidence is not established. The wording supports a challenge to its supremacy, not necessarily its relevance.
+
+---
+
+### Characterization: Ziggy distinguishes truth from usefulness
+
+**Evidence supporting:** “what is most true [may] do the least amount of work for us.”
+
+**Counterevidence searched:** Any later collapse of truth back into usefulness or prediction.
+
+**Result:** Searched, none found.
+
+**Assessment:** Strongly survives.
+
+---
+
+### Characterization: Ziggy positively endorses pressure gravity
+
+**Evidence supporting:** Continued defense of the possibility that it may be more correct.
+
+**Counterevidence searched:** Language showing inquiry, uncertainty, or merely hypothetical framing.
+
+**Result:** Counterevidence found. Ziggy repeatedly asks “Who’s to say” and frames the position as a possibility rather than a settled commitment.
+
+**Assessment:** Positive endorsement is weakened. The defensible characterization is possibility protection, not belief adoption.
+
+---
+
+### Characterization: Ziggy uses a historical analogy as evidence
+
+**Evidence supporting:** Reference to “switching to the heliosphere or something.”
+
+**Counterevidence searched:** Signs that the analogy is tentative, imprecise, or merely illustrative.
+
+**Result:** Counterevidence found in “or something,” which marks uncertainty about the example.
+
+**Assessment:** The analogy should remain classified as rhetorical and provisional, not as a developed historical argument.
+
+---
+
+### Characterization: The assistant relies on predictive success as decisive
+
+**Evidence supporting:** The initial answer says alternatives fail because they cannot reproduce General Relativity’s predictions and lists those successes as the replacement threshold.
+
+**Counterevidence searched:** Statements preserving ontological uncertainty or valuing explanation independently of prediction.
+
+**Result:** Counterevidence found. The assistant explicitly says usefulness and ontology are not necessarily identical and allows General Relativity to be a nonfundamental effective theory.
+
+**Assessment:** The strongest characterization—prediction is decisive of ontology—does not survive. A narrower characterization survives: prediction is treated as decisive for current scientific warrant and replacement status.
+
+---
+
+### Characterization: The assistant values explanation independently of prediction
+
+**Evidence supporting:** The assistant asks what additional explanatory power a deeper ontology provides and entertains a substrate that explains General Relativity.
+
+**Counterevidence searched:** Reduction of all explanatory value to novel prediction.
+
+**Result:** Partial counterevidence found. The assistant asks what explanatory power the deeper theory “buys,” but does not specify any nonpredictive criterion by which explanatory gains would be assessed.
+
+**Assessment:** Weakly supported. The assistant permits explanatory depth but operationalizes evaluation mainly through empirical reproduction.
+
+---
+
+### Characterization: The assistant rejects attractive possibilities when evidence is insufficient
+
+**Evidence supporting:** It presents pressure gravity as intuitive but says intuition and possibility do not establish truth.
+
+**Counterevidence searched:** Uncritical acceptance of a favored emergent model.
+
+**Result:** Some counterevidence found. The assistant labels several speculative theories as serious and conceptually promising, but ultimately states that none has displaced General Relativity.
+
+**Assessment:** The evidential-pruning characterization survives.
+
+---
+
+### Characterization: The assistant charitably reconstructs Ziggy’s position
+
+**Evidence supporting:** “Suppose the pressure model is actually ontologically correct, but General Relativity is merely a superb effective theory.”
+
+**Counterevidence searched:** Places where the assistant answers a weaker or distorted version.
+
+**Result:** Counterevidence found. “A theory that predicts less isn’t automatically more true” answers an inference Ziggy did not clearly make.
+
+**Assessment:** Mixed. The assistant performs a charitable reconstruction and then partly shifts to a less charitable formulation.
+
+---
+
+### Characterization: The assistant applies symmetric standards
+
+**Evidence supporting:** It distinguishes truth from prediction and admits the accepted model may be nonfundamental.
+
+**Counterevidence searched:** Whether the same underdetermination and ontological-burden test is applied to General Relativity’s own interpretation.
+
+**Result:** Counterevidence found. The hidden-alternative ontology is required to earn explanatory or empirical purchase, while no corresponding positive burden is imposed on treating spacetime curvature as fundamental.
+
+**Assessment:** Symmetry is partial, not complete.
+
+---
+
+### Characterization: The Higgs–graviton issue was resolved by factual correction
+
+**Evidence supporting:** The assistant correctly separates the Higgs boson from a hypothetical graviton.
+
+**Counterevidence searched:** Evidence that Ziggy’s underlying question concerned the broader relationship between mass and gravity rather than particle identity alone.
+
+**Result:** Partial counterevidence found. Ziggy’s wording links “no graviton required” to “the measured particle the LHC produces,” suggesting genuine particle confusion, but it may also express a deeper intuition about mass-generation and gravity.
+
+**Assessment:** The literal confusion was resolved; the deeper conceptual motivation may not have been fully addressed.
+
+---
+
+### Characterization: The disagreement was direct
+
+**Evidence supporting:** Ziggy challenges the assistant’s emphasis on prediction.
+
+**Counterevidence searched:** Evidence that they answer different questions.
+
+**Result:** Counterevidence found. Ziggy primarily asks what may be ontologically possible; the assistant primarily asks what is evidentially warranted.
+
+**Assessment:** The dispute is partly cross-jurisdictional rather than a clean contradiction.
+
+---
+
+### Characterization: The exchange produced a co-constructed distinction
+
+**Evidence supporting:** Ziggy introduces truth–utility divergence; the assistant formalizes it into instrumental usefulness versus ontology and effective versus fundamental theory.
+
+**Counterevidence searched:** Evidence that the distinction was entirely assistant-generated or entirely present in Ziggy’s wording.
+
+**Result:** No defeating counterevidence. Ziggy clearly supplied the core intuition; the assistant supplied the explicit framework.
+
+**Assessment:** Survives strongly.
+
+5. Alternative Readings
+
+### Characterization: Alternative-Mechanism Search
+
+**Primary reading:** A reusable exploratory move that seeks serious causal alternatives to an accepted account.
+
+**Strongest alternative:** A one-off factual request about the history of gravity theories.
+
+**Discriminating evidence:** Ziggy’s follow-up shifts immediately into ontological defense of the alternative class, supporting more than mere historical curiosity.
+
+**Result:** Operator reading moderately favored.
+
+---
+
+### Characterization: Candidate-Class Expansion
+
+**Primary reading:** The assistant broadens the search from literal pressure models to emergent and analogue approaches.
+
+**Strongest alternative:** Ordinary list generation under an informational role.
+
+**Discriminating evidence:** The assistant explicitly divides literal mechanical theories from emergent theories and treats the latter as descendants of the original intuition.
+
+**Result:** Both readings remain viable. Role effect is substantial.
+
+---
+
+### Characterization: Empirical-Burden Reassertion
+
+**Primary reading:** A general evaluative rule requiring alternatives to recover established successes.
+
+**Strongest alternative:** A substantive scientific belief that General Relativity is presently superior.
+
+**Discriminating evidence:** The assistant phrases the demand generally: “Any replacement has to reproduce” the successful results.
+
+**Result:** Operator reading favored, but role-induced.
+
+---
+
+### Characterization: Utility–Truth Decoupling
+
+**Primary reading:** A transformative reasoning move separating operational performance from ontology.
+
+**Strongest alternative:** A rhetorical attempt to protect a preferred theory from empirical failure.
+
+**Discriminating evidence:** Ziggy does not clearly endorse a specific pressure theory and frames the issue as a general possibility about truth and usefulness.
+
+**Result:** Transformative reading favored. Defensive motivation remains possible.
+
+---
+
+### Characterization: Criterion Challenge
+
+**Primary reading:** Ziggy tests whether prediction has jurisdiction over ontology.
+
+**Strongest alternative:** A spontaneous objection to an inconvenient standard.
+
+**Discriminating evidence:** The question is explicitly framed at the standard level: “Why hinge on those predictive successes?”
+
+**Result:** Criterion-level reading favored, though the thread does not establish stable use elsewhere.
+
+---
+
+### Characterization: Possibility Preservation
+
+**Primary reading:** A regulatory block against converting underperformance into impossibility.
+
+**Strongest alternative:** Unfalsifiable protection of a favored possibility.
+
+**Discriminating evidence:** Ziggy asks only who can rule it out and does not claim that possibility establishes truth.
+
+**Result:** Regulatory reading slightly favored. The absence of a positive evidential standard prevents stronger confidence.
+
+---
+
+### Characterization: Historical-Reversal Analogy
+
+**Primary reading:** A rhetorical reminder that current dominant models may later be displaced.
+
+**Strongest alternative:** An undeveloped and possibly mistaken historical reference.
+
+**Discriminating evidence:** “or something” indicates uncertainty and weakens its status as deliberate evidence.
+
+**Result:** Rhetorical reading survives; inferential weight should remain low.
+
+---
+
+### Characterization: Two-Axis Separation
+
+**Primary reading:** The assistant restructures theory evaluation into usefulness and ontology.
+
+**Strongest alternative:** Mere paraphrase of Ziggy’s explicit claim.
+
+**Discriminating evidence:** Ziggy already states the core divergence; the assistant formalizes it into two questions and a comparison matrix.
+
+**Result:** Best classified as co-constructed transformation.
+
+---
+
+### Characterization: Effective-Layer Reframing
+
+**Primary reading:** A reusable move turning apparent competitors into deeper and effective layers.
+
+**Strongest alternative:** A substantive emergent-gravity hypothesis introduced to accommodate Ziggy’s intuition.
+
+**Discriminating evidence:** The assistant uses Newtonian mechanics, thermodynamics, and fluid dynamics as a general pattern before applying it to gravity.
+
+**Result:** Operator-like reading favored.
+
+---
+
+### Characterization: Unconstrained-Depth Brake
+
+**Primary reading:** A regulatory move preventing hidden ontologies from gaining warrant merely by being declared deeper.
+
+**Strongest alternative:** A defensive tactic that protects the accepted model after conceding ontological uncertainty.
+
+**Discriminating evidence:** The concern about infinitely many hidden mechanisms is independently valid, but it is deployed immediately after Ziggy’s challenge and is not symmetrically applied.
+
+**Result:** Both readings remain live. Functional legitimacy survives; symmetry is weakened.
+
+---
+
+### Characterization: Domain Disentanglement
+
+**Primary reading:** A conceptual operator separating Higgs, mass, gravity, and graviton.
+
+**Strongest alternative:** Straight factual correction.
+
+**Discriminating evidence:** The assistant not only names the Higgs but distinguishes theoretical roles and explains why emergent gravity need not contain a fundamental graviton.
+
+**Result:** Operator reading favored, with strong explainer-role influence.
+
+---
+
+### Characterization: Emergence-by-Analogy
+
+**Primary reading:** Pedagogical use of sound to explain collective gravitational behavior.
+
+**Strongest alternative:** An illicit analogy presented as support for emergent gravity.
+
+**Discriminating evidence:** The assistant introduces it with “Think of sound” and uses it to explain conceptual possibility, not as direct empirical proof.
+
+**Result:** Pedagogical/rhetorical reading favored.
+
+---
+
+### Characterization: Ziggy is on offense against the standard
+
+**Primary reading:** Ziggy shifts the burden by attacking predictive success as the governing criterion.
+
+**Strongest alternative:** Ziggy is merely defending a possibility after the alternative theories were criticized.
+
+**Discriminating evidence:** He directly asks why the discussion should “hinge” on predictions, which targets the rule itself.
+
+**Result:** Both are true: offensive against the standard, defensive regarding the possibility.
+
+---
+
+### Characterization: The assistant is defending scientific warrant rather than final ontology
+
+**Primary reading:** The assistant protects General Relativity’s evidential status while allowing deeper ontology.
+
+**Strongest alternative:** The assistant verbally concedes ontology but functionally treats the accepted theory as epistemically privileged in nearly every practical respect.
+
+**Discriminating evidence:** The assistant says predictive success does not settle ontology, yet retains reproduction of General Relativity as the decisive replacement bar.
+
+**Result:** Primary reading survives, with the alternative exposing an unresolved tension rather than defeating it.
+
+6. Characterizations That Survived
+
+7. **Ziggy clearly separates practical or predictive usefulness from ontological truth.**
+
+8. **Ziggy challenges the jurisdiction of predictive success rather than merely disputing a particular gravitational prediction.**
+
+9. **Ziggy preserves a pressure-based ontology as possible without clearly endorsing it as true.**
+
+10. **The assistant broadens literal pressure gravity into a wider family of emergent, induced, medium-like, and analogue approaches.**
+
+11. **The assistant treats recovery of General Relativity’s empirical successes as a major requirement for scientific replacement.**
+
+12. **The assistant does not claim that predictive success deductively proves ontology.**
+
+13. **The assistant reframes General Relativity as potentially effective rather than fundamental.**
+
+14. **The assistant installs a legitimate constraint against treating speculative depth as self-authenticating.**
+
+15. **The Higgs boson and graviton are successfully disentangled at the literal conceptual level.**
+
+16. **The exchange is partly a jurisdiction conflict: metaphysical possibility versus epistemic warrant.**
+
+17. **The core useful result is co-constructed: a theory can be operationally excellent without being ontologically final, while ontological possibility alone does not establish comparative warrant.**
+
+18. **The central unresolved question survives intact: what noncircular standards can rank deeper ontologies when predictive equivalence or predictive underdevelopment prevents prediction from settling the matter?**
+
+19. Characterizations That Weakened
+
+20. **“Ziggy rejects prediction.”**
+    Weakened to: Ziggy rejects or questions its supremacy as a truth criterion. No evidence shows that he considers prediction irrelevant.
+
+21. **“Ziggy endorses pressure gravity.”**
+    Weakened to: Ziggy protects its possibility and asks whether it could be more fundamental.
+
+22. **“The assistant treats prediction as proof of ontology.”**
+    Weakened to: The assistant treats prediction as a major warrant and replacement criterion while explicitly denying that it deductively proves ontology.
+
+23. **“The assistant fully reconstructs Ziggy charitably.”**
+    Weakened because the assistant both reconstructs the strong position and later answers the different claim that lower predictive power implies greater truth.
+
+24. **“The assistant applies a fully symmetrical evidential standard.”**
+    Weakened because it does not subject the accepted model’s ontological interpretation to the same underdetermination concern applied to hidden alternatives.
+
+25. **“The historical analogy is a substantive argument.”**
+    Weakened to a tentative rhetorical prompt because the example is vague and marked by uncertainty.
+
+26. **“The Higgs correction exhausts Ziggy’s second question.”**
+    Weakened because the literal particle confusion is resolved, but the deeper intuition linking mass-generation and gravitation may remain unexplored.
+
+27. **“The exchange establishes stable individual cognitive operators.”**
+    Weakened because the bounded corpus is short, most moves occur once, and several are strongly induced by conversational role.
+
+28. **“The parties directly disagree over one proposition.”**
+    Weakened because Ziggy primarily defends metaphysical possibility while the assistant primarily regulates epistemic entitlement.
+
+29. **“Failure to reproduce General Relativity means an alternative is false.”**
+    Rejected within the thread’s own later distinctions. At most, such failure presently blocks replacement status or evidential parity; it does not alone establish ontological falsity.
+
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable.
+
+**Verdict: PASS WITH AVAILABILITY DOWNGRADES — run Stage 4 unchanged, carrying
+three corrections into how its verdicts are read.**
+
+**Availability corrections** (A3 means *demonstrably used the omitted move
+elsewhere in this bounded thread* — possessing nearby conceptual resources is
+not deployment):
+- Omission 1 (clarifying prediction's jurisdiction): **A3 defensible** —
+  partially executed in-thread.
+- Omission 2 (symmetrically testing the accepted ontology): **downgrade A3 →
+  A1** — Symmetry Testing was never deployed in-thread. Target restated: not
+  "GR's ontology" but *a realist interpretation treating spacetime curvature as
+  fundamental* — is that claim likewise underdetermined?
+- Omission 3 (separating unknown from false): **A1 or weak A3** — later
+  ontological uncertainty ≠ demonstrated theory-by-theory status taxonomy.
+- Omission 4 (reconstructing Ziggy before braking): **A3 strong** — Nova
+  reconstructed the defensible claim, then answered a stronger claim Ziggy had
+  not clearly asserted. A genuine local reconstruction lapse.
+
+**Strongest surviving architecture:** Ziggy — Utility–Truth Decoupling →
+Criterion Challenge → Possibility Preservation (he is not rejecting
+prediction; he resists its promotion from evidence-of-success to
+proof-of-ontology; pressure point: without a positive ranking standard,
+possibility preservation becomes a holding pen with no promotion rules).
+Nova — Two-Axis Separation → Effective-Layer Reframing →
+Unconstrained-Depth Brake (not strong Prediction Sovereignty: prediction is
+denied final ontological authority yet remains the only operationalized source
+of warrant — the ontology axis is under-instrumented, not contradicted).
+
+**Trail center (adopted):** *"A theory can be operationally excellent without
+being ontologically final, while ontological possibility alone does not
+establish comparative warrant."* The unresolved middle: **what noncircular
+standards rank deeper ontologies?** Candidates (not conclusions): independent
+substrate evidence; derivation of the successful effective theory; unification;
+causal-mechanical explanation; fewer brute assumptions; novel
+retrodiction/prediction; structural necessity; explanatory compression with
+failure conditions.
+
+**Stage-4 mapping danger (new verdict layer ordered):** the pasted candidate
+registry is deliberately limited relative to the full Museum — Stage-4 `NEW`
+verdicts are provisional. Flagged overlaps to check: Utility–Truth Decoupling
+↔ Representation ≠ Ontology; Criterion Challenge ↔ Locate Disagreement Layer /
+Epistemic Boundary Setting; Unconstrained-Depth Brake ↔ Under-Determination
+Detection; Two-Axis Separation ↔ Locate Disagreement Layer. Pipeline:
+**Stage-4 limited-registry mapping → full Museum crosswalk → conservative
+filing decision.** Expected outcomes table + expected non-support for
+Prediction Sovereignty / Unmeasured-to-Zero / Generative Admission Restriction
+/ Contest-to-Defeat registered pre-Stage-4 (scoreable).
+
+**Symmetry-control note:** "it shows Ziggy preserving possibility, but also
+exposes the exact price he must eventually pay to move from *not ruled out* to
+*better account of reality*."
 
 ---
 
