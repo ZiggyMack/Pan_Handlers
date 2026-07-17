@@ -72,7 +72,7 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_AUX_05.md` | | EMPTY (staged for the mining walk) |
 | `DIG_00.md` | *(reserved: CFA-zero — preflight required; workbook recreated after its file was consumed by a rename)* | EMPTY |
 | `DIG_00ABCD.md` *(operator's working name — proper identity assigned at field-desk review)* | Grant's evaluative architecture via the CT/Moral-Substance dispute + development of Diagnostic Interrogation, Coupling Probes, Cognitive Archaeology calibration, invariant-seeking methodology (heavy G-REPORTED; no G-DIRECT) | IN PROGRESS — Stages 1–2 pasted; awaiting field-desk reviews |
-| `DIG_01_classical_theism_evil_and_moral_generativity.md` | ⭐ **First Grant-relevant site**: reported 12-step problem-of-evil syllogism → moral-generativity zero; Ziggy's modal-burden + trade-off objections; Grant's reported denial (G-QUOTED-REPORTED) | STAGE 3 COMPLETE — Stage 4 authorized; verdicts separated: Grant's logical distinction may be legitimate AND the zero may still be unsupported; registry dangers pre-flagged (no forcing of CO-001/CO-004/CO-007/CO-006) |
+| `DIG_01_classical_theism_evil_and_moral_generativity.md` | ⭐ **First Grant-relevant site**: reported 12-step problem-of-evil syllogism → moral-generativity zero; Ziggy's modal-burden + trade-off objections; Grant's reported denial (G-QUOTED-REPORTED) | ✅ **FILED** — 4th full-pipeline dig; **G-001 (first Grant source, reported ceiling)**, Z-004, IT-017, synthesis packet; restraint round: zero new operators, one recorded error (Logical-Status Compression) |
 | `DIG_02.md` | | EMPTY |
 | `DIG_03.md` | | EMPTY |
 | `DIG_04.md` | | EMPTY |

@@ -255,6 +255,28 @@ DIG_AUX_04) · **Possibility Inflation** (QUARANTINED as a relationship-level
 escalation *risk pattern*, not a demonstrated fallacy — both participants
 interrupted the ladder with disclaimers; DIG_AUX_04).
 
+From DIG_01 crosswalk (**a restraint round — no new registrations**):
+**Modal Burden Enforcement** (assertor of a modal premise carries its burden —
+NOT Symmetry Testing) · **Hidden Ranking Exposure** ("superior world"
+presupposes an ordering relation + selection rule — NOT Universalized
+Jurisdiction; no universalization shown) · **Value-Plurality Reframing**
+(single-axis → plural goods → trade-offs → possible incomparability; strong
+transformation, not a theodicy; Ziggy instance) · **Feasible-Space Humility**
+(thread-local; failure mode attached: mystery insulation without stopping
+conditions) · **Observed-Output Challenge** (renamed from "Outcome-Based
+Causal Challenge" — valid only against literal non-production, never against
+failed grounding; Ziggy instance) · **Premise Load-Bearing Isolation** +
+**Inferential Gap Detection** (technique-level: general argument-analysis
+toolkit — protocol value HIGH, personal-profile value LOW).
+
+## Recorded Local Errors (not operators — Failure-Atlas seeds)
+
+- **Logical-Status Compression** (Nova, conversational; DIG_01) — collapsed
+  internal inconsistency / incompatibility with actuality / impossibility /
+  falsity into "largely semantic." Not cutting through semantics; erasing
+  distinctions. Caught by the extraction (Stage 3) and ruled an error by the
+  field desk (Nova reviewing Nova). Watch for recurrence.
+
 **Cross-registry identities (verified against the Museum INDEX, 2026-07-17):**
 the Stage-4 paste registry's "Symmetry Testing of Standards" = Museum
 **OP-008**; "Contested ≠ Defeated" = Museum **OP-009**. CO-008's counter-principle
@@ -274,3 +296,5 @@ therefore carries a Museum ID.
 | 2026-07-17 | (crosswalk, DIG_AUX_03) | Instrumental–Ontological Decoupling → OP-001 subtype (instance, not new entry); Evaluative Jurisdiction Challenge → EXTENDS OP-013 + OP-007, not yet OP-008; Axis Separation → output not operator; Domain Disentanglement → OP-007/OP-015-adjacent; Effective-Layer Reframing + Alternative-Mechanism Search → held in queue | First full-Museum crosswalk (Archive Integration rule #11), OP names verified against Nyquist MUSEUM/INDEX.md |
 | 2026-07-17 | CO-012, CO-013, CO-014 | Registered at RED from DIG_AUX_04 — **first Ziggy-attributed operators** (Conjunction Decomposition; Exhaustiveness Challenge, strongest; Claim-Scope Repair). Rejected mappings: CO-012/CO-014 are NOT Contested ≠ Defeated extensions (propositional structure / claimant-side repair vs dialectical status); CO-013 is NOT a Possibility Preservation extension (menu audit vs option keeping) | DIG_AUX_04 Stage 4 + crosswalk; Museum absence verified |
 | 2026-07-17 | (crosswalk, DIG_AUX_04) | Evidential-Jurisdiction Restriction → MATCHES/APPLIES Museum OP-013 (corrective inverse of CO-002), no new entry; Conditional Mechanism Import → renamed Conditional Structural Analogy, queued; Ontological Reframing → frame transition, status UNKNOWN; Comparative Accommodation Analysis → research maneuver; Possibility Inflation → quarantined risk pattern | Field-desk Stage-4 handoff, DIG_AUX_04 |
+| 2026-07-17 | (crosswalk, DIG_01) | **Restraint round — zero new registrations.** Seven candidates queued at technique/thread level; forced mappings rejected (Modal Burden ≠ Symmetry Testing; Hidden Ranking ≠ Universalized Jurisdiction; Feasible-Space Humility ≠ Contested ≠ Defeated; Evaluation-Target Separation → broader Museum family, no new entry). **No Grant operator promotes** — the zero was argued-as-measured; wrong-target vs dimension-dominance stays open (CO-004's justified-zero duty enforced) | Field-desk Stage-4 handoff, DIG_01 |
+| 2026-07-17 | Logical-Status Compression | Recorded as **local reasoning error** (not an operator) — first entry in the Failure-Atlas seed list; committed by conversational Nova, caught by Stage 3, ruled by field-desk Nova | DIG_01 |

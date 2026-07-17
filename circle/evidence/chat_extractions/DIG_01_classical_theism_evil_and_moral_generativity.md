@@ -1,6 +1,7 @@
 # DIG 01 — Classical Theism, Evil, and Moral Generativity
 
-**Status:** STAGE 3 COMPLETE — field-desk PASS with two availability corrections; STAGE 4 AUTHORIZED
+**Status:** ✅ COMPLETE — all four stages; final disposition filed; promotions executed 2026-07-17
+**Disposition:** COMPLETE / ZIGGY THREAD-SPECIFIC PROFILE EVIDENCE / **GRANT-REPORTED ONLY (first Grant source entry: G-001)** / IDEA-TRAIL SOURCE (IT-017)
 **Primary target:** Grant-reported evaluative reasoning · **Secondary:** Ziggy's rebuttal architecture
 **Significance:** ⭐ **first Grant-relevant dig site** — first bounded approach to the pilot research question (the recurring zero); hits coverage-checklist theme "Classical theism generating moral norms"
 **Protocol:** v0.2.2 Stage 1 (bounded) · **Extraction date:** 2026-07-17
@@ -2775,6 +2776,77 @@ The thinnest-supported areas are:
 
 All remain `UNKNOWN` or quarantined rather than profile-ready.
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 / FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable.
+
+**Verdict: successful completed dig — a clean corrective to the sprawling
+parent thread.** Attribution discipline held; Grant not promoted from
+reported evidence; the internal/external distinction preserved; the real
+unresolved bridge identified.
+
+**Central finding:** the preserved argument contains two largely separable
+sections — *(1)* CT + actual evil → alleged falsity/incompatibility; *(2)*
+alleged falsity → no moral norms → MS = 0. **Even granting section 1, section
+2 requires a bridge not expressed in the bounded source.** The charitable
+bridge ("if the CT God did not create this world, CT cannot successfully
+ground the actual world's moral norms") supports at most a negative verdict on
+*successful ultimate grounding* — not absence of moral architecture, internal
+derivability, motivation, historical production, or causal influence. **The
+scalar zero remains unintelligible until "moral generativity" is defined.**
+
+**Crosswalk corrections (a restraint round — NO new CO registrations):**
+- Premise Load-Bearing Isolation → RED **technique-level** candidate
+  (argument-analysis toolkit, not personal-Museum grade).
+- Modal Burden Reversal → renamed **Modal Burden Enforcement**; mapping to
+  Symmetry Testing REJECTED (requiring an assertor to support their premise
+  is burden enforcement, not symmetric standards).
+- Hidden Ordering Assumption Exposure → retained as **Hidden Ranking
+  Exposure**; mapping to Universalized Evaluative Jurisdiction REJECTED (no
+  cross-domain universalization shown).
+- Epistemic Constraint Insertion → **Feasible-Space Humility**, thread-local;
+  NOT Contested ≠ Defeated; failure mode attached (mystery insulation without
+  stopping conditions).
+- Evaluation-Target Separation → MATCHES the broader target/jurisdiction
+  separation family (OP-001 / OP-013 / OP-007 territory); no new registration.
+- Outcome-Based Causal Challenge → renamed **Observed-Output Challenge**
+  (don't build "causal" into the name before causation is shown); valid only
+  against literal non-production, not failed grounding.
+- Terminology-to-Function Reconciliation → **REJECTED as productive operator;
+  recorded as local reasoning error: "Logical-Status Compression"** —
+  conversational Nova collapsed internal inconsistency / incompatibility /
+  impossibility / falsity. Not cutting through semantics; erasing
+  distinctions.
+- Inferential Gap Detection → valid move; **profile value LOW, protocol/
+  toolkit value HIGH.**
+
+**Promotions — Ziggy (thread-specific, via Z-004):** (1) Feasible-space
+humility — reduces confidence in world-ranking claims via unknown constraints
+and trade-offs (defeater, not proof this is the best world); (2)
+Value-plurality challenge — plural goods against simple evil-presence
+rankings (defeater strategy, not finished explanation); (3) Observed-output
+confrontation — actual norm production by CT-using agents against complete
+non-generativity claims (relevance depends on the metric's meaning).
+
+**Grant — NO operator promotes.** Source supports only: *Grant is reported as
+advancing the preserved syllogism and denying that his argument alleges
+internal inconsistency.* Filed as **G-001** (G-QUOTED-REPORTED ceiling — the
+archive's first Grant source entry). The textual argument contains an
+unstated bridge, but hidden architecture cannot be confidently inferred from
+that alone. Quarantined leads stay quarantined.
+
+**FINAL QC (verbatim):** strongest textual defect = the absent bridge; Grant's
+denial identifies a legitimate logical distinction and must not be dismissed
+as semantic; the thread does not establish Grant's intended definition of
+moral generativity, the formal CFA metric relationships, or the zero's target;
+no Grant operator promotes; new candidates remain RED and unpromoted.
+
+**The dig's epitaph:** "it separated a **legitimate correction by Grant** from
+a **still-unpaid inferential debt in Grant's reported argument.**"
 
 ---
 

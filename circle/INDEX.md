@@ -42,11 +42,11 @@
 | Registry | Location | Count | Notes |
 | ---------- | ---------- | ------- | ------- |
 | Circle Operators | `OPERATOR_LEXICON.md` | 14 (all RED) | CO-001…008 (Grant hypotheses, evidence pending); CO-009/010 (AUX_02); CO-011 (AUX_03); **CO-012 Conjunction Decomposition, CO-013 Exhaustiveness Challenge, CO-014 Claim-Scope Repair (AUX_04 — first Ziggy-attributed registrations)**. Emerging "≠ family": OP-009, CO-011, CO-013 |
-| Idea Trails | `IDEA_TRAILS/README.md` | 16 candidates, **3 OPEN** | IT-014 (invariance/convergence) · IT-015 (prediction/truth/underdetermination) · IT-016 (Bell boundaries — ⚠️ technical gate) — all three seeding digs COMPLETE |
+| Idea Trails | `IDEA_TRAILS/README.md` | 17 candidates, **4 OPEN** | IT-014 (invariance) · IT-015 (prediction/truth) · IT-016 (Bell — ⚠️ tech gate) · **IT-017 (evil/world-selection/moral generativity — first Grant-adjacent trail)** |
 | Debates | `DEBATES/` | 0 recorded | |
-| Extraction packets | `evidence/chat_extractions/` | **3 synthesis packets filed** (invariance; prediction-ontology; Bell boundaries) · 12 workbooks staged (DIG_00–11) · aux digs: AUX_01 (S1 done, 2–4 postponed), AUX_02 ✅, AUX_03 ✅, AUX_04 ✅ (three full-pipeline digs FILED) | protocol v0.2.2 FROZEN; human preflight before every Stage 1; DIG_00 reserved for a preflight-confirmed CFA-zero thread |
+| Extraction packets | `evidence/chat_extractions/` | **4 synthesis packets filed** · numbered digs: **DIG_01 ✅ FILED (first Grant-relevant)**, DIG_00ABCD in progress · aux digs: AUX_01 (S1 done, 2–4 postponed), AUX_02 ✅, AUX_03 ✅, AUX_04 ✅ | protocol v0.2.2 FROZEN; human preflight before every Stage 1; DIG_00 reserved for a preflight-confirmed CFA-zero thread |
 | Corpus sweeps | `evidence/corpus_sweeps/` | 1 filed (SWEEP_00: Stage 1+2 verbatim) | orientation only — never promotable; yielded **9 thread leads**, incl. first cross-member lead (Angles) |
-| Sources filed | per-member `SOURCE_INDEX.md` | **3** (Z-001…Z-003 — Ziggy, thread-specific) | Grant sources still **0** — the Grant-campaign bottleneck stands; best-signaled target: "Grant and Positivism" (2 independent X-CONTEXT pointers) |
+| Sources filed | per-member `SOURCE_INDEX.md` | **Ziggy: 4 (Z-001…Z-004) · Grant: 1 (G-001 — first entry, G-QUOTED-REPORTED ceiling)** | The reported-ceiling wall stands: DIRECT-grade Grant evidence needs threads where he speaks, or his Q1–Q10 answers; best-signaled target: "Grant and Positivism" |
 
 ---
 

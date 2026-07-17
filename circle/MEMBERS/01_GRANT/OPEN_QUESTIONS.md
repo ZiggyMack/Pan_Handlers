@@ -33,6 +33,19 @@
 | CO-008 Contest-to-Defeat | cases where he explicitly held "contested but standing" open |
 | SEQ-1 Zero Pipeline (as a chain) | any keystone falsified (esp. CO-004); or the parts present but not sequenced; or zeros produced by a visibly different route |
 
+## Evidence Notes
+
+- **2026-07-17 (G-001 via DIG_01):** first bounded evidence touches Q1/Q2/Q4/
+  Q5/Q6. The reported argument's zero concerns an *undefined* target —
+  "generate" could mean grounding, architecture, production, motivation, or
+  derivation, and **nobody in the source specifies what a score above zero
+  would require** (Q4/Q5 now have a concrete evidentiary hook). Q6 sharpened:
+  the field question is wrong-target-measured vs one-dimension-dominating,
+  not unmeasured-vs-measured. Grant's reported denial (internal inconsistency
+  ≠ his claim) is a legitimate distinction — reconstruction discipline
+  requires his strongest reading going forward. Q1/Q2 remain answerable only
+  by Grant.
+
 ## Schema Feedback (pilot duty — schema §9)
 
 - *(record here which schema sections actually discriminate as evidence lands)*

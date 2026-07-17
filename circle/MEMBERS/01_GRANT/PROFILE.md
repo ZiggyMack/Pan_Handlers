@@ -13,10 +13,11 @@
 - **Profile version:** 0.1 (SCAFFOLDED)
 - **Last reviewed:** 2026-07-16
 - **Contributing observers:** Ziggy (primary), P.H. Claude (Fable 5, archive steward)
-- **Freshness notice:** ⚠️ **This profile currently contains ZERO filed sources.**
-  Every substantive claim below is hypothesis-grade, derived from Ziggy's
-  recollection as encoded in the founding charter (`../../ARCHIVE_PLAN.md` §IV–V).
-  Nothing here can rise above INFERRED until `SOURCE_INDEX.md` has entries.
+- **Freshness notice:** ⚠️ **One source filed (G-001, 2026-07-17) — at
+  G-QUOTED-REPORTED ceiling.** It supports "Grant is reported as…" claims
+  only; everything about Grant remains capped at INFERRED. The charter-derived
+  hypotheses below are otherwise unchanged. DIRECT-grade evidence still
+  requires threads where Grant himself speaks, or his answers to Q1–Q10.
 
 ## The Pilot Research Question
 
