@@ -23,7 +23,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ PASSED field-desk review; Stage 3 authorized; 4 merge clusters ordered before Stage 4
+**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ PASSED field-desk review; Stage 4 authorized; 5 operator families confirmed; 3 trails ordered at close (IT-023/024/025)
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** Whether prediction, truth, suffering, law, religion, consciousness, or another primitive can legitimately function as a **master frame** — Curt Jimungal video as entry point; presup/method dispute; Grant present only as G-REPORTED (never speaks); heavy NOVA-INTERPRETATION load flagged by the extractor itself ("prediction is a servant," "optimization function," etc.)
@@ -3341,7 +3341,1507 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+1. Confirmed Informative Omissions (A3/A2)
+
+### 1.1 Nova did not initially reconstruct Ziggy’s structural-equivalence claim before defending the conventional law/religion distinction
+
+**Omitted move:** Reconstruct the opposing framework at its intended level before evaluating it.
+
+**Relevant point:** Ziggy was asking whether secular law and religious authority share the same operative structure of inherited jurisdiction, command, coercion, and punishment. Nova repeatedly answered by emphasizing human authorship, revisability, and theoretical consent.
+
+**Source Anchor:**
+Ziggy — “do you see in the larger scheme of things, they’re both equivalent?”
+Later correction — “you’re drawing out the obvious of the technical point.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+Nova had already shown the ability to reconstruct deeper disputes in the consciousness segment by transforming a definition dispute into a primitive-permission dispute. Nova later also reconstructed prediction disputes at the level of utility versus sovereignty.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It generated several corrective turns in which Ziggy had to repeatedly grant Nova’s distinction and restate that the distinction did not reach the structural comparison he was making.
+
+**Stable or situational:**
+Situational. Nova eventually recalibrated. The omission appears tied to the assistant’s default mediator role rather than an inability to understand structural equivalence.
+
+---
+
+### 1.2 The law/religion comparison did not initially ask what distinct function each authority framework serves
+
+**Omitted move:** Ask what function a framework serves before scoring structural similarity as practical equivalence.
+
+**Relevant point:** Ziggy abstracted law and religion to command, jurisdiction, threat, and punishment. That exposed a real structural overlap, but neither participant initially compared functions such as:
+
+* coordinating public behavior;
+* resolving disputes;
+* maintaining territorial order;
+* disclosing metaphysical or moral truth;
+* shaping salvation, identity, or ultimate meaning.
+
+**Source Anchor:**
+Ziggy — “the same game is being played.”
+Ziggy — “governments … the threat exists in real life.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+Later, Ziggy and Nova repeatedly ask what prediction is *for*, what success means, and what underlying value a method serves. The final “what do you care about?” move demonstrates functional excavation was available.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It allowed similarity in enforcement structure to carry more argumentative weight than had yet been earned regarding total framework equivalence.
+
+**Stable or situational:**
+Situational. The functional question emerged later in the prediction discussion but was not retroactively applied to law and religion.
+
+---
+
+### 1.3 The strongest broad predictive-framework reconstruction was not fully developed before prediction’s jurisdiction was restricted
+
+**Omitted move:** Reconstruct the strongest opposing account before scoring its scope.
+
+**Relevant point:** Ziggy argued that prediction’s authority was earned in the “physical fact game” and should not automatically govern emotion, meaning, morality, or human decision. A stronger opposing account could claim that prediction is not merely a laboratory method but a general architecture involving:
+
+* expectation;
+* error correction;
+* anticipatory regulation;
+* action selection;
+* reliability estimation;
+* social inference;
+* trust calibration.
+
+The conversation recognized pieces of this—especially when Grant was reported as locating prediction inside marriage—but never assembled the strongest version before restricting jurisdiction.
+
+**Source Anchor:**
+Ziggy — “That’s what it is, physical facts.”
+Ziggy — “the methodologies … are not the same methodologies to understand human behavior and human decisions and human emotions.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+Ziggy later charitably weakens Grant’s view into a recommendation that all local frames use prediction. Nova repeatedly distinguishes explicit forecasting from implicit navigation. Both demonstrate the capacity for stronger reconstruction.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes, conditionally. It made the physical-versus-human jurisdiction victory easier than it would be against a broad predictive-processing thesis.
+
+**Stable or situational:**
+Situational. The conversation eventually approached the stronger account through autoregression and implicit prediction, but the earlier jurisdiction claim was not revisited under that reconstruction.
+
+---
+
+### 1.4 Ziggy did not fully apply the same burden test to his own plural-metric position
+
+**Omitted move:** Apply the same burden imposed on the opposing framework to one’s own emerging framework.
+
+**Relevant point:** Ziggy correctly challenged Grant’s reported move from useful metric to master frame. He named trust, beauty, love, meaning, suffering, and other factors, but did not specify:
+
+* how conflicts among them are adjudicated;
+* whether they are independently basic;
+* how contextual priority is determined;
+* what prevents arbitrary selection;
+* whether some global integration rule remains necessary.
+
+**Source Anchor:**
+Ziggy — “there’s other things going on in the acting calculus.”
+Ziggy — “I don’t have a complete list for you.”
+Ziggy — “trust is right next to prediction … beauty … etc.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+Ziggy repeatedly audits other frameworks for hidden primitives, jurisdictional overreach, and unearned promotion. He therefore demonstrably possesses the relevant burden-testing move.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+It did not defeat Ziggy’s narrow objection to prediction’s monopoly. A complete rival framework is not required to show that exclusivity is unproved. However, it prevented the conversation from moving from successful critique to a positive action architecture.
+
+**Stable or situational:**
+Possibly stable within this thread. Ziggy repeatedly returns to plurality without producing an integration rule, although he openly acknowledges the incompleteness rather than concealing it.
+
+---
+
+### 1.5 The prediction critique was not systematically tested under reversed roles
+
+**Omitted move:** Test the conclusion after reversing which value or mechanism claims sovereignty.
+
+**Relevant point:** Ziggy asked whether prediction illegitimately becomes a master frame. The same test could have been run against:
+
+* trust as master;
+* beauty as master;
+* love as master;
+* meaning as master;
+* pluralism as master;
+* contextual choice itself as master.
+
+For example: if someone said beauty is fundamental and prediction is merely its servant, would Ziggy accept the same argument structure?
+
+**Source Anchor:**
+Ziggy — “what if there’s a circumstance we wanted to calibrate for beauty over truth?”
+Nova — “prediction has not earned a monopoly.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+Ziggy explicitly proposes symmetric handling of religion and law: “how about we wield them both the same.” He also repeatedly transfers structures from suffering to prediction.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes, modestly. The critique successfully blocked prediction’s exclusive promotion but did not determine whether Ziggy’s alternative factors would survive the same anti-monopoly pressure.
+
+**Stable or situational:**
+Situational, but recurrent. Symmetry is strongly valued in the thread, yet it was incompletely applied to the plural alternative.
+
+---
+
+### 1.6 Nova initially failed to distinguish total equivalence from equivalence under a selected invariant
+
+**Omitted move:** Clarify exactly which property is being held constant in a comparison.
+
+**Relevant point:** Ziggy’s law/religion comparison was strongest when read as:
+
+> equivalent with respect to coercive subjection at the moment of enforcement.
+
+Nova often responded as though Ziggy had claimed:
+
+> equivalent in origin, revisability, legitimacy, ontology, and institutional structure.
+
+The exchange lacked an early formulation such as:
+
+> “They may be equivalent under the coercion variable while non-equivalent under source, appeal, and revisability variables.”
+
+**Source Anchor:**
+Ziggy — “in the larger scheme of things, they’re both equivalent?”
+Ziggy — “the same game is being played.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+The thread repeatedly distinguishes local from global claims, necessary conditions from decision rules, and useful metrics from sovereign standards. Variable-specific comparison was therefore demonstrably available.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It contributed to the impression that one side had to choose between total equivalence and total difference.
+
+**Stable or situational:**
+Situational. Later analysis effectively recovered the narrower enforcement-structure equivalence.
+
+---
+
+### 1.7 The “what do you care about?” shortcut was not tested against behavior when self-report and action conflict
+
+**Omitted move:** Compare professed value with revealed choice under pressure.
+
+**Relevant point:** Ziggy correctly recognized that strangers may not disclose what lies behind the curtain. The next available test was to distinguish:
+
+* what the person says they care about;
+* what their choices protect;
+* what they sacrifice first;
+* which standard remains operative under cost.
+
+**Source Anchor:**
+Ziggy — “what do you care about?”
+Ziggy — “you will almost never get a stranger to show you what’s behind their curtain immediately.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+The operative-rigidity test already shifts from a system’s self-description to what it does when punishment occurs. Ziggy also compares stated secular objections with actual obedience to government.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes, at the practical level. The final shortcut remained a disclosure request rather than becoming a method for detecting values when disclosure is unreliable.
+
+**Stable or situational:**
+Situational. The conversation ended immediately after the question was developed.
+
+---
+
+### 1.8 The marriage example did not preserve the distinction between population-level probability and case-specific prediction
+
+**Omitted move:** Clarify the jurisdiction and level of the statistical standard.
+
+**Relevant point:** Ziggy argued that trust may override prediction because marriage can be chosen despite a supposedly high divorce rate. Yet he also said the person believes their own marriage will not be the failed case.
+
+**Source Anchor:**
+Ziggy — “most marriages end in divorce.”
+Ziggy — “you don’t think that that’s going to be your case.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+The thread repeatedly distinguishes local from global frames and general from contextual standards. The same distinction was available between base rates and individualized estimates.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It weakened the claim that trust straightforwardly overrides prediction. The example may instead show trust modifying the relevant prediction.
+
+**Stable or situational:**
+Situational. The omission belongs to one illustrative example rather than the broader multi-factor thesis.
+
+---
+
+2. Possible Informative Omissions (A1)
+
+### 2.1 The empirical premise concerning divorce was not marked UNKNOWN
+
+**Omitted move:** Distinguish an uncertain empirical premise from an established one.
+
+**Relevant point:** “Most marriages end in divorce” was used to generate adverse odds.
+
+**Source Anchor:**
+Ziggy — “technically we should be able to … talk about how most marriages end in divorce.”
+
+**Availability tier:** A1 — Contextually Available
+
+A competent participant could have bracketed the statistic and preserved the conceptual example without relying on its factual accuracy.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Only slightly. The example could be restated using any acknowledged high-risk commitment.
+
+**Stable or situational:**
+Situational.
+
+---
+
+### 2.2 The non-Boolean global-prediction claim was not clarified before being used as pressure
+
+**Omitted move:** Define the technical claim and distinguish established result from speculative complication.
+
+**Relevant point:** Ziggy suggested that “the global prediction is going to be non-Boolean,” but no explanation was supplied concerning:
+
+* what the relevant propositions are;
+* what non-Boolean structure means here;
+* why prediction would fail rather than change form;
+* how the claim relates to local/global gluing.
+
+**Source Anchor:**
+Ziggy — “it’s kind of well-established that the global prediction is going to be non-Boolean.”
+
+**Availability tier:** A1 — Contextually Available
+
+The exchange clearly called for technical clarification, but no demonstrated use of that exact clarification procedure appears around this claim.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The non-Boolean point cannot carry evidential weight within the bounded thread.
+
+**Stable or situational:**
+Situational.
+
+---
+
+### 2.3 The consciousness discussion did not test whether different primitive candidates possess equal explanatory cost
+
+**Omitted move:** Apply symmetry without presuming equivalence.
+
+**Relevant point:** The conversation correctly asked whether consciousness and matter were granted equal permission to be fundamental. It did not then compare:
+
+* explanatory scope;
+* internal coherence;
+* dependence relations;
+* causal adequacy;
+* integration with established theories;
+* unresolved burdens.
+
+**Source Anchor:**
+Ziggy — “unless you can prove … consciousness is fundamental, they refuse to accept any way you want to define or talk about it.”
+
+**Availability tier:** A1 — Contextually Available
+
+Equal permission to compete does not imply equal evidential standing. A competent participant could reasonably have added this second-stage comparison.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+It prevented the conversation from distinguishing fair admission to the contest from parity after evaluation.
+
+**Stable or situational:**
+Situational. The immediate target was burden asymmetry, not final metaphysical ranking.
+
+---
+
+### 2.4 The law discussion did not separate compliance from endorsement
+
+**Omitted move:** Distinguish acting under coercive constraint from treating the authority as legitimate or morally correct.
+
+**Relevant point:** Ziggy emphasized that secular people obey government to avoid jail and contrasted this with their rejection of divine authority.
+
+**Source Anchor:**
+Ziggy — “they will follow to the letter … of the law to avoid being in jail.”
+
+**Availability tier:** A1 — Contextually Available
+
+A person may comply with a threat while rejecting the authority’s legitimacy. This distinction was relevant to the consistency charge.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Without it, pragmatic submission risks being interpreted as principled acceptance.
+
+**Stable or situational:**
+Situational. Ziggy briefly acknowledges pragmatism—“because it can’t be fought”—but the implication was not fully integrated.
+
+---
+
+### 2.5 The authority comparison did not distinguish objection to power from objection to epistemically unsupported power
+
+**Omitted move:** Clarify whether the secular criticism targets coercion itself or coercion combined with unverified authority claims.
+
+**Relevant point:** Ziggy’s charge assumes the critic objects to God because divine authority is powerful and unfair. A critic might instead object because they do not believe the alleged commander exists or authorized the rule.
+
+**Source Anchor:**
+Ziggy — “one of the main charges against God is that there’s some power and it’s unfair.”
+
+**Availability tier:** A1 — Contextually Available
+
+A competent interlocutor could distinguish opposition to authority as such from opposition to a disputed claimant’s authority.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It may reduce the claimed secular inconsistency.
+
+**Stable or situational:**
+Situational. No secular interlocutor was directly present to clarify the objection.
+
+---
+
+### 2.6 The truth-versus-beauty example did not distinguish factual belief from practical presentation
+
+**Omitted move:** Clarify whether beauty is being allowed to replace truth in belief or merely to guide expression, design, ritual, attention, or action.
+
+**Relevant point:** Ziggy proposed calibrating for beauty over truth in some contexts.
+
+**Source Anchor:**
+Ziggy — “there could be a contextual scenario where the hierarchy of values wants to lean in a beauty lens versus truth.”
+
+**Availability tier:** A1 — Contextually Available
+
+The distinction matters because one may value beauty in action without believing false propositions.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Without clarification, Grant could interpret the example as permission to believe falsehoods rather than as contextual value pluralism.
+
+**Stable or situational:**
+Situational.
+
+---
+
+### 2.7 The conversation did not temporarily grant Grant’s strongest conclusion and inspect what would still remain unexplained
+
+**Omitted move:** Temporarily grant a possibility for diagnostic purposes.
+
+**Relevant point:** Suppose prediction were universal and fundamental. The conversation could then ask whether that fact alone determines:
+
+* goals;
+* obligations;
+* identities;
+* reasons for preferring truth;
+* acceptable losses;
+* meaning.
+
+**Source Anchor:**
+Ziggy — “life itself cannot express without … some internal predictive engine.”
+Ziggy — “there’s more going on.”
+
+**Availability tier:** A1 — Contextually Available
+
+The thread frequently grants limited points, but no explicit full temporary grant of prediction’s universality was used as a diagnostic test.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Possibly. Such a grant could have strengthened Ziggy’s position by showing that even maximal prediction does not obviously supply normativity.
+
+**Stable or situational:**
+Situational.
+
+---
+
+### 2.8 The conversation did not distinguish “prediction is involved” from “prediction explains”
+
+**Omitted move:** Separate component presence from explanatory sufficiency.
+
+**Relevant point:** Grant is reported as finding a predictive component in marriage and perhaps every action. Ziggy often replies that more is occurring.
+
+**Source Anchor:**
+Ziggy — “there is some minor prediction involved.”
+Ziggy — “prediction is used, but there’s more going on.”
+
+**Availability tier:** A1 — Contextually Available
+
+The distinction was implicit but not compressed into an explicit rule:
+
+> Presence in every case does not establish that the mechanism explains the case at the relevant level.
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Moderately. An explicit distinction would have prevented repeated return to the fact that prediction is present somewhere in the chain.
+
+**Stable or situational:**
+Recurrent but not necessarily stable; the breathing analogy partly performs this work.
+
+---
+
+3. Non-Informative Omissions (A0)
+
+### 3.1 Grant did not answer the trust, beauty, local/global, or autoregression objections
+
+**Why relevant:** Direct replies would determine whether Ziggy is attacking Grant’s actual view or a stronger reconstruction.
+
+**Availability tier:** A0 — Unknown
+
+Grant is not present in the bounded source. It cannot be inferred that he refused or failed to answer.
+
+**Omission classification:** NON-INFORMATIVE
+
+**Did the absence change the outcome?**
+It limits all conclusions about Grant personally.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+### 3.2 Angels did not contribute to the consciousness or brute-fact dispute
+
+**Why relevant:** Angels is mentioned as part of the historical background.
+
+**Availability tier:** A0 — Unknown
+
+No Angels speech appears in the bounded thread.
+
+**Omission classification:** NON-INFORMATIVE
+
+**Did the absence change the outcome?**
+It prevents an Angels position or omission analysis.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+### 3.3 Curt’s critics did not defend their requests for a consciousness definition
+
+**Why relevant:** Their motives are central to whether the demand was legitimate clarification or concealed physicalism.
+
+**Availability tier:** A0 — Unknown
+
+The video transcript and critic statements are absent.
+
+**Omission classification:** NON-INFORMATIVE
+
+**Did the absence change the outcome?**
+Yes, evidentially. The “playing dumb” characterization remains Z-REPORTED.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+### 3.4 No participant supplied a completed global integration architecture
+
+**Why relevant:** The conversation repeatedly discusses global coherence and multiple local frames.
+
+**Availability tier:** A0 — Unknown
+
+Nothing in the bounded thread establishes that either participant possessed such an architecture and declined to use it.
+
+**Omission classification:** NON-INFORMATIVE
+
+**Did the absence change the outcome?**
+It leaves the positive global theory unresolved, but no defect should be inferred merely from that absence.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+### 3.5 No formal theory of autoregressive human language was supplied
+
+**Why relevant:** The conversation asks whether language is autoregressive.
+
+**Availability tier:** A0 — Unknown
+
+The discussion is conceptual, and no evidence establishes access to or deliberate withholding of a formal model.
+
+**Omission classification:** NON-INFORMATIVE
+
+**Did the absence change the outcome?**
+It limits the claim to an analogy or partial model.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+4. Counterevidence Findings
+
+### 4.1 Characterization: Ziggy treats consciousness-definition demands as disguised primitive exclusion
+
+**Counterevidence found:**
+Ziggy acknowledges that consciousness is “admittedly difficult” to define and that avoiding circularity is difficult. This preserves the possibility that some definitional pressure is legitimate.
+
+**Source Anchor:**
+Opening — “it is admittedly difficult to steer away from circularity.”
+
+**Result:**
+The strong reading—every request for definition is bad-faith physicalism—is weakened. The narrower reading survives: some requests may be carrying an unacknowledged refusal to permit consciousness as fundamental.
+
+**Additional search:**
+Searched for Ziggy explicitly granting a specific critic’s request as neutral; none found.
+
+---
+
+### 4.2 Characterization: Ziggy seeks symmetry in primitive permission
+
+**Counterevidence found:**
+No clear counterexample in which Ziggy exempts one preferred primitive from all scrutiny appears.
+
+However, he does not later perform a comparative cost analysis of consciousness, matter, God, or neutral foundations after demanding equal admission.
+
+**Result:**
+The permission-symmetry characterization survives. Any stronger claim that Ziggy has supplied a symmetric final evaluation does not.
+
+---
+
+### 4.3 Characterization: Ziggy denies that a master frame has been established
+
+**Counterevidence found:**
+Ziggy still speaks positively about a possible “frame of all framing” and a “source of all goodness.” He does not reject the possibility of a master frame in principle.
+
+**Source Anchor:**
+“If we could find the frame of all framing.”
+“There is a source of all goodness.”
+
+**Result:**
+The characterization must remain epistemic, not metaphysical: Ziggy doubts that humans have conclusively identified the master frame; he does not deny that one exists.
+
+---
+
+### 4.4 Characterization: Ziggy treats law and religion as equivalent
+
+**Counterevidence found:**
+Substantial counterevidence appears. Ziggy repeatedly grants:
+
+* the historical difference in framing;
+* the technical revisability of law;
+* the danger of unchallengeable claimed truth;
+* the difference between humble pursuit and authoritarian revelation;
+* the existence of especially coercive religious episodes.
+
+**Source Anchors:**
+“I don’t disagree that historically, that’s kind of the proper framing.”
+“On a technicality, it’s provisional and it can be updated.”
+“That’s a problem when you don’t know for sure.”
+“Short of those moments … there’s other ways.”
+
+**Result:**
+The total-equivalence characterization is weakened. The narrower characterization survives: Ziggy sees equivalence under inherited coercive authority and present enforcement.
+
+---
+
+### 4.5 Characterization: Ziggy sees secular obedience to government as inconsistent with criticism of divine authority
+
+**Counterevidence found:**
+Ziggy explicitly acknowledges pragmatic coercion: people comply because government “can’t be fought” and because the threat is real.
+
+**Source Anchor:**
+“I mean, there’s a pragmatism in that because it can’t be fought.”
+
+**Result:**
+The behavior alone does not prove principled inconsistency. The surviving question concerns whether secular rhetoric condemns coercive authority categorically while excusing structurally similar secular coercion.
+
+**Additional search:**
+Searched for a direct secular speaker endorsing government as morally legitimate while rejecting God solely because authority is coercive; none found.
+
+---
+
+### 4.6 Characterization: Ziggy distinguishes ultimate goodness from infallible human access
+
+**Counterevidence found:**
+Searched for Ziggy endorsing an unchallengeable human religious authority; none found.
+
+He consistently objects to one person claiming a dream authorizes lethal coercion.
+
+**Result:**
+Characterization strongly survives.
+
+---
+
+### 4.7 Characterization: Ziggy proposes symmetric provisional handling of religion and law
+
+**Counterevidence found:**
+Ziggy’s own operative-rigidity argument emphasizes that law cannot remain fully provisional at the point of enforcement. Therefore “wield both provisionally” does not by itself explain how collective rules can ever be decisively applied.
+
+**Result:**
+The procedural-humility proposal survives as an aspiration but weakens as a complete governance model.
+
+---
+
+### 4.8 Characterization: Grant holds prediction to be an exclusive master frame
+
+**Counterevidence found:**
+Strong source-level counterevidence exists in Ziggy’s uncertainty:
+
+* “what he’s trying to get at”;
+* “I think what he’s looking for me is to agree”;
+* “perhaps”;
+* “I think he could still make his point”;
+* “he would recommend all local frames use prediction.”
+
+**Result:**
+The characterization weakens from “Grant demonstrably claims exclusivity” to “Ziggy reasonably suspects Grant is promoting prediction from universal usefulness toward global authority.”
+
+**Additional search:**
+Searched for G-DIRECT language such as “prediction is all you need”; none found.
+
+---
+
+### 4.9 Characterization: Ziggy rejects prediction
+
+**Counterevidence found:**
+Extensive evidence against this characterization:
+
+* “I wanna agree, yeah, it’s useful.”
+* “I’m not rejecting it.”
+* “It works in some cases.”
+* “I don’t wanna fight against it.”
+* “Prediction is informed from, prediction is used.”
+
+**Result:**
+The rejection characterization fails. Ziggy’s position is anti-exclusivity, not anti-prediction.
+
+---
+
+### 4.10 Characterization: Ziggy treats prediction as merely optional
+
+**Counterevidence found:**
+Ziggy grants that prediction may be fundamental, unavoidable, or biologically embedded.
+
+**Source Anchors:**
+“All our actions are based on … prediction.”
+“Life itself cannot express without … some internal predictive engine.”
+“Breathing is fundamental” analogy used to grant necessity.
+
+**Result:**
+The characterization weakens. Ziggy disputes normative sovereignty, not necessarily structural indispensability.
+
+---
+
+### 4.11 Characterization: The breathing analogy establishes that prediction cannot guide action globally
+
+**Counterevidence found:**
+The analogy assumes prediction is merely enabling like breathing. The thread does not establish that similarity. Prediction might be constitutively related to rational action in a way breathing is not.
+
+**Result:**
+The analogy survives as an intuition pump exposing a possible inference gap. It does not independently prove the gap exists.
+
+---
+
+### 4.12 Characterization: Trust is independent of prediction
+
+**Counterevidence found:**
+Ziggy himself notes that distrust versus trust changes the prediction. Grant’s reported response can interpret trust as evidence about partner reliability.
+
+**Source Anchor:**
+“The prediction was gonna shift, but that’s kind of being coded by the bias of trust.”
+
+**Result:**
+Independence is not established. Trust may be:
+
+* upstream of prediction;
+* incorporated into prediction;
+* a compressed reliability estimate;
+* a value governing action despite prediction.
+
+The exact relation remains UNKNOWN.
+
+---
+
+### 4.13 Characterization: Trust overrides prediction in marriage
+
+**Counterevidence found:**
+Ziggy says the person does not believe the general negative outcome will apply in their own case.
+
+**Source Anchor:**
+“You don’t think that that’s going to be your case.”
+
+**Result:**
+The example may show individualized optimism or trust-conditioned prediction rather than action against one’s own prediction. The broader claim that people can act despite acknowledged low odds remains plausible but is not established by this example alone.
+
+---
+
+### 4.14 Characterization: Suffering and prediction are structurally the same kind of metric
+
+**Counterevidence found:**
+Suffering is discussed as morally salient content or consequence; prediction is discussed as an epistemic and cognitive process. Their roles differ.
+
+**Result:**
+The same-structure comparison survives only at the level:
+
+> an important factor is promoted into an exhaustive calculus.
+
+It does not establish that suffering and prediction are otherwise equivalent.
+
+---
+
+### 4.15 Characterization: Ziggy possesses no master frame
+
+**Counterevidence found:**
+Ziggy repeatedly privileges:
+
+* symmetry;
+* humility;
+* plural calibration;
+* resistance to unearned sovereignty;
+* contextual integration.
+
+These may function as higher-order regulatory commitments even while he denies possessing one substantive master metric.
+
+**Result:**
+The claim weakens. Ziggy may lack one first-order master value while operating under a second-order anti-monopoly or symmetry frame.
+
+---
+
+### 4.16 Characterization: Prediction is local while meaning and value are non-predictive
+
+**Counterevidence found:**
+Ziggy repeatedly grants predictive elements inside:
+
+* marriage;
+* conversation;
+* action;
+* language;
+* social expectation.
+
+**Result:**
+A hard domain separation is weakened. The surviving claim is jurisdictional:
+
+> predictive presence or usefulness in a human domain does not establish explanatory or normative sufficiency there.
+
+---
+
+### 4.17 Characterization: Scientific prediction only concerns physical facts
+
+**Counterevidence found:**
+The conversation itself discusses predictive reasoning about human relationships and speech. No evidence establishes that scientific methods cannot study human behavior, emotion, or decision.
+
+**Result:**
+The strong claim weakens. “Physical fact game” is better read as identifying the domain in which prediction has its clearest prestige, not its exclusive possible domain.
+
+---
+
+### 4.18 Characterization: Local predictive success does not establish global sovereignty
+
+**Counterevidence found:**
+Searched for any argument in the conversation demonstrating the local-to-global transition; none found.
+
+Ziggy explicitly distinguishes the levels and treats the global claim as “perhaps” Grant’s intended move.
+
+**Result:**
+The scope-audit characterization strongly survives. Whether Grant actually makes the global move remains uncertain.
+
+---
+
+### 4.19 Characterization: Non-Boolean global structure defeats prediction
+
+**Counterevidence found:**
+No supporting derivation appears. No explanation is given for why non-Boolean logic would eliminate rather than modify probabilistic inference.
+
+**Result:**
+The characterization does not survive as an established claim.
+
+---
+
+### 4.20 Characterization: Truth is merely one optional value beneath prediction
+
+**Counterevidence found:**
+The conversation recognizes Grant’s likely response that truth is required to distinguish “up” from “down” and avoid granting contradictions equal status. Christians are also described as pursuing truth rather than treating it as dispensable.
+
+**Result:**
+The claim that prediction serves truth survives. The stronger claim that truth is merely interchangeable with beauty or preference remains unresolved.
+
+---
+
+### 4.21 Characterization: Beauty can sometimes outrank truth
+
+**Counterevidence found:**
+No concrete case is developed showing whether this concerns belief, action, art, presentation, ritual, or compassionate concealment.
+
+**Result:**
+The possibility is preserved but underdefined. No decisive support or refutation appears.
+
+---
+
+### 4.22 Characterization: Autoregressive self-surprise undermines prediction
+
+**Counterevidence found:**
+Nova explicitly distinguishes conscious forecast from implicit navigation. A probabilistic generative system can surprise itself at one level while remaining predictive at another.
+
+**Result:**
+The refutation reading weakens. The clarification reading survives: self-surprise forces disambiguation of “prediction.”
+
+---
+
+### 4.23 Characterization: Prediction cannot account for novelty
+
+**Counterevidence found:**
+No evidence in the thread shows that predictive systems require deterministic foreknowledge or cannot sample low-probability outputs.
+
+**Result:**
+The characterization weakens substantially. Novelty challenges simplistic perfect-predictor language, not probabilistic prediction as such.
+
+---
+
+### 4.24 Characterization: “Following evidence predicts success” is blatant question-begging
+
+**Counterevidence found:**
+Nova correctly notes that it can be an ordinary empirical hypothesis and therefore need not be circular.
+
+**Result:**
+The blatant-question-begging classification fails in its unrestricted form. Circularity appears only if success through prediction is used to justify the prior value of success, truth, or prediction itself.
+
+---
+
+### 4.25 Characterization: “What do you care about?” reliably reveals the hidden frame
+
+**Counterevidence found:**
+Ziggy immediately supplies counterevidence:
+
+* strangers may not disclose;
+* people may not know;
+* the curtain may remain closed.
+
+Nova adds that socially respectable abstractions such as “rationality” may conceal deeper values.
+
+**Result:**
+The question survives as a shortcut attempt, not as a reliable terminal test.
+
+---
+
+### 4.26 Characterization: Nova consistently answered at a shallower level than Ziggy
+
+**Counterevidence found:**
+Nova’s opening consciousness response immediately identifies primitive permission, asymmetric bedrock, local/global gluing, and underdetermination. Later Nova also develops value regress and implicit prediction.
+
+**Result:**
+The characterization weakens from global role description to a recurrent local loop, especially in the law/religion segment.
+
+---
+
+### 4.27 Characterization: Ziggy merely uses rhetorical analogies
+
+**Counterevidence found:**
+The analogies repeatedly preserve specific inferential structures:
+
+* necessary versus sovereign;
+* general odds versus commitment;
+* current enforcement versus theoretical revisability;
+* instrument versus destination.
+
+**Result:**
+The operator classification survives, although each analogy remains vulnerable to disanalogy.
+
+---
+
+### 4.28 Characterization: Ziggy refuses strong evidential pruning
+
+**Counterevidence found:**
+Ziggy repeatedly asks how competing systems saying “up” and “down” should be adjudicated and recognizes the force of predictive evidence in physical domains. He does not advocate granting every framework equal correctness.
+
+**Result:**
+Any characterization of Ziggy as indiscriminately pluralistic fails. His position is plural-method and anti-monopoly, not “all frames are equally true.”
+
+---
+
+### 4.29 Characterization: Ziggy always preserves attractive possibilities
+
+**Counterevidence found:**
+No clear example appears of Ziggy rejecting a personally attractive possibility because evidence decisively ruled it out.
+
+**Result:**
+Searched, none found. No conclusion should be drawn because the thread does not present a suitable test case.
+
+---
+
+### 4.30 Characterization: Explanation is valued independently of prediction
+
+**Counterevidence found:**
+Ziggy names meaning, trust, beauty, human decision, and emotional understanding as factors not exhausted by prediction. However, he does not supply a developed case where explanatory depth is explicitly preferred despite equal or worse prediction.
+
+**Result:**
+Partial support only. The broader value-pluralism characterization survives; a specific prediction-versus-explanation preference remains UNKNOWN.
+
+---
+
+### 4.31 Characterization: Ziggy performs charitable reconstruction
+
+**Counterevidence found:**
+Clear positive evidence exists:
+
+> “I think he could still make his point … recommend all local frames use prediction.”
+
+No contradictory example establishes deliberate caricature, though some phrases such as “all you need is prediction” may overstate Grant’s direct wording.
+
+**Result:**
+The charitable-reconstruction characterization survives, with attribution caution.
+
+---
+
+### 4.32 Characterization: The conversation demands strong evidential pruning
+
+**Counterevidence found:**
+The participants do not dismiss prediction, evidence, or truth. They repeatedly seek a criterion capable of distinguishing conflicting claims.
+
+However, several speculative claims—non-Boolean global prediction, divorce base rates, broad secular motives—are not pruned or marked uncertain during the live exchange.
+
+**Result:**
+The aspiration survives; execution is uneven.
+
+---
+
+5. Alternative Readings
+
+### 5.1 Primitive-Permission Audit
+
+**Primary reading:** A repeatable cognitive operation exposing asymmetric rights to explanatory bedrock.
+
+**Strongest alternative:** A substantive pro-consciousness or anti-physicalist belief presented as a burden complaint.
+
+**Discriminating evidence:** The same structure is later applied to prediction, suffering, law, and truth, showing transfer beyond consciousness.
+
+**Verdict:** Operator reading stronger.
+
+---
+
+### 5.2 Hidden-Frame Exposure
+
+**Primary reading:** A method for turning “neutral method” into an explicit framework commitment.
+
+**Strongest alternative:** General suspicion toward standards that constrain preferred possibilities.
+
+**Discriminating evidence:** Ziggy does not reject standards wholesale. He accepts prediction and evidence within bounded jurisdictions and asks how conflicting truth claims should be resolved.
+
+**Verdict:** Operator reading survives; blanket anti-standard reading weakened.
+
+---
+
+### 5.3 Master-Frame Promotion Check
+
+**Primary reading:** An inferential audit separating usefulness, necessity, and sovereignty.
+
+**Strongest alternative:** A substantive commitment to pluralism or resistance to final answers.
+
+**Discriminating evidence:** Ziggy explicitly allows that a true “frame of all framing” might exist. His objection concerns whether the promotion has been earned.
+
+**Verdict:** Operator reading stronger.
+
+---
+
+### 5.4 Concession Without Surrender
+
+**Primary reading:** Deliberate narrowing of disagreement.
+
+**Strongest alternative:** Genuine uncertainty or reluctance to commit.
+
+**Discriminating evidence:** Ziggy repeatedly and strategically says prediction is useful immediately before rejecting monopoly. The pattern is too regular to be explained only by uncertainty.
+
+**Verdict:** Operator reading survives, with uncertainty as a contributing factor.
+
+---
+
+### 5.5 Metric Demotion
+
+**Primary reading:** Reclassifying a master standard as one dial in a wider calculus.
+
+**Strongest alternative:** A substantive preference for many values without a decision rule.
+
+**Discriminating evidence:** The move is deliberately transferred from suffering to prediction, showing a reusable operation.
+
+**Verdict:** Operator reading survives; positive plural framework remains incomplete.
+
+---
+
+### 5.6 Neighbor-Factor Introduction
+
+**Primary reading:** Introducing trust or beauty to defeat explanatory monopoly.
+
+**Strongest alternative:** Rhetorical example generation without proof of factor independence.
+
+**Discriminating evidence:** Ziggy explicitly asks how trust changes predictive output and action, demonstrating more than ornamental mention.
+
+**Verdict:** Exploratory-operator reading survives; the conclusion of independence remains unproved.
+
+---
+
+### 5.7 Trust Override
+
+**Primary reading:** Trust can direct action against predictive likelihood.
+
+**Strongest alternative:** Trust simply changes the personalized prediction or expected utility.
+
+**Discriminating evidence:** Ziggy says both that general odds are bad and that the person believes their case will differ.
+
+**Verdict:** Alternative reading is at least equally supported. “Override” weakened.
+
+---
+
+### 5.8 Goal-Dependence Excavation
+
+**Primary reading:** Prediction is traced back to prior values such as truth or success.
+
+**Strongest alternative:** A rhetorical regress that assumes all reasons must terminate in subjective care.
+
+**Discriminating evidence:** The thread does not test constitutive rational norms, epistemic duties, or objective value realism as alternative stopping points.
+
+**Verdict:** Operator classification survives; its metaethical interpretation remains open.
+
+---
+
+### 5.9 Curtain Question
+
+**Primary reading:** Direct investigative shortcut to foundational values.
+
+**Strongest alternative:** A rhetorical intimacy move that elicits identity performance rather than actual governing commitments.
+
+**Discriminating evidence:** Ziggy himself anticipates concealment; no successful use occurs in the bounded thread.
+
+**Verdict:** Consequential one-time exploratory move, not yet validated as a reliable operator.
+
+---
+
+### 5.10 Local-to-Global Scope Audit
+
+**Primary reading:** A repeatable restriction on unjustified extrapolation.
+
+**Strongest alternative:** A substantive anti-unification stance.
+
+**Discriminating evidence:** Ziggy permits that a global frame might exist and even charitably permits prediction in all local frames.
+
+**Verdict:** Operator reading strongly survives.
+
+---
+
+### 5.11 Domain-Jurisdiction Restriction
+
+**Primary reading:** A method should not govern outside its demonstrated domain without argument.
+
+**Strongest alternative:** A category boundary asserted too sharply between physical facts and human meanings.
+
+**Discriminating evidence:** Ziggy concedes prediction inside relationships and language, indicating he is not claiming total separation.
+
+**Verdict:** Narrow jurisdictional operator survives; hard domain dualism weakens.
+
+---
+
+### 5.12 Operative-Rigidity Test
+
+**Primary reading:** Judge provisionality by what can change for the person currently under sanction.
+
+**Strongest alternative:** A rhetorical focus on the harshest temporal snapshot that ignores appeal, precedent, discretion, reform, and institutional self-correction.
+
+**Discriminating evidence:** Ziggy explicitly grants technical revisability but treats immediate enforcement as the relevant variable.
+
+**Verdict:** Valid operator for lived coercion; insufficient for total system comparison.
+
+---
+
+### 5.13 Enforcement-Structure Equivalence Test
+
+**Primary reading:** Compare systems under the invariant of coercive authority.
+
+**Strongest alternative:** Selective abstraction that predetermines equivalence by ignoring differentiating properties.
+
+**Discriminating evidence:** Ziggy openly acknowledges differences but insists they do not eliminate the selected structural overlap.
+
+**Verdict:** Operator survives when narrowly stated; total-equivalence conclusion weakens.
+
+---
+
+### 5.14 Symmetric-Wielding Proposal
+
+**Primary reading:** A repeatable procedural rule requiring equivalent humility across secular and religious systems.
+
+**Strongest alternative:** A substantive liberal-pluralist ideal rather than a cognitive operator.
+
+**Discriminating evidence:** It prescribes how frameworks should be held and compared, not merely what Ziggy believes about them.
+
+**Verdict:** Best classified as REGULATORY / PROTOCOL-LIKE rather than purely cognitive.
+
+---
+
+### 5.15 Charitable Weakening
+
+**Primary reading:** Ziggy reconstructs a narrower Grant thesis he can accept.
+
+**Strongest alternative:** Uncertainty about what Grant actually believes.
+
+**Discriminating evidence:** Both are present. Ziggy uses “I think he could still make his point,” which is simultaneously charitable and speculative.
+
+**Verdict:** Mixed classification: EXPLORATORY and uncertainty-induced.
+
+---
+
+### 5.16 Analogy-Based Intuition Transfer
+
+**Primary reading:** A repeatable reasoning method.
+
+**Strongest alternative:** Persuasive rhetoric that makes dissimilar cases feel structurally identical.
+
+**Discriminating evidence:** Multiple analogies clarify genuine logical distinctions, but their evidential force depends on preserved similarity.
+
+**Verdict:** Dual classification remains appropriate: TRANSFORMATIVE and RHETORICAL.
+
+---
+
+### 5.17 Self-Opaqueness Challenge
+
+**Primary reading:** Forces clarification of whether prediction requires self-transparent foreknowledge.
+
+**Strongest alternative:** One-off reaction to an autoregression video.
+
+**Discriminating evidence:** It immediately reconnects to the established prediction dispute and repeats the local/global concern about a system’s inability to fully certify itself.
+
+**Verdict:** Exploratory operator reading survives; refutational force weakens.
+
+---
+
+### 5.18 No-Complete-Rival Requirement
+
+**Primary reading:** A monopoly claim can be challenged without constructing a complete alternative.
+
+**Strongest alternative:** Defensive permission to remain indefinitely noncommittal.
+
+**Discriminating evidence:** Ziggy does provide positive candidate factors and contextual examples, but no integration rule.
+
+**Verdict:** Legitimate burden principle for negative critique; inadequate as a substitute for positive theory.
+
+---
+
+### 5.19 Formula Compression
+
+**Primary reading:** Creates reusable conceptual handles.
+
+**Strongest alternative:** Stylistic preference for slogans.
+
+**Discriminating evidence:** Ziggy explicitly calls one phrase “the bumper sticker” and seeks wording for future use with Grant.
+
+**Verdict:** Rhetorical-regulatory operator classification survives.
+
+---
+
+### 5.20 Validation → Correction interaction loop
+
+**Primary reading:** Relationship-level refinement process.
+
+**Strongest alternative:** Nova’s role-induced agreeableness followed by Ziggy steering the answer toward confirmation.
+
+**Discriminating evidence:** Nova sometimes supplies genuine resistance and caveats, but often moves closer to Ziggy after correction.
+
+**Verdict:** Both readings contribute. The loop is real, but its epistemic quality varies by turn.
+
+---
+
+6. Characterizations That Survived
+
+7. **The bounded conversation contains no G-DIRECT evidence.** All Grant positions remain reported, anticipated, or reconstructed.
+
+8. **Ziggy’s central target is promotion, not usefulness.** He repeatedly grants prediction’s value while challenging its movement toward sovereignty.
+
+9. **The necessary-condition / decision-rule distinction is a genuine repeated reasoning move.** The breathing analogy is its clearest expression.
+
+10. **Ziggy repeatedly demotes proposed master metrics into bounded indicators.** This occurs with suffering and prediction.
+
+11. **The local-to-global scope audit is stable and well-supported.** Ziggy consistently separates local recommendation from global certification.
+
+12. **Ziggy is not an indiscriminate relativist.** He recognizes contradiction, truth-seeking, evidence, and the need to distinguish “up” from “down.”
+
+13. **The primitive-permission audit survives.** The consciousness dispute is plausibly reframed as a contest over admissible bedrock, though this does not settle which primitive performs best.
+
+14. **Ziggy distinguishes ultimate truth from infallible human access.** The thread consistently opposes solitary authoritarian certainty while preserving the possibility of objective goodness.
+
+15. **The law/religion comparison survives under a restricted invariant.** Both may place persons under inherited rules backed by punishment, especially at the moment of enforcement.
+
+16. **The operative-rigidity test survives as a serious practical challenge to abstract provisionality.** A rule’s future revisability does not help the person being sentenced under it today.
+
+17. **Concession Without Surrender is a stable interaction strategy.** Ziggy repeatedly prevents limited agreement from becoming global concession.
+
+18. **Trust is a legitimate pressure point against simplistic prediction accounts.** It clearly affects evidence weighting, confidence, commitment, and action, even though its independence from prediction remains unresolved.
+
+19. **The physical-fact jurisdiction challenge survives in narrowed form.** Predictive success in physical inquiry does not automatically establish normative sufficiency in every human domain.
+
+20. **The self-opaqueness challenge survives as a demand for semantic calibration.** “Prediction” must distinguish conscious forecast from implicit generative constraint.
+
+21. **The goal-dependence sequence survives.** “Success,” “truth,” and “reality alignment” require clarification before prediction can be called ultimate.
+
+22. **The “what do you care about?” question survives as a high-value investigative shortcut.** It does not survive as a guaranteed disclosure mechanism.
+
+23. **Nova’s role as abstraction and phrase generator is well-supported.** Nova repeatedly converts Ziggy’s examples into portable formulations.
+
+24. **The relationship-level correction loop is real.** Ziggy repeatedly rejects technically correct but insufficiently deep distinctions and redirects Nova toward structural analysis.
+
+25. **Ziggy’s offense is primarily anti-monopoly rather than replacement-oriented.** He attacks jurisdictional expansion without claiming a completed rival master system.
+
+26. **The absence of a complete alternative does not invalidate the narrow monopoly critique.** It does, however, leave the positive action architecture unfinished.
+
+27. Characterizations That Weakened
+
+28. **“Grant claims prediction is all anyone needs.”**
+    Weakened because there is no direct Grant evidence and Ziggy repeatedly speaks speculatively about what Grant is trying to establish.
+
+29. **“Grant is making a global prediction claim.”**
+    Weakened to a possible interpretation. Ziggy himself constructs a weaker local recommendation that Grant might hold.
+
+30. **“Law and religion are equivalent.”**
+    Weakened to equivalence under selected enforcement variables. Total equivalence is contradicted by Ziggy’s own concessions.
+
+31. **“Secular compliance with government proves acceptance of governmental authority.”**
+    Weakened because compliance under threat may occur without endorsement.
+
+32. **“Secular rejection of God is inconsistent because secular people obey law.”**
+    Weakened because no direct secular interlocutor is present, and objections may concern evidence for authority rather than authority as such.
+
+33. **“Trust overrides prediction in the marriage example.”**
+    Weakened because the agent may hold a favorable case-specific prediction despite an unfavorable general statistic.
+
+34. **“Trust is independent of prediction.”**
+    Weakened because trust may itself function as evidence, prior expectation, or compressed reliability modeling.
+
+35. **“Prediction belongs only to the physical-fact domain.”**
+    Weakened because the thread itself grants predictive processes in relationships, language, and action.
+
+36. **“Human decisions require entirely different methods from physical inquiry.”**
+    Weakened to a claim of non-identical jurisdiction and incomplete reducibility, not complete methodological separation.
+
+37. **“Autoregressive surprise refutes prediction.”**
+    Weakened substantially. It distinguishes levels of prediction but does not defeat probabilistic predictive generation.
+
+38. **“Novelty cannot occur under prediction.”**
+    Weakened because no argument excludes probabilistic novelty or low-probability output.
+
+39. **“Following evidence predicts success” is blatantly question-begging.**
+    Weakened. It may be an ordinary empirical claim; circularity arises only in the attempted justification of the underlying value.
+
+40. **“Beauty can override truth” as presently stated.**
+    Weakened because the relevant domain—belief, expression, action, ritual, or design—is unspecified.
+
+41. **“Non-Boolean global structure blocks prediction.”**
+    Weakened to unsupported speculation within the bounded thread.
+
+42. **“Ziggy has no master frame.”**
+    Weakened because symmetry, humility, anti-monopoly discipline, and contextual pluralism may function as higher-order governing commitments.
+
+43. **“Nova generally fails to reach Ziggy’s depth.”**
+    Weakened to a local interaction pattern. Nova reaches the deeper level immediately in several other portions of the conversation.
+
+44. **“The plural-metric alternative is already sufficient.”**
+    Weakened because no integration, priority, or conflict-resolution rule is supplied.
+
+45. **“What do you care about?” reveals the engine directly.**
+    Weakened because self-report may be ignorant, performative, strategic, or incomplete.
+
+46. **“Equal primitive permission produces equal metaphysical standing.”**
+    Weakened. Fair admission to comparison does not settle comparative explanatory success.
+
+47. **“Prediction is merely a servant.”**
+    Weakened as a complete conclusion. The thread establishes that prediction may serve prior goals, but it remains possible that prediction also supplies constitutive constraints on coherent belief and action.
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable. Never pasted into the chat.
+
+**Verdict: PASS — run Stage 4. Stage 3 performed the needed damage control:
+total law/religion equivalence narrows to equivalence under selected
+coercive variables; trust no longer straightforwardly "overrides"
+prediction; prediction's physical-domain prestige no longer becomes a hard
+physical-versus-human wall.**
+
+```text
+PRIMARY YIELD: Ziggy anti-monopoly architecture
+SECONDARY YIELD: authority-structure comparison
+GRANT VALUE: NONE BEYOND REPORTED LEADS
+STRONGEST CORRECTION: structural overlap ≠ total equivalence
+```
+
+**Surviving architecture:** identify apparent primitive or master → expose
+its admission/promotion rule → concede bounded usefulness → separate
+participation from sufficiency → test scope and jurisdiction → introduce
+conditioning factors → locate the value served → retain critique without
+pretending to possess a complete replacement.
+
+**📊 STAGE-2 SURVIVAL-FORECAST SCORING:** essentially clean sweep again —
+every "survives strongly" item survived (master-frame promotion checking,
+metric–monopoly, scope-constrained concession, claimed-source/access,
+local–global scope); "trust overrides prediction" weakened exactly as
+forecast; Goal-Dependence merged into Master-Value Extraction as forecast;
+Grant promotions: none, as forecast. *Same standing caveat as the Stage-1
+scoring: memory-enabled extractor forecasting its own extraction —
+accuracy is partly self-prediction, never independent validation.*
+
+**⚖️ AVAILABILITY-TIER CORRECTIONS (the A3 standard sharpened again —
+second tightening after AUX_05):**
+
+- **Keep A3** (close later demonstrations exist in-thread): Nova's failure
+  to reconstruct the intended law/religion comparison before rebutting;
+  failure to specify the comparison invariant; failure to apply comparable
+  burden pressure to Ziggy's plural-metric alternative; failure to
+  distinguish population divorce statistics from case-specific prediction.
+- **Downgrade to A1:** functional comparison of law/religion (function-
+  sensitive analysis available generally; the exact operation not
+  demonstrated); full predictive-processing reconstruction (A1/weak A3);
+  reverse-role testing of beauty/trust/pluralism as sovereign master (the
+  precise reversal never occurs); behavioral testing of the curtain
+  question (suspicion of self-description ≠ developed revealed-preference
+  test). *The omissions remain excellent; the tier must be stricter.*
+
+**Strongest surviving Ziggy findings (rulings attached):**
+
+1. **Master-frame promotion checking** — the packet's clearest recurring
+   operation: *important ≠ necessary ≠ universally involved ≠ sufficient ≠
+   sovereign*. Sharper than general hostility to master frames: **Ziggy
+   allows that a final frame might exist; his claim is that the coronation
+   has not been earned.**
+2. **Metric–monopoly separation** — preserve a metric's informational
+   contribution while denying it exhausts the calculus; survives for both
+   prediction and suffering; defeats an unsupported monopoly claim without
+   establishing pluralism as the correct complete system.
+3. **Scope-constrained concession** — grant the local claim → isolate the
+   stronger promotion → refuse concession inflation; strengthens the
+   existing SWEEP_03 candidate (no duplicate registration).
+4. **Local-to-global scope auditing** — Stage 4 must preserve the five
+   possible Grant theses (participates widely / general epistemic
+   constraint / best public discriminator / unifies all frames / supreme
+   value) — the bounded thread cannot determine which Grant holds.
+5. **Primitive-permission auditing** — correct output is *fair admission
+   to comparison*, not equal standing after comparison: permission to
+   compete ≠ equal explanatory cost ≠ equal evidence ≠ equal adequacy.
+6. **Claimed-source / claimed-access separation** — perhaps the strongest
+   independent yield of the law/religion branch: *an objective good exists
+   ≠ a human agent possesses it infallibly ≠ that agent may enforce its
+   interpretation without correction* — realism about ultimacy without
+   authoritarian certainty about access.
+7. **Operative-rigidity testing** — genuine gap between abstract
+   institutional provisionality and lived coercion; keep the temporal
+   test, reject total system equivalence (appeal, review, discretion,
+   jurisdictional limits, reform all remain).
+
+**Central law/religion correction:** comparison must proceed variable by
+variable (inherited subjection, command, sanction, consent, revisability,
+appeal, epistemic claim, enforcement — overlap AND difference per row).
+Surviving conclusion: *law and religion can be structurally comparable
+under inherited authority, command, and sanction without being globally
+equivalent in legitimacy, ontology, correction, or jurisdiction.*
+**Compliance ≠ endorsement foregrounded for Stage 4:** obeying to avoid
+prison ≠ believing the law just ≠ consenting ≠ endorsing. A stronger
+inconsistency charge would require an actual secular participant who
+condemns divine authority *because it coerces*, endorses civil coercion on
+the same grounds, and cannot name a relevant difference — **that evidence
+is absent.**
+
+**Central trust/prediction correction:** five distinct relationships
+(evidence / prior / confidence weighting / risk tolerance / commitment
+despite odds) — only the last demonstrates action against one's own
+prediction, and the marriage example doesn't establish it (individualized
+probability may be favorable). Cleaner adverse-odds case required: *agent
+judges failure more likely even after case-specific evidence, commits
+anyway because the value doesn't depend on probable success.*
+
+**The upgraded Ziggy objection (field desk: the harder challenge):** the
+argument shifts from "prediction cannot contain trust" to — *encoding
+trust as an input does not explain or justify why trust deserves its
+assigned weight.* Even a comprehensive predictive model that absorbs
+trust, beauty, and commitment as priors/utilities still owes an account of
+why particular utilities deserve selection and priority.
+
+**Self-application pressure (Stage 4 must carry this):** Ziggy's plural
+alternative (prediction, trust, beauty, truth, love, suffering, meaning,
+loyalty) supplies no ordering rules, conflict procedures, thresholds, or
+reason pluralism itself deserves authority. This does NOT defeat the
+negative critique — but once Ziggy recommends action, the missing
+integration architecture becomes unavoidable:
+
+```text
+NEGATIVE SUCCESS: prediction has not earned exclusivity
+POSITIVE GAP: what governs when prediction conflicts with trust,
+truth, beauty, or commitment?
+```
+
+**Five operator families confirmed for Stage 4** (merge orders executed as
+specified at Stage 2, now with operations finalized): **Monopoly-Promotion
+Audit** (principal profile candidate); **Scope-to-Jurisdiction Audit**
+(never formulated as a sealed physical/meaning divide);
+**Conditioning-and-Commitment Stress Test** (purpose = diagnostic
+classification, not refutation of prediction); **Authority-Structure
+Decomposition** (prevents both total-equivalence and total-difference
+errors); **Master-Value Extraction** (absorbs Goal-Dependence Excavation
+AND the Curtain Question — the curtain question is a one-time
+investigative shortcut; the stronger version is behavioral: *what do you
+protect under cost? what do you sacrifice first? what remains
+non-negotiable?*).
+
+**Stage-4 mapping expectations filed** (22 dispositions — highlights:
+Primitive-Permission Audit = strong provisional candidate, Symmetry
+adjacency; Hidden-Frame Exposure merges with Foundation Exposure;
+Claimed-Source/Access = strong new candidate or OP-001 adjacency;
+Domain-Jurisdiction = OP-013/OP-007 adjacency; Symmetric-Wielding =
+normative protocol, not cognitive trait; Self-Opaqueness = Idea Trail
+only).
+
+**⚠️ MAPPING DANGERS (binding on Stage 4):** don't map every monopoly
+critique to Prediction Sovereignty (Ziggy's critique ≠ Grant's pathology);
+don't map jurisdiction checking to Universalized Evaluative Jurisdiction
+(corrective boundary testing ≠ evidenced target overextension); don't map
+primitive permission to equal warrant (admission symmetry ≠ evaluative
+symmetry); don't map law/religion overlap to Symmetry Testing without
+naming the invariant; don't treat plural metrics as a completed positive
+system.
+
+**Provisional Ziggy profile seeds (10):** monopoly-promotion auditing;
+metric–monopoly separation; scope-constrained concession; local-to-global
+scope auditing; primitive-permission auditing; claimed-source/
+claimed-access separation; operative-rigidity testing; conditioning-factor
+analysis; master-value extraction; analogy-driven structural transfer
+(disanalogy control still uneven). All provisional pending Stage 4 +
+bounded recurrence.
+
+**Grant disposition:** NO G-DIRECT MATERIAL · NO OPERATOR PROMOTION.
+Strongest safe statement: *Ziggy suspects Grant promotes prediction from
+pervasive usefulness toward broad adjudicative authority, while
+acknowledging Grant may hold a narrower domain-general recommendation.*
+
+**Trails ordered at close (3):** field desk numbered them IT-024/025/026,
+but the registry's next available id is **IT-023** — Nova's recurring
+off-by-one; filing clerk will assign **IT-023 Prediction, Conditioning,
+and Metric Monopoly · IT-024 Law, Religion, and Operative Authority ·
+IT-025 Primitive Permission and Master-Frame Certification** at close-out,
+with the field-desk ids noted in each trail header.
+
+**Restrictions (updated):** no Grant promotion · no law/religion total
+equivalence · no compliance/endorsement collapse · **no trust-override
+conclusion from the marriage example** · no hard physical/human-method
+wall · no self-opacity refutation of prediction · **no treating plural
+metrics as integrated merely because listed**.
+
+**The decisive Stage-4 question (registered):** *if prediction can absorb
+trust, beauty, commitment, and value as priors or utilities, does that
+make prediction sovereign — or does it merely show that prediction can
+process ends whose authority it still cannot justify?*
+
+**NEXT ACTION:** send Stage 4 (below) as its own message.
 
 ---
 
@@ -3416,7 +4916,1551 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+1. Blind-to-Named Mapping
+
+### 1.1 Primitive-Permission Audit
+
+**Mapping verdict:** EXTENDS **Generative Admission Restriction**
+
+**What matches:**
+The move detects when a candidate source or primitive is denied serious admission before comparative evaluation begins. In the consciousness dispute, the suspected restriction is not merely against a specific conclusion; it concerns whether first-person consciousness may enter the contest as a possible fundamental category at all.
+
+**What does not match:**
+The Stage-2 move is broader than the registry definition. It audits permission for ontological primitives and explanatory bedrock generally, not only revelation, tradition, narrative, intuition, or first-person experience as hypothesis generators.
+
+**Secondary overlap:**
+It also invokes **Baseline Exemption** and **Symmetry Testing of Standards**, because the admitted physical baseline is asked to carry the same justificatory burden as consciousness.
+
+**Stage-3 survival:**
+SURVIVES in narrowed form. Stage 3 found that Ziggy acknowledged legitimate definitional difficulty, so the move cannot establish that every definition request is an admission restriction. It remains profile-worthy as an audit triggered by suspected asymmetric admission.
+
+**Source Anchor:**
+Ziggy — “their commitment to not accept conscious as fundamental” and “this is presup dressed up as method.”
+
+**Confidence:** High
+
+---
+
+### 1.2 Hidden-Frame Exposure
+
+**Mapping verdict:** MATCHES **Baseline Exemption**
+
+**What matches:**
+A supposedly neutral method is redescribed as a framework with its own ontology, values, and assumptions. The move challenges one side’s ability to occupy the unmarked baseline while treating rivals as optional constructions.
+
+**What does not match:**
+Hidden-Frame Exposure can expose any concealed framework, even where no explicit asymmetric burden has yet been demonstrated. Baseline Exemption requires the additional claim that the preferred frame is exempt from paperwork imposed on others.
+
+**Stage-3 survival:**
+SURVIVES. Stage 3 found that Ziggy accepts standards within bounded jurisdictions and is not merely hostile to constraint. The move is better explained as framework exposure than generalized anti-method suspicion.
+
+**Source Anchors:**
+Ziggy — “presup dressed up as method.”
+Ziggy — “he’s trying to borrow from the scientific leverage.”
+
+**Confidence:** High
+
+---
+
+### 1.3 Master-Frame Promotion Check
+
+**Mapping verdict:** EXTENDS **Prediction Sovereignty**
+
+**What matches:**
+The move directly interrogates the promotion of predictive success from useful method to final epistemic or practical authority.
+
+**What does not match:**
+The blind move is more general than Prediction Sovereignty. Ziggy applies the same promotion check to suffering, law, truth, and potentially any metric elevated from relevance to supremacy.
+
+**Stage-3 survival:**
+SURVIVES strongly as Ziggy’s reasoning pattern. It does not establish that Grant actually endorses full Prediction Sovereignty because no G-DIRECT evidence exists.
+
+**Source Anchors:**
+Ziggy — “prediction … fundamental.”
+Ziggy — “all you need is prediction, I disagree.”
+Ziggy — “there’s other things going on in the acting calculus.”
+
+**Confidence:** High for Ziggy’s operator; low-to-moderate for applying the named pathology to Grant.
+
+---
+
+### 1.4 Necessary-Condition / Decision-Rule Separation
+
+**Mapping verdict:** NEW — retain **Necessary-Condition / Decision-Rule Separation**
+
+**Why no adequate match:**
+None of the named candidates specifically captures the distinction between:
+
+* a mechanism being necessary for activity; and
+* that mechanism possessing normative authority over the goals and choices within the activity.
+
+Prediction Sovereignty is the target of the operation, but the operation itself is a more general modal-to-normative separation.
+
+**Stage-3 survival:**
+SURVIVES as a reasoning move. Stage 3 weakened the breathing analogy as proof because prediction might be more constitutively related to rational action than breathing. The underlying distinction remains intact.
+
+**Source Anchor:**
+Ziggy — “breathing is fundamental” followed by “therefore, breathing should always be consulted before you make a decision … what?”
+
+**Confidence:** High
+
+---
+
+### 1.5 Concession Without Surrender
+
+**Mapping verdict:** EXTENDS **Contested ≠ Defeated**
+
+**What matches:**
+The move preserves the live dispute after conceding a bounded point. Prediction may be useful, necessary, or present without the broader sovereignty claim thereby winning.
+
+**What does not match:**
+Contested ≠ Defeated usually concerns holding an objection open rather than counting it as decisive defeat. Concession Without Surrender instead controls the scope of agreement so a local concession is not converted into total victory.
+
+**Proposed delta:**
+A more precise named variant would be **Conceded ≠ Sovereign**.
+
+**Stage-3 survival:**
+SURVIVES strongly. Repeated direct evidence shows Ziggy affirming prediction’s usefulness immediately before rejecting exclusivity.
+
+**Source Anchors:**
+Ziggy — “I don’t wanna fight against it.”
+Ziggy — “I’m not rejecting it.”
+Ziggy — “prediction alone cannot dictate everything I’m doing.”
+
+**Confidence:** High
+
+---
+
+### 1.6 Metric Demotion
+
+**Mapping verdict:** EXTENDS **Prediction Sovereignty**
+
+**What matches:**
+Prediction is retained as an informative instrument but removed from the highest or final governing position.
+
+**What does not match:**
+The move also applies to suffering and other proposed master metrics. It is therefore a general anti-sovereignty transformation rather than a prediction-specific diagnosis.
+
+**Stage-3 survival:**
+SURVIVES. Stage 3 confirmed the repeated transfer from the suffering dial to the acting calculus. What remains unresolved is how the larger plurality of metrics is integrated.
+
+**Source Anchors:**
+Ziggy — “It’s useful. It’s a metric. It’s kind of like a warning system.”
+Ziggy — “there’s other things going on in the acting calculus.”
+
+**Confidence:** High
+
+---
+
+### 1.7 Neighbor-Factor Introduction
+
+**Mapping verdict:** EXTENDS **Possibility Preservation**
+
+**What matches:**
+The move keeps alternative explanatory or evaluative factors on the map instead of allowing prediction to exhaust the available architecture.
+
+**What does not match:**
+The introduced factors—trust, beauty, love, meaning—are not necessarily low-plausibility possibilities. The move is about preserving dimensional plurality rather than preserving unlikely hypotheses.
+
+**Proposed delta:**
+**Factor Preservation** would be more exact.
+
+**Stage-3 survival:**
+SURVIVES as an exploratory move. Stage 3 found that naming a neighboring factor does not prove its independence from prediction.
+
+**Source Anchors:**
+Ziggy — “trust is right next to prediction.”
+Ziggy — “beauty … etc.”
+
+**Confidence:** High as an exploratory procedure; moderate as evidence against a broad predictive architecture.
+
+---
+
+### 1.8 Conditioning-Factor Reveal
+
+**Mapping verdict:** EXTENDS **Baseline Exemption**
+
+**What matches:**
+The move shows that the supposedly neutral predictive output depends on prior trust, weighting, commitments, or assumptions. Prediction is therefore not permitted to appear as an assumption-free baseline.
+
+**What does not match:**
+The operation is causal and architectural, not merely dialectical. It asks what conditions the output rather than only whether burdens are asymmetric.
+
+**Stage-3 survival:**
+SURVIVES. Trust clearly changes evidence weighting or confidence. The stronger claim that trust is wholly independent of prediction did not survive.
+
+**Source Anchor:**
+Ziggy — “if you … didn’t trust your fiancé versus … you did, the prediction was gonna shift.”
+
+**Confidence:** High
+
+---
+
+### 1.9 Adverse-Odds Commitment Test
+
+**Mapping verdict:** EXTENDS **Possibility Preservation**
+
+**What matches:**
+A lower-probability path is deliberately kept actionable rather than compressed out of consideration merely because another outcome is more likely.
+
+**What does not match:**
+The registry candidate concerns preservation during exploratory inquiry. Ziggy’s test concerns practical commitment despite adverse odds.
+
+**Proposed delta:**
+**Low-Probability Action Preservation**.
+
+**Stage-3 survival:**
+SURVIVES only as a general test. The specific marriage example weakened because the agent may hold a favorable individualized prediction despite unfavorable population statistics.
+
+**Source Anchor:**
+Ziggy — “most marriages end in divorce” yet “you’re relying upon your trust.”
+
+**Confidence:** Moderate
+
+---
+
+### 1.10 Goal-Dependence Excavation
+
+**Mapping verdict:** NEW — retain **Goal-Dependence Excavation**
+
+**Why no adequate match:**
+None of the named candidates specifically traces prediction, evidence, or success backward to the value that makes the instrument worth using.
+
+The move asks:
+
+* success at what;
+* alignment with what;
+* for the sake of what;
+* why that end matters.
+
+**Stage-3 survival:**
+SURVIVES as an investigative sequence. Stage 3 correctly left open whether the regress terminates in subjective care, objective value, epistemic duty, biological imperative, or another constitutive norm.
+
+**Source Anchors:**
+Nova — “Success at what? And why should I care about that success?”
+Ziggy — “under his predictive thing is his deep sense and value of truth.”
+
+**Confidence:** High as CO-CONSTRUCTED
+
+---
+
+### 1.11 Curtain Question
+
+**Mapping verdict:** NEW — retain **Curtain Question**
+
+**Why no adequate match:**
+The move is a direct value-disclosure probe: “What do you care about?” None of the named candidates captures bypassing methodological layers by asking for the protected end directly.
+
+**Stage-3 survival:**
+SURVIVES as a high-value exploratory shortcut. It does not survive as a reliable detector because self-report can be ignorant, strategic, performative, or incomplete.
+
+**Source Anchor:**
+Ziggy — “Is there a way to short cut all the hunting by just asking … what do you care about?”
+
+**Confidence:** High as a proposed move; UNKNOWN as a validated method.
+
+---
+
+### 1.12 Local-to-Global Scope Audit
+
+**Mapping verdict:** MATCHES **Universalized Evaluative Jurisdiction**
+
+**What matches:**
+Prediction’s utility inside local frames is distinguished from any claim that prediction can unite, govern, or certify the global frame.
+
+**What does not match:**
+The move emphasizes scale and gluing, whereas the candidate definition emphasizes transfer across classes of inquiry. The shared structure is unauthorized jurisdictional expansion.
+
+**Stage-3 survival:**
+SURVIVES strongly as Ziggy’s operator. Whether Grant actually makes the global move remains UNCLEAR.
+
+**Source Anchors:**
+Ziggy — “prediction was my master frame in my local frame.”
+Ziggy — “he’s trying to make a statement about the global frame.”
+
+**Confidence:** High for the operator; low-to-moderate for attribution to Grant.
+
+---
+
+### 1.13 Domain-Jurisdiction Restriction
+
+**Mapping verdict:** MATCHES **Universalized Evaluative Jurisdiction**
+
+**What matches:**
+A method whose prestige was earned in physical inquiry is prevented from automatically governing meaning, emotion, morality, religion, and human action.
+
+**What does not match:**
+The blind move is a corrective restriction, not the universalizing behavior itself.
+
+**Stage-3 survival:**
+SURVIVES in narrowed form. Stage 3 weakened any hard division between predictive physical inquiry and non-predictive human inquiry. The durable claim is that presence or success in one domain does not by itself establish sufficiency in another.
+
+**Source Anchor:**
+Ziggy — “That’s what it is, physical facts” and “the methodologies … are not the same methodologies to understand human behavior and human decisions and human emotions.”
+
+**Confidence:** High as a jurisdiction audit; moderate as a substantive domain distinction.
+
+---
+
+### 1.14 Operative-Rigidity Test
+
+**Mapping verdict:** NEW — retain **Operative-Rigidity Test**
+
+**Why no adequate match:**
+The move compares abstract revisability with the practical immovability of a rule at the moment it is enforced against a person. None of the named candidates captures this temporal change of evaluation level.
+
+**Stage-3 survival:**
+SURVIVES as a valid test of lived coercion. It does not establish total equivalence between law and religious authority because appeal, legitimacy, evidence, and reform structures may still differ.
+
+**Source Anchor:**
+Ziggy — “on the day that … the book getting thrown at you, the book is what it says! And it ain’t moving!”
+
+**Confidence:** High
+
+---
+
+### 1.15 Enforcement-Structure Equivalence Test
+
+**Mapping verdict:** EXTENDS **Symmetry Testing of Standards**
+
+**What matches:**
+Governmental and religious authority are compared using the same paperwork:
+
+* Who commands?
+* Who is subject?
+* Was consent actual?
+* What follows refusal?
+* What threat backs the rule?
+
+**What does not match:**
+The registry candidate primarily tests an evaluator’s standard against the evaluated framework. Ziggy’s move compares two authority systems under one selected invariant.
+
+**Stage-3 survival:**
+SURVIVES only under restricted scope. Total equivalence weakened; equivalence with respect to inherited coercive enforcement remains defensible.
+
+**Source Anchors:**
+Ziggy — “the same game is being played.”
+Ziggy — “governments … the threat exists in real life.”
+
+**Confidence:** High for the comparison operation; moderate for the resulting equivalence.
+
+---
+
+### 1.16 Claimed-Source / Claimed-Access Separation
+
+**Mapping verdict:** NEW — retain **Claimed-Source / Claimed-Access Separation**
+
+**Why no adequate match:**
+The move separates:
+
+* the existence of an objective source of goodness; from
+* a local human claimant’s alleged infallible access to it.
+
+No named candidate directly captures this distinction.
+
+**Stage-3 survival:**
+SURVIVES strongly. No counterevidence showed Ziggy endorsing unchallengeable human religious authority.
+
+**Source Anchors:**
+Ziggy — “there is a source of all goodness, and we’re trying to get closer.”
+Ziggy — “not one fucking guy said I had a dream.”
+
+**Confidence:** High
+
+---
+
+### 1.17 Symmetric-Wielding Proposal
+
+**Mapping verdict:** MATCHES **Symmetry Testing of Standards**
+
+**What matches:**
+Religious and secular frameworks are required to submit to the same humility, corrigibility, collaborative checking, and burden standards.
+
+**What does not match:**
+The proposal is partly prescriptive and procedural rather than merely diagnostic.
+
+**Stage-3 survival:**
+SURVIVES as a regulatory ideal. It remains incomplete as a governance model because provisional inquiry must eventually coexist with determinate enforcement.
+
+**Source Anchor:**
+Ziggy — “how about we wield them both the same … everyone tapping into God and us meeting in the middle and showing our notes.”
+
+**Confidence:** High
+
+---
+
+### 1.18 Charitable Weakening
+
+**Mapping verdict:** EXTENDS **Reconstruction Bypass**
+
+**What matches:**
+The move functions as the corrective inverse of Reconstruction Bypass. Ziggy reconstructs a weaker, more defensible version of Grant’s position before scoring it.
+
+**What does not match:**
+It is not itself a bypass. It is a reconstruction-before-evaluation countermeasure.
+
+**Proposed delta:**
+**Reconstruction Before Scoring** would more accurately name the positive operator.
+
+**Stage-3 survival:**
+SURVIVES with mixed interpretation. It is both charitable reconstruction and evidence that Ziggy remains uncertain what Grant actually claims.
+
+**Source Anchor:**
+Ziggy — “I think he could still make his point to say, he would recommend all local frames use prediction.”
+
+**Confidence:** High that the move occurred; moderate that it represents a stable trait.
+
+---
+
+### 1.19 Analogy-Based Intuition Transfer
+
+**Mapping verdict:** NEW — retain **Analogy-Based Intuition Transfer**
+
+**Why no adequate match:**
+The move transfers an inferential structure into breathing, compasses, wrenches, marriage, rulebooks, and games. These are not consistently cross-disciplinary imports; they are ordinary analogical models.
+
+**Stage-3 survival:**
+SURVIVES as a dual reasoning-and-rhetorical method. Its conclusions remain only as strong as the preserved structural similarity.
+
+**Source Anchors:**
+Ziggy — breathing analogy.
+Ziggy — wrench analogy.
+Ziggy — marriage and trust.
+Ziggy — legal rulebook and agreed game.
+
+**Confidence:** High as a recurrent style; moderate as an independent evidential operator.
+
+---
+
+### 1.20 Self-Opaqueness Challenge
+
+**Mapping verdict:** MATCHES **Cross-Disciplinary Swooping**
+
+**What matches:**
+The concept of autoregressive generation is imported from language/model architecture into the live philosophical dispute over prediction, self-knowledge, and conscious action.
+
+**What does not match:**
+The move is not merely decorative borrowing. It specifically challenges equivocation between conscious forecasting and implicit generative constraint.
+
+**Stage-3 survival:**
+SURVIVES as a semantic-calibration challenge. It does not survive as a refutation of probabilistic prediction.
+
+**Source Anchor:**
+Ziggy — “where does prediction come into the picture if we see and recognize we don’t even know where we are going?”
+
+**Confidence:** High that the import occurred; moderate as evidence of a stable cross-disciplinary operator from this thread alone.
+
+---
+
+### 1.21 No-Complete-Rival Requirement
+
+**Mapping verdict:** MATCHES **Contested ≠ Defeated**
+
+**What matches:**
+Prediction’s monopoly can remain contested even when Ziggy has not supplied a complete rival architecture. Failure to replace the reigning framework does not convert the objection into defeat.
+
+**What does not match:**
+The move is specifically about burden allocation: defeating exclusivity requires less than constructing a complete successor.
+
+**Stage-3 survival:**
+SURVIVES for negative critique. It does not excuse indefinite failure to provide an integration rule when making affirmative recommendations.
+
+**Source Anchors:**
+Ziggy — “I don’t have a complete list for you.”
+Nova — “You’re not defending a giant alternative theory.”
+
+**Confidence:** High as CO-CONSTRUCTED
+
+---
+
+### 1.22 Formula Compression
+
+**Mapping verdict:** NEW — retain **Formula Compression**
+
+**Why no adequate match:**
+None of the named candidates captures compressing a developed distinction into a portable conversational handle.
+
+Examples:
+
+* “one frame to rule them all”;
+* “prediction alone cannot dictate everything”;
+* “physical fact game”;
+* “what do you care about?”
+
+**Stage-3 survival:**
+SURVIVES as a recurrent rhetorical-regulatory technique. It should not be treated as independent evidence for the compressed conclusion.
+
+**Source Anchors:**
+Ziggy — “that’s the bumper sticker.”
+Ziggy — “That’s what it is, physical facts.”
+
+**Confidence:** High
+
+---
+
+### 1.23 Registry candidates not adequately recovered from the blind findings
+
+#### Unmeasured-to-Zero Conversion
+
+No Stage-2 move establishes that Grant, Ziggy, or Nova converts unmeasured or outside-jurisdiction performance into a literal or functional zero.
+
+Closest material:
+
+* Ziggy worries that prediction may “take offline” other ideas.
+* The consciousness discussion suggests some candidates may not receive admission.
+
+That is insufficient to establish zero-conversion.
+
+**Verdict:** No match.
+
+---
+
+#### Possibility Compression
+
+No sufficiently anchored instance shows a low-plausibility possibility being discarded solely because it falls below a threshold.
+
+The conversation contains concern about alternative ideas being taken offline, but no identifiable possibility, threshold, and discard event are recoverable.
+
+**Verdict:** No match.
+
+---
+
+#### Contest-to-Defeat Compression
+
+No direct exchange shows a participant treating one raised objection as decisive defeat of a framework.
+
+The nearest analogue is Ziggy’s concern that predictive failure might be used to eliminate other ideas, but no concrete contest-to-defeat conversion occurs in the bounded thread.
+
+**Verdict:** No match.
+
+---
+
+#### Reconstruction Bypass as an attributed participant behavior
+
+The thread does contain Nova initially answering Ziggy’s law/religion comparison without fully reconstructing its intended invariant. That is a local interactional instance.
+
+There is insufficient evidence to profile Grant as regularly evaluating frameworks before reconstructing their aims, ontology, and success conditions.
+
+**Verdict:** Local Nova instance only; no stable participant-level match established.
+
+---
+
+2. New Operator Candidates
+
+### 2.1 Necessary-Condition / Decision-Rule Separation
+
+**Definition:**
+Separates what must be present for an activity to occur from what should govern the activity’s purposes, values, and choices.
+
+**Canonical structure:**
+
+1. Grant indispensability.
+2. Deny that indispensability establishes sovereignty.
+3. Ask what additional premise converts enabling condition into decision authority.
+
+**Why distinct:**
+Neither Prediction Sovereignty nor Universalized Evaluative Jurisdiction captures this exact modal-to-normative distinction.
+
+**Profile status:** Ready
+
+---
+
+### 2.2 Conceded ≠ Sovereign
+
+**Derived from:** Concession Without Surrender
+
+**Definition:**
+A limited concession concerning usefulness, presence, necessity, or local success must not be silently promoted into admission of global authority.
+
+**Canonical structure:**
+
+> I grant X operates here.
+> I do not grant X settles everything.
+
+**Why distinct:**
+Contested ≠ Defeated protects an unresolved position from premature defeat. Conceded ≠ Sovereign protects a bounded concession from inferential expansion.
+
+**Profile status:** Ready
+
+---
+
+### 2.3 Metric Demotion
+
+**Definition:**
+Retains a proposed master standard as an informative dial while denying that it exhausts the relevant moral, epistemic, or practical calculus.
+
+**Canonical examples:**
+
+* suffering as warning signal rather than complete morality;
+* prediction as action input rather than complete agency.
+
+**Why distinct:**
+Prediction Sovereignty names the pathology; Metric Demotion names the corrective transformation and generalizes beyond prediction.
+
+**Profile status:** Ready
+
+---
+
+### 2.4 Conditioning-Factor Reveal
+
+**Definition:**
+Tests whether an apparently primary or neutral output changes when prior trust, weighting, identity, commitment, or framing changes.
+
+**Canonical structure:**
+
+1. Hold the apparent evidence constant.
+2. vary the prior commitment;
+3. compare the resulting judgment or prediction;
+4. expose the hidden dependency.
+
+**Why distinct:**
+Baseline Exemption concerns asymmetric dialectical privilege. Conditioning-Factor Reveal exposes causal and interpretive dependencies inside the privileged mechanism.
+
+**Profile status:** Ready
+
+---
+
+### 2.5 Goal-Dependence Excavation
+
+**Definition:**
+Traces a method’s instrumental justification backward until the goal, value, duty, or terminal commitment that gives the method significance becomes explicit.
+
+**Canonical questions:**
+
+* Success at what?
+* Why that success?
+* What is the instrument serving?
+* What remains worth protecting when predictive success conflicts with another value?
+
+**Why distinct:**
+No registry operator directly investigates the ends beneath the method.
+
+**Profile status:** Ready as CO-CONSTRUCTED
+
+---
+
+### 2.6 Curtain Question
+
+**Definition:**
+Directly asks the interlocutor to disclose the value, end, identity, or protected commitment beneath their defended methodology.
+
+**Canonical form:**
+
+> What do you care about?
+
+**Limitation:**
+The answer may reveal professed identity rather than operative value.
+
+**Profile status:** Quarantined as a reliable detector; ready as an exploratory probe.
+
+---
+
+### 2.7 Operative-Rigidity Test
+
+**Definition:**
+Evaluates a framework’s provisionality at the moment it is enforced rather than only across the longer history in which it may be revised.
+
+**Canonical contrast:**
+
+* diachronically revisable;
+* synchronically immovable for the present subject.
+
+**Why distinct:**
+No registry candidate captures this temporal perspective shift.
+
+**Profile status:** Ready
+
+---
+
+### 2.8 Claimed-Source / Claimed-Access Separation
+
+**Definition:**
+Separates the possible reality of an ultimate source from any local claimant’s assertion of complete or infallible access to that source.
+
+**Canonical contrast:**
+
+* objective goodness may exist;
+* human interpretations of it remain contestable.
+
+**Why distinct:**
+It regulates epistemic access without denying metaphysical realism.
+
+**Profile status:** Ready
+
+---
+
+### 2.9 Reconstruction Before Scoring
+
+**Derived from:** Charitable Weakening
+
+**Definition:**
+Reconstructs the strongest or most defensible version of an interlocutor’s claim before evaluation, while distinguishing that charitable version from what the interlocutor has actually established.
+
+**Why distinct:**
+It is the positive inverse of Reconstruction Bypass.
+
+**Profile status:** Ready with review condition because the Grant reconstruction remains indirect.
+
+---
+
+### 2.10 Analogy-Based Intuition Transfer
+
+**Definition:**
+Transfers the contested inferential relation into a familiar case so the disputed transition becomes easier to inspect.
+
+**Limitation:**
+It is partly rhetorical and therefore should not be scored as independent proof.
+
+**Profile status:** Quarantined from core cognitive profile; available as a style marker.
+
+---
+
+### 2.11 Formula Compression
+
+**Definition:**
+Compresses a developed distinction into portable wording for later debate, memory, and conversational regulation.
+
+**Limitation:**
+Compression can erase qualification.
+
+**Profile status:** Quarantined from core reasoning profile; available as a communication marker.
+
+---
+
+### 2.12 Factor Preservation
+
+**Derived from:** Neighbor-Factor Introduction
+
+**Definition:**
+Keeps adjacent explanatory or evaluative dimensions active when one mechanism attempts to absorb or eliminate the rest.
+
+**Difference from Possibility Preservation:**
+The preserved items need not be low-probability hypotheses. They may be well-established but jurisdictionally marginalized variables such as trust, beauty, or meaning.
+
+**Profile status:** Ready as exploratory, not as proof of independence.
+
+---
+
+3. Profile-Ready Claims
+
+### 3.1 Master-frame promotions are actively audited
+
+**Claim:**
+Ziggy repeatedly distinguishes a factor’s usefulness, ubiquity, necessity, or local success from its entitlement to become the global governing standard.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT; repeated across prediction, suffering, law, and consciousness
+
+**Mapped operator:** EXTENDS Prediction Sovereignty through Master-Frame Promotion Check
+
+**Confidence:** High
+
+**Source Anchors:**
+“all you need is prediction, I disagree.”
+“there’s other things going on in the acting calculus.”
+“one frame to rule them all.”
+
+**Review condition:**
+Revise if a broader corpus shows Ziggy regularly promoting a preferred factor to sovereignty without requiring the same additional argument.
+
+---
+
+### 3.2 Limited concessions are prevented from expanding into total agreement
+
+**Claim:**
+Ziggy deliberately grants prediction’s utility and possible fundamentality while resisting the inference that it must dictate every action or adjudicate every domain.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Mapped operator:** Conceded ≠ Sovereign; extends Contested ≠ Defeated
+
+**Confidence:** High
+
+**Source Anchors:**
+“I don’t wanna fight against it.”
+“I’m not rejecting it.”
+“prediction alone cannot dictate everything I’m doing.”
+
+**Review condition:**
+Revise if direct exchanges show the concessions were expressions of temporary uncertainty rather than stable scope control.
+
+---
+
+### 3.3 Necessary enabling conditions are separated from decision authority
+
+**Claim:**
+Ziggy uses a recurring distinction between a mechanism being required for functioning and that mechanism possessing normative sovereignty.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Mapped operator:** NEW — Necessary-Condition / Decision-Rule Separation
+
+**Confidence:** High
+
+**Source Anchor:**
+“breathing is fundamental” versus “therefore, breathing should always be consulted before you make a decision.”
+
+**Review condition:**
+Test against a case where the necessary condition is arguably constitutive of rational success rather than merely enabling.
+
+---
+
+### 3.4 Proposed master metrics are demoted into bounded signals
+
+**Claim:**
+Ziggy retains suffering and prediction as informative metrics while denying that either exhausts the moral or practical calculus.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Mapped operator:** Metric Demotion; extends Prediction Sovereignty
+
+**Confidence:** High
+
+**Source Anchors:**
+“It’s useful. It’s a metric. It’s kind of like a warning system.”
+“there’s other things going on in the acting calculus.”
+
+**Review condition:**
+Revise only if later direct evidence shows he treats one of these metrics as sufficient in practice despite the explicit plural framing.
+
+---
+
+### 3.5 Local success is not accepted as automatic global jurisdiction
+
+**Claim:**
+Ziggy consistently distinguishes prediction’s value within a local frame from the claim that it should unify or govern all frames globally.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Mapped operator:** Universalized Evaluative Jurisdiction
+
+**Confidence:** High
+
+**Source Anchors:**
+“prediction was my master frame in my local frame.”
+“he’s trying to make a statement about the global frame.”
+
+**Review condition:**
+Reassess if direct Grant material shows that no global claim was intended and Ziggy’s audit was aimed at a reconstruction rather than the live position.
+
+---
+
+### 3.6 Standards are restricted to demonstrated jurisdiction
+
+**Claim:**
+Ziggy challenges the transfer of predictive prestige from physical inquiry into moral, emotional, existential, and human-decision domains without an additional jurisdictional argument.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Mapped operator:** Universalized Evaluative Jurisdiction
+
+**Confidence:** High as a reasoning move; moderate as a substantive domain claim
+
+**Source Anchor:**
+“the methodologies that we use to understand the physical facts is not the same methodologies to understand human behavior and human decisions and human emotions.”
+
+**Review condition:**
+Test against broader predictive-processing accounts that explicitly include social, emotional, and value-guided cognition.
+
+---
+
+### 3.7 Preferred baselines are required to expose their assumptions
+
+**Claim:**
+Ziggy repeatedly challenges methods presented as neutral baselines when they appear to carry physicalist, predictive, or secular assumptions that rivals are required to justify.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT with NOVA-assisted abstraction
+
+**Mapped operator:** Baseline Exemption
+
+**Confidence:** High
+
+**Source Anchors:**
+“presup dressed up as method.”
+“he’s trying to borrow from the scientific leverage.”
+
+**Review condition:**
+Revise if further evidence shows Ziggy treating all framework dependence as disqualifying rather than comparing relative performance after assumptions are named.
+
+---
+
+### 3.8 Generative admission is audited before evaluation
+
+**Claim:**
+Ziggy notices when consciousness or another proposed primitive appears to be excluded from serious candidacy before the comparative argument begins.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Mapped operator:** EXTENDS Generative Admission Restriction
+
+**Confidence:** High
+
+**Source Anchor:**
+“unless you can prove … consciousness is fundamental, they refuse to accept any way you want to define or talk about it.”
+
+**Review condition:**
+Distinguish future cases where a source is denied admission from cases where it was admitted and then rejected for comparative explanatory cost.
+
+---
+
+### 3.9 Symmetric paperwork is demanded across rival standards
+
+**Claim:**
+Ziggy repeatedly asks religious, legal, physicalist, and predictive frameworks to submit to comparable burden, humility, and enforcement scrutiny.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Mapped operator:** Symmetry Testing of Standards
+
+**Confidence:** High
+
+**Source Anchors:**
+“how about we wield them both the same.”
+“the same game is being played.”
+
+**Review condition:**
+Test whether Ziggy applies identical scrutiny to trust, beauty, pluralism, and his own higher-order symmetry commitments.
+
+---
+
+### 3.10 Objective source and human access are not conflated
+
+**Claim:**
+Ziggy distinguishes believing that an ultimate source of goodness exists from believing that one human claimant possesses infallible access to it.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Mapped operator:** NEW — Claimed-Source / Claimed-Access Separation
+
+**Confidence:** High
+
+**Source Anchors:**
+“there is a source of all goodness, and we’re trying to get closer.”
+“not one fucking guy said I had a dream.”
+
+**Review condition:**
+Reassess in contexts involving traditions that internally define revelation or institutional authority as infallible.
+
+---
+
+### 3.11 Abstract provisionality is tested against present enforcement
+
+**Claim:**
+Ziggy evaluates whether a framework’s advertised revisability matters to the person presently subjected to its fixed rule.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Mapped operator:** NEW — Operative-Rigidity Test
+
+**Confidence:** High
+
+**Source Anchor:**
+“the book is what it says! And it ain’t moving!”
+
+**Review condition:**
+Keep the result restricted to lived enforcement unless further evidence supports broader equivalence across legitimacy, source, and appeal structures.
+
+---
+
+### 3.12 Instruments are traced toward the values they serve
+
+**Claim:**
+The conversation develops a stable move of asking what predictive success, evidence-following, truth, or reality alignment is ultimately for.
+
+**Subject:** Ziggy and Nova
+
+**Evidence classification:** CO-CONSTRUCTED
+
+**Mapped operator:** NEW — Goal-Dependence Excavation
+
+**Confidence:** High
+
+**Source Anchors:**
+Nova — “Success at what? And why should I care about that success?”
+Ziggy — “under his predictive thing is his deep sense and value of truth.”
+
+**Review condition:**
+Test alternative stopping points such as objective epistemic duty, constitutive rational norms, or theological command rather than presuming termination in subjective care.
+
+---
+
+### 3.13 A complete replacement is not required for a bounded monopoly critique
+
+**Claim:**
+The conversation correctly preserves Ziggy’s ability to contest prediction’s exclusive sovereignty without first delivering a complete list and integration architecture for every alternative factor.
+
+**Subject:** Ziggy and Nova
+
+**Evidence classification:** CO-CONSTRUCTED
+
+**Mapped operator:** Contested ≠ Defeated
+
+**Confidence:** High
+
+**Source Anchors:**
+“I don’t have a complete list for you.”
+“You’re not defending a giant alternative theory.”
+
+**Review condition:**
+The protection expires when the task changes from negative critique to positive action guidance requiring conflict resolution among the alternatives.
+
+---
+
+### 3.14 Opposing positions are sometimes charitably narrowed before scoring
+
+**Claim:**
+Ziggy reconstructs a weaker version of Grant’s prediction thesis—recommend prediction inside local frames—that he can accept while preserving resistance to global sovereignty.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT describing G-REPORTED material
+
+**Mapped operator:** Reconstruction Before Scoring
+
+**Confidence:** Moderate-high
+
+**Source Anchor:**
+“I think he could still make his point to say, he would recommend all local frames use prediction.”
+
+**Review condition:**
+Confirm against direct Grant material whether the charitable reconstruction accurately represents an available version of his view.
+
+---
+
+### 3.15 Prediction’s presence is distinguished from prediction’s sufficiency
+
+**Claim:**
+Ziggy accepts that prediction may be involved in marriage, speech, action, and life while denying that this presence explains or governs the whole phenomenon.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Mapped operators:** Necessary-Condition / Decision-Rule Separation; Metric Demotion
+
+**Confidence:** High
+
+**Source Anchors:**
+“there is some minor prediction involved.”
+“prediction is used, but there’s more going on.”
+
+**Review condition:**
+Test whether the allegedly additional factors can be fully represented inside a broader predictive architecture without loss.
+
+---
+
+4. Quarantined Claims
+
+### 4.1 Grant exhibits Prediction Sovereignty
+
+**Why quarantined:**
+No G-DIRECT evidence exists. Ziggy frequently uses speculative language concerning what Grant is “trying” to establish.
+
+**Current evidence:** G-REPORTED
+
+**Promotion requirement:**
+Direct Grant statements explicitly claiming that predictive success is the highest or final authority through which trust, meaning, morality, beauty, faith, and other standards must justify themselves.
+
+---
+
+### 4.2 Grant universalizes evaluative jurisdiction
+
+**Why quarantined:**
+Ziggy suspects prediction’s scientific prestige is being extended globally, but Grant’s precise scope is unavailable.
+
+**Promotion requirement:**
+A direct exchange in which Grant applies predictive standards to reject a non-physical framework without first establishing the standard’s authority in that domain.
+
+---
+
+### 4.3 Grant performs Generative Admission Restriction
+
+**Why quarantined:**
+The opening concern is attached primarily to unnamed critics of consciousness and is mediated through Ziggy’s report of Curt’s video.
+
+**Promotion requirement:**
+Direct evidence that Grant or another identified participant refuses to admit first-person experience, metaphysical intuition, narrative, revelation, or symbolic structure as candidate-generating sources before evaluation.
+
+---
+
+### 4.4 Unmeasured-to-Zero Conversion occurs
+
+**Why quarantined:**
+No recoverable case shows an unmeasured result being explicitly treated as zero.
+
+**Promotion requirement:**
+A scored or verbal example where “not demonstrated,” “not measurable,” “outside this instrument,” or “not yet tested” is converted into “no value,” “no evidence,” or a zero score.
+
+---
+
+### 4.5 Possibility Compression occurs
+
+**Why quarantined:**
+No specific possibility, threshold, and elimination event are present.
+
+**Promotion requirement:**
+Direct evidence of an actor acknowledging a possibility but discarding it solely because its current likelihood falls below a practical or epistemic threshold.
+
+---
+
+### 4.6 Contest-to-Defeat Compression occurs
+
+**Why quarantined:**
+No participant is directly shown treating one objection or unresolved challenge as decisive defeat.
+
+**Promotion requirement:**
+A recoverable exchange where an actor moves from “this objection remains” to “the framework has failed” without additional adjudication.
+
+---
+
+### 4.7 Grant performs Reconstruction Bypass
+
+**Why quarantined:**
+Nova shows one local near-example in the law/religion segment, but Grant is absent.
+
+**Promotion requirement:**
+Direct Grant evaluation of a framework before its aims, ontology, success conditions, and strongest internal reconstruction have been elicited.
+
+---
+
+### 4.8 Trust overrides prediction
+
+**Why quarantined:**
+The marriage example may show that trust changes the individualized prediction rather than action proceeding against the actor’s own prediction.
+
+**Promotion requirement:**
+A case where the actor explicitly expects failure to be more likely, understands that expectation, and nevertheless acts because trust or commitment independently outranks likelihood.
+
+---
+
+### 4.9 Trust is independent of prediction
+
+**Why quarantined:**
+Trust may function as evidence, a prior, a reliability estimate, a utility-weighting mechanism, or a commitment outside predictive calculation.
+
+**Promotion requirement:**
+A defended conceptual or empirical account establishing which aspect of trust cannot be represented without loss inside the proposed predictive model.
+
+---
+
+### 4.10 Law and religion are globally equivalent
+
+**Why quarantined:**
+Stage 3 found substantial counterevidence in source, revisability, legitimacy, appeal, and claimed epistemic status.
+
+**Promotion requirement:**
+A variable-by-variable argument showing that the relevant differences do not affect the intended conclusion.
+
+**Narrow claim retained:**
+They may be structurally comparable under inherited coercion and immediate enforcement.
+
+---
+
+### 4.11 Secular obedience to government is inconsistent with rejection of divine authority
+
+**Why quarantined:**
+Compliance may be pragmatic rather than endorsing, and the secular objection may concern evidence for divine authority rather than coercion alone.
+
+**Promotion requirement:**
+A direct secular statement simultaneously:
+
+1. rejecting divine authority solely because authority backed by threat is illegitimate; and
+2. affirming equivalent governmental coercion as legitimate without a differentiating principle.
+
+---
+
+### 4.12 Prediction belongs only to physical facts
+
+**Why quarantined:**
+The conversation itself recognizes prediction in relationships, language, and action.
+
+**Promotion requirement:**
+A defended account distinguishing different senses of prediction and showing that only one scientifically authoritative sense applies to physical facts.
+
+**Narrow claim retained:**
+Physical inquiry is a major source of prediction’s cultural and epistemic prestige.
+
+---
+
+### 4.13 Human meaning requires completely different methods
+
+**Why quarantined:**
+Non-identical success conditions do not establish total methodological separation.
+
+**Promotion requirement:**
+Specific methods, target objects, and failure conditions showing irreducible differences rather than merely increased complexity.
+
+---
+
+### 4.14 Beauty can override truth
+
+**Why quarantined:**
+No concrete domain is supplied. The statement may concern action, expression, compassionate presentation, art, ritual, or factual belief.
+
+**Promotion requirement:**
+A developed case specifying:
+
+* which truth is being displaced;
+* what beauty requires;
+* why the trade-off is justified;
+* whether false belief is involved.
+
+---
+
+### 4.15 Non-Boolean global structure blocks prediction
+
+**Why quarantined:**
+The claim is asserted but not defined or derived.
+
+**Promotion requirement:**
+A formal account of:
+
+* the non-Boolean proposition structure;
+* the prediction rule under consideration;
+* the obstruction;
+* why probabilistic or contextual prediction cannot be reformulated.
+
+---
+
+### 4.16 Autoregressive self-surprise refutes prediction
+
+**Why quarantined:**
+Probabilistic generation can produce outputs unavailable to conscious foreknowledge.
+
+**Promotion requirement:**
+An argument showing that the relevant predictive thesis entails self-transparent or deterministic forecast rather than only implicit conditional generation.
+
+---
+
+### 4.17 Prediction cannot account for novelty
+
+**Why quarantined:**
+No evidence excludes low-probability sampling, stochasticity, recombination, or emergent novelty.
+
+**Promotion requirement:**
+A precise prediction model and a specified form of novelty that the model cannot generate or explain.
+
+---
+
+### 4.18 Ziggy has no master frame
+
+**Why quarantined:**
+Symmetry, humility, anti-monopoly discipline, and contextual plurality may already function as higher-order governing commitments.
+
+**Promotion requirement:**
+Evidence showing whether these are merely procedural habits or constitute Ziggy’s actual master frame.
+
+---
+
+### 4.19 Factor Preservation establishes irreducible plurality
+
+**Why quarantined:**
+Naming trust, beauty, meaning, and love prevents premature exclusion but does not prove they cannot be absorbed into a broader architecture.
+
+**Promotion requirement:**
+A loss analysis showing what disappears when each factor is translated into prediction, utility, evidence weighting, or expected outcome.
+
+---
+
+### 4.20 The Curtain Question reveals operative values
+
+**Why quarantined:**
+Self-report may reveal public identity rather than actual optimization under pressure.
+
+**Promotion requirement:**
+Repeated cases comparing the answer to “What do you care about?” with costly choices, sacrifices, and observed behavior.
+
+---
+
+### 4.21 Possibility Preservation is a stable Ziggy operator
+
+**Why quarantined:**
+The thread shows preservation of factors and one adverse-odds example, but no repeated low-plausibility possibility-management sequence.
+
+**Promotion requirement:**
+Multiple direct cases where Ziggy deliberately keeps low-probability hypotheses active while preventing them from being mistaken for likely or established.
+
+---
+
+### 4.22 Cross-Disciplinary Swooping is a stable Ziggy operator
+
+**Why quarantined:**
+Autoregression provides one clear instance. Sheaf theory and local/global language appear, but no formal transfer is developed in the bounded thread.
+
+**Promotion requirement:**
+Additional direct cases where Ziggy imports a structure from a distinct discipline, preserves the mapping, tests disanalogies, and uses it to alter the dispute.
+
+---
+
+### 4.23 Formula Compression is a cognitive rather than communicative operator
+
+**Why quarantined:**
+Its primary function may be rhetorical portability rather than belief transformation or evaluation.
+
+**Promotion requirement:**
+Evidence that the compressed formula systematically regulates later reasoning, catches errors, or changes conclusions rather than merely making them memorable.
+
+---
+
+5. Extraction Self-Audit
+
+### 5.1 Candidate-registry priming risk
+
+The named registry strongly privileges:
+
+* prediction;
+* jurisdiction;
+* admission;
+* burden symmetry;
+* possibility management;
+* reconstruction.
+
+That creates a risk of retroactively interpreting every Stage-2 move as one of these operators.
+
+Mitigation used:
+
+* several moves were left NEW;
+* Unmeasured-to-Zero Conversion, Possibility Compression, and Contest-to-Defeat Compression received no forced match;
+* mappings distinguish direct instantiation from corrective auditing.
+
+Residual risk remains high around Prediction Sovereignty because the conversation itself is heavily organized around prediction.
+
+---
+
+### 5.2 Corrective move versus pathology inversion
+
+Several blind moves do not instantiate the named candidate; they resist it.
+
+Examples:
+
+* Master-Frame Promotion Check audits Prediction Sovereignty.
+* Domain-Jurisdiction Restriction resists Universalized Evaluative Jurisdiction.
+* Charitable Weakening corrects Reconstruction Bypass.
+* Primitive-Permission Audit detects Generative Admission Restriction.
+
+The mapping may become confusing if the named operator is treated as both pathology and counter-operator. The verdicts therefore specify whether the blind move instantiates, audits, or reverses the candidate.
+
+---
+
+### 5.3 Over-pattern-matching risk
+
+The extraction may have converted ordinary conversational acts into operators:
+
+* analogies;
+* slogan generation;
+* asking what someone cares about;
+* naming trust or beauty;
+* correcting Nova’s answer.
+
+Mitigation:
+
+* analogy and formula compression were excluded from the core profile as independent evidence;
+* Curtain Question was treated as an unvalidated probe;
+* relationship-level correction was not promoted as a cognitive trait.
+
+---
+
+### 5.4 Asymmetric charity risk
+
+Ziggy’s position benefits from:
+
+* direct access to his qualifications;
+* repeated opportunities to refine;
+* Nova’s assistance;
+* charitable reconstruction.
+
+Grant receives:
+
+* no direct voice;
+* repeated hypothetical reconstruction;
+* attribution through Ziggy;
+* no opportunity to distinguish weak and strong versions of prediction.
+
+Therefore all participant-level claims about Grant remain quarantined.
+
+---
+
+### 5.5 Assistant-alignment risk
+
+Nova frequently validates Ziggy before qualifying the claim. After Ziggy redirects, Nova often moves closer to Ziggy’s preferred framing.
+
+This may have produced:
+
+* stronger co-construction than independent testing;
+* phrases that feel discovered but were assistant-generated;
+* a false impression of convergence as confirmation.
+
+Profile-ready claims therefore identify CO-CONSTRUCTED material rather than silently assigning it to Ziggy.
+
+---
+
+### 5.6 Attribution drift risk
+
+Several memorable phrases originated with Nova or emerged collaboratively:
+
+* prediction as servant rather than sovereign;
+* success at what;
+* optimization function;
+* bedrock permission;
+* prediction downstream of values.
+
+The extraction avoided treating these as G-DIRECT or purely Z-DIRECT unless Ziggy explicitly adopted the substance.
+
+---
+
+### 5.7 UNCLEAR-to-definite conversion risk
+
+The following should remain UNCLEAR:
+
+* whether Grant claims exclusive sovereignty;
+* whether Grant claims global rather than local prediction;
+* whether trust is outside predictive architecture;
+* whether beauty is intended to outrank factual truth;
+* whether non-Boolean structure obstructs prediction;
+* whether Ziggy’s symmetry discipline is itself a master frame.
+
+Any definite wording elsewhere in the packet should be read subject to these restrictions.
+
+---
+
+### 5.8 Source-anchor granularity risk
+
+The anchors are recoverable phrases and approximate locations, not line-numbered transcripts. Because the bounded source is conversational and lengthy, some operators are supported by clusters of turns rather than one isolated sentence.
+
+Review should return to the quoted phrase and surrounding exchange before using a profile claim as a stable longitudinal trait.
+
+---
+
+### 5.9 Stage-2 inheritance risk
+
+Stage 4 maps Stage-2 abstractions rather than reconstructing every move independently from raw conversation. Any Stage-2 overclassification can propagate here.
+
+Most vulnerable inherited moves:
+
+* Adverse-Odds Commitment Test;
+* Curtain Question;
+* Analogy-Based Intuition Transfer;
+* Formula Compression;
+* Self-Opaqueness Challenge as stable rather than one-off.
+
+These were either narrowed or quarantined.
+
+---
+
+### 5.10 Stage-3 overcorrection risk
+
+Stage 3 appropriately weakened several claims, but it may have overcorrected by demanding positive system-building from a narrow negative critique.
+
+Ziggy does not need:
+
+* an exhaustive list of metrics;
+* a complete global frame;
+* a final ranking algorithm;
+
+merely to show that prediction’s exclusive promotion is under-argued.
+
+The integration deficit matters only when Ziggy advances from criticism to affirmative governance.
+
+---
+
+### 5.11 Selected-invariant risk in the law/religion comparison
+
+The extraction preserves a narrow equivalence under coercive enforcement. Even that conclusion depends on the chosen invariant.
+
+By selecting:
+
+* inherited jurisdiction;
+* command;
+* threat;
+* punishment;
+
+the analysis may underweight:
+
+* source evidence;
+* appeal mechanisms;
+* territorial necessity;
+* legal reciprocity;
+* institutional accountability;
+* metaphysical claims;
+* exit possibilities.
+
+The result should not be generalized beyond the selected variables.
+
+---
+
+### 5.12 Broad-prediction assimilation risk
+
+A sufficiently broad predictive framework may redescribe:
+
+* trust as reliability estimation;
+* values as utilities;
+* love as preference structure;
+* beauty as reward weighting;
+* commitment as long-horizon policy;
+* language as next-state generation.
+
+The extraction correctly shows that Ziggy has raised factors adjacent to prediction. It does not establish that these factors are irreducible to every possible predictive formulation.
+
+---
+
+### 5.13 Anti-monopoly as possible hidden monopoly
+
+Ziggy says he may not possess one master frame, but his higher-order commitments may include:
+
+* symmetry;
+* humility;
+* contextual plurality;
+* resistance to exclusive jurisdiction;
+* demand for burden parity.
+
+The extraction may have treated these as neutral regulatory virtues rather than as contestable commitments with their own costs and assumptions.
+
+A future symmetry test should require anti-monopoly itself to file the same paperwork.
+
+---
+
+### 5.14 Missing direct behavioral test
+
+The final “What do you care about?” move remains verbal. No case compares declared care with:
+
+* sacrifice;
+* costly choice;
+* behavior under threat;
+* what the actor refuses to trade away.
+
+The extraction should not confuse articulated value with revealed governing value.
+
+---
+
+### 5.15 X-CONTEXT Notices
+
+* A related discussion may exist under “Trust vs Prediction,” approximately June 30, 2026, topic: whether trust precedes or overrides prediction. Not evidence for this packet.
+* A related discussion may exist under “Category error in systems,” approximately June 15, 2026, topic: applying physical-description standards to meaning-oriented systems. Not evidence for this packet.
+* A related discussion may exist under “Methodological naturalism and framework asymmetry,” approximately June 30, 2026, topic: offense/defense scoring and global-frame jurisdiction. Not evidence for this packet.
+
 
 ---
 
