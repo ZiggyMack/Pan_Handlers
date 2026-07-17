@@ -1,6 +1,9 @@
-# DIG AUX 04 — Bell's Theorem and Modal Openings
+# DIG AUX 04 — Bell Boundaries and Metaphysical Continuations
 
-**Status:** STAGE 3 COMPLETE — field-desk PASS WITH TWO AVAILABILITY CORRECTIONS; STAGE 4 AUTHORIZED (carry the "mechanism → conceptual precedent" downgrade firmly)
+*(formerly "Bell's Theorem and Modal Openings" — retitled at close per field-desk handoff)*
+
+**Status:** ✅ COMPLETE — all four stages; final disposition filed; promotions executed 2026-07-17
+**Disposition:** COMPLETE / ZIGGY PROFILE EVIDENCE (limited but substantial, thread-specific) / IDEA-TRAIL SOURCE (IT-016) / NO GRANT EVIDENCE / **TECHNICAL VERIFICATION REQUIRED before public scientific claims**
 **Primary subject:** Ziggy · **Secondary:** Ziggy–Nova conceptual exchange
 **Grant relevance:** NONE · **Technical-risk level: HIGH**
 **Protocol:** v0.2.2 Stage 1 (bounded) · **Extraction date:** 2026-07-17
@@ -2567,7 +2570,863 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+1. Blind-to-Named Mapping
+
+### Move 1 — Conjunction Decomposition
+
+**Stage-2 provisional name:** Conjunction Decomposition
+
+**Mapping verdict:** **EXTENDS Contested ≠ Defeated**
+
+**What matches:**
+The move refuses to treat the failure of the combined package “realism and locality” as the defeat of each component independently. It preserves the unresolved status of the individual assumptions.
+
+**What does not match:**
+The move is more specifically logical than dialectical. It is not merely holding an objection open; it decomposes the proposition under challenge and limits what follows from the negation of a conjunction.
+
+**Stage-3 survival:**
+Yes. The characterization strongly survived counterevidence and alternative-reading review. Ziggy later performed the related exhaustiveness challenge, which supports a repeatable sensitivity to logical overreach rather than a one-time substantive belief.
+
+**Confidence:** High
+
+---
+
+### Move 2 — Residual-Possibility Preservation
+
+**Stage-2 provisional name:** Residual-Possibility Preservation
+
+**Mapping verdict:** **MATCHES Possibility Preservation**
+
+**What matches:**
+Ziggy deliberately keeps live options that have not been excluded:
+
+* either realism or locality might survive;
+* a soul-interaction model might remain conceptually possible;
+* neither classical realism nor locality may survive.
+
+**What does not match:**
+The thread does not establish that these possibilities were explicitly judged low-plausibility. It demonstrates deliberate preservation of unexcluded possibilities, not necessarily preservation after an acknowledged low probability assignment.
+
+**Stage-3 survival:**
+Yes, with caution. The operator reading survived, although the strongest alternative remains preference-driven metaphysical permissiveness. The final “neither survives” possibility is not specifically theistic and therefore supports the broader operator reading.
+
+**Confidence:** High
+
+---
+
+### Move 3 — Conditional Mechanism Import
+
+**Stage-2 provisional name:** Conditional Mechanism Import
+
+**Mapping verdict:** **EXTENDS Cross-Disciplinary Swooping**
+
+**What matches:**
+A structure from quantum physics—nonlocal dependence or correlation—is imported into philosophy of mind to reframe the soul–body interaction problem.
+
+**What does not match:**
+The move does not merely reframe the dispute. It proposes a conditional mechanism-template: if a soul were independently established, quantum nonlocality might provide a precedent for non-spatial interaction.
+
+**Delta:**
+Cross-disciplinary import is used not only for conceptual reframing but for conditional mechanism construction.
+
+**Stage-3 survival:**
+Yes, in narrowed form. Stage 3 strongly rejected the reading that Ziggy claimed Bell proved a soul. The better-supported description is conceptual precedent rather than a completed mechanism.
+
+**Confidence:** Moderate to high
+
+---
+
+### Move 4 — Evidential-Jurisdiction Restriction
+
+**Stage-2 provisional name:** Evidential-Jurisdiction Restriction
+
+**Mapping verdict:** **NEW**
+
+**What matches existing candidates:**
+It is adjacent to Universalized Evaluative Jurisdiction because it concerns the proper domain of a standard or result.
+
+**Why no adequate match exists:**
+Universalized Evaluative Jurisdiction describes overextension of a standard. This move is the inverse regulatory act: actively preventing a result from being extended beyond its warranted domain.
+
+**Stage-3 survival:**
+Yes, but as role-induced behavior rather than a profile-level individual operator. Nova repeatedly distinguishes what Bell’s theorem establishes from metaphysical extrapolation.
+
+**Confidence:** High as a local behavior; lower as a stable personal operator.
+
+---
+
+### Move 5 — Claim-Scope Repair
+
+**Stage-2 provisional name:** Claim-Scope Repair
+
+**Mapping verdict:** **EXTENDS Contested ≠ Defeated**
+
+**What matches:**
+Ziggy refuses to allow Nova’s objection to defeat a stronger claim he did not intend. He keeps the narrower claim open after conceding that the broader formulation overreached.
+
+**What does not match:**
+The central operation is not merely leaving a dispute unresolved. It repairs the proposition under evaluation by reducing its scope and separating two questions:
+
+* whether a soul exists;
+* whether a soul could interact nonlocally.
+
+**Delta:**
+A challenged claim is reformulated into its strongest defensible version before adjudication continues.
+
+**Stage-3 survival:**
+Yes. The repair reading was better supported than the alternative explanation of ad hoc retreat.
+
+**Confidence:** High
+
+---
+
+### Move 6 — Ontological Reframing
+
+**Stage-2 provisional name:** Ontological Reframing
+
+**Mapping verdict:** **EXTENDS Cross-Disciplinary Swooping**
+
+**What matches:**
+Ziggy imports an idealist ontological frame into a problem initially expressed through quasi-physical spatial language.
+
+**What does not match:**
+This is not merely a distinction imported from another discipline. It replaces the ontology generating the interaction problem: from an external soul acting upon matter to a soul conceived as a structure within fundamental mind.
+
+**Delta:**
+The imported framework changes the world-model under which the dispute is posed.
+
+**Stage-3 survival:**
+Partially. The frame change is evidenced, but whether Ziggy deliberately intended to dissolve the dualist interaction problem remains UNCLEAR.
+
+**Confidence:** Moderate
+
+---
+
+### Move 7 — Framework Identification
+
+**Stage-2 provisional name:** Framework Identification
+
+**Mapping verdict:** **NEW**
+
+**What matches existing candidates:**
+It is adjacent to Cross-Disciplinary Swooping because it connects live reasoning to established philosophical frameworks.
+
+**Why no adequate match exists:**
+The move does not import a foreign structure to transform the dispute. It classifies an emerging argument by locating it within idealism, QBism, or relational interpretations.
+
+**Stage-3 survival:**
+Weakly. Stage 3 downgraded it from a strong operator to a role-induced classificatory behavior that may amount to informational name-placement.
+
+**Confidence:** Moderate as a local move; low as a profile-level operator.
+
+---
+
+### Move 8 — Entry-Point Comparison
+
+**Stage-2 provisional name:** Entry-Point Comparison
+
+**Mapping verdict:** **NEW**
+
+**What matches existing candidates:**
+It is loosely adjacent to Possibility Preservation because both routes remain available for metaphysical exploration.
+
+**Why no adequate match exists:**
+The operation compares which surviving concept provides a more hospitable insertion point for an additional thesis. None of the named candidates captures comparative accommodation analysis.
+
+**Stage-3 survival:**
+Yes as substantive comparative reasoning, despite the rhetorical phrase “smuggle God into.”
+
+**Confidence:** High as a one-time reasoning move; insufficient evidence for stable operator status.
+
+---
+
+### Move 9 — Dual-Affordance Analysis
+
+**Stage-2 provisional name:** Dual-Affordance Analysis
+
+**Mapping verdict:** **NEW**
+
+**What matches existing candidates:**
+No direct match.
+
+**Why no adequate match exists:**
+Nova does not choose one horn. Nova assigns each horn a distinct function:
+
+* realism offers mind-independent structure;
+* nonlocality destabilizes separability and mechanistic closure.
+
+This is a multidimensional comparison rather than an admission, burden, jurisdiction, or possibility-preservation move.
+
+**Stage-3 survival:**
+Yes, although the alternative reading of balanced assistant rhetoric remains plausible.
+
+**Confidence:** Moderate
+
+---
+
+### Move 10 — Exhaustiveness Challenge
+
+**Stage-2 provisional name:** Exhaustiveness Challenge
+
+**Mapping verdict:** **EXTENDS Possibility Preservation**
+
+**What matches:**
+The move preserves a possibility excluded by an artificially narrow option set: perhaps neither classical realism nor classical locality survives.
+
+**What does not match:**
+The primary operation is logical testing of whether a disjunction is exhaustive, not merely maintaining a low-plausibility option.
+
+**Delta:**
+Possibility Preservation is deployed through explicit false-dichotomy detection.
+
+**Stage-3 survival:**
+Strongly. It survived counterevidence and was better explained as a repeatable logical operation than as a one-off reaction.
+
+**Confidence:** High
+
+---
+
+### Move 11 — Interpretive-Space Expansion
+
+**Stage-2 provisional name:** Interpretive-Space Expansion
+
+**Mapping verdict:** **MATCHES Possibility Preservation**
+
+**What matches:**
+Nova responds to the challenged binary by preserving additional interpretive possibilities, including frameworks that revise or reject both classical assumptions.
+
+**What does not match:**
+The move is role-induced and partly informational. It does not show that Nova personally protects low-plausibility possibilities as a stable epistemic commitment.
+
+**Stage-3 survival:**
+Yes as a response operation. It does not survive as a strong profile claim because role behavior is the better explanation.
+
+**Confidence:** High locally; low for profiling.
+
+---
+
+### Move 12 — Possibility-to-Plausibility Drift
+
+**Stage-2 provisional name:** Possibility-to-Plausibility Drift
+
+**Mapping verdict:** **NEW**
+
+**What matches existing candidates:**
+It is related inversely to Possibility Compression. Instead of prematurely discarding possibilities, the conversation risks allowing preserved possibilities to acquire more apparent support than warranted.
+
+**Why no adequate match exists:**
+No registry candidate captures the escalation from:
+
+* not excluded;
+* to conceptually admissible;
+* to mechanism-like;
+* to metaphysically suggestive.
+
+**Stage-3 survival:**
+Only as a relationship-level risk. Stage 3 found repeated disclaimers and scope corrections, so it did not survive as a demonstrated individual operator or settled fallacy.
+
+**Confidence:** Moderate as a loop-level tendency; low as an operator.
+
+2. New Operator Candidates
+
+### Candidate A — Evidential-Jurisdiction Restriction
+
+**Definition:**
+Actively prevents a result, instrument, or standard from claiming authority outside the domain where its evidential force has been established.
+
+**Actor in this thread:** Nova
+
+**Core operation:**
+Separates:
+
+* what the experiment establishes;
+* what it leaves open;
+* what requires an independent argument.
+
+**Source Anchor:**
+Nova: “Invoking a soul … would be a leap beyond what these violations show.”
+
+**Why not Universalized Evaluative Jurisdiction:**
+That candidate identifies the overreach. This candidate names the corrective operation.
+
+**Stage-3 status:**
+Survived as a local role-induced behavior.
+
+**Promotion condition:**
+Evidence across other contexts that the actor applies the same restriction symmetrically to scientific, metaphysical, experiential, and theological claims.
+
+---
+
+### Candidate B — Claim-Scope Repair
+
+**Definition:**
+After an objection targets an overstrong reading, restate the claim at the narrowest level that preserves its intended inferential core.
+
+**Actor in this thread:** Ziggy
+
+**Core operation:**
+Separates a claim of existence from a claim of possible mechanism and refuses defeat by a criticism aimed at the stronger formulation.
+
+**Source Anchor:**
+Ziggy: “if there was a way to prove a soul, we have a mechanism now for that soul to influence us.”
+
+**Why not merely Contested ≠ Defeated:**
+It does not only suspend defeat. It alters the proposition under consideration by repairing its scope.
+
+**Stage-3 status:**
+Survived strongly.
+
+**Promotion condition:**
+Repeated evidence that Ziggy performs the same repair when the narrowed claim is less favorable to his own preferred conclusion.
+
+---
+
+### Candidate C — Exhaustiveness Challenge
+
+**Definition:**
+Tests whether a presented set of alternatives genuinely covers the logical possibility space.
+
+**Actor in this thread:** Ziggy
+
+**Core operation:**
+Transforms “not both” into a wider option set by adding “neither.”
+
+**Source Anchor:**
+Ziggy: “Couldn’t there still be a possibility that actually you can’t have just one?”
+
+**Why not merely Possibility Preservation:**
+It identifies the structural reason the possibility was excluded: the offered fork was non-exhaustive.
+
+**Stage-3 status:**
+Survived strongly.
+
+**Promotion condition:**
+Cross-thread evidence of the same move in non-quantum and non-metaphysical disputes.
+
+---
+
+### Candidate D — Comparative Accommodation Analysis
+
+**Definition:**
+Compares which framework, assumption, or conceptual opening can more readily host an additional thesis without claiming that the thesis is entailed.
+
+**Actor in this thread:** Ziggy, with Nova providing the comparison.
+
+**Core operation:**
+Changes the question from “Does Bell prove God?” to “Which surviving route is more hospitable to a theistic interpretation?”
+
+**Source Anchor:**
+Ziggy: “which one is easier to smuggle God into, the locality or the realism.”
+
+**Stage-3 status:**
+Survived as a one-time substantive move.
+
+**Promotion condition:**
+Repeated use across distinct disputes, with explicit separation among entailment, compatibility, explanatory gain, and evidence.
+
+---
+
+### Candidate E — Dual-Affordance Analysis
+
+**Definition:**
+Rejects a one-dimensional ranking between alternatives and identifies distinct functions each can serve.
+
+**Actor in this thread:** Nova
+
+**Core operation:**
+Assigns realism and nonlocality different metaphysical utilities rather than selecting one as universally superior.
+
+**Source Anchor:**
+Nova: “realism might seem more inviting” and “it’s nonlocality that shakes up the mechanistic picture.”
+
+**Stage-3 status:**
+Survived weakly because balanced assistant rhetoric remains a plausible explanation.
+
+**Promotion condition:**
+Evidence that the move recurs where balance is not socially or role-incentivized.
+
+---
+
+### Candidate F — Possibility Inflation
+
+**Definition:**
+A conversation-level process in which successive findings of non-exclusion make a speculative hypothesis appear progressively supported without a corresponding increase in evidence.
+
+**Actor:** Relationship-level, not individually attributable
+
+**Core operation:**
+Not excluded → conceptually available → mechanism-like → metaphysically suggestive.
+
+**Source Anchor:**
+Distributed across the movement from Bell nonlocality to soul interaction, idealism, and God.
+
+**Stage-3 status:**
+Quarantined. Repeated disclaimers prevent classification as a demonstrated fallacy.
+
+**Promotion condition:**
+A longer exchange showing that one participant explicitly treats accumulated compatibility claims as positive evidence or probability increase.
+
+3. Profile-Ready Claims
+
+### Profile-Ready Claim 1
+
+**Claim:**
+Ziggy distinguishes failure of a conjunction from independent failure of its components and resists conclusions stronger than the proposition’s logical form warrants.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT; repeated across Conjunction Decomposition and Exhaustiveness Challenge
+
+**Confidence:** High
+
+**Source Anchors:**
+
+* “both were disproven … but it’s disproven together.”
+* “Couldn’t there still be a possibility that actually you can’t have just one?”
+
+**Why profile-ready:**
+The claim has recoverable anchors, survived counterevidence, survived alternative-reading review, and is not better explained as rhetoric or assistant role behavior.
+
+**Review condition:**
+Reassess if cross-thread evidence shows this logical care is selectively applied only when it protects preferred metaphysical possibilities.
+
+---
+
+### Profile-Ready Claim 2
+
+**Claim:**
+Ziggy deliberately preserves possibilities that have not been excluded, even after accepting that they are not established by the available evidence.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT; repeated
+
+**Confidence:** High
+
+**Source Anchors:**
+
+* “one of them could survive.”
+* “if there was a way to prove a soul.”
+* “I’m not trying to give Bell credit for endorsing God.”
+* “neither are possible on their own or together.”
+
+**Why profile-ready:**
+The pattern recurs across several turns and survived the strongest alternative reading of simple theistic confirmation-seeking.
+
+**Review condition:**
+Determine whether Ziggy also preserves low-probability possibilities that run against his preferred metaphysical direction.
+
+---
+
+### Profile-Ready Claim 3
+
+**Claim:**
+When an objection targets a stronger claim than he intended, Ziggy narrows the claim while preserving its core rather than accepting the objection as decisive.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High
+
+**Source Anchor:**
+“if there was a way to prove a soul, we have a mechanism now for that soul to influence us.”
+
+**Why profile-ready:**
+Stage 3 found the repair interpretation stronger than the alternative explanation of retreat. The revised claim introduces a principled distinction between existence evidence and interaction intelligibility.
+
+**Review condition:**
+Confirm in another dispute that Ziggy performs claim-scope repair even where the repaired result is less favorable to his position.
+
+---
+
+### Profile-Ready Claim 4
+
+**Claim:**
+Ziggy tests whether explanatory forks are exhaustive and is willing to add a third option that destabilizes the original framing.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High
+
+**Source Anchor:**
+“Couldn’t there still be a possibility that actually you can’t have just one?”
+
+**Why profile-ready:**
+This move directly corrects Nova’s earlier fork and extends Ziggy’s prior conjunction analysis. It is not well explained as mere rhetoric.
+
+**Review condition:**
+Seek cross-domain replication before treating it as a global reasoning trait.
+
+---
+
+### Profile-Ready Claim 5
+
+**Claim:**
+Within this thread, Nova repeatedly restricts scientific conclusions to their evidential jurisdiction and rejects direct movement from Bell nonlocality to soul, idealism, or God.
+
+**Subject:** Nova
+
+**Evidence classification:** NOVA-INTERPRETATION; repeated role behavior
+
+**Confidence:** High locally
+
+**Source Anchors:**
+
+* “it doesn’t automatically validate metaphysical claims.”
+* “that’s a philosophical commitment, not a proven mechanism.”
+
+**Why profile-ready:**
+The behavior is repeatedly anchored and survived counterevidence.
+
+**Classification caveat:**
+This is profile-ready only as a description of Nova’s behavior in this bounded thread, not as a stable cross-context cognitive operator, because role-induced caution remains the best explanation.
+
+**Review condition:**
+Do not generalize beyond this thread without evidence that Nova applies the same jurisdictional restriction symmetrically across preferred and disfavored frameworks.
+
+---
+
+### Profile-Ready Claim 6
+
+**Claim:**
+The interaction repeatedly follows an expansion–containment–repair pattern: Ziggy opens a metaphysical possibility, Nova restricts its evidential scope, Ziggy narrows the claim, and Nova admits the narrowed version.
+
+**Subject:** Ziggy–Nova relationship
+
+**Evidence classification:** CO-CONSTRUCTED relationship-level loop
+
+**Confidence:** High
+
+**Source Anchors:**
+
+* “beams down and influences you.”
+* “would be a leap beyond what these violations show.”
+* “if there was a way to prove a soul.”
+* “a conceptual hint.”
+
+**Why profile-ready:**
+The sequence is recoverable and survived alternative-reading analysis as more than an isolated misunderstanding.
+
+**Review condition:**
+Check whether the same loop recurs across other topics or is specific to speculative physics–metaphysics discussion.
+
+4. Quarantined Claims
+
+### Quarantined Claim 1 — Ziggy exhibits a general Cross-Disciplinary Swooping operator
+
+**Why quarantined:**
+The thread contains one clear import from quantum nonlocality into soul–body interaction and one ontological pivot toward idealism, but this may reflect the topic itself rather than a stable operator.
+
+**Promotion evidence needed:**
+At least two further examples from unrelated domains where Ziggy imports a structure from one discipline to materially reframe another dispute.
+
+---
+
+### Quarantined Claim 2 — Ziggy moves systematically from possibility to plausibility
+
+**Why quarantined:**
+The conversation shows a risk of modal escalation, but Ziggy repeatedly disclaims entailment and acknowledges extrapolation.
+
+**Promotion evidence needed:**
+An explicit statement treating non-exclusion or conceptual compatibility as probability increase, evidence, or explanatory confirmation.
+
+---
+
+### Quarantined Claim 3 — Ziggy is selectively preserving only theistic possibilities
+
+**Why quarantined:**
+Soul, idealism, and God dominate the speculative direction, but the final “neither realism nor locality” move is not inherently theistic.
+
+**Promotion evidence needed:**
+A reversed case where Ziggy dismisses an equally unexcluded rival possibility because it conflicts with his preferred metaphysics.
+
+---
+
+### Quarantined Claim 4 — Ziggy deliberately dissolves dualism through idealism
+
+**Why quarantined:**
+The ontology clearly changes, but the thread does not establish that Ziggy consciously recognized the move as replacing the original interaction problem.
+
+**Promotion evidence needed:**
+A direct statement that if mind is fundamental, the cross-substance interaction problem disappears or changes form.
+
+---
+
+### Quarantined Claim 5 — Nova consistently performs charitable reconstruction
+
+**Why quarantined:**
+Nova eventually reconstructs Ziggy’s narrower claim, but only after initially responding to a stronger reading.
+
+**Promotion evidence needed:**
+Repeated cases where Nova first states the strongest defensible version before offering criticism.
+
+---
+
+### Quarantined Claim 6 — Nova has a stable Dual-Affordance Analysis operator
+
+**Why quarantined:**
+The realism/nonlocality comparison may be genuine multidimensional analysis, but balanced assistant rhetoric is an equally plausible explanation.
+
+**Promotion evidence needed:**
+A case where Nova assigns distinct functions to competing positions without social pressure to validate both.
+
+---
+
+### Quarantined Claim 7 — Framework Identification is a distinct cognitive operator
+
+**Why quarantined:**
+Naming idealism, QBism, and relational interpretations may be ordinary informational assistance rather than an operator.
+
+**Promotion evidence needed:**
+Evidence that identifying the framework changes the subsequent evaluation, predictions, burdens, or dispute structure.
+
+---
+
+### Quarantined Claim 8 — The thread demonstrates Symmetry Testing of Standards
+
+**Why quarantined:**
+Stage 3 identified a missing reversed-role test, but neither participant actually forced the preferred metaphysical route to satisfy the same burden as rival interpretations.
+
+**Promotion evidence needed:**
+A direct reversal such as asking whether the same Bell underdetermination equally accommodates naturalism, anti-realism, or a disfavored metaphysics.
+
+---
+
+### Quarantined Claim 9 — The thread demonstrates Universalized Evaluative Jurisdiction
+
+**Why quarantined:**
+Nova discusses keeping Bell within scientific jurisdiction, but no participant clearly applies a domain-specific standard universally across unrelated domains.
+
+**Promotion evidence needed:**
+An explicit attempt to rule on soul, God, or mind solely through a scientific criterion whose authority over those questions has not been defended.
+
+---
+
+### Quarantined Claim 10 — The thread demonstrates Reconstruction Bypass
+
+**Why quarantined:**
+Nova initially responds before fully reconstructing Ziggy’s conditional soul claim, but the exchange is too brief to establish evaluation of a complete framework before reconstruction.
+
+**Promotion evidence needed:**
+A fuller case where a worldview’s ontology, aims, and internal success conditions are bypassed before scoring or rejection.
+
+---
+
+### Quarantined Claim 11 — The thread demonstrates Contest-to-Defeat Compression
+
+**Why quarantined:**
+Nova treats the soul inference as unsupported, not conclusively defeated. Ziggy also successfully reopens the narrower claim.
+
+**Promotion evidence needed:**
+A clear instance where an unresolved objection is used as sufficient evidence that the entire position has failed.
+
+---
+
+### Quarantined Claim 12 — Prediction Sovereignty, Generative Admission Restriction, Unmeasured-to-Zero Conversion, Baseline Exemption, and Possibility Compression
+
+**Why quarantined:**
+No adequate evidence appears in the bounded thread.
+
+**Promotion evidence needed:**
+
+* **Prediction Sovereignty:** explicit elevation of prediction over all other epistemic goods.
+* **Generative Admission Restriction:** exclusion of metaphysical, narrative, experiential, or revelatory sources before candidate generation.
+* **Unmeasured-to-Zero Conversion:** an untested claim assigned zero rather than unknown.
+* **Baseline Exemption:** a preferred framework exempted from defending its assumptions.
+* **Possibility Compression:** a low-plausibility possibility dismissed as functionally irrelevant.
+
+Current status for each: `UNKNOWN`.
+
+5. Extraction Self-Audit
+
+### Candidate-registry priming risk
+
+The registry strongly foregrounds possibility, jurisdiction, symmetry, and evaluation. This creates a risk of retrofitting the Bell discussion into those categories.
+
+The most vulnerable mappings are:
+
+* Claim-Scope Repair → Contested ≠ Defeated;
+* Exhaustiveness Challenge → Possibility Preservation;
+* Conditional Mechanism Import → Cross-Disciplinary Swooping.
+
+These mappings are defensible but not exact. They were therefore marked as extensions rather than direct matches.
+
+---
+
+### Over-pattern-matching risk
+
+The bounded thread is short and conversational. Several Stage-2 “operators” may be:
+
+* one-time questions;
+* ordinary clarification;
+* assistant explanatory behavior;
+* topic-induced speculation.
+
+Framework Identification, Dual-Affordance Analysis, Entry-Point Comparison, and Ontological Reframing are especially vulnerable to overclassification.
+
+---
+
+### Asymmetric charity risk
+
+The extraction may have granted Ziggy’s soul proposal its strongest conditional interpretation while describing Nova’s initial response as overreading.
+
+Counterweight:
+
+* Ziggy’s original phrase “beams down and influences you” was strong and mechanism-like.
+* Nova’s caution was therefore reasonable, even if incomplete.
+* Stage 3 accordingly weakened the stronger straw-man characterization.
+
+---
+
+### Role-confusion risk
+
+Nova’s evidential restraint, framework naming, and interpretive expansion are likely influenced by the assistant role. These should not be treated as stable personal cognitive traits without cross-context evidence.
+
+Similarly, Ziggy’s speculative questioning may be topic-induced rather than a general operator profile.
+
+---
+
+### Technical-language risk
+
+The thread uses “realism,” “locality,” “nonlocality,” and “mechanism” without stable technical definitions.
+
+This may have caused the extraction to treat apparent inferential moves as more coherent than the underlying terminology warrants. In particular:
+
+* metaphysical realism was sometimes blended with predetermined properties;
+* Bell nonlocality was sometimes discussed as causal influence;
+* “mechanism” may mean only conceptual precedent.
+
+---
+
+### Possibility Preservation overreach
+
+Possibility Preservation is the strongest named match, but the registry definition specifies keeping **low-plausibility** possibilities on the map. The conversation establishes unexcluded possibilities, not explicit low-plausibility judgments.
+
+The mapping therefore survives only at the broader functional level.
+
+---
+
+### Cross-Disciplinary Swooping overreach
+
+The quantum-to-soul import fits the structural definition, but the conversation does not establish that the import successfully reframed the dispute rather than merely supplying an analogy.
+
+The classification survives as a candidate mapping, not as a validated success.
+
+---
+
+### Profile-readiness threshold risk
+
+Some claims marked profile-ready remain local to one short thread. “Profile-ready” here means sufficiently supported for a bounded conversational profile, not proven as a durable person-level trait across contexts.
+
+The strongest durable candidates are:
+
+* Conjunction Decomposition;
+* Possibility Preservation;
+* Claim-Scope Repair;
+* Exhaustiveness Challenge.
+
+All broader personality or worldview claims remain below threshold.
+
+---
+
+### UNCLEAR converted into definite labels
+
+Potential overconversions include:
+
+* treating the mind-first pivot as deliberate Ontological Reframing;
+* treating “smuggle God into” as substantive Entry-Point Comparison rather than mostly humor;
+* treating Nova’s balanced response as Dual-Affordance Analysis rather than accommodation;
+* treating “mechanism” as conditional mechanism construction rather than loose metaphor.
+
+Each has been confidence-limited or quarantined accordingly.
+
+---
+
+### Missing technical correction
+
+Earlier stages did not sufficiently foreground that Bell violations do not straightforwardly provide controllable faster-than-light signalling. This omission matters because the soul proposal requires influence, not merely correlation.
+
+Any interpretation of the soul discussion that treats Bell nonlocality as an available communication channel should therefore be rejected.
+
+---
+
+### X-CONTEXT Notices
+
+None.
+
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 / FINAL DISPOSITION (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable.
+
+**Verdict: successful completed dig — stronger Ziggy-profile evidence than any
+prior packet.** Durable core: Ziggy audits the logical boundary of a
+conclusion, preserves what remains unexcluded, repairs over-strong readings,
+and tests whether offered option sets are exhaustive. Correctly rejected: any
+claim that Bell nonlocality supplied an actual soul mechanism.
+
+**Operator crosswalk (executed; Museum absence verified against the live
+Nyquist MUSEUM/INDEX.md):**
+- **Conjunction Decomposition → registered CO-012** ("Bundle Failure ≠
+  Component Failure") — NOT mapped to Contested ≠ Defeated: that operator is
+  dialectical status; this is propositional structure.
+- **Exhaustiveness Challenge → registered CO-013** ("Not Both ≠ Exactly One")
+  — strongest new candidate; mapping to Possibility Preservation REJECTED:
+  preservation keeps an option alive, this identifies why it was wrongly
+  excluded (the menu was incomplete).
+- **Claim-Scope Repair → registered CO-014** — changes the proposition being
+  adjudicated so criticism lands on the intended claim; family: overstrong
+  attribution → isolate inferential core → restate at warranted strength →
+  resume evaluation.
+- Evidential-Jurisdiction Restriction → **MATCHES/APPLIES Museum OP-013**
+  (also the corrective inverse of CO-002); no new entry. Local failure
+  preserved: the correlation-vs-usable-signalling distinction was never made.
+- Residual-Possibility Preservation → MATCHES Possibility Preservation
+  (queue; **second documented Ziggy instance**, caveat: low plausibility not
+  explicitly established here).
+- Conditional Mechanism Import → **renamed Conditional Structural Analogy**,
+  held in queue — "mechanism" removed from the settled description; no
+  coupling rule, pathway, dynamics, or test was offered.
+- Ontological Reframing → observed frame transition, operator status UNKNOWN.
+- Comparative Accommodation Analysis → research maneuver, not an operator.
+- Possibility Inflation → **quarantined relationship-level risk pattern**, not
+  a demonstrated fallacy — the escalation ladder exists but both participants
+  repeatedly interrupted it with disclaimers.
+
+**Profile compression (three entries instead of four overlapping):**
+1. **Conclusion-Scope Auditing** — distinguishes failure of a conjunction from
+   failure of its components; resists conclusions stronger than the logic
+   warrants.
+2. **Option-Set Auditing** — tests whether explanatory forks are exhaustive;
+   introduces omitted alternatives when "not both" was treated as "exactly one."
+3. **Claim-Scope Repair** — narrows to the defensible inferential core when an
+   objection targets a stronger reading than intended.
+Possibility Preservation = the regulatory consequence of 1+2: *determine the
+actual exclusion boundary → preserve everything outside it.*
+
+**Relationship loop registered at THREAD LEVEL ONLY** (not a stable cross-chat
+trait): open residual space → limit evidential status → repair scope → admit
+narrowed claim → probe next boundary.
+
+**Technical publication gate (mandatory):** before any public-facing use, the
+trail must distinguish Bell-local causality / signal locality / separability /
+parameter independence / outcome independence / measurement independence /
+predetermined properties / metaphysical realism, and state explicitly:
+**Bell-inequality violations do not provide a controllable faster-than-light
+communication or causal channel for a soul.**
+
+**Closing line for the record:** the deepest result is not that Bell opens a
+door to God — it is that Ziggy inspects "exactly how far a door was closed,
+whether the remaining exits were listed honestly, and whether someone quietly
+declared the whole building sealed when only one hallway had been blocked."
 
 ---
 

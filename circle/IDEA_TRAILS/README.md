@@ -51,4 +51,5 @@ Each trail is also mirrored (as a stub) in participating members' `IDEA_TRAILS.m
 | 12 | Operator admission control | UNOPENED | |
 | 13 | Grant's recurring zero | UNOPENED | ← the pilot research question; open this one first |
 | 14 | Invariance, stable structure, and convergence | **OPEN** (`IT-014_invariance_stable_structure_and_model_convergence.md`) | first opened trail — seeded by DIG_AUX_02 (COMPLETE); treasure = the transformation-class question |
-| 15 | Prediction, truth, and ontological underdetermination | **OPEN** (`IT-015_prediction_truth_and_ontological_underdetermination.md`) | seeded by DIG_AUX_03; distinct from #1 (trust-priority); treasure = the ontology-discrimination standard |
+| 15 | Prediction, truth, and ontological underdetermination | **OPEN** (`IT-015_prediction_truth_and_ontological_underdetermination.md`) | seeded by DIG_AUX_03 (COMPLETE); distinct from #1 (trust-priority); treasure = the ontology-discrimination standard |
+| 16 | Bell boundaries and metaphysical continuations | **OPEN** (`IT-016_bell_boundaries_and_metaphysical_continuations.md`) | seeded by DIG_AUX_04 (COMPLETE); ⚠️ mandatory technical-verification gate; treasure = the compatibility→support conversion standard |

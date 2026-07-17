@@ -6,7 +6,7 @@
 > member-specific evidence. Operators are shared vocabulary, not member property,
 > and operator names must never become insults (`ETHICS_AND_CONSENT.md`).
 
-**Last updated:** 2026-07-17 · **Entries:** 11 (all RED)
+**Last updated:** 2026-07-17 · **Entries:** 14 (all RED)
 
 ---
 
@@ -189,14 +189,52 @@ in the promotion log.
 - **Museum link:** absent from the Museum registry (verified 2026-07-17) and structurally the **sibling of OP-009 Contested ≠ Defeated**: OP-009 blocks contested→defeated inflation; CO-011 blocks survived→preferred inflation. Together they bracket the possibility ledger from both sides.
 - **Instantiated in:** `evidence/chat_extractions/DIG_AUX_03_prediction_ontology_and_effective_theories_2026-07.md` (Stage 4; Nova-attributed)
 
+### CO-012 · Conjunction Decomposition  [🔴 RED]
+
+- **Definition:** The failure of a bundle does not distribute across its components — ¬(A ∧ B) establishes neither ¬A ∧ ¬B nor "exactly one of A, B survives" ("Bundle Failure ≠ Component Failure").
+- **Proposed by / first observed in:** blind-recovered in DIG_AUX_04 (2026-07-17); performed by **Ziggy** against the popular "Bell disproved realism and locality" reading — **the lexicon's first Ziggy-attributed registration.** Recurrence untested.
+- **Typical trigger:** a conjunction's refutation is presented as refuting its conjuncts individually, or as forcing a save-exactly-one fork.
+- **Usual output:** the conclusion's scope is re-fixed to what the logic actually licenses; the residual space reopens.
+- **Productive use:** conclusion-scope auditing wherever package deals fail — theorems, policy bundles, worldview conjunctions.
+- **Failure mode:** over-deployed, it can dissolve every joint refutation into unactionable fog ("nothing was really refuted").
+- **Counter-operator:** demand the decomposition be *cashed out* — which component carries the failure, under which auxiliary assumptions?
+- **Museum link:** absent from the Museum registry (verified). Explicitly NOT a Contested ≠ Defeated (OP-009) extension — that is dialectical status; this is propositional structure.
+- **Instantiated in:** `evidence/chat_extractions/DIG_AUX_04_bell_boundaries_and_metaphysical_continuations_2026-07.md` (Stage 4)
+
+### CO-013 · Exhaustiveness Challenge  [🔴 RED]
+
+- **Definition:** Test whether an offered option set was ever complete — "not both" has been silently treated as "exactly one" ("Not Both ≠ Exactly One").
+- **Proposed by / first observed in:** blind-recovered in DIG_AUX_04 (2026-07-17); performed by **Ziggy** against the retain-realism-or-retain-locality fork ("why assume at least one survives?"). Recurrence untested; field desk rates it the strongest new candidate of the Bell packet.
+- **Typical trigger:** an interlocutor presents an interpretive fork or menu as if it followed from the evidence.
+- **Usual output:** the menu itself goes under audit; omitted alternatives (revise both, reject both formulations, other interpretation) re-enter.
+- **Productive use:** candidate-space auditing — distinct from possibility preservation: preservation keeps an option alive; this identifies *why* it was wrongly excluded (the menu was incomplete).
+- **Failure mode:** infinite menu-expansion as evasion — every fork can be accused of incompleteness without proposing the missing options.
+- **Counter-operator:** demand the challenger name the omitted alternative and show it survives the same evidence.
+- **Museum link:** absent from the Museum registry (verified). Third member of the emerging **≠ family**: OP-009 contested ≠ defeated; CO-011 survived ≠ preferred; CO-013 not-both ≠ exactly-one — three brackets against silent inflation of what was established.
+- **Instantiated in:** `evidence/chat_extractions/DIG_AUX_04_bell_boundaries_and_metaphysical_continuations_2026-07.md` (Stage 4)
+
+### CO-014 · Claim-Scope Repair  [🔴 RED]
+
+- **Definition:** When an objection targets a stronger reading than intended, change the proposition being adjudicated — isolate the intended inferential core, restate at warranted strength, resume evaluation.
+- **Proposed by / first observed in:** blind-recovered in DIG_AUX_04 (2026-07-17); performed by **Ziggy** ("Bell proves a soul" → "if a soul were independently established, nonlocality might weaken one conceptual objection"). Recurrence untested.
+- **Typical trigger:** a proposal is answered at its most vulnerable interpretation.
+- **Usual output:** the narrowed claim — separating evidence-for-existence from conceptual intelligibility from possible mechanism from proof.
+- **Productive use:** more than retreat: it keeps a live idea adjudicable at its defensible strength rather than dying at a strength never claimed.
+- **Failure mode:** motte-and-bailey drift — if the broad reading quietly returns after the narrow one survives, the repair was camouflage. (Watch with CO-011: a repaired claim still needs a promotion pathway.)
+- **Counter-operator:** pin the repaired claim in writing and hold future uses to it.
+- **Museum link:** absent from the Museum registry (verified); adjacent to the reconstruction family (OP-004-side), but performed by the *claimant* on their own claim rather than by the evaluator.
+- **Instantiated in:** `evidence/chat_extractions/DIG_AUX_04_bell_boundaries_and_metaphysical_continuations_2026-07.md` (Stage 4)
+
 ---
 
 ## Candidate Queue (named, not yet entered)
 
 From the Phase 2 Ziggy theme list (`ARCHIVE_PLAN.md` §VI) — to be defined as CO
 entries when the Ziggy control profile opens: **possibility preservation**
-*(first documented Ziggy instance: DIG_AUX_03, thread-specific — recurrence
-pending; its reciprocal constraint is already registered as CO-011)* ·
+*(TWO documented Ziggy instances: DIG_AUX_03 + DIG_AUX_04 — recurrence
+accumulating but same-extractor; per field desk its tight form is the
+regulatory consequence of CO-012+CO-013: fix the actual exclusion boundary →
+preserve everything outside it; reciprocal constraint registered as CO-011)* ·
 map expansion · institutional symmetry testing *(≡ Museum OP-008 Symmetry
 Testing of Standards — cross-registry identity noted 2026-07-17)* ·
 lived-experience admission · recursive synthesis · semantic pressure detection ·
@@ -209,7 +247,13 @@ From dig crosswalks, held pending recurrence: **Effective-Layer Reframing**
 one strong Nova instance, DIG_AUX_03; watch for recurrence in religion,
 consciousness, physics, social systems) · **Alternative-Mechanism Search**
 (discovery family: generates/retrieves candidate mechanisms before evaluation —
-distinct from preserving existing options; one Ziggy instance, DIG_AUX_03).
+distinct from preserving existing options; one Ziggy instance, DIG_AUX_03) ·
+**Conditional Structural Analogy** (renamed from "Conditional Mechanism Import"
+— "mechanism" removed from the settled description: a loose conceptual analogy
+against naïve-separation objections, nothing more; one Ziggy instance,
+DIG_AUX_04) · **Possibility Inflation** (QUARANTINED as a relationship-level
+escalation *risk pattern*, not a demonstrated fallacy — both participants
+interrupted the ladder with disclaimers; DIG_AUX_04).
 
 **Cross-registry identities (verified against the Museum INDEX, 2026-07-17):**
 the Stage-4 paste registry's "Symmetry Testing of Standards" = Museum
@@ -228,3 +272,5 @@ therefore carries a Museum ID.
 | 2026-07-17 | (Contested ≠ Defeated) | Mapping attempts from DIG_AUX_02 (Qualified Agreement, Special-Case Subordination) **rejected** — no genuine contest occurred; "adjacent in spirit is not lineage" | Field-desk Stage-4 review, DIG_AUX_02 |
 | 2026-07-17 | CO-011 Possible ≠ Warranted | Registered at RED — strongest novel candidate from DIG_AUX_03; verified absent from Museum; sibling of OP-009 | DIG_AUX_03 Stage 4 + full-Museum crosswalk |
 | 2026-07-17 | (crosswalk, DIG_AUX_03) | Instrumental–Ontological Decoupling → OP-001 subtype (instance, not new entry); Evaluative Jurisdiction Challenge → EXTENDS OP-013 + OP-007, not yet OP-008; Axis Separation → output not operator; Domain Disentanglement → OP-007/OP-015-adjacent; Effective-Layer Reframing + Alternative-Mechanism Search → held in queue | First full-Museum crosswalk (Archive Integration rule #11), OP names verified against Nyquist MUSEUM/INDEX.md |
+| 2026-07-17 | CO-012, CO-013, CO-014 | Registered at RED from DIG_AUX_04 — **first Ziggy-attributed operators** (Conjunction Decomposition; Exhaustiveness Challenge, strongest; Claim-Scope Repair). Rejected mappings: CO-012/CO-014 are NOT Contested ≠ Defeated extensions (propositional structure / claimant-side repair vs dialectical status); CO-013 is NOT a Possibility Preservation extension (menu audit vs option keeping) | DIG_AUX_04 Stage 4 + crosswalk; Museum absence verified |
+| 2026-07-17 | (crosswalk, DIG_AUX_04) | Evidential-Jurisdiction Restriction → MATCHES/APPLIES Museum OP-013 (corrective inverse of CO-002), no new entry; Conditional Mechanism Import → renamed Conditional Structural Analogy, queued; Ontological Reframing → frame transition, status UNKNOWN; Comparative Accommodation Analysis → research maneuver; Possibility Inflation → quarantined risk pattern | Field-desk Stage-4 handoff, DIG_AUX_04 |

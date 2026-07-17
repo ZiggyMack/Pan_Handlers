@@ -41,12 +41,12 @@
 
 | Registry | Location | Count | Notes |
 | ---------- | ---------- | ------- | ------- |
-| Circle Operators | `OPERATOR_LEXICON.md` | 11 (all RED) | CO-001…008 (Grant pilot hypotheses); CO-009 Relational Parameterization + CO-010 Cross-Disciplinary Swooping (DIG_AUX_02); **CO-011 Possible ≠ Warranted** (DIG_AUX_03 — Museum-absent, sibling of OP-009; first full-Museum crosswalk executed with verified OP names) |
-| Idea Trails | `IDEA_TRAILS/README.md` | 15 candidates, **2 OPEN** | IT-014 (invariance/convergence, dig complete) · IT-015 (prediction/truth/underdetermination, dig at Stage 1) |
+| Circle Operators | `OPERATOR_LEXICON.md` | 14 (all RED) | CO-001…008 (Grant hypotheses, evidence pending); CO-009/010 (AUX_02); CO-011 (AUX_03); **CO-012 Conjunction Decomposition, CO-013 Exhaustiveness Challenge, CO-014 Claim-Scope Repair (AUX_04 — first Ziggy-attributed registrations)**. Emerging "≠ family": OP-009, CO-011, CO-013 |
+| Idea Trails | `IDEA_TRAILS/README.md` | 16 candidates, **3 OPEN** | IT-014 (invariance/convergence) · IT-015 (prediction/truth/underdetermination) · IT-016 (Bell boundaries — ⚠️ technical gate) — all three seeding digs COMPLETE |
 | Debates | `DEBATES/` | 0 recorded | |
-| Extraction packets | `evidence/chat_extractions/` | **2 synthesis packets filed** (invariance; prediction-ontology) · 12 workbooks staged (DIG_00–11) · aux digs: AUX_01 (S1 done, 2–4 postponed), AUX_02 (✅ FILED), AUX_03 (✅ FILED), AUX_04 (S1 done — Bell/modal openings, Stage 2 authorized) | protocol v0.2.2 FROZEN; human preflight before every Stage 1; DIG_00 reserved for a preflight-confirmed CFA-zero thread |
+| Extraction packets | `evidence/chat_extractions/` | **3 synthesis packets filed** (invariance; prediction-ontology; Bell boundaries) · 12 workbooks staged (DIG_00–11) · aux digs: AUX_01 (S1 done, 2–4 postponed), AUX_02 ✅, AUX_03 ✅, AUX_04 ✅ (three full-pipeline digs FILED) | protocol v0.2.2 FROZEN; human preflight before every Stage 1; DIG_00 reserved for a preflight-confirmed CFA-zero thread |
 | Corpus sweeps | `evidence/corpus_sweeps/` | 1 filed (SWEEP_00: Stage 1+2 verbatim) | orientation only — never promotable; yielded **9 thread leads**, incl. first cross-member lead (Angles) |
-| Sources filed | per-member `SOURCE_INDEX.md` | **2** (Z-001, Z-002 — Ziggy, thread-specific) | Grant sources still **0** — the Grant-campaign bottleneck stands; best-signaled target: "Grant and Positivism" (2 independent X-CONTEXT pointers) |
+| Sources filed | per-member `SOURCE_INDEX.md` | **3** (Z-001…Z-003 — Ziggy, thread-specific) | Grant sources still **0** — the Grant-campaign bottleneck stands; best-signaled target: "Grant and Positivism" (2 independent X-CONTEXT pointers) |
 
 ---
 

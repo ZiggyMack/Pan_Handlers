@@ -37,6 +37,13 @@ standards conflict, and which pairings generate new ideas.
    `CHAT_EXTRACTION_PROTOCOL.md`. These are never converted into individual
    operator attributions.
 
+## Holding Ledger (pre-Phase-4 — thread-level loops awaiting cross-thread promotion)
+
+| Loop | Pair | Occurrences (bounded digs) | Status |
+| --- | --- | --- | --- |
+| Expansion–containment–repair: *open residual space → limit evidential status → repair scope → admit narrowed claim → probe next boundary* — a.k.a. Boundary Discipline (Nova) / Residual-Space Exploration (Ziggy) | Ziggy–Nova | AUX_02 (qualified-preservation form), AUX_03 (validate-formalize-brake form), AUX_04 (full five-step form) | THREAD-LEVEL ONLY — three same-shaped occurrences, but **same memory-enabled extractor on all three** (no extractor independence); do not promote to stable relationship trait without a bounded second opinion |
+| Possibility Inflation ladder: *not excluded → compatible → suggestive → mechanism-like → hospitable* | Ziggy–Nova (conversation-level) | AUX_04 (risk observed, repeatedly interrupted by both participants' disclaimers) | QUARANTINED RISK PATTERN — not a demonstrated fallacy |
+
 ## Entry Discipline
 
 Every edge in every graph cites: the debate record(s) it derives from, the
