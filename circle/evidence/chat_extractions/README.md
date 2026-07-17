@@ -41,13 +41,22 @@
 
 **How digs are run (opportunistic, by design):** the dig operator doesn't need to
 remember what's in an old chat — that's what the excavation is *for*. Pick any
-old conversation, claim the next EMPTY workbook in numeric order, run the four
-prompts. Stage 1's output tells us what the chat actually holds; record it in
-the Discovered topic column here and in the workbook's header.
+old conversation, **run the workbook's HUMAN PREFLIGHT** (skim first/last
+messages — titles lie in reused chats), then claim the next EMPTY workbook in
+numeric order and run the four prompts. Stage 1's output tells us what the chat
+actually holds; record it in the Discovered topic column here and in the
+workbook's header.
+
+**Auxiliary digs (`DIG_AUX_NN_*.md`):** a bounded, scope-clean extraction whose
+thread turned out to hold a different subject than intended is not discarded —
+it's renamed as an AUX dig and repurposed for whatever it actually evidences
+(precedent: DIG_AUX_00, a valid Ziggy/shared-history dig that was aiming for
+Grant). Aux digs follow all the same rules; only the campaign changes.
 
 | Workbook | Discovered topic (after Stage 1) | Status |
 | --- | --- | --- |
-| `DIG_00.md` | | EMPTY |
+| `DIG_AUX_00_repo_nova_institutional_identity_2026-07.md` | Repo Nova's institutional evolution; Repo Claude complementarity; extraction-design history | STAGE 1 COMPLETE — REPURPOSED (Ziggy/shared-history evidence; Stages 2–4 postponed) |
+| `DIG_00.md` | *(reserved: CFA-zero — preflight required)* | EMPTY |
 | `DIG_01.md` | | EMPTY |
 | `DIG_02.md` | | EMPTY |
 | `DIG_03.md` | | EMPTY |
@@ -79,6 +88,10 @@ dig's discovered topic hits one of these, check it off and note the workbook.
 | ☐ | Myth as compression | Ziggy | |
 | ☐ | Offense-versus-defense scoring asymmetry | both | |
 | ☐ | Institutional authority and preferred grounding standards | both | |
+
+**Known thread leads so far:** nine in the SWEEP_00 leads table, plus
+**"Grant and Positivism"** (EOS operator development and worldview analysis) —
+surfaced by DIG_AUX_00's X-CONTEXT notices, the channel's first field payout.
 
 Start with **six to ten** threads where the central disagreement is clearest —
 not with everything. After ≥3 packets exist, open one fresh **synthesis thread**

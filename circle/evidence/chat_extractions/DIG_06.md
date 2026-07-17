@@ -36,6 +36,21 @@
 
 ---
 
+## 🧭 HUMAN PREFLIGHT (operator only — never pasted into the chat)
+
+Titles lie: reused chats drift far from their names. Before sending Stage 1,
+skim the first and last few messages of the target thread and record:
+
+- **Intended subject appears in thread:** YES / NO / PARTIAL
+- **Approximate relevant region:**
+- **Other major subjects present:**
+- **Recommended disposition:** PROCEED / RETARGET / REPURPOSE AS AUX
+
+*(Navigation layer, per Nova 2026-07-17 — not part of the frozen extractor.
+A wrong thread is not a protocol failure; it is a preflight failure.)*
+
+---
+
 ## 🟦 STAGE 1 PROMPT — copy everything inside the fence, send as one message
 
 ````text
