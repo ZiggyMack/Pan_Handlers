@@ -1,6 +1,6 @@
 # DIG AUX 04 — Bell's Theorem and Modal Openings
 
-**Status:** STAGE 2 COMPLETE — field-desk PASS; STAGE 3 AUTHORIZED (outputs merged into this canonical file 2026-07-17)
+**Status:** STAGE 3 COMPLETE — field-desk PASS WITH TWO AVAILABILITY CORRECTIONS; STAGE 4 AUTHORIZED (carry the "mechanism → conceptual precedent" downgrade firmly)
 **Primary subject:** Ziggy · **Secondary:** Ziggy–Nova conceptual exchange
 **Grant relevance:** NONE · **Technical-risk level: HIGH**
 **Protocol:** v0.2.2 Stage 1 (bounded) · **Extraction date:** 2026-07-17
@@ -1504,7 +1504,995 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+1. Confirmed Informative Omissions (A3/A2)
+
+### Omission 1 — Nova did not initially distinguish “nonlocal correlation” from “usable causal influence”
+
+**Actor:** Nova
+
+**Relevant point:** Ziggy proposed that a soul might “beam down and influence” the body through something analogous to quantum nonlocality.
+
+**Why the move was relevant:**
+The conversation turned on whether Bell-type nonlocality could function as a mechanism. A crucial distinction was available between:
+
+* correlations that violate Bell inequalities;
+* controllable superluminal signalling;
+* a causal influence usable by an agent or soul.
+
+Without this distinction, “nonlocality” remained broad enough to carry more metaphysical work than the thread had justified.
+
+**Source Anchor:**
+Ziggy, middle conversation: “your soul operates from, it beams down and influences you here.”
+Nova replied: “the nonlocal influences we’re talking about are strictly within the realm of physical systems.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:**
+Nova repeatedly used evidential-jurisdiction distinctions elsewhere in the same exchange, including separating Bell’s theorem from proof of a soul and separating idealism from empirical confirmation.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The discussion proceeded as though the primary problem was whether nonlocality could be imported across ontological domains, while leaving unclear whether quantum nonlocality supplies influence in the causal sense Ziggy required.
+
+**Stable or situational:**
+Situational. Nova was actively performing boundary control but omitted the most technically decisive boundary.
+
+---
+
+### Omission 2 — Nova did not initially preserve the full logical option set after rejecting local realism
+
+**Actor:** Nova
+
+**Relevant point:** Nova framed the result as a choice between retaining realism with nonlocality or retaining locality while abandoning predetermined properties.
+
+**Why the move was relevant:**
+The negation of a conjunction does not establish that exactly one component survives. The possibility that both classical realism and classical locality fail was logically available.
+
+**Source Anchor:**
+Nova, early conversation: “You can hold onto realism … or you can keep locality … But you can’t cling to both at once.”
+Ziggy, final turn: “Couldn’t there still be a possibility that actually you can’t have just one?”
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:**
+Nova later accepted the third possibility and invoked QBism and relational interpretations.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Temporarily. It produced a false appearance of exhaustiveness and required Ziggy to reopen the option space.
+
+**Stable or situational:**
+Situational. Nova corrected the framing once challenged.
+
+---
+
+### Omission 3 — Ziggy did not consistently separate conceptual compatibility from evidential support
+
+**Actor:** Ziggy
+
+**Relevant point:** Ziggy moved from nonlocality as an opening, to a possible soul mechanism, to mind-first metaphysics, to asking where God could be “smuggled in.”
+
+**Why the move was relevant:**
+Ziggy himself explicitly distinguished Bell’s theorem from proof of God and later narrowed the soul claim after Nova’s objection. The same distinction could have been maintained continuously between:
+
+* not ruled out;
+* conceptually compatible;
+* explanatory;
+* evidenced;
+* likely.
+
+**Source Anchors:**
+Ziggy: “I’m not trying to give Bell credit for endorsing God.”
+Ziggy: “if there was a way to prove a soul, we have a mechanism now.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:**
+Ziggy explicitly performed claim-scope repair and disavowed direct entailment.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It allowed “mechanism” and “wiggle room” to carry ambiguous evidential weight.
+
+**Stable or situational:**
+Partly stable within this thread. The same ambiguity recurred across soul, idealism, and God, though Ziggy repaired it when challenged.
+
+---
+
+### Omission 4 — Nova did not reconstruct Ziggy’s conditional claim before objecting to it
+
+**Actor:** Nova
+
+**Relevant point:** Ziggy was exploring whether nonlocality could supply a pathway for a soul, conditional on the soul’s independent establishment.
+
+**Why the move was relevant:**
+Nova responded as though Ziggy were using Bell’s theorem to validate a soul. Ziggy then clarified that his claim was conditional.
+
+**Source Anchors:**
+Nova: “Invoking a soul … would be a leap beyond what these violations show.”
+Ziggy: “if there was a way to prove a soul, we have a mechanism now.”
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability basis:**
+Nova later accurately restated the weaker proposal as a “conceptual hint.”
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It created an avoidable strong-reading/repair loop.
+
+**Stable or situational:**
+Situational. Nova became more charitable after clarification.
+
+---
+
+### Omission 5 — Ziggy did not apply the same opening-space test to rival metaphysical interpretations
+
+**Actor:** Ziggy
+
+**Relevant point:** Ziggy searched for where a soul, idealism, or God could enter after classical local realism was constrained.
+
+**Why the move was relevant:**
+The same underdetermination that leaves room for theistic or idealist interpretations also leaves room for non-theistic, relational, instrumentalist, or other ontologies.
+
+**Source Anchor:**
+Ziggy, late conversation: “which one is easier to smuggle God into.”
+
+**Availability tier:** A2 — Explicitly Available
+
+**Availability basis:**
+Nova explicitly introduced QBism and relational interpretations in the final response, placing rival non-theistic or non-classically realist options into the conversation.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Until the final turn, the metaphysical search was directionally asymmetric: openness was primarily used to explore soul, mind, and God.
+
+**Stable or situational:**
+UNKNOWN. The thread ends before Ziggy responds to the rival interpretations.
+
+2. Possible Informative Omissions (A1)
+
+### Omission 6 — Neither participant defined the relevant sense of “realism”
+
+**Actor:** Both
+
+**Relevant point:** The entire conversation relied on whether realism survives Bell’s theorem.
+
+**Why the move was relevant:**
+“Realism” may refer to several different claims:
+
+* measurement-independent properties;
+* hidden variables;
+* determinism;
+* counterfactual definiteness;
+* mind-independent reality;
+* metaphysical realism generally.
+
+The discussion shifted between particle properties and a broader observer-independent reality that might be grounded in God.
+
+**Source Anchors:**
+Nova, early: “particles have definite properties … before we measure them.”
+Nova, later: realism “suggests there’s a definite reality out there.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It enabled movement from a narrow Bell-relevant notion of realism to broad metaphysical realism without an explicit bridge.
+
+**Stable or situational:**
+Stable throughout the thread.
+
+---
+
+### Omission 7 — Neither participant defined the relevant sense of “locality”
+
+**Actor:** Both
+
+**Relevant point:** Locality was treated as “nothing can influence something else faster than light.”
+
+**Why the move was relevant:**
+The thread did not distinguish:
+
+* signal locality;
+* local causality;
+* separability;
+* parameter independence;
+* outcome independence;
+* relativistic causal structure.
+
+This mattered directly to the proposed soul mechanism.
+
+**Source Anchor:**
+Nova, opening response: “Locality means that nothing can influence something else faster than light.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It made “spooky action at a distance” sound more like a transferable causal channel than the conversation established.
+
+**Stable or situational:**
+Stable throughout the thread.
+
+---
+
+### Omission 8 — Neither participant asked what explanatory work “soul” was supposed to perform
+
+**Actor:** Both
+
+**Relevant point:** The soul was proposed as something headquartered elsewhere that influences the person.
+
+**Why the move was relevant:**
+Without specifying the soul’s function, it is unclear whether it explains:
+
+* personal identity;
+* consciousness;
+* agency;
+* memory;
+* moral responsibility;
+* survival after death;
+* unity of experience.
+
+The required mechanism depends on the function.
+
+**Source Anchor:**
+Ziggy: “wherever the headquarters and whatever dimension that your soul operates from.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The conversation evaluated whether a soul could interact before clarifying what observations or phenomena required such interaction.
+
+**Stable or situational:**
+Stable within the soul portion of the exchange.
+
+---
+
+### Omission 9 — Neither participant tested the soul proposal for empirical consequence
+
+**Actor:** Both
+
+**Relevant point:** Ziggy proposed nonlocality as a possible mechanism if a soul were independently established.
+
+**Why the move was relevant:**
+A mechanism claim gains content by identifying what differs if it is true:
+
+* measurable deviations;
+* intervention conditions;
+* information transfer;
+* causal asymmetries;
+* predictions not generated by ordinary physical models.
+
+**Source Anchor:**
+Ziggy: “we have a mechanism now for that soul to influence us.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. “Mechanism” remained metaphorical or modal rather than operational.
+
+**Stable or situational:**
+Situational to the mechanism discussion.
+
+---
+
+### Omission 10 — Nova did not explicitly distinguish idealism from dualism
+
+**Actor:** Nova
+
+**Relevant point:** Ziggy shifted from an externally located soul influencing matter to mind being fundamental.
+
+**Why the move was relevant:**
+The first model resembles interactionist dualism; the second may dissolve the matter–mind divide through idealism. These are not merely two mechanisms for the same ontology.
+
+**Source Anchors:**
+Ziggy: “whatever dimension that your soul operates from, it beams down.”
+Later: “if mind is fundamental.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Moderately. Nova named idealism but did not explain that Ziggy had changed the underlying problem rather than merely found another mechanism.
+
+**Stable or situational:**
+Situational.
+
+---
+
+### Omission 11 — Neither participant tested the God-entry comparison under reversed preference
+
+**Actor:** Both
+
+**Relevant point:** Ziggy asked which concept was easier to use to introduce God.
+
+**Why the move was relevant:**
+A reversed-role test could ask:
+
+* Which horn is easier to use to exclude God?
+* Which horn is equally compatible with naturalism?
+* Would the same evidential standard be accepted if used to “smuggle in” a disfavored ontology?
+
+**Source Anchor:**
+Ziggy: “which one is easier to smuggle God into.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The comparison remained opportunity-seeking rather than symmetry-tested.
+
+**Stable or situational:**
+Situational.
+
+---
+
+### Omission 12 — Neither participant separated “unknown” from “supported”
+
+**Actor:** Both
+
+**Relevant point:** The conversation repeatedly preserved metaphysical possibilities after noting that Bell’s theorem did not settle them.
+
+**Why the move was relevant:**
+A hypothesis may be:
+
+* not disproven;
+* unspecified;
+* compatible with evidence;
+* explanatory;
+* supported;
+* preferred.
+
+These statuses were not explicitly tracked.
+
+**Source Anchors:**
+Nova: “it doesn’t automatically validate metaphysical claims.”
+Later: “nonlocality might offer a conceptual hint.”
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. It contributed to possibility-to-plausibility drift.
+
+**Stable or situational:**
+Stable across the metaphysical portion.
+
+3. Non-Informative Omissions (A0)
+
+### Omission 13 — No formal reconstruction of Bell’s theorem assumptions
+
+**Actor:** Both
+
+**Potentially missing move:**
+A formal breakdown of Bell-local causality, measurement independence, statistical assumptions, and the experimental conclusion.
+
+**Availability tier:** A0 — Unknown
+
+**Why non-informative:**
+The conversation was informal and no evidence shows that either participant had the technical resources or intended level of analysis needed for a formal derivation.
+
+**Effect on outcome:**
+The technical imprecision mattered, but no inference about the participants should be drawn from the absence.
+
+---
+
+### Omission 14 — No comparison among specific quantum interpretations
+
+**Actor:** Both
+
+**Potentially missing move:**
+Systematically compare Bohmian mechanics, Everettian quantum mechanics, relational quantum mechanics, QBism, superdeterminism, and retrocausal models.
+
+**Availability tier:** A0 — Unknown
+
+**Why non-informative:**
+Nova named only QBism and relational interpretations. No evidence establishes availability of a full interpretation-by-interpretation comparison.
+
+**Effect on outcome:**
+The interpretive field remained incomplete, but the omission is not diagnostically informative.
+
+---
+
+### Omission 15 — No source verification of Kastrup’s podcast claim
+
+**Actor:** Both
+
+**Potentially missing move:**
+Retrieve the exact quotation and surrounding argument from Bernardo Kastrup.
+
+**Availability tier:** A0 — Unknown
+
+**Why non-informative:**
+The episode, title, and quotation were not supplied. No browsing or source-retrieval context existed within the bounded thread.
+
+**Effect on outcome:**
+The conversation may have responded to an imprecise paraphrase, but no stronger conclusion follows.
+
+---
+
+### Omission 16 — No independent theory of personal identity
+
+**Actor:** Both
+
+**Potentially missing move:**
+Develop criteria for what would make a soul the same subject over time.
+
+**Availability tier:** A0 — Unknown
+
+**Why non-informative:**
+The thread did not progress far enough into soul theory to establish this as an expected move.
+
+**Effect on outcome:**
+The soul concept remained underdeveloped, but this absence does not discriminate among reasoning styles.
+
+4. Counterevidence Findings
+
+### Characterization 1 — Ziggy repeatedly preserves residual possibilities
+
+**Counterevidence search:**
+Searched for cases where Ziggy rejected an attractive metaphysical possibility despite it remaining logically open.
+
+**Result:**
+None found.
+
+**Potential counterevidence present:**
+Ziggy does acknowledge possible extrapolation: “maybe I’m extrapolating a bit.” This shows some self-restraint, but he does not abandon the possibility.
+
+**Assessment:**
+Characterization survives.
+
+---
+
+### Characterization 2 — Ziggy distinguishes conjunction failure from individual failure
+
+**Counterevidence search:**
+Searched for later statements where Ziggy reverted to claiming that Bell independently disproved both realism and locality.
+
+**Result:**
+None found.
+
+**Assessment:**
+Characterization strongly survives.
+
+---
+
+### Characterization 3 — Ziggy challenges false exhaustiveness
+
+**Counterevidence search:**
+Searched for acceptance of Nova’s two-horn fork as exhaustive.
+
+**Result:**
+Ziggy initially agrees with the general “can’t have both” framing, but later explicitly challenges the assumption that one must survive.
+
+**Assessment:**
+The later challenge is stronger than the temporary acceptance. Characterization survives.
+
+---
+
+### Characterization 4 — Ziggy uses conditional mechanism import
+
+**Counterevidence search:**
+Searched for evidence that Ziggy was directly claiming Bell proved a soul or supplied a completed physical mechanism.
+
+**Result:**
+Counterevidence found. Ziggy explicitly says he is not trying to make Bell endorse God and clarifies that the soul would need to be proven independently.
+
+**Effect:**
+This counterevidence strengthens the conditional reading and weakens any reading that Ziggy made a direct empirical inference.
+
+**Assessment:**
+Characterization survives in narrowed form.
+
+---
+
+### Characterization 5 — Ziggy performs ontological reframing
+
+**Counterevidence search:**
+Searched for evidence that Ziggy maintained the same dualist ontology throughout.
+
+**Result:**
+The earlier “headquarters in another dimension” model differs from the later “mind is fundamental” model. This supports a genuine frame change.
+
+**Contrary evidence:**
+No explicit acknowledgment that he was abandoning or revising the earlier ontology.
+
+**Assessment:**
+Characterization survives, but it may be an exploratory pivot rather than a deliberate resolution.
+
+---
+
+### Characterization 6 — Ziggy is a metaphysical opportunity seeker
+
+**Counterevidence search:**
+Searched for equal exploration of non-theistic or anti-realist interpretations.
+
+**Result:**
+None initiated by Ziggy.
+
+**Counterevidence present:**
+Ziggy’s final question opens the possibility that neither realism nor locality survives, which is not specifically theistic.
+
+**Assessment:**
+Characterization survives but should not be overstated as pure confirmation-seeking. Ziggy also pursues logical completeness.
+
+---
+
+### Characterization 7 — Nova acts as an evidential-jurisdiction restrictor
+
+**Counterevidence search:**
+Searched for cases where Nova directly endorsed the soul, idealism, or God as established by Bell’s theorem.
+
+**Result:**
+None found.
+
+**Counterevidence present:**
+Nova uses permissive language such as “conceptual hint,” “wiggle room,” and “rewriting the rulebook.”
+
+**Assessment:**
+Characterization survives, but Nova’s boundary enforcement is softened by conversational accommodation.
+
+---
+
+### Characterization 8 — Nova initially strong-reads Ziggy’s soul claim
+
+**Counterevidence search:**
+Searched for wording in Ziggy’s first soul proposal that clearly made the claim conditional.
+
+**Result:**
+The first wording was stronger and more literal: “beams down and influences you here.” Nova’s caution was therefore not baseless.
+
+**Contrary evidence:**
+Ziggy had prefaced the idea with “does that like open the door,” which signals exploration rather than assertion.
+
+**Assessment:**
+Characterization weakens slightly. Nova overread the claim, but Ziggy’s wording invited the strong reading.
+
+---
+
+### Characterization 9 — Nova supplies framework identification
+
+**Counterevidence search:**
+Searched for places where Nova avoided naming existing philosophical positions despite clear overlap.
+
+**Result:**
+None found within the relevant moments. Nova names Kastrup-style idealism, QBism, and relational interpretations.
+
+**Assessment:**
+Characterization survives.
+
+---
+
+### Characterization 10 — Nova’s initial fork was overcompressed
+
+**Counterevidence search:**
+Searched for an early qualification that both classical concepts might fail.
+
+**Result:**
+None found before Ziggy raises the point.
+
+**Later correction:**
+Nova accepts the wider option set.
+
+**Assessment:**
+Characterization strongly survives as a situational explanatory simplification.
+
+---
+
+### Characterization 11 — The relationship operates through expansion and containment
+
+**Counterevidence search:**
+Searched for exchanges where Nova initiates metaphysical expansion and Ziggy restrains it.
+
+**Result:**
+Limited counterexample: Nova says nonlocality provides “wiggle room” and that the universe is “more deeply interconnected,” while Ziggy later asks the stricter logical question about whether neither horn survives.
+
+**Assessment:**
+The loop survives, but the roles are not absolute. Nova sometimes expands rhetorically, and Ziggy sometimes sharpens logically.
+
+---
+
+### Characterization 12 — The conversation exhibits possibility-to-plausibility drift
+
+**Counterevidence search:**
+Searched for explicit statements distinguishing possibility from probability or evidence.
+
+**Result:**
+Several found:
+
+* Nova: “doesn’t automatically validate metaphysical claims.”
+* Nova: “that’s a philosophical commitment.”
+* Ziggy: “I’m not trying to give Bell credit for endorsing God.”
+* Ziggy: the soul would first need to be proven.
+
+**Assessment:**
+The drift exists as a risk, but it is repeatedly noticed and partially regulated. The stronger version of the characterization weakens.
+
+---
+
+### Characterization 13 — Ziggy values preserved possibility independently of prediction
+
+**Counterevidence search:**
+Searched for demands that the soul or God hypothesis generate predictions before being admitted into discussion.
+
+**Result:**
+None found.
+
+**Assessment:**
+The thread supports a modal-admissibility orientation, but it does not establish Ziggy’s general view of prediction outside this conversation.
+
+---
+
+### Characterization 14 — Charitable reconstruction was absent
+
+**Counterevidence search:**
+Searched for either participant restating the other’s position in a weaker, more defensible form.
+
+**Result:**
+Found:
+
+* Nova later reframes the soul proposal as a “conceptual hint.”
+* Ziggy clarifies his own intended conditional claim.
+* Nova distinguishes idealism as a separate framework rather than dismissing it.
+
+**Assessment:**
+A blanket claim that charitable reconstruction was absent is false. It was delayed, not absent.
+
+5. Alternative Readings
+
+### Conjunction Decomposition
+
+**Primary reading:**
+A repeatable logical move separating the falsity of a conjunction from the falsity of each conjunct.
+
+**Strongest alternative:**
+A substantive belief about Bell’s theorem learned from prior exposure.
+
+**Discriminating evidence:**
+Ziggy later performs the related but distinct exhaustiveness challenge, showing sensitivity to the logical form rather than merely reciting a conclusion.
+
+**Verdict:**
+Operator reading better supported.
+
+---
+
+### Residual-Possibility Preservation
+
+**Primary reading:**
+A general reasoning move that reopens possibilities not excluded by the available result.
+
+**Strongest alternative:**
+Preference-driven metaphysical permissiveness directed toward soul and God.
+
+**Discriminating evidence:**
+The final possibility Ziggy preserves—that neither classical realism nor locality survives—is not obviously favorable to theism. This supports a genuine logical-opening tendency beyond pure preference.
+
+**Verdict:**
+Both readings remain active. Operator classification survives with caution.
+
+---
+
+### Conditional Mechanism Import
+
+**Primary reading:**
+A cross-domain attempt to use nonlocality as a possible interaction model, conditional on independent evidence for a soul.
+
+**Strongest alternative:**
+A rhetorical use of scientific mystery to make an otherwise unsupported metaphysical claim sound mechanistic.
+
+**Discriminating evidence:**
+Ziggy explicitly disclaims direct proof and conditions the proposal on prior proof of the soul.
+
+**Verdict:**
+Conditional exploratory reading is better supported, though “mechanism” remains overstated.
+
+---
+
+### Evidential-Jurisdiction Restriction
+
+**Primary reading:**
+Nova enforces the boundary between empirical result and metaphysical extrapolation.
+
+**Strongest alternative:**
+Default assistant caution or socially learned “science does not prove spirituality” boilerplate.
+
+**Discriminating evidence:**
+Nova applies the same distinction repeatedly and adjusts it after Ziggy narrows the claim.
+
+**Verdict:**
+Role-induced operator reading survives.
+
+---
+
+### Claim-Scope Repair
+
+**Primary reading:**
+Ziggy narrows a claim after detecting over-attribution.
+
+**Strongest alternative:**
+Retreat after criticism.
+
+**Discriminating evidence:**
+The revised claim is not merely weaker; it explicitly separates existence evidence from mechanism evidence. That distinction is structurally coherent with Ziggy’s original “open the door” wording.
+
+**Verdict:**
+Repair reading better supported than ad hoc retreat.
+
+---
+
+### Ontological Reframing
+
+**Primary reading:**
+Ziggy changes from a cross-domain dualist model to a mind-first idealist frame.
+
+**Strongest alternative:**
+Free association from nonlocality to Kastrup without deliberate problem transformation.
+
+**Discriminating evidence:**
+The phrase “if mind is fundamental” explicitly changes the ontological base.
+
+**Verdict:**
+Transformative move survives, but deliberateness remains UNCLEAR.
+
+---
+
+### Framework Identification
+
+**Primary reading:**
+Nova maps Ziggy’s emerging idea onto idealism and later onto relational interpretations.
+
+**Strongest alternative:**
+Informational name-dropping.
+
+**Discriminating evidence:**
+The labels directly organize the option space, but Nova does not explain their detailed commitments.
+
+**Verdict:**
+Weakened from a strong cognitive operator to a modest classificatory move.
+
+---
+
+### Entry-Point Comparison
+
+**Primary reading:**
+Ziggy compares which conceptual horn better accommodates God.
+
+**Strongest alternative:**
+Playful rhetoric signaled by “smuggle God into.”
+
+**Discriminating evidence:**
+Nova responds substantively, and Ziggy had already distinguished accommodation from endorsement.
+
+**Verdict:**
+Substantive comparative reasoning is supported despite rhetorical phrasing.
+
+---
+
+### Dual-Affordance Analysis
+
+**Primary reading:**
+Nova assigns realism and nonlocality different metaphysical functions.
+
+**Strongest alternative:**
+Balanced assistant rhetoric designed to validate both sides.
+
+**Discriminating evidence:**
+The distinction has intelligible structure: realism supplies mind-independent order; nonlocality challenges separability.
+
+**Verdict:**
+Reasoning move survives, though the evidential relevance of either affordance remains weak.
+
+---
+
+### Exhaustiveness Challenge
+
+**Primary reading:**
+Ziggy detects that “not both” does not imply “exactly one.”
+
+**Strongest alternative:**
+A one-off speculative reaction.
+
+**Discriminating evidence:**
+It directly extends the earlier conjunction analysis and corrects Nova’s fork.
+
+**Verdict:**
+Strongly survives as an operator.
+
+---
+
+### Interpretive-Space Expansion
+
+**Primary reading:**
+Nova widens the field to interpretations that revise both classical assumptions.
+
+**Strongest alternative:**
+An informational answer naming fashionable interpretations.
+
+**Discriminating evidence:**
+Nova uses the interpretations to answer the precise logical possibility Ziggy raised.
+
+**Verdict:**
+Survives as a response operation, though technical adequacy is UNKNOWN.
+
+---
+
+### Expansion-and-Containment Loop
+
+**Primary reading:**
+Ziggy expands metaphysical possibility; Nova restricts evidential scope; the narrowed possibility is then retained.
+
+**Strongest alternative:**
+Ordinary cooperative conversation between a speculative user and cautious assistant.
+
+**Discriminating evidence:**
+The same form recurs across soul, idealism, God, and the final realism/locality question.
+
+**Verdict:**
+Relationship-level loop survives.
+
+---
+
+### Possibility Ratchet
+
+**Primary reading:**
+Each admitted possibility becomes the basis for a further metaphysical possibility.
+
+**Strongest alternative:**
+Normal exploratory sequencing with repeated disclaimers preventing actual inferential inflation.
+
+**Discriminating evidence:**
+Both are present. The discussion expands stepwise, but both participants repeatedly deny entailment.
+
+**Verdict:**
+Survives only as a risk pattern, not as a demonstrated fallacy.
+
+6. Characterizations That Survived
+
+7. Ziggy reliably distinguishes the failure of a conjunction from the failure of each component.
+
+8. Ziggy repeatedly tests whether a conclusion has been treated as stronger or more exhaustive than warranted.
+
+9. Ziggy preserves residual possibilities and uses them as openings for further metaphysical exploration.
+
+10. Ziggy’s soul proposal is best read conditionally, not as a claim that Bell’s theorem proves a soul.
+
+11. Ziggy performs a genuine claim-scope repair after Nova’s initial objection.
+
+12. Ziggy shifts from a possible dualist interaction model to a mind-first ontological frame.
+
+13. Nova consistently protects the distinction between empirical findings and metaphysical conclusions.
+
+14. Nova initially offers an overcompressed either/or framing and later accepts a broader option space.
+
+15. Nova acts as a framework translator by connecting the discussion to idealism, QBism, and relational approaches.
+
+16. The conversation repeatedly cycles through expansion, containment, clarification, and partial admission.
+
+17. Ziggy’s offense is primarily directed against premature closure; Nova’s defense is primarily directed against evidential overreach.
+
+18. “Not ruled out” functions as an important threshold in Ziggy’s exploratory reasoning, though not as explicit proof.
+
+19. Characterizations That Weakened
+
+20. **Possibility-to-plausibility drift as a settled operator:**
+    Weakened. Both participants repeatedly distinguish compatibility from confirmation, even though their language sometimes blurs the categories.
+
+21. **Nova simply straw-manned the soul proposal:**
+    Weakened. Ziggy’s “beams down and influences” wording reasonably invited a stronger reading, although Nova still failed to reconstruct the conditional version first.
+
+22. **Ziggy is only seeking confirmation for theism:**
+    Weakened. His final challenge about both realism and locality failing shows an independent concern with logical completeness.
+
+23. **Nova’s role is purely restrictive:**
+    Weakened. Nova also expands the interpretive field, offers metaphysical affordances, and supplies alternative frameworks.
+
+24. **Framework Identification as a strong cognitive operator:**
+    Weakened. It may be better understood as a role-induced classificatory behavior unless repeated cross-thread evidence establishes greater operational depth.
+
+25. **Ontological Reframing as a deliberate solution:**
+    Weakened slightly. The frame clearly changes, but the conversation does not establish that Ziggy knowingly replaced dualism with idealism to dissolve the interaction problem.
+
+26. **The offense/defense asymmetry is absolute:**
+    Weakened. Nova sometimes becomes rhetorically expansive, while Ziggy sometimes performs the stricter logical policing.
+
+27. **Charitable reconstruction was absent:**
+    Rejected. It occurred after clarification, though not always at the first opportunity.
+
+28. **The preserved metaphysical options were treated as equally plausible:**
+    UNKNOWN. The thread discusses possibility and compatibility but contains no explicit probability ranking.
+
+29. **The soul proposal supplied an actual mechanism:**
+    Weakened substantially. No controllable causal process, formal model, or empirical consequence was provided; “conceptual precedent” is the better-supported description.
+
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat evidence.
+> Never promotable.
+
+**Verdict: PASS WITH TWO AVAILABILITY CORRECTIONS — run Stage 4 unchanged.**
+Central result: **Ziggy guards against premature closure; Nova guards against
+evidential overreach. That is the real architecture.**
+
+**Availability corrections:**
+- Omission 1 (correlation vs usable causal influence): **A3 → A1** — general
+  boundary awareness ≠ demonstrated availability of the specific technical
+  four-way split (Bell correlation / signalling / causal control / agent-usable
+  influence). Omission stays important; tier weakens.
+- Omission 5 (Ziggy didn't test rival interpretations): **A2 →
+  SOURCE-LIMITED / NO RESPONSE OPPORTUNITY** *(new omission classification —
+  logged for the taxonomy)* — QBism/RQM surfaced only in Nova's final response,
+  after which Ziggy had no turn; one cannot decline a move never offered. At
+  most A1 for the earlier theistic asymmetry.
+
+**Pre-Stage-3 pruning forecast: CONFIRMED across the board** (survivors
+survived; mechanism weakened to *conceptual precedent* exactly as called;
+drift held as risk; motive claim stayed rejected). Field desk four-for-four.
+
+**Strongest surviving Ziggy moves:** Conjunction Decomposition (exceptionally
+clean, extended into the exhaustiveness challenge); **Exhaustiveness
+Challenge** ("Why assume at least one survives?" — audits whether the option
+set follows from the evidence at all; strongest new profile candidate in the
+packet); Claim-Scope Repair (more than retreat — separates evidence-for-
+existence from causal intelligibility); Residual-Possibility Preservation in
+its tight form: *identifies what remains logically open after a result's
+actual exclusion boundary is fixed.*
+
+**Strongest caution against Ziggy (carry into Stage 4):** "mechanism" did too
+much work. Earned: *a loose analogy against the claim that every dependence
+must resemble ordinary local contact.* Not earned: a soul variable, coupling
+rule, causal direction, controllable transfer, interaction model, or test.
+
+**Strongest surviving Nova moves:** Evidential-Jurisdiction Restriction;
+Initial Fork Compression (pedagogy → false exhaustiveness appearance → user
+correction → space expansion); **Delayed Charitable Reconstruction** — a
+*sequencing* problem, not absent charity: guard against the strongest reading
+first, reconstruct the narrow claim only after the repair. (Second occurrence
+of this shape — see AUX_03's Omission 4.)
+
+**Relationship loop survives at thread level only:** open residual space →
+limit evidential status → narrow claim → admit narrowed version → test next
+boundary.
+
+**Stage-4 mapping expectations registered (scoreable):** Conjunction
+Decomposition NEW; Exhaustiveness Challenge NEW (strongest); Residual-
+Possibility Preservation MATCHES Possibility Preservation; Conditional
+Mechanism Import EXTENDS Cross-Disciplinary Swooping (analogy only);
+Evidential-Jurisdiction Restriction OP-013-adjacent; Claim-Scope Repair NEW or
+reconstruction-family; Possibility Ratchet quarantined as risk pattern.
+**Mapping danger:** do NOT force the God question onto Generative Admission
+Restriction (no hypothesis source is being excluded or admitted — this is
+compatibility comparison), and the soul discussion supports no
+prediction-related operators.
+
+**Expected profile-ready vs quarantined claims registered** — safe: the six
+narrow behavioral claims (three Ziggy, two Nova, one interaction); quarantined:
+anything asserting a soul mechanism, plausibility-from-room, idealism-as-
+solution, nonlocality-favors-theism, or a stable cross-chat expansion/
+containment relationship.
+
+**Packet's shaping headline:** *"Ziggy repeatedly asks not merely whether a
+conclusion is true, but whether its scope and option set have been silently
+enlarged beyond what the logic actually licenses."*
 
 ---
 
