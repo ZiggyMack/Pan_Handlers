@@ -1589,7 +1589,863 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+## 1. Confirmed Informative Omissions (A3/A2)
+
+### Omission 1 — Ziggy did not reverse the evidential burden onto his own favored possibilities
+
+**Actor:** Ziggy
+
+**Relevant point:**
+During the discussion of spiritual or unusual personal experience, Ziggy argued that experience could prevent him from confidently ruling something out. He did not then apply his demonstrated reciprocal-testing practice to ask what evidence would lower his own confidence, when non-observation would become relevant, or what would distinguish an informative experience from misinterpretation.
+
+**Source Anchor:**
+Ziggy, “My experience prevents me from confidently ruling certain things out...” — “Pivot point distinction,” approximately 2026-06-20, later portion.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability evidence:**
+Ziggy explicitly reversed offense and defense in worldview evaluation and demanded that methodological naturalism bear a positive burden: “They’re never having a chance to be pro-methodological naturalism...” — approximately 2026-06-30.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The experience claim acquired protection against exclusion without receiving an equivalent prospective test for revision. The result was a defensible limit on dismissal but no clear calibration rule.
+
+**Stable or situational:**
+Possibly stable in personally or spiritually congenial domains; insufficient evidence to establish a general habit.
+
+---
+
+### Omission 2 — Ziggy did not test the religion-as-technology comparison under reversed functional scrutiny
+
+**Actor:** Ziggy
+
+**Relevant point:**
+Ziggy argued that secular meaning systems reproduce functions historically performed by religion. He did not apply the same functional comparison in reverse by asking which religious functions secular systems replace more successfully, which religious functions are harmful or unnecessary, or which purported overlaps disappear under closer comparison.
+
+**Source Anchor:**
+Ziggy, “If the seculars are even saying... we do know we need this type of framework... that’s what the framework of religion was always there to do.” — “Secular wellness and meaning,” approximately 2026-06-20.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability evidence:**
+Ziggy elsewhere explicitly reverses evaluative direction and treats offense/defense reversal as a method for uncovering asymmetrical scoring.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Functional continuity was established in one direction, but the comparison did not determine whether religion remains uniquely effective, merely historically prior, partly replaceable, or inferior in some functions.
+
+**Stable or situational:**
+Situationally connected to defending religion against dismissive secular framing; broader stability is UNKNOWN.
+
+---
+
+### Omission 3 — Ziggy did not apply his distinction-sensitive method to provenance itself
+
+**Actor:** Ziggy
+
+**Relevant point:**
+In objecting to “How do you know that?”, Ziggy largely contrasted provenance gatekeeping with testing whether a claim works. He did not clearly separate illegitimate pedigree-policing from legitimate source reliability questions involving testimony, empirical data, quotation accuracy, or inaccessible evidence.
+
+**Source Anchor:**
+Ziggy, “‘How do you know that’ is an annoying question to me... I personally don’t care where it came from...” — “Debate and Information Sources,” approximately 2026-06-28.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability evidence:**
+Across the corpus, Ziggy repeatedly separates concepts that others collapse: possibility from probability, private evidence from public proof, meaning systems from physical-description systems, and experience from nonexperience.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Provenance was treated primarily as conversational gatekeeping, leaving underdeveloped the cases in which source quality materially affects whether the claim can be trusted or tested.
+
+**Stable or situational:**
+Likely situational. Ziggy appears especially resistant when provenance questions function as debate interruption rather than substantive investigation.
+
+---
+
+### Omission 4 — Ziggy did not return from the jurisdiction dispute to a shared adjudication procedure
+
+**Actor:** Ziggy
+
+**Relevant point:**
+After reframing justification as a question of jurisdiction, Ziggy did not specify how conflicting jurisdictions should be compared, how cross-framework disagreement could be resolved, or whether any standards possess authority across frameworks.
+
+**Source Anchor:**
+Ziggy, “Where—what’s the jurisdiction of justification?” and “If I’m coming from the Christian county, he’s rejecting my jurisdiction.” — “Key distinctions comparison,” approximately 2026-06-20.
+
+**Availability tier:** A3 — Demonstrated Available
+
+**Availability evidence:**
+Ziggy elsewhere develops reciprocal comparisons and scoring structures intended to adjudicate competing worldviews rather than merely note their difference.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The reframing successfully exposed contested authority but left the conversation vulnerable to regress: each framework could recognize only its own standards.
+
+**Stable or situational:**
+The omission appears structurally connected to the jurisdiction framing rather than necessarily being a stable personal tendency.
+
+---
+
+## 2. Possible Informative Omissions (A1)
+
+### Omission 5 — Grant may not have reconstructed the lossy-compression thesis before testing it
+
+**Actor:** Grant — G-REPORTED
+
+**Relevant point:**
+Grant reportedly predicted that, if stories function as cultural compression, recipients should recover substantially the same message. Ziggy’s position allowed plural, lossy, and context-sensitive decoding.
+
+**Source Anchor:**
+Ziggy reporting Grant, “We would all reliably get the same message and concept when we communicate—and we don’t...” — “Compression vs Transmission in Myths,” approximately 2026-06-15.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Possibly. Testing a stronger, more lossless version of the hypothesis may have produced an apparent failure that did not directly address Ziggy’s intended claim.
+
+**Stable or situational:**
+UNKNOWN. Only one recoverable case is available.
+
+**Qualification:**
+Grant may have intended to predict relative convergence rather than identical decoding. Direct wording and reply context are absent.
+
+---
+
+### Omission 6 — Grant may not have distinguished low plausibility from evidential zero
+
+**Actor:** Grant — G-REPORTED
+
+**Relevant point:**
+Grant reportedly redirected the discussion from possibility to likelihood. The available report does not show him explicitly acknowledging that a low-probability proposition could remain admissible.
+
+**Source Anchor:**
+Ziggy quoting Grant, “I noticed you keep inserting what’s possible... when I am trying to get to the bottom of what’s likely...” — “Pivot point distinction,” approximately 2026-06-20.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Possibly. Ziggy interpreted the narrowing as pressure toward exclusion, causing the discussion to move from comparative probability into defense of possibility itself.
+
+**Stable or situational:**
+UNKNOWN.
+
+**Qualification:**
+Nothing in the reported wording proves that Grant equated low probability with impossibility.
+
+---
+
+### Omission 7 — Grant may not have temporarily granted Ziggy’s weaker experiential claim
+
+**Actor:** Grant — G-REPORTED / response absent
+
+**Relevant point:**
+Ziggy adopted the modest formulation that personal experience prevents him from confidently ruling something out rather than proving the proposition publicly.
+
+**Source Anchor:**
+Ziggy, “My experience prevents me from confidently ruling certain things out...” — approximately 2026-06-20.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+UNKNOWN. Grant’s reply to the formulation is not preserved. A limited concession might have separated disagreement over Ziggy’s personal confidence from disagreement over public evidence.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+### Omission 8 — Ziggy did not specify a stopping rule for preserving possibilities
+
+**Actor:** Ziggy
+
+**Relevant point:**
+Ziggy carefully separated possibility from probability and exclusion but did not state when a low-probability possibility should cease occupying meaningful conversational attention.
+
+**Source Anchor:**
+Ziggy’s response to “I noticed you keep inserting what’s possible...” — “Pivot point distinction,” approximately 2026-06-20.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. Grant’s reported concern about reaching what is likely remained unanswered at the level of inquiry management, even if Ziggy successfully blocked premature exclusion.
+
+**Stable or situational:**
+Possibly recurring; counterevidence showing Ziggy strongly pruning a favored possibility was not found.
+
+---
+
+### Omission 9 — Ziggy did not distinguish practical reliance from epistemic trust
+
+**Actor:** Ziggy
+
+**Relevant point:**
+In challenging prediction, Ziggy suggested that trust in guidelines or frameworks comes first. He did not clarify whether “trust” meant tentative methodological adoption, operational reliance, confidence from prior success, or non-evidential commitment.
+
+**Source Anchor:**
+Ziggy, “Doesn’t trust technically come first? Trusting a particular set of guidelines that leads and/or provides predictions?” — approximately 2026-06-30.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The reversal gained rhetorical force but remained vulnerable to the reply that prediction can be tested through provisional use without antecedent trust in any strong sense.
+
+**Stable or situational:**
+Likely situational and exploratory.
+
+---
+
+### Omission 10 — Both sides did not establish a shared standard for standards
+
+**Actor:** Grant–Ziggy relationship
+
+**Relevant point:**
+The dispute moved from evidence and justification to the authority of the standards themselves. No shared higher-order procedure appears for comparing those standards.
+
+**Source Anchor:**
+Ziggy, “What’s the jurisdiction of justification?” — approximately 2026-06-20.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The conversation generated a powerful diagnosis of the disagreement but no resolution mechanism.
+
+**Stable or situational:**
+Potentially stable across their recurring worldview disputes, but Grant’s direct participation is insufficiently preserved.
+
+---
+
+### Omission 11 — Ziggy did not model conditions under which nonexperience becomes evidence
+
+**Actor:** Ziggy
+
+**Relevant point:**
+Ziggy correctly distinguished simple lack of an experience from an equal-and-opposite negative experience. He did not address cases in which repeated non-observation becomes evidential because the event should have been encountered under specified conditions.
+
+**Source Anchor:**
+Ziggy, “There’s not really a counter reverse experience that instantiates negative territories?” — approximately 2026-06-20.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Yes. The asymmetry remained valid for unstructured nonexperience but was not calibrated for repeated expected non-observation.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+### Omission 12 — The discussion did not clearly return from procedural symmetry to substantive comparison
+
+**Actor:** Ziggy / CFA role structure
+
+**Relevant point:**
+Ziggy identified that offense and defense positions alter scoring. The corpus does not show a subsequent procedure for determining which remaining differences reflect genuine explanatory superiority rather than role assignment.
+
+**Source Anchor:**
+Ziggy, “They’re never having a chance to be pro-methodological naturalism...” — approximately 2026-06-30.
+
+**Availability tier:** A1 — Contextually Available
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Did the absence change the outcome?**
+Potentially. Procedural asymmetry was exposed, but substantive worldview adjudication remained incomplete.
+
+**Stable or situational:**
+Protocol-specific.
+
+## 3. Non-Informative Omissions (A0)
+
+### Omission 13 — Grant did not defend prediction against the trust-precondition challenge
+
+**Actor:** Grant
+
+**Relevant point:**
+Ziggy asked whether trust in standards precedes prediction.
+
+**Source Anchor:**
+Ziggy, “Doesn’t trust technically come first?” — approximately 2026-06-30.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why no conclusion follows:**
+Grant’s response is absent from the accessible corpus. Silence in the record cannot be treated as refusal or inability to answer.
+
+---
+
+### Omission 14 — Grant did not apply his standards to methodological naturalism
+
+**Actor:** Grant
+
+**Relevant point:**
+Ziggy argued that methodological naturalism was not being required to offer a positive account.
+
+**Source Anchor:**
+Ziggy, “They’re never having a chance to be pro-methodological naturalism...” — approximately 2026-06-30.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why no conclusion follows:**
+The corpus does not preserve Grant’s response or establish that he controlled the CFA scoring procedure.
+
+---
+
+### Omission 15 — Grant did not concede the private/public evidence distinction
+
+**Actor:** Grant
+
+**Relevant point:**
+Ziggy adopted a weaker, localized claim concerning personal experience.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why no conclusion follows:**
+No direct Grant reply is present.
+
+---
+
+### Omission 16 — Grant did not ask what function religion serves
+
+**Actor:** Grant
+
+**Relevant point:**
+Ziggy framed religion as a technology of meaning.
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why no conclusion follows:**
+Grant’s involvement in that particular exchange is not established.
+
+---
+
+### Omission 17 — Grant did not charitably reconstruct Ziggy’s entire worldview
+
+**Actor:** Grant
+
+**Availability tier:** A0 — Unknown
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why no conclusion follows:**
+The corpus contains selected reported disputes rather than a full Grant-authored exchange. No stable claim about his reconstruction practices is supportable.
+
+## 4. Counterevidence Findings
+
+### Characterization A — Grant prioritizes prediction
+
+**Counterevidence searched for:**
+Cases where Grant values explanation, coherence, understanding, function, or possibility independently of prediction.
+
+**Finding:**
+Searched; none clearly found.
+
+**Partial complication:**
+Grant’s reported engagement with the cultural-compression thesis shows interest in explanation, but he immediately subjects it to comparative and predictive testing. This does not establish that explanation has independent standing for him.
+
+**Result:**
+Characterization survives provisionally but remains G-REPORTED and potentially context-specific.
+
+---
+
+### Characterization B — Grant narrows inquiry toward plausibility
+
+**Counterevidence searched for:**
+A low-probability possibility preserved by Grant; explicit distinction between unlikely and excluded; temporary granting of Ziggy’s possibility.
+
+**Finding:**
+Searched; none found.
+
+**Qualification:**
+Absence may reflect missing Grant replies rather than genuine absence in his reasoning.
+
+**Result:**
+Characterization survives as a reported interaction tendency, not as proof that Grant rejects possibility.
+
+---
+
+### Characterization C — Grant demands rival comparisons
+
+**Counterevidence searched for:**
+A favored explanation accepted without comparison or a case in which Grant declines to consider alternatives.
+
+**Finding:**
+Searched; none found.
+
+**Complicating evidence:**
+Only one clear case supports the characterization.
+
+**Result:**
+The move remains plausible but weak as a stable profile claim.
+
+---
+
+### Characterization D — Grant derives overly strong consequences from Ziggy’s hypotheses
+
+**Counterevidence searched for:**
+Evidence that Grant intended only relative convergence rather than identical recovery.
+
+**Finding:**
+No direct clarification found.
+
+**Result:**
+The claim that Grant tested a stronger thesis than Ziggy intended remains possible, not established.
+
+---
+
+### Characterization E — Ziggy preserves low-probability possibilities
+
+**Counterevidence searched for:**
+An attractive possibility rejected by Ziggy; an explicit stopping rule; strong evidential pruning of his own favored hypothesis.
+
+**Finding:**
+Searched; none found.
+
+**Partial counterevidence:**
+Ziggy does not claim that possibility establishes truth and accepts the need to distinguish possibility from plausibility. This demonstrates restraint, but not active pruning.
+
+**Result:**
+Characterization survives strongly, while the domain-generality of the move remains uncertain.
+
+---
+
+### Characterization F — Ziggy distinguishes private rational effect from public proof
+
+**Counterevidence searched for:**
+A point where Ziggy treats personal experience as automatically compelling to outsiders.
+
+**Finding:**
+Searched; none found.
+
+**Result:**
+Characterization survives strongly.
+
+---
+
+### Characterization G — Ziggy treats experience and nonexperience asymmetrically
+
+**Counterevidence searched for:**
+Acknowledgment that repeated expected non-observation can become evidence.
+
+**Finding:**
+Searched; none found.
+
+**Result:**
+The basic asymmetry survives, but its calibration is incomplete.
+
+---
+
+### Characterization H — Ziggy exposes the preconditions of evaluative standards
+
+**Counterevidence searched for:**
+Cases where Ziggy accepts a favored criterion as self-validating or fails to examine its assumptions.
+
+**Finding:**
+The religion-as-technology comparison and personal-experience defense do not receive the same level of precondition analysis that Ziggy applies to prediction.
+
+**Result:**
+The move is demonstrated but not consistently reciprocal.
+
+---
+
+### Characterization I — Ziggy applies symmetrical burdens
+
+**Counterevidence searched for:**
+Cases where he tests his own framework under the same reversed burden.
+
+**Finding:**
+Counterevidence found. He demands positive evaluation of methodological naturalism but does not comparably specify what would count against his favored experiential, religious, or possibility-preserving positions.
+
+**Result:**
+The characterization weakens from “consistently applies symmetry” to “frequently detects and demands symmetry when his side is disadvantaged.”
+
+---
+
+### Characterization J — Ziggy evaluates performance over provenance
+
+**Counterevidence searched for:**
+Cases where he treats source reliability, testimony quality, or evidential chain as important.
+
+**Finding:**
+Searched; none found in this corpus.
+
+**Result:**
+The stated preference survives, but it may be limited to conversational debate rather than general epistemology.
+
+---
+
+### Characterization K — Ziggy compares frameworks by function
+
+**Counterevidence searched for:**
+Explicit acknowledgment that functional overlap does not erase doctrinal, causal, metaphysical, or institutional differences.
+
+**Finding:**
+No explicit limiting statement found.
+
+**Result:**
+The functional comparison survives, but the degree of equivalence remains underdetermined.
+
+---
+
+### Characterization L — Ziggy selects domain-appropriate standards
+
+**Counterevidence searched for:**
+Cases where he applies physical-scientific standards directly to meaning claims or treats domains as completely sealed.
+
+**Finding:**
+Searched; none clearly found.
+
+**Complication:**
+The corpus does not establish how Ziggy handles religious claims that simultaneously concern meaning and physical history.
+
+**Result:**
+Characterization survives as a methodological warning, not as a complete theory of domain separation.
+
+---
+
+### Characterization M — The Grant–Ziggy dyad follows a narrowing/reopening loop
+
+**Counterevidence searched for:**
+A case where Grant expands possibilities or Ziggy strongly narrows them.
+
+**Finding:**
+Searched; none found.
+
+**Qualification:**
+The corpus is selected and narrated primarily by Ziggy, making confirmation bias in the recovered pattern likely.
+
+**Result:**
+The loop survives only as a provisional interaction model.
+
+## 5. Alternative Readings
+
+### Grant: Predictive-performance prioritization
+
+**Primary reading:**
+A recurring evaluative method.
+
+**Strongest alternative:**
+A substantive philosophical commitment that prediction is central to knowledge, or a debate tactic used to force vague claims into testable form.
+
+**Discriminating evidence:**
+Repeated use across unrelated domains would support an operator-level reading. Only limited G-REPORTED evidence is present.
+
+**Status:** UNKNOWN between stable method, substantive belief, and role behavior.
+
+---
+
+### Grant: Rival-account comparison
+
+**Primary reading:**
+A recurring comparative reasoning move.
+
+**Strongest alternative:**
+An ordinary one-time objection to the cultural-compression hypothesis.
+
+**Discriminating evidence:**
+A second independent case would be required.
+
+**Status:** Weakened as a profile-level operator; retained as a consequential one-time move.
+
+---
+
+### Grant: Likelihood-centered narrowing
+
+**Primary reading:**
+A regulatory method for constraining possibility space.
+
+**Strongest alternative:**
+Conversational relevance management: Grant may simply have been trying to keep one discussion focused on likelihood.
+
+**Discriminating evidence:**
+Evidence that Grant systematically rejects low-probability possibilities outside this exchange is absent.
+
+**Status:** Survives as a local interaction behavior; generality UNKNOWN.
+
+---
+
+### Grant: Function-to-consequence derivation
+
+**Primary reading:**
+A move from broad functional claim to expected observation.
+
+**Strongest alternative:**
+A rhetorical stress test based on a simplified version of Ziggy’s claim.
+
+**Discriminating evidence:**
+Grant’s exact formulation and response to the lossy-compression clarification are absent.
+
+**Status:** UNKNOWN.
+
+---
+
+### Ziggy: Non-exclusion under uncertainty
+
+**Primary reading:**
+A regulatory reasoning method.
+
+**Strongest alternative:**
+A defensive substantive commitment to keeping spiritual possibilities available.
+
+**Discriminating evidence:**
+Use of the same method for unattractive or opposing possibilities would support domain-generality.
+
+**Status:** Strongly supported locally; domain-general status UNKNOWN.
+
+---
+
+### Ziggy: First-person evidence localization
+
+**Primary reading:**
+A distinction between personal rational permission and public proof.
+
+**Strongest alternative:**
+A rhetorically modest reformulation designed to protect experience from external criticism.
+
+**Discriminating evidence:**
+Ziggy explicitly adopted the formulation, but it originated through Nova’s scaffolding. Independent later use would strengthen the operator interpretation.
+
+**Status:** Survives as an adopted cognitive distinction; independent origin not supported.
+
+---
+
+### Ziggy: Positive-negative experiential asymmetry
+
+**Primary reading:**
+An evaluative distinction between experience and absence of experience.
+
+**Strongest alternative:**
+A substantive belief about spiritual testimony rather than a general reasoning operation.
+
+**Discriminating evidence:**
+Application to non-spiritual perception or testimony is not present.
+
+**Status:** Survives locally; generality UNKNOWN.
+
+---
+
+### Ziggy: Criterion-precondition exposure
+
+**Primary reading:**
+A method of uncovering assumptions behind an allegedly ultimate standard.
+
+**Strongest alternative:**
+A cheeky semantic reversal using “trust” ambiguously.
+
+**Discriminating evidence:**
+The conversation contains the initiating question but no developed account of what kind of trust is meant.
+
+**Status:** Weakened from established method to promising exploratory move.
+
+---
+
+### Ziggy: Evaluative-jurisdiction relocation
+
+**Primary reading:**
+A meta-level transformation of a justification dispute.
+
+**Strongest alternative:**
+A rhetorical shield that relocates criticism into framework relativity whenever external standards become unfavorable.
+
+**Discriminating evidence:**
+A procedure for comparing jurisdictions would support the stronger epistemic reading. None appears.
+
+**Status:** Survives as a powerful diagnostic reframing; incomplete as an adjudicative method.
+
+---
+
+### Ziggy: Reciprocal burden reversal
+
+**Primary reading:**
+A symmetry-testing method.
+
+**Strongest alternative:**
+A role-induced strategy developed specifically for CFA scoring or for defending a disadvantaged worldview.
+
+**Discriminating evidence:**
+The corpus shows clear protocol involvement and lacks equivalent reversal against Ziggy’s own preferred claims.
+
+**Status:** Survives as a demonstrated method; weakens as a consistently self-applied norm.
+
+---
+
+### Ziggy: Performance-over-provenance assessment
+
+**Primary reading:**
+A claim-level evaluative method.
+
+**Strongest alternative:**
+A conversational preference against credential gatekeeping.
+
+**Discriminating evidence:**
+No cases involving contested empirical data, fabricated sources, or historical testimony are present.
+
+**Status:** Survives as a debate norm; broader epistemic scope UNKNOWN.
+
+---
+
+### Ziggy: Cross-framework functional comparison
+
+**Primary reading:**
+A transformation that reveals shared functions across religious and secular systems.
+
+**Strongest alternative:**
+A substantive apologetic analogy intended to reduce the force of secular dismissal.
+
+**Discriminating evidence:**
+Application to frameworks Ziggy does not favor, or explicit analysis of disanalogies, would support the general method reading.
+
+**Status:** Survives as a consequential reasoning move; generality UNKNOWN.
+
+---
+
+### Ziggy: Domain-sensitive standard selection
+
+**Primary reading:**
+A regulatory method preventing mismatched standards.
+
+**Strongest alternative:**
+A substantive claim that meaning systems possess partial immunity from scientific evaluation.
+
+**Discriminating evidence:**
+A developed account distinguishing empirical claims within religion from meaning-oriented functions is absent.
+
+**Status:** Survives as a warning against category confusion; stronger domain-separation thesis remains unearned.
+
+---
+
+### Relationship loop: Narrowing and reopening
+
+**Primary reading:**
+A recurring dyadic architecture.
+
+**Strongest alternative:**
+An artifact of Ziggy’s retrospective selection of disputes and Nova’s later conceptual organization.
+
+**Discriminating evidence:**
+Direct Grant transcripts and role-reversed conversations are absent.
+
+**Status:** Provisional.
+
+---
+
+### Relationship loop: Concrete dispute to meta-architecture
+
+**Primary reading:**
+Grant’s pressure prompts Ziggy and Nova to generate reusable higher-level concepts.
+
+**Strongest alternative:**
+Nova’s conversational style encourages abstraction regardless of Grant’s actual reasoning.
+
+**Discriminating evidence:**
+The pattern appears repeatedly in the accessible conversation, but causal attribution between Grant friction and Nova scaffolding remains mixed.
+
+**Status:** Survives as a Ziggy–Nova co-construction pattern.
+
+## 6. Characterizations That Survived
+
+1. **Ziggy repeatedly distinguishes possibility, probability, proof, and exclusion.**
+   No contrary case was found.
+
+2. **Ziggy treats personal experience as capable of constraining his own rational confidence without automatically proving the same conclusion to others.**
+   This formulation was explicitly adopted.
+
+3. **Ziggy distinguishes positive experience from mere absence of equivalent experience.**
+   The distinction is clearly present, although its limits remain underdeveloped.
+
+4. **Ziggy repeatedly moves disputes from object-level conclusions to the standards governing those conclusions.**
+   This appears in prediction, justification, source provenance, domain selection, and worldview scoring.
+
+5. **Ziggy actively detects burden and role asymmetries.**
+   This is strongly supported, especially in the CFA/worldview context.
+
+6. **Ziggy uses functional comparison to uncover overlap between systems with different vocabularies.**
+   The religion–secular comparison clearly demonstrates this move.
+
+7. **Grant is reported as emphasizing prediction, plausibility, and comparative discrimination.**
+   This survives as the strongest available Grant-side characterization, subject to the G-REPORTED limitation.
+
+8. **The recovered Grant–Ziggy interaction tends to move from Grant-associated narrowing to Ziggy-associated reopening and meta-level standard analysis.**
+   This survives as a provisional relationship pattern.
+
+9. **Nova materially shapes the language and altitude of Ziggy’s later formulations.**
+   The map, jurisdiction, and localized-experience language are not purely independent Ziggy productions.
+
+10. **Role assignment affects observed reasoning.**
+    Grant’s skeptical role, Ziggy’s defense of spiritual possibility, and Ziggy’s CFA-designer role all plausibly induce behavior that should not automatically be treated as stable personality architecture.
+
+## 7. Characterizations That Weakened
+
+1. **“Grant rejects possibility.”**
+   Weakened. The evidence supports prioritizing plausibility, not denying that low-probability possibilities exist.
+
+2. **“Grant treats prediction as the sole epistemic criterion.”**
+   Weakened. Ziggy reports prediction as “ultimate,” but Grant’s intended scope and qualifications are absent.
+
+3. **“Grant applies universal justification standards.”**
+   Weakened. Ziggy experiences the standard as universalized, but no direct Grant statement establishes universality.
+
+4. **“Grant is straightforwardly a methodological naturalist who denies spirituality.”**
+   Substantially weakened. The corpus does not distinguish personal worldview, debate role, or hypothetical position.
+
+5. **“Grant generally fails to reconstruct opponents charitably.”**
+   Unsupported. The compression dispute raises the possibility, but the direct evidence is insufficient.
+
+6. **“Ziggy applies symmetry consistently to all sides.”**
+   Weakened. He strongly detects asymmetry against his side but does not visibly apply equivalent revision tests to several favored claims.
+
+7. **“Ziggy’s preservation of possibility is a domain-general reasoning method.”**
+   Weakened. The behavior is clear in spiritual and metaphysical contexts, but no disliked possibility is shown receiving the same protection.
+
+8. **“Trust is prior to prediction.”**
+   Weakened from a substantive conclusion to an exploratory challenge because “trust” remains undefined.
+
+9. **“Justificatory jurisdiction resolves framework conflict.”**
+   Weakened. It diagnoses the conflict but does not yet provide a method for adjudicating between jurisdictions.
+
+10. **“Performance should replace provenance.”**
+    Weakened to a narrower debate norm. The legitimate evidential functions of provenance remain unaddressed.
+
+11. **“Religious and secular systems are functionally equivalent.”**
+    Weakened. The corpus supports functional overlap, not full equivalence.
+
+12. **“Meaning systems and physical-description systems are fully separate domains.”**
+    Weakened. The supported claim is that standards should fit their target; strict separation is not established.
+
+13. **The individual Grant operator profile.**
+    Weakened globally because every Grant attribution remains mediated through Ziggy.
+
+14. **The stability of the Grant–Ziggy relationship loops.**
+    Weakened from stable dyadic laws to provisional models requiring direct Grant transcripts and role-reversal evidence.
+
 
 ---
 
