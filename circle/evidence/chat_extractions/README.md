@@ -68,7 +68,7 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_AUX_01_repo_nova_institutional_identity_2026-07.md` | Repo Nova's institutional evolution; Repo Claude complementarity; extraction-design history | STAGE 1 COMPLETE — REPURPOSED (Ziggy/shared-history evidence; Stages 2–4 postponed) |
 | `DIG_AUX_02_invariance_and_stable_structure_2026-07.md` | Invariance as transformation-relative stability (Ziggy–Nova conceptual exchange) | ✅ **FILED** — first dig through all 4 stages; seeded IT-014, CO-009, CO-010, Z-001; synthesis: `ziggy_nova_invariance_2026-07.md` |
 | `DIG_AUX_03_prediction_ontology_and_effective_theories_2026-07.md` | Prediction vs truth: does predictive success settle ontology? (real clash; Ziggy/Nova; NO Grant evidence) | ✅ **FILED** — 2nd full-pipeline dig; crosswalk executed; yielded CO-011, Z-002, IT-015 close-out, synthesis packet |
-| `DIG_AUX_04_bell_theorem_modal_openings_2026-07.md` | Bell's theorem as modal opening (conjunction logic; exhaustiveness challenge; proof/admissibility) — strongest Ziggy site yet; technical-risk HIGH | STAGE 1 COMPLETE (output paste pending) — Stage 2 authorized |
+| `DIG_AUX_04_bell_theorem_modal_openings_2026-07.md` | Bell's theorem as modal opening (conjunction logic; exhaustiveness challenge; proof/admissibility) — strongest Ziggy site yet; technical-risk HIGH | STAGE 2 COMPLETE — Stage 3 authorized; two-sided architecture candidate (Boundary Discipline / Residual-Space Exploration) |
 | `DIG_AUX_05.md` | | EMPTY (staged for the mining walk) |
 | `DIG_00.md` | *(reserved: CFA-zero — preflight required)* | EMPTY |
 | `DIG_01.md` | | EMPTY |
