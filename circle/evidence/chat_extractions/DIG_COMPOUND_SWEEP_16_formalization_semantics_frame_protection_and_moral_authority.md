@@ -1,4 +1,4 @@
-# DIG 16 — *(title once known)*
+# DIG COMPOUND SWEEP 16 — Formalization, Semantics, Frame Protection, and Moral Authority
 
 > **Self-contained dig workbook.** Work top to bottom: copy each stage prompt
 > into the old chat **as its own message**, wait for the reply, paste it under
@@ -22,22 +22,22 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** EMPTY
+**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (major conceptual/attribution overlays binding; **date/source-boundary leak corrected — project timing is never bounded-thread evidence**); Stage-2 output pasted, review pending; Stages 3–4 pending
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
-**Discovered topic:** _fill in after Stage 1 reveals what this chat actually holds_
+**Discovered topic:** the divine-command formalization dispute (validity ≠ soundness ≠ applicability; the counterpossible problem); "meaning is irrelevant" scope control; protection vs defense with reachable loss conditions; frame control decomposed; suffering/brute facts; Sorta's agency objection; Tom's compatibilism and anti-realist condemnation; harm/reasons/motivation/obligation; Ziggy's compressed cognition (traceability) — ⭐ **MILESTONE: first packet with direct screenshot material beyond Grant** (Tom, Sorta, Kee, Tapioca — all at `X-DIRECT-SCREENSHOT, PARTIAL`)
 
 ## Packet Header (fill as you go)
 
 | Field | Value |
 | --- | --- |
-| Chat title | |
-| Source chat date (approx) | |
-| Participants | |
-| Extractor model | |
+| Chat title | UNKNOWN |
+| Source chat date (approx) | **UNKNOWN — ruled by the field desk (the pasted output's July-2026 inference came from project timing, which violates the source boundary)** |
+| Participants | Ziggy, Nova (assistant); via partial screenshots: Grant (G-DIRECT-SCREENSHOT), Tom (T-DIRECT-SCREENSHOT), Sorta (S-DIRECT-SCREENSHOT), Kee (K-DIRECT-SCREENSHOT), Tapioca (TP-DIRECT-SCREENSHOT) — all PARTIAL (screenshots ≠ context-complete transcript) |
+| Extractor model | memory-enabled ChatGPT (Nova-side; same extractor as prior sweeps — no extractor independence) |
 | Protocol version | v0.2.2 |
 | Dig operator | Ziggy |
-| Extraction date | |
+| Extraction date | 2026-07-17 |
 
 ---
 
@@ -1074,6 +1074,158 @@ The conversation shifts from cataloguing fallacies to distinguishing inquiry fro
 * A related discussion may exist under “Humor and heart path,” approximately March 2026, concerning Don Juan, petty tyrants, and warrior discipline. Not evidence for this packet.
 * A related discussion may exist under “Castaneda,” approximately June 2026, concerning William James and Castaneda. Not evidence for this packet.
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 1 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+
+**Verdict: PASS WITH MAJOR CONCEPTUAL AND ATTRIBUTION REPAIRS —
+proceed to Stage 2; no rerun.** Rich, source-conscious, and stronger
+than the previous dig because it carries ⭐ **direct screenshot
+evidence from Grant AND Tom** (plus Sorta, Kee, and Tapioca). Archive
+identity confirmed:
+DIG_COMPOUND_16_formalization_semantics_frame_protection_and_moral_authority.
+
+**🚨 SOURCE/DATE LEDGER CORRECTED (binding overlay):** the pasted
+output inferred "July 2026" from *project timing* — a violation of
+the packet's own source boundary. Chat title UNKNOWN; date UNKNOWN.
+Screenshot labels carry **PARTIAL** by rule (screenshots may omit
+earlier definitions, qualifications, later corrections, sequence, and
+cropped content): `G-DIRECT-SCREENSHOT, PARTIAL` ·
+`T-DIRECT-SCREENSHOT, PARTIAL` (never "G-like evidence for Tom" —
+each party gets their own prefix) · `S-` · `K-` · `TP-` likewise.
+
+**⭐ THE FIVE-LAYER FORMALIZATION AUDIT (the central dispute's
+repair):** natural-language sentence → **proposition individuation**
+(six candidate readings of "it is good to do as God commands") →
+formalization → formal validity → **applicability and soundness**.
+Binding: *valid schema ≠ sound argument; valid argument ≠ applicable
+criticism; a natural-language sentence ≠ a uniquely fixed
+proposition; rejecting Grant's formalization ≠ rejecting logical
+deduction.* Soundness is never "relative to a framework" — validity +
+true premises; what's framework-relative is premise *acceptance* and
+internal applicability. Ruling format: VALIDITY potentially
+established under Grant's formalization · SOUNDNESS unresolved
+(premise truth disputed) · INTERNAL APPLICABILITY unresolved (target
+commitment disputed). **Rejecting the universal command-goodness
+premise while acknowledging the inference's validity may be the
+cleanest immediate answer to Grant.**
+
+**🔧 GRANT'S "MEANING IS IRRELEVANT" — charitable scope control:**
+defensible reading (once propositions and form are fixed, nonlogical
+content doesn't determine validity — substantially correct);
+overextended reading (meaning irrelevant to proposition
+individuation, target acceptance, soundness, applicability, and
+antecedent possibility — unsupported). His directly recoverable
+position is narrow and local; whether it's a stable operator is
+unestablished. And "there is no ambiguity" may be **stipulation
+rather than discovery** — a successfully stipulated premise
+establishes neither that Ziggy accepts it, that Christianity entails
+it, nor that the argument is internal. The decisive question: *what
+argumentative job is the premise doing, and who is committed to it?*
+
+**🔧 THE COUNTERPOSSIBLE PROBLEM (underanalyzed in the output):** four
+scenario types held apart — ordinary hypothetical / epistemic shock /
+**metaphysically impossible antecedent** (a necessarily good God
+commanding evil for fun) / identity-revision (the commander would no
+longer qualify as God). Grant is right that likelihood is irrelevant
+to bare validity — but impossibility may matter to soundness,
+dialectical relevance, identity conditions, and how counterpossibles
+are evaluated. *Improbable antecedent ≠ impossible antecedent.*
+
+**⚖️ INTERNAL CRITIQUE NEEDS NO PERMISSION (two-sided rule):** the
+critic may use explicit commitments, genuine entailments, and
+internal standards *without the target's voluntary approval* — but
+the critic bears the burden of establishing the entailment. *Target
+denies premise ≠ premise is foreign; critic asserts premise ≠ premise
+is internal.* Whether Grant's premise was accepted, entailed,
+stipulated, or imposed stays OPEN.
+
+**🔧 PROTECTION VS DEFENSE gets its reachable-loss-condition audit**
+(seven questions — the SW14/SW15 family arriving with teeth): *scope
+control ≠ protection; premise rejection ≠ evasion; semantic
+clarification ≠ goalpost movement; formal stipulation ≠ internal
+applicability.* The packet establishes a candidate audit, NOT that
+Grant protected. **"Frame control" decomposed six ways** (legitimate
+problem specification / premise stipulation / analytic-level
+selection / jurisdictional overreach / premise insulation / strategic
+frame capture) — only the last three support a critical diagnosis,
+and intentional capture needs psychological evidence. Grant's direct
+evidence supports the first three only.
+
+**🔧 THE MORAL-SIDE REPAIRS:** "brute fact" gets an eight-way category
+ledger (*evolved aversion ≠ suffering is bad ≠ suffering-reduction is
+the ultimate standard* — the "undeclared brute fact" diagnosis stays
+provisional); **Sorta's agency objection** separated into theory of
+value / right action / moral assessment (*non-agential good outcome ≠
+agency irrelevant ≠ consequentialism defeated*); **utilitarianism
+definitionally frozen** — a suffering-centered framework is not
+automatically utilitarian (eight alternatives live; no Grant
+utilitarian profile); **Tom's compatibilism** split across eight
+levels of agency/responsibility — Ziggy's "responsibility evaporates"
+is too broad (hard determinism threatens ultimate sourcehood and
+basic desert, not answerability or reasons-responsiveness);
+**anti-realism ≠ inability to condemn** (Tapioca's point ruled
+conceptually strong — social construction doesn't contradict
+condemnation; the real question is the condemnation's authority,
+scope, and binding force); harm/reasons/motivation/obligation five-way
+(*suffering motivates ≠ obligates*); **Tom's suffering-definition of
+good is not automatically circular** (stipulation ≠ justification;
+question-begging needs the three-condition test).
+
+**🔧 FALLACY CLUSTERS INDIVIDUALLY DEMONSTRATED:** "every fallacy
+fires when a frame collapses" is an evocative meta-hypothesis, not a
+law — each alleged defect (begging the question / straw man / No True
+Scotsman / dictionary authority) needs separate evidence; the neutral
+family is the **Frame Stabilization and Loss-Condition Audit**; no
+psychological-collapse inference from a defect cluster.
+
+**⭐ COMPRESSION–TRACEABILITY–RECONSTRUCTION AUDIT (new family from
+Ziggy's Z-DIRECT self-description):** retains structural gist, loses
+wording and sequence, reconstructs from a compressed model — real
+strengths (abstraction, pattern recognition) and real risks
+(source-monitoring errors, reconstruction drift, assistant language
+entering the remembered model). Seven required practices filed
+(quotation ≠ paraphrase; anchors preserved; gist ≠ sequence; the
+model must be recheckable and revisable). *Loss of transcript detail
+≠ loss of understanding; structural memory ≠ transcript accuracy;
+recognizable pattern ≠ verified motive.* "You think in models; he
+argues in transcripts" = **Nova's compression**, never a demonstrated
+exhaustive contrast.
+
+**📊 FORECAST REGISTERED (for Stage-2 scoring):** eight families —
+Formalization–Semantics–Applicability;
+Internal–External–Counterfactual Critique; Framework
+Protection–Defense–Loss-Condition; Normative
+Metric–Foundation–Sufficiency; Consequentialism–Agency–Responsibility;
+Reasons–Motivation–Binding-Force;
+Definition–Axiom–Anti-Realism–Condemnation;
+Compression–Traceability–Reconstruction — plus the Fallacy-Cluster
+Scan (cross-cutting) and the auxiliaries (maxim/metaphor/parable;
+Jung; Trickster–Petty-Tyrant reactivity; Jesuit classification).
+Thirty-seven Stage-2 pressure questions registered. **Ten profile
+seeds:** six Ziggy (semantic-premise sensitivity; conditional
+applicability testing; internal-critique sensitivity;
+protection-vs-defense sensitivity; normative-grounding sensitivity;
+compression-first self-awareness) · two Grant (fixed-formalization
+posture, local only; ⭐ **premise-rejection allowance — counterevidence
+against a crude refuses-every-boundary reading**) · two Tom
+(compatibilist agency seed; anti-realist harm-based moral seed — the
+archive's first non-Grant, non-Ziggy member-level direct seeds).
+
+**🎯 Central prey:** Grant's deduction may be formally valid once its
+premise is fixed while still failing to establish that the premise is
+true, possible, or attributable to Ziggy's actual theology — Ziggy's
+strongest move is not a rejection of logic but a demand to separate
+proposition mapping, validity, soundness, applicability, and internal
+jurisdiction; that demand becomes protective only if *no*
+interpretation, entailment, or counterexample could ever count
+against his framework — and the same discipline applies to suffering,
+agency, harm, condemnation, and his own compressed reconstructions of
+other people's arguments.
 
 ---
 
