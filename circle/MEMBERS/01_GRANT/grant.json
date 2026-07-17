@@ -1,0 +1,37 @@
+{
+  "member_id": "grant",
+  "display_name": "Grant",
+  "profile_version": "0.1",
+  "profile_status": "SCAFFOLDED",
+  "last_reviewed": "2026-07-16",
+  "observers": ["ziggy", "ph_claude_fable5"],
+  "claims": [],
+  "operators": [
+    {"id": "CO-001", "name": "Prediction Sovereignty", "confidence": "INFERRED", "sources": []},
+    {"id": "CO-002", "name": "Universalized Evaluative Jurisdiction", "confidence": "INFERRED", "sources": []},
+    {"id": "CO-003", "name": "Generative Admission Restriction", "confidence": "INFERRED", "sources": []},
+    {"id": "CO-004", "name": "Unmeasured-to-Zero Conversion", "confidence": "INFERRED", "sources": []},
+    {"id": "CO-005", "name": "Possibility Compression", "confidence": "INFERRED", "sources": []},
+    {"id": "CO-006", "name": "Reconstruction Bypass", "confidence": "UNKNOWN", "sources": []},
+    {"id": "CO-007", "name": "Baseline Exemption", "confidence": "INFERRED", "sources": []},
+    {"id": "CO-008", "name": "Contest-to-Defeat Compression", "confidence": "INFERRED", "sources": []}
+  ],
+  "operator_sequences": [
+    {
+      "id": "SEQ-1",
+      "name": "The Zero Pipeline",
+      "chain": ["CO-001", "CO-002", "CO-003", "CO-004"],
+      "status": "HYPOTHESIS",
+      "debates_observed": []
+    }
+  ],
+  "positions": [
+    {"id": "POS-1", "name": "Prediction as the strongest epistemic standard", "state": "AMBIGUOUS", "confidence": "INFERRED"},
+    {"id": "POS-2", "name": "The recurring zero", "state": "UNKNOWN", "confidence": "INFERRED"}
+  ],
+  "idea_trails": ["TR_grants_recurring_zero", "TR_prediction_vs_trust", "TR_contested_vs_defeated"],
+  "relationships": [],
+  "open_questions": ["Q1_zero_meaning", "Q2_zero_type", "Q3_symmetric_standard", "Q4_score_raising_evidence", "Q5_nonpredictive_success", "Q6_instrument_mismatch", "Q7_falsify_prediction_sovereignty", "Q8_possibility_granted", "Q9_charitable_reconstruction", "Q10_offense_defense"],
+  "member_responses": [],
+  "sources": []
+}
