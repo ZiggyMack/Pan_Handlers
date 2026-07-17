@@ -573,6 +573,16 @@ transformed the underlying recovery.
     confirming the pattern; blind recovery by multiple extractors carries the
     strongest weight.
 
+    **Witness independence within a source (SWEEP_04, 2026-07-17):** the same
+    caveat applies *inside* a thread. When a synthesis is sent to external
+    models (Grok, Claude, etc.) and their elaborations are adopted back, a
+    formulation echoed across Ziggy, Nova, Grok, and Claude is **one lineage,
+    not four witnesses** — later prompts were built from earlier shared
+    formulations. At filing, classify each external-model appearance as:
+    independent discovery / prompted elaboration / adversarial stress test /
+    stylistic restatement / explicit user adoption. Only prompt-independent
+    appearances count toward recurrence.
+
 ## Version history
 
 | Version | Date | Change | By |

@@ -92,7 +92,8 @@ scope-creep run — orientation only, canonical copy in `../corpus_sweeps/`.
 | `DIG_07.md` | | EMPTY |
 | `DIG_08.md` | | EMPTY |
 | `DIG_09.md` | | EMPTY |
-| `DIG_10.md` | | EMPTY |
+| `DIG_10.md` | *(template consumed into COMPOUND_SWEEP_04)* | — |
+| `DIG_COMPOUND_SWEEP_04_belief_prediction_foundations_and_masters.md` | ⚡ Largest sweep yet — 5 neighborhoods; spine: belief/justification → foundations → **masters** → CFA meta-audit; ⚠️ external-model contamination risk HIGH (Grok/Claude echoes ≠ witnesses); 6 sub-digs queued (E = prediction/truth/masters is the prize) | STAGE 1 COMPLETE — Stage 2 authorized; candidate harvest only |
 | `DIG_11.md` | *(template consumed into DIG_AUX_05)* | — |
 | `DIG_AUX_05_story_genre_wisdom_compression_and_orientation.md` | Story as wisdom compression; genre plurality vs Hero's Journey; Ethos/Pathos/Logos as orientation channels; **first Tale Recursion appearance**; 3 assistant-imported Grant positions caught & ruled UNSUPPORTED | STAGE 3 COMPLETE — Stage 4 authorized; A3 standard sharpened (specific move demonstrated in-thread, not general ability); orientation weakened to organizing hypothesis; clearest rigor failure: asymmetric functional treatment of science |
 

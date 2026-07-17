@@ -2898,7 +2898,1027 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+1. Blind-to-Named Mapping
+
+### Move 1 — Compression-Metaphor Seeding
+
+**Mapping verdict:** EXTENDS Cross-Disciplinary Swooping.
+
+**What matches:** Ziggy imports the structure of digital compression into an inquiry about narrative and wisdom. The borrowed structure generates new distinctions concerning storage, transmission, extraction, density, and format.
+
+**What does not match:** The move does not initially reframe an active dispute or import a developed disciplinary theory. Ziggy offers an approximate metaphor—“almost our 7-zip like tool for wisdom”—rather than a formal information-theoretic model.
+
+**Stage-3 survival:** PARTIAL.
+
+The cross-domain transfer survives. Its classification as a stable cognitive operator weakens because the technical implications were mostly developed by Nova, and Ziggy’s original wording may have been rhetorical shorthand.
+
+**Source anchor:** Ziggy, “story is such a powerful tool for mankind … almost our 7-zip like tool for wisdom,” opening user message.
+
+**Confidence:** Medium-high that cross-disciplinary transfer occurred; medium that it should be treated as an operator rather than an evocative metaphor.
+
+---
+
+### Move 2 — Dominant-Template Destabilization
+
+**Mapping verdict:** EXTENDS Possibility Preservation.
+
+**What matches:** Ziggy keeps alternative narrative structures available rather than allowing the Hero’s Journey to exhaust the possibility space.
+
+**What does not match:** He does not preserve a low-plausibility possibility against active evidential pruning. He tentatively asks about other formats and does not claim that the Hero’s Journey has been defeated or overthrown.
+
+**Stage-3 survival:** YES, in weakened form.
+
+The exploratory opening survives. The stronger interpretation that Ziggy rejects or actively destabilizes the Hero’s Journey does not.
+
+**Source anchor:** Ziggy, “it’s prolly mostly calibrated for the heroes journey — and curious what other formats would look like,” opening user message.
+
+**Confidence:** High for exploratory possibility preservation; low for any stronger adversarial interpretation.
+
+---
+
+### Move 3 — Universal Pattern to Functional Plurality
+
+**Mapping verdict:** NEW — retain provisional neutral name **Functional Pluralization**.
+
+**Why no registry candidate adequately matches:** Nova does not merely preserve preexisting possibilities. He reorganizes a domain by assigning different recurring functions to different genres. This is a transformation from one dominant structural explanation to a differentiated functional taxonomy.
+
+**Closest registry candidates:**
+
+* Possibility Preservation captures the refusal to collapse all genres into one pattern.
+* Cross-Disciplinary Swooping does not fit because the plurality is developed within narrative theory rather than imported from a distant discipline.
+
+**Stage-3 survival:** YES, with qualification.
+
+Nova later restores a higher-order unity through “orientation,” so the move does not permanently replace universality with plurality. It preserves differentiated functions beneath a proposed common function.
+
+**Source anchor:** Nova, “Different genres solve different human problems,” early first assistant response.
+
+**Confidence:** High that the move occurred; medium regarding the accuracy of the specific genre assignments.
+
+---
+
+### Move 4 — Function-First Reframing
+
+**Mapping verdict:** NEW — rename **Functional Reconstruction**.
+
+**Why no registry candidate adequately matches:** The move is closer to the corrective opposite of Reconstruction Bypass. Nova attempts to understand a cultural framework by asking what recurring human problem it addresses before reducing it to isolated truth claims.
+
+**Relation to Reconstruction Bypass:** Functional Reconstruction supplies part of what Reconstruction Bypass omits: the framework’s aims, success conditions, and practical role. It is not a full reconstruction because Nova does not recover the framework’s ontology or strongest self-description.
+
+**Stage-3 survival:** YES.
+
+Function-first reasoning was repeated across genres, religion, and storytelling. Its causal or evolutionary interpretation remains uncertain because recurrence does not prove one designed or adaptive function.
+
+**Source anchors:**
+
+* Nova, “Different genres solve different human problems,” early first assistant response.
+* Nova, “what recurring human problem gave rise to religion?” late first assistant response.
+
+**Confidence:** High as a reasoning move; medium as a substantive account of cultural emergence.
+
+---
+
+### Move 5 — Shared Input / Variable Extraction Distinction
+
+**Mapping verdict:** EXTENDS Contested ≠ Defeated.
+
+**What matches:** Nova refuses to treat divergent interpretations as decisive evidence that story cannot compress wisdom. The apparent objection remains unresolved rather than defeating the model.
+
+**Delta:** The dispute is not merely held open. Nova supplies a mechanism—variable extraction—to explain why common input may yield different outputs.
+
+**Secondary relation:** The move also resists an Unmeasured-to-Zero Conversion. Failure to recover one uniform message is not scored as zero encoded wisdom.
+
+**What does not match:** Nova does not explicitly say the compression thesis is merely possible or unproven. The distinction is used defensively to preserve the thesis and may overcorrect.
+
+**Stage-3 survival:** YES, with unresolved alternative.
+
+The move clearly occurred and survived counterevidence search. It may also be a post hoc defense that places too much explanatory burden on the recipient.
+
+**Source anchor:** Nova, “Everyone receives the same archive. Not everyone extracts the same files,” middle first assistant response.
+
+**Confidence:** High that it performs a Contested ≠ Defeated function; medium that the proposed mechanism is independently justified.
+
+---
+
+### Move 6 — Proxy Objection Construction
+
+**Mapping verdict:** MATCHES Reconstruction Bypass.
+
+**What matches:** Nova evaluates and answers an alleged Grant objection before reconstructing Grant’s position from admissible evidence, identifying its aims, or allowing Grant’s framework to state its own success conditions.
+
+**What does not match:** The bypass may result from imported conversational memory rather than a deliberate refusal to reconstruct. Within the bounded source, however, the effect is the same: evaluation precedes recoverable reconstruction.
+
+**Secondary relation:** The proxy framing creates conditions favorable to Contest-to-Defeat Compression, but Nova does not explicitly claim Grant has been decisively defeated.
+
+**Stage-3 survival:** YES.
+
+No G-DIRECT or G-REPORTED evidence was found. The strongest alternative—that Nova accurately recalls another conversation—cannot rehabilitate the attribution inside this source boundary.
+
+**Source anchor:** Nova, “Remember Grant’s objection: ‘If stories compress wisdom, why don’t we all get the same message?’” middle first assistant response.
+
+**Confidence:** High regarding the local Reconstruction Bypass; UNKNOWN regarding whether Nova accurately remembered Grant elsewhere.
+
+---
+
+### Move 7 — Propositional / Embodied Knowledge Separation
+
+**Mapping verdict:** EXTENDS Generative Admission Restriction.
+
+**What matches:** The move resists restricting serious hypothesis generation and wisdom transmission to explicit propositions. Narrative embodiment, imagery, character, memory, and emotional consequence are admitted as cognitively generative materials.
+
+**Delta:** The named candidate describes exclusion. Nova performs the positive inverse: **Generative Admission Expansion**.
+
+**What does not match:** Nova does not show that an opposing participant explicitly prohibits narrative or tacit material from generating hypotheses. The restriction is inferred from the contrast with “Logos alone.”
+
+**Stage-3 survival:** PARTIAL.
+
+The distinction in transmission survives. The stronger claim that stories carry an irreducible kind of knowledge beyond emotionally intensified propositions remains UNKNOWN.
+
+**Source anchor:** Nova, “The lesson becomes embodied. Not merely stated,” middle first assistant response.
+
+**Confidence:** High for broader generative admission; medium-low for the stronger epistemic interpretation.
+
+---
+
+### Move 8 — Multi-Channel Integration
+
+**Mapping verdict:** MATCHES Cross-Disciplinary Swooping.
+
+**What matches:** Ziggy and Nova import the rhetorical triad of Ethos, Pathos, and Logos into the analysis of narrative transmission and human orientation.
+
+**What does not match:** The move is not an abrupt or opportunistic import into a hostile dispute. Ziggy explicitly notices the overlap, and the rhetorical categories are naturally adjacent to storytelling.
+
+**Stage-3 survival:** YES, under a narrower reading.
+
+The integration survives as a model of persuasive and orientational force. It does not establish that Ethos and Pathos contribute epistemic warrant in the same manner as evidence or valid reasoning.
+
+**Source anchors:**
+
+* Ziggy, “how close we are to the concepts of Ethos, Pathos, and Logos,” opening message.
+* Nova, “stories are usually: Ethos + Pathos + Logos bundled together,” middle first assistant response.
+
+**Confidence:** High.
+
+---
+
+### Move 9 — Concrete Scenario Calibration
+
+**Mapping verdict:** NEW — rename **Channel-Variation Test**.
+
+**Why no registry candidate adequately matches:** Nova informally holds the topic approximately constant while changing its logical, emotional, and credibility conditions. The operation tests how different communicative channels alter force.
+
+**Closest registry candidate:** Symmetry Testing of Standards is only distantly related. Nova is not forcing two frameworks to satisfy the same burden; he varies delivery conditions within one proposition family.
+
+**Stage-3 survival:** PARTIAL.
+
+The comparative operation survives. Its use as evidence for knowledge or justification weakens because the example directly demonstrates motivational and persuasive differences, not differences in truth.
+
+**Source anchor:** Nova, “Smoking increases mortality risk … Now compare that to watching someone die of lung cancer,” later first assistant response.
+
+**Confidence:** Medium-high as an informal comparison; medium as a reusable operator.
+
+---
+
+### Move 10 — Deepest-Function Search
+
+**Mapping verdict:** NEW — retain provisional neutral name **Superordinate Function Search**.
+
+**Why no registry candidate adequately matches:** Ziggy asks for the function beneath several local functions and seeks the highest explanatory level capable of organizing civilizational storytelling.
+
+**Closest registry candidate:** Functional Reconstruction is related, but this move specifically demands a hierarchy among candidate functions rather than reconstructing one framework.
+
+**Stage-3 survival:** YES.
+
+The search itself is explicit. What remains UNKNOWN is whether Ziggy endorses one-function monism or was merely inviting speculation.
+
+**Source anchor:** Ziggy, “What function do you think was important enough that every civilization repeatedly invented stories to carry it?” second user message.
+
+**Confidence:** High as a consequential one-time move; UNKNOWN as a stable cognitive habit.
+
+---
+
+### Move 11 — Candidate Elimination by Subsumption
+
+**Mapping verdict:** NEW — rename **Explanatory Subsumption**.
+
+**Why no registry candidate adequately matches:** Nova does not dismiss morality, cohesion, prediction, and survival because they fall below a plausibility threshold. He places them inside a broader category and declares them downstream.
+
+**Relation to Possibility Compression:** Explanatory Subsumption can produce a similar practical outcome by reducing distinct candidates to subordinate expressions of one master category. However, the mechanism is hierarchical absorption, not plausibility-based deletion.
+
+**Stage-3 survival:** YES as an operation; NO as a demonstrated hierarchy.
+
+Nova clearly performs the subsumption. The claim that orientation is actually causally deeper than survival, cohesion, prediction, and morality was not demonstrated.
+
+**Source anchor:** Nova, “Not morality. Not social cohesion. Not prediction. Not even survival. Those are all downstream. The deeper function is: Orientation,” opening final assistant response.
+
+**Confidence:** High that the move occurred; low-medium that the hierarchy is correct.
+
+---
+
+### Move 12 — Existential Question Decomposition
+
+**Mapping verdict:** NEW — rename **Operational Decomposition**.
+
+**Why no registry candidate adequately matches:** Nova converts an abstract master category into a set of concrete questions that can be used to inspect different story forms.
+
+**Closest registry candidate:** None. The move is analytical decomposition rather than possibility management, jurisdiction enforcement, or adversarial evaluation.
+
+**Stage-3 survival:** YES.
+
+No counterevidence undermines the operation. Whether the selected questions exhaust “orientation” remains UNKNOWN.
+
+**Source anchor:** Nova, “Where am I? What am I? What should I do? What matters? What happens if I fail?” early final assistant response.
+
+**Confidence:** High.
+
+---
+
+### Move 13 — Genre-to-Orientation Mapping
+
+**Mapping verdict:** NEW — rename **Cross-Case Functional Mapping**.
+
+**Why no registry candidate adequately matches:** Nova applies one candidate explanatory category across multiple narrative forms to test whether it can organize them without eliminating their differences.
+
+**Closest registry candidate:** Functional Pluralization supplies the differentiated cases; Superordinate Function Search supplies the common category. This move connects the two.
+
+**Stage-3 survival:** YES, with empirical caution.
+
+The mapping occurred and reconciles plurality with unity. The selected genre functions remain illustrative rather than verified or exhaustive.
+
+**Source anchor:** Nova, “Creation myths answer: ‘Where did we come from?’ Hero myths answer: ‘How should one face difficulty?’” early-middle final assistant response.
+
+**Confidence:** High as an operation; medium-low regarding the taxonomy’s accuracy.
+
+---
+
+### Move 14 — Description / Orientation Jurisdiction Split
+
+**Mapping verdict:** EXTENDS Universalized Evaluative Jurisdiction.
+
+**What matches:** Nova identifies the danger of extending standards optimized for descriptive or predictive inquiry into orientational domains without first establishing their authority there.
+
+**Delta:** The named candidate identifies the overextension. Nova performs a positive corrective: **Evaluative Jurisdiction Limitation**.
+
+**What does not match:** The conversation does not establish that description and orientation are wholly separate domains. Nova’s own language—science and story “excel” in different functions, while religion may attempt both—permits overlap.
+
+**Stage-3 survival:** YES as a distinction of emphasis; NO as a strict jurisdictional partition.
+
+**Source anchor:** Nova, “Human beings don’t merely need descriptions of reality; they need orientation within reality. Science excels at description. Story excels at orientation,” late final assistant response.
+
+**Confidence:** High that Nova invokes jurisdictional limitation; medium regarding the boundary’s legitimacy and location.
+
+---
+
+### Move 15 — Map / Photograph Functional Analogy
+
+**Mapping verdict:** MATCHES Cross-Disciplinary Swooping.
+
+**What matches:** Nova imports the distinction between navigational maps and photographic representations to reframe how stories should be evaluated.
+
+**What does not match:** The move is better classified as a rhetorical analogy than as a stable cognitive operator. It illustrates the jurisdictional distinction but does not independently establish it.
+
+**Stage-3 survival:** PARTIAL.
+
+The analogy survives as a clarification of selective representation. It does not resolve the required correspondence between an orienting map and the terrain.
+
+**Source anchor:** Nova, “A map can fail to be a perfect photograph and still help you navigate,” middle-late final assistant response.
+
+**Confidence:** High as rhetoric; low-medium as a profile-level reasoning operator.
+
+---
+
+### Move 16 — Cross-Framework Convergence
+
+**Mapping verdict:** EXTENDS Possibility Preservation.
+
+**What matches:** Nova deliberately keeps Jungian, Campbellian, and pragmatic explanations available rather than forcing premature selection among them.
+
+**Delta:** The move does more than preserve separate possibilities. It proposes that they may operate at different explanatory layers and therefore be jointly true.
+
+**Secondary relation:** It also resembles Cross-Disciplinary Swooping because several philosophical and psychological frameworks are imported into one synthesis.
+
+**What does not match:** No low-probability framework is protected against pruning, and no primary-text comparison establishes that the accounts are genuinely compatible.
+
+**Stage-3 survival:** YES as a synthesizing operation; UNKNOWN regarding fidelity to the named thinkers.
+
+**Source anchor:** Nova, “those aren’t necessarily competing explanations. They may be describing different layers of the same phenomenon,” later final assistant response.
+
+**Confidence:** High that the move occurred; medium-low regarding the validity of the proposed convergence.
+
+2. New Operator Candidates
+
+### A. Functional Pluralization
+
+**Definition:** Reorganizing a seemingly unitary domain into multiple subtypes according to the different recurring problems or functions each addresses.
+
+**Distinguishing feature:** It does not merely preserve possibilities. It constructs a functional taxonomy.
+
+**Recovered instance:** Nova shifts from the Hero’s Journey as a universal transformational model to genre-specific human problems.
+
+**Source anchor:** Nova, “Different genres solve different human problems,” early first assistant response.
+
+**Status:** Candidate retained.
+
+---
+
+### B. Functional Reconstruction
+
+**Definition:** Reconstructing a framework or cultural practice by asking what human problem it serves, what orientation it supplies, and what success would look like from within its own role.
+
+**Distinguishing feature:** It is a partial corrective to Reconstruction Bypass but does not necessarily reconstruct ontology, truth conditions, or the strongest opposing formulation.
+
+**Recovered instances:**
+
+* genres treated as solutions to recurring human problems;
+* religion approached through the function important enough to generate persistent narrative forms.
+
+**Source anchors:**
+
+* Nova, “Different genres solve different human problems.”
+* Nova, “what recurring human problem gave rise to religion?”
+
+**Status:** Strong candidate.
+
+---
+
+### C. Generative Admission Expansion
+
+**Definition:** Broadening the set of materials permitted to generate serious understanding or candidate hypotheses beyond explicit propositions, including narrative embodiment, tacit knowledge, emotional pattern, symbolic compression, and exemplars.
+
+**Distinguishing feature:** It is the positive inverse of Generative Admission Restriction.
+
+**Recovered instance:** Nova argues that story transmits a lesson through imagery, consequence, identity, emotion, and memory rather than through statement alone.
+
+**Source anchor:** Nova, “The lesson becomes embodied. Not merely stated.”
+
+**Status:** Candidate retained with epistemic caution.
+
+---
+
+### D. Channel-Variation Test
+
+**Definition:** Holding a message or topic approximately stable while varying its logical, emotional, experiential, or credibility channel to observe changes in reception and action.
+
+**Distinguishing feature:** It evaluates communicative force rather than imposing symmetrical standards on rival frameworks.
+
+**Recovered instance:** Mortality statistic versus witnessing death versus hearing the warning from a beloved grandfather.
+
+**Source anchor:** Nova, “Same proposition. Different force,” later first assistant response.
+
+**Status:** Candidate retained at medium confidence.
+
+---
+
+### E. Superordinate Function Search
+
+**Definition:** Searching for the highest-level function capable of organizing several lower-level benefits, mechanisms, or genre-specific purposes.
+
+**Distinguishing feature:** It does not merely ask what a framework does. It asks which function sits beneath or above the others in the explanatory hierarchy.
+
+**Recovered instance:** Ziggy asks what function could explain repeated civilizational reliance on stories.
+
+**Source anchor:** Ziggy, complete second user message.
+
+**Status:** Strong one-time candidate; stability UNKNOWN.
+
+---
+
+### F. Explanatory Subsumption
+
+**Definition:** Reducing several candidate explanations to downstream manifestations of a broader category rather than rejecting them as false.
+
+**Distinguishing feature:** Unlike Possibility Compression, it preserves the subordinate candidates while denying them final explanatory authority.
+
+**Recovered instance:** Nova places morality, cohesion, prediction, and survival beneath orientation.
+
+**Source anchor:** Nova, “Those are all downstream. The deeper function is: Orientation.”
+
+**Status:** Strong operator candidate; substantive hierarchy unverified.
+
+---
+
+### G. Operational Decomposition
+
+**Definition:** Converting a broad abstraction into a finite set of questions, dimensions, or tests that make the concept inspectable across cases.
+
+**Recovered instance:** Nova decomposes orientation into questions about identity, location, action, value, and failure.
+
+**Source anchor:** Nova, “Where am I? What am I? What should I do? What matters? What happens if I fail?”
+
+**Status:** Strong candidate.
+
+---
+
+### H. Cross-Case Functional Mapping
+
+**Definition:** Applying one proposed function across multiple cases to test whether it can unify them while preserving meaningful differences.
+
+**Recovered instance:** Nova maps creation myth, hero myth, religion, tragedy, love, and horror onto distinct orientational questions.
+
+**Source anchor:** Nova, “Creation myths answer…” through “Horror stories answer…”
+
+**Status:** Strong candidate as an exploratory operation; empirical accuracy unverified.
+
+---
+
+### I. Evaluative Jurisdiction Limitation
+
+**Definition:** Restricting an evaluative standard to domains where its authority has been established, rather than allowing it to govern every kind of success.
+
+**Distinguishing feature:** It is the positive corrective corresponding to Universalized Evaluative Jurisdiction.
+
+**Recovered instance:** Nova argues that orientational systems should not be judged exclusively by standards designed for descriptive inquiry.
+
+**Source anchor:** Nova, “orientation should be judged exclusively by the standards we use for description,” closing final assistant response.
+
+**Status:** Strong candidate as a move; the precise jurisdictional boundary remains unresolved.
+
+3. Profile-Ready Claims
+
+### Claim 1 — Tentative Possibility Preservation beyond the dominant narrative template
+
+**Subject:** Ziggy
+
+**Claim:** Ziggy keeps non-Hero’s-Journey narrative forms open for investigation rather than treating the dominant template as exhaustive.
+
+**Evidence classification:** Z-DIRECT; repeated behavior not established, but the one-time move is explicit.
+
+**Candidate mapping:** EXTENDS Possibility Preservation.
+
+**Confidence:** High for the local move; UNKNOWN as a stable profile trait.
+
+**Source anchor:** Ziggy, “it’s prolly mostly calibrated for the heroes journey — and curious what other formats would look like,” opening user message.
+
+**Review condition:** Reassess if later conversations show that Ziggy routinely preserves alternatives only when they favor his preferred framework, or instead applies the same openness symmetrically.
+
+---
+
+### Claim 2 — Function-first reasoning
+
+**Subject:** Nova
+
+**Claim:** Nova repeatedly investigates narrative and religion by asking what recurring human problem or orientational function the form serves.
+
+**Evidence classification:** NOVA-INTERPRETATION expressed directly through repeated reasoning moves.
+
+**Candidate mapping:** NEW — Functional Reconstruction.
+
+**Confidence:** High.
+
+**Source anchors:**
+
+* Nova, “Different genres solve different human problems.”
+* Nova, “what recurring human problem gave rise to religion?”
+* Nova, “The deeper function is: Orientation.”
+
+**Review condition:** Reassess whether Nova applies the same function-first reconstruction to opposing frameworks and descriptive systems rather than only to stories or religions under defense.
+
+---
+
+### Claim 3 — Contested does not equal defeated under interpretive variance
+
+**Subject:** Nova
+
+**Claim:** Nova does not treat divergent interpretations of one story as sufficient to defeat the story-compression hypothesis.
+
+**Evidence classification:** NOVA-INTERPRETATION; explicit defensive reasoning move.
+
+**Candidate mapping:** EXTENDS Contested ≠ Defeated.
+
+**Confidence:** High that the move occurred; medium regarding the adequacy of its mechanism.
+
+**Source anchor:** Nova, “Everyone receives the same archive. Not everyone extracts the same files,” middle first assistant response.
+
+**Review condition:** Promote confidence in the mechanism only if Nova also tests story-side failure conditions such as ambiguity, corruption, manipulative encoding, or absent determinate content.
+
+---
+
+### Claim 4 — Reconstruction Bypass of the absent Grant position
+
+**Subject:** Nova
+
+**Claim:** Nova answers an attributed Grant objection before establishing Grant’s position from evidence admissible within the conversation.
+
+**Evidence classification:** NOVA-INTERPRETATION concerning Grant; direct evidence of Nova’s procedure.
+
+**Candidate mapping:** MATCHES Reconstruction Bypass.
+
+**Confidence:** High within the bounded source.
+
+**Source anchor:** Nova, “Remember Grant’s objection: ‘If stories compress wisdom, why don’t we all get the same message?’”
+
+**Review condition:** Withdraw or modify if a source thread supplies Grant’s actual wording and shows that Nova’s reconstruction was accurate and sufficiently charitable there. Such evidence would not retroactively make the attribution direct in this thread, but it could change the interpretation from construction to imported shorthand.
+
+---
+
+### Claim 5 — Cross-disciplinary integration of rhetorical channels
+
+**Subject:** Ziggy and Nova
+
+**Claim:** Ziggy detects and Nova develops an overlap between narrative transmission and Ethos, Pathos, and Logos.
+
+**Evidence classification:** CO-CONSTRUCTED.
+
+**Candidate mapping:** MATCHES Cross-Disciplinary Swooping.
+
+**Confidence:** High.
+
+**Source anchors:**
+
+* Ziggy, “how close we are to the concepts of Ethos, Pathos, and Logos.”
+* Nova, “stories are usually: Ethos + Pathos + Logos bundled together.”
+
+**Review condition:** Keep the claim restricted to persuasion and orientation unless later evidence clearly separates how each channel contributes to justification, truth, motivation, memory, and credibility.
+
+---
+
+### Claim 6 — Superordinate function search
+
+**Subject:** Ziggy
+
+**Claim:** Ziggy moves beyond local genre functions and asks for the highest-level function capable of explaining civilization-wide narrative recurrence.
+
+**Evidence classification:** Z-DIRECT; consequential one-time move.
+
+**Candidate mapping:** NEW — Superordinate Function Search.
+
+**Confidence:** High for the local operation; UNKNOWN as a stable profile trait.
+
+**Source anchor:** Ziggy, “What function do you think was important enough that every civilization repeatedly invented stories to carry it?”
+
+**Review condition:** Establish stability only if additional threads show Ziggy repeatedly moves from intermediate mechanisms toward a final or superordinate “why.”
+
+---
+
+### Claim 7 — Explanatory subsumption
+
+**Subject:** Nova
+
+**Claim:** Nova organizes several candidate story functions by placing morality, cohesion, prediction, and survival downstream of orientation.
+
+**Evidence classification:** NOVA-INTERPRETATION; direct evidence of the operation, not of the hierarchy’s truth.
+
+**Candidate mapping:** NEW — Explanatory Subsumption.
+
+**Confidence:** High that the operation occurred; low-medium that the hierarchy is substantively correct.
+
+**Source anchor:** Nova, “Those are all downstream. The deeper function is: Orientation.”
+
+**Review condition:** The hierarchy requires promotion evidence showing why orientation explains the rival candidates better than they explain orientation.
+
+---
+
+### Claim 8 — Operational decomposition of orientation
+
+**Subject:** Nova
+
+**Claim:** Nova converts the abstraction “orientation” into a set of first-person questions concerning identity, location, value, action, and failure.
+
+**Evidence classification:** NOVA-INTERPRETATION; direct reasoning move.
+
+**Candidate mapping:** NEW — Operational Decomposition.
+
+**Confidence:** High.
+
+**Source anchor:** Nova, “Where am I? What am I? What should I do? What matters? What happens if I fail?”
+
+**Review condition:** Reassess the proposed dimensions if counterexamples show major narrative functions that cannot plausibly be represented through these questions.
+
+---
+
+### Claim 9 — Cross-case functional mapping
+
+**Subject:** Nova
+
+**Claim:** Nova tests the proposed orientation category by mapping different genres and mythic forms onto different orientational questions.
+
+**Evidence classification:** NOVA-INTERPRETATION.
+
+**Candidate mapping:** NEW — Cross-Case Functional Mapping.
+
+**Confidence:** High as an operation; medium-low regarding the individual mappings.
+
+**Source anchor:** Nova, sequence beginning “Creation myths answer…” in the final assistant response.
+
+**Review condition:** Upgrade substantive confidence only with direct engagement with genre theory, counterexamples, hybrids, and cases in which one genre performs several incompatible functions.
+
+---
+
+### Claim 10 — Evaluative jurisdiction limitation
+
+**Subject:** Nova
+
+**Claim:** Nova resists universalizing descriptive or predictive standards into the whole domain of narrative orientation.
+
+**Evidence classification:** NOVA-INTERPRETATION.
+
+**Candidate mapping:** EXTENDS Universalized Evaluative Jurisdiction through its corrective inverse.
+
+**Confidence:** High that Nova performs jurisdictional limitation; medium regarding the legitimacy of the boundary drawn.
+
+**Source anchor:** Nova, “Science excels at description. Story excels at orientation,” late final assistant response.
+
+**Review condition:** Preserve only the distinction of emphasis unless Nova defines how mixed descriptive-orientational claims are adjudicated and what factual constraints remain binding on orientational systems.
+
+---
+
+### Claim 11 — Layered possibility preservation across explanatory frameworks
+
+**Subject:** Nova
+
+**Claim:** Nova preserves several candidate explanations by proposing that they may describe different levels of the same phenomenon rather than requiring immediate winner-take-all selection.
+
+**Evidence classification:** NOVA-INTERPRETATION.
+
+**Candidate mapping:** EXTENDS Possibility Preservation.
+
+**Confidence:** High as a synthesizing move; medium-low regarding fidelity to the named thinkers.
+
+**Source anchor:** Nova, “those aren’t necessarily competing explanations. They may be describing different layers of the same phenomenon.”
+
+**Review condition:** Upgrade only after primary-text comparison establishes that the frameworks are not merely superficially compatible.
+
+4. Quarantined Claims
+
+### Quarantined Claim 1 — Grant exhibits Prediction Sovereignty
+
+**Interpretation:** Grant treats predictive success as the final epistemic authority.
+
+**Why quarantined:** The bounded thread contains no G-DIRECT or G-REPORTED evidence. The position appears only in Nova’s phrase “Grant tends to emphasize something like: Prediction → Correct Model → Truth.”
+
+**Promotion evidence required:** Grant’s own words, or Ziggy’s explicit and context-rich report, showing that Grant ranks prediction above explanatory, orientational, phenomenological, or other forms of success.
+
+---
+
+### Quarantined Claim 2 — Grant universalizes predictive jurisdiction
+
+**Interpretation:** Grant extends predictive or descriptive standards into domains such as meaning, narrative, religion, or orientation without establishing their authority.
+
+**Why quarantined:** This is Nova’s interpretation of a broader dispute, not a locally evidenced Grant position.
+
+**Promotion evidence required:** A recoverable exchange in which Grant explicitly applies prediction as the governing standard to a non-predictive framework and rejects jurisdictional objections.
+
+---
+
+### Quarantined Claim 3 — Grant performs Generative Admission Restriction
+
+**Interpretation:** Grant refuses to allow narrative coherence, symbolic compression, religious tradition, intuition, or first-person experience to generate serious candidate hypotheses.
+
+**Why quarantined:** No admissible Grant evidence appears.
+
+**Promotion evidence required:** Direct examples showing that Grant excludes these sources before evaluation rather than merely assigning them low evidential weight after consideration.
+
+---
+
+### Quarantined Claim 4 — Grant performs Unmeasured-to-Zero Conversion
+
+**Interpretation:** Grant scores story, religion, or orientation as having zero epistemic value when predictive instruments do not measure their success.
+
+**Why quarantined:** No scoring act or unknown-to-zero conversion occurs in the bounded thread.
+
+**Promotion evidence required:** A direct exchange distinguishing “not demonstrated by this method” from “worth zero,” followed by Grant explicitly choosing the latter.
+
+---
+
+### Quarantined Claim 5 — Grant performs Baseline Exemption
+
+**Interpretation:** Grant treats scientific prediction as neutral rather than framework-dependent.
+
+**Why quarantined:** The assistant describes science and prediction but does not establish Grant’s assumptions, burdens, or self-exemptions.
+
+**Promotion evidence required:** Evidence that Grant demands metaphysical or orientational frameworks disclose assumptions while declining equivalent scrutiny of prediction, induction, naturalism, measurement, or model selection.
+
+---
+
+### Quarantined Claim 6 — Grant performs Possibility Compression
+
+**Interpretation:** Grant discards low-plausibility metaphysical or narrative possibilities as functionally irrelevant.
+
+**Why quarantined:** No low-probability possibility is presented to Grant in the bounded thread.
+
+**Promotion evidence required:** A direct example in which a possibility is acknowledged as nonzero but removed from further exploration solely because it falls below a practical threshold.
+
+---
+
+### Quarantined Claim 7 — Grant performs Contest-to-Defeat Compression
+
+**Interpretation:** Grant treats an unresolved objection as decisive defeat.
+
+**Why quarantined:** No dialectical exchange with Grant occurs.
+
+**Promotion evidence required:** A source in which Grant moves from “this objection remains unanswered” to “the framework is defeated” without the additional evidential bridge.
+
+---
+
+### Quarantined Claim 8 — Ziggy uses a fully technical story-compression operator
+
+**Interpretation:** Ziggy has a developed model in which stories encode determinate wisdom that audiences decompress.
+
+**Why quarantined:** Ziggy offers an approximate “7-zip like” metaphor. Nova supplies most of the archive, file, extraction, and decoding apparatus.
+
+**Promotion evidence required:** Ziggy explicitly adopts those entailments, defines what is encoded, identifies lossy versus lossless transmission, and states what would falsify the model.
+
+---
+
+### Quarantined Claim 9 — Ziggy stably acts as an abstraction escalator
+
+**Interpretation:** Ziggy habitually pushes every intermediate answer toward a final underlying “why.”
+
+**Why quarantined:** Only one clear local instance appears.
+
+**Promotion evidence required:** Multiple bounded threads showing the same progression from local distinction to superordinate function or final explanatory ground.
+
+---
+
+### Quarantined Claim 10 — Orientation is demonstrably the deepest function of story
+
+**Interpretation:** Orientation causally or logically precedes survival, morality, prediction, and social cohesion.
+
+**Why quarantined:** Nova asserts the hierarchy but does not compare rival causal models.
+
+**Promotion evidence required:** Explicit criteria for explanatory depth, counterfactual testing, and comparison with alternatives such as coordination, simulation, memory preservation, entertainment, prediction, ritual integration, or coalition formation.
+
+---
+
+### Quarantined Claim 11 — Description and orientation form separate jurisdictions
+
+**Interpretation:** Scientific description and narrative orientation can be cleanly separated and independently evaluated.
+
+**Why quarantined:** Nova’s own wording permits overlap, and religion is said to attempt both. Stories frequently describe; science frequently orients action.
+
+**Promotion evidence required:** A principled account of mixed claims, jurisdiction boundaries, and conflict resolution when descriptive falsity supports orientational success.
+
+---
+
+### Quarantined Claim 12 — Ethos and Pathos contribute epistemic authority equivalent to Logos
+
+**Interpretation:** Emotional force and speaker character function as independent sources of justification.
+
+**Why quarantined:** The examples show altered persuasive force, memory, trust, and motivation more clearly than altered truth or warrant.
+
+**Promotion evidence required:** A developed distinction among source credibility, emotional salience, evidence, valid inference, and epistemic justification.
+
+---
+
+### Quarantined Claim 13 — The archive/extraction distinction explains interpretive disagreement
+
+**Interpretation:** Different readings primarily result from recipients extracting different layers from a shared encoded wisdom package.
+
+**Why quarantined:** Alternative explanations—ambiguity, transmission drift, strategic interpretation, incompatible encoding, or absence of determinate content—were not tested.
+
+**Promotion evidence required:** Cases distinguishing recipient-side extraction failure from source-side ambiguity or corruption, plus conditions under which the compression model would be rejected.
+
+---
+
+### Quarantined Claim 14 — Cross-framework convergence is substantively valid
+
+**Interpretation:** Jung, Campbell, James, and the other named thinkers describe compatible layers of one narrative phenomenon.
+
+**Why quarantined:** No primary texts, explicit arguments, or theoretical conflicts are examined.
+
+**Promotion evidence required:** Direct comparison of their claims, explanatory targets, ontologies, incompatibilities, and conditions of integration.
+
+---
+
+### Quarantined Claim 15 — Cross-Disciplinary Swooping is a stable Ziggy profile trait
+
+**Interpretation:** Ziggy routinely imports structures from distant fields to reframe philosophical disputes.
+
+**Why quarantined:** The bounded thread contains one approximate technical metaphor and one rhetoric overlap.
+
+**Promotion evidence required:** Multiple independent examples in which Ziggy imports a structure, maps its components, acknowledges disanalogies, and uses it to alter the dispute’s architecture.
+
+---
+
+### Quarantined Claim 16 — Nova performs Symmetry Testing of Standards
+
+**Interpretation:** Nova forces description or prediction to satisfy the same functional scrutiny applied to story and religion.
+
+**Why quarantined:** Stage 3 found the opposite omission. Nova performs function-first analysis on story and religion but does not symmetrically reconstruct science or prediction.
+
+**Promotion evidence required:** A direct comparison in which Nova names assumptions, success conditions, failure modes, and jurisdiction limits for both sides under equivalent burdens.
+
+---
+
+### Quarantined Claim 17 — Nova performs Possibility Compression by selecting orientation
+
+**Interpretation:** Nova improperly deletes morality, cohesion, prediction, and survival from the explanatory field.
+
+**Why quarantined:** Nova does not erase them; he classifies them as downstream. Explanatory Subsumption is the better local description.
+
+**Promotion evidence required:** Evidence that Nova ceases considering the subordinate candidates as independently causal or refuses to revisit them after counterevidence.
+
+---
+
+### Quarantined Claim 18 — Nova’s map analogy constitutes an individual operator
+
+**Interpretation:** Map-versus-photograph reasoning is a stable method Nova deploys across domains.
+
+**Why quarantined:** It is better explained here as a one-time rhetorical analogy supporting Evaluative Jurisdiction Limitation.
+
+**Promotion evidence required:** Repeated use of function-relative representation tests, including explicit analysis of correspondence requirements and analogy failure conditions.
+
+5. Extraction Self-Audit
+
+### A. Candidate-registry priming risk
+
+The registry strongly foregrounded prediction, jurisdiction, asymmetry, and Grant-adjacent patterns. This created pressure to force neutral story-analysis moves into adversarial epistemic categories.
+
+Corrective action taken:
+
+* Several moves were retained as NEW rather than forced into the registry.
+* Positive inverses were distinguished from the named negative candidates:
+
+  * Functional Reconstruction versus Reconstruction Bypass;
+  * Generative Admission Expansion versus Generative Admission Restriction;
+  * Evaluative Jurisdiction Limitation versus Universalized Evaluative Jurisdiction.
+
+Residual risk remains that even these inverse labels were shaped by the registry rather than discovered independently.
+
+---
+
+### B. Over-pattern-matching from a short conversation
+
+The bounded source contains:
+
+* two user messages;
+* two assistant responses;
+* no direct Grant participation;
+* no actual adversarial exchange.
+
+Stage 2 divided Nova’s long explanatory responses into sixteen moves. Some may be components of one continuous answer rather than independently stable operators.
+
+Highest-risk cases:
+
+* Channel-Variation Test;
+* Cross-Case Functional Mapping;
+* Map / Photograph Functional Analogy;
+* Cross-Framework Convergence.
+
+These should not be treated as stable profile traits without repetition across independent conversations.
+
+---
+
+### C. Asymmetric charity
+
+Nova grants layered compatibility to Jung, Campbell, and James but does not reconstruct the absent Grant position with equivalent charity.
+
+The extraction may reproduce a second asymmetry by treating Nova’s Grant-facing move as defective while treating Nova’s preferred narrative synthesis as conceptually rich. To correct for this:
+
+* claims about Grant were quarantined;
+* substantive truth claims about orientation and genre were separated from recoverable reasoning operations;
+* Nova’s own unsupported hierarchies and analogies were also quarantined where necessary.
+
+---
+
+### D. Risk of converting positive exploration into opposition
+
+Ziggy’s Hero’s Journey remark was initially labeled “Dominant-Template Destabilization.” Stage 3 showed that “curious what other formats would look like” supports supplementation more strongly than rejection.
+
+Final correction:
+
+* mapped only to tentative Possibility Preservation;
+* rejected any profile claim that Ziggy opposes the Hero’s Journey.
+
+---
+
+### E. Risk of converting rhetorical metaphor into cognitive machinery
+
+The compression analysis may over-credit Ziggy with a technical model. The original phrase is approximate. Nova performs most of the detailed mapping.
+
+Final correction:
+
+* Cross-Disciplinary Swooping retained at medium confidence;
+* the fully technical compression model quarantined;
+* the developed archive/extraction framework attributed to Nova or to co-construction rather than silently to Ziggy.
+
+---
+
+### F. Risk of treating Nova’s polished synthesis as evidence
+
+Nova states:
+
+* genres solve different human problems;
+* orientation is deepest;
+* morality, cohesion, prediction, and survival are downstream;
+* several thinkers describe compatible layers.
+
+These are recoverable claims but not established conclusions.
+
+Final correction:
+
+* the operations—Functional Pluralization, Explanatory Subsumption, and Cross-Framework Convergence—may be profile-ready;
+* the truth of the resulting hierarchy or intellectual synthesis remains quarantined.
+
+---
+
+### G. UNCLEAR converted into definite labels
+
+Potential problem areas:
+
+1. **Proxy Objection Construction:**
+   Nova may have accurately remembered another thread. Within this bounded source, however, only the unsupported local attribution is definite. The historical accuracy of the memory remains UNKNOWN.
+
+2. **Role-induced continuity behavior:**
+   Stage 2 interpreted Nova’s Grant references as continuity-bearing role behavior. The motive is not directly evidenced. Only the imported attribution is profile-ready.
+
+3. **Ziggy as abstraction escalator:**
+   One consequential move is definite; a stable role is not.
+
+4. **Story compression as CO-CONSTRUCTED:**
+   Ziggy supplies the metaphor, while Nova develops most entailments. Exact ownership of the complete model remains mixed.
+
+---
+
+### H. Positive-inverse inflation
+
+Several NEW operators may merely be ordinary good reasoning described with specialized names:
+
+* Functional Reconstruction;
+* Operational Decomposition;
+* Cross-Case Functional Mapping;
+* Channel-Variation Test.
+
+The extraction risks multiplying operator vocabulary without demonstrating that the moves are distinctive, recurrent, or mechanistically independent.
+
+Review rule:
+
+Do not promote these into a permanent operator registry solely from this thread. Require recurrence, stable triggers, characteristic outputs, and identifiable failure modes across multiple bounded samples.
+
+---
+
+### I. Failure to map every move to exactly one candidate
+
+Some moves plausibly relate to multiple registry entries:
+
+* Shared Input / Variable Extraction relates to both Contested ≠ Defeated and resistance to Unmeasured-to-Zero Conversion.
+* Cross-Framework Convergence relates to both Possibility Preservation and Cross-Disciplinary Swooping.
+* Description / Orientation Jurisdiction Split is the corrective inverse of Universalized Evaluative Jurisdiction.
+
+A single primary verdict was selected for readability, with secondary relations noted. This simplification may obscure multi-operator sequences.
+
+---
+
+### J. Stable-profile threshold risk
+
+“Profile-ready” here means the claim about the observed move meets the evidentiary threshold, not that the move is proven to be a persistent personality trait.
+
+Claims with clear local anchors but insufficient recurrence were explicitly limited to:
+
+* a local move;
+* a consequential one-time move;
+* or an operation performed in this thread.
+
+No stable Grant profile is supported.
+
+---
+
+### K. Missing primary-source verification
+
+The thread discusses Truby, Campbell, Jung, James, Polanyi, and Eliade without examining their texts. The extraction correctly analyzes how their names and supposed ideas function inside the conversation, but it cannot certify intellectual fidelity.
+
+Any claim that the conversation accurately represents those thinkers remains UNKNOWN.
+
+---
+
+### L. Source-boundary contamination risk
+
+Stage 1 included X-CONTEXT notices identifying related threads. Stage 4 did not use those threads as evidence.
+
+The main contamination already present inside the bounded original conversation is Nova’s own reference to Grant and prior discussions. The extraction analyzed that import as a conversational act but did not treat its contents as evidence about Grant.
+
+---
+
+### M. Overall confidence
+
+**High confidence:**
+
+* Function-first reasoning occurred.
+* Ziggy opened alternative genre possibilities.
+* Ziggy asked for a superordinate function.
+* Nova used explanatory subsumption.
+* Nova performed operational decomposition.
+* Nova imported an unsupported Grant objection.
+* Ziggy and Nova connected narrative to Ethos, Pathos, and Logos.
+* Nova invoked a description/orientation jurisdiction distinction.
+
+**Medium confidence:**
+
+* Compression-Metaphor Seeding is an individual cognitive operator.
+* Channel-Variation Test is independently stable.
+* Variable extraction is a justified mechanism rather than a defensive patch.
+* Cross-framework convergence reflects genuine layered compatibility.
+
+**Low or UNKNOWN confidence:**
+
+* Any named Grant operator.
+* Orientation’s actual causal priority.
+* A strict science/story jurisdiction boundary.
+* Stable relationship-level profiles.
+* Fidelity to Truby or the other named thinkers.
+
 
 ---
 
