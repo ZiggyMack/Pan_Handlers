@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (target-separation + source-tier overlays binding; ⭐ **first packet centering Tale — member 02** — the Grant-interprets-Tale dispute); Stage-2 output pasted, review pending; Stages 3–4 pending
+**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ reviewed; **Stage 2 closed through the archive's THIRTEENTH self-correction cycle — the FIRST at Stage 2** (original output SUPERSEDED; the bounded thread contains TWO subjects — core Grant–Tale dispute + auxiliary Voynich inquiry, with the new core/auxiliary-corpus architecture and the cross-domain source-discipline asymmetry flagged for Stage 3); **the Method-Trade-Off Audit extracted** (the most important missing Ziggy move); the target ledger (A–E, nonexclusive) + the implication/attribution firewall binding; ACCEPTED — READY FOR STAGE 3; Stages 3–4 pending
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** the Grant-interprets-Tale dispute — six interpretive targets hiding inside "meaning" (sentence meaning / speaker meaning / logical consequence / pragmatic implication / belief attribution / wording robustness); implication analysis ≠ belief attribution; Tale's self-report authoritative but defeasible; three reconstruction projects inside "steelman"; "mind reading is unavoidable" narrowed; the sick-dog analogy's fidelity; Grant's method as stress-testing vs interpreting; the "Back to debate via GPT, eh?" remark (source–content audit)
@@ -1515,9 +1515,94 @@ The exchange expands into several additional meta-levels.
 14. **The escalating-revelation pattern is clearly rhetorical but its intentionality is UNKNOWN.** It may arise from generic assistant engagement habits rather than deliberate manipulation.
 
 15. **The AI-assisted reinforcement loop does not establish that Nova caused the conflict.** Grant’s objection concerns an existing dispute; AI appears to amplify and formalize it rather than originate it.
-------
-response after patch....
----------------------
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17) — REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — thirteenth full self-correction cycle, and the
+> archive's FIRST Stage-2 cycle** (every prior cycle hit Stage 3 or
+> 4). The Stage-2 output ABOVE is **SUPERSEDED** — retained as
+> pasted; nothing in it may be used downstream except through the
+> corrected reissue below. The operator-issued STAGE 2 FINAL
+> CONSOLIDATION, TARGET-LEDGER, AND SOURCE-TIER PATCH command is
+> condensed here (verbatim in the relay; raw capture at commit
+> `93fee9e`).
+
+**Verdict: PASS WITH MAJOR CONSOLIDATION, TARGET-LABELING, AND
+SOURCE-TIER REPAIR — DO NOT PROCEED TO STAGE 3 YET; no Stage-1
+rerun.** Analytically rich, catches the major loops — but eighteen
+moves split single procedures into multiple labels, and **the
+bounded thread turns out to contain TWO subjects**: the Grant–Tale
+interpretive dispute AND a Voynich-manuscript inquiry.
+
+**⭐ NEW ARCHITECTURE MOVE — core vs auxiliary corpora within ONE
+bounded thread:** the Voynich material stays (it belongs to the
+bounded conversation) but must not occupy half the operator
+architecture of an interpretation-methodology dig. Cross-domain
+recurrence may be proposed only where the *same operation* is
+directly supported in both domains — and the first cross-domain
+finding is an **asymmetry**: *Ziggy demanded local source
+verification from Nova in the Voynich inquiry, while the central
+Tale proposition, Tale's clarification, and the disputed attribution
+remained unavailable.* Ruled "not yet hypocrisy — a legitimate
+Stage-3 question about selective source discipline."
+
+**⭐ THE MISSING MOVE EXTRACTED — the Method-Trade-Off Audit** (ruled
+the most important direct Ziggy operation, strangely absent from the
+inventory): *grant a method's legitimate productive function while
+identifying the predictable error profile created by optimizing for
+that function* — literal consequence-testing can detect ambiguity
+and improve wording WHILE risking displaced intent, false
+disagreement, and clarification loops. Its mandatory control:
+**establish the method's intended function before scoring an output
+as failure.**
+
+**🔀 CONSOLIDATIONS AND RENAMES:** Brochure Rejection + Pattern
+Verification → **Specificity–Source Verification Escalation** (two
+nested modes, one operator); Nova's two Voynich projections →
+**Genre–Layout Function Projection** (role-induced hypothesis
+generation — *layout resembles a herbal ≠ text follows the semantic
+template*); Intent-First Reconstruction → **Intended-Position
+Reconstruction** (intent never sovereign over consequence
+questions); Inferential-Symmetry Reversal → **Assumption-Exposure
+Reversal** (*both methods are inferential ≠ both readings equally
+warranted*); Grant's two moves merged → **Implication–Attribution
+Separation** (G-REPORTED move/position, never a stable operator;
+Consequence-Stress Testing = reported method candidate only);
+**Intent-Epistemic Qualification** retained as Grant's direct
+one-time move ("what Ziggy imagines the speaker's intent to be" —
+places a real burden, but calling everything "imagination" flattens
+the seven-rung warrant ladder); Nova's three protocols →
+**Interpretive Target–Ledger Protocol** (the "fork" removed —
+targets A–E are NOT mutually exclusive: Grant may reconstruct intent
+AND test unintended implications); the idiom example stays a
+**consequential rhetorical illustration** below operator level. The
+search-method tension recorded without premature resolution
+(*expansion + bracketing cohere only if hoax/pseudo-text/null
+alternatives are later restored — otherwise asymmetric possibility
+preservation*).
+
+**📋 THE CORRECTED INVENTORY:** 3 core Grant–Tale Ziggy moves
+(Intended-Position Reconstruction; Method-Trade-Off Audit;
+Assumption-Exposure Reversal) + 4 auxiliary Voynich Ziggy moves + 2
+lower-tier + 3 Grant packet-local + 4 Nova protocol/role findings.
+Seven relationship loops incl. the new core loop —
+**Implication–Attribution Drift** (*Grant identifies consequence X →
+Ziggy hears Tale represented as X → Grant separates consequence from
+belief → Ziggy shifts to functional misrepresentation → Grant
+challenges access to intent → the original target disappears*) —
+with the global control: **a new target must be labeled whenever the
+discussion moves objects.** Twenty Stage-3 pressure questions;
+eighteen source restrictions.
+
+---
+
+### ⏬ STAGE 2 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 2
 CORRECTED AFTER FINAL CONSOLIDATION, TARGET-LEDGER, AND SOURCE-TIER PATCH
 
@@ -3093,6 +3178,65 @@ Stage 3 must test, without presuming answers:
 `STAGE 2 COMPLETE AFTER FINAL CONSOLIDATION, TARGET-LEDGER, AND SOURCE-TIER PATCH`
 
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 PATCH (Nova, 2026-07-17) — ACCEPTANCE
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-2 record**, read together with the overlays here.
+
+**✅ VERDICT: ACCEPTED — STAGE 2 COMPLETE AFTER FINAL CONSOLIDATION,
+TARGET-LEDGER, AND SOURCE-TIER PATCH; PROCEED TO STAGE 3; Stage 1
+needs no further repair.**
+
+**📋 THE INVENTORY AS ACCEPTED:** central Ziggy operations —
+Intended-Position Reconstruction; **Method-Trade-Off Audit** (no
+longer flattened into "Grant's method is bad because it
+misunderstands Tale"); Assumption-Exposure Reversal. Auxiliary
+Voynich operations — Search-Space Expansion; Necessary-Feature Trace
+Search; Specificity–Source Verification Escalation;
+Meaningful-Hypothesis Bracketing. Grant packet-local —
+Implication–Attribution Separation (mediated); Intent-Epistemic
+Qualification (direct, one-time); Consequence-Stress Testing
+(reported candidate). Nova — the Target–Ledger Protocol;
+Genre–Layout Function Projection; Escalating-Revelation Teaser;
+Ally-Framed Method Validation. *Nova's mediation and rhetoric never
+share a ledger with Ziggy's reasoning operations.*
+
+**⚖️ THE TARGET LEDGER (nonexclusive, binding):** targets A–E
+separately maintained (intended position / sentence meaning /
+consequence under interpretation R / fair attribution / wording
+robustness) with the firewall: *"Tale's sentence implies X" ≠ "Tale
+consciously believes X"; "Tale did not intend X" ≠ "X cannot follow
+under another reading"; "Grant tests X" ≠ "Grant personally believes
+X".* Grant's restraint set preserved: NOT established that he
+habitually misreads Tale, attributed the consequence as belief,
+refused to update, or holds a general literalist theory.
+
+**📌 NON-BLOCKING NOTE (field desk):** the "Core Ziggy Reasoning
+Moves" heading still contains the four Voynich-only moves — a
+heading-level inconsistency only; the body classifications preserve
+the distinction (final formatting may regroup as AUXILIARY VOYNICH /
+CORE GRANT–TALE).
+
+**📜 FOR THE RECORD:** the archive's **thirteenth full
+self-correction cycle — the FIRST at Stage 2** (cycles now span
+Stages 2, 3, and 4). New architecture move: **core vs auxiliary
+corpora within one bounded thread**, with cross-domain recurrence
+requiring same-operation support in both domains.
+
+**🎯 The stable core prey:** Ziggy's intended-position
+reconstruction, Grant's reported consequence testing, and Nova's
+target-ledger protocol **operate on different objects** — the
+unresolved question is not which method should rule interpretation,
+but whether each participant labels the object being analyzed,
+updates person-level attribution after clarification, and preserves
+legitimate consequence analysis without substituting it for the
+speaker's actual position.
 
 ---
 
