@@ -310,6 +310,30 @@ diagnosis is quarantined with its self-sealing guard; and the
 reciprocity debt extends to a **fifth consecutive dig** — Symmetry
 Testing stays a precursor.
 
+**The interpretation layer (SWEEP_18 — the architecture reaches
+meaning itself, and the first triple-cycle dig):** the first
+Tale-centered packet splits one bounded thread into core and
+auxiliary corpora (the Grant–Tale dispute; the Voynich inquiry).
+Three cautious profile candidates — **Intended-Position
+Reconstruction** (corrective relation to Reconstruction Bypass; one
+dispute, correctness unestablished), **Method-Trade-Off Audit**
+(grant the function, name the cost — the Grant diagnosis itself
+unverified), and **Specificity–Source Verification Escalation**
+(recurring within the Voynich domain, with the layer's sharpest
+mirror finding attached: *exact local verification was demanded of
+Nova while the Tale dispute's primary-source package went
+unrecovered* — the confirmed A3 and the selective-deployment
+qualifier). The milestone: ⭐ **Assumption-Exposure Reversal = the
+archive's first partial Symmetry Testing implementation** — six digs
+after the reciprocity debt was first posted, the "mind reading"
+charge finally came back symmetrically (*both interpretations infer*
+established; *equal warrant* still not). Search-Space Expansion gave
+Possibility Preservation its first EXTENDS in three packets. The
+finished prey binds the layer: *speaker intention, sentence meaning,
+consequence, attribution, and wording robustness are separate
+targets — the dispute fails when either side changes targets without
+relabeling.*
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
@@ -360,10 +384,17 @@ very word Grant disputed, stayed in every reformulation; the genuine
 semantic isolation test asks the underlying operations separately
 without it — a recurring pattern worth watching wherever a
 load-bearing word is itself the dispute); **the reciprocity debt at
-five digs** (SW13–SW17 — outward burdens sharp and recurring, the
-same burden on his own metrics, mappings, and frameworks still
-undemonstrated; Symmetry Testing remains a precursor). Candidate
-charter theme "over-generation / insufficient pruning" has not yet
-been directly tested — the opening research question stands.
+five digs — first partial payment at the sixth** (SW13–SW17: outward
+burdens sharp and recurring, the same burden on his own metrics and
+frameworks undemonstrated; SW18's Assumption-Exposure Reversal =
+the first partial Symmetry Testing implementation — *both
+interpretations infer* finally established reciprocally, *equal
+warrant* still open); **selective source discipline** (SW18,
+confirmed A3 — Voynich-level local verification demanded of Nova
+while the Tale dispute's primary sources went unrecovered; the
+selective-deployment qualifier now travels with the
+source-verification candidate). Candidate charter theme
+"over-generation / insufficient pruning" has not yet been directly
+tested — the opening research question stands.
 
 *(Formal sections B–L still await Phase 2; this ledger feeds them.)*

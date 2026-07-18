@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ reviewed; **Stage 3 closed through the archive's FOURTEENTH self-correction cycle** (original output SUPERSEDED; the mergers — five missing documents = ONE source package; two GPT-response findings = ONE reconstruction failure; the downgrades — *both interpretations infer ≠ equally warranted*, the dog idiom not case-dispositive); final ledger **4 A3 · 0 A2 · 8 A1 · 5 A0 evidence packages**; **the six-object separation** (incl. whether Ziggy represented Grant as testing vs endorsing); the selective-deployment qualifier binding on Specificity–Source Verification Escalation; ACCEPTED — READY FOR STAGE 4; Stage 4 pending
+**Status:** ✅ CLOSED (COMPLETE) — Stages 1–4 reviewed; **the archive's first TRIPLE-CYCLE dig** (cycles 13/14/15 at Stages 2/3/4 respectively); the registry-direction error at Stage 4 for the SIXTH consecutive dig + the unauthorized-promotion repair (**no packet-local move promoted beyond its Stage-3 tier** — now explicit); final ledger **4 A3 · 0 A2 · 8 A1 · 5 A0 · 0 Grant anything**; ⭐ **Assumption-Exposure Reversal = the archive's first partial Symmetry Testing implementation**; Search-Space Expansion EXTENDS Possibility Preservation; the six-object separation + the target-relabeling rule = the finished prey; one archival edit binding (the not-demonstrated count 9→7); raw captures at `e473b08`/`93fee9e`/`2ba1774`/`96d32fd`
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** the Grant-interprets-Tale dispute — six interpretive targets hiding inside "meaning" (sentence meaning / speaker meaning / logical consequence / pragmatic implication / belief attribution / wording robustness); implication analysis ≠ belief attribution; Tale's self-report authoritative but defeasible; three reconstruction projects inside "steelman"; "mind reading is unavoidable" narrowed; the sick-dog analogy's fidelity; Grant's method as stress-testing vs interpreting; the "Back to debate via GPT, eh?" remark (source–content audit)
@@ -7451,9 +7451,61 @@ No conclusion dependent on those materials is promoted.
 
 **X-CONTEXT Notices:** None.
 
-----------
-After patch
------------
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 (Nova, 2026-07-18) — REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — fifteenth full self-correction cycle**, the third
+> inside this dig — **SWEEP_18 is the archive's first TRIPLE-CYCLE
+> dig** (Stage 2 = cycle 13; Stage 3 = cycle 14; Stage 4 = cycle 15).
+> The Stage-4 output ABOVE is **SUPERSEDED** — retained as pasted;
+> nothing in it may be used downstream except through the corrected
+> reissue below. The operator-issued STAGE 4 FINAL
+> REGISTRY-DIRECTION, PROFILE-TIER, AND ARCHITECTURE PATCH command is
+> condensed here (verbatim in the relay; raw capture at commit
+> `96d32fd`).
+
+**Verdict: PASS WITH MATERIAL REGISTRY-DIRECTION, PROFILE-TIER, AND
+ARCHITECTURE REPAIR — DO NOT RERUN STAGES 1–3; DO NOT ARCHIVE THIS
+VERSION.** The registry-direction error at Stage 4 for the **SIXTH
+consecutive dig** — plus two inflation types: partial overlaps
+upgraded to full matches, and Stage-3 *cautious candidates* renamed
+"Profile-Ready Claims" (**an unauthorized promotion — new explicit
+restriction: no packet-local move is promoted beyond its Stage-3
+tier**). The load-bearing formulation: *exposing assumptions is not
+yet complete symmetry; protecting one hypothesis is not broad
+possibility preservation; and evaluating a method's trade-offs is
+not applying identical standards to both sides.*
+
+**⚠️ THE REGISTRY CORRECTIONS:** Search-Space Expansion → **EXTENDS
+Possibility Preservation** (a genuine EXTENDS — matching component:
+low-probability avenues stay investigable; delta: active generation
+and pursuit; restriction: skeptical alternatives were NOT preserved
+symmetrically); Meaningful-Hypothesis Bracketing → NEW selective
+exploratory bracketing (partial/conditional PP overlap; **Possibility
+Compression as failure-mode risk only** — disciplined only if
+excluded alternatives are later restored); Method-Trade-Off Audit →
+precursor only to Symmetry Testing; **Assumption-Exposure Reversal →
+PARTIAL MATCH / packet-local implementation of Symmetry Testing** —
+the closest the archive has come in six digs (established: both
+interpretations contain assumptions; NOT established: equal warrant,
+fixed variables, identical burdens, acceptance of unfavorable
+comparison); Intended-Position Reconstruction and the Target–Ledger
+Protocol → **COUNTER-OPERATIONS / CORRECTIVE RELATIONS to
+Reconstruction Bypass** (procedures that prevent the failure, never
+evidence it occurred); Genre–Layout Function Projection →
+below-threshold Swooping overlap. Ledger separation enforced (Ziggy
+operations / Grant positions / Nova protocol-role — never one
+registry); the eight families, the availability ledger (4 A3 · 0 A2 ·
+8 A1 · 5 A0), and all seven loops ordered restored.
+
+---
+
+### ⏬ STAGE 4 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 4
 CORRECTED AFTER FINAL REGISTRY-DIRECTION, PROFILE-TIER, AND ARCHITECTURE PATCH
 
@@ -9143,6 +9195,68 @@ It does not support forced extraction of the remaining named pathologies.
 `DIG_COMPOUND_18_sentence_intent_entailment_attribution_and_interpretive_authority`
 
 `STAGE 4 COMPLETE AFTER FINAL REGISTRY-DIRECTION, PROFILE-TIER, AND ARCHITECTURE PATCH`
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 CORRECTED OUTPUT + FINAL CLOSURE (Nova, 2026-07-18)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-4 record**, with one archival edit binding: the final
+> "not demonstrated" registry count reads 9 and should read **7**
+> (Reconstruction Bypass files under corrective relations,
+> Possibility Compression under diagnostic risk, Cross-Disciplinary
+> Swooping as below-threshold instance — a bookkeeping inconsistency
+> only; no mapping, promotion, restriction, or conclusion affected).
+
+**✅ FINAL VERDICT: ACCEPTED WITH ONE MINOR COUNT CORRECTION — STAGE
+4 COMPLETE AFTER FINAL REGISTRY-DIRECTION, PROFILE-TIER, AND
+ARCHITECTURE PATCH; DIG COMPLETE — CLOSED.** "No detector is confused
+with the pathology it guards against, and no partial overlap is
+inflated into a full match."
+
+**📋 FINAL LEDGER:** **4 A3 · 0 A2 · 8 A1 · 5 A0 evidence packages ·
+0 stable Grant operators · 0 stable Grant profile claims · 7
+relationship loops.**
+
+**⭐ PROMOTION TIERS (as accepted):** cautious Ziggy profile
+candidates — **Specificity–Source Verification Escalation**
+(selective-deployment qualifier binding); **Intended-Position
+Reconstruction** (one demonstrated dispute; recurrence and
+correctness unestablished); **Method-Trade-Off Audit** (the Grant
+diagnosis unverified). Strong packet-local — Search-Space Expansion
+(EXTENDS Possibility Preservation); Necessary-Feature Trace Search;
+Meaningful-Hypothesis Bracketing; **Assumption-Exposure Reversal
+(partial Symmetry Testing implementation — the archive's first)**.
+Grant — three packet-local items only (Implication–Attribution
+Separation G-REPORTED; Intent-Epistemic Qualification direct
+one-time; Consequence-Stress Testing reported candidate). Nova — four
+protocol/role findings.
+
+**🛑 PLOW-THROUGH NOTE (archive steward):** all candidates queue-file
+— no lexicon promotion without bounded confirmation. This close is
+the **17th consecutive zero-promotion sweep**.
+
+**📜 FOR THE RECORD:** SWEEP_18 closed through the archive's
+**thirteenth, fourteenth, and fifteenth self-correction cycles — the
+first TRIPLE-CYCLE dig** (Stage 2, Stage 3, and Stage 4 each
+corrected); the registry-direction error recurred at Stage 4 for the
+sixth straight dig; the new explicit restriction: *no packet-local
+move is promoted beyond its Stage-3 tier*; and the closing
+formulation joins the case law: *exposing assumptions ≠ complete
+symmetry; protecting one hypothesis ≠ broad possibility preservation;
+evaluating a method's trade-offs ≠ applying identical standards to
+both sides.*
+
+**🎯 The finished prey:** speaker intention, sentence meaning,
+interpretation-relative consequence, belief attribution, and wording
+robustness are separate targets — Grant may test an unintended
+consequence without attributing it as Tale's belief; Ziggy may
+reconstruct Tale's actual position without erasing the consequence;
+**the dispute fails when either side changes targets without
+relabeling the object under examination.**
 
 ---
 
