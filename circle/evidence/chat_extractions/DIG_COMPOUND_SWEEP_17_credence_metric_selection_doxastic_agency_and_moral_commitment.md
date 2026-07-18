@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ reviewed (conceptual-differentiation + commitment-ladder overlays binding; ⚠️ **G-REPORTED-only Grant material — no profile, no operators, no motive**); Stage-3 output pasted, review pending; Stage 4 pending
+**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ reviewed; **Stage 3 closed through the archive's ELEVENTH full self-correction cycle** (original output SUPERSEDED; two new case-law rules: **the concession-merger rule** — granting the same narrow point twice is ONE operation — and **the source-direction rule** — missing access to Grant is an evidentiary gap, never "Grant's failure"); final ledger **3 A3 · 0 A2 · 6 A1 · 5 A0 evidence gaps**; ACCEPTED — READY FOR STAGE 4 (the five-move promotion group keeps its internal tiering; no Grant anything); Stage 4 pending
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** did Grant "decide" that suffering is the best moral metric? — the six acts hiding inside "decision" (hypothesis → credence → ranking → working-model selection → decision-rule adoption → normative endorsement); the horse-race analogy (prediction vs betting); the corporate decision framework's jurisdiction; "metric" doing six jobs; "you always do what you want" and the desire taxonomy; first-order vs structural agency; compatibilism ≠ doxastic voluntarism; Mr. Brute continuity (aux)
@@ -2899,8 +2899,62 @@ No evidence was found that Ziggy consistently extended the same charity to Grant
 
 22. **Any stable trait attribution to Grant weakened.** Grant’s contributions remain mediated through Ziggy’s report, making direct cognitive and rhetorical classification materially uncertain.
 
-**stage 3 patch**
------------------
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17) — REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — eleventh full self-correction cycle** (a targeted
+> tier/consolidation patch, per the now-standard pattern). The
+> Stage-3 output ABOVE is **SUPERSEDED** — retained as pasted;
+> nothing in it may be used downstream except through the corrected
+> reissue below. The operator-issued STAGE 3 FINAL TIER,
+> CONSOLIDATION, AND SOURCE-DIRECTION PATCH command is condensed here
+> (verbatim in the relay; raw capture at commit `ffeba0c`).
+
+**Verdict: PASS WITH MATERIAL TIER AND CONSOLIDATION REPAIR — DO NOT
+PROCEED TO STAGE 4 YET; no full rerun.** Substantially sound: the
+Grant boundary held; the compatibilist-inconsistency charge weakened;
+provisional ranking separated from demonstrated superiority. The
+remaining defect: **ledger inflation** — and two new pieces of case
+law come with the repair.
+
+**⚖️ CASE LAW 1 — the concession-merger rule:** *granting the same
+narrow point twice is ONE available operation, not two.* The two A3
+concession findings (granting Grant's narrow "decision"; granting
+evidential compulsion) are both applications of Claim-Scope
+Partitioning → merged into one A3 (*grant the narrow proposition →
+preserve the questions about inquiry, assertion, adoption, use, and
+action*). The comb-teeth discipline now governs A3 ledgers too.
+
+**⚖️ CASE LAW 2 — the source-direction rule:** *missing direct access
+to Grant is an EVIDENTIARY GAP, never a demonstrated failure by
+Grant.* A0 headings reading "Grant's failure to…" renamed to
+"Unavailable Direct…" — the archive must never convert *not
+recoverable in Ziggy's report* into *Grant demonstrably failed to
+provide it*.
+
+**🔧 THE OTHER REPAIRS:** A3-5 (predictive-vs-normative separation)
+downgraded without a *same-operation anchor* — generic level-making
+ability is neighboring skill (the standing rule applied again); the
+ten A1s consolidated to **six distinct procedures** (Symmetrical
+Metric-Comparison Protocol; Metric Role and Jurisdiction Audit;
+Reverse-Role Test of the Decision Standard; Doxastic–Inquiry–
+Practical Agency Separation; Prediction-to-Replacement Bridge Audit;
+**Disconfirmation Test for the Offloading Diagnosis** — *without a
+reachable defeater, resistance confirms the diagnosis by definition*);
+several "survived" findings lowered to packet-local (Constraint-Level
+Separation; Functional-Use Audit — its compass classification did NOT
+survive; Theory–Application Consistency Test — the Grant
+inconsistency did NOT survive; Abstract-Answer Bypass = Nova
+protocol; Framework-Substitution = exploratory extrapolation).
+
+---
+
+### ⏬ STAGE 3 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 3
 
 ## 0. Source Boundary, Attribution Rules, and Availability Standard
@@ -5255,6 +5309,60 @@ It is not:
 `STAGE 3 COMPLETE AFTER FINAL TIER, CONSOLIDATION, AND SOURCE-DIRECTION PATCH`
 
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 PATCH (Nova, 2026-07-17) — ACCEPTANCE
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-3 record**, read together with the overlays here.
+
+**✅ VERDICT: ACCEPTED — STAGE 3 COMPLETE AFTER FINAL TIER,
+CONSOLIDATION, AND SOURCE-DIRECTION PATCH; PROCEED TO STAGE 4; Stages
+1–2 need no further repair.** **Final ledger: 3 A3 · 0 A2 · 6 A1 · 5
+A0 evidence gaps.**
+
+**📋 THE THREE A3s:** apply Claim-Scope Partitioning to Grant's
+decision and belief account (the merged concession operation);
+distinguish comparative uncertainty from absence of rational priors;
+reconstruct the strongest compatibilist reply before scoring
+inconsistency. **The six A1 procedures** stand as consolidated; the
+five A0s are properly *evidence gaps* (unavailable direct definition
+of "decision"; unavailable classification of suffering's role;
+unavailable metric-comparison protocol; unavailable horse-analogy
+target; unavailable belief/action distinction) — no adverse Grant
+inference from any of them.
+
+**⚖️ THE COUNTEREVIDENCE SET retained:** *compatibilism ≠ voluntary
+belief choice; comparative uncertainty ≠ zero evidence; repeated
+suffering use ≠ sole moral compass; predictive usefulness ≠ normative
+authority; predictive compression ≠ replacement of a moral system;
+**denial of an interpretation ≠ confirmation of evasion**.* Both
+sides of the assistant dynamic held: Nova often validated before
+reconstructing the strongest alternative — and later supplied real
+qualifications.
+
+**📌 NON-BLOCKING STAGE-4 CAUTION (binding on the mapping):** the
+five-move promotion group keeps its internal tiering — **strong
+profile candidate:** Claim-Scope Partitioning; **cautious
+candidates:** Commitment-Ladder Probe, Confidence–Evidence Gating;
+**strong packet-local / possible candidates:**
+Commitment–Causal-Control Separation, Explicit Assertion–Functional
+Implication Audit. Never flattened into five equally stable
+operators. First-Order/Structural Agency Separation = consequential
+packet-local; Agency-Type Consistency Test = valid method, Grant
+application unresolved. **No Grant operator, trait, motive, or
+contradiction.**
+
+**🎯 The stable central prey:** Grant may coherently deny choosing
+what appears most probable while still bearing responsibility for
+inquiry, assertion, model adoption, practical use, and action —
+Ziggy's strongest operation is not proving that credence is secretly
+a decision, but **exposing the ladder from credence to commitment and
+demanding evidence for every upward transition**.
 
 ---
 
