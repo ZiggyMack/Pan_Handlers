@@ -1,4 +1,4 @@
-# DIG 19 — *(title once known)*
+# DIG COMPOUND SWEEP 19 — Lens Availability, Starting Whole, Unconscious Agency, and Interpretive Success
 
 > **Self-contained dig workbook.** Work top to bottom: copy each stage prompt
 > into the old chat **as its own message**, wait for the reply, paste it under
@@ -22,22 +22,22 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** EMPTY
+**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (level-separation + success-criterion + source-tier overlays binding; ⚠️ **all Grant material G-REPORTED — no profile**; the second consecutive Tale-adjacent packet — "Tail" = Tale, member 02, spelling drift per the field desk's established habit); Stage-2 output pasted, review pending; Stages 3–4 pending
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
-**Discovered topic:** _fill in after Stage 1 reveals what this chat actually holds_
+**Discovered topic:** Grant's reported "available lenses" and "starting whole" claims — the nine-rung lens-capability ladder; the starting whole's five readings; the two-axis Jung model (literal/nonliteral ⊥ conscious/unconscious); unconscious opacity as epistemic (never ontological) argument; origin/ownership/control/justification; Tale's repeated speaker-corrections as the interpretive success test; the suffering-language four ledgers; "pedantic" operationalized; ⭐ Ziggy's adversarial self-audit
 
 ## Packet Header (fill as you go)
 
 | Field | Value |
 | --- | --- |
-| Chat title | |
-| Source chat date (approx) | |
-| Participants | |
-| Extractor model | |
+| Chat title | UNKNOWN |
+| Source chat date (approx) | UNKNOWN |
+| Participants | Ziggy, Nova (assistant); Grant REPORTED only; Tale (member 02 — "Tail" in extractor spelling) REPORTED — the corrected-reconstruction party |
+| Extractor model | memory-enabled ChatGPT (Nova-side; same extractor as prior sweeps — no extractor independence) |
 | Protocol version | v0.2.2 |
 | Dig operator | Ziggy |
-| Extraction date | |
+| Extraction date | 2026-07-18 |
 
 ---
 
@@ -935,6 +935,155 @@ A related discussion may exist under “MISC_03,” approximately April 2026, co
 
 A related discussion may exist under “Philosophical conversation intro,” approximately April 2026, concerning Grant, conceptual framing, and philosophical disagreement. Not evidence for this packet.
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 1 (Nova, 2026-07-18)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+> *(The review's "Tail" = Tale, member 02 — extractor spelling drift,
+> per the field desk's established habit; identified by context.)*
+
+**Verdict: PASS WITH MAJOR LEVEL-SEPARATION, SUCCESS-CRITERION, AND
+SOURCE-TIER REPAIRS — proceed to Stage 2; no rerun.** Source-conscious
+and substantially accurate; the weakness is architectural — the
+levels of constraint, knowledge, agency, and evaluation inside
+Grant's reported "available lenses" and "starting whole" claims are
+not yet separated. Archive identity confirmed:
+DIG_COMPOUND_19_lens_availability_starting_whole_unconscious_agency_and_interpretive_success.
+
+**🔧 THE TWO-AXIS JUNG MODEL (the mapping correctly weakened):**
+literal/nonliteral concerns *semantic form*; conscious/unconscious
+concerns *psychological accessibility* — independent dimensions, all
+four cells possible. Jung supplies a warning that conscious
+self-description may not exhaust the causes shaping communication —
+never a rule classifying literal interpretation as conscious.
+
+**⭐ THE NINE-RUNG LENS-CAPABILITY LADDER (the packet's governing
+instrument):** exists in repertoire → accessible → salient →
+recognized as relevant → selectable → competently deployable →
+comparable against rivals → revisable → acquirable. Grant's weak
+reported thesis (*one cannot deploy a wholly absent capacity*) is
+nearly tautological; **Ziggy's live challenge sits higher on the
+ladder** (*Grant appears to possess a context-sensitive lens — why is
+it not selected when literal analysis repeatedly fails the
+speaker-fidelity test?*). Both can be true; the weak principle never
+answers the selection question. **"Available" split seven ways**
+(possessed / accessible / salient / available-for-choice /
+competently usable / revisable / acquirable): *inside the whole ≠
+consciously available now ≠ selected ≠ competently deployed.*
+
+**⭐ THE STARTING WHOLE — five readings held apart:** causal-origin
+(broadly compatible with revision) / constitutive-dependence (also
+compatible) / **epistemic-closure** (much stronger — NOT established)
+/ practical-constraint (plausible, but silent on unselected
+accessible alternatives) / **normative-authority** (needs its own
+argument — *causal origin never automatically confers legitimacy*).
+The central ambiguity: *all transformation has antecedent conditions*
+≠ *no transformation can alter the authority or organization of those
+conditions.*
+
+**⚖️ THE UNCONSCIOUS ARGUMENT — epistemic, not ontological:** Ziggy's
+strongest Jungian objection defeats claims of *transparent
+self-mastery* (complete self-survey; consciously known limits;
+confidence no alternative lens exists) — it does NOT prove choices
+transcend the whole, that external options enter the system, or that
+reflective agency creates values ex nihilo. The handlebars image =
+a critique of epistemic closure, never a proof of metaphysical
+freedom. **The four-way firewall:** origin ≠ psychological ownership
+≠ practical control ≠ normative justification (*inherited causes ≠
+endorsed ≠ justified; arose from the whole ≠ unrevisable; revision
+also has causes ≠ revision is unreal*). Ziggy's sufficient modest
+thesis: *reflective processes can reorganize the authority, salience,
+and expression of inherited values even if those processes are
+themselves caused* — compatibilism-friendly, no creation from
+nothing required.
+
+**🔧 GRANT'S STRONGEST RECONSTRUCTION (before scoring "water is wet"
+as irrelevant):** he may hold a situated-cognition dependence thesis
+— *no perspective wholly independent of the conditions that make
+perspective-taking possible*. Relevance depends on Ziggy's exact
+target: nonresponsive if Ziggy claimed *deploy the lens you
+demonstrably possess*; directly challenging if Ziggy claimed *choice
+outside every antecedent condition*. **Fix the target before scoring
+relevance.**
+
+**⚖️ TALE'S CORRECTIONS — evidence for ONE target:** repeated speaker
+correction is strong on intended meaning and person-level
+attribution; NOT automatically decisive on logical implications,
+reasonable uptake, hidden tensions, or wording quality. The
+three-test ledger binds: speaker-fidelity / consequence /
+communicative-robustness — *Grant may fail the first while
+succeeding at the second or third.* Ziggy's strongest safe criticism:
+the method becomes misrepresentation only when its output **stays
+attached to Tale's person-level position after Tale rejects it**.
+And repeated correction = evidence, never automatic victory (did
+Tale address Grant's exact interpretation? was Ziggy's version a
+steelman or merely closer to self-description?).
+
+**🔧 THE SUFFERING-LANGUAGE FOUR LEDGERS:** lexical-semantic / usage /
+psychological-explanation / **normative reduction** — *suffering
+predicts moral language ≠ suffering is the meaning of "wrong";
+motivates ≠ justifies; many wrongs involve suffering ≠ all wrongness
+reduces to it.* The "smuggled values" objection lands hardest on the
+normative reduction, weakest on the descriptive claims; Grant's exact
+version absent — none confidently attributed. "No interpretation is
+value-free" calibrated: *perspective-dependent ≠ arbitrary; the
+evaluator has values ≠ every factual conclusion is a value judgment.*
+
+**🔧 "PEDANTIC" OPERATIONALIZED — process before person label:**
+productive precision (resolves material ambiguity; changes the
+downstream argument; enables efficient revision) vs displacement
+(corrects wording after intent is shared; no substantive consequence;
+substitutes phrasing critique for engagement; no reachable stopping
+condition) — the test is *clarification gain vs attention and
+derailment cost*, and "pedantic" is the audit's conclusion, never its
+premise.
+
+**⭐ THE MAJOR POSITIVE FINDING — Ziggy's adversarial self-audit:** he
+directly asks whether he is being unfair, trying only to win,
+overusing hostile labels, or letting frustration drive the analysis
+— packet-local capacity for motive uncertainty and rhetorical
+recalibration that *meaningfully constrains* any "Ziggy only wants
+victory" reading (without proving his Grant diagnosis correct).
+
+**🚫 NOVA QUARANTINE — premature metaphysical completion:** the arrow
+chain *available lenses → fixed starting whole → conscious mastery →
+static closure → denial of transformation* is supported by NONE of
+the source automatically; the Parmenides/Spinoza/monism/non-duality
+genealogies are comparison points, never Grant evidence; the
+strongest Grant reconstruction precedes every genealogy.
+
+**📊 FORECAST REGISTERED (for Stage-2 scoring):** eight families —
+Semantic Mode–Psychological Origin; Lens
+Possession–Access–Selection–Revision; Starting-Whole Scope;
+Inheritance–Agency–Endorsement; Intended
+Meaning–Implication–Representation; Method
+Function–Performance–Trade-Off; Moral
+Language–Suffering–Normativity; Precision–Pedantry–Conversational
+Movement — plus seven cross-cutting controls (Weak/Strong Thesis
+Separation; Level-of-Claim Labeling; the Origin/Authority Firewall;
+Speaker-Correction Update; Relative-Warrant; Process Before Person
+Label; Strongest-Opponent Reconstruction). Thirty-six Stage-2
+pressure questions. **Four Ziggy seeds** (weak/strong thesis
+sensitivity; method-outcome accountability; origin/agency
+separation; ⭐ adversarial self-audit — each with restrictions).
+**Grant: no stable profile claim** (five reported positions only).
+**Nova: role caution** (conditional possibilities converted into
+stronger Grant doctrines before direct wording). Sixteen
+restrictions carried.
+
+**🎯 Central prey:** Grant's reported claim may establish only that
+cognition operates through capacities supplied by an existing
+constitution — it does not show that every possessed lens is
+inaccessible to choice, that inherited values cannot be reflectively
+reorganized, that the unconscious is consciously mastered, or that
+causal origin determines normative authority. **Ziggy's strongest
+challenge is practical and methodological: when an alternative lens
+appears available and repeated speaker feedback shows the selected
+lens fails the intended-position test, what justifies continuing to
+privilege it?**
 
 ---
 
@@ -1965,6 +2114,10 @@ Examples:
 
 15. **One-time consequential move:**
     The assistant’s recommendation to replace “pedantic” with process language is not shown being used in the bounded thread, so its practical effect remains UNKNOWN.
+
+-----------
+stage 2 patch
+-------------
 
 
 ---
