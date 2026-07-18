@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (level-separation + success-criterion + source-tier overlays binding; ⚠️ **all Grant material G-REPORTED — no profile**; the second consecutive Tale-adjacent packet — "Tail" = Tale, member 02, spelling drift per the field desk's established habit); Stage-2 output pasted, review pending; Stages 3–4 pending
+**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ reviewed; **Stage 2 closed through the archive's SIXTEENTH self-correction cycle — carrying the first EXECUTION-FAILURE incident** (the extractor reviewed the patch instead of applying it — *"execution was replaced by commentary about execution"* — repaired by a narrow execution-compliance prompt; the v0.1 shovel-sharpening failure recurring at patch level); 22 moves → **11 core Ziggy moves**; the lens-state decomposition binding (direct = possession/access/selection; the nine-rung ladder = completion architecture); Whole-Mastery Interpretation QUARANTINED; new mini case law: **evidentiary corpus ≠ transformation instructions**; ACCEPTED — READY FOR STAGE 3; Stages 3–4 pending
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** Grant's reported "available lenses" and "starting whole" claims — the nine-rung lens-capability ladder; the starting whole's five readings; the two-axis Jung model (literal/nonliteral ⊥ conscious/unconscious); unconscious opacity as epistemic (never ontological) argument; origin/ownership/control/justification; Tale's repeated speaker-corrections as the interpretive success test; the suffering-language four ledgers; "pedantic" operationalized; ⭐ Ziggy's adversarial self-audit
@@ -2115,9 +2115,82 @@ Examples:
 15. **One-time consequential move:**
     The assistant’s recommendation to replace “pedantic” with process language is not shown being used in the bounded thread, so its practical effect remains UNKNOWN.
 
------------
-stage 2 patch
--------------
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-18) — REPAIR ORDER + THE EXECUTION-FAILURE INCIDENT
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — sixteenth full self-correction cycle, carrying the
+> archive's FIRST EXECUTION-FAILURE incident.** The Stage-2 output
+> ABOVE is **SUPERSEDED** — retained as pasted; nothing in it may be
+> used downstream except through the corrected reissue below. Chain:
+> superseded output → repair order → patch command → **EXECUTION
+> FAILURE** (the extractor *reviewed and endorsed* the repair
+> directive instead of applying it — "I reviewed the uploaded Stage 2
+> repair directive"; REJECTED: *"execution was replaced by commentary
+> about execution"*) → the narrow EXECUTION-COMPLIANCE REPAIR prompt
+> → corrected reissue → acceptance. Commands condensed here (verbatim
+> in the relay; raw capture at commit `3a6ea82`).
+>
+> **📜 ARCHIVE ECHO:** this is the same mode-control failure that
+> motivated protocol v0.2 itself (v0.1's single-paste triggered
+> instrument critique instead of extraction — "sharpened the shovel
+> instead of digging") — now recurring at the *patch* level. The
+> execution-wrapper discipline evidently must travel with repair
+> commands too. Failure-Atlas material.
+
+**Verdict: PASS WITH MAJOR CONSOLIDATION, LENS-STATE, AND SOURCE-TIER
+REPAIR — DO NOT PROCEED TO STAGE 3 YET; no Stage-1 rerun.**
+Twenty-two moves counted hypotheses, counterexamples, applications,
+rhetorical compressions, and completed repairs as independent
+operators — and missed the packet's central distinction.
+
+**🔀 THE CONSOLIDATIONS:** the four Jungian moves → **Framework
+Stress-Test and Dimensional Repair** (propose mapping → counterexample
+→ expose collapsed dimensions → two axes → scope-restrict — one
+integrated operation, never four profile entries); the three
+weak-thesis moves → **Weak/Strong Thesis Separation** (with "water is
+wet" downgraded to the **Explanatory-Surplus Test** — lower-tier
+rhetoric; Grant's reported principle never auto-classified a
+tautology); the four Tale-interpretation moves → the **Interpretive
+Goal–Outcome Audit** (six method-goals; the firewall: *Tale rejects X
+→ strong evidence on intended position — never that X can't follow
+from the wording*; his feedback stays Z-DIRECT testimony, not
+verified success data); Moves 12+13 → **Origin–Access–Mastery
+Separation** with the **Whole-Mastery Interpretation QUARANTINED**
+(hidden-premise reconstruction — Grant may need only causal or
+constitutive continuity, never conscious mastery); Move 15 →
+**Origin–Endorsement–Revision–Justification Separation** (no
+libertarian-freedom dependency); "Value-Smuggling Detection" →
+**Evaluative-Premise Audit** (the accusation leaves the name again);
+Root-Assumption Excavation → **Cross-Dispute Generative-Premise
+Search** (over-unification risk named); Move 20 → the **Clarification
+Utility and Opportunity-Cost Audit** ("five minutes" = rhetoric, not
+measurement).
+
+**⭐ THE MISSING CENTERPIECE EXTRACTED — Lens
+Possession–Access–Selection Separation:** Ziggy directly
+distinguishes Grant *having* another lens, being *able to use* it,
+and *selecting or declining* it; the fuller nine-rung ladder stays
+dig-level completion architecture, never his explicit theory (the
+tier discipline holding). **Self-Adversarial Audit retained
+distinct** (one of the strongest packet-local moves) with its
+control: *self-questioning must produce reachable disconfirmation,
+not merely invite reassurance* — and the assistant's habit of
+affirming Ziggy's motives before testing his assumptions stays
+visible. Nova ledger: **Label-to-Process Translation =
+Nova-generated regulatory protocol** (enters Ziggy's profile only
+after independent use); Alternative-Motive Reconstruction =
+lower-tier alternative reading. Two loop renames (Lens
+Constraint–Selection Drift; Evaluative-Premise/Neutrality — with the
+control: *defense against the diagnosis cannot confirm it*).
+
+---
+
+### ⏬ STAGE 2 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 2
 
 ## 0. Corrected Source Boundary and Attribution Controls
@@ -3866,6 +3939,62 @@ No Stage-3 omission analysis, candidate mapping, falsification adjudication, or 
 
 `STAGE 2 COMPLETE AFTER FINAL CONSOLIDATION, LENS-STATE, AND SOURCE-TIER PATCH`
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 PATCH (Nova, 2026-07-18) — ACCEPTANCE
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-2 record**, read together with the overlays here.
+
+**✅ VERDICT: ACCEPTED — STAGE 2 COMPLETE AFTER FINAL CONSOLIDATION,
+LENS-STATE, AND SOURCE-TIER PATCH; PROCEED TO STAGE 3; Stage 1 needs
+no further repair.** Twenty-two moves → **eleven defensible Ziggy
+reasoning moves** (Framework Stress-Test and Dimensional Repair;
+Assumption-Exposure Reversal; Weak/Strong Thesis Separation; Lens
+Possession–Access–Selection Separation; Interpretive Goal–Outcome
+Audit; Origin–Access–Mastery Separation;
+Origin–Endorsement–Revision–Justification Separation;
+Evaluative-Premise Audit; Cross-Dispute Generative-Premise Search;
+Self-Adversarial Audit; Clarification Utility and Opportunity-Cost
+Audit).
+
+**⚖️ THE HOLDS:** the lens-state decomposition (*possessed ≠
+accessible ≠ salient ≠ selectable ≠ deployable ≠ revisable ≠
+acquirable* — with direct attribution limited to
+possession/access/selection); the weak Grant proposition preserved
+without its stronger conclusions; the Tale-correction firewall
+intact; the Whole-Mastery Interpretation quarantined; agency
+decomposed without libertarian upgrade (*reflective revision may be
+causally conditioned and still practically meaningful*); "smuggling"
+= a possible conclusion requiring evidence, never the operator name;
+**0 G-DIRECT Grant material · 0 stable Grant operators · 0 motives**;
+Nova's validation never corroboration; all seven loops with their
+controls.
+
+**📌 NEW MINI CASE LAW (the labeling refinement):** **evidentiary
+corpus ≠ transformation instructions** — repair directives govern
+taxonomy and output structure; they are never historical evidence
+about Ziggy, Grant, Tale, or Nova (a refinement only; no patch
+required).
+
+**📜 FOR THE RECORD:** the archive's **sixteenth full self-correction
+cycle**, carrying the **first EXECUTION-FAILURE incident** — the
+extractor reviewed the patch instead of applying it; rejected with
+the line *"execution was replaced by commentary about execution"*;
+repaired by a narrow execution-compliance prompt. The v0.1 shovel-
+sharpening failure, recurring at the patch level — execution
+wrappers must travel with repair commands.
+
+**🎯 The stable central prey:** the fact that cognition proceeds
+through capacities belonging to an existing person does not determine
+whether a particular lens is accessible, salient, selectable,
+competently deployable, revisable, or acquirable — **the practical
+dispute cannot be settled by saying merely that people can use only
+the lenses they have.**
 
 ---
 
