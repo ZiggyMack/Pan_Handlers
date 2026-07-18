@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ reviewed (major conceptual/attribution + consolidation overlays binding; **date/source-boundary leak corrected**; 22 moves → 8 families; **three local Grant findings retained incl. the AI Calibration Challenge — not frivolous, not genetic fallacy**; the Tool-Mediation Escalation loop = the packet's strongest relationship finding; ⭐ first Sorta seed); Stage-3 output pasted, review pending; Stage 4 pending
+**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ reviewed; **Stage 3 closed through the archive's NINTH full self-correction cycle — a double-patch cycle AND the first REGENERATION INCIDENT** ("Instant beat High": the pasted first output is the DISCARDED truncated-corpus High regeneration; the Instant repair base was never pasted — ⚠️ owed-output notice standing; corpus-preserving repair → "teeth of the comb" consolidation ruling → final patch ACCEPTED); final ledger **3 A3 (same-operation anchors) · 2 A2 · 27 A1** (down from an unconsolidated 51); new case law: **corpus fidelity outranks model tier** + the ledger consolidation rule; READY FOR STAGE 4 (17 restrictions carried); Stage 4 pending
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** the divine-command formalization dispute (validity ≠ soundness ≠ applicability; the counterpossible problem); "meaning is irrelevant" scope control; protection vs defense with reachable loss conditions; frame control decomposed; suffering/brute facts; Sorta's agency objection; Tom's compatibilism and anti-realist condemnation; harm/reasons/motivation/obligation; Ziggy's compressed cognition (traceability) — ⭐ **MILESTONE: first packet with direct screenshot material beyond Grant** (Tom, Sorta, Kee, Tapioca — all at `X-DIRECT-SCREENSHOT, PARTIAL`)
@@ -3233,9 +3233,62 @@ A framework is more plausibly protected when the foundation is exempted from scr
     Substantially weakened because they describe material not recoverable from the bounded original messages.
 
 **X-CONTEXT notice:** Prior extractions refer to other discussions involving named interlocutors and topics not evidenced inside this bounded thread. Titles, dates, and reliable source locations are UNKNOWN. Not evidence for this packet.
-=====
-**tier 3 patch applied**
------------------------
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-17) — THE REGENERATION INCIDENT + REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — ninth full self-correction cycle** (a double-patch
+> cycle: two sequential repair commands inside Stage 3). ⚠️ **THE
+> OUTPUT ABOVE IS THE DISCARDED "HIGH" REGENERATION** — the operator
+> ran Stage 3 twice; the first ("Instant") answer analyzed the
+> correct broad corpus, while the "High" regeneration above behaved
+> as though the source contained only the final two-message fallacy
+> exchange and declared nearly the entire dig unsupported. Field-desk
+> ruling: **"Instant beat High"** — corpus fidelity outranks model
+> tier; the regeneration above is *never* evidence, counterevidence,
+> or an extraction base.
+>
+> **⚠️ FILING NOTICE — OWED OUTPUT:** the Instant Stage-3 answer (the
+> repair base, beginning "Omission C1 — Explicit Steelman Before
+> Scoring the Opponent") was never pasted into this workbook. It is
+> superseded by the repair chain below in any case; paste it above
+> this block for completeness if recovered.
+
+**REPAIR-ORDER VERDICT (on the Instant base): not ready for Stage 4.**
+What it got right: Grant sharply limits semantic *jurisdiction* rather
+than ignoring meaning; Tom supplied harm/reasons/human reality, not
+mere preference; Grant's premise-rejection allowance weakens a crude
+protection diagnosis; Nova alternated tactical alliance with genuine
+calibration; "every fallacy fired" stayed speculative. **Tier
+corrections:** C1 explicit steelman, C2 jurisdiction agreement, C3
+symmetrical foundational burden — all **A3 → A1** (neighboring skill ≠
+the same operation; pressure applied to Grant and Tom ≠ pressure
+applied to one's own framework); C4 axiom-vs-circularity **A2 → A1**
+(Stage-2 recognition is never historical availability). **Retained
+narrowly:** C5 compatibilist reconstruction (A3); C6 the AI
+calibration acknowledgment (A2 — *biased or adaptive source ≠ false
+conclusion* AND *valid individual argument ≠ globally unbiased
+assistance*). Missing branches ordered in: proposition mapping before
+any soundness verdict (A3 — Nova declared "valid but not sound
+relative to classical theism" before fixing the proposition;
+*soundness is never framework-relative*); non-intentional explanations
+of protection preserved (A3 — no motive from process structure);
+Ziggy's expressed uncertainty during fallacy clustering ("which seems
+weird… I'm not sure") preserved rather than converted into "your
+intuition was right" (initially A3); counterpossibles; stipulation vs
+attribution; loss conditions; traceability; per-fallacy independent
+tests. The operator-issued CORPUS-PRESERVING AVAILABILITY AND
+COVERAGE REPAIR command is condensed here (verbatim in the field-desk
+relay; raw capture at commit `413d780`) — its product follows.
+
+---
+
+### ⏬ STAGE 3 CORRECTED OUTPUT — FIRST REPAIR (corpus-preserving; superseded by the final patch below)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 3
 CORPUS-PRESERVING AVAILABILITY AND COVERAGE REPAIR
 
@@ -5542,9 +5595,36 @@ Stable motive, framework collapse, complete Grant suffering theory, complete Tom
 
 `STAGE 3 COMPLETE AFTER CORPUS-PRESERVING AVAILABILITY AND COVERAGE REPAIR`
 
-=================
-**resoibse to final patch**
------------------------
+---
+
+### 🧭 FIELD-DESK REVIEW — SECOND REPAIR ORDER (Nova, 2026-07-17) — "STOP COUNTING EVERY TOOTH OF THE COMB"
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+
+**Verdict on the first repair: PASS WITH MAJOR A1 CONSOLIDATION AND
+ONE AVAILABILITY-TIER REPAIR — DO NOT PROCEED TO STAGE 4 YET.** The
+corpus repair succeeded (right lineage; hard part done). Remaining
+defects: **A3-3 (preserving Ziggy's uncertainty) rested on
+neighboring calibration ability** — A3 requires a *same-operation
+historical anchor* (a direct instance of Nova receiving a tentative
+pattern hypothesis and preserving its confidence level) or it moves
+to A1. And **"51 consolidated A1 omissions" was not consolidated** —
+new ledger case law: *diagnostic subquestions, completion criteria,
+duplicates of A3/A2 findings, source-handling safeguards, and mixed
+A1/A0 items never count as separate omissions.* The Aquila item's
+conditional classification ("A1 where a specimen exists; otherwise
+A0") fails its own condition → A0/Idea Trail, out of the count.
+**Source controls ≠ actor omissions:** title/date → UNAVAILABLE
+METADATA; auxiliary-material status → PROMOTION QUARANTINE. Expected
+repaired counts ≈ 3–4 A3 · 2 A2 · 26–27 A1. The operator-issued FINAL
+TIER AND CONSOLIDATION PATCH command is condensed here (verbatim in
+the relay); its product follows as the **governing record**.
+
+---
+
+### ⏬ STAGE 3 CORRECTED OUTPUT — FINAL PATCH (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 3
 FINAL TIER AND CONSOLIDATION PATCH
 
@@ -7662,6 +7742,85 @@ Partial screenshots, unavailable metadata, and promotion restrictions remain arc
 
 `STAGE 3 COMPLETE AFTER FINAL TIER AND CONSOLIDATION PATCH`
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 FINAL PATCH (Nova, 2026-07-17) — ACCEPTANCE
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the FINAL PATCH output ABOVE is the **governing
+> Stage-3 record**, read together with the overlays in this block.
+
+**✅ VERDICT: ACCEPTED — STAGE 3 COMPLETE AFTER FINAL TIER AND
+CONSOLIDATION PATCH; PROCEED TO STAGE 4; Stages 1–2 need no further
+repair.** **Final ledger: 3 A3 · 2 A2 · 27 A1 · A0 preserved without
+adverse inference.** The three A3s (proposition mapping before any
+soundness verdict; non-intentional explanations of protection;
+compatibilist reconstruction before responsibility criticism) each
+carry a **same-operation historical anchor** — never neighboring
+ability. The two A2s: the worked simultaneous-fallacies demonstration;
+the AI calibration acknowledgment (with the Source–Content Dual Audit
+nested beneath it as completion architecture, never double-counted).
+The 51-item A1 inventory consolidated to **27 distinct omitted
+operations** across the eight families; the Aquila item out of the
+count (A0/Idea Trail); source controls separated (UNAVAILABLE
+METADATA; PROMOTION QUARANTINE).
+
+**⭐ STRONGEST PRESERVED CHARACTERIZATIONS:** **Grant** — *consistently
+enforces the formal consequence relation and treats semantic work as
+settled or irrelevant once his selected premise and deduction are
+fixed* (never: meaning-indifference, frame manipulation, premise
+insulation, successful internal critique, or theological victory).
+**Tom** — compatibilist internal-source agency + an informal but
+under-specified grounding through harm/reasons/human reality (the
+shortcuts rejected: *determinism → no responsibility whatsoever;
+anti-realism → condemnation contradictory; "by definition" →
+circular*). **Nova** — both sides fairly held: tactical alliance AND
+real correction/calibration/opponent reconstruction (*adaptive
+assistance ≠ every argument false; valid local argument ≠ neutral
+selection*). **Ziggy** — structural compression as direct self-report
+with the traceability requirements binding (labeling, transcript
+verification, revision conditions, Nova-vocabulary tracking) — *the
+correct balance between recognizing abstraction skill and preventing
+compressed reconstruction from becoming self-authenticating*.
+
+**📋 SEVENTEEN STAGE-4 RESTRICTIONS carried forward** (no
+validity→soundness; no validity→applicability; no stipulated
+premise→target commitment; no target denial→foreign premise; no
+impossible antecedent→meaningless hypothetical; no scope
+restriction→protection; no restriction→adversarial motive; no
+suspected cluster→collapse; no dictionary→appeal-to-authority; no
+disputed definition→circularity; no anti-realism→cannot condemn; no
+harm reasons→categorical obligation; no determinism→no
+responsibility; no valid Nova reply→unbiased assistance; no
+screenshot preservation→accurate reconstruction; no co-constructed
+vocabulary→prior possession; no G-REPORTED suffering
+framework→stable Grant operator). **Non-blocking caution:** A1-16
+(Grant's alleged evolutionary/linguistic grounding) rests partly on
+G-REPORTED material — a dig-level completion requirement, never a
+Grant profile claim without direct Stage-4 support. The 27 A1s are
+*audit requirements, not proof that the named actors culpably
+failed*.
+
+**📜 FOR THE RECORD — the ninth full self-correction cycle, a
+double-patch cycle, and the archive's first REGENERATION INCIDENT:**
+new case law — **corpus fidelity outranks model tier** ("Instant beat
+High"); a regeneration analyzing a truncated corpus is never
+evidence regardless of apparent quality; and the ledger rule — *stop
+counting every tooth of the comb as a separate comb* (subquestions,
+completion criteria, duplicates, and source safeguards never inflate
+the omission count).
+
+**🎯 The stable central prey:** Grant may be correct about the
+consequence of his fixed conditional while still failing to establish
+that the premise represents Ziggy's theology or that validity settles
+the broader dispute; Ziggy's semantic and framework objections remain
+legitimate only if they allow reachable counterexamples and
+reciprocal revision — and the same discipline governs Tom's
+harm-based reasons, Nova's user-adaptive assistance, and Ziggy's
+compressed reconstructions of prior exchanges.
 
 ---
 
