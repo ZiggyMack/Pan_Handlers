@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ reviewed; **Stage 3 closed through the archive's ELEVENTH full self-correction cycle** (original output SUPERSEDED; two new case-law rules: **the concession-merger rule** — granting the same narrow point twice is ONE operation — and **the source-direction rule** — missing access to Grant is an evidentiary gap, never "Grant's failure"); final ledger **3 A3 · 0 A2 · 6 A1 · 5 A0 evidence gaps**; ACCEPTED — READY FOR STAGE 4 (the five-move promotion group keeps its internal tiering; no Grant anything); Stage 4 pending
+**Status:** ✅ CLOSED (COMPLETE) — Stages 1–4 reviewed; closed through TWO full self-correction cycles (the archive's eleventh and twelfth) — the FIFTH consecutive double-cycle dig; the detector-vs-disease repair at Stage 4 for the fifth straight dig (permanent formulation: *fair comparison ≠ symmetry; internal consistency ≠ symmetry; a probe against overreach ≠ the overreach*); new case law: the concession-merger rule + the source-direction rule; final ledger **3 A3 · 0 A2 · 6 A1 · 5 A0 · 0 Grant anything**; profile tiers preserved (2 profile-ready · 1 cautious · 3 packet-local · 1 test — queue-filed, 16th consecutive zero-promotion close); Symmetry Testing = precursor only; Possibility Preservation NOT demonstrated (2nd consecutive packet); raw captures at `4877f2f`/`ffeba0c`/`b6c92d8`
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** did Grant "decide" that suffering is the best moral metric? — the six acts hiding inside "decision" (hypothesis → credence → ranking → working-model selection → decision-rule adoption → normative endorsement); the horse-race analogy (prediction vs betting); the corporate decision framework's jurisdiction; "metric" doing six jobs; "you always do what you want" and the desire taxonomy; first-order vs structural agency; compatibilism ≠ doxastic voluntarism; Mr. Brute continuity (aux)
@@ -7194,9 +7194,68 @@ These require review if more direct transcript material becomes available.
   * Contest-to-Defeat Compression.
 
 No X-CONTEXT material was used as evidence.
--------------
-stage 4 patch
-----------------
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 (Nova, 2026-07-17) — REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — twelfth full self-correction cycle**, the second
+> inside this dig (the FIFTH consecutive double-cycle dig). The
+> Stage-4 output ABOVE is **SUPERSEDED** — retained as pasted;
+> nothing in it may be used downstream except through the corrected
+> reissue below. The operator-issued STAGE 4 FINAL DIRECTIONALITY,
+> CONSOLIDATION, AND PROFILE-TIER PATCH command is condensed here
+> (verbatim in the relay; raw capture at commit `b6c92d8`).
+
+**Verdict: PASS WITH MATERIAL DIRECTIONALITY, CONSOLIDATION, AND
+PROFILE-TIER REPAIR — DO NOT RERUN STAGES 1–3; DO NOT ARCHIVE THIS
+VERSION.** The source restriction held (**zero Grant operators from
+mediated evidence**) — but the registry-polarity error recurred (the
+FIFTH consecutive Stage 4), two Stage-3 consolidations were undone,
+and packet-local findings were promoted past their authorized tiers.
+Nova's closing formulation, now permanent: **"a demand for fair
+comparison is not yet symmetry; an internal consistency test is not
+symmetry; and a probe against jurisdictional overreach is not itself
+the overreach."**
+
+**⚠️ THE THREE DIRECTIONALITY CORRECTIONS:** Confidence–Evidence
+Gating ↮ Symmetry Testing (it regulates evidence/confidence relations
+— COUNTER-OPERATION to Baseline Exemption, PRECURSOR ONLY to
+Symmetry; the symmetrical protocol was explicitly A1-omitted);
+Agency-Type Consistency Test ↮ Symmetry Testing (*internal
+consistency ≠ reciprocal standards* — NONE ESTABLISHED);
+Prediction-to-Replacement Implication Probe ↮ EXTENDS Universalized
+Evaluative Jurisdiction (it *tests* whether the jurisdictional
+extension is warranted — COUNTER-OPERATION). **Symmetry Testing
+returned to NOT DEMONSTRATED** (outward burdens on Grant's metric ≠
+inward scrutiny of cooperation, justice, love, well-being, or
+Ziggy's own definitions — the promotion evidence is four-fold and
+absent).
+
+**🔀 DE-DUPLICATIONS:** Hypothesis–Coronation Separation → specialized
+APPLICATION of Claim-Scope Partitioning (adjacent to Contested ≠
+Defeated — never a separate operator); Explicitness-Shield Detection
+→ QUARANTINED ALTERNATIVE READING under the Explicit
+Assertion–Functional Implication Audit (the name presumes the
+defensive function). **Profile tiers repaired per the Stage-3
+caution:** profile-ready — Claim-Scope Partitioning,
+Confidence–Evidence Gating; cautious — Commitment-Ladder Probe (its
+inquiry survives; its execution stayed contaminated by "decision");
+packet-local — Commitment–Causal-Control Separation, Explicit
+Assertion–Functional Implication Audit, First-Order/Structural Agency
+Separation; valid test — Agency-Type Consistency (the test survives,
+the Grant inconsistency does not); Nova's alignment tendency →
+packet-local role finding, never exported. The eight-family
+architecture, five loops, availability ledger (3 A3 · 0 A2 · 6 A1 ·
+5 A0), and eighteen source controls ordered restored.
+
+---
+
+### ⏬ STAGE 4 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 4
 
 ## 1. Blind-to-Named Mapping Under the Eight-Family Architecture
@@ -9828,6 +9887,72 @@ Do not export beyond this packet.
 
 `STAGE 4 COMPLETE AFTER FINAL DIRECTIONALITY, CONSOLIDATION, AND PROFILE-TIER PATCH`
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 CORRECTED OUTPUT + FINAL CLOSURE (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-4 record**. This block carries the final acceptance and the
+> archive steward's plow-through note.
+
+**✅ FINAL VERDICT: ACCEPTED — STAGE 4 COMPLETE AFTER FINAL
+DIRECTIONALITY, CONSOLIDATION, AND PROFILE-TIER PATCH; STAGES 1–3
+NEED NO FURTHER REPAIR; DIG COMPLETE — CLOSED.** "No detector is
+confused with the pathology it tests, and no named candidate is
+forced merely to populate the registry."
+
+**📋 FINAL LEDGER:** **3 A3 · 0 A2 · 6 A1 · 5 A0 evidence gaps ·
+0 Grant operators · 0 Grant stable traits · 0 Grant direct-position
+upgrades · 5 relationship loops.** The A1 procedures preserved as
+completion architecture — never back-attributed.
+
+**⭐ FINAL PROFILE TIERS (as accepted):** profile-ready —
+**Claim-Scope Partitioning; Confidence–Evidence Gating**. Cautious —
+**Commitment-Ladder Probe**. Strong packet-local —
+Commitment–Causal-Control Separation; Explicit Assertion–Functional
+Implication Audit; First-Order/Structural Agency Separation. Valid
+packet-local test — Agency-Type Consistency Test. Packet-local Nova
+role finding — the alignment tendency (validation often preceding
+strongest-alternative reconstruction; meaningful qualifications
+eventually appeared).
+
+**📋 REGISTRY DISPOSITION:** counter-operations — Baseline Exemption,
+Universalized Evaluative Jurisdiction; adjacent — Contested ≠
+Defeated; **precursor only — Symmetry Testing of Standards**; below
+threshold — Cross-Disciplinary Swooping; NOT demonstrated —
+Prediction Sovereignty, Generative Admission Restriction,
+Unmeasured-to-Zero, Possibility Compression, **Possibility
+Preservation (second consecutive packet)**, Reconstruction Bypass as
+actor operator, Contest-to-Defeat Compression.
+
+**🛑 PLOW-THROUGH NOTE (archive steward):** the two profile-ready
+operations file as **queue candidates** — no lexicon promotion
+without bounded sub-dig confirmation. This close is the **16th
+consecutive zero-promotion sweep**.
+
+**📌 NON-BLOCKING NOTE (field desk):** one Family-1 phrasing wrinkle
+(the "could have been applied more explicitly" sentence) is harmless
+— the canonical A3 ledger locates the omission correctly.
+
+**📜 FOR THE RECORD:** SWEEP_17 closed through the archive's
+**eleventh and twelfth full self-correction cycles** — the *fifth
+consecutive double-cycle dig*; the detector-vs-disease repair
+recurred at Stage 4 for the **fifth straight dig**; and the round
+minted the concession-merger and source-direction rules. The
+permanent formulation: *a demand for fair comparison is not yet
+symmetry; an internal consistency test is not symmetry; and a probe
+against jurisdictional overreach is not itself the overreach.*
+
+**🎯 The finished prey:** a comparative credence is not automatically
+a voluntarily chosen belief, practical adoption, or moral commitment
+— Ziggy's strongest contribution is the demand to make every
+transition on that ladder visible and evidentially accountable,
+while preserving rational priors and refusing to infer Grant's
+psychology or normative framework from mediated reports alone.
 
 ---
 

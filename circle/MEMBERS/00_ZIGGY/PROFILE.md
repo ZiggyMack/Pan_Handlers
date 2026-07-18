@@ -288,6 +288,28 @@ self-description enters the record with its traceability debts
 (IT-115), and the packet widens the circle: ⭐ first direct material
 from Tom, Sorta, Kee, and Tapioca.
 
+**The commitment-ladder layer (SWEEP_17 — the architecture learns to
+count rungs):** a G-REPORTED-only packet whose whole yield is
+method-side. Two queue candidates at the extractor's profile-ready
+tier — **Claim-Scope Partitioning** (the "half-point" concession as
+its anchor; kin to the Scope-Constrained Concession family) and
+**Confidence–Evidence Gating** (counter-operation to Baseline
+Exemption; *gaps block coronation, never rational provisional
+ranking*) — plus the cautious **Commitment-Ladder Probe**, whose
+nine-rung instrument (credence → … → foundation, every transition
+owing evidence) is the packet's lasting contribution (IT-118), and
+whose execution carries the layer's most instructive self-critique:
+the probing stayed **rhetorically contaminated by the disputed word
+"decision"** — Vocabulary Accommodation was attempted and failed
+because the contested term was retained. The horse-race split
+(*which horse seems likely ≠ which horse gets the bet*) and the
+jurisdiction rule (the corporate protocol governs action, not
+credence formation) bound the layer's claims. The alleged Grant
+compatibilist inconsistency did NOT survive; the offloading
+diagnosis is quarantined with its self-sealing guard; and the
+reciprocity debt extends to a **fifth consecutive dig** — Symmetry
+Testing stays a precursor.
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
@@ -332,8 +354,16 @@ divine-nature claims, primitives, or premise mappings — Symmetry
 Testing of Standards ruled NOT DEMONSTRATED); **compression without
 traceability** (SWEEP_16 — the compressed model of an opponent must
 not become self-authenticating; transcript verification and revision
-conditions owed, IT-115). Candidate charter theme "over-generation /
-insufficient pruning" has not yet been directly tested — the opening
-research question stands.
+conditions owed, IT-115); **the retained contested term** (SWEEP_17 —
+Vocabulary Accommodation attempted and failed because "decide," the
+very word Grant disputed, stayed in every reformulation; the genuine
+semantic isolation test asks the underlying operations separately
+without it — a recurring pattern worth watching wherever a
+load-bearing word is itself the dispute); **the reciprocity debt at
+five digs** (SW13–SW17 — outward burdens sharp and recurring, the
+same burden on his own metrics, mappings, and frameworks still
+undemonstrated; Symmetry Testing remains a precursor). Candidate
+charter theme "over-generation / insufficient pruning" has not yet
+been directly tested — the opening research question stands.
 
 *(Formal sections B–L still await Phase 2; this ledger feeds them.)*
