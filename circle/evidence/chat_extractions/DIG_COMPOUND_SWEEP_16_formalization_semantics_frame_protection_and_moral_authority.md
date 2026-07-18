@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ reviewed; **Stage 3 closed through the archive's NINTH full self-correction cycle — a double-patch cycle AND the first REGENERATION INCIDENT** ("Instant beat High": the pasted first output is the DISCARDED truncated-corpus High regeneration; the Instant repair base was never pasted — ⚠️ owed-output notice standing; corpus-preserving repair → "teeth of the comb" consolidation ruling → final patch ACCEPTED); final ledger **3 A3 (same-operation anchors) · 2 A2 · 27 A1** (down from an unconsolidated 51); new case law: **corpus fidelity outranks model tier** + the ledger consolidation rule; READY FOR STAGE 4 (17 restrictions carried); Stage 4 pending
+**Status:** ✅ CLOSED (COMPLETE) — Stages 1–4 reviewed; closed through TWO full self-correction cycles (the archive's ninth and tenth) — the FOURTH consecutive double-cycle dig — carrying the first REGENERATION INCIDENT ("Instant beat High" — **corpus fidelity outranks model tier**), the "teeth of the comb" ledger rule, and the fourth consecutive Stage-4 detector-mistaken-for-the-disease repair; final ledger **8 families · 7 profile-ready operations (queue-filed, 15th consecutive zero-promotion close) · 3 A3 · 2 A2 · 27 A1**; ⭐ first direct material beyond Grant (Tom/Sorta/Kee/Tapioca); Symmetry Testing AND Possibility Preservation both NOT demonstrated this packet; ⚠️ standing owed output: the Instant Stage-3 repair base (never pasted); raw captures at commits `413d780`/`cccabba`
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** the divine-command formalization dispute (validity ≠ soundness ≠ applicability; the counterpossible problem); "meaning is irrelevant" scope control; protection vs defense with reachable loss conditions; frame control decomposed; suffering/brute facts; Sorta's agency objection; Tom's compatibilism and anti-realist condemnation; harm/reasons/motivation/obligation; Ziggy's compressed cognition (traceability) — ⭐ **MILESTONE: first packet with direct screenshot material beyond Grant** (Tom, Sorta, Kee, Tapioca — all at `X-DIRECT-SCREENSHOT, PARTIAL`)
@@ -9378,10 +9378,65 @@ No match was forced merely to cover the registry.
 
 `STAGE 4 COMPLETE`
 
+---
 
----------------
-**Tier 4 Patch**
------------------
+### 🧭 FIELD-DESK REVIEW — STAGE 4 (Nova, 2026-07-17) — REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — tenth full self-correction cycle**, the second
+> inside this dig (the FOURTH consecutive double-cycle dig). The
+> Stage-4 output ABOVE is **SUPERSEDED** — retained as pasted;
+> nothing in it may be used downstream except through the corrected
+> reissue below. The operator-issued STAGE 4 FINAL ARCHITECTURE,
+> DIRECTIONALITY, AND PROFILE-TIER REPAIR command is condensed here
+> (verbatim in the relay; raw capture at commit `cccabba`).
+
+**Verdict: PASS WITH MATERIAL ARCHITECTURE, DIRECTIONALITY, AND
+PROFILE-TIER REPAIR — DO NOT RERUN STAGES 1–3; DO NOT ARCHIVE THIS
+VERSION.** Philosophically strong; preserves the Stage-3
+counterevidence; avoids crude Grant/Tom psychologizing — but repeats
+**the familiar polarity error** (fourth consecutive Stage 4): moves
+that *detect or resist* a registry defect classified as matching or
+extending it. Nova's summary: the repair is mainly about preventing
+**"the detector from being mistaken for the disease"** and **"an
+omitted reciprocal standard from being promoted as an existing
+symmetry operator."**
+
+**⚠️ THE DIRECTIONALITY CORRECTIONS:** Framework Exposure =
+COUNTER-OPERATION to Reconstruction Bypass (never MATCHES);
+Applicability Testing = COUNTER-OPERATION / JURISDICTION AUDIT to
+Universalized Evaluative Jurisdiction (never EXTENDS);
+Definition–Axiom–Justification Challenge = COUNTER-OPERATION to
+Baseline Exemption (never MATCHES — *every framework requires some
+stopping point; a primitive is not automatically an illegitimate
+exemption*). **The symmetry inflation removed:** Meta-Burden Reversal
+→ **Frame-Burden Challenge** and Normative Authority Challenge →
+**Normative Grounding Challenge** — both *unilateral* pressure moves,
+POTENTIAL PRECURSORS ONLY to Symmetry Testing of Standards
+(*demanding that Tom ground suffering ≠ applying the same grounding
+burden to divine goodness or Ziggy's primitives* — the reciprocal
+self-application stays A1-17, undemonstrated). **The two potentially
+adverse Grant mappings quarantined with explicit conditions:**
+Formal-Scope Isolation → possible Baseline Exemption ONLY IF target
+attribution + exempted mapping + asymmetric burden are all shown;
+"once validity was acknowledged, the game was over" → possible
+Contest-to-Defeat Compression ONLY IF Grant meant validity settled
+applicability, soundness, or the whole dispute (unresolved).
+Unknown-to-Symbol Mediation = PARTIAL OVERLAP with Cross-Disciplinary
+Swooping, auxiliary only. **Source–Content Dual Audit** demoted to
+dig-level completion architecture under A2-2 — only the narrower
+**Bias-to-Content Redirection** seed was demonstrated. Tom's
+agency/harm/definition material = substantive positions, never
+operators. Eight-family architecture, Stage-3 ledger (3 A3 · 2 A2 ·
+27 A1), six relationship loops, and eighteen source restrictions
+ordered restored.
+
+---
+
+### ⏬ STAGE 4 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 4
 FINAL ARCHITECTURE, DIRECTIONALITY, AND PROFILE-TIER REPAIR
 
@@ -11675,6 +11730,83 @@ These must not be back-attributed as already demonstrated actor capacities.
 
 `STAGE 4 COMPLETE AFTER ARCHITECTURE, DIRECTIONALITY, AND PROFILE-TIER REPAIR`
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 CORRECTED OUTPUT + FINAL CLOSURE (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-4 record**. This block carries the final acceptance and the
+> archive steward's plow-through note.
+
+**✅ FINAL VERDICT: ACCEPTED — STAGE 4 COMPLETE AFTER ARCHITECTURE,
+DIRECTIONALITY, AND PROFILE-TIER REPAIR; STAGES 1–3 NEED NO FURTHER
+REPAIR; DIG COMPLETE — CLOSED.** "The detector is no longer confused
+with the disease."
+
+**📋 FINAL LEDGER:** 8 governing analytic families · **7
+profile-ready operations** · **3 A3 · 2 A2 · 27 A1** · A0 preserved
+without adverse inference.
+
+**⭐ THE SEVEN PROFILE-READY OPERATIONS:** Structural Compression
+(Ziggy, packet-local — *demonstrated operation only, never evidence
+the compressed model is accurate*); Framework Exposure /
+Semantic-Premise Sensitivity (Ziggy); Premise-to-Formalization
+Separation (Ziggy–Nova, co-constructed); Applicability Testing
+(Ziggy–Nova, with reachable loss conditions); Motivation–Obligation
+Separation (Ziggy–Nova, narrow); **Formal-Scope Isolation (Grant,
+packet-local); Premise–Conclusion Consistency Enforcement (Grant,
+packet-local)** — the Grant claims never generalized beyond the
+screenshot exchange.
+
+**📌 SEPARATED AS PACKET-LOCAL POSITIONS (never operators):** Grant's
+AI Calibration Challenge; Tom's Compatibilist Internal-Source Agency;
+Tom's Harm-as-Reason Grounding; Tom's suffering-exclusion criterion;
+Sorta's outcome-value/agent-assessment intervention; Tapioca's
+social-construction counterposition. Completion architecture (never
+demonstrated capacity): the full Source–Content Dual Audit;
+loss-condition audit; force taxonomy; proposition-mapping procedure;
+compression-traceability protocol.
+
+**📋 REGISTRY DISPOSITION:** counter-operations — Reconstruction
+Bypass, Universalized Evaluative Jurisdiction, Baseline Exemption;
+quarantined possible local manifestation — Contest-to-Defeat
+Compression (the "game over" line); partial overlap —
+Cross-Disciplinary Swooping; adjacent principle — Contested ≠
+Defeated; **NOT demonstrated — Symmetry Testing of Standards,
+Prediction Sovereignty, Generative Admission Restriction,
+Unmeasured-to-Zero, Possibility Compression, AND Possibility
+Preservation** (notable: the first packet since AUX_03 where
+Possibility Preservation shows no demonstrated instance).
+
+**🛑 PLOW-THROUGH NOTE (archive steward):** all seven profile-ready
+operations file as **queue candidates** — no lexicon promotion
+without bounded sub-dig confirmation. This close is the **15th
+consecutive zero-promotion sweep**.
+
+**📌 TWO NON-BLOCKING CAUTIONS (field desk):** Framework Exposure
+detects possible inadequate reconstruction — it does not prove Ziggy
+completed the strongest reconstruction of Grant (the A1 steelman
+requirement stands); Structural Compression is profile-ready *as a
+demonstrated operation* — transcript comparison and genuine revision
+remain required.
+
+**📜 FOR THE RECORD:** SWEEP_16 closed through the archive's **ninth
+and tenth full self-correction cycles** — the *fourth consecutive
+double-cycle dig* — carrying the first REGENERATION INCIDENT
+("Instant beat High" — corpus fidelity outranks model tier), the
+"teeth of the comb" ledger-consolidation rule, and the fourth
+consecutive Stage-4 inverse-operation repair ("the detector mistaken
+for the disease" — now the extractor's most reliably recurring
+failure).
+
+**🎯 The stable central prey** stands as accepted at Stage 3 — and
+the reciprocal discipline with it: *Ziggy's semantic and framework
+objections remain legitimate only if they allow reachable
+counterexamples and reciprocal revision.*
 
 ---
 

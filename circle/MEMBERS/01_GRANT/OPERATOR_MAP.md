@@ -17,9 +17,9 @@
 > is itself the current finding.** Grant is a *reported epistemic-standard
 > advocate*, not a "gatekeeper." Definitions: `../../OPERATOR_LEXICON.md`.
 
-## D0. ⭐ Packet-Local G-DIRECT Ledger (SWEEP_12 + SWEEP_13 + SWEEP_14 — direct entries)
+## D0. ⭐ Packet-Local G-DIRECT Ledger (SWEEP_12 + SWEEP_13 + SWEEP_14 + SWEEP_16 — direct entries)
 
-> Narrow local positions from G-002/G-003/G-004's screenshots; the QC
+> Narrow local positions from G-002…G-005's screenshots; the QC
 > restriction binds: *no broad personality trait promotes from one
 > packet*, and completed audit families ≠ demonstrated actor operators.
 
@@ -33,6 +33,9 @@
 | **Dichotomy Repair** | G-DIRECT-SCREENSHOT (G-004) · HIGH for the instance | one-time, consequential: conscious linear deduction vs supernatural revelation is a false binary — unconscious cognition, embodied learning, and cumulative experimentation occupy the middle; ruled *potentially legitimate*; never a stable operator from one instance (IT-104/105) |
 | **Conditional Cognitive-Mechanism Concession** | G-DIRECT-SCREENSHOT (G-004) · HIGH locally | accepts cognition outside explicit conscious reasoning once the terms are narrowed — a genuine concession, not containment; local *Cognitive-Mechanism Reframing* is the only mechanism-side finding that survives (naturalizing operator QUARANTINED) |
 | **AI-Authorship Trust Calibration** | G-DIRECT-SCREENSHOT (G-004) · HIGH for the interaction | asks about AI influence, then ⭐ *positively* distinguishes Ziggy's integrated tool use from unfiltered AI output — a successful dyadic trust protocol (relationship ledger); any credibility-attack reading QUARANTINED |
+| **Formal-Scope Isolation** | G-DIRECT-SCREENSHOT (G-005) · HIGH locally · extractor "profile-ready" | brackets theology, modal possibility, and semantic expansion to focus on a fixed deduction — legitimate problem specification or excessive narrowing *depending on the conclusion he claims* (the decisive missing datum); → Baseline Exemption only if target attribution + exempted mapping + asymmetric burden are ALL shown (QUARANTINED WITH CONDITIONS) |
+| **Premise–Conclusion Consistency Enforcement** | G-DIRECT-SCREENSHOT (G-005) · HIGH locally · extractor "profile-ready" | accept the conclusion or revise a premise — *conditional, never absolute*: binds only after accurate formalization and premise acceptance; challenging the formalization ≠ rejecting logic; his "game over" line → Contest-to-Defeat Compression only if he meant total dialectical defeat (QUARANTINED WITH CONDITIONS); ⭐ his **premise-rejection allowance** files as counterevidence |
+| **AI Calibration Challenge** | G-DIRECT-SCREENSHOT (G-005) · HIGH locally | directly raises the possibility that Nova adapted to and amplified Ziggy's framing — ruled **not frivolous, not genetic fallacy**; answered only by the Source–Content Dual Audit (*biased source ≠ false conclusion* AND *valid reply ≠ unbiased assistance*); a packet-local challenge, not yet an operator; kin to G-004's trust calibration (the constructive face of the same concern) |
 
 *Also filed from SWEEP_13 at **G-REPORTED** (reported ceiling — not part
 of this direct ledger): terminological restraint concerning "faith" —

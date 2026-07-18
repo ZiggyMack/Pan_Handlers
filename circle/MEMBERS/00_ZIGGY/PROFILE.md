@@ -265,6 +265,29 @@ category: *retained higher-order evidence from past reasoning*
 warrior discipline are conduct and interpretive-role material, never
 operators.
 
+**The formalization layer (SWEEP_16 — the architecture meets formal
+logic, and the mirror holds):** five queue candidates at the
+extractor's "profile-ready" tier (structural compression — *a
+demonstrated operation, never evidence the model is accurate*;
+framework exposure / semantic-premise sensitivity — counter-operation
+to Reconstruction Bypass; premise-to-formalization separation,
+co-constructed; applicability testing — counter-operation to
+Universalized Evaluative Jurisdiction, with its own protective
+failure mode named; motivation–obligation separation), plus the
+demoted Frame-Burden Challenge (a *unilateral* pressure move — the
+Stage-4 repair removed its Symmetry-Testing promotion because the
+reciprocal self-application to his own divine-nature claims,
+primitives, and mappings **remains undemonstrated across four
+consecutive digs**). Two mirror findings define the layer: his
+strongest cleanest answer to Grant is *premise rejection with
+validity acknowledged* — not a rejection of logic; and **Possibility
+Preservation showed no demonstrated instance in this packet** (the
+first since AUX_03), a reminder that even his most-confirmed
+candidate is packet-dependent. The compressed-cognition
+self-description enters the record with its traceability debts
+(IT-115), and the packet widens the circle: ⭐ first direct material
+from Tom, Sorta, Kee, and Tapioca.
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
@@ -302,7 +325,14 @@ under frustration** (SWEEP_15, confirmed A3-01/A3-04/A3-05 — motive
 suspension, structure/psychology separation, and the
 weak-presentation burden all demonstrated, all dropped in the heat of
 the gamesmanship dispute: *the capacity is real; the consistency is
-the open question*). Candidate charter theme "over-generation /
+the open question*); **the undemonstrated reciprocal** (SWEEP_16 and
+standing since SW13 — burden challenges are deployed unilaterally;
+the same grounding scrutiny has not been shown landing on his own
+divine-nature claims, primitives, or premise mappings — Symmetry
+Testing of Standards ruled NOT DEMONSTRATED); **compression without
+traceability** (SWEEP_16 — the compressed model of an opponent must
+not become self-authenticating; transcript verification and revision
+conditions owed, IT-115). Candidate charter theme "over-generation /
 insufficient pruning" has not yet been directly tested — the opening
 research question stands.
 
