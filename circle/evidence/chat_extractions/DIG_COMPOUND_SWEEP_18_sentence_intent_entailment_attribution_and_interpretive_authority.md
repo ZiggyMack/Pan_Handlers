@@ -1,4 +1,4 @@
-# DIG 22 — *(title once known)*
+# DIG COMPOUND SWEEP 18 — Sentence, Intent, Entailment, Attribution, and Interpretive Authority
 
 > **Self-contained dig workbook.** Work top to bottom: copy each stage prompt
 > into the old chat **as its own message**, wait for the reply, paste it under
@@ -22,22 +22,22 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** EMPTY
+**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (target-separation + source-tier overlays binding; ⭐ **first packet centering Tale — member 02** — the Grant-interprets-Tale dispute); Stage-2 output pasted, review pending; Stages 3–4 pending
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
-**Discovered topic:** _fill in after Stage 1 reveals what this chat actually holds_
+**Discovered topic:** the Grant-interprets-Tale dispute — six interpretive targets hiding inside "meaning" (sentence meaning / speaker meaning / logical consequence / pragmatic implication / belief attribution / wording robustness); implication analysis ≠ belief attribution; Tale's self-report authoritative but defeasible; three reconstruction projects inside "steelman"; "mind reading is unavoidable" narrowed; the sick-dog analogy's fidelity; Grant's method as stress-testing vs interpreting; the "Back to debate via GPT, eh?" remark (source–content audit)
 
 ## Packet Header (fill as you go)
 
 | Field | Value |
 | --- | --- |
-| Chat title | |
-| Source chat date (approx) | |
-| Participants | |
-| Extractor model | |
+| Chat title | UNKNOWN |
+| Source chat date (approx) | UNKNOWN |
+| Participants | Ziggy, Nova (assistant); Grant via partial screenshot(s); **Tale (member 02) REPORTED — the interpreted party**; Grant quotes supplied only through Ziggy stay G-REPORTED |
+| Extractor model | memory-enabled ChatGPT (Nova-side; same extractor as prior sweeps — no extractor independence) |
 | Protocol version | v0.2.2 |
 | Dig operator | Ziggy |
-| Extraction date | |
+| Extraction date | 2026-07-17 |
 
 ---
 
@@ -614,6 +614,142 @@ Nova states that Ziggy’s stronger argument is that Grant’s method systematic
 
 None. No cross-chat material is required or used for this Stage-1 packet.
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 1 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+
+**Verdict: PASS WITH MAJOR TARGET-SEPARATION AND SOURCE-TIER REPAIRS
+— proceed to Stage 2; no rerun.** Source-conscious, but "meaning,"
+"interpretation," and "steelman" each compress several distinct
+targets. Archive identity confirmed:
+DIG_COMPOUND_18_sentence_intent_entailment_attribution_and_interpretive_authority.
+
+**⭐ THE SIX INTERPRETIVE TARGETS (the packet's governing
+separation):** sentence meaning / speaker meaning / logical
+consequence / pragmatic implication / belief attribution / wording
+robustness — with the coexistence chain binding: *Tale did not intend
+X* can coexist with *Tale's sentence, under one plausible reading,
+entails X*, with *X should not be attributed to Tale after
+clarification*, AND with *Tale should revise his wording if readers
+repeatedly infer X*. **Grant may be addressing consequence or wording
+robustness; Ziggy may be addressing speaker meaning and fair
+attribution — the dispute becomes insoluble when both call their
+activity simply "interpretation."**
+
+**⚖️ IMPLICATION ANALYSIS ≠ BELIEF ATTRIBUTION (the five-claim
+ladder):** if Tale asserts P and Grant argues P → Q, Grant may be
+claiming (1) Tale believes Q; (2) Tale is committed to Q whether or
+not he recognizes it; (3) one plausible reading of P entails Q; (4) P
+is dangerously worded; (5) Tale should clarify. **Only the first
+attributes an occurrent belief.** Ziggy's misinterpretation charge is
+strongest against 1–2, weaker against 3–5 — and conversely, Grant
+cannot defend an actual attribution by retreating to "I was only
+exploring implications." *Stage 2 must identify which target Grant
+claimed before scoring either party.*
+
+**⚖️ TALE'S SELF-REPORT — authoritative but not sovereign:** best
+source on conscious intent and self-understanding; NOT automatically
+decisive on consequences of his premises, reasonable public readings,
+whether his wording conventionally expresses his intent, or
+unrecognized tensions. *"That is not what I meant" = strong evidence
+about intention ≠ proof the wording cannot imply it.* The proper
+response to clarification: update the attribution; preserve any
+separate conditional analysis; ask whether the wording caused a
+reasonable misunderstanding. **The missing middle position filed:
+communicative responsibility** — Tale may not believe Q yet bear
+responsibility if his wording predictably suggests Q (*belief
+responsibility ≠ communication responsibility* — Grant could be right
+about the second while wrong about the first).
+
+**🔧 "STEELMAN" SPLIT THREE WAYS:** intentional reconstruction (what
+was Tale trying to express? — clarification carries weight) /
+charitable reconstruction (the strongest plausible version — may
+improve on Tale's own wording) / consequence reconstruction (what
+follows from the sentence as stated). *Grant reconstructed the wrong
+intended position ≠ Grant identified no real implication; Tale
+rejects Grant's reconstruction ≠ Grant's conditional analysis is
+invalid.*
+
+**🔧 "MIND READING IS UNAVOIDABLE" — narrowed:** the term is loaded
+(ordinary interpretation vs unsupported psychological invention);
+the seven-rung inference ladder replaces it (convention → textual
+context → conversational history → genre → background commitments →
+speaker clarification → speculative attribution — *all interpretation
+is inferential, but not every inference has equal warrant*). The
+symmetry point survives: **Grant's literal reading is not an
+assumption-free view from nowhere** (active lexical sense, register,
+implicit qualification, idiom all assumed) — but this never
+establishes that Ziggy's particular inference about Tale was correct.
+
+**🔧 THE SICK-DOG ANALOGY — fidelity-tested:** it proves *literal
+extraction is not universally sufficient*; it does NOT prove *Grant's
+reading of Tale was unreasonable* — a conventional idiom is too easy
+compared with a possibly-ambiguous philosophical formulation. A
+faithful analogy needs wording that genuinely supports two readings
+plus a clarifying speaker plus a consequence-examining critic.
+
+**⭐ THE METHOD-FUNCTION QUESTION (the packet's sharpest repair):**
+Ziggy's "why won't Grant admit his methodology predictably
+misinterprets Tale?" *presupposes the method's purpose is intent
+recovery*. Grant's reported method may instead be **wording
+stress-testing** — in which case repeatedly producing consequences
+Tale disavows is the expected output, not failure. The method becomes
+defective only when the consequence is presented as Tale's actual
+belief, attribution continues after clarification, wording critique
+and position critique are never distinguished, or one possible
+reading is treated as the only one. *The correct question: what job
+is the analysis supposed to perform, and by what success condition is
+it judged?* Ziggy's strongest safe trade-off claim: a method
+optimized for literal implications may detect real ambiguities while
+misrepresenting positions — **unless the outputs are explicitly
+labeled** (the dual ledger: attribution vs consequence).
+
+**🔧 THE GPT REMARK — source–content audit:** the visible Grant
+message BOTH notes the GPT return AND directly challenges the
+intent phrase — so Nova's earlier "attacked the source, not the
+reasoning" was too strong. "Back to debate via GPT, eh?" could be
+teasing, distrust, outsourcing concern, calibration concern, or
+terminology frustration — the screenshot does not settle which.
+**Nova quarantine (strict):** "logical-implication policing,"
+"systematically creates false disagreements," the
+modern-philosophy-consensus claim, and the analytic/positivist labels
+all outran the bounded evidence — hypotheses at most, never Stage-2
+facts. *Ziggy adopted Nova's formulation ≠ the formulation proved;
+Grant reacted negatively ≠ Grant conceded.*
+
+**📊 FORECAST REGISTERED (for Stage-2 scoring):** eight families —
+Sentence–Utterance–Speaker-Meaning; Entailment–Implication–
+Attribution; Reconstruction–Charity–Steelmanning;
+Self-Interpretation and Correction Authority;
+Literalism–Context–Idiom–Pragmatics; Method Function and
+Jurisdiction; AI Mediation–Authorship–Calibration; Debate
+Attribution–Correction–Loss-Condition — plus five cross-cutting
+methods (Interpretive Target Labeling; the Implication/Attribution
+Firewall; Speaker-Clarification Update; Analogy Fidelity Testing;
+Dual-Ledger Reconstruction). Thirty Stage-2 pressure questions.
+**Four Ziggy seeds** (intent-sensitive interpretation; method
+trade-off sensitivity; implication/attribution sensitivity — MEDIUM,
+with the reflexive question open: *did he maintain the distinction
+when representing Grant's own argument?*; contextual analogy
+construction). **Grant: three narrow direct conclusions only**
+(distinguishes inferred intent from direct access; notices the GPT
+use; disputes Nova's framing) — everything broader
+screenshot-limited or G-REPORTED. **Tale: the interpreted party —
+his statement and clarification arrive REPORTED; no Tale ledger
+entries from this packet without direct material.**
+
+**🎯 Central prey:** Grant may legitimately examine what follows from
+Tale's wording without claiming Tale consciously believes those
+consequences; Ziggy may legitimately insist those consequences not be
+attributed as Tale's position after reconstruction or clarification —
+**the dispute becomes manipulative only when either side erases the
+target distinction**: possible implication presented as actual
+belief, or claimed intent used to immunize wording and commitments
+from consequence analysis.
 
 ---
 
