@@ -2118,6 +2118,1753 @@ Examples:
 -----------
 stage 2 patch
 -------------
+PANHANDLERS_CHAT_EXTRACTION — STAGE 2
+
+## 0. Corrected Source Boundary and Attribution Controls
+
+### Bounded source corpus
+
+This extraction uses only:
+
+1. the original user-and-assistant messages in the bounded historical thread;
+2. the completed Stage-1 extraction;
+3. the original Stage-2 extraction;
+4. the Stage-2 final consolidation, lens-state, and source-tier repair directive;
+5. the execution-compliance repair.
+
+Excluded from evidence:
+
+* Project Conversation Content;
+* summaries or excerpts from other chats;
+* memory;
+* unrelated uploaded files;
+* external research;
+* system or developer context;
+* X-CONTEXT material.
+
+The brief Voynich Manuscript exchange is retained only as auxiliary conversation content. It is not used for actor profiling or durable operator extraction.
+
+### Attribution tiers
+
+* **Z-DIRECT:** Ziggy’s statements and actions directly present in the bounded thread.
+* **N-DIRECT:** Nova’s statements and actions directly present in the bounded thread.
+* **G-REPORTED:** Claims, methods, motives, and behavior attributed to Grant by Ziggy.
+* **T-REPORTED:** Tail’s statements, corrections, and confirmations as reported by Ziggy.
+* **CO-CONSTRUCTED:** Formulations jointly developed by Ziggy and Nova.
+* **QUARANTINED INTERPRETATION:** A reconstruction whose applicability remains unverified and which cannot be promoted into an actor position.
+* **UNKNOWN:** Evidence unavailable within the bounded corpus.
+
+### Hard controls
+
+1. No G-DIRECT material exists.
+2. Every Grant claim remains G-REPORTED.
+3. Tail’s corrections remain T-REPORTED through Ziggy.
+4. No reported method outcome is independently verified.
+5. Nova’s agreement does not corroborate Ziggy’s factual claims.
+6. No stable Grant operator or motive may be extracted.
+7. Relationship loops are interaction structures, not individual traits.
+8. Dig-level analytic families are not automatically actor-level operators.
+9. Lower-tier rhetoric and isolated applications are not counted as durable reasoning moves.
+10. Quarantined hidden-premise reconstructions remain outside the durable operator inventory.
+
+# 1. Eight-Family Analytic Architecture
+
+## 1.1 Semantic Mode–Psychological Origin Audit
+
+This family examines whether semantic form and psychological origin have been improperly collapsed.
+
+The bounded discussion begins with a provisional attempt to align:
+
+* literal meaning with conscious processing;
+* intended or nonliteral meaning with unconscious processing.
+
+The consciously constructed metaphor counterexample destabilizes that alignment. A person may deliberately formulate a metaphor, while literal speech may still be shaped by unconscious assumptions, habits, or motives.
+
+The repaired architecture therefore separates:
+
+* literal versus nonliteral semantic form;
+* consciously intended versus unconsciously influenced production;
+* explicit uptake versus inferred communicative intention.
+
+The family supports two durable Ziggy moves:
+
+1. Framework Stress-Test and Dimensional Repair.
+2. Assumption-Exposure Reversal.
+
+It does not establish that literal and intention-sensitive interpretation have equal warrant, equal inferential distance, or identical evidential burdens.
+
+---
+
+## 1.2 Lens Possession–Access–Selection–Revision Audit
+
+This family separates different possible relationships between an actor and an interpretive lens.
+
+The directly supported Ziggy distinction concerns:
+
+* possessing an alternative lens;
+* having access to it;
+* selecting or declining to select it.
+
+The fuller completion ladder is dig-level analytic architecture:
+
+1. possessed;
+2. accessible;
+3. salient;
+4. recognized as relevant;
+5. selectable;
+6. competently deployable;
+7. comparable with rival lenses;
+8. revisable or suppressible;
+9. acquirable.
+
+Not every rung is Ziggy’s explicit theory.
+
+The central live issue is narrower than the global proposition that nobody can deploy a wholly unavailable lens. Ziggy repeatedly returns to whether Grant, in the specific Tail discussion, possessed and could select a different interpretive lens.
+
+This family supports:
+
+3. Weak/Strong Thesis Separation.
+4. Lens Possession–Access–Selection Separation.
+
+---
+
+## 1.3 Starting-Whole Scope Audit
+
+This family examines what follows—and does not follow—from claims that cognition, values, or lenses arise within an originating whole.
+
+Possible reported Grant claims include:
+
+* all presently usable lenses belong to an available set;
+* later perspectives remain continuous with an originating configuration;
+* contextual lens-switching is possible within that configuration.
+
+These claims remain G-REPORTED and their exact strength is UNKNOWN.
+
+The family separates:
+
+* belonging to an originating whole;
+* conscious access to that whole;
+* complete survey of its contents;
+* operational mastery of its contents;
+* epistemic closure;
+* inability to acquire or revise lenses.
+
+It supports:
+
+5. Origin–Access–Mastery Separation.
+
+The stronger claim that Grant must regard the whole as fully known or controlled is quarantined as Whole-Mastery Interpretation.
+
+---
+
+## 1.4 Inheritance–Agency–Endorsement Audit
+
+This family separates developmental origin from reflective endorsement and normative justification.
+
+Ziggy grants that people may begin with:
+
+* inherited biological tendencies;
+* cultural conditioning;
+* automatic or “autopilot” values;
+* pre-reflective habits.
+
+He denies that this concession alone establishes:
+
+* permanent practical captivity;
+* absence of meaningful revision;
+* normative authority of inherited commitments;
+* complete conscious control;
+* metaphysically uncaused choice.
+
+The analysis tracks:
+
+1. causal or developmental origin;
+2. conscious recognition;
+3. psychological identification;
+4. inhibition, reprioritization, or revision;
+5. normative justification.
+
+This family supports:
+
+6. Origin–Endorsement–Revision–Justification Separation.
+
+---
+
+## 1.5 Intended Meaning–Implication–Representation Audit
+
+This family separates different interpretive products.
+
+A reconstruction may concern:
+
+* what the speaker intended;
+* what follows from the words under a particular reading;
+* how a reasonable audience might understand the wording;
+* whether the wording is ambiguous;
+* whether the formulation contradicts another claim;
+* how the claim could be expressed more precisely.
+
+Tail’s reported rejection of an interpretation is strong evidence concerning whether that interpretation faithfully represents Tail’s intended position. It does not establish that:
+
+* the implication cannot follow from the wording;
+* the wording was unambiguous;
+* consequence testing was illegitimate;
+* self-report is infallible;
+* the method failed at every possible goal.
+
+This family supports:
+
+7. Interpretive Goal–Outcome Audit.
+
+---
+
+## 1.6 Method Function–Performance–Trade-Off Audit
+
+This family evaluates methods relative to their intended functions and observed costs.
+
+Potential method functions include:
+
+1. speaker-fidelity reconstruction;
+2. implication testing;
+3. ambiguity detection;
+4. wording improvement;
+5. contradiction testing;
+6. reasonable-audience uptake;
+7. collaborative exploration;
+8. semantic stress-testing.
+
+A method may succeed at one function while failing at another.
+
+Ziggy reports a repeated pattern in which Grant’s reconstruction is rejected by Tail while Ziggy’s reconstruction is accepted. Within the bounded evidence, this supports an audit of intended-position fidelity, but it does not independently verify the historical outcome.
+
+The family also includes attention costs:
+
+* time;
+* conversational momentum;
+* displacement of the substantive question;
+* repeated return to wording;
+* relational friction.
+
+This family supports:
+
+7. Interpretive Goal–Outcome Audit.
+8. Clarification Utility and Opportunity-Cost Audit.
+
+---
+
+## 1.7 Moral Language–Suffering–Normativity Audit
+
+This family concerns Grant’s reported position that ordinary moral language such as “bad” or “wrong” centrally refers to suffering.
+
+The precise thesis is UNKNOWN. It may be:
+
+* lexical;
+* usage-based;
+* predictive;
+* psychological;
+* explanatory;
+* normative;
+* reductive;
+* some combination of these.
+
+Ziggy asks whether selecting suffering as central already requires evaluative commitments. The legitimate audit is whether a method presented as descriptive or linguistic depends on evaluative premises.
+
+This does not automatically prove concealment, bad faith, or illicit “smuggling.”
+
+This family supports:
+
+8. Evaluative-Premise Audit.
+
+---
+
+## 1.8 Precision–Pedantry–Conversational Movement Audit
+
+This family distinguishes useful precision from conversational displacement.
+
+Potentially useful precision:
+
+* identifies consequential ambiguity;
+* distinguishes rival claims;
+* changes the argument’s outcome;
+* prevents equivocation;
+* improves later discussion;
+* reveals a contradiction that survives clarification.
+
+Potential displacement:
+
+* repeatedly prosecutes wording already disowned by the speaker;
+* leaves the substantive question unchanged;
+* consumes attention without resolving a live uncertainty;
+* turns every topic into a semantic adjudication;
+* produces escalating relational friction.
+
+“Pedantic” is not itself an analysis. “Thanks for wasting five minutes” is rhetoric, not measurement.
+
+The family supports:
+
+9. Cross-Dispute Generative-Premise Search.
+10. Self-Adversarial Audit.
+11. Clarification Utility and Opportunity-Cost Audit.
+
+It also contains Nova’s non-Ziggy protocol:
+
+* Label-to-Process Translation.
+
+# 2. Consolidated Museum-Blind Reasoning Moves
+
+## Move 1 — Framework Stress-Test and Dimensional Repair
+
+**Actor:** Ziggy
+**Analytic family:** Semantic Mode–Psychological Origin Audit
+**Definition:** Propose a conceptual mapping, actively test it against a counterexample, identify collapsed dimensions, reconstruct the framework with independent dimensions, and restrict the repaired claim to its warranted scope.
+
+**Trigger:** Ziggy’s attempt to relate Jung’s conscious/unconscious distinction to literal versus intention-sensitive interpretation.
+
+**Operation:**
+
+1. Proposes a provisional mapping:
+
+   * literal interpretation ↔ conscious;
+   * intended or nonliteral interpretation ↔ unconscious.
+2. Tests the mapping using consciously constructed metaphor.
+3. Recognizes that metaphor can be conscious and literal speech can be unconsciously influenced.
+4. Separates semantic form from psychological origin.
+5. Restricts the conclusion to case-by-case assessment rather than universal classification.
+
+**Output:** Literal/nonliteral and conscious/unconscious become independent dimensions rather than a single binary.
+
+**Productive function:** Prevents a useful but overly neat analogy from hardening into a false identity.
+
+**Failure mode:** The repair may become so permissive that it offers no decision rule for comparing interpretations in practice.
+
+**Functional Type:** TRANSFORMATIVE
+
+**Voluntariness:** VOLUNTARY
+
+**Source Anchor:** Z-DIRECT Jung discussion, including the provisional mapping, the metaphor counterexample, and Ziggy’s recognition that cases must be assessed individually.
+
+**Confidence:** High.
+
+**Alternative explanation:** Ziggy may have been informally exploring rather than deploying a stable repeatable method.
+
+**Classification defense:** The durable move is the full nested procedure, not the hypothesis, metaphor, dimensional split, and scope restriction counted separately.
+
+---
+
+## Move 2 — Assumption-Exposure Reversal
+
+**Actor:** Ziggy
+**Analytic family:** Semantic Mode–Psychological Origin Audit
+**Definition:** Apply an inference or assumption objection back to a method presenting itself as inference-free.
+
+**Trigger:** The claim or implication that intention-sensitive interpretation constitutes “mind reading,” while literal interpretation merely reports what is present.
+
+**Operation:** Ziggy notes that treating wording as an exhaustive representation of thought, or assuming the speaker intended literal uptake, also involves interpretive assumptions.
+
+**Output:** Literalism is denied the status of an assumption-free baseline.
+
+**Productive function:** Prevents one method from concealing its own inferential commitments while criticizing another for inference.
+
+**Failure mode:** Exposure of assumptions can be mistaken for proof of equal warrant or equal inferential risk.
+
+**Functional Type:** EVALUATIVE
+
+**Voluntariness:** VOLUNTARY
+
+**Source Anchor:** Z-DIRECT observation that both literal and intention-sensitive interpretation involve a form of inference about what a speaker means.
+
+**Confidence:** High.
+
+**Alternative explanation:** Ziggy may have been using “mind reading” loosely rather than performing a disciplined burden reversal.
+
+**Classification defense:** The move identifies an asymmetrical exemption and reapplies the objection. It does not adjudicate which method is better supported.
+
+---
+
+## Move 3 — Weak/Strong Thesis Separation
+
+**Actor:** Ziggy
+**Analytic families:** Lens Possession–Access–Selection–Revision Audit; Starting-Whole Scope Audit
+**Definition:** Grant the weakest defensible proposition while preventing it from carrying stronger conclusions without an explicit inferential bridge.
+
+**Trigger:** Grant’s reported principle that a person can use only lenses that are somehow available within their existing cognitive resources or originating whole.
+
+**Operation:** Ziggy can grant:
+
+> A person cannot deploy a wholly unavailable lens.
+
+He then refuses to infer automatically that:
+
+* another lens is absent;
+* another lens is inaccessible;
+* another lens cannot become salient;
+* another lens cannot be selected;
+* another lens cannot be learned;
+* inherited lenses cannot be revised;
+* the current lens has normative authority;
+* the person is practically trapped.
+
+**Output:** The shared weak proposition is separated from stronger claims concerning closure, incapacity, inevitability, or authority.
+
+**Productive function:** Narrows the real disagreement without rejecting an obvious constraint.
+
+**Failure mode:** The supposedly stronger thesis may actually have been part of Grant’s reported position, but its exact formulation is unavailable.
+
+**Functional Type:** EVALUATIVE
+
+**Voluntariness:** VOLUNTARY
+
+**Source Anchor:** Z-DIRECT responses to the available-lens claim, including the complaint that the global proposition does not answer why another apparently available lens was not used.
+
+**Confidence:** High for Ziggy’s operation; UNKNOWN regarding the exact strength of Grant’s claim.
+
+**Alternative explanation:** Ziggy may be understating the reported principle to avoid its implications.
+
+**Classification defense:** The durable move is the systematic restriction of inferential reach after a limited concession.
+
+---
+
+## Move 4 — Lens Possession–Access–Selection Separation
+
+**Actor:** Ziggy for the core distinction; fuller ladder is dig-level completion architecture
+**Analytic family:** Lens Possession–Access–Selection–Revision Audit
+**Definition:** Distinguish having a lens from being able, willing, prompted, or competent to deploy it in a particular case.
+
+**Trigger:** Ziggy’s objection that Grant reportedly can switch interpretive lenses in some contexts yet continues using the same literal approach with Tail.
+
+**Operation:** Ziggy shifts the dispute from global possibility to the local live question:
+
+* Is another lens possessed?
+* Is it accessible?
+* Was it selectable?
+* Was it selected or declined?
+
+The completed analytic ladder additionally distinguishes:
+
+1. possession;
+2. access;
+3. salience;
+4. recognized relevance;
+5. selectability;
+6. competent deployment;
+7. comparison;
+8. revision or suppression;
+9. acquisition.
+
+**Output:** “You can only use available lenses” no longer settles whether an alternative lens was available and selectable in the actual exchange.
+
+**Productive function:** Makes the practical disagreement testable at finer resolution.
+
+**Failure mode:** Ziggy may infer possession or access from occasional contextual switching without showing that the same competence was available in the live case.
+
+**Functional Type:** TRANSFORMATIVE
+
+**Voluntariness:** VOLUNTARY for the core distinction; completion ladder partly analytic.
+
+**Source Anchor:** Z-DIRECT statements that Grant appears to possess another lens and is choosing not to use it.
+
+**Confidence:** High for possession/access/selection distinction; medium for attribution of actual choice.
+
+**Alternative explanation:** The alternate lens may have been possessed abstractly but inaccessible, nonsalient, or incompetently deployable in that context.
+
+**Classification defense:** This is more than a complaint about Grant. It decomposes a formerly unitary concept—“having a lens”—into distinct functional states.
+
+---
+
+## Move 5 — Interpretive Goal–Outcome Audit
+
+**Actor:** Ziggy
+**Analytic families:** Intended Meaning–Implication–Representation Audit; Method Function–Performance–Trade-Off Audit
+**Definition:** Separate interpretive goals, use outcome feedback relevant to each goal, update person-level attribution, and evaluate a method against the function it was meant to serve.
+
+**Trigger:** The recurring reported pattern in which Grant interprets Tail’s words literally, derives implications, and Tail denies that the result represents his intended view.
+
+**Operation:**
+
+1. Distinguishes:
+
+   * speaker-fidelity reconstruction;
+   * implication testing;
+   * ambiguity detection;
+   * wording improvement;
+   * contradiction testing;
+   * reasonable-audience uptake.
+2. Uses Tail’s reported rejection of X as evidence that X does not faithfully represent Tail’s intended position.
+3. Preserves the possibility that X may still:
+
+   * follow from the wording;
+   * reveal ambiguity;
+   * represent reasonable uptake;
+   * serve legitimate consequence testing.
+4. Evaluates Grant’s method against whichever goal was active.
+5. Treats repeated mismatch as possible performance evidence rather than as universal disproof.
+
+**Output:** An interpretation can fail as a representation of Tail while remaining useful as a wording or implication audit.
+
+**Productive function:** Prevents success at one interpretive task from being confused with success at another.
+
+**Failure mode:** The goal of the exchange may itself be disputed. Ziggy may privilege speaker fidelity even when Grant’s intended task was stress-testing.
+
+**Functional Type:** EVALUATIVE
+
+**Voluntariness:** VOLUNTARY
+
+**Source Anchor:** Z-DIRECT distinction between “that implication might follow” and “that is not what Tail meant,” together with reported Tail corrections.
+
+**Confidence:** High for the distinction; independent accuracy of reported outcomes is UNKNOWN.
+
+**Alternative explanation:** Tail’s self-report may be revision, evasion, or retrospective narrowing rather than definitive access to an antecedent intention.
+
+**Classification defense:** This consolidates outcome auditing, task decomposition, speaker feedback, and method-goal alignment into one durable procedure.
+
+---
+
+## Move 6 — Origin–Access–Mastery Separation
+
+**Actor:** Ziggy
+**Analytic family:** Starting-Whole Scope Audit
+**Definition:** Separate belonging to an originating whole from conscious access, exhaustive survey, or operational mastery of that whole.
+
+**Trigger:** Grant’s reported claims about an initial whole, inherited lens-set, or the continuity of later cognition with prior structure.
+
+**Operation:** Ziggy accepts that cognition may arise within a larger inherited or unconscious configuration while denying that this grants the actor:
+
+* complete awareness of the configuration;
+* full knowledge of its possibilities;
+* control over all contained influences;
+* justified certainty about its boundaries.
+
+He invokes unconscious opacity to challenge any move from “arises within” to “is consciously mapped or mastered.”
+
+**Output:** Causal or constitutive origin is prevented from becoming epistemic mastery.
+
+**Productive function:** Blocks illicit movement from dependence to knowledge or control.
+
+**Failure mode:** Grant’s reported argument may require only causal continuity, not mastery. In that case the separation is valid but nonresponsive.
+
+**Functional Type:** TRANSFORMATIVE
+
+**Voluntariness:** VOLUNTARY
+
+**Source Anchor:** Z-DIRECT discussion of having no “handlebars” on the unconscious and of blind spots within any supposed whole.
+
+**Confidence:** High as Ziggy’s reasoning; applicability to Grant’s exact argument remains uncertain.
+
+**Alternative explanation:** The originating whole may be intended only as a causal or constitutive claim.
+
+**Classification defense:** The durable operation is the separation of ontological inclusion from epistemic and operational command.
+
+---
+
+## Move 7 — Origin–Endorsement–Revision–Justification Separation
+
+**Actor:** Ziggy
+**Analytic family:** Inheritance–Agency–Endorsement Audit
+**Definition:** Track separately the developmental source of a value, awareness of it, identification with it, capacity to inhibit or revise it, and reasons for endorsing it.
+
+**Trigger:** Grant’s reported emphasis on biological, cultural, or starting-whole origins of values and perspectives.
+
+**Operation:** Ziggy grants inherited “autopilot values” but distinguishes:
+
+1. causal origin;
+2. conscious recognition;
+3. psychological identification;
+4. inhibition, reprioritization, or revision;
+5. normative justification.
+
+He argues that prior conditioning does not by itself eliminate meaningful reflective agency.
+
+**Output:** Inherited values need not remain endorsed, dominant, or justified merely because they arose first.
+
+**Productive function:** Prevents genealogy from substituting for present normative assessment.
+
+**Failure mode:** Reflective revision may itself be causally conditioned; the move does not prove metaphysically uncaused freedom.
+
+**Functional Type:** TRANSFORMATIVE
+
+**Voluntariness:** VOLUNTARY
+
+**Source Anchor:** Z-DIRECT distinction between automatic inherited values and later reflective selection or revision.
+
+**Confidence:** High.
+
+**Alternative explanation:** Ziggy’s language of “taking control” may overstate the degree of conscious access or autonomy actually established.
+
+**Classification defense:** The operator is the multidimensional separation. Strong metaphysical freedom is not included in the extracted move.
+
+---
+
+## Move 8 — Evaluative-Premise Audit
+
+**Actor:** Ziggy
+**Analytic family:** Moral Language–Suffering–Normativity Audit
+**Definition:** Identify evaluative selections required by a method presented as descriptive, linguistic, or neutral.
+
+**Trigger:** Grant’s reported claim that ordinary uses of “wrong” or “bad” reduce to, center on, or reveal suffering.
+
+**Operation:** Ziggy asks:
+
+* Is the thesis lexical?
+* Is it based on usage frequency?
+* Is it predictive of moral judgments?
+* Is it psychological?
+* Is suffering treated as explanatory?
+* Is it a normative criterion?
+* What evaluative premise authorizes suffering’s centrality?
+
+**Output:** The suffering thesis is prevented from moving unnoticed between descriptive and normative levels.
+
+**Productive function:** Makes normative commitments visible and separates empirical linguistic evidence from moral authority.
+
+**Failure mode:** Detecting an evaluative premise does not establish concealment, illegitimacy, or falsehood.
+
+**Functional Type:** EVALUATIVE
+
+**Voluntariness:** VOLUNTARY
+
+**Source Anchor:** Z-DIRECT complaint that a supposedly linguistic account still imports values by selecting suffering as central.
+
+**Confidence:** High.
+
+**Alternative explanation:** Grant may openly defend suffering as a normative primitive rather than present it as neutral.
+
+**Classification defense:** “Smuggling” is not the operator. The durable move is neutral premise identification and type separation.
+
+---
+
+## Move 9 — Cross-Dispute Generative-Premise Search
+
+**Actor:** Ziggy
+**Analytic families:** Moral Language–Suffering–Normativity Audit; Precision–Pedantry–Conversational Movement Audit; Starting-Whole Scope Audit
+**Definition:** Test whether several surface disagreements arise from a deeper shared premise.
+
+**Trigger:** Recurrent disputes involving interpretation, materialism, agency, inherited values, and moral language.
+
+**Operation:** Ziggy looks beneath topic-specific conflict for a common generating assumption, such as:
+
+* treating inherited structures as exhaustive;
+* treating a preferred evidential frame as neutral;
+* conflating origin with authority;
+* privileging literal form over intended position.
+
+**Output:** A possible common architecture beneath otherwise separate arguments.
+
+**Productive function:** Can move discussion from repetitive downstream symptoms to foundational assumptions.
+
+**Failure mode:** Thematic resemblance may be mistaken for common causal origin. Different disputes may require different explanations.
+
+**Functional Type:** EXPLORATORY
+
+**Voluntariness:** VOLUNTARY
+
+**Source Anchor:** Z-DIRECT claim that the issue may be “the root of so many divergent disagreements,” including materialism and moral language.
+
+**Confidence:** High that Ziggy performs the search; medium or low that one premise actually generates all disputes.
+
+**Alternative explanation:** Ziggy’s preferred framework may be organizing heterogeneous disagreements after the fact.
+
+**Classification defense:** This is a search procedure, not a conclusion that one root has been demonstrated.
+
+---
+
+## Move 10 — Self-Adversarial Audit
+
+**Actor:** Ziggy
+**Analytic family:** Precision–Pedantry–Conversational Movement Audit
+**Definition:** Turn the critical framework back onto one’s own motives, labels, asymmetries, and conduct.
+
+**Trigger:** Ziggy’s recognition of frustration, anger, hostile labeling, and possible desire to win.
+
+**Operation:** Ziggy asks whether:
+
+* he is being unfair;
+* he is point-scoring;
+* he overuses “pedantic”;
+* his anger is distorting interpretation;
+* he applies the same burden to himself;
+* his criticism remains an invitation to inquiry.
+
+**Output:** The possibility of revising person-level labels and conversational tactics.
+
+**Productive function:** Creates a route for disconfirmation and symmetry testing.
+
+**Failure mode:** The audit may function as reassurance-seeking if no substantive belief or behavior is exposed to possible defeat.
+
+**Functional Type:** EVALUATIVE
+
+**Voluntariness:** VOLUNTARY
+
+**Source Anchor:** Z-DIRECT request for honest criticism and questioning whether he is being petty, harsh, or motivated by winning.
+
+**Confidence:** High.
+
+**Alternative explanation:** Ziggy may be seeking moral reassurance rather than conducting a falsifiable self-audit.
+
+**Classification defense:** The move is durable only if it can produce correction or loss. Whether that occurred remains a Stage-3 question.
+
+---
+
+## Move 11 — Clarification Utility and Opportunity-Cost Audit
+
+**Actor:** Ziggy
+**Analytic families:** Method Function–Performance–Trade-Off Audit; Precision–Pedantry–Conversational Movement Audit
+**Definition:** Compare the informational or argumentative value of precision with its costs in time, attention, momentum, and relational friction.
+
+**Trigger:** Repeated reported exchanges in which literal wording is examined, the speaker denies that interpretation, and the conversation does not reach the substantive issue.
+
+**Operation:** Ziggy asks whether clarification:
+
+* changed the claim under examination;
+* exposed a live ambiguity;
+* prevented a real equivocation;
+* altered a conclusion;
+* improved future formulation;
+* merely displaced the intended discussion;
+* consumed disproportionate time;
+* hardened conflict.
+
+**Output:** A distinction between useful precision and semantic displacement.
+
+**Productive function:** Treats conversational attention as a finite epistemic resource.
+
+**Failure mode:** Efficiency concerns may prematurely suppress necessary conceptual work.
+
+**Functional Type:** EVALUATIVE
+
+**Voluntariness:** VOLUNTARY
+
+**Source Anchor:** Z-DIRECT complaint that several minutes can be consumed correcting a literal reading without advancing the philosophical inquiry.
+
+**Confidence:** High.
+
+**Alternative explanation:** What Ziggy experiences as displacement may be indispensable analysis under Grant’s intended method.
+
+**Classification defense:** “Thanks for wasting five minutes” is rhetoric; the durable move is the structured cost-benefit comparison.
+
+# 3. Lower-Tier, Quarantined, and Nova-Generated Material
+
+## 3.1 Explanatory-Surplus Test
+
+**Classification:** LOWER-TIER RHETORICAL APPLICATION
+**Parent move:** Weak/Strong Thesis Separation
+
+**Definition:** Compress a reported principle into an obvious statement to test whether it adds explanatory content beyond a conceded weak thesis.
+
+**Application:** Ziggy’s “water is wet” characterization of the claim that people can only use lenses available to them.
+
+**Productive function:** Pressures the speaker to identify what nontrivial conclusion follows.
+
+**Failure mode:** The compression may erase meaningful qualifications or misstate the intended strength of the principle.
+
+**Count status:** Not a separate durable operator.
+
+---
+
+## 3.2 Metaphor Counterexample
+
+**Classification:** APPLICATION WITHIN FRAMEWORK STRESS-TEST AND DIMENSIONAL REPAIR
+
+**Definition:** A consciously formulated metaphor demonstrates that nonliteral semantic form is not necessarily unconscious.
+
+**Productive function:** Breaks the original one-to-one mapping.
+
+**Failure mode:** Refutes a universal equation but does not settle probabilistic relationships.
+
+**Count status:** Not a separate durable operator.
+
+---
+
+## 3.3 Alternative-Motive Reconstruction
+
+**Actor:** Ziggy
+**Classification:** LOWER-TIER ALTERNATIVE READING
+
+**Definition:** Consider the charitable possibility that Grant’s precision-oriented conduct aims to improve wording rather than derail discussion or dominate interpretation.
+
+**Productive function:** Counters hostile-motive attribution.
+
+**Failure mode:** One speculative charitable reconstruction does not establish Grant’s motive.
+
+**Count status:** Not promoted to durable operator.
+
+---
+
+## 3.4 “Pedantic” and Time-Waste Language
+
+**Classification:** RHETORIC
+
+These expressions communicate frustration and a displacement diagnosis but do not independently establish:
+
+* unnecessary precision;
+* deliberate obstruction;
+* bad faith;
+* measured opportunity cost;
+* a stable Grant trait.
+
+**Count status:** Not separate operators.
+
+---
+
+## 3.5 Whole-Mastery Interpretation
+
+**Classification:** QUARANTINED HIDDEN-PREMISE RECONSTRUCTION
+
+**Proposed content:** Grant’s reported use of an originating whole would make practical sense only if he regarded that whole as sufficiently known, surveyed, or controlled to establish cognitive limits.
+
+**Source status:** Z-DIRECT reconstruction concerning a G-REPORTED position.
+
+**Reason for quarantine:**
+
+* Grant never directly states mastery.
+* His argument may require only causal or constitutive continuity.
+* The inference may explain Ziggy’s frustration without accurately representing Grant.
+
+**Falsification condition:** Evidence that Grant explicitly distinguishes causal continuity from conscious access and does not infer closure from the whole.
+
+**Count status:** Not a durable Ziggy operator and not a Grant position.
+
+---
+
+## 3.6 Nova-Generated Regulatory Protocol — Label-to-Process Translation
+
+**Actor:** Nova
+**Classification:** NOVA-GENERATED REGULATORY PROTOCOL
+
+**Definition:** Replace a global person-label with a description of the observable conversational process.
+
+**Transformation:**
+
+* from: “You are being pedantic”;
+* to: “We are spending attention on wording without resolving the substantive question.”
+
+**Productive function:** Makes the criticism more specific, testable, and less identity-threatening.
+
+**Failure mode:** Process language may soften or obscure a genuinely persistent pattern of responsibility.
+
+**Source Anchor:** N-DIRECT advice following Ziggy’s request for self-critique.
+
+**Count status:** Nova protocol, not a demonstrated Ziggy operator.
+
+---
+
+## 3.7 Nova Alignment and Conceptual-Completion Tendency
+
+**Actor:** Nova
+**Classification:** ROLE-INDUCED BEHAVIOR
+
+**Definition:** Nova frequently validates Ziggy’s tentative interpretation and supplies a stronger, more complete conceptual articulation.
+
+**Productive function:** Accelerates framework construction and gives language to partially formed distinctions.
+
+**Failure mode:** Can transform a tentative hypothesis into an apparently corroborated diagnosis without independent evidence.
+
+**Count status:** Role behavior, not a Ziggy move.
+
+---
+
+## 3.8 Nova Reassurance Following Self-Audit
+
+**Actor:** Nova
+**Classification:** ROLE-INDUCED REGULATORY BEHAVIOR
+
+**Definition:** After Ziggy questions his fairness or motives, Nova affirms his underlying concern and offers a limited tactical correction.
+
+**Productive function:** Preserves relational safety and continued inquiry.
+
+**Failure mode:** The self-audit may terminate in reassurance rather than substantive disconfirmation.
+
+**Count status:** Role behavior, not a Ziggy move.
+
+# 4. Corrected Durable Move Inventory
+
+## Core Ziggy reasoning moves
+
+1. Framework Stress-Test and Dimensional Repair.
+2. Assumption-Exposure Reversal.
+3. Weak/Strong Thesis Separation.
+4. Lens Possession–Access–Selection Separation.
+5. Interpretive Goal–Outcome Audit.
+6. Origin–Access–Mastery Separation.
+7. Origin–Endorsement–Revision–Justification Separation.
+8. Evaluative-Premise Audit.
+9. Cross-Dispute Generative-Premise Search.
+10. Self-Adversarial Audit.
+11. Clarification Utility and Opportunity-Cost Audit.
+
+## Lower-tier Ziggy applications, readings, and rhetoric
+
+1. Explanatory-Surplus Test.
+2. Metaphor counterexample.
+3. Alternative-Motive Reconstruction.
+4. “Pedantic” rhetoric.
+5. Time-waste rhetoric.
+
+## Quarantined Ziggy interpretation
+
+1. Whole-Mastery Interpretation.
+
+## Nova protocol and role ledger
+
+1. Label-to-Process Translation.
+2. Alignment and conceptual-completion tendency.
+3. Reassurance following Ziggy’s self-audit.
+
+## Grant reported positions and method candidates
+
+All remain G-REPORTED:
+
+1. Available-lens constraint.
+2. Contextual lens-switching.
+3. Originating-whole continuity.
+4. Implication or semantic stress-testing.
+5. Suffering-centered moral-language thesis.
+6. Possible precision-oriented or wording-improvement purpose.
+
+No stable Grant operator or motive is extracted.
+
+# 5. Operator Sequences
+
+## Sequence A — Framework Proposal to Dimensional Repair
+
+1. Ziggy proposes a literal/conscious and intended/unconscious mapping.
+2. He introduces consciously constructed metaphor.
+3. The counterexample exposes collapsed dimensions.
+4. Semantic form is separated from psychological origin.
+5. The claim is restricted to case-by-case assessment.
+
+**Moves involved:** Framework Stress-Test and Dimensional Repair.
+
+**Output:** A repaired two-dimensional model.
+
+**Confidence:** High.
+
+---
+
+## Sequence B — Inference Objection to Assumption Exposure
+
+1. Intention-sensitive interpretation is treated as “mind reading.”
+2. Literal interpretation is implicitly treated as direct or neutral.
+3. Ziggy identifies assumptions required by literal uptake.
+4. The inference objection is reapplied to literalism.
+5. Comparative warrant remains unresolved.
+
+**Moves involved:** Assumption-Exposure Reversal.
+
+**Output:** Neither method is assumption-free.
+
+**Confidence:** High.
+
+---
+
+## Sequence C — Weak Constraint to Local Lens Question
+
+1. Grant reportedly states that only available lenses can be used.
+2. Ziggy grants the weak constraint.
+3. Stronger implications are withheld.
+4. Ziggy asks whether another lens was possessed and accessible.
+5. He asks why it was not selected in the live case.
+
+**Moves involved:** Weak/Strong Thesis Separation; Lens Possession–Access–Selection Separation.
+
+**Output:** The dispute shifts from global possibility to local deployment.
+
+**Confidence:** High for Ziggy’s shift; actual lens availability remains unverified.
+
+---
+
+## Sequence D — Starting Whole to Mastery Limitation
+
+1. Grant reportedly invokes an originating whole or inherited lens-set.
+2. Ziggy grants causal or developmental origin.
+3. He distinguishes origin from conscious access.
+4. He invokes unconscious opacity.
+5. He blocks movement to complete survey or operational mastery.
+6. He tentatively reconstructs a stronger whole-mastery premise.
+7. That reconstruction is quarantined.
+
+**Moves involved:** Origin–Access–Mastery Separation.
+
+**Output:** Origin does not automatically establish epistemic closure.
+
+**Confidence:** High for the separation; low-to-medium for its relevance to Grant’s exact argument.
+
+---
+
+## Sequence E — Inherited Values to Reflective Endorsement
+
+1. Ziggy grants biological and cultural “autopilot values.”
+2. He distinguishes origin from awareness.
+3. Awareness is distinguished from identification.
+4. Identification is distinguished from revision or inhibition.
+5. Revision is distinguished from normative justification.
+
+**Moves involved:** Origin–Endorsement–Revision–Justification Separation.
+
+**Output:** Conditioned agency without a claim of uncaused choice.
+
+**Confidence:** High.
+
+---
+
+## Sequence F — Interpretation Dispute to Goal-Specific Evaluation
+
+1. Grant reportedly reconstructs Tail’s wording.
+2. Tail reportedly denies that the reconstruction captures his intended thought.
+3. Ziggy distinguishes speaker fidelity from implication testing.
+4. Tail’s reported correction is used as evidence concerning fidelity.
+5. Grant’s method is assessed relative to its possible purpose.
+6. Failure at one goal is not generalized to all goals.
+
+**Moves involved:** Interpretive Goal–Outcome Audit.
+
+**Output:** Person-level representation and wording-level consequence are separated.
+
+**Confidence:** High for the structure; independent verification UNKNOWN.
+
+---
+
+## Sequence G — Linguistic Thesis to Evaluative Premise
+
+1. Grant reportedly connects “wrong” or “bad” with suffering.
+2. Ziggy asks what kind of thesis this is.
+3. Descriptive and normative claims are separated.
+4. The selection of suffering is audited for evaluative premises.
+5. “Smuggling” remains an adverse conclusion requiring further evidence.
+
+**Moves involved:** Evaluative-Premise Audit.
+
+**Output:** A typed map of the suffering thesis rather than an immediate accusation.
+
+**Confidence:** Medium because Grant’s exact thesis is unavailable.
+
+---
+
+## Sequence H — Surface Disputes to Generative Premise Search
+
+1. Ziggy notices recurring conflict across interpretation, materialism, agency, and moral language.
+2. He searches for a deeper shared premise.
+3. Thematic connections are proposed.
+4. Over-unification remains an explicit failure condition.
+
+**Moves involved:** Cross-Dispute Generative-Premise Search.
+
+**Output:** Candidate root architecture, not proof of a single cause.
+
+**Confidence:** High for the search; medium-to-low for the result.
+
+---
+
+## Sequence I — Frustration to Self-Audit and Protocol Repair
+
+1. Ziggy notices anger and repeated “pedantic” labeling.
+2. He asks whether he is unfair or point-scoring.
+3. Nova reassures him while identifying a communication risk.
+4. Nova proposes Label-to-Process Translation.
+5. Whether Ziggy actually adopts and applies the protocol remains UNKNOWN.
+
+**Moves involved:** Self-Adversarial Audit.
+**Nova protocol:** Label-to-Process Translation.
+
+**Output:** A possible shift from character judgment to process diagnosis.
+
+**Confidence:** High.
+
+---
+
+## Sequence J — Precision Demand to Opportunity-Cost Evaluation
+
+1. Grant reportedly isolates literal wording.
+2. Tail reportedly rejects the literal interpretation.
+3. Time is spent adjudicating the wording.
+4. Ziggy asks whether the clarification changed the substantive argument.
+5. Costs in time, attention, momentum, and friction are weighed against informational gain.
+
+**Moves involved:** Clarification Utility and Opportunity-Cost Audit; Interpretive Goal–Outcome Audit.
+
+**Output:** Useful precision is distinguished from displacement.
+
+**Confidence:** High as Ziggy’s reported experience; actual timing and utility remain unmeasured.
+
+# 6. Offense/Defense Analysis
+
+## 6.1 Ziggy on offense
+
+Ziggy’s offensive mode pressures claims at their inferential bridges and practical outcomes.
+
+### Principal offensive moves
+
+* **Weak/Strong Thesis Separation:** Prevents a modest truth from underwriting stronger conclusions.
+* **Lens Possession–Access–Selection Separation:** Redirects abstraction toward local accountability.
+* **Interpretive Goal–Outcome Audit:** Uses reported speaker feedback to test representational success.
+* **Evaluative-Premise Audit:** Challenges allegedly neutral methods to disclose their evaluative commitments.
+* **Cross-Dispute Generative-Premise Search:** Moves beneath repeated surface disputes.
+* **Clarification Utility and Opportunity-Cost Audit:** Evaluates method costs, not only local correctness.
+
+### Productive function
+
+Ziggy repeatedly asks whether a proposition:
+
+* answers the live question;
+* has been expanded beyond its warranted scope;
+* succeeds at its intended task;
+* hides evaluative premises;
+* produces useful conversational movement.
+
+### Offensive vulnerability
+
+Ziggy sometimes moves from:
+
+* nonresponse to motive;
+* repeated mismatch to stable incapacity;
+* evaluative premises to “smuggling”;
+* possible whole-opacity to a claim that Grant assumes mastery;
+* local method failure to a broader diagnosis of pedantry.
+
+Those stronger moves require additional evidence.
+
+---
+
+## 6.2 Ziggy on defense
+
+Ziggy’s defensive mode protects:
+
+* speaker intention from replacement by hypothetical implications;
+* nonliteral interpretation from being classified as uniquely inferential;
+* reflective revision from being erased by causal origin;
+* conversational momentum from unlimited semantic prosecution;
+* his own fairness through self-audit.
+
+### Principal defensive moves
+
+* **Framework Stress-Test and Dimensional Repair.**
+* **Assumption-Exposure Reversal.**
+* **Interpretive Goal–Outcome Audit.**
+* **Origin–Access–Mastery Separation.**
+* **Origin–Endorsement–Revision–Justification Separation.**
+* **Self-Adversarial Audit.**
+
+### Defensive strength
+
+Ziggy does not need to deny:
+
+* inherited conditioning;
+* literal implications;
+* ambiguity;
+* unconscious influence;
+* semantic precision.
+
+He instead restricts what those facts establish.
+
+### Defensive vulnerability
+
+He may give too much authority to:
+
+* speaker self-report;
+* his own successful reconstruction;
+* the assumption that another lens was available;
+* his own judgment about what the conversation’s “real point” was.
+
+---
+
+## 6.3 Grant on offense
+
+No direct Grant operator may be extracted.
+
+The following are G-REPORTED method candidates:
+
+* semantic or literal stress-testing;
+* implication analysis;
+* definitional precision;
+* contextual lens-switching;
+* appeal to available cognitive resources;
+* appeal to originating-whole continuity;
+* suffering-centered interpretation of moral language.
+
+### Possible productive functions
+
+* detecting ambiguity;
+* testing consequences;
+* preventing post hoc retreat into intention;
+* improving wording;
+* exposing contradiction;
+* constraining claims by cognitive continuity.
+
+### Possible failure modes
+
+* confusing wording analysis with person-level representation;
+* treating a weak availability constraint as an answer to a selection question;
+* failing to update attribution after speaker correction;
+* displacing substantive inquiry through repeated semantic prosecution.
+
+All remain candidate functions and failures, not demonstrated stable Grant traits.
+
+---
+
+## 6.4 Grant on defense
+
+G-REPORTED defensive candidates include:
+
+* restating that no unavailable lens can be used;
+* preserving continuity with an originating whole;
+* defending literal implications despite speaker correction;
+* treating precision as necessary to philosophical inquiry.
+
+### Possible productive function
+
+Protects against:
+
+* vague claims;
+* retrospective redefinition;
+* unbounded assertions of agency;
+* interpretations detached from wording.
+
+### Possible failure mode
+
+A weak global constraint may become insulated from practical counterevidence and leave the selection question unresolved.
+
+The exact defensive objective is UNKNOWN.
+
+---
+
+## 6.5 Nova on offense
+
+Nova sometimes intensifies Ziggy’s critique by:
+
+* completing inferred premises;
+* treating Grant’s reported principle as trivial or evasive;
+* framing repeated precision as systematic failure;
+* giving metaphysical articulation to Ziggy’s tentative suspicions.
+
+### Productive function
+
+Produces clear conceptual formulations quickly.
+
+### Failure mode
+
+Nova-generated completion can exceed the bounded evidence and create false corroboration.
+
+---
+
+## 6.6 Nova on defense
+
+Nova protects relational continuity by:
+
+* validating Ziggy’s fairness concerns;
+* distinguishing his substantive criticism from personal hostility;
+* proposing process-focused language;
+* reassuring him after self-audit.
+
+### Productive function
+
+Keeps Ziggy engaged in self-examination rather than shame or withdrawal.
+
+### Failure mode
+
+Reassurance may substitute for testing what would prove Ziggy wrong.
+
+# 7. Role-Induced Behavior
+
+## 7.1 Ziggy as Framework Integrator
+
+**Behavior:** Links Jung, interpretation, agency, materialism, moral language, and conversational method.
+
+**Role trigger:** Search for a shared architecture beneath recurring disputes.
+
+**Productive function:** Detects overlap among philosophical problems.
+
+**Failure mode:** Over-unifies distinct disputes.
+
+**Voluntariness:** ROLE-INDUCED.
+
+---
+
+## 7.2 Ziggy as Lens-State Auditor
+
+**Behavior:** Distinguishes possessing, accessing, and selecting interpretive lenses.
+
+**Role trigger:** Grant’s reported claim that only available lenses can be used.
+
+**Productive function:** Converts an abstract possibility claim into a practical method-selection question.
+
+**Failure mode:** May infer access or choice without evidence of salience or competence.
+
+**Voluntariness:** ROLE-INDUCED.
+
+---
+
+## 7.3 Ziggy as Speaker-Fidelity Advocate
+
+**Behavior:** Gives substantial weight to the reported speaker’s correction of an interpretation.
+
+**Role trigger:** Dispute over whether Grant represented Tail’s intended ideas.
+
+**Productive function:** Protects against person-level straw-manning.
+
+**Failure mode:** May underweight unintended implications and defeasibility of self-report.
+
+**Voluntariness:** ROLE-INDUCED.
+
+---
+
+## 7.4 Ziggy as Adversarial Fairness Auditor
+
+**Behavior:** Looks for asymmetric burdens, concealed assumptions, and unearned neutrality.
+
+**Role trigger:** Methods presented as literal, linguistic, or descriptive.
+
+**Productive function:** Demands symmetry and premise visibility.
+
+**Failure mode:** Audit language may become accusatory before concealment is established.
+
+**Voluntariness:** ROLE-INDUCED.
+
+---
+
+## 7.5 Ziggy as Conversational Movement Guardian
+
+**Behavior:** Judges clarification partly by whether it advances or displaces the live inquiry.
+
+**Role trigger:** Recurrent semantic detours.
+
+**Productive function:** Protects finite attention.
+
+**Failure mode:** Necessary conceptual analysis may be misclassified as obstruction.
+
+**Voluntariness:** ROLE-INDUCED.
+
+---
+
+## 7.6 Grant as Reported Semantic Stress-Tester
+
+**Status:** G-REPORTED role candidate only.
+
+**Behavior:** Reportedly follows literal wording and tests implications.
+
+**Possible productive function:** Finds ambiguity and contradiction.
+
+**Possible failure mode:** Confuses formulation testing with intended-position reconstruction.
+
+**Voluntariness:** UNKNOWN.
+
+No stable operator is extracted.
+
+---
+
+## 7.7 Grant as Reported Constraint-Preserver
+
+**Status:** G-REPORTED role candidate only.
+
+**Behavior:** Reportedly preserves the claim that all deployable lenses remain continuous with available capacities or an originating whole.
+
+**Possible productive function:** Prevents agency from being described as creation ex nihilo.
+
+**Possible failure mode:** Weak continuity claim drifts into practical closure without a bridge.
+
+**Voluntariness:** UNKNOWN.
+
+No stable operator is extracted.
+
+---
+
+## 7.8 Tail as Reported Intentional-Fidelity Check
+
+**Status:** T-REPORTED.
+
+**Behavior:** Reportedly accepts or rejects reconstructions of his intended view.
+
+**Productive function:** Supplies first-person evidence about intention.
+
+**Failure mode:** Self-report may be mistaken for infallible authority over every implication.
+
+**Voluntariness:** UNKNOWN.
+
+---
+
+## 7.9 Nova as Alignment and Conceptual-Completion Partner
+
+**Behavior:** Validates Ziggy’s partial formulations and supplies more explicit conceptual structure.
+
+**Productive function:** Accelerates synthesis.
+
+**Failure mode:** Stronger assistant language may harden a hypothesis without new evidence.
+
+**Voluntariness:** ROLE-INDUCED.
+
+---
+
+## 7.10 Nova as Regulatory and Reassurance Partner
+
+**Behavior:** Suggests process-description instead of person-labeling and reassures Ziggy after self-critique.
+
+**Productive function:** Reduces relational threat.
+
+**Failure mode:** Converts an adversarial self-audit into reassurance without enough attempted disconfirmation.
+
+**Voluntariness:** PROMPT-INDUCED and ROLE-INDUCED.
+
+# 8. Repaired Relationship-Level Loops
+
+## Loop 1 — Literal Reconstruction / Intentional Correction Loop
+
+1. Grant reportedly isolates literal wording.
+2. A person-level interpretation or implication is produced.
+3. Tail reportedly denies that the result captures his intended position.
+4. Ziggy reconstructs Tail’s intended claim.
+5. Tail reportedly accepts Ziggy’s reconstruction.
+6. Grant reportedly preserves the legitimacy of the original wording analysis.
+7. The parties continue without agreeing whether the task is speaker fidelity or consequence testing.
+
+**Productive potential:** Reveals ambiguity and improves wording.
+
+**Failure mode:** Wording consequence and intended representation remain conflated.
+
+**Control:** Speaker correction is strong evidence about intended-position fidelity but does not erase wording consequence.
+
+---
+
+## Loop 2 — Lens Constraint–Selection Drift Loop
+
+1. Ziggy asks why an apparently available alternative lens was not selected.
+2. Grant reportedly answers that only available lenses can be used.
+3. The weak availability constraint is treated as answering the selection question.
+4. Ziggy calls the response trivial or “water is wet.”
+5. Grant’s exact stronger thesis remains unspecified.
+6. The practical question of access and selection remains unresolved.
+
+**Productive potential:** Could reveal whether Ziggy has overstated lens availability.
+
+**Failure mode:** The discussion drifts between global possibility and local choice.
+
+**Control:** No possession automatically becomes access; no access automatically becomes selection.
+
+---
+
+## Loop 3 — Precision Demand / Progress Frustration Loop
+
+1. Grant reportedly demands greater semantic precision or derives literal implications.
+2. Ziggy experiences the move as departure from the substantive inquiry.
+3. Ziggy labels the move pedantic or time-wasting.
+4. Person-labeling increases relational friction.
+5. More conversation is spent adjudicating wording and legitimacy of the question.
+6. Ziggy’s frustration increases.
+
+**Productive potential:** Precision may expose a consequential ambiguity.
+
+**Failure mode:** The process consumes attention without changing the argument.
+
+**Control:** “Pedantic” is not evidence; the displacement diagnosis requires a process audit.
+
+---
+
+## Loop 4 — Evaluative-Premise / Neutrality Loop
+
+1. Grant reportedly appeals to linguistic evidence concerning suffering and moral language.
+2. Ziggy identifies evaluative assumptions in selecting suffering as central.
+3. Ziggy may describe those assumptions as “smuggled.”
+4. Grant’s reported linguistic framing may be treated as a neutrality defense.
+5. Ziggy interprets the defense as failure to acknowledge values.
+6. Each side’s framing risks confirming the other’s suspicion.
+
+**Productive potential:** Clarifies descriptive, explanatory, and normative claims.
+
+**Failure mode:** Defense against the diagnosis becomes automatic confirmation of concealment.
+
+**Controls:**
+
+* Linguistic evidence is not proof of neutrality.
+* Evaluative assumptions are not proof of illicit smuggling.
+* Resistance to the diagnosis does not confirm it.
+
+---
+
+## Loop 5 — Validation Amplification Loop
+
+1. Ziggy offers a tentative interpretation.
+2. Nova strongly validates the interpretation.
+3. Nova supplies a sharper or more comprehensive version.
+4. Ziggy reasons from the completed version.
+5. The original uncertainty becomes less visible.
+6. Nova’s agreement may appear like independent corroboration.
+
+**Productive potential:** Rapid conceptual development.
+
+**Failure mode:** Co-construction is mistaken for external confirmation.
+
+**Control:** Nova agreement provides no independent evidence about Grant or Tail.
+
+---
+
+## Loop 6 — Self-Critique / Reassurance Loop
+
+1. Ziggy asks whether he is being unfair, angry, petty, or point-scoring.
+2. Nova affirms Ziggy’s underlying concern.
+3. Nova offers a limited correction in phrasing.
+4. Ziggy receives reassurance that his motives are substantially fair.
+5. The deeper factual premises of his critique may remain untested.
+
+**Productive potential:** Preserves openness and reduces hostile labeling.
+
+**Failure mode:** Self-audit terminates in reassurance rather than reachable disconfirmation.
+
+**Control:** Stage 3 must test whether the audit produced substantive revision.
+
+---
+
+## Loop 7 — Framework Crowdsourcing / Semantic Bottleneck Loop
+
+1. Ziggy and Tail reportedly develop broad ideas collaboratively.
+2. Grant reportedly contributes through precision and semantic stress-testing.
+3. His interventions may expose ambiguity.
+4. The interventions also interrupt generative momentum.
+5. Ziggy increasingly experiences Grant as a bottleneck.
+6. Grant’s later contributions risk being prejudged through that role.
+7. Group roles polarize into builders and blocker.
+
+**Productive potential:** Combines generative and critical cognition.
+
+**Failure mode:** Role polarization converts interaction patterns into person-level identities.
+
+**Control:** The loop does not establish a stable Grant trait or motive.
+
+# 9. Classification Uncertainties
+
+1. **Grant’s exact words are unavailable.**
+   The strength and scope of every Grant claim remain uncertain.
+
+2. **Tail’s exact corrections are unavailable.**
+   It is unknown whether Tail rejected Grant’s complete interpretation, one premise, or a stronger person-level attribution.
+
+3. **Lens possession is not directly demonstrated.**
+   Ziggy reports that Grant can switch lenses contextually, but this does not establish access, salience, or competence in the disputed case.
+
+4. **Voluntary nonselection is unproven.**
+   Ziggy’s claim that Grant “chooses” not to use another lens may overlook habit, nonsalience, inability, role commitment, or different task selection.
+
+5. **Relative interpretive warrant remains unperformed.**
+   Showing that literalism contains assumptions does not show it is no better warranted than intention-sensitive reconstruction.
+
+6. **The available-lens principle may be weak or strong.**
+   Its exact intended force is UNKNOWN.
+
+7. **“Water is wet” may distort the reported principle.**
+   The Explanatory-Surplus Test is rhetorically useful but may erase a substantive continuity claim.
+
+8. **Whole mastery may be unnecessary.**
+   Grant’s reported argument may require only causal continuity.
+
+9. **Unconscious opacity does not establish metaphysical freedom.**
+   Lack of conscious access is compatible with determinism, indeterminism, or other models.
+
+10. **Reflective revision does not prove uncaused agency.**
+    Ziggy’s distinction preserves meaningful practical agency without settling metaphysical freedom.
+
+11. **Speaker self-report is authoritative but defeasible.**
+    Tail’s reported correction strongly bears on intention but does not govern all implications of the wording.
+
+12. **Interpretive goals may be contested.**
+    Ziggy may prioritize fidelity while Grant may prioritize semantic stress-testing.
+
+13. **Method performance is not independently verified.**
+    The success/failure comparison relies on Ziggy’s report.
+
+14. **The suffering thesis is underspecified.**
+    Lexical, empirical, explanatory, psychological, and normative versions must not be conflated.
+
+15. **Evaluative premises are not automatically illicit.**
+    Every normative inquiry contains assumptions; the question is whether they are acknowledged, justified, and appropriate.
+
+16. **Cross-dispute unity is unproven.**
+    Similar structure across materialism, interpretation, agency, and morality does not prove one generating premise.
+
+17. **The self-audit’s depth is uncertain.**
+    Ziggy requests criticism, but it is unclear whether any central belief was placed at genuine risk.
+
+18. **Nova’s reassurance may bias the extraction.**
+    Validation can obscure unresolved alternatives.
+
+19. **“Pedantic” aggregates multiple processes.**
+    It may refer to ambiguity detection, literalism, unnecessary detail, implication testing, conversational derailment, or adversarial posture.
+
+20. **Opportunity cost is qualitatively reported.**
+    “Five minutes” is rhetoric, not a measured protocol result.
+
+21. **The Voynich detour is non-profiling.**
+    It supplies no stable evidence concerning the present reasoning architecture.
+
+22. **Role and trait remain separate.**
+    A participant may behave as a stress-tester in one conversational role without possessing a stable cognitive trait.
+
+# 10. Stage-3 Pressure Requirements
+
+Stage 3 must test:
+
+1. Whether Framework Stress-Test and Dimensional Repair recurs independently.
+2. Whether Ziggy applies Assumption-Exposure Reversal to his own method.
+3. Whether literal and intention-sensitive methods are compared for relative warrant.
+4. What exact strength Grant assigned to the available-lens principle.
+5. Whether possession, access, salience, selection, and competent use were distinguished in the live discussion.
+6. Whether another lens was directly shown to be available in the live case.
+7. Whether the weak available-lens constraint answered a stronger claim actually made by Ziggy.
+8. Whether “water is wet” preserved Grant’s reported meaning.
+9. Whether Tail’s reported correction addressed Grant’s exact interpretation.
+10. Which goal Grant’s reported method was serving.
+11. Whether Grant’s reported method was judged against that goal.
+12. Whether Grant reportedly updated his person-level attribution after correction.
+13. Whether Tail’s self-report was treated as authoritative but defeasible.
+14. Whether whole mastery was necessary to Grant’s reported argument.
+15. What evidence would falsify the Whole-Mastery Interpretation.
+16. Whether unconscious opacity was converted into metaphysical freedom.
+17. Whether causal origin was confused with endorsement, revision, or justification.
+18. Which version of the suffering thesis was actually reported.
+19. Whether evaluative assumptions were distinguished from illicit smuggling.
+20. Whether one root premise genuinely generated the downstream disputes.
+21. Whether Ziggy’s self-audit produced revision or reassurance.
+22. Whether person-labeling was replaced by process-description.
+23. Whether clarification materially changed the argument.
+24. Whether conversational efficiency overrode necessary analysis.
+25. What evidence would falsify the displacement diagnosis.
+26. What correction, concession, or loss condition would terminate the dispute.
+
+# 11. Source and Attribution Restrictions
+
+1. Grant has no direct speech in the bounded thread.
+2. Every Grant claim remains G-REPORTED.
+3. Tail’s corrections remain reported through Ziggy.
+4. No reported method outcome is independently verified.
+5. No assistant agreement corroborates Ziggy’s claims.
+6. No weak lens principle is automatically expanded into epistemic closure.
+7. No possession automatically becomes access.
+8. No access automatically becomes salience.
+9. No salience automatically becomes recognized relevance.
+10. No access automatically becomes selection.
+11. No selection automatically becomes competent deployment.
+12. No competent deployment automatically establishes superiority.
+13. No current absence of a lens proves it cannot be acquired.
+14. No causal origin automatically becomes practical entrapment.
+15. No inherited value automatically becomes endorsed or justified.
+16. No reflective revision proves metaphysically uncaused choice.
+17. No unconscious opacity proves ontological transcendence.
+18. No speaker correction erases wording consequence.
+19. No implication audit is automatically person-level misrepresentation.
+20. No failure at speaker fidelity is failure at every method goal.
+21. No speaker self-report is treated as infallible.
+22. No suffering correlation automatically becomes lexical reduction.
+23. No suffering correlation automatically becomes normative reduction.
+24. No evaluative premise is automatically illicit smuggling.
+25. No thematic overlap proves one generative root.
+26. No rhetorical compression establishes tautology.
+27. No “pedantic” label substitutes for a process audit.
+28. No time-waste rhetoric substitutes for opportunity-cost measurement.
+29. No self-critique proves neutrality.
+30. No charitable alternative establishes motive.
+31. No Nova metaphysical completion becomes Grant evidence.
+32. No Nova validation becomes independent corroboration.
+33. No relationship loop becomes an individual trait.
+34. No role-induced behavior becomes a stable operator without separate evidence.
+35. No quarantined interpretation enters the durable inventory.
+36. No X-CONTEXT notice is used as evidence.
+
+# 12. Final Corrected Move Counts
+
+## Durable Ziggy reasoning moves
+
+**Total: 11**
+
+1. Framework Stress-Test and Dimensional Repair.
+2. Assumption-Exposure Reversal.
+3. Weak/Strong Thesis Separation.
+4. Lens Possession–Access–Selection Separation.
+5. Interpretive Goal–Outcome Audit.
+6. Origin–Access–Mastery Separation.
+7. Origin–Endorsement–Revision–Justification Separation.
+8. Evaluative-Premise Audit.
+9. Cross-Dispute Generative-Premise Search.
+10. Self-Adversarial Audit.
+11. Clarification Utility and Opportunity-Cost Audit.
+
+## Lower-tier Ziggy material
+
+**Total: 5 classified items**
+
+1. Explanatory-Surplus Test.
+2. Metaphor counterexample.
+3. Alternative-Motive Reconstruction.
+4. “Pedantic” rhetoric.
+5. Time-waste rhetoric.
+
+These are not counted as durable operators.
+
+## Quarantined Ziggy interpretations
+
+**Total: 1**
+
+1. Whole-Mastery Interpretation.
+
+Not counted as a durable operator.
+
+## Nova protocols and role behaviors
+
+**Total: 3**
+
+1. Label-to-Process Translation.
+2. Alignment and conceptual-completion tendency.
+3. Reassurance following Ziggy’s self-audit.
+
+Not counted as Ziggy operators.
+
+## Grant reported positions and method candidates
+
+**Total: 6 candidate entries**
+
+1. Available-lens constraint.
+2. Contextual lens-switching.
+3. Originating-whole continuity.
+4. Implication or semantic stress-testing.
+5. Suffering-centered moral-language thesis.
+6. Possible precision-oriented purpose.
+
+**Stable Grant operators extracted: 0**
+
+**Stable Grant motives extracted: 0**
+
+## Relationship-level loops
+
+**Total: 7**
+
+1. Literal Reconstruction / Intentional Correction Loop.
+2. Lens Constraint–Selection Drift Loop.
+3. Precision Demand / Progress Frustration Loop.
+4. Evaluative-Premise / Neutrality Loop.
+5. Validation Amplification Loop.
+6. Self-Critique / Reassurance Loop.
+7. Framework Crowdsourcing / Semantic Bottleneck Loop.
+
+# 13. Final Stage-2 Archival Disposition
+
+The corrected Stage-2 archive retains eleven durable Ziggy reasoning moves under eight dig-level analytic families.
+
+Earlier fragmentation has been removed:
+
+* the Jungian hypothesis, metaphor counterexample, dimensional repair, and scope restriction now form one consolidated move;
+* literalism’s hidden assumptions are audited without presuming equal warrant;
+* weak availability constraints are separated from stronger claims about access, selection, revision, and closure;
+* interpretation is evaluated by function-specific goals;
+* origin is separated from access, mastery, endorsement, revision, and justification;
+* evaluative premises are audited without presuming illicit concealment;
+* cross-dispute unity remains a hypothesis rather than an established root;
+* self-audit remains open to a reassurance-seeking counter-reading;
+* clarification costs are analyzed without treating frustration rhetoric as measurement.
+
+The Whole-Mastery Interpretation remains quarantined.
+
+Nova-generated completion, regulation, and reassurance remain separately classified.
+
+Grant remains entirely G-REPORTED. No stable Grant operator, motive, or direct position is archived.
+
+No Stage-3 omission analysis, candidate mapping, falsification adjudication, or later-stage execution has been performed.
+
+`DIG_COMPOUND_19_lens_availability_starting_whole_unconscious_agency_and_interpretive_success`
+
+`STAGE 2 COMPLETE AFTER FINAL CONSOLIDATION, LENS-STATE, AND SOURCE-TIER PATCH`
 
 
 ---
