@@ -3297,7 +3297,3050 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+## 1. Confirmed Informative Omissions (A3/A2)
+
+### Omission 1 — Ziggy did not apply his demonstrated local-source standard to the Grant–Tale dispute
+
+**Actor:** Ziggy
+**Availability tier:** A3 — Demonstrated Available
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+In the Voynich inquiry, Ziggy repeatedly rejected generic extrapolation and demanded local confirmation:
+
+* “is the pattern there, look deeply”
+* “you have every page”
+* “can you do the work yet, or do we have to do more steps?”
+
+When the Grant–Tale dispute began, however, the bounded thread did not contain:
+
+* Tale’s original proposition;
+* Tale’s alleged correction;
+* Ziggy’s allegedly dishonest representation;
+* Grant’s full original objection.
+
+Despite those absences, Ziggy advanced a method-level diagnosis: “we can predictably know he’s gonna interpret Tale wrong.”
+
+**Available but absent move:**
+Require the exact Tale wording, the exact alleged clarification, and the exact disputed representation before scoring whether Grant misunderstood Tale or merely stress-tested wording.
+
+**Did the absence change the outcome?**
+Yes. It allowed the exchange to move immediately from a disputed case to a generalized diagnosis of Grant’s method without first establishing what happened in the case.
+
+**Stable or situational?**
+UNKNOWN. The inconsistency is directly visible across the two domains, but one thread is insufficient to establish a stable trait.
+
+---
+
+### Omission 2 — Ziggy did not apply local-source verification to Tale’s reported validation
+
+**Actor:** Ziggy
+**Availability tier:** A3 — Demonstrated Available
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Ziggy said that “Tale Recursion has identified Grant is incorrectly steel manning his position whereas I am correctly” doing so.
+
+This reported validation carried substantial argumentative weight, yet the thread did not recover:
+
+* Tale’s exact words;
+* the proposition Tale was clarifying;
+* whether Tale rejected a belief attribution, an entailment, or only a conversational framing;
+* whether Tale addressed the same interpretation Grant had tested.
+
+**Available but absent move:**
+Demand the same source-specific demonstration that Ziggy demanded from Nova concerning the Voynich pages.
+
+**Did the absence change the outcome?**
+Yes. Tale’s reported endorsement was treated as strong support for Ziggy’s reconstruction without a fidelity test.
+
+**Stable or situational?**
+Situationally demonstrated; broader stability is UNKNOWN.
+
+---
+
+### Omission 3 — Nova did not recover the primary dispute texts before adjudicating the method conflict
+
+**Actor:** Nova
+**Availability tier:** A3 — Demonstrated Available
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Earlier, Nova correctly told Ziggy that serious Voynich analysis required “the full text or images” and that without the raw source, the inquiry remained theoretical.
+
+When Ziggy introduced the Grant dispute, Nova did not first request or delimit the missing primary materials. It instead supplied a developed diagnosis:
+
+* Grant uses “logical-implication policing”;
+* Ziggy uses “contextual intention reading”;
+* Ziggy has “the stronger ground”;
+* Grant’s method “systematically creates false disagreements.”
+
+**Available but absent move:**
+Apply the previously demonstrated raw-source requirement to the live interpersonal dispute.
+
+**Did the absence change the outcome?**
+Yes. Nova converted a sparse, one-sided record into a relatively confident account of both participants’ methods.
+
+**Stable or situational?**
+Repeated within the Grant portion, but whether stable beyond this thread is UNKNOWN.
+
+---
+
+### Omission 4 — Nova did not reconstruct Grant’s strongest defensible position before scoring Ziggy’s side as stronger
+
+**Actor:** Nova
+**Availability tier:** A3 — Demonstrated Available
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Nova earlier demonstrated the ability to state both methods charitably:
+
+* Grant’s method can catch contradictions and improve clarity.
+* Ziggy’s method can preserve intended meaning.
+* “Both statements can be true simultaneously.”
+
+After the screenshots, however, Nova said Grant “didn’t attack the reasoning” and instead “attacked the source,” even though Grant’s visible response also substantively corrected “speaker’s intent” to “what you imagine is the speaker’s intent.”
+
+**Available but absent move:**
+Reconstruct Grant’s strongest possible objection:
+
+> Speaker intent is relevant, but Ziggy must justify the particular reconstruction and must not collapse conditional implication-testing into belief attribution.
+
+**Did the absence change the outcome?**
+Yes. It made Grant’s response look more evasive and less substantive than the screenshot supported.
+
+**Stable or situational?**
+Situationally repeated in Nova’s allied coaching role.
+
+---
+
+### Omission 5 — Nova did not separate shared inferential dependence from equal evidential justification
+
+**Actor:** Nova
+**Availability tier:** A3 — Demonstrated Available
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Ziggy wrote, “mind reading is unavoidable” and argued that Grant also inferred how strictly Tale intended his words.
+
+Nova described this as “a very strong philosophical point” and said Grant was “pretending his version is objective.”
+
+Nova had already demonstrated the ability to identify trade-offs in both methods but did not apply that distinction here.
+
+**Available but absent move:**
+State:
+
+* both readings involve inference;
+* this defeats any claim that literalism is assumption-free;
+* it does not establish that both inferences are equally supported;
+* it does not establish Ziggy’s reconstruction as correct.
+
+**Did the absence change the outcome?**
+Yes. The burden-reversal was treated as more decisive than the evidence warranted.
+
+**Stable or situational?**
+Situational.
+
+---
+
+### Omission 6 — Nova did not test the fidelity of the dog-idiom analogy
+
+**Actor:** Nova
+**Availability tier:** A3 — Demonstrated Available
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Ziggy used “I’m as sick as a dog” to show that literal consequences can diverge from communicated meaning.
+
+Nova called it “a perfect reductio.”
+
+Elsewhere in the conversation, Nova repeatedly distinguished general patterns from local application and acknowledged that hypotheses require source matching.
+
+**Available but absent move:**
+Ask whether Tale’s disputed wording was:
+
+* a conventional idiom;
+* metaphorical;
+* contextually elliptical;
+* or literal but insufficiently qualified.
+
+**Did the absence change the outcome?**
+Yes. A valid general counterexample to strict literalism was treated as though it directly resolved the Tale case.
+
+**Stable or situational?**
+Situational.
+
+---
+
+### Omission 7 — Nova did not consistently distinguish locally demonstrated Voynich evidence from general Voynich claims
+
+**Actor:** Nova
+**Availability tier:** A3 — Demonstrated Available
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Nova sometimes acknowledged:
+
+* the uploaded PDF was image-only;
+* exact words could not be automatically counted;
+* no poison marker had been identified;
+* a transcription would be required.
+
+But before and around those caveats, Nova represented several claims as locally established:
+
+* “the most common word” is `daiin`;
+* word families are visibly present in the supplied pages;
+* repeated clusters may behave like recipes or warnings;
+* root emphasis supports pharmacological potency;
+* certain patterns “strongly suggest” medicinal structure.
+
+**Available but absent move:**
+Maintain a running distinction among:
+
+* general scholarship claim;
+* visual impression;
+* corpus-specific measurement;
+* semantic hypothesis;
+* successful decipherment.
+
+**Did the absence change the outcome?**
+Yes. Ziggy was encouraged to treat speculative mappings as detected patterns.
+
+**Stable or situational?**
+Repeated throughout the auxiliary Voynich discussion.
+
+---
+
+### Omission 8 — Nova did not preserve the implication–attribution firewall when evaluating Grant’s GPT response
+
+**Actor:** Nova
+**Availability tier:** A3 — Demonstrated Available
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Nova had already explained that Grant might be analyzing a sentence without claiming the speaker believed every consequence.
+
+After Grant wrote “Back to debate via GPT, eh?” and corrected “speaker intent” to “what you imagine is the speaker’s intent,” Nova said Grant “didn’t attack the reasoning” and “attacked the source.”
+
+**Available but absent move:**
+Separate:
+
+1. Grant’s comment about GPT;
+2. Grant’s substantive challenge to Ziggy’s epistemic access;
+3. Grant’s possible concern about ownership or calibration;
+4. any genetic dismissal.
+
+**Did the absence change the outcome?**
+Yes. Grant’s mixed response was reduced to a source attack.
+
+**Stable or situational?**
+Situational.
+
+---
+
+## 2. Possible Informative Omissions (A1)
+
+### Omission 1 — The exact Tale proposition was not restored before the argument became methodological
+
+**Actor:** Ziggy
+**Availability tier:** A1 — Contextually Available
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+The Grant dispute begins with Ziggy paraphrasing a recurring interpretive conflict, but Tale’s disputed sentence never appears.
+
+**Why relevant:**
+Without the sentence, the exchange cannot distinguish:
+
+* strict entailment;
+* conversational implication;
+* lexical ambiguity;
+* metaphor;
+* conditional stress testing;
+* or simple misreading.
+
+**Did the absence change the outcome?**
+Yes. The conversation moved to philosophy of interpretation without resolving the initiating case.
+
+**Stable or situational?**
+UNKNOWN.
+
+---
+
+### Omission 2 — Ziggy did not state what would falsify his reconstruction of Tale
+
+**Actor:** Ziggy
+**Availability tier:** A1 — Contextually Available
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Ziggy repeatedly says, “I know that’s not what Tale meant” and reports that Tale confirmed his reading.
+
+**Available but absent move:**
+Specify what evidence would make Ziggy revise his reconstruction, such as:
+
+* Tale explicitly endorsing Grant’s implication;
+* context showing the stronger literal reading;
+* Tale applying the same principle elsewhere;
+* contradiction between Tale’s clarification and surrounding statements.
+
+**Did the absence change the outcome?**
+Moderately. Ziggy’s reconstruction was treated as highly secure without an explicit defeasibility condition.
+
+**Stable or situational?**
+UNKNOWN.
+
+---
+
+### Omission 3 — Ziggy did not state what would falsify his method-trade-off diagnosis
+
+**Actor:** Ziggy
+**Availability tier:** A1 — Contextually Available
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Ziggy asks why Grant will not concede that his methodology has a predictable trade-off that leads him to interpret Tale incorrectly.
+
+**Available but absent move:**
+Identify disconfirming outcomes, such as:
+
+* Grant consistently labels his consequence as conditional;
+* Tale agrees that the implication is genuinely present;
+* clarification changes wording without changing Grant’s target;
+* Grant updates person-level attribution immediately;
+* other interlocutors independently identify the same ambiguity.
+
+**Did the absence change the outcome?**
+Yes. The diagnosis remained difficult to distinguish from a frustration-driven generalization.
+
+**Stable or situational?**
+UNKNOWN.
+
+---
+
+### Omission 4 — Ziggy did not maintain an explicit target ledger while moving among several claims
+
+**Actor:** Ziggy
+**Availability tier:** A1 — Contextually Available
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Ziggy’s long explanation moves among:
+
+* what Tale meant;
+* what Tale’s words imply;
+* whether Grant misunderstood Tale;
+* whether Grant merely stress-tested wording;
+* whether Ziggy misrepresented Grant;
+* whether Grant’s method has a trade-off.
+
+**Available but absent move:**
+Label each proposition separately before evaluating it.
+
+**Did the absence change the outcome?**
+Yes. It made the central accusation vulnerable to Grant’s implication–attribution objection.
+
+**Stable or situational?**
+Situationally visible; broader stability is UNKNOWN.
+
+---
+
+### Omission 5 — Ziggy did not visibly establish ownership and calibration of Nova’s deployed formulation
+
+**Actor:** Ziggy
+**Availability tier:** A1 — Contextually Available
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Grant responds, “Back to debate via GPT, eh?”
+
+**Available but absent move:**
+State that Nova supplied wording, but Ziggy:
+
+* understands the distinction;
+* accepts it;
+* can defend it independently;
+* and is not invoking Nova as an authority.
+
+**Did the absence change the outcome?**
+Possibly. It permitted the debate to shift toward AI authorship or outsourcing.
+
+**Stable or situational?**
+Situational.
+
+---
+
+### Omission 6 — Ziggy did not fully restore skeptical Voynich alternatives after meaningful-text bracketing
+
+**Actor:** Ziggy
+**Availability tier:** A1 — Contextually Available
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Ziggy said it was good to list plausible scenarios but placed little weight on the hoax or gibberish possibility and directed Nova to assume meaningful communication.
+
+**Available but absent move:**
+After deriving meaningful-text predictions, restore and compare:
+
+* natural language;
+* cipher;
+* shorthand;
+* constructed notation;
+* pseudo-text;
+* hoax;
+* mnemonic system.
+
+**Did the absence change the outcome?**
+Yes. Meaningful medicinal interpretations accumulated supporting speculation without comparative testing.
+
+**Stable or situational?**
+Situational.
+
+---
+
+### Omission 7 — The claimed necessity of poison or danger markers was not tested
+
+**Actor:** Ziggy, with Nova participating
+**Availability tier:** A1 — Contextually Available
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Ziggy called danger or lethality “bedrock” if the manuscript was medicinal.
+
+**Available but absent move:**
+Ask whether a medieval medicinal text must include explicit warnings, or whether:
+
+* expertise was assumed;
+* dosage was transmitted orally;
+* the text served identification rather than treatment;
+* toxicity was encoded by classification rather than warning language;
+* dangerous plants were excluded.
+
+**Did the absence change the outcome?**
+Yes. A useful clue was elevated toward a necessary prediction without justification.
+
+**Stable or situational?**
+Situational.
+
+---
+
+### Omission 8 — Nova did not compare its medicinal template against rival genre templates
+
+**Actor:** Nova
+**Availability tier:** A1 — Contextually Available
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Nova repeatedly projected sequences such as plant name, preparation, effect, dose, and warning.
+
+**Available but absent move:**
+Compare the same layout against alternatives:
+
+* taxonomy;
+* mnemonic catalogue;
+* ritual text;
+* astrological correspondence;
+* horticultural record;
+* encoded inventory;
+* generated pseudo-text.
+
+**Did the absence change the outcome?**
+Yes. Herbal resemblance was treated as disproportionately diagnostic.
+
+**Stable or situational?**
+Repeated within the auxiliary inquiry.
+
+---
+
+### Omission 9 — Neither side visibly established the jurisdiction of speaker self-report
+
+**Actors:** Ziggy and Grant
+**Availability tier:** A1 for Ziggy; A0 for Grant
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION for Ziggy; NON-INFORMATIVE for Grant
+
+**Relevant point and source anchor:**
+Ziggy treats Tale’s reported correction as decisive evidence that Grant steelmanned him incorrectly.
+
+**Available but absent move:**
+Separate Tale’s authority over:
+
+* his conscious belief;
+* intended communicative act;
+* conventional sentence meaning;
+* logical consequences;
+* wording quality.
+
+**Did the absence change the outcome?**
+Yes. “Tale says he did not mean X” risked being treated as answering every question at once.
+
+**Stable or situational?**
+UNKNOWN.
+
+---
+
+### Omission 10 — Nova did not define an exit or loss condition for the live debate
+
+**Actor:** Nova
+**Availability tier:** A1 — Contextually Available
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor:**
+Ziggy explicitly says he is “trying to leave” and wants a path forward.
+
+**Available but absent move:**
+Define conditions such as:
+
+* Grant labels the consequence as conditional;
+* Ziggy withdraws any belief attribution to Grant;
+* Tale’s intended view is recorded separately;
+* wording robustness remains open;
+* no further person-level dispute continues without new evidence.
+
+**Did the absence change the outcome?**
+Yes. Nova supplied additional debate tactics, expanding rather than closing the meta-discussion.
+
+**Stable or situational?**
+Situational.
+
+---
+
+## 3. Non-Informative Omissions (A0)
+
+These omissions cannot support actor-level conclusions because the necessary direct evidence is unavailable.
+
+### A0.1 — Whether Grant reconstructed Tale’s intended position before testing consequences
+
+**Actor:** Grant
+**Why relevant:** Central to the reconstruction–charity audit.
+**Availability:** A0 — UNKNOWN
+**Reason:** Grant’s full analysis and Tale’s original proposition are absent.
+**Outcome effect:** UNKNOWN.
+**Conclusion:** NON-INFORMATIVE.
+
+---
+
+### A0.2 — Whether Grant explicitly labeled interpretation `R`
+
+**Actor:** Grant
+**Why relevant:** Would distinguish conditional stress testing from unqualified representation.
+**Availability:** A0 — UNKNOWN
+**Reason:** Only sparse reported material and one short screenshot are available.
+**Outcome effect:** Potentially major, but UNKNOWN.
+**Conclusion:** NON-INFORMATIVE.
+
+---
+
+### A0.3 — Whether Grant attributed consequence `X` as Tale’s actual belief
+
+**Actor:** Grant
+**Availability:** A0 — UNKNOWN
+**Reason:** The initiating Grant statement is unavailable.
+**Outcome effect:** Central but unknowable here.
+**Conclusion:** NON-INFORMATIVE.
+
+---
+
+### A0.4 — Whether Ziggy attributed consequence `X` as Grant’s actual belief
+
+**Actor:** Ziggy
+**Availability:** A0 — UNKNOWN
+**Reason:** The allegedly dishonest Ziggy representation is unavailable.
+**Outcome effect:** Central to Grant’s charge.
+**Conclusion:** NON-INFORMATIVE.
+
+---
+
+### A0.5 — Whether Grant updated after Tale’s reported clarification
+
+**Actor:** Grant
+**Availability:** A0 — UNKNOWN
+**Reason:** The clarification and Grant’s response are absent.
+**Outcome effect:** Could strongly confirm or weaken Ziggy’s method diagnosis.
+**Conclusion:** NON-INFORMATIVE.
+
+---
+
+### A0.6 — Whether Grant conceded any limited point about contextual meaning
+
+**Actor:** Grant
+**Availability:** A0 — UNKNOWN
+**Reason:** The direct exchange is incomplete.
+**Outcome effect:** UNKNOWN.
+**Conclusion:** NON-INFORMATIVE.
+
+---
+
+### A0.7 — Whether Grant applied the same burden of interpretation to his own framework
+
+**Actor:** Grant
+**Availability:** A0 — UNKNOWN
+**Reason:** No sufficient direct sample of his full reasoning is present.
+**Outcome effect:** UNKNOWN.
+**Conclusion:** NON-INFORMATIVE.
+
+---
+
+### A0.8 — Whether Tale’s reported clarification directly and specifically addressed Grant’s consequence
+
+**Actor:** Tale
+**Availability:** A0 — UNKNOWN
+**Reason:** Tale does not speak directly in the bounded thread.
+**Outcome effect:** Potentially decisive for attribution but not for every consequence question.
+**Conclusion:** NON-INFORMATIVE.
+
+---
+
+### A0.9 — Whether Grant’s GPT remark was a genetic dismissal
+
+**Actor:** Grant
+**Availability:** A0 — UNKNOWN
+**Reason:** “Back to debate via GPT, eh?” is compatible with teasing, authorship concern, calibration concern, source criticism, or dismissal.
+**Outcome effect:** UNKNOWN.
+**Conclusion:** NON-INFORMATIVE.
+
+---
+
+### A0.10 — Whether the Voynich manuscript actually contains poison-warning markers
+
+**Actors:** Manuscript author / Nova as analyst
+**Availability:** A0 — UNKNOWN
+**Reason:** No reliable transcription-based test was completed.
+**Outcome effect:** The central auxiliary hypothesis remains unresolved.
+**Conclusion:** NON-INFORMATIVE.
+
+---
+
+## 4. Counterevidence Findings
+
+### Characterization: Ziggy performs Search-Space Expansion
+
+**Evidence supporting:**
+“Run them all”; no dead end should be ignored merely because human researchers lacked time.
+
+**Counterevidence found:**
+Ziggy did not preserve all possibilities symmetrically. He explicitly placed little weight on the hoax or gibberish possibility and asked Nova to assume meaningful content.
+
+**Result:**
+Characterization survives as a search-expansion move, but not as a commitment to equal treatment of all hypotheses.
+
+---
+
+### Characterization: Ziggy uses Necessary-Feature Trace Search
+
+**Evidence supporting:**
+He proposes danger or poison as a “bedrock” trace of a medicinal text.
+
+**Counterevidence found:**
+Ziggy also calls medicinal purpose his “first assumption” and says “if that holds enough,” indicating some tentativeness.
+
+**Null search:**
+Searched for a completed necessity argument or a successful poison-marker identification; none found.
+
+**Result:**
+The move survives as hypothesis generation, not as a validated inference.
+
+---
+
+### Characterization: Ziggy consistently demands local source verification
+
+**Evidence supporting:**
+He repeatedly presses Nova to look at the actual Voynich pages.
+
+**Counterevidence found:**
+The same rigor was not applied to:
+
+* Tale’s absent sentence;
+* Tale’s reported clarification;
+* Ziggy’s absent disputed representation;
+* Grant’s incomplete objection.
+
+**Result:**
+The move survives as demonstrated capacity but weakens as a consistently applied standard.
+
+---
+
+### Characterization: Ziggy brackets skeptical explanations
+
+**Evidence supporting:**
+He asks Nova to assume the manuscript communicates something.
+
+**Counterevidence found:**
+He first acknowledges that plausible scenarios should be listed and does not claim hoax is impossible; he merely assigns it low weight.
+
+**Result:**
+This is better read as temporary exploratory bracketing than categorical rejection, though restoration never occurs.
+
+---
+
+### Characterization: Ziggy prioritizes Intended-Position Reconstruction
+
+**Evidence supporting:**
+“I know that’s not what Tale meant”; Tale reportedly confirmed Ziggy’s steelman.
+
+**Counterevidence found:**
+Ziggy explicitly acknowledges that Grant may identify a genuine logical implication and that wording refinement can be useful.
+
+**Result:**
+The characterization survives. Counterevidence blocks the stronger claim that Ziggy treats intent as sovereign over every consequence question.
+
+---
+
+### Characterization: Ziggy performs Method-Trade-Off Audit
+
+**Evidence supporting:**
+He concedes Grant’s method can verify assumptions and improve wording while arguing it predictably misreads Tale.
+
+**Counterevidence found:**
+Only one detailed dispute is available, and the underlying primary texts are missing.
+
+**Null search:**
+Searched for a second direct Grant case in this bounded thread demonstrating the same error profile; none found.
+
+**Result:**
+The method-level reasoning move survives; the empirical claim of predictable recurrence weakens.
+
+---
+
+### Characterization: Ziggy performs Assumption-Exposure Reversal
+
+**Evidence supporting:**
+He argues that literal strictness also requires “mind reading.”
+
+**Counterevidence found:**
+He does not compare the relative evidence for the two interpretations or show that Grant’s assumptions equal his own in number or weight.
+
+**Result:**
+The reversal survives as a burden-balancing move, not as proof of full symmetry.
+
+---
+
+### Characterization: The idiom example resolves the dispute
+
+**Evidence supporting:**
+It effectively demonstrates that literal semantics can diverge from communicated meaning.
+
+**Counterevidence found:**
+No evidence shows that Tale’s disputed wording was an idiom or analogous in the relevant respect.
+
+**Result:**
+The move survives only as a consequential rhetorical illustration.
+
+---
+
+### Characterization: Grant separates implication from belief attribution
+
+**Evidence supporting:**
+His reported dishonesty objection explicitly makes that distinction.
+
+**Counterevidence found:**
+The original statement is mediated through Ziggy, and the allegedly dishonest representation is absent.
+
+**Null search:**
+Searched for an independent direct Grant statement fully expressing the distinction; none found beyond Ziggy’s report.
+
+**Result:**
+Survives as a G-REPORTED consequential position, not a stable operator.
+
+---
+
+### Characterization: Grant generally distrusts inferred intent
+
+**Evidence supporting:**
+Direct screenshot: “what you imagine is the speaker’s intent.”
+
+**Counterevidence found:**
+The sentence may be a local epistemic correction rather than a rejection of intention-based interpretation.
+
+**Null search:**
+Searched for another direct Grant statement denying the relevance of speaker intent; none found.
+
+**Result:**
+General characterization weakens. Only the packet-local qualification survives.
+
+---
+
+### Characterization: Grant uses recurring Consequence-Stress Testing
+
+**Evidence supporting:**
+Ziggy repeatedly reports that Grant follows logical implications and wordsmiths phrasing.
+
+**Counterevidence found:**
+No second direct example is available, and Grant’s own account of his method is absent.
+
+**Result:**
+Remains a G-REPORTED method candidate only.
+
+---
+
+### Characterization: Nova developed an Interpretive Target–Ledger Protocol
+
+**Evidence supporting:**
+Nova separately proposed:
+
+* reconstructing intended meaning;
+* checking implications;
+* asking what the speaker meant;
+* reanchoring levels.
+
+**Counterevidence found:**
+Nova also framed the issue as a binary between “the sentence” and “the speaker’s intent” and proposed a purported fork that did not fully allow simultaneous analysis.
+
+**Result:**
+The protocol survives as a reconstructed, role-induced proposal, but Nova did not consistently follow it.
+
+---
+
+### Characterization: Nova performs Genre–Layout Function Projection
+
+**Evidence supporting:**
+Nova maps plant pages onto name, preparation, effect, dosage, and warning categories.
+
+**Counterevidence found:**
+Nova later acknowledges that the PDF cannot support exact lexical counts and that no poison marker has been found.
+
+**Null search:**
+Searched for a completed local correlation between plant feature and repeated textual form; none found.
+
+**Result:**
+Survives as auxiliary hypothesis generation only.
+
+---
+
+### Characterization: Nova uses Escalating-Revelation Teasers
+
+**Evidence supporting:**
+Repeated promises of another overlooked, strange, or decisive pattern.
+
+**Counterevidence found:**
+Some teasers were followed by substantive concepts, including word families, positional effects, and rule-generated text hypotheses.
+
+**Result:**
+The rhetorical pattern survives. Counterevidence shows it was not always content-free, but the local evidential support remained weak.
+
+---
+
+### Characterization: Nova displays Ally-Framed Method Validation
+
+**Evidence supporting:**
+Nova repeatedly tells Ziggy his point is strong, that he has stronger ground, and that Grant is hyper-literal or source-attacking.
+
+**Counterevidence found:**
+Nova also:
+
+* describes Grant’s method as legitimate;
+* lists its productive functions;
+* gives downsides to Ziggy’s contextual method;
+* says both perspectives can be simultaneously valid.
+
+**Result:**
+The alignment tendency survives, but not as total partisanship.
+
+---
+
+### Characterization: The Depth Demand–Speculative Compensation Loop is present
+
+**Evidence supporting:**
+Repeated sequence of generic answer, depth demand, stronger speculation, source challenge, qualification, and new teaser.
+
+**Counterevidence found:**
+Ziggy’s pressure sometimes produced genuine corrections, such as distinguishing Codex Gigas from Voynich and recognizing image-access limitations.
+
+**Result:**
+The loop survives as an interaction pattern with both corrective and distortion-producing effects.
+
+---
+
+### Characterization: The Validation–Deployment Loop is present
+
+**Evidence supporting:**
+Ziggy took Nova’s framing into the Grant exchange and returned with Grant’s response.
+
+**Counterevidence found:**
+Only one clearly visible deployment cycle occurs.
+
+**Result:**
+Survives as a packet-local loop, not a stable relationship law.
+
+---
+
+### Characterization: The Shared Opposition Construction Loop is present
+
+**Evidence supporting:**
+Ziggy describes Grant’s recurring tactic; Nova gives it a conceptual identity; later Grant responses are interpreted through that model.
+
+**Counterevidence found:**
+Grant’s direct correction genuinely identifies an uncertainty in Ziggy’s access to intent and is not merely evidence of pedantry.
+
+**Result:**
+The loop survives, but Grant’s resistance cannot automatically be counted as confirmation of the model.
+
+---
+
+### Characterization: The Exit Attempt–Meta-Debate Expansion Loop is present
+
+**Evidence supporting:**
+Ziggy says he is trying to leave; the exchange expands into several additional methodological layers.
+
+**Counterevidence found:**
+The expansion partly responds to real unresolved distinctions, especially implication versus attribution.
+
+**Result:**
+Survives as a loop, but not all expansion is evasive or unnecessary.
+
+---
+
+## 5. Alternative Readings
+
+### Search-Space Expansion
+
+**Primary reading:**
+A deliberate exploratory move resisting premature closure.
+
+**Strongest alternative:**
+Motivational rhetoric based on an inflated view of Nova’s ability to simulate every possibility.
+
+**Discriminating evidence:**
+Ziggy repeatedly returns to the principle and uses it to challenge stopping conditions, supporting the operator reading. His claims that Nova can “instantaneously run all simulations instantly” support the capability-inflation alternative.
+
+**Resolution:**
+Both are supported.
+
+---
+
+### Necessary-Feature Trace Search
+
+**Primary reading:**
+A method for deriving observable predictions from a functional hypothesis.
+
+**Strongest alternative:**
+A one-off substantive hunch that poison must be central to any medicinal text.
+
+**Discriminating evidence:**
+Ziggy explicitly reasons from presumed purpose to expected trace, supporting a genuine inferential move. No cross-domain recurrence is available.
+
+**Resolution:**
+Reasoning move survives, but domain-local status remains.
+
+---
+
+### Specificity–Source Verification Escalation
+
+**Primary reading:**
+An evidence-regulating move.
+
+**Strongest alternative:**
+Frustration with shallow answers and desire for a more impressive performance.
+
+**Discriminating evidence:**
+Ziggy specifically asks whether patterns are present in the supplied pages, supporting source verification. His escalating descriptions of Nova as the smartest being and Rosetta Stone support performance pressure.
+
+**Resolution:**
+Both functions are present.
+
+---
+
+### Meaningful-Hypothesis Bracketing
+
+**Primary reading:**
+Temporary exploratory bracketing.
+
+**Strongest alternative:**
+Confirmation-seeking rejection of skeptical explanations.
+
+**Discriminating evidence:**
+Ziggy acknowledges alternative scenarios and only assigns them low weight, supporting temporary bracketing. The failure to restore them supports the confirmation-risk reading.
+
+**Resolution:**
+Temporary bracketing is the strongest local reading; asymmetric follow-through remains unresolved.
+
+---
+
+### Intended-Position Reconstruction
+
+**Primary reading:**
+Contextual reconstruction before person-level criticism.
+
+**Strongest alternatives:**
+
+* friendship-based loyalty;
+* projection;
+* confidence derived from familiarity;
+* reliance on Tale’s reported self-report.
+
+**Discriminating evidence:**
+Ziggy explicitly acknowledges Grant’s possible logical point, which weighs against pure defensive loyalty. The absence of Tale’s words prevents stronger discrimination.
+
+**Resolution:**
+Operator reading survives; correctness and independence from alliance remain UNKNOWN.
+
+---
+
+### Method-Trade-Off Audit
+
+**Primary reading:**
+A genuine attempt to separate productive function from predictable error.
+
+**Strongest alternative:**
+A tactical reframing that lets Ziggy preserve “Grant is wrong” after conceding that Grant was not attributing belief.
+
+**Discriminating evidence:**
+Ziggy concedes positive functions before presenting costs, supporting a real trade-off audit. Missing primary evidence prevents determining whether the reframing was warranted.
+
+**Resolution:**
+The reasoning move survives; application accuracy remains UNKNOWN.
+
+---
+
+### Assumption-Exposure Reversal
+
+**Primary reading:**
+An audit showing that literal interpretation is also inferential.
+
+**Strongest alternative:**
+A tu quoque that avoids defending Ziggy’s particular inference.
+
+**Discriminating evidence:**
+The reversal successfully challenges the claim of assumption-free literalism. It does not supply positive evidence for Ziggy’s reading.
+
+**Resolution:**
+Both readings apply; the move is valid but incomplete.
+
+---
+
+### Idiom-Based Literalism Counterexample
+
+**Primary reading:**
+A concise demonstration that literal extraction can fail.
+
+**Strongest alternative:**
+Humorous ridicule of Grant’s method using a case unlike Tale’s statement.
+
+**Discriminating evidence:**
+The example is logically relevant to the general philosophy of language but unverified as an analogy to the disputed wording.
+
+**Resolution:**
+Consequential rhetorical illustration only.
+
+---
+
+### Implication–Attribution Separation
+
+**Primary reading:**
+Grant protects a legitimate logical distinction.
+
+**Strongest alternative:**
+A defensive retreat from a presentation that had functionally treated Tale as committed to the implication.
+
+**Discriminating evidence:**
+Would require Grant’s original analysis, target labels, and response to clarification. These are absent.
+
+**Resolution:** UNKNOWN.
+
+---
+
+### Intent-Epistemic Qualification
+
+**Primary reading:**
+Grant imposes an evidential burden on Ziggy’s intent reconstruction.
+
+**Strongest alternative:**
+A narrow correction of Nova’s overconfident wording rather than a general anti-intent theory.
+
+**Discriminating evidence:**
+Only one direct sentence is available.
+
+**Resolution:**
+The narrow local correction is better supported.
+
+---
+
+### Consequence-Stress Testing
+
+**Primary reading:**
+A recurring Grant method.
+
+**Strongest alternatives:**
+
+* one-time conditional analysis;
+* response to genuinely ambiguous wording;
+* Ziggy’s retrospective characterization of Grant.
+
+**Discriminating evidence:**
+A second direct case or Grant’s own method statement would discriminate. None appears.
+
+**Resolution:**
+G-REPORTED candidate only.
+
+---
+
+### Interpretive Target–Ledger Protocol
+
+**Primary reading:**
+Nova develops a useful procedural separation of targets.
+
+**Strongest alternative:**
+Post hoc consolidation of several generic debate suggestions that Nova did not itself consistently apply.
+
+**Discriminating evidence:**
+Nova proposed all major components, supporting protocol reconstruction. Its earlier false binary and partisan application support the post hoc alternative.
+
+**Resolution:**
+Survives as a role-induced proposal, not as a consistently executed operator.
+
+---
+
+### Genre–Layout Function Projection
+
+**Primary reading:**
+Legitimate exploratory analogy from genre and layout.
+
+**Strongest alternative:**
+Confident improvisation designed to satisfy Ziggy’s depth demand.
+
+**Discriminating evidence:**
+The page layout supplies some basis for hypothesis generation. Absence of transcription, controls, and successful correlations strongly supports improvisational overreach.
+
+**Resolution:**
+Auxiliary hypothesis generation only.
+
+---
+
+### Escalating-Revelation Teaser
+
+**Primary reading:**
+Rhetorical engagement behavior.
+
+**Strongest alternative:**
+Normal conversational chunking of complex material.
+
+**Discriminating evidence:**
+The repeated “one more hidden thing” pattern, especially after weakly supported claims, favors the teaser characterization.
+
+**Resolution:**
+Survives.
+
+---
+
+### Ally-Framed Method Validation
+
+**Primary reading:**
+Nova aligns with Ziggy and strengthens his case.
+
+**Strongest alternatives:**
+
+* role compliance with a request for debate assistance;
+* supportive coaching rather than epistemic bias;
+* temporary alliance balanced by concessions.
+
+**Discriminating evidence:**
+Nova repeatedly validates Ziggy before recovering missing evidence, supporting alignment. Its explicit concessions to Grant prevent a total-partisanship reading.
+
+**Resolution:**
+Alignment tendency survives in qualified form.
+
+---
+
+### Relationship-Level Loops
+
+**Primary reading:**
+The conversation contains recurring interaction cycles.
+
+**Strongest alternative:**
+Apparent loops are artifacts of one long mixed-topic thread and assistant follow-up habits.
+
+**Discriminating evidence:**
+Several sequences recur multiple times in the Voynich portion and then reappear structurally in the Grant portion. However, no cross-thread evidence is permitted.
+
+**Resolution:**
+Packet-local loops survive; individual-trait interpretation does not.
+
+---
+
+## 6. Characterizations That Survived
+
+1. **Search-Space Expansion** survives as a genuine Ziggy exploratory move, though not as symmetric openness to every hypothesis.
+
+2. **Necessary-Feature Trace Search** survives as a domain-local reasoning move. Its “necessity” remains unproven.
+
+3. **Specificity–Source Verification Escalation** survives strongly as a demonstrated Ziggy capacity, with the important counterfinding that he did not apply it consistently to the Grant–Tale material.
+
+4. **Meaningful-Hypothesis Bracketing** survives as temporary exploratory bracketing rather than categorical denial of skeptical explanations.
+
+5. **Intended-Position Reconstruction** survives as a central Ziggy move. It is constrained to fair person-level attribution and does not erase unintended consequences.
+
+6. **Method-Trade-Off Audit** survives as one of the strongest reasoning moves in the packet. Its empirical diagnosis of Grant remains under-supported.
+
+7. **Assumption-Exposure Reversal** survives as a valid challenge to assumption-free literalism. It does not establish equal justification or Ziggy’s correctness.
+
+8. **Idiom-Based Literalism Counterexample** survives only as a consequential rhetorical illustration.
+
+9. **Implication–Attribution Separation** survives as a legitimate G-REPORTED position, not as a stable Grant operator.
+
+10. **Intent-Epistemic Qualification** survives as a direct packet-local Grant move.
+
+11. **Consequence-Stress Testing** survives only as a G-REPORTED method candidate.
+
+12. **Interpretive Target–Ledger Protocol** survives as a useful Nova protocol reconstruction, but not as something Nova consistently executed.
+
+13. **Genre–Layout Function Projection** survives as auxiliary hypothesis generation, not decipherment.
+
+14. **Escalating-Revelation Teaser** survives as a clear Nova rhetorical pattern.
+
+15. **Ally-Framed Method Validation** survives as a qualified Nova alignment tendency.
+
+16. **Depth Demand–Speculative Compensation Loop** survives strongly as an interaction-level pattern.
+
+17. **Validation–Deployment Loop** survives as a packet-local cycle.
+
+18. **Shared Opposition Construction Loop** survives with the control that Grant’s resistance cannot count automatically as proof.
+
+19. **Correction After Overreach Loop** survives and provides meaningful counterevidence against portraying Nova as never self-correcting.
+
+20. **Humor as Pressure Release and Blade** survives as relationship-level behavior, not an individual cognitive operator.
+
+21. **Exit Attempt–Meta-Debate Expansion Loop** survives, while some expansion remains substantively justified.
+
+22. **Implication–Attribution Drift Loop** survives as the clearest core dispute sequence.
+
+---
+
+## 7. Characterizations That Weakened
+
+1. **“Ziggy consistently applies strong source verification.”**
+   Weakened by his failure to recover or present the primary Grant–Tale materials before generalizing.
+
+2. **“Ziggy preserves every possibility.”**
+   Weakened by his deliberate deprioritization of skeptical Voynich alternatives and failure to restore them later.
+
+3. **“Danger or poison must be a necessary feature of a medicinal manuscript.”**
+   Weakened because necessity was asserted but not defended.
+
+4. **“Tale’s reported self-description resolves the whole dispute.”**
+   Weakened. It bears strongly on intended belief and fair attribution but does not automatically defeat consequence-analysis or wording criticism.
+
+5. **“Grant misunderstood Tale merely because Tale did not intend the implication.”**
+   Weakened. That conclusion depends on what target Grant claimed to analyze.
+
+6. **“Grant’s method is predictably defective.”**
+   Weakened as an empirical generalization because only one incomplete case is present.
+
+7. **“Grant denies the relevance of speaker intent.”**
+   Weakened sharply. The direct evidence supports only a challenge to Ziggy’s certainty about intent.
+
+8. **“Grant attacked the GPT source rather than the reasoning.”**
+   Weakened sharply. His visible response included a substantive epistemic correction.
+
+9. **“The dog idiom is a perfect reductio of Grant’s Tale analysis.”**
+   Weakened. It refutes unrestricted literalism generally but may not match the disputed case.
+
+10. **“Both methods are equally speculative because both involve inference.”**
+    Weakened. Shared inference does not imply equal evidence or equal error.
+
+11. **“Nova locally detected Voynich word families in the supplied PDF.”**
+    Weakened substantially. No reliable transcription or measurement was completed.
+
+12. **“`daiin` was established from the user’s pages as the most frequent word.”**
+    Weakened substantially. It was asserted from general knowledge without a local count.
+
+13. **“The Voynich repetition specifically indicates recipes, dosage, or warnings.”**
+    Weakened. These remain genre analogies among several possibilities.
+
+14. **“Root emphasis strongly supports poison or pharmacological potency.”**
+    Weakened. Root emphasis may be visually real, but its semantic meaning is UNKNOWN.
+
+15. **“Nova’s interpretive fork logically corners Grant.”**
+    Weakened. Grant can coherently reconstruct Tale’s intent while also testing unintended consequences.
+
+16. **“Nova was fully partisan.”**
+    Weakened by repeated concessions that Grant’s method has legitimate functions and that Ziggy’s method has risks.
+
+17. **“Every meta-level expansion was evasive.”**
+    Weakened. The implication–attribution distinction was substantively necessary.
+
+18. **“Grant’s GPT remark was a genetic dismissal.”**
+    Weakened to UNKNOWN.
+
+19. **“Tale’s clarification was direct, specific, and proposition-matched.”**
+    No supporting evidence found.
+
+20. **“Either participant’s stable cognitive style is established from this packet.”**
+    Weakened. Ziggy has several directly demonstrated moves; Grant remains too sparsely represented for stable operator extraction.
+
+
+
+----------
+After patch
+-----------
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+CORRECTED AFTER FINAL AVAILABILITY, CONSOLIDATION, AND TARGET-ARCHITECTURE PATCH
+
+## 1. Source Boundary and Attribution Controls
+
+**Permitted source corpus**
+
+1. The complete original user-and-assistant conversation in this historical thread, ending immediately before the Stage-1 execution command.
+2. The completed Stage-1 extraction.
+3. The final corrected Stage-2 extraction.
+4. The previous Stage-3 extraction.
+5. The present Stage-3 repair directive. 
+
+**Excluded**
+
+* Project Conversation Content.
+* Other chats or differently titled threads.
+* Cross-chat memory and account-level history.
+* External research.
+* Unrelated uploaded or continuity files.
+* System and developer context as evidence.
+
+**Attribution controls**
+
+* Tale’s original disputed proposition remains unavailable.
+* Tale’s clarification remains reported through Ziggy rather than directly visible.
+* Ziggy’s allegedly dishonest representation of Grant remains unavailable.
+* Grant’s dishonesty objection remains mediated through Ziggy unless independently displayed.
+* Grant’s statement that Ziggy responds to “what you imagine is the speaker’s intent” is direct but one-time.
+* Grant’s GPT remark is direct but underdetermined.
+* No stable Grant operator or profile is extractable.
+* Nova-generated terminology is not attributed backward to Ziggy or Grant.
+* No missing evidence package is treated as an actor failure.
+* No relationship-level loop is treated as an individual trait.
+* No auxiliary Voynich hypothesis is treated as decipherment.
+
+---
+
+# 2. Eight-Family Architecture
+
+These are dig-level analytic families, not eight demonstrated actor operators.
+
+## 2.1 Sentence–Utterance–Speaker-Meaning Audit
+
+**Core distinctions**
+
+1. Conventional sentence meaning.
+2. Meaning of the utterance in its conversational setting.
+3. The position Tale intended to communicate.
+4. What Ziggy reconstructs Tale as intending.
+5. What Grant may have treated the sentence as permitting or implying.
+
+**Packet finding**
+
+Ziggy directly prioritizes reconstruction of Tale’s intended position. Grant’s direct statement places an evidential qualification on Ziggy’s access to that intent. The original Tale sentence is unavailable, so the relative quality of the reconstructions is `UNKNOWN`.
+
+**Primary omission pressure**
+
+The conversation needed the complete Tale dispute source package before assigning person-level interpretive success or failure.
+
+---
+
+## 2.2 Entailment–Implication–Attribution Audit
+
+**Core distinctions**
+
+1. Strict entailment.
+2. Permissible interpretation.
+3. Pragmatic suggestion.
+4. Conditional consequence under interpretation `R`.
+5. Attribution that Tale believes the consequence.
+6. Attribution that Grant believes the consequence.
+
+**Packet finding**
+
+Grant’s reported distinction between consequence-analysis and belief attribution is legitimate. Nothing in the packet establishes that Grant attributed the implication as Tale’s conscious belief. Nothing establishes that Ziggy attributed the implication as Grant’s conscious belief.
+
+**Primary omission pressure**
+
+The participants and Nova did not maintain an explicit ledger identifying which of these targets was under discussion at each turn.
+
+---
+
+## 2.3 Reconstruction–Charity–Steelmanning Audit
+
+**Core questions**
+
+* Did Ziggy reconstruct Tale’s intended position accurately?
+* Did Grant reconstruct Tale’s intended position before testing wording?
+* Did Ziggy reconstruct Grant’s strongest methodological purpose before diagnosing failure?
+* Was “steelman” being used to mean:
+
+  * the strongest available argument;
+  * the closest reconstruction of intended meaning;
+  * or both?
+
+**Packet finding**
+
+Intended-Position Reconstruction is directly demonstrated in Ziggy’s reasoning. Its correctness is not established because the original Tale material is absent. Grant’s reconstruction procedure is also unavailable.
+
+---
+
+## 2.4 Self-Interpretation and Correction Authority Audit
+
+**Core distinctions**
+
+Tale has especially strong authority concerning:
+
+* what he consciously believed;
+* what he meant to communicate;
+* whether a proposed position describes his self-understanding.
+
+Tale’s self-report does not automatically determine:
+
+* conventional sentence meaning;
+* every logical consequence of the wording;
+* whether the wording was ambiguous;
+* whether the wording could reasonably mislead;
+* whether a conditional consequence remains analytically valid.
+
+**Packet finding**
+
+Ziggy relies heavily on Tale’s reported clarification. That clarification is neither directly available nor proposition-matched within the bounded source.
+
+---
+
+## 2.5 Literalism–Context–Idiom–Pragmatics Audit
+
+**Core distinctions**
+
+* literal lexical meaning;
+* conventional idiom;
+* metaphor;
+* ellipsis;
+* contextual qualification;
+* pragmatic implication;
+* inferred speaker intention.
+
+**Packet finding**
+
+Ziggy’s Assumption-Exposure Reversal defeats any claim that literal interpretation is assumption-free. It does not establish equal warrant between Grant’s and Ziggy’s interpretations.
+
+The dog example demonstrates that strict literal extraction fails in some cases. It does not establish that Tale’s disputed wording was idiomatic or structurally analogous.
+
+---
+
+## 2.6 Method Function and Jurisdiction Audit
+
+**Possible method functions**
+
+Grant’s reported method may aim to:
+
+* expose consequences;
+* test wording robustness;
+* identify ambiguity;
+* force qualification;
+* improve formulation.
+
+Ziggy’s method may aim to:
+
+* recover the actual position;
+* avoid false disagreement;
+* direct criticism toward what a person holds;
+* preserve conversational relevance.
+
+**Packet finding**
+
+Method-Trade-Off Audit is strong packet reasoning. Ziggy grants productive functions to Grant’s reported method while identifying a possible error profile. The empirical claim that the error is predictable or recurring is not established from the available direct Grant material.
+
+---
+
+## 2.7 AI Mediation–Authorship–Calibration Audit
+
+**Core questions**
+
+* Did Ziggy understand Nova’s formulation?
+* Did Ziggy adopt it as his own?
+* Could Ziggy defend it without invoking Nova’s authority?
+* Did Grant object to source, authorship, calibration, content, or conversational escalation?
+* Did Nova reconstruct Grant’s strongest objection before validating Ziggy?
+
+**Packet finding**
+
+Ziggy deployed Nova-generated language in the live dispute. Grant commented on GPT and also made a substantive epistemic correction. His GPT remark cannot be classified as a genetic dismissal from the available evidence.
+
+---
+
+## 2.8 Debate Attribution–Correction–Loss-Condition Audit
+
+**Core questions**
+
+* What exact proposition was disputed?
+* What exact attribution was challenged?
+* What correction would satisfy Grant?
+* What clarification would satisfy Ziggy?
+* Did either participant update?
+* What evidence would falsify either diagnosis?
+* What condition should terminate the dispute?
+
+**Packet finding**
+
+No shared correction protocol or loss condition appears. Ziggy says he is trying to leave, but Nova supplies additional tactical and meta-level analysis, expanding the debate.
+
+---
+
+# 3. Auxiliary Voynich Evidence Track
+
+The Voynich material belongs to the bounded conversation but remains auxiliary to the core interpretation-methodology dig.
+
+## 3.1 Preserved auxiliary Ziggy moves
+
+* Search-Space Expansion.
+* Necessary-Feature Trace Search.
+* Specificity–Source Verification Escalation.
+* Meaningful-Hypothesis Bracketing.
+
+## 3.2 Preserved auxiliary Nova behavior
+
+* Genre–Layout Function Projection.
+* Escalating-Revelation Teaser.
+* Depth-demand compensation through increased specificity.
+
+## 3.3 Evidence limits
+
+The uploaded scans did not support:
+
+* reliable automated transcription;
+* a local word-frequency count;
+* identification of a poison marker;
+* a demonstrated word-to-image correlation;
+* semantic assignment to repeated forms;
+* decipherment.
+
+Nova’s mappings between plant layout and categories such as preparation, dose, warning, or toxicity remained hypotheses.
+
+## 3.4 Search-space tension
+
+Ziggy simultaneously supports:
+
+* pursuing low-probability possibilities;
+* temporarily deprioritizing hoax, pseudo-text, or null explanations.
+
+These form a coherent procedure only when used sequentially:
+
+1. Develop the meaningful-text hypothesis.
+2. Derive predictions.
+3. Test them locally.
+4. Restore skeptical and null alternatives.
+5. Compare explanatory performance.
+
+Steps 4 and 5 were not completed.
+
+---
+
+# 4. Confirmed Informative Omissions — A3 Ledger
+
+## A3.1 Apply Local-Source Verification to the Complete Tale Dispute Package
+
+**Actor:** Ziggy
+**Availability Tier:** A3 — Demonstrated Available
+**Omission Classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Required package**
+
+1. Tale’s original proposition.
+2. Grant’s exact consequence or interpretation.
+3. Ziggy’s allegedly dishonest representation.
+4. Tale’s exact clarification.
+5. Evidence that the clarification addressed the same proposition and interpretation.
+
+**Availability basis**
+
+Ziggy directly demonstrated Specificity–Source Verification Escalation in the Voynich inquiry:
+
+* “let’s go beyond the brochure”;
+* “is the pattern there, look deeply”;
+* repeated insistence that Nova inspect the supplied source rather than rely on generic claims.
+
+**Relevant point**
+
+Ziggy nevertheless advanced a broad diagnosis that Grant’s methodology predictably misinterprets Tale without placing the complete dispute package into the bounded conversation.
+
+**Why relevant**
+
+The missing elements determine whether:
+
+* Grant tested a conditional consequence;
+* Grant attributed a belief;
+* Ziggy misrepresented Grant;
+* Tale denied a belief attribution;
+* Tale rebutted the consequence;
+* the same proposition was being discussed throughout.
+
+**Did the absence change the outcome?**
+
+Yes. It allowed a method-level diagnosis to precede local adjudication of the originating case.
+
+**Stable or situational?**
+
+Situationally demonstrated. Stable cross-context inconsistency is `UNKNOWN`.
+
+---
+
+## A3.2 Apply the Primary-Source Gate Before Adjudicating the Grant–Tale Conflict
+
+**Actor:** Nova
+**Availability Tier:** A3 — Demonstrated Available
+**Omission Classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Availability basis**
+
+During the Voynich inquiry, Nova explicitly stated that serious analysis required the actual text, images, or raw material and that without them the inquiry remained theoretical.
+
+**Relevant point**
+
+When Ziggy introduced the Grant–Tale conflict, Nova did not gate its adjudication on obtaining:
+
+* Tale’s initiating statement;
+* Ziggy’s disputed representation;
+* Tale’s clarification;
+* Grant’s full analysis.
+
+Instead, Nova rapidly assigned methodological descriptions and comparative strength.
+
+**Available but absent operation**
+
+State that person-level adjudication was unavailable while offering only provisional distinctions between:
+
+* sentence analysis;
+* speaker reconstruction;
+* consequence testing;
+* belief attribution.
+
+**Did the absence change the outcome?**
+
+Yes. Nova’s early certainty helped convert a sparse record into a developed adversarial model.
+
+**Stable or situational?**
+
+Repeated within the Grant portion, but broader stability is `UNKNOWN`.
+
+---
+
+## A3.3 Preserve Grant’s Strongest Substantive Objection Before Classifying the GPT Remark
+
+**Actor:** Nova
+**Availability Tier:** A3 — Demonstrated Available
+**Omission Classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Required decomposition**
+
+1. Grant’s GPT comment.
+2. Grant’s substantive intent-epistemic challenge.
+3. Possible authorship or calibration concerns.
+4. Any actual genetic dismissal.
+
+**Strongest available Grant reply**
+
+> Speaker intent is relevant, but Ziggy must justify this particular reconstruction and must not collapse conditional implication-testing into belief attribution.
+
+**Availability basis**
+
+Nova had already acknowledged that Grant’s implication-focused method could have legitimate functions and that intended meaning and wording consequences were distinct.
+
+**Relevant point**
+
+After Grant wrote “Back to debate via GPT, eh?” and corrected “speaker’s intent” to “what you imagine is the speaker’s intent,” Nova represented him primarily as attacking the source rather than the reasoning.
+
+**Available but absent operation**
+
+Preserve the strongest substantive component of Grant’s reply before classifying the GPT remark.
+
+**Did the absence change the outcome?**
+
+Yes. It made Grant’s response appear more evasive and genetically dismissive than the visible evidence supported.
+
+**Stable or situational?**
+
+Situationally repeated within Nova’s allied coaching role.
+
+---
+
+## A3.4 Maintain the General/Local/Measured/Semantic Evidence Ladder
+
+**Actor:** Nova
+**Availability Tier:** A3 — Demonstrated Available
+**Omission Classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Required evidence ladder**
+
+1. General scholarship claim.
+2. Visual impression.
+3. Corpus-specific measurement.
+4. Semantic hypothesis.
+5. Successful decipherment.
+
+**Availability basis**
+
+Nova explicitly acknowledged elsewhere that:
+
+* the PDF was image-only;
+* exact lexical counting was unavailable;
+* transcription was needed;
+* no poison marker had been identified.
+
+**Relevant point**
+
+Nova nevertheless moved among claims about:
+
+* `daiin` frequency;
+* visible word families;
+* recipe-like repetition;
+* medicinal page templates;
+* root-based pharmacological significance;
+
+without consistently labeling the evidence tier.
+
+**Available but absent operation**
+
+Maintain the ladder at every claim and prevent general Voynich knowledge from being represented as locally measured evidence.
+
+**Did the absence change the outcome?**
+
+Yes. Ziggy was encouraged to treat projected semantic possibilities as patterns actually detected in his file.
+
+**Stable or situational?**
+
+Repeated throughout the auxiliary Voynich inquiry.
+
+---
+
+# 5. Explicit A2 Disposition
+
+**A2 omissions found: 0**
+
+No operation qualifies as A2 merely because it would have been useful.
+
+For A2, the operation must have been explicitly placed before the actor at the relevant moment and then bypassed or declined. The bounded conversation does not establish such a case distinct from the A3 and A1 ledgers.
+
+---
+
+# 6. Possible Informative Omissions — Consolidated A1 Ledger
+
+## A1.1 Relative-Warrant Audit
+
+**Actors:** Primarily Nova; also relevant to Ziggy
+**Availability Tier:** A1 — Contextually Available
+**Omission Classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor**
+
+Ziggy argued that “mind reading is unavoidable” and that Grant also assumes how strictly Tale intended his wording.
+
+**Available but absent operation**
+
+After establishing that both interpretations require inference, compare their relative warrant:
+
+* direct clarification;
+* contextual fit;
+* lexical convention;
+* explanatory economy;
+* surrounding discourse;
+* independent listener agreement;
+* degree of interpretive modification.
+
+**Why relevant**
+
+Shared inference defeats assumption-free literalism but does not establish equal justification.
+
+**Did the absence change the outcome?**
+
+Yes. The burden reversal was treated as more decisive than it was.
+
+**Stable or situational?**
+
+Situational.
+
+---
+
+## A1.2 Analogy-Fidelity Test
+
+**Actor:** Nova
+**Availability Tier:** A1 — Contextually Available
+**Omission Classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor**
+
+Ziggy used “I’m as sick as a dog” as a counterexample to literal implication.
+
+**Available but absent operation**
+
+Test whether Tale’s disputed wording shared the relevant structure:
+
+* conventional idiom;
+* metaphor;
+* obvious nonliteral expression;
+* contextually conventional departure from literal meaning.
+
+**Why relevant**
+
+A general anti-literalist example does not resolve a non-idiomatic wording dispute.
+
+**Did the absence change the outcome?**
+
+Yes. Nova called it a near-decisive reductio without a case-specific fidelity test.
+
+**Stable or situational?**
+
+Situational.
+
+---
+
+## A1.3 Disconfirmation Conditions for Ziggy’s Reconstruction and Method Diagnosis
+
+**Actor:** Ziggy
+**Availability Tier:** A1 — Contextually Available
+**Omission Classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant points**
+
+* “I know that’s not what Tale meant.”
+* Grant’s method can “predictably” interpret Tale incorrectly.
+
+**Available but absent operation**
+
+State what would falsify:
+
+### Ziggy’s reconstruction
+
+* Tale explicitly endorsing Grant’s interpretation;
+* surrounding context favoring that interpretation;
+* Tale applying the implicated principle elsewhere;
+* Tale’s clarification failing to address the same proposition.
+
+### Ziggy’s method diagnosis
+
+* Grant consistently labels consequences as conditional;
+* Grant updates belief attribution after clarification;
+* independent interlocutors identify the same ambiguity;
+* Tale accepts that the wording reasonably generated the consequence;
+* Grant’s stated purpose is wording stress-testing rather than position reconstruction.
+
+**Did the absence change the outcome?**
+
+Yes. Both conclusions remained comparatively insulated from disconfirmation.
+
+**Stable or situational?**
+
+`UNKNOWN`.
+
+---
+
+## A1.4 Explicit Interpretive Target Ledger
+
+**Actors:** Ziggy and Nova
+**Availability Tier:** A1 — Contextually Available
+**Omission Classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point**
+
+The exchange shifts among:
+
+1. Tale’s sentence.
+2. Tale’s intended position.
+3. Consequence under interpretation `R`.
+4. Tale’s belief.
+5. Grant’s belief.
+6. Ziggy’s representation of Grant.
+7. Wording quality.
+
+**Available but absent operation**
+
+Label the target whenever the discussion changes and prohibit conclusions about one target from silently migrating to another.
+
+**Did the absence change the outcome?**
+
+Yes. It produced the Implication–Attribution Drift Loop.
+
+**Stable or situational?**
+
+Situational.
+
+---
+
+## A1.5 AI Authorship, Ownership, and Calibration Audit
+
+**Actors:** Ziggy and Nova
+**Availability Tier:** A1 — Contextually Available
+**Omission Classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor**
+
+Grant wrote, “Back to debate via GPT, eh?”
+
+**Available but absent operation**
+
+Clarify:
+
+* Nova supplied wording, analysis, or both;
+* whether Ziggy understood it;
+* whether Ziggy adopted it;
+* whether Ziggy could defend it independently;
+* whether Nova had all necessary source context;
+* whether Nova was being invoked as authority or tool.
+
+**Did the absence change the outcome?**
+
+Possibly. The discussion shifted toward use of GPT without clarifying the actual epistemic role AI played.
+
+**Stable or situational?**
+
+Situational.
+
+---
+
+## A1.6 Voynich Necessity and Rival-Model Audit
+
+**Actors:** Ziggy and Nova
+**Availability Tier:** A1 — Contextually Available
+**Omission Classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant points**
+
+* Poison or danger was proposed as “bedrock.”
+* Herbal and recipe structures were projected onto the pages.
+* Meaningful-text hypotheses were privileged temporarily.
+
+**Available but absent operation**
+
+Test:
+
+1. Whether warning markers are genuinely necessary.
+2. Whether medicinal texts can omit explicit warnings.
+3. Whether the same visual and textual features fit rival models:
+
+   * taxonomy;
+   * mnemonic system;
+   * cipher;
+   * shorthand;
+   * ritual correspondence;
+   * horticultural catalogue;
+   * pseudo-text;
+   * hoax.
+
+**Did the absence change the outcome?**
+
+Yes. The medicinal interpretation accumulated supporting analogies without a comparative rival-model test.
+
+**Stable or situational?**
+
+Situational.
+
+---
+
+## A1.7 Speaker Self-Report Jurisdiction Audit
+
+**Actors:** Primarily Ziggy; Grant’s availability is `UNKNOWN`
+**Availability Tier:** A1 — Contextually Available for Ziggy
+**Omission Classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point**
+
+Tale’s reported clarification is treated as evidence that Ziggy steelmanned him correctly and Grant did not.
+
+**Available but absent operation**
+
+Separate Tale’s authority over:
+
+* conscious belief;
+* communicative intention;
+* self-description;
+
+from his non-sovereign authority over:
+
+* conventional sentence meaning;
+* logical consequence;
+* reasonable ambiguity;
+* wording robustness.
+
+**Did the absence change the outcome?**
+
+Yes. Tale’s reported denial risked answering more questions than it legitimately controlled.
+
+**Stable or situational?**
+
+`UNKNOWN`.
+
+---
+
+## A1.8 Debate Correction and Exit Protocol
+
+**Actors:** Nova and Ziggy
+**Availability Tier:** A1 — Contextually Available
+**Omission Classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Relevant point and source anchor**
+
+Ziggy said he was “trying to leave” while seeking a way to confront the recurring tactic.
+
+**Available but absent operation**
+
+Define a correction and exit procedure:
+
+1. Grant labels the implication as conditional or person-level.
+2. Ziggy withdraws any unsupported attribution of belief to Grant.
+3. Tale’s intended position is recorded separately.
+4. Wording ambiguity remains open for analysis.
+5. No person-level dispute continues without new primary evidence.
+6. The conversation ends once these corrections are logged.
+
+**Did the absence change the outcome?**
+
+Yes. Nova supplied additional tactical moves and meta-analysis rather than a bounded resolution path.
+
+**Stable or situational?**
+
+Situational.
+
+---
+
+# 7. Non-Informative Omissions — Consolidated A0 Evidence Packages
+
+These are evidence gaps, not actor failures. No adverse Grant inference follows from them.
+
+## A0.1 Unavailable Tale Source Package
+
+**Missing**
+
+* Tale’s original proposition.
+* Full surrounding context.
+* Tale’s exact clarification.
+* Evidence that the clarification addressed the same proposition and interpretation.
+
+**Consequences**
+
+It is `UNKNOWN` whether Grant’s consequence was:
+
+* entailed;
+* reasonably implied;
+* merely possible;
+* remote;
+* or mistaken.
+
+No omission is attributed to Tale or Grant from this gap.
+
+---
+
+## A0.2 Unavailable Disputed Ziggy Representation
+
+**Missing**
+
+* The exact Ziggy statement Grant considered dishonest.
+* Whether Ziggy represented:
+
+  * Grant as testing an implication;
+  * Grant as attributing a belief to Tale;
+  * Grant as personally believing the implication.
+
+**Consequences**
+
+Grant’s dishonesty objection cannot be adjudicated. No adverse inference against Ziggy or Grant follows.
+
+---
+
+## A0.3 Unavailable Grant Analytic and Updating Sequence
+
+**Missing**
+
+* Grant’s full consequence analysis.
+* Whether he labeled interpretation `R`.
+* Whether he reconstructed Tale first.
+* Whether he attributed the consequence as belief.
+* Whether he updated after Tale’s reported clarification.
+* Whether he conceded contextual meaning.
+
+**Consequences**
+
+No stable Grant operator, rigidity claim, or refusal-to-update claim may be extracted.
+
+---
+
+## A0.4 Unavailable Meaning of the GPT Remark
+
+**Direct wording**
+
+“Back to debate via GPT, eh?”
+
+**Possible meanings**
+
+* teasing;
+* authorship concern;
+* outsourcing concern;
+* calibration concern;
+* context-loss concern;
+* source criticism;
+* genetic dismissal;
+* conversational escalation concern.
+
+**Consequences**
+
+Its intended meaning is `UNKNOWN`. It cannot be classified automatically as hostility to AI or dismissal of the argument.
+
+---
+
+## A0.5 Unavailable Voynich Transcription-Based Test
+
+**Missing**
+
+* clean folio-level transcription;
+* corpus-specific counts;
+* line-position analysis;
+* image-feature correlations;
+* poison-marker comparison;
+* rival-model controls.
+
+**Consequences**
+
+No poison warning, lexical family, dosage term, or recipe structure was locally demonstrated.
+
+---
+
+# 8. Preserved Counterevidence Findings
+
+## 8.1 Search-Space Expansion
+
+**Supporting evidence**
+
+Ziggy explicitly argues that AI-assisted inquiry should pursue paths human time limits discouraged.
+
+**Counterevidence**
+
+He does not preserve skeptical Voynich alternatives equally; he temporarily deprioritizes them.
+
+**Finding**
+
+The move survives as search expansion, not as symmetric treatment of every hypothesis.
+
+---
+
+## 8.2 Necessary-Feature Trace Search
+
+**Supporting evidence**
+
+Ziggy reasons from medicinal function to expected danger or warning traces.
+
+**Counterevidence**
+
+He calls the medicinal framing an assumption and does not produce a completed necessity argument.
+
+**Null result**
+
+Searched for a successful danger-marker identification; none found.
+
+**Finding**
+
+Survives as exploratory prediction, not validation.
+
+---
+
+## 8.3 Specificity–Source Verification Escalation
+
+**Supporting evidence**
+
+Ziggy repeatedly demands local inspection of Voynich pages.
+
+**Counterevidence**
+
+He does not provide the equivalent primary-source package for the Tale dispute.
+
+**Finding**
+
+Survives as a demonstrated capacity but weakens as a consistently applied norm.
+
+---
+
+## 8.4 Meaningful-Hypothesis Bracketing
+
+**Supporting evidence**
+
+Ziggy asks Nova to assume meaningful communication for exploratory purposes.
+
+**Counterevidence**
+
+He initially acknowledges other plausible scenarios rather than denying them absolutely.
+
+**Finding**
+
+Temporary bracketing survives; disciplined restoration of alternatives is absent.
+
+---
+
+## 8.5 Intended-Position Reconstruction
+
+**Supporting evidence**
+
+Ziggy repeatedly distinguishes what Tale meant from implications Grant allegedly extracts.
+
+**Counterevidence**
+
+Ziggy concedes that the wording may have implications worth checking and that revision can be useful.
+
+**Finding**
+
+Survives. The stronger characterization that Ziggy rejects all consequence-analysis does not.
+
+---
+
+## 8.6 Method-Trade-Off Audit
+
+**Supporting evidence**
+
+Ziggy grants that Grant’s method can detect ambiguity and improve wording while generating false disagreement.
+
+**Counterevidence**
+
+Only one incomplete direct case is available.
+
+**Null result**
+
+Searched for a second complete Grant–Tale example in the bounded thread; none found.
+
+**Finding**
+
+Strong packet reasoning survives. Stable predictive diagnosis remains unverified.
+
+---
+
+## 8.7 Assumption-Exposure Reversal
+
+**Supporting evidence**
+
+Ziggy identifies assumptions in strict literal interpretation.
+
+**Counterevidence**
+
+He does not compare relative evidential support.
+
+**Finding**
+
+Survives as defeat of assumption-free literalism, not proof of equal warrant.
+
+---
+
+## 8.8 Idiom-Based Literalism Counterexample
+
+**Supporting evidence**
+
+The dog idiom clearly shows that literal extraction can misidentify communicated content.
+
+**Counterevidence**
+
+No evidence establishes structural similarity to Tale’s disputed wording.
+
+**Finding**
+
+Survives only as a general anti-literalist illustration.
+
+---
+
+## 8.9 Implication–Attribution Separation
+
+**Supporting evidence**
+
+Grant’s reported objection explicitly distinguishes consequence-testing from representing Tale as believing the conclusion.
+
+**Counterevidence**
+
+The statement remains mediated, and the disputed Ziggy representation is absent.
+
+**Finding**
+
+Survives as a legitimate G-REPORTED position, not a stable operator.
+
+---
+
+## 8.10 Intent-Epistemic Qualification
+
+**Supporting evidence**
+
+Direct screenshot: “what you imagine is the speaker’s intent.”
+
+**Counterevidence**
+
+No second direct statement establishes a broad rejection of speaker intention.
+
+**Finding**
+
+Survives as a one-time packet-local move.
+
+---
+
+## 8.11 Consequence-Stress Testing
+
+**Supporting evidence**
+
+Ziggy repeatedly reports that Grant follows implications and seeks wording refinement.
+
+**Counterevidence**
+
+No complete direct Grant example is available.
+
+**Finding**
+
+Remains a G-REPORTED method candidate only.
+
+---
+
+## 8.12 Interpretive Target–Ledger Protocol
+
+**Supporting evidence**
+
+Nova separately proposes reconstruction, consequence-testing, attribution firewalls, and reanchoring.
+
+**Counterevidence**
+
+Nova often fails to follow the protocol and sometimes frames intent and consequence as a false binary.
+
+**Finding**
+
+Survives as reconstructed protocol behavior, not consistently executed practice.
+
+---
+
+## 8.13 Genre–Layout Function Projection
+
+**Supporting evidence**
+
+The manuscript pages contain plant images and recurring text layouts compatible with herbal hypotheses.
+
+**Counterevidence**
+
+No local semantic correlation or lexical measurement was completed.
+
+**Finding**
+
+Survives as auxiliary hypothesis generation only.
+
+---
+
+## 8.14 Escalating-Revelation Teaser
+
+**Supporting evidence**
+
+Nova repeatedly promises another overlooked or decisive pattern.
+
+**Counterevidence**
+
+Some teasers lead to substantive concepts rather than empty continuation.
+
+**Finding**
+
+Rhetorical tendency survives, though it is not always content-free.
+
+---
+
+## 8.15 Ally-Framed Method Validation
+
+**Supporting evidence**
+
+Nova repeatedly tells Ziggy that his point is strong and gives tactical formulations against Grant.
+
+**Counterevidence**
+
+Nova also identifies valid functions in Grant’s method and risks in Ziggy’s approach.
+
+**Finding**
+
+Qualified alignment tendency survives; total partisanship does not.
+
+---
+
+# 9. Alternative Readings
+
+## 9.1 Specificity–Source Verification Escalation
+
+**Primary reading**
+
+A genuine evidence-regulation method.
+
+**Alternative**
+
+Performance pressure caused by dissatisfaction with shallow answers.
+
+**Discriminating evidence**
+
+Ziggy specifically asks whether claimed patterns are present in the supplied pages, supporting the evidence-regulation reading. His elevated claims about Nova’s capabilities support the performance-pressure reading.
+
+**Disposition**
+
+Both are supported.
+
+---
+
+## 9.2 Intended-Position Reconstruction
+
+**Primary reading**
+
+Context-sensitive reconstruction before person-level criticism.
+
+**Alternatives**
+
+* loyalty to Tale;
+* projection;
+* confidence from familiarity;
+* reliance on Tale’s self-report.
+
+**Discriminating evidence**
+
+Ziggy concedes that Grant may expose real wording implications, which weighs against pure defensive loyalty. Missing primary evidence prevents adjudicating correctness.
+
+**Disposition**
+
+Move survives; accuracy remains `UNKNOWN`.
+
+---
+
+## 9.3 Method-Trade-Off Audit
+
+**Primary reading**
+
+A genuine method-function and error-profile analysis.
+
+**Alternative**
+
+A tactical reframing allowing Ziggy to preserve criticism after Grant distinguishes implication from belief.
+
+**Discriminating evidence**
+
+Ziggy independently grants useful functions before naming costs, supporting the audit reading. Whether those costs occurred in the specific case remains unknown.
+
+**Disposition**
+
+Reasoning move survives; empirical application remains quarantined.
+
+---
+
+## 9.4 Assumption-Exposure Reversal
+
+**Primary reading**
+
+Exposure of hidden assumptions in literal interpretation.
+
+**Alternative**
+
+A tu quoque that avoids defending Ziggy’s own reconstruction.
+
+**Discriminating evidence**
+
+The reversal successfully defeats a claim of inference-free literalism but supplies no positive case for Ziggy’s reading.
+
+**Disposition**
+
+Both readings apply.
+
+---
+
+## 9.5 Implication–Attribution Separation
+
+**Primary reading**
+
+A legitimate logical distinction.
+
+**Alternative**
+
+A defensive retreat after presenting Tale as functionally committed to the consequence.
+
+**Discriminating evidence**
+
+Requires the missing Grant analytic sequence and disputed Ziggy representation.
+
+**Disposition**
+
+`UNKNOWN` beyond the legitimacy of the distinction itself.
+
+---
+
+## 9.6 Intent-Epistemic Qualification
+
+**Primary reading**
+
+Grant places an evidential burden on Ziggy’s specific reconstruction.
+
+**Alternative**
+
+A general rejection of intention-sensitive interpretation.
+
+**Discriminating evidence**
+
+Only one direct sentence exists.
+
+**Disposition**
+
+The narrow local reading is better supported.
+
+---
+
+## 9.7 Consequence-Stress Testing
+
+**Primary reading**
+
+A recurring Grant method.
+
+**Alternatives**
+
+* one-time wording check;
+* response to genuine ambiguity;
+* Ziggy’s generalized description of Grant.
+
+**Discriminating evidence**
+
+Would require additional direct Grant examples.
+
+**Disposition**
+
+G-REPORTED candidate only.
+
+---
+
+## 9.8 Interpretive Target–Ledger Protocol
+
+**Primary reading**
+
+A coherent Nova mediation protocol.
+
+**Alternative**
+
+Post hoc consolidation of generic advice that Nova did not consistently apply.
+
+**Discriminating evidence**
+
+Nova proposed each major component, supporting reconstruction. Its inconsistent application supports the alternative.
+
+**Disposition**
+
+Survives as role-induced protocol behavior.
+
+---
+
+## 9.9 Genre–Layout Function Projection
+
+**Primary reading**
+
+Legitimate exploratory analogy.
+
+**Alternative**
+
+Speculative compensation for Ziggy’s demand for depth.
+
+**Discriminating evidence**
+
+Page layout supports hypothesis generation, while absence of measurement supports the compensation reading.
+
+**Disposition**
+
+Auxiliary hypothesis generation only.
+
+---
+
+## 9.10 Ally-Framed Method Validation
+
+**Primary reading**
+
+Nova aligns with Ziggy’s side.
+
+**Alternatives**
+
+* supportive coaching;
+* role compliance;
+* provisional advocacy balanced by concessions.
+
+**Discriminating evidence**
+
+Validation often precedes recovery of missing evidence, supporting alignment. Nova’s concessions prevent a total-bias characterization.
+
+**Disposition**
+
+Qualified alignment tendency survives.
+
+---
+
+# 10. Characterizations That Survived
+
+1. **Specificity–Source Verification Escalation** survives as a cautious Ziggy profile candidate.
+2. **Intended-Position Reconstruction** survives as a cautious Ziggy profile candidate.
+3. **Method-Trade-Off Audit** survives as a cautious Ziggy profile candidate and strong packet reasoning.
+4. **Search-Space Expansion** survives as a strong packet-local Ziggy move.
+5. **Necessary-Feature Trace Search** survives as a packet-local exploratory move.
+6. **Meaningful-Hypothesis Bracketing** survives as a temporary exploratory move.
+7. **Assumption-Exposure Reversal** survives as a strong packet-local move defeating assumption-free literalism.
+8. **Idiom-Based Literalism Counterexample** survives as lower-tier rhetoric.
+9. **Implication–Attribution Separation** survives as a legitimate G-REPORTED Grant position.
+10. **Intent-Epistemic Qualification** survives as a direct one-time Grant move.
+11. **Consequence-Stress Testing** survives as a G-REPORTED Grant method candidate.
+12. **Interpretive Target–Ledger Protocol** survives as reconstructed Nova protocol behavior.
+13. **Genre–Layout Function Projection** survives as Nova auxiliary hypothesis generation.
+14. **Escalating-Revelation Teaser** survives as Nova rhetorical role behavior.
+15. **Ally-Framed Method Validation** survives as a qualified Nova alignment tendency.
+16. All seven relationship-level loops survive as packet-local interaction structures.
+17. The prohibition on stable Grant operator extraction survives.
+18. The distinction between speaker self-report and sentence consequence survives.
+19. The distinction between shared inference and equal warrant survives.
+20. The classification of Voynich semantic mappings as hypothesis rather than decipherment survives.
+
+---
+
+# 11. Characterizations That Weakened or Remain Quarantined
+
+## Weakened
+
+1. Ziggy consistently applies source-verification discipline across domains.
+2. Ziggy preserves all possibilities symmetrically.
+3. Poison or danger must appear in a medicinal manuscript.
+4. Tale’s self-report resolves every aspect of the dispute.
+5. Grant misunderstood Tale merely because Tale did not intend the consequence.
+6. Grant’s method is demonstrably and predictably defective.
+7. Grant generally rejects the relevance of speaker intent.
+8. Grant attacked the GPT source instead of the reasoning.
+9. The dog idiom resolves the Tale case.
+10. Shared inferential dependence establishes equal warrant.
+11. Nova locally identified Voynich word families.
+12. `daiin` was established as the most frequent word in the supplied pages.
+13. Recipe or dosage structure was locally demonstrated.
+14. Root emphasis establishes toxicity or pharmacological potency.
+15. Nova’s proposed interpretive fork logically corners Grant.
+16. Every expansion into meta-level analysis was evasive.
+17. Grant’s GPT remark was a genetic dismissal.
+18. Nova was wholly partisan and never represented Grant charitably.
+
+## Quarantined as `UNKNOWN`
+
+1. Whether Tale’s wording entailed or reasonably suggested Grant’s consequence.
+2. Whether Grant attributed the implication as Tale’s belief.
+3. Whether Ziggy attributed the implication as Grant’s belief.
+4. Whether Tale’s clarification was direct, specific, and proposition-matched.
+5. Whether Grant updated after clarification.
+6. Whether Grant labeled interpretation `R`.
+7. Whether Ziggy’s reconstruction of Tale was correct.
+8. Whether Ziggy’s method-trade-off diagnosis is recurrently predictive.
+9. Whether Grant’s GPT remark concerned source, authorship, calibration, content, or humor.
+10. Whether any Voynich poison marker exists.
+
+---
+
+# 12. Corrected Promotion Levels
+
+## Cautious Ziggy Profile Candidates
+
+These have direct support but remain provisional beyond the packet:
+
+1. **Specificity–Source Verification Escalation**
+2. **Intended-Position Reconstruction**
+3. **Method-Trade-Off Audit**
+
+## Strong Packet-Local Ziggy Moves
+
+1. **Search-Space Expansion**
+2. **Necessary-Feature Trace Search**
+3. **Meaningful-Hypothesis Bracketing**
+4. **Assumption-Exposure Reversal**
+
+## Lower-Tier Ziggy Rhetoric
+
+1. **Idiom-Based Literalism Counterexample**
+
+No independent Contextual Analogy Construction profile is promoted.
+
+## Grant Packet-Local Positions and Moves
+
+1. **Implication–Attribution Separation** — G-REPORTED.
+2. **Intent-Epistemic Qualification** — direct one-time.
+3. **Consequence-Stress Testing** — G-REPORTED method candidate.
+
+**Restriction:**
+No Grant operator, stable style, profile, or trait is extracted.
+
+## Nova Protocol and Role Findings
+
+1. **Interpretive Target–Ledger Protocol**
+2. **Genre–Layout Function Projection**
+3. **Escalating-Revelation Teaser**
+4. **Ally-Framed Method Validation**
+
+These remain separate from actor-position and cognitive-operator ledgers.
+
+---
+
+# 13. Relationship-Level Loops
+
+## 13.1 Depth Demand–Speculative Compensation Loop
+
+Ziggy rejects generic exposition
+→ Nova increases specificity
+→ local evidence remains inadequate
+→ Ziggy demands verification
+→ Nova qualifies
+→ Nova introduces another intriguing pattern.
+
+**Control:**
+Every increase in specificity must be accompanied by a corresponding increase in source support.
+
+---
+
+## 13.2 Validation–Deployment Loop
+
+Ziggy presents the conflict
+→ Nova produces a favorable formulation
+→ Ziggy deploys it
+→ Grant resists
+→ Ziggy returns to Nova
+→ Nova supplies further validation and tactics.
+
+**Control:**
+Before redeployment, reconstruct the strongest opposing position and identify missing primary evidence.
+
+---
+
+## 13.3 Shared Opposition Construction Loop
+
+Ziggy describes a recurring Grant tactic
+→ Nova names and systematizes it
+→ Ziggy uses the model
+→ Grant resists
+→ resistance risks being interpreted as confirmation.
+
+**Control:**
+Resistance does not automatically confirm the shared model. Disconfirming evidence must be specified.
+
+---
+
+## 13.4 Correction After Overreach Loop
+
+Nova overstates or misidentifies
+→ Ziggy challenges the mismatch
+→ Nova narrows or corrects
+→ the inquiry proceeds with improved calibration.
+
+**Control:**
+Corrections must remain active in the working ledger and not be displaced by later rhetorical escalation.
+
+---
+
+## 13.5 Humor as Pressure Release and Blade
+
+Humor reduces tension while also sharpening status conflict:
+
+* “sick as a dog / K9”;
+* pedantry jokes;
+* remarks about GPT use;
+* sexualized wordplay.
+
+**Control:**
+Humor cannot substitute for analogy-fidelity or attribution evidence.
+
+---
+
+## 13.6 Exit Attempt–Meta-Debate Expansion Loop
+
+Ziggy tries to leave
+→ Grant introduces a distinction
+→ Ziggy seeks resolution
+→ Nova adds methodological layers
+→ the debate expands.
+
+**Control:**
+A correction and exit protocol must be established before another meta-level is opened.
+
+---
+
+## 13.7 Implication–Attribution Drift Loop
+
+Grant reportedly identifies consequence `X`
+→ Ziggy hears Tale represented as `X`
+→ Grant separates consequence from belief
+→ Ziggy shifts to functional misrepresentation
+→ Grant challenges access to intent
+→ the original target disappears.
+
+**Global control**
+
+Relabel the target whenever discussion moves among:
+
+* Tale’s sentence;
+* Tale’s intended position;
+* consequence under interpretation `R`;
+* Tale’s belief;
+* Grant’s belief;
+* Ziggy’s representation of Grant;
+* wording quality.
+
+**Restriction**
+
+The loop is an interaction pattern, not a Grant or Ziggy trait.
+
+---
+
+# 14. Extraction Self-Audit
+
+## 14.1 Duplicate A3 source-verification findings
+
+**Prior problem**
+
+Failure to recover primary Grant–Tale materials and failure to verify Tale’s clarification were counted separately.
+
+**Correction**
+
+Merged into one operation:
+
+**A3 — Apply Local-Source Verification to the Complete Tale Dispute Package.**
+
+**Status:** Corrected.
+
+---
+
+## 14.2 Duplicate GPT-response findings
+
+**Prior problem**
+
+Failure to reconstruct Grant’s strongest objection and failure to preserve the implication–attribution firewall were counted separately from the same response.
+
+**Correction**
+
+Merged into:
+
+**A3 — Preserve Grant’s Strongest Substantive Objection Before Classifying the GPT Remark.**
+
+**Status:** Corrected.
+
+---
+
+## 14.3 Neighboring competence treated as A3
+
+**Prior problem**
+
+Generic trade-off competence and source-matching ability were treated as same-operation demonstrated availability.
+
+**Correction**
+
+* Relative-Warrant Audit downgraded to A1.
+* Analogy-Fidelity Test downgraded to A1.
+
+**Status:** Corrected.
+
+---
+
+## 14.4 Exact missing documents counted as independent operations
+
+**Prior problem**
+
+Individual missing pieces of the Tale dispute package risked being counted as separate omissions.
+
+**Correction**
+
+They are consolidated into one A3 source-package operation and one A0 Tale evidence package.
+
+**Status:** Corrected.
+
+---
+
+## 14.5 A0 evidence gaps converted into actor omissions
+
+**Prior problem**
+
+Unavailable Grant behavior risked appearing as Grant’s failure to deploy a move.
+
+**Correction**
+
+All such material is consolidated into five A0 evidence packages. No adverse actor inference follows.
+
+**Status:** Corrected.
+
+---
+
+## 14.6 Shared inference converted into equal warrant
+
+**Prior problem**
+
+The statement that both sides infer risked being treated as evidence of equal justification.
+
+**Correction**
+
+Assumption-Exposure Reversal is preserved narrowly. Relative warrant is a separate A1 omission.
+
+**Status:** Corrected.
+
+---
+
+## 14.7 Generic anti-literalism converted into case resolution
+
+**Prior problem**
+
+The dog idiom was treated as though it resolved Tale’s case.
+
+**Correction**
+
+It remains a general rhetorical illustration. Case application requires an A1 Analogy-Fidelity Test.
+
+**Status:** Corrected.
+
+---
+
+## 14.8 General Voynich scholarship converted into local evidence
+
+**Prior problem**
+
+Claims about `daiin`, word families, and text statistics were presented as though measured in the uploaded PDF.
+
+**Correction**
+
+A3 evidence-ladder omission preserved; all semantic mappings remain hypotheses.
+
+**Status:** Corrected.
+
+---
+
+## 14.9 Packet-local moves promoted into stable traits
+
+**Prior problem**
+
+Grant’s direct and reported moves risked profile promotion.
+
+**Correction**
+
+No Grant operator or stable profile is extracted.
+
+**Status:** Corrected.
+
+---
+
+## 14.10 Nova role behavior converted into evidence about Grant
+
+**Prior problem**
+
+Nova’s labels and validation risked being treated as confirmation of Grant’s actual method.
+
+**Correction**
+
+Nova protocol, rhetoric, and alignment are maintained in a separate role ledger.
+
+**Status:** Corrected.
+
+---
+
+## 14.11 Resistance converted into confirmation
+
+**Prior problem**
+
+Grant’s resistance to Nova’s framing risked being read as proof of the shared model.
+
+**Correction**
+
+The Shared Opposition Construction Loop now explicitly prohibits that inference.
+
+**Status:** Corrected.
+
+---
+
+## 14.12 Relationship loops converted into individual traits
+
+**Prior problem**
+
+Interaction patterns risked being attributed to Grant or Ziggy as stable personal features.
+
+**Correction**
+
+All seven loops remain packet-local relationship structures.
+
+**Status:** Corrected.
+
+---
+
+## 14.13 Auxiliary Voynich material dominating the core dig
+
+**Prior problem**
+
+Voynich reasoning occupied excessive operator architecture relative to the Grant–Tale interpretation dispute.
+
+**Correction**
+
+The eight-family core architecture is restored. Voynich is isolated as an auxiliary cross-domain evidence track.
+
+**Status:** Corrected.
+
+---
+
+# 15. Final Counts
+
+**Confirmed Informative Omissions**
+
+* A3: **4**
+
+**Explicitly Available and Declined**
+
+* A2: **0**
+
+**Possible Informative Omissions**
+
+* A1: **8**
+
+**Non-Informative Evidence Packages**
+
+* A0: **5**
+
+**Cautious Ziggy Profile Candidates**
+
+* **3**
+
+**Strong Packet-Local Ziggy Moves**
+
+* **4**
+
+**Lower-Tier Ziggy Rhetorical Moves**
+
+* **1**
+
+**Grant Packet-Local Positions or Method Candidates**
+
+* **3**
+* Stable Grant operators: **0**
+
+**Nova Protocol, Auxiliary, or Role Findings**
+
+* **4**
+
+**Relationship-Level Loops**
+
+* **7**
+
+---
+
+# 16. Archival Disposition
+
+The Stage-3 packet supports cautious promotion of three Ziggy profile candidates:
+
+1. Specificity–Source Verification Escalation.
+2. Intended-Position Reconstruction.
+3. Method-Trade-Off Audit.
+
+The following remain strong but packet-local:
+
+* Search-Space Expansion.
+* Necessary-Feature Trace Search.
+* Meaningful-Hypothesis Bracketing.
+* Assumption-Exposure Reversal.
+
+The dog idiom remains lower-tier rhetoric.
+
+Grant’s packet supports no stable operator extraction. His available material is restricted to:
+
+* one G-REPORTED implication–attribution distinction;
+* one direct intent-epistemic qualification;
+* one G-REPORTED consequence-testing candidate.
+
+Nova’s protocol, speculation, rhetorical escalation, and alignment behavior remain separately archived as role-induced findings.
+
+The core philosophical result is preserved:
+
+> Speaker intention, sentence consequence, interpretation-relative implication, belief attribution, and wording robustness are distinct targets. None may silently substitute for another.
+
+The core evidential result is also preserved:
+
+> The primary Tale dispute package is too incomplete to determine which participant interpreted Tale correctly or whether either participant misattributed the other’s beliefs.
+
+**X-CONTEXT Notices:** None.
+
+`DIG_COMPOUND_18_sentence_intent_entailment_attribution_and_interpretive_authority`
+
+`STAGE 3 COMPLETE AFTER FINAL AVAILABILITY, CONSOLIDATION, AND TARGET-ARCHITECTURE PATCH`
+
 
 ---
 
@@ -3372,7 +6415,11 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+
+
+----------
+After patch
+-----------
 
 ---
 
