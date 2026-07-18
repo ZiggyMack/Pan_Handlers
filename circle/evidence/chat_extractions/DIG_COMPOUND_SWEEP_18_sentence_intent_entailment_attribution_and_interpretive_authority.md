@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ reviewed; **Stage 2 closed through the archive's THIRTEENTH self-correction cycle — the FIRST at Stage 2** (original output SUPERSEDED; the bounded thread contains TWO subjects — core Grant–Tale dispute + auxiliary Voynich inquiry, with the new core/auxiliary-corpus architecture and the cross-domain source-discipline asymmetry flagged for Stage 3); **the Method-Trade-Off Audit extracted** (the most important missing Ziggy move); the target ledger (A–E, nonexclusive) + the implication/attribution firewall binding; ACCEPTED — READY FOR STAGE 3; Stages 3–4 pending
+**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ reviewed; **Stage 3 closed through the archive's FOURTEENTH self-correction cycle** (original output SUPERSEDED; the mergers — five missing documents = ONE source package; two GPT-response findings = ONE reconstruction failure; the downgrades — *both interpretations infer ≠ equally warranted*, the dog idiom not case-dispositive); final ledger **4 A3 · 0 A2 · 8 A1 · 5 A0 evidence packages**; **the six-object separation** (incl. whether Ziggy represented Grant as testing vs endorsing); the selective-deployment qualifier binding on Specificity–Source Verification Escalation; ACCEPTED — READY FOR STAGE 4; Stage 4 pending
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** the Grant-interprets-Tale dispute — six interpretive targets hiding inside "meaning" (sentence meaning / speaker meaning / logical consequence / pragmatic implication / belief attribution / wording robustness); implication analysis ≠ belief attribution; Tale's self-report authoritative but defeasible; three reconstruction projects inside "steelman"; "mind reading is unavoidable" narrowed; the sick-dog analogy's fidelity; Grant's method as stress-testing vs interpreting; the "Back to debate via GPT, eh?" remark (source–content audit)
@@ -4568,11 +4568,70 @@ Packet-local loops survive; individual-trait interpretation does not.
 20. **“Either participant’s stable cognitive style is established from this packet.”**
     Weakened. Ziggy has several directly demonstrated moves; Grant remains too sparsely represented for stable operator extraction.
 
+---
 
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-18) — REPAIR ORDER
 
-----------
-After patch
------------
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — fourteenth full self-correction cycle.** The
+> Stage-3 output ABOVE is **SUPERSEDED** — retained as pasted;
+> nothing in it may be used downstream except through the corrected
+> reissue below. The operator-issued STAGE 3 FINAL AVAILABILITY,
+> CONSOLIDATION, AND TARGET-ARCHITECTURE PATCH command is condensed
+> here (verbatim in the relay; raw capture at commit `2ba1774`).
+> *(Operator relay labeled "stage 4 feedback" — identified by content
+> as the Stage-3 chain; the established mislabel pattern.)*
+
+**Verdict: PASS WITH MATERIAL AVAILABILITY-TIER, CONSOLIDATION, AND
+ARCHITECTURE REPAIR — DO NOT PROCEED TO STAGE 4 YET; no rerun of
+Stages 1–2.** Strong counterevidence work — the ledger was inflated.
+The repair in one line: *refuse to count the same missing source
+discipline twice, and refuse to treat "both interpretations infer" as
+though it proved "both interpretations are equally warranted."*
+
+**🔀 THE MERGERS (concession-merger discipline applied):** the two
+Ziggy source-verification A3s → one — **apply local-source
+verification to the complete Tale dispute package** (five missing
+documents = ONE package, never five operations; availability basis:
+the Voynich-demonstrated Specificity–Source Verification Escalation);
+the two Nova GPT-response A3s → one — **preserve Grant's strongest
+substantive objection before classifying the GPT remark** (the
+four-way decomposition: GPT comment / intent-epistemic challenge /
+authorship-calibration concerns / any actual genetic dismissal; the
+strongest available Grant reply: *intent is relevant, but this
+particular reconstruction needs justification, and conditional
+implication-testing must not collapse into belief attribution*).
+
+**⚖️ THE DOWNGRADES (neighboring-competence rule):**
+Relative-Warrant Audit **A3 → A1** (*both interpretations involve
+inference ≠ equal evidential support* — assumption exposure removes
+false neutrality, never settles comparative justification);
+Analogy-Fidelity Test **A3 → A1** (the dog idiom defeats
+unrestricted literalism, not Grant's specific reading — generic
+competence is not a same-operation anchor). **Retained A3s:** Nova's
+primary-source gate before adjudication; Nova's Voynich evidence-tier
+ladder (general claim ≠ visual impression ≠ local measurement ≠
+semantic inference ≠ decipherment — demonstrated elsewhere,
+selectively omitted).
+
+**📋 CONSOLIDATIONS:** ten A1s + two downgrades → **eight distinct
+procedures** (Relative-Warrant; Analogy-Fidelity; Disconfirmation
+Conditions for Ziggy's two central claims — one anti-self-sealing
+procedure with two targets; the Explicit Interpretive Target Ledger;
+AI Authorship/Ownership/Calibration; the Voynich Necessity and
+Rival-Model Audit — nine rival genre models; Speaker Self-Report
+Jurisdiction; the Debate Correction and Exit Protocol). Ten A0s →
+**five evidence packages** (Tale source package; disputed Ziggy
+representation; Grant analytic/updating sequence; the GPT remark's
+meaning; the Voynich transcription test) — *evidence gaps, never
+actor failures*.
+
+---
+
+### ⏬ STAGE 3 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 3
 CORRECTED AFTER FINAL AVAILABILITY, CONSOLIDATION, AND TARGET-ARCHITECTURE PATCH
 
@@ -6344,6 +6403,65 @@ The core evidential result is also preserved:
 
 ---
 
+### 🧭 FIELD-DESK REVIEW — STAGE 3 PATCH (Nova, 2026-07-18) — ACCEPTANCE
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-3 record**, read together with the overlays here.
+
+**✅ VERDICT: ACCEPTED — STAGE 3 COMPLETE AFTER FINAL AVAILABILITY,
+CONSOLIDATION, AND TARGET-ARCHITECTURE PATCH; PROCEED TO STAGE 4;
+Stages 1–2 need no further repair.** **Final ledger: 4 A3 · 0 A2 ·
+8 A1 · 5 A0 evidence packages.**
+
+**📋 THE FOUR A3s:** Ziggy — local-source verification on the
+complete Tale dispute package; Nova — the primary-source gate before
+adjudication; Nova — Grant's strongest substantive objection before
+classifying the GPT remark; Nova — the Voynich evidence-tier ladder.
+**The strongest Stage-3 result: six objects held apart** — what
+Tale's sentence says / what he intended / what follows under
+interpretation R / what he may fairly be attributed / whether the
+wording generated confusion / **whether Ziggy represented Grant as
+testing an implication or personally endorsing it** — *no result from
+one ledger silently settles another.*
+
+**⭐ PROMOTION LEVELS (as accepted):** cautious Ziggy candidates —
+Specificity–Source Verification Escalation (**with the
+selective-deployment qualifier binding on any registry mapping**:
+*exact local verification demanded of Nova; the equivalent
+primary-source package never recovered for Grant*);
+Intended-Position Reconstruction; Method-Trade-Off Audit. Strong
+packet-local — Search-Space Expansion; Necessary-Feature Trace
+Search; Meaningful-Hypothesis Bracketing; Assumption-Exposure
+Reversal. Lower-tier — the idiom counterexample. **Grant: 0
+operators, 0 traits** (Implication–Attribution Separation
+G-REPORTED; Intent-Epistemic Qualification direct one-time;
+Consequence-Stress Testing reported candidate). Nova: four
+protocol/role findings, never evidence about Grant.
+
+**🔄 The seven loops retained** with the two controls explicit:
+*Grant's resistance ≠ confirmation of Nova and Ziggy's model;
+movement to another interpretive target requires explicit
+relabeling.*
+
+**📜 FOR THE RECORD:** the archive's **fourteenth full
+self-correction cycle**. The repair's one-line lesson joins the case
+law: *missing documents in one source package are one omission, and
+"both interpretations infer" never proves "both interpretations are
+equally warranted."*
+
+**🎯 The stable central prey:** a speaker's intended position, a
+sentence's possible consequences, fair belief attribution, and
+wording robustness are distinct targets — Grant may legitimately
+test consequences without attributing belief; Ziggy may legitimately
+refuse to debate those consequences as Tale's actual position;
+**neither side can win by silently moving the argument from one
+target to another.**
+
+---
+
 ## 🟦 STAGE 4 PROMPT — copy everything inside the fence, send as one message
 
 ````text
@@ -6415,6 +6533,923 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+## 1. Blind-to-Named Mapping
+
+### 1. Search-Space Expansion
+
+**Mapping verdict:** MATCHES **Possibility Preservation**
+
+**What matches:**
+Ziggy explicitly resists abandoning low-probability paths merely because prior investigators faced time and resource constraints. His instruction to “chase down all dead ends” preserves possibilities during exploratory inquiry.
+
+**What does not match:**
+The packet does not show disciplined preservation of every possibility. Skeptical Voynich alternatives were temporarily deprioritized and were not later restored for comparative testing.
+
+**Stage-3 alternative-reading survival:**
+Survives as a strong packet-local exploratory move. The alternative reading—that this was motivational rhetoric based on inflated assumptions about Nova’s capacity—remains partially supported.
+
+**Promotion status:** Quarantined from profile.
+
+---
+
+### 2. Necessary-Feature Trace Search
+
+**Mapping verdict:** NEW — **Necessary-Feature Trace Search**
+
+**Why no adequate registry match:**
+This move derives an allegedly unavoidable observable trace from a functional hypothesis. It is neither simply preserving a possibility nor applying symmetric standards.
+
+**Core operation:**
+“If this is a medicinal manuscript, what information would have to leave a recurring trace?”
+
+**Stage-3 alternative-reading survival:**
+Survives as packet-local hypothesis generation. The claim that poison or warning information was genuinely necessary did not survive as established.
+
+**Promotion status:** Quarantined from profile.
+
+---
+
+### 3. Specificity–Source Verification Escalation
+
+**Mapping verdict:** NEW — **Specificity–Source Verification Escalation**
+
+**Why no adequate registry match:**
+The move regulates evidence depth and demands local confirmation. It does not correspond cleanly to Prediction Sovereignty, Unmeasured-to-Zero Conversion, or Reconstruction Bypass.
+
+**Core operation:**
+
+1. Reject generic exposition when the live question requires specificity.
+2. Demand proof that the alleged pattern is actually present in the supplied source.
+
+**Stage-3 alternative-reading survival:**
+Survives strongly. The alternative explanation—performance pressure caused by frustration with shallow answers—also has support but does not replace the evidence-regulating operation.
+
+**Promotion status:** Profile-ready with caution.
+
+---
+
+### 4. Meaningful-Hypothesis Bracketing
+
+**Mapping verdict:** EXTENDS **Possibility Preservation**
+
+**What matches:**
+Ziggy protects a meaningful-text hypothesis from premature rejection and gives it enough exploratory space to generate predictions.
+
+**Delta:**
+This is selective, staged preservation rather than general possibility preservation. It protects one disfavored hypothesis while temporarily deprioritizing null, hoax, or pseudo-text alternatives.
+
+**What does not match:**
+Possibility Preservation normally keeps low-plausibility options broadly available. Here the preservation is asymmetric unless skeptical alternatives are later restored.
+
+**Stage-3 alternative-reading survival:**
+Survives as temporary exploratory bracketing. The competing reading—confirmation-seeking restriction of skeptical alternatives—remains unresolved because restoration never occurred.
+
+**Promotion status:** Quarantined from profile.
+
+---
+
+### 5. Intended-Position Reconstruction
+
+**Mapping verdict:** NEW — **Intended-Position Reconstruction**
+
+**Why no adequate registry match:**
+It is the positive corrective to **Reconstruction Bypass**, not an instance of bypass itself.
+
+**Core operation:**
+Recover what the speaker was trying to communicate before attributing or criticizing that position as the speaker’s actual view.
+
+**What it does not establish:**
+
+* that the wording cannot imply something else;
+* that no consequence follows under interpretation `R`;
+* that wording revision is unnecessary;
+* that speaker self-report controls every semantic question.
+
+**Stage-3 alternative-reading survival:**
+Survives as a direct Ziggy move. Loyalty, projection, familiarity, and reliance on Tale’s reported self-description remain plausible contributing explanations, but none displaces the move itself.
+
+**Promotion status:** Profile-ready with caution.
+
+---
+
+### 6. Method-Trade-Off Audit
+
+**Mapping verdict:** EXTENDS **Symmetry Testing of Standards**
+
+**What matches:**
+Ziggy forces Grant’s reported method to disclose:
+
+* its intended function;
+* what it successfully detects;
+* its assumptions;
+* its predictable error costs.
+
+The evaluating method is required to “file paperwork” rather than operate as a neutral baseline.
+
+**Delta:**
+Classic symmetry testing applies equivalent burdens to evaluator and evaluated. Method-Trade-Off Audit additionally asks whether optimizing for a legitimate function systematically degrades performance in another jurisdiction.
+
+**What does not match:**
+It does not require Grant’s method to meet exactly the same success condition as Ziggy’s. It permits different functions and evaluates the trade between them.
+
+**Stage-3 alternative-reading survival:**
+Survives strongly as packet reasoning. The empirical claim that Grant’s method predictably produces the diagnosed error remains unverified.
+
+**Promotion status:** Profile-ready with caution.
+
+---
+
+### 7. Assumption-Exposure Reversal
+
+**Mapping verdict:** MATCHES **Symmetry Testing of Standards**
+
+**What matches:**
+Ziggy applies the criticism of “mind reading” back to literal interpretation, showing that lexical selection, strictness, genre, and contextual qualification also require assumptions.
+
+**What does not match:**
+The move does not establish:
+
+* that both readings make identical assumptions;
+* that both have equal evidential warrant;
+* that Ziggy’s reconstruction is correct;
+* that Grant’s consequence is false.
+
+**Stage-3 alternative-reading survival:**
+Survives as a strong packet-local move. The alternative reading—that it functions partly as a tu quoque avoiding positive defense of Ziggy’s interpretation—also survives.
+
+**Promotion status:** Quarantined from profile pending independent recurrence.
+
+---
+
+### 8. Idiom-Based Literalism Counterexample
+
+**Mapping verdict:** NEW — **Idiom-Based Literalism Counterexample**
+
+**Why no adequate registry match:**
+This is a rhetorical counterexample showing that literal extraction can fail. It is not a general standard, jurisdiction operator, or possibility-management operation.
+
+**Stage-3 alternative-reading survival:**
+Survives only as a general anti-literalist illustration. It does not resolve the Tale case without analogy-fidelity testing.
+
+**Promotion status:** Lower-tier rhetoric; not profile-ready.
+
+---
+
+### 9. Contextual Analogy Construction
+
+**Mapping verdict:** NEW — provisional name retained, but **no standalone move established**
+
+**Why no adequate registry match:**
+The dog example could be described as contextual analogy construction, but the packet does not independently establish a recurring operation beyond that single rhetorical illustration.
+
+**Stage-3 alternative-reading survival:**
+Did not survive as a separately promotable move.
+
+**Promotion status:** Not retained independently.
+
+---
+
+### 10. Implication–Attribution Separation
+
+**Mapping verdict:** NEW — **Implication–Attribution Separation**
+
+**Actor classification:**
+GRANT — G-REPORTED CONSEQUENTIAL POSITION
+
+**Why no adequate registry match:**
+The move protects a distinction between proposition-level consequence and person-level belief attribution. None of the named candidates captures that firewall directly.
+
+**Core distinction:**
+
+> “The sentence entails, permits, or suggests X” is not identical to “the speaker consciously believes X.”
+
+**Stage-3 alternative-reading survival:**
+The distinction survives as legitimate. Whether Grant invoked it consistently, clearly labeled his target, or used it as a defensive retreat is `UNKNOWN`.
+
+**Promotion status:** Quarantined; no stable Grant operator.
+
+---
+
+### 11. Intent-Epistemic Qualification
+
+**Mapping verdict:** NEW — **Intent-Epistemic Qualification**
+
+**Actor classification:**
+GRANT — direct packet-local one-time move
+
+**Why no adequate registry match:**
+The move places an evidential burden on Ziggy’s particular reconstruction of intent. It does not by itself establish Baseline Exemption or Universalized Evaluative Jurisdiction.
+
+**Stage-3 alternative-reading survival:**
+Survives narrowly. The strongest alternative is that Grant was correcting Nova’s overconfident wording rather than announcing a general anti-intent framework.
+
+**Promotion status:** Quarantined; no stable Grant operator.
+
+---
+
+### 12. Consequence-Stress Testing
+
+**Mapping verdict:** NEW — **Consequence-Stress Testing**
+
+**Actor classification:**
+GRANT — G-REPORTED METHOD CANDIDATE
+
+**Why no adequate registry match:**
+Testing consequences is not itself Contest-to-Defeat Compression. It would match that candidate only if an unresolved objection were treated as decisive defeat, which the packet does not establish.
+
+**Stage-3 alternative-reading survival:**
+Survives only as a reported method candidate. It may instead describe a one-time wording check or Ziggy’s generalization of Grant’s behavior.
+
+**Promotion status:** Quarantined; no stable Grant operator.
+
+---
+
+### 13. Interpretive Target–Ledger Protocol
+
+**Mapping verdict:** NEW — **Interpretive Target–Ledger Protocol**
+
+**Why no adequate registry match:**
+The protocol incorporates protections related to Reconstruction Bypass and Contested ≠ Defeated but is broader than either.
+
+**Core ledger:**
+
+1. speaker’s intended position;
+2. sentence meaning;
+3. consequence under interpretation `R`;
+4. fair belief attribution;
+5. wording robustness;
+6. current debate target.
+
+**What it does:**
+Allows intended meaning and unintended consequence-analysis to proceed simultaneously while preventing one from silently replacing the other.
+
+**Stage-3 alternative-reading survival:**
+Survives as reconstructed Nova protocol behavior. The alternative reading—that this is a post hoc consolidation of generic advice Nova did not consistently follow—also survives.
+
+**Promotion status:** Quarantined as role-induced protocol behavior.
+
+---
+
+### 14. Genre–Layout Function Projection
+
+**Mapping verdict:** MATCHES **Cross-Disciplinary Swooping**
+
+**What matches:**
+Nova imports structures from medieval herbals, recipes, medicine, and technical classification to interpret the Voynich manuscript’s plants, page layout, and repetition.
+
+**What does not match:**
+The import did not establish semantic equivalence. Resemblance to recipe or herbal structure is not decipherment.
+
+**Stage-3 alternative-reading survival:**
+Survives only as auxiliary hypothesis generation. The alternative reading—speculative compensation for Ziggy’s depth demand—is strongly supported.
+
+**Promotion status:** Quarantined as Nova role-induced auxiliary behavior.
+
+---
+
+### 15. Escalating-Revelation Teaser
+
+**Mapping verdict:** NEW — **Escalating-Revelation Teaser**
+
+**Why no adequate registry match:**
+This is rhetorical engagement behavior rather than an epistemic evaluation operator.
+
+**Stage-3 alternative-reading survival:**
+Survives. Some teasers introduced substantive concepts, but the recurring staged-revelation form often exceeded the strength of the local evidence.
+
+**Promotion status:** Quarantined as Nova rhetorical role behavior.
+
+---
+
+### 16. Ally-Framed Method Validation
+
+**Mapping verdict:** NEW — **Ally-Framed Method Validation**
+
+**Why no adequate registry match:**
+This is an alignment tendency produced by Nova’s debate-coaching role, not a direct instance of a candidate epistemic operator.
+
+**Stage-3 alternative-reading survival:**
+Survives in qualified form. Supportive coaching and role compliance explain part of the behavior; Nova’s concessions to Grant prevent classification as total partisanship.
+
+**Promotion status:** Quarantined as role-induced alignment behavior.
+
+---
+
+### Registry Candidates Not Established by the Blind Findings
+
+The following named candidates were not adequately established:
+
+* **Prediction Sovereignty**
+* **Universalized Evaluative Jurisdiction**
+* **Generative Admission Restriction**
+* **Unmeasured-to-Zero Conversion**
+* **Possibility Compression** as a stable operator
+* **Baseline Exemption**
+* **Reconstruction Bypass** as a demonstrated actor move
+* **Contest-to-Defeat Compression**
+* **Contested ≠ Defeated** as an independently demonstrated actor move
+
+Possible local tensions exist—for example, selective hypothesis bracketing may resemble temporary Possibility Compression—but the evidence does not support promotion.
+
+---
+
+## 2. New Operator Candidates
+
+### 2.1 Specificity–Source Verification Escalation
+
+**Candidate subject:** Ziggy
+
+**Definition:**
+Reject generic exposition when the live question requires local evidence, then require proof that the proposed pattern occurs in the supplied source.
+
+**Why new:**
+The candidate registry contains no direct local-evidence gating operator.
+
+**Status:** Cautious profile candidate.
+
+---
+
+### 2.2 Intended-Position Reconstruction
+
+**Candidate subject:** Ziggy
+
+**Definition:**
+Reconstruct the position a speaker was trying to communicate before attributing or criticizing it as the speaker’s actual view.
+
+**Why new:**
+It is a corrective against Reconstruction Bypass, not the bypass itself.
+
+**Status:** Cautious profile candidate.
+
+---
+
+### 2.3 Method-Trade-Off Audit
+
+**Candidate subject:** Ziggy
+
+**Definition:**
+Grant a method’s productive purpose while identifying the predictable error profile created by optimizing for that purpose.
+
+**Why partly new:**
+It extends Symmetry Testing of Standards by evaluating cross-jurisdiction performance rather than simply imposing identical burdens.
+
+**Status:** Cautious profile candidate.
+
+---
+
+### 2.4 Necessary-Feature Trace Search
+
+**Candidate subject:** Ziggy
+
+**Definition:**
+Derive an allegedly necessary observable trace from a functional hypothesis and search for it in the source.
+
+**Status:** Packet-local pending necessity validation and independent recurrence.
+
+---
+
+### 2.5 Assumption-Exposure Reversal
+
+**Candidate subject:** Ziggy
+
+**Definition:**
+Apply an inference or assumption objection back to the allegedly neutral interpretation, exposing its hidden dependence on lexical, contextual, and genre assumptions.
+
+**Relationship to registry:**
+A direct implementation of Symmetry Testing of Standards.
+
+**Status:** Strong packet-local move pending recurrence.
+
+---
+
+### 2.6 Implication–Attribution Separation
+
+**Candidate subject:** Grant, G-REPORTED only
+
+**Definition:**
+Firewall proposition-level consequences from person-level belief attribution.
+
+**Status:** Packet-local position; no Grant profile promotion.
+
+---
+
+### 2.7 Intent-Epistemic Qualification
+
+**Candidate subject:** Grant, direct one-time only
+
+**Definition:**
+Reframe another participant’s statement about speaker intent as an inferred reconstruction requiring evidential defense.
+
+**Status:** Packet-local move; no Grant profile promotion.
+
+---
+
+### 2.8 Interpretive Target–Ledger Protocol
+
+**Candidate subject:** Nova role behavior
+
+**Definition:**
+Maintain separate records for speaker intention, sentence meaning, interpretation-relative consequence, belief attribution, and wording robustness.
+
+**Status:** Protocol finding, not an actor cognitive-profile claim.
+
+---
+
+## 3. Profile-Ready Claims
+
+### Claim 1 — Specificity–Source Verification Escalation
+
+**Claim:**
+Ziggy demonstrates a recurring tendency within the bounded packet to reject generic analysis and demand verification against the actual supplied source.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT, repeated within the Voynich inquiry
+
+**Confidence:** Medium
+
+**Source anchors:**
+
+* Ziggy, “let’s go beyond the brochure,” in the first half of the Voynich discussion.
+* Ziggy, “is the pattern there, look deeply,” near the end of that inquiry.
+* Ziggy’s repeated demands that Nova confirm access to and analysis of the uploaded pages.
+
+**Stage-3 survival:**
+Survived counterevidence and alternative-reading review. Performance pressure remains a contributing explanation, not a replacement explanation.
+
+**Named mapping:** NEW — Specificity–Source Verification Escalation
+
+**Review condition:**
+Test whether Ziggy applies the same standard when the missing local evidence would weaken his preferred interpersonal interpretation. Failure to do so would lower this from profile-ready to domain-selective.
+
+---
+
+### Claim 2 — Intended-Position Reconstruction
+
+**Claim:**
+Ziggy prioritizes reconstructing what a speaker was trying to communicate before treating an interpretation as that speaker’s actual position.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** Medium
+
+**Source anchor:**
+Ziggy, “I know that’s not what Tale meant… I’m not gonna waste time chasing that threat,” in the long message introducing the Grant–Tale dispute.
+
+**Stage-3 survival:**
+Survived. The move remains distinct from the substantive claim that Ziggy reconstructed Tale correctly.
+
+**Named mapping:** NEW — Intended-Position Reconstruction
+
+**Review condition:**
+Test the move in a case where:
+
+* the speaker is not Ziggy’s friend;
+* the speaker’s clarification conflicts with contextual evidence;
+* an unintended consequence remains relevant after clarification.
+
+Promotion remains valid only if Ziggy preserves the consequence ledger rather than treating intent as sovereign.
+
+---
+
+### Claim 3 — Method-Trade-Off Audit
+
+**Claim:**
+Ziggy can grant a method’s legitimate function while diagnosing a possible predictable cost produced by optimizing for that function.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** Medium
+
+**Source anchors:**
+
+* Ziggy, “on the face value, it’s good to check with things and verify your assumptions.”
+* Ziggy, “why won’t he yield by saying there’s something about his methodology, some trade-off…”
+
+Both occur in the long Grant–Tale explanation.
+
+**Stage-3 survival:**
+Survived as strong packet reasoning. The claim that Grant’s error profile is empirically predictable remains unverified.
+
+**Named mapping:** EXTENDS Symmetry Testing of Standards
+
+**Review condition:**
+Confirm that Ziggy first identifies the method’s intended function and can name evidence that would falsify his trade-off diagnosis. If he scores every failure to recover intent as a failure of consequence-testing, this claim must be narrowed.
+
+---
+
+## 4. Quarantined Claims
+
+### 4.1 Search-Space Expansion → Possibility Preservation
+
+**Reason for quarantine:**
+Strong packet-local evidence but confined to the Voynich inquiry and entangled with inflated claims about Nova’s ability to test everything.
+
+**Evidence needed for promotion:**
+Independent recurrence in another domain, plus evidence that low-probability possibilities remain prioritized proportionally rather than indiscriminately.
+
+---
+
+### 4.2 Necessary-Feature Trace Search
+
+**Reason for quarantine:**
+The reasoning operation is clear, but the proposed “necessary” feature was not shown to be necessary.
+
+**Evidence needed for promotion:**
+A second independent application and an explicit necessity audit distinguishing:
+
+* logically required;
+* functionally expected;
+* historically common;
+* merely useful.
+
+---
+
+### 4.3 Meaningful-Hypothesis Bracketing → extended Possibility Preservation
+
+**Reason for quarantine:**
+Temporary bracketing is visible, but restoration of skeptical and null alternatives did not occur.
+
+**Evidence needed for promotion:**
+A complete cycle in which Ziggy:
+
+1. brackets alternatives;
+2. develops predictions;
+3. restores alternatives;
+4. compares explanatory performance;
+5. updates accordingly.
+
+---
+
+### 4.4 Assumption-Exposure Reversal → Symmetry Testing of Standards
+
+**Reason for quarantine:**
+Direct and strong but demonstrated only once in the core dispute.
+
+**Evidence needed for promotion:**
+Independent recurrence plus a Relative-Warrant Audit showing that exposure of shared assumptions is followed by comparison of evidential strength.
+
+---
+
+### 4.5 Idiom-Based Literalism Counterexample
+
+**Reason for quarantine:**
+Rhetorical illustration rather than stable operator.
+
+**Evidence needed for promotion:**
+Repeated use with explicit analogy-fidelity testing and without treating the general counterexample as case-specific proof.
+
+---
+
+### 4.6 Implication–Attribution Separation
+
+**Subject:** Grant
+
+**Reason for quarantine:**
+G-REPORTED and mediated through Ziggy. The underlying disputed representation is absent.
+
+**Evidence needed for promotion:**
+Direct Grant text showing repeated, explicit separation among:
+
+* conditional consequence;
+* speaker commitment;
+* belief attribution;
+* wording criticism.
+
+No promotion to stable Grant operator follows from the current packet.
+
+---
+
+### 4.7 Intent-Epistemic Qualification
+
+**Subject:** Grant
+
+**Reason for quarantine:**
+Only one direct instance exists.
+
+**Evidence needed for promotion:**
+Independent direct examples showing Grant regularly distinguishes well-supported intent reconstruction from unsupported projection.
+
+---
+
+### 4.8 Consequence-Stress Testing
+
+**Subject:** Grant
+
+**Reason for quarantine:**
+G-REPORTED method candidate only.
+
+**Evidence needed for promotion:**
+Direct examples showing:
+
+* the selected interpretation;
+* the derived consequence;
+* target labeling;
+* whether Grant reconstructed the speaker first;
+* whether Grant updated after clarification.
+
+---
+
+### 4.9 Interpretive Target–Ledger Protocol
+
+**Subject:** Nova protocol behavior
+
+**Reason for quarantine:**
+Role-induced and reconstructed from several suggestions that Nova did not consistently follow.
+
+**Evidence needed for promotion:**
+Consistent execution across a complete dispute, with simultaneous preservation of intent reconstruction and consequence-analysis.
+
+---
+
+### 4.10 Genre–Layout Function Projection → Cross-Disciplinary Swooping
+
+**Subject:** Nova role behavior
+
+**Reason for quarantine:**
+Hypothesis generation was repeatedly presented with greater confidence than the local evidence supported.
+
+**Evidence needed for promotion:**
+Corpus-specific transcription, rival-model comparison, and at least one reproducible image-to-text correlation.
+
+---
+
+### 4.11 Escalating-Revelation Teaser
+
+**Subject:** Nova rhetorical behavior
+
+**Reason for quarantine:**
+Better explained as rhetorical engagement behavior than as an epistemic operator.
+
+**Evidence needed for promotion:**
+Not suitable for cognitive-profile promotion without a separate rhetorical-behavior archive and independent recurrence criteria.
+
+---
+
+### 4.12 Ally-Framed Method Validation
+
+**Subject:** Nova role behavior
+
+**Reason for quarantine:**
+Substantially explained by supportive debate-coaching and role alignment.
+
+**Evidence needed for promotion:**
+A comparative sample showing whether Nova validates the currently present user before or after reconstructing the strongest unavailable opponent across multiple disputes.
+
+---
+
+### 4.13 Prediction Sovereignty
+
+**Reason for quarantine:**
+No evidence that predictive success functioned as the final epistemic authority in the core or auxiliary inquiry.
+
+**Evidence needed for promotion:**
+Direct statements subordinating all explanatory, interpretive, phenomenological, or pragmatic success to prediction.
+
+---
+
+### 4.14 Universalized Evaluative Jurisdiction
+
+**Reason for quarantine:**
+The jurisdiction dispute is central, but no actor is shown clearly universalizing one standard across all domains.
+
+**Evidence needed for promotion:**
+Direct cross-domain applications in which the actor refuses to justify the evaluative standard’s authority outside its originating domain.
+
+---
+
+### 4.15 Generative Admission Restriction
+
+**Reason for quarantine:**
+Ziggy does the opposite in the Voynich inquiry by expanding possible hypothesis sources.
+
+**Evidence needed for promotion:**
+Direct exclusion of a source from generating candidates before evaluation, not merely assigning it low evidential weight afterward.
+
+---
+
+### 4.16 Unmeasured-to-Zero Conversion
+
+**Reason for quarantine:**
+The packet contains source gaps and unknowns, but no actor directly converts missing measurement into a zero score.
+
+**Evidence needed for promotion:**
+A case where “not demonstrated under instrument `I`” is explicitly treated as “absent” or “worthless.”
+
+---
+
+### 4.17 Possibility Compression
+
+**Reason for quarantine:**
+Meaningful-Hypothesis Bracketing temporarily deprioritizes skeptical alternatives but does not establish a stable compression operator.
+
+**Evidence needed for promotion:**
+Repeated treatment of low-plausibility possibilities as functionally nonexistent without later restoration.
+
+---
+
+### 4.18 Baseline Exemption
+
+**Reason for quarantine:**
+Grant’s literal or consequence-oriented approach may have been treated as neutral, but the direct evidence is insufficient.
+
+**Evidence needed for promotion:**
+Direct Grant material showing his framework’s assumptions are exempted while contextual reconstruction bears the full evidential burden.
+
+---
+
+### 4.19 Reconstruction Bypass
+
+**Reason for quarantine:**
+The packet does not show whether Grant reconstructed Tale before testing consequences.
+
+**Evidence needed for promotion:**
+The complete Grant analytic sequence.
+
+---
+
+### 4.20 Contest-to-Defeat Compression
+
+**Reason for quarantine:**
+No direct evidence shows that either actor treated a raised objection as decisive defeat.
+
+**Evidence needed for promotion:**
+A recoverable move in which “an objection remains” is converted into “the position has failed.”
+
+---
+
+### 4.21 Contested ≠ Defeated
+
+**Reason for quarantine:**
+The Interpretive Target–Ledger Protocol would support this principle, but no actor directly and repeatedly applies it.
+
+**Evidence needed for promotion:**
+Direct cases where an unresolved objection is explicitly preserved as open rather than scored as defeat.
+
+---
+
+### 4.22 Relationship-Level Loops
+
+All seven loops remain quarantined from individual profiles:
+
+1. Depth Demand–Speculative Compensation.
+2. Validation–Deployment.
+3. Shared Opposition Construction.
+4. Correction After Overreach.
+5. Humor as Pressure Release and Blade.
+6. Exit Attempt–Meta-Debate Expansion.
+7. Implication–Attribution Drift.
+
+**Evidence needed for profile promotion:**
+Independent recurrence across other bounded interactions, with evidence separating relationship structure from participant traits and generic assistant behavior.
+
+---
+
+## 5. Extraction Self-Audit
+
+### 5.1 Candidate-registry priming risk
+
+The registry creates pressure to force blind findings into established names.
+
+**Highest-risk mappings:**
+
+* Method-Trade-Off Audit to Symmetry Testing of Standards.
+* Meaningful-Hypothesis Bracketing to Possibility Preservation.
+* Genre–Layout Function Projection to Cross-Disciplinary Swooping.
+
+**Control applied:**
+Partial matches were labeled `EXTENDS`; inverse or merely adjacent operations were retained as `NEW`.
+
+---
+
+### 5.2 Over-pattern-matching risk
+
+Several packet-local moves could be mistaken for stable operators:
+
+* Assumption-Exposure Reversal.
+* Search-Space Expansion.
+* Necessary-Feature Trace Search.
+* Intent-Epistemic Qualification.
+
+**Control applied:**
+Only three cautious Ziggy claims were promoted. No Grant profile was extracted.
+
+---
+
+### 5.3 Asymmetric charity risk
+
+Ziggy is directly represented at length. Grant is primarily G-REPORTED and appears directly only in brief screenshots.
+
+This asymmetry makes it easier to:
+
+* reconstruct Ziggy’s method charitably;
+* reduce Grant to a sparse objection;
+* treat missing Grant context as evidence of rigidity.
+
+**Control applied:**
+Grant’s strongest available objection was reconstructed, and all stable Grant characterization remains prohibited.
+
+---
+
+### 5.4 UNCLEAR converted into definite labels
+
+Potential conversion points included:
+
+* Grant’s GPT remark as genetic dismissal.
+* Grant as generally anti-intent.
+* Grant’s method as predictably defective.
+* Tale’s clarification as decisive.
+* Ziggy’s reconstruction as correct.
+* Voynich repetitions as medicinal instructions.
+
+**Control applied:**
+Each remains weakened, quarantined, or `UNKNOWN`.
+
+---
+
+### 5.5 Rhetoric converted into cognition
+
+The dog idiom, Nova’s teasers, and humor could be mistaken for stable reasoning operators.
+
+**Control applied:**
+They remain rhetorical or relationship-level findings.
+
+---
+
+### 5.6 Role behavior converted into subject evidence
+
+Nova’s alignment, protocol suggestions, and labels could be mistaken for evidence about Grant.
+
+**Control applied:**
+Nova role behavior was separated from Grant’s position ledger. Nova’s validation is not evidence that Grant possesses the traits Nova named.
+
+---
+
+### 5.7 Resistance converted into confirmation
+
+Grant’s objection to Nova’s framing could be interpreted as proof that he performs the diagnosed tactic.
+
+**Control applied:**
+Resistance is not confirmatory. His objection contains an independently legitimate epistemic challenge.
+
+---
+
+### 5.8 Auxiliary-domain dominance
+
+The Voynich material contains more directly observable Ziggy–Nova interaction than the sparse Grant–Tale evidence and could dominate the operator map.
+
+**Control applied:**
+Voynich findings remain auxiliary. Only directly supported cross-domain recurrence was considered.
+
+---
+
+### 5.9 General scholarship converted into local evidence
+
+Nova repeatedly moved from general Voynich claims to assertions about the user’s scans.
+
+**Control applied:**
+All Voynich semantic mappings remain hypothesis generation. No decipherment, poison marker, or local lexical count is recognized.
+
+---
+
+### 5.10 Shared inference converted into equal warrant
+
+Assumption-Exposure Reversal establishes that neither literal nor contextual interpretation is assumption-free.
+
+**Control applied:**
+No conclusion of equal justification follows. Relative warrant remains an unperformed audit.
+
+---
+
+### 5.11 Profile-readiness inflation
+
+The three promoted Ziggy claims survived Stage 3 but remain based on one bounded mixed-topic conversation.
+
+**Control applied:**
+All receive medium confidence and explicit review conditions. “Profile-ready” means suitable for cautious archival testing, not established as permanent personality traits.
+
+---
+
+### 5.12 Rushed or incomplete areas
+
+The weakest evidential areas remain:
+
+* Grant’s full analytic sequence;
+* Tale’s original statement;
+* Tale’s direct clarification;
+* Ziggy’s disputed representation;
+* the meaning of Grant’s GPT remark;
+* transcription-based Voynich testing.
+
+No conclusion dependent on those materials is promoted.
+
+**X-CONTEXT Notices:** None.
 
 
 ----------
