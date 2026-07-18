@@ -1,4 +1,4 @@
-# DIG 17 — *(title once known)*
+# DIG COMPOUND SWEEP 17 — Credence, Metric Selection, Doxastic Agency, and Moral Commitment
 
 > **Self-contained dig workbook.** Work top to bottom: copy each stage prompt
 > into the old chat **as its own message**, wait for the reply, paste it under
@@ -22,22 +22,22 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** EMPTY
+**Status:** 🟡 IN PROGRESS — Stages 1–2 ✅ reviewed (conceptual-differentiation + commitment-ladder overlays binding; ⚠️ **G-REPORTED-only Grant material — no profile, no operators, no motive**); Stage-3 output pasted, review pending; Stage 4 pending
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
-**Discovered topic:** _fill in after Stage 1 reveals what this chat actually holds_
+**Discovered topic:** did Grant "decide" that suffering is the best moral metric? — the six acts hiding inside "decision" (hypothesis → credence → ranking → working-model selection → decision-rule adoption → normative endorsement); the horse-race analogy (prediction vs betting); the corporate decision framework's jurisdiction; "metric" doing six jobs; "you always do what you want" and the desire taxonomy; first-order vs structural agency; compatibilism ≠ doxastic voluntarism; Mr. Brute continuity (aux)
 
 ## Packet Header (fill as you go)
 
 | Field | Value |
 | --- | --- |
-| Chat title | |
-| Source chat date (approx) | |
-| Participants | |
-| Extractor model | |
+| Chat title | UNKNOWN |
+| Source chat date (approx) | UNKNOWN |
+| Participants | Ziggy, Nova (assistant); Grant REPORTED only (no direct corpus — G-REPORTED throughout; one Z-DIRECT-interpretation entry flagged) |
+| Extractor model | memory-enabled ChatGPT (Nova-side; same extractor as prior sweeps — no extractor independence) |
 | Protocol version | v0.2.2 |
 | Dig operator | Ziggy |
-| Extraction date | |
+| Extraction date | 2026-07-17 |
 
 ---
 
@@ -911,6 +911,122 @@ A related game-theory discussion may exist under a separate historical thread, d
 
 ---
 
+### 🧭 FIELD-DESK REVIEW — STAGE 1 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+
+**Verdict: PASS WITH MAJOR CONCEPTUAL DIFFERENTIATION — proceed to
+Stage 2; no rerun.** Source boundary held; direct Grant profiling
+correctly refused. The central weakness: **"decision" carries too
+many incompatible meanings.** Archive identity confirmed:
+DIG_COMPOUND_17_credence_metric_selection_doxastic_agency_and_moral_commitment.
+
+**⭐ THE SIX ACTS INSIDE "DECISION" (the packet's governing ladder):**
+hypothesis generation → credence assignment → comparative judgment →
+working-model selection → decision-rule adoption → normative
+endorsement — **each arrow requires evidence**, and the thread never
+establishes that Grant moved through all six. Grant may deny only *"I
+voluntarily decided which proposition would appear most probable"*
+while coherently making genuine decisions about what to defend, test,
+communicate, or use. **Stage 2 must identify which operation Grant
+denied.** *Believing P likelier than Q ≠ deciding to believe P — but
+choosing to bet on, test, reason through, or act using P may be
+genuine decisions.*
+
+**🔧 THE HORSE-RACE ANALOGY conceals two questions:** *which horse
+seems most probable* (credence — possibly involuntary) vs *which
+horse receives my bet* (action — a genuine decision). Ziggy's "you
+still decide which horse receives the bet" establishes the practical
+decision; it does not prove Grant decided which horse *seemed* more
+likely. **Grant may be right about the first and Ziggy right about
+the second.** Original wording G-REPORTED — equivocation diagnoses
+stay provisional.
+
+**🔧 THE CORPORATE FRAMEWORK'S JURISDICTION:** identify-assess-gather-
+decide governs *action, policy, allocation* — not the involuntary
+formation of preliminary credences. *Unresolved knowledge gap ≠ no
+rational provisional ranking; provisional ranking ≠ closed inquiry;
+higher current credence ≠ confirmed superiority.* "Crowning the
+winner" needs calibration — six strength levels separated, and the
+proper pressure is never "how can you rank before testing?" but
+**"what evidence generated the ranking, how strong is the confidence,
+and what result would reverse it?"**
+
+**🔧 "METRIC" DOES SIX JOBS:** predictive feature / explanatory
+variable / measurement proxy / decision heuristic / criterion of
+rightness / moral foundation — *predicts what people call moral ≠
+explains why ≠ identifies moral truth*. And prediction needs an
+operational target (predict *whose* judgments? which task? what
+baseline? are suffering and cooperation even independent?) — until
+fixed, "suffering beats cooperation" may not express a determinate
+empirical proposition. Stage 2 exposes the missing specification,
+never adjudicates the winner.
+
+**🔧 THE ROLE TAXONOMY (functional-inference discipline):**
+observation → heuristic → default lens → decision procedure →
+criterion of rightness → ultimate foundation. Repeated use may
+establish a heuristic or default lens **without** establishing a
+compass; the criterion/decision-procedure distinction applies. Safe
+local conclusion: *suffering plays a recurring functional role in
+Grant's reported reasoning* — sole metric, foundation, and advocacy
+all unresolved. "I never said that" analysis needs the five-strength
+bridge (*asserted / repeatedly used / entailed / best-explained /
+merely compatible*).
+
+**🔧 "YOU ALWAYS DO WHAT YOU WANT" — the desire taxonomy:** nine
+senses of "want"; under the winning-motivation reading the claim is
+near-tautological. *Action reveals motivational dominance ≠ action
+satisfies the agent's desires; least-bad choice ≠ unqualified
+wanting; internal preference cause ≠ absence of coercive structure.*
+"Agency within vs over the system" refined to **first-order vs
+structural agency** (structural agency is still action within a
+larger causal system — no supernatural-escape reading).
+
+**⚖️ COMPATIBILISM ≠ DOXASTIC VOLUNTARISM (the alleged inconsistency
+under-supported):** a compatibilist may coherently hold actions free
+via reasons-responsive mechanisms while beliefs are not directly
+chosen — with **indirect epistemic agency** (what to investigate, how
+to test, how to act) fully intact. The three-way split binds:
+*doxastic agency ≠ inquiry agency ≠ practical agency.* **A
+contradiction requires affirming and denying the SAME agency
+relation.** The eight-question inconsistency test registered.
+**Determinism-as-accountability-avoidance OVERREAD** (Nova's
+interpretation exceeded the evidence — seven alternative explanations
+live; Grant's motive A0/UNKNOWN): *denies deciding belief ≠ denies
+all agency; rejects Ziggy's term ≠ rejects ownership; deterministic
+language ≠ accountability avoidance.*
+
+**📊 FORECAST REGISTERED (for Stage-2 scoring):** eight families —
+Desire–Preference–Action–Coercion;
+Credence–Hypothesis–Decision–Commitment;
+Prediction–Explanation–Normativity; Metric
+Comparison–Operationalization–Evidence;
+Observation–Heuristic–Compass–Foundation;
+Doxastic–Inquiry–Practical Agency; Framework Transfer and
+Jurisdiction; Assertion–Use–Implication–Ownership — plus four
+cross-cutting methods and the auxiliaries (Mr. Brute continuity;
+Frankfurt — auxiliary unless hierarchical desires are clearly
+distinguished from responsibility-without-alternatives). Thirty-five
+Stage-2 pressure questions. **Five Ziggy seeds** (comparative-metric
+sensitivity; commitment-visibility sensitivity;
+functional-implication analysis; multi-level agency sensitivity;
+knowledge-gap discipline — each with its restriction). **Grant: no
+profile-ready operation** (all G-REPORTED — five reported positions
+only). **Nova: interpretive caution filed** (the
+ownership-avoidance claims exceeded the evidence).
+
+**🎯 Central prey:** Grant may coherently hold a provisional credence
+that suffering predicts moral judgment while denying that he
+voluntarily decided what appeared most probable — Ziggy's strongest
+challenge begins only when that credence is operationally selected,
+repeatedly used as a decision procedure, or elevated into normative
+authority without comparative testing or declared commitment; the
+alleged compatibilist inconsistency exists only if Grant affirms and
+denies the *same kind* of agency.
+
+---
+
 ## 🟦 STAGE 2 PROMPT — copy everything inside the fence, send as one message
 
 ````text
@@ -1690,6 +1806,102 @@ Nova occasionally preserves Grant’s side by noting:
 
 21. **No existing named framework or operator has been used.** All move names are provisional and neutral.
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-17)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+
+**Verdict: PASS WITH MAJOR CONSOLIDATION AND COMMITMENT-LADDER
+REPAIRS — proceed to Stage 3; no rerun.** Thirteen moves consolidate
+under the eight Stage-1 families (forecast held). **The central
+inflation:** probabilistic ranking translated into hidden commitment,
+then into moral adoption, ownership avoidance, determinism, and
+institutional replacement — *without securing each bridge.*
+
+**⚖️ THE HEADLINE RENAME — Hidden-Commitment Extraction →
+**Commitment-Ladder Probe**:** the old name presupposed a concealed
+commitment successfully exposed. The nine-rung ladder binds
+(hypothesis → comparative credence → provisional ranking → inquiry
+prioritization → working-model selection → practical use →
+decision-rule adoption → normative endorsement →
+exclusive/foundational commitment) — *a person may occupy one level
+without occupying the next.* Ziggy's surviving direct seed: *"I am
+testing whether apparently neutral probability language obscures some
+stronger practical commitment"* — never *"I proved Grant secretly
+chose a moral framework."*
+
+**🔀 CONSOLIDATIONS AND RENAMES:** Moves 2+5 → **Claim-Scope
+Partitioning** (cross-cutting: grant the narrower claim, block the
+unsupported stronger one; Hypothesis–Coronation Separation = its
+specialized application); Knowledge-Gap Gating →
+**Confidence–Evidence Gating** (jurisdiction-controlled: gaps may
+block *final adoption*, never hypothesis generation or provisional
+credence — the defensible version regulates *when a conclusion may be
+elevated*); Causal-Control Decoupling → **Commitment–Causal-Control
+Separation** (survives strongly: *choosing what to back ≠ causing the
+outcome* — with the unresolved question of WHICH selection Grant
+denied); Moves 7+8 → **Explicit Assertion–Functional Implication
+Audit** ("Explicitness-Shield Detection" ruled prejudicial — "I never
+said that" may be valid correction of over-attribution; the safe seed
+is *Functional-Implication Sensitivity*, and functional use needs
+frequency/exclusivity/decisiveness tests before "compass" ever
+applies); Move 13 → **Prediction-to-Replacement Implication Probe**
+(exploratory only — *predicts a system's outputs ≠ replaces its
+justificatory, symbolic, motivational, or community functions*; the
+replacement reading = Z-DIRECT extrapolation from G-REPORTED
+material); Move 9 → **Evidential-Compulsion Hypothesis** (QUARANTINED
+— no accountability-avoidance, agency-offloading, or
+deterministic-evasion extraction; seven alternatives live); Move 10 →
+**Agency-Type Consistency Test** (a legitimate method; the *specific*
+Grant inconsistency unestablished — contradiction requires the same
+agency relation affirmed and denied); Move 11 = **Application-First
+Questioning Protocol** (Nova protocol behavior, with its named risk:
+*"how do you reconcile using suffering as your moral compass…"
+presupposes the disputed conclusion* — the neutral form: "what role,
+if any, does suffering play?"); Move 12 = **Vocabulary Accommodation**
+(lower-tier rhetoric — and its failure here is instructive: Ziggy
+retained "decide," the very term Grant disputed; the genuine semantic
+isolation test asks the five operations separately without the word).
+
+**🚫 NO GRANT OPERATORS:** all Grant material G-REPORTED —
+Hypothesis–Decision Separation, Evidential-Compulsion Framing,
+Epistemic Minimalism, decision avoidance, and commitment concealment
+all stay reported-position candidates or alternative reconstructions.
+Stage 3 tests *Ziggy's reports and Nova's inferences*, never Grant.
+
+**🔄 FIVE RELATIONSHIP LOOPS registered** (each with its named failure
+mode): Credence–Decision Lexical Loop (*the underlying acts are never
+independently named*); Minimal Claim–Expanded Implication Loop
+(*minimal proposition and functional framework never adjudicated
+separately*); Knowledge Gap–Prior Ranking Loop (*no shared rule
+distinguishes rational prior from unjustified coronation*); **Nova
+Validation–Accusation Escalation Loop** (*confidence rises before the
+strongest alternative is reconstructed*); Local Semantic
+Dispute–Metaphysical Diagnosis Loop (*a lexical distinction becomes
+evidence of psychological inconsistency*).
+
+**📋 SEVEN PROFILE-CANDIDATE ZIGGY MOVES** (First-Order/Structural
+Agency Separation; Claim-Scope Partitioning; Commitment-Ladder Probe;
+Confidence–Evidence Gating; Commitment–Causal-Control Separation;
+Explicit Assertion–Functional Implication Audit; Agency-Type
+Consistency Test — each with restrictions; the last at MEDIUM).
+Thirty Stage-3 pressure questions registered — sharpest: *did Ziggy
+apply equivalent ownership demands to his own credences and
+frameworks?* (the reciprocal, again). Fifteen restrictions carried.
+
+**🎯 The Stage-3 prey:** Ziggy's strongest insight is not that every
+probability judgment is secretly a decision — it is that credence,
+inquiry selection, working-model use, practical reliance, and
+normative endorsement form a ladder whose transitions must be made
+visible. Grant may coherently deny choosing what appears probable
+while still deciding what to test, use, defend, or act upon. The
+unresolved issue: where his reported suffering claim actually sits on
+that ladder — and whether Ziggy and Nova supplied evidence for each
+upward transition rather than treating resistance to the word
+"decision" as proof of concealed commitment.
 
 ---
 
@@ -2686,6 +2898,10 @@ No evidence was found that Ziggy consistently extended the same charity to Grant
 21. **The rival-metric challenge weakened as a positive comparative case.** It successfully showed live alternatives but did not operationalize or test them.
 
 22. **Any stable trait attribution to Grant weakened.** Grant’s contributions remain mediated through Ziggy’s report, making direct cognitive and rhetorical classification materially uncertain.
+
+**stage 3 patch**
+-----------------
+
 
 
 ---
