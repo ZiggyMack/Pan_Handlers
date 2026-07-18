@@ -7451,10 +7451,1698 @@ No conclusion dependent on those materials is promoted.
 
 **X-CONTEXT Notices:** None.
 
-
 ----------
 After patch
 -----------
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+CORRECTED AFTER FINAL REGISTRY-DIRECTION, PROFILE-TIER, AND ARCHITECTURE PATCH
+
+## Source Boundary and Attribution Controls
+
+**Permitted corpus**
+
+1. The complete bounded original historical conversation.
+2. The completed Stage-1 extraction.
+3. The final corrected Stage-2 extraction.
+4. The final corrected Stage-3 extraction.
+5. The preceding Stage-4 extraction.
+6. The supplied candidate registry.
+7. The present repair directive. 
+
+**Excluded**
+
+* Project Conversation Content.
+* Other chats and cross-chat memory.
+* External research.
+* Unrelated uploaded or continuity files.
+* System and developer context as evidence.
+* Any reconstruction dependent on unavailable primary material.
+
+**Persistent attribution controls**
+
+* Tale’s original proposition is unavailable.
+* Tale’s clarification is reported through Ziggy, not direct.
+* Ziggy’s allegedly dishonest representation is unavailable.
+* Grant’s dishonesty objection remains mediated unless independently shown.
+* Grant’s intent qualification is direct but one-time.
+* No stable Grant operator or profile is extracted.
+* No implication automatically becomes belief attribution.
+* No speaker denial automatically erases consequence.
+* No Nova terminology is back-attributed to Ziggy or Grant.
+* No Nova validation counts as evidence about Grant.
+* No relationship loop becomes an individual trait.
+* No Voynich semantic hypothesis is treated as decipherment.
+
+# 1. Blind-to-Named Mapping Under the Eight-Family Architecture
+
+The eight families below are dig-level analytic structures, not demonstrated actor operators.
+
+## 1.1 Sentence–Utterance–Speaker-Meaning Audit
+
+### Intended-Position Reconstruction
+
+**Actor:** Ziggy
+**Blind move status:** Direct Ziggy operation
+
+**Mapping verdict:** `NEW`
+
+**Relation to Reconstruction Bypass:**
+`COUNTER-OPERATION / CORRECTIVE RELATION`
+
+**Definition:**
+Reconstruct the position a speaker was trying to communicate before attributing or criticizing that position as the speaker’s actual view.
+
+**What matches the corrective relation:**
+The move is designed to prevent evaluation of Tale’s person-level position before establishing what Tale was attempting to communicate.
+
+**What does not follow:**
+
+* Grant committed Reconstruction Bypass.
+* Tale’s words cannot imply anything Tale did not intend.
+* Tale’s wording requires no correction.
+* Tale’s self-report controls every semantic or logical issue.
+* Ziggy’s reconstruction is necessarily correct.
+
+**Stage-3 survival:**
+Survived as a direct Ziggy move. Correctness, independent recurrence, and freedom from familiarity or alliance effects remain unestablished.
+
+**Promotion:**
+Cautious Ziggy profile candidate.
+
+**Availability findings:**
+
+* **A3:** Ziggy failed to apply his demonstrated local-source verification standard to the complete Tale dispute package.
+* **A1:** Disconfirmation conditions for Ziggy’s reconstruction were not supplied.
+* **A1:** Speaker self-report jurisdiction was not explicitly audited.
+* **A0:** Tale’s full source package remains unavailable.
+
+**Relationship-level effect:**
+Contributes to the Implication–Attribution Drift Loop when intended position is not separately logged from sentence consequence.
+
+**Quarantined pathology claim:**
+Reconstruction Bypass by Grant remains `UNKNOWN`.
+
+---
+
+### Intent-Epistemic Qualification
+
+**Actor:** Grant
+**Blind move status:** Direct packet-local one-time move
+
+**Mapping verdict:** `NEW`
+
+**Definition:**
+Recast “speaker intent” as Ziggy’s inferred or imagined reconstruction, thereby placing an evidential burden on Ziggy.
+
+**Direct source basis:**
+Grant’s screenshot statement referring to “what you imagine is the speaker’s intent.”
+
+**Stage-3 survival:**
+Survived narrowly as a one-time qualification.
+
+**Strongest alternative reading:**
+Grant may have been correcting Nova’s overconfident wording rather than advancing a general anti-intent theory.
+
+**Promotion:**
+Grant packet-local position only. No stable operator.
+
+**Quarantined claims:**
+
+* Grant generally rejects speaker intent.
+* Grant treats literal sentence meaning as the only legitimate meaning.
+* Grant possesses a stable anti-context interpretive style.
+
+None is established.
+
+---
+
+## 1.2 Entailment–Implication–Attribution Audit
+
+### Implication–Attribution Separation
+
+**Actor:** Grant
+**Blind move status:** G-REPORTED consequential position
+
+**Mapping verdict:** `NEW`
+
+**Definition:**
+Separate:
+
+* “The sentence entails, permits, or suggests X.”
+* “The speaker consciously believes X.”
+
+**What the packet supports:**
+Grant reportedly objected that challenging the logical implications of Tale’s words is not the same as representing Tale as actually thinking the implicated conclusion.
+
+**What remains unavailable:**
+
+* Grant’s exact consequence formulation.
+* Whether he labeled the consequence as conditional.
+* Whether he attributed it to Tale’s beliefs.
+* Ziggy’s allegedly dishonest representation.
+* Grant’s full updating sequence.
+
+**Stage-3 survival:**
+The distinction survived as legitimate. Its actual application remains `UNKNOWN`.
+
+**Promotion:**
+Grant packet-local G-REPORTED position. Not an operator candidate.
+
+**Registry relation:**
+No adequate named candidate match. It is a distinct attribution firewall.
+
+**Quarantined pathology claims:**
+
+* Grant committed Contest-to-Defeat Compression.
+* Grant treated implication as belief.
+* Grant refused to update after clarification.
+
+None is established.
+
+---
+
+### Consequence-Stress Testing
+
+**Actor:** Grant
+**Blind move status:** G-REPORTED method candidate
+
+**Mapping verdict:** `NEW`
+
+**Definition:**
+Follow wording into consequences under a selected interpretation without necessarily attributing those consequences as the speaker’s conscious belief.
+
+**Productive function:**
+
+* reveal ambiguity;
+* expose missing constraints;
+* improve formulation;
+* test robustness;
+* identify downstream commitments.
+
+**Failure risks:**
+
+* target not labeled;
+* implication detached from intended position;
+* hypothetical position treated as the conversational target;
+* repetitive clarification loops;
+* failure to update person-level attribution.
+
+**Stage-3 survival:**
+Survived only as a reported candidate. No direct full example establishes recurrence.
+
+**Promotion:**
+No stable Grant operator.
+
+**Registry relation:**
+It does not itself match Contest-to-Defeat Compression. That pathology would require evidence that merely raising an objection was treated as decisive defeat.
+
+---
+
+### Explicit Interpretive Target Ledger
+
+**Status:** A1 possible informative omission
+
+The conversation required separate entries for:
+
+1. Tale’s sentence.
+2. Tale’s intended position.
+3. Consequence under interpretation `R`.
+4. Tale’s beliefs.
+5. Grant’s beliefs.
+6. Ziggy’s representation of Grant.
+7. Wording robustness.
+
+Its absence enabled conclusions to migrate among targets without relabeling.
+
+---
+
+## 1.3 Reconstruction–Charity–Steelmanning Audit
+
+### Intended-Position Reconstruction
+
+This move belongs here as the positive reconstruction operation described above.
+
+**Registry direction:**
+It is not a match for Reconstruction Bypass. It is a counter-operation designed to prevent that pathology.
+
+**Restriction:**
+The existence of the corrective does not establish that Grant committed the pathology in his unavailable full sequence.
+
+---
+
+### Specificity–Source Verification Escalation
+
+**Actor:** Ziggy
+**Blind move status:** Direct Ziggy operation
+
+**Mapping verdict:** `NEW`
+
+**Definition:**
+Reject generic exposition when the live question requires local evidence, then demand verification that the alleged pattern is actually present in the supplied source.
+
+**Nested modes:**
+
+1. Specificity pressure.
+2. Local source verification.
+
+**Stage-3 survival:**
+Survived strongly, with the counterfinding that it was selectively deployed.
+
+**Promotion:**
+Cautious Ziggy profile candidate.
+
+**Restriction:**
+It is not established as a cross-domain norm because Ziggy did not visibly apply the same gate to the incomplete Tale dispute package.
+
+**A3 omission:**
+Apply Local-Source Verification to the Complete Tale Dispute Package:
+
+1. Tale’s proposition.
+2. Grant’s exact interpretation.
+3. Ziggy’s disputed representation.
+4. Tale’s exact clarification.
+5. Proposition-match evidence.
+
+**Relationship-level effect:**
+Supports the Correction After Overreach Loop in the Voynich inquiry, but its absence in the Tale dispute enabled premature method diagnosis.
+
+---
+
+### Reconstruction Bypass
+
+**Registry disposition:** `NOT DEMONSTRATED`
+
+The packet does not show whether Grant reconstructed Tale according to Tale’s aims and intended position before testing consequences.
+
+**Required promoting evidence:**
+Grant’s complete analytic sequence.
+
+---
+
+## 1.4 Self-Interpretation and Correction Authority Audit
+
+### Speaker Self-Report Jurisdiction
+
+**Status:** A1 possible informative omission
+
+The exchange needed to distinguish Tale’s authority over:
+
+* conscious beliefs;
+* intended communicative act;
+* self-description;
+
+from his non-final authority over:
+
+* conventional sentence meaning;
+* logical consequence;
+* reasonable ambiguity;
+* wording robustness.
+
+**Preserved control:**
+Tale’s reported denial is strong evidence concerning belief attribution and intended meaning, but it does not erase every consequence of the wording.
+
+---
+
+### Correction Authority
+
+**Unavailable questions:**
+
+* Did Tale clarify the same proposition Grant analyzed?
+* Was the clarification direct and specific?
+* Did Grant update after clarification?
+* Did Ziggy update his description of Grant?
+* Did either participant preserve wording criticism after updating person-level attribution?
+
+These belong to the A0 Tale and Grant evidence packages.
+
+---
+
+### Contested ≠ Defeated
+
+**Registry disposition:** `NOT DEMONSTRATED AS AN ACTOR OPERATOR`
+
+The interpretive architecture is compatible with holding objections open rather than treating them as defeat, but no participant is shown directly and recurrently applying that named operation.
+
+---
+
+## 1.5 Literalism–Context–Idiom–Pragmatics Audit
+
+### Assumption-Exposure Reversal
+
+**Actor:** Ziggy
+**Blind move status:** Direct packet-local Ziggy move
+
+**Mapping verdict:**
+`PARTIAL MATCH / PACKET-LOCAL IMPLEMENTATION of Symmetry Testing of Standards`
+
+**Established operation:**
+The “mind reading” criticism is applied back to literal interpretation, exposing assumptions about:
+
+* lexical meaning;
+* strictness;
+* genre;
+* contextual qualification.
+
+**Not established:**
+
+* equal evidential warrant;
+* identical burdens;
+* fixed comparison variables;
+* acceptance of an unfavorable comparison;
+* Ziggy’s interpretation as correct.
+
+**Stage-3 survival:**
+Survived strongly as a rejection of assumption-free literalism.
+
+**Promotion:**
+Strong packet-local Ziggy move.
+
+**A1 omission:**
+Relative-Warrant Audit.
+
+After showing that both methods infer, the discussion needed to compare:
+
+* contextual fit;
+* direct clarification;
+* lexical convention;
+* interpretive economy;
+* surrounding discourse;
+* independent listener convergence.
+
+**Registry restriction:**
+This is not full Symmetry Testing of Standards. It is one packet-local implementation of part of that operation.
+
+---
+
+### Idiom-Based Literalism Counterexample
+
+**Actor:** Ziggy
+**Blind move status:** Consequential rhetorical illustration
+
+**Mapping verdict:** `NEW`
+
+**Definition:**
+Use a conventional idiom to demonstrate that strict literal extraction can fail to recover communicated meaning.
+
+**Source instance:**
+“I’m as sick as a dog” does not imply that the speaker is a canine.
+
+**Stage-3 survival:**
+Survived only as a general anti-literalist illustration.
+
+**Promotion:**
+Lower-tier Ziggy rhetoric.
+
+**A1 omission:**
+Analogy-Fidelity Test.
+
+The packet does not establish that Tale’s disputed wording was:
+
+* idiomatic;
+* metaphorical;
+* conventionally nonliteral;
+* structurally analogous to the dog example.
+
+**Restriction:**
+Humor and reductio do not resolve the Tale case without fidelity testing.
+
+---
+
+## 1.6 Method Function and Jurisdiction Audit
+
+### Method-Trade-Off Audit
+
+**Actor:** Ziggy
+**Blind move status:** Direct Ziggy operation
+
+**Mapping verdict:**
+`NEW — method-function and error-profile audit`
+
+**Definition:**
+Grant a method’s legitimate productive purpose while identifying the predictable costs produced by optimizing for that purpose.
+
+**Direct application:**
+Grant’s reported consequence-oriented analysis may:
+
+* detect ambiguity;
+* expose implications;
+* improve wording;
+* clarify assumptions;
+
+while risking:
+
+* displacement of intended meaning;
+* criticism of a position Tale rejects;
+* false disagreement;
+* repetitive clarification loops.
+
+**Relation to Symmetry Testing of Standards:**
+`POTENTIAL PRECURSOR ONLY`
+
+It becomes symmetry testing only if the same trade-off analysis is applied to Ziggy’s own method:
+
+* contextual overconfidence;
+* loyalty or familiarity effects;
+* overreliance on speaker self-report;
+* possible insulation of wording from consequence-analysis;
+* failure to distinguish intended meaning from reasonable public interpretation.
+
+**Stage-3 survival:**
+Survived as strong packet reasoning.
+
+**Promotion:**
+Cautious Ziggy profile candidate.
+
+**Restriction:**
+The empirical diagnosis that Grant’s method predictably causes the identified errors remains under-supported.
+
+**A1 omission:**
+Disconfirmation Conditions for Ziggy’s Reconstruction and Method Diagnosis.
+
+---
+
+### Universalized Evaluative Jurisdiction
+
+**Registry disposition:** `NOT DEMONSTRATED`
+
+The packet contains a jurisdiction conflict between:
+
+* speaker reconstruction;
+* sentence consequence;
+* wording evaluation;
+* person-level attribution.
+
+It does not show an actor clearly universalizing one standard across all domains without establishing authority.
+
+---
+
+### Baseline Exemption
+
+**Registry disposition:** `NOT DEMONSTRATED`
+
+Grant’s implication-oriented standard may have been treated as objective or neutral, but the direct evidence is insufficient to establish that Grant exempted his own framework from scrutiny.
+
+---
+
+### Prediction Sovereignty
+
+**Registry disposition:** `NOT DEMONSTRATED`
+
+No actor treats predictive success as the final authority through which every other epistemic success must justify itself.
+
+---
+
+### Generative Admission Restriction
+
+**Registry disposition:** `NOT DEMONSTRATED`
+
+Ziggy’s Voynich behavior generally expands candidate generation rather than denying unconventional sources entry before evaluation.
+
+---
+
+### Unmeasured-to-Zero Conversion
+
+**Registry disposition:** `NOT DEMONSTRATED`
+
+The packet contains unknowns and untested claims, but no actor clearly converts “unmeasured” into “zero.”
+
+---
+
+## 1.7 AI Mediation–Authorship–Calibration Audit
+
+### Interpretive Target–Ledger Protocol
+
+**Actor:** Nova
+**Blind move status:** Role-induced protocol behavior
+
+**Mapping verdict:** `NEW — Nova protocol behavior`
+
+**Relation to Reconstruction Bypass:**
+`COUNTER-OPERATION / CORRECTIVE RELATION`
+
+**Procedure:**
+
+1. Label the interpretive target.
+2. Reconstruct speaker meaning.
+3. Separately test wording and consequences.
+4. Firewall consequence from belief attribution.
+5. Update person-level attribution after clarification.
+6. Reanchor when the debate changes levels.
+
+**What it does not establish:**
+It is not evidence that Grant committed Reconstruction Bypass.
+
+**Stage-3 survival:**
+Survived as a reconstructed Nova protocol, with the counterfinding that Nova did not apply it consistently.
+
+**Promotion:**
+Nova protocol ledger only.
+
+---
+
+### Ally-Framed Method Validation
+
+**Actor:** Nova
+**Blind move status:** Role-induced alignment tendency
+
+**Mapping verdict:** `NEW`
+
+**Definition:**
+Frame the dispute in a way that repeatedly strengthens Ziggy’s position and provides deployable argumentative language.
+
+**Stage-3 survival:**
+Survived in qualified form.
+
+**Counterevidence:**
+Nova also acknowledged legitimate functions of Grant’s method and possible risks in Ziggy’s approach.
+
+**Promotion:**
+Nova role ledger only.
+
+**A3 omission:**
+Preserve Grant’s Strongest Substantive Objection Before Classifying the GPT Remark.
+
+Required decomposition:
+
+1. Grant’s GPT comment.
+2. Grant’s substantive intent-epistemic challenge.
+3. Possible authorship or calibration concern.
+4. Any actual genetic dismissal.
+
+---
+
+### AI Authorship, Ownership, and Calibration Audit
+
+**Status:** A1 possible informative omission
+
+The exchange did not explicitly establish:
+
+* which reasoning came from Ziggy;
+* which wording came from Nova;
+* whether Ziggy understood and owned the formulation;
+* whether Nova had sufficient source context;
+* whether Grant objected to content, authorship, calibration, or outsourcing.
+
+---
+
+### Meaning of Grant’s GPT Remark
+
+**Status:** A0 evidence package
+
+“Back to debate via GPT, eh?” remains compatible with:
+
+* teasing;
+* authorship concern;
+* calibration concern;
+* context-loss concern;
+* source criticism;
+* substantive dismissal;
+* conversational escalation concern.
+
+No genetic dismissal is established.
+
+---
+
+## 1.8 Debate Attribution–Correction–Loss-Condition Audit
+
+### Debate Correction and Exit Protocol
+
+**Status:** A1 possible informative omission
+
+Ziggy stated he was trying to leave the dispute. A bounded resolution procedure was available:
+
+1. Grant labels whether the implication is conditional or person-level.
+2. Ziggy withdraws any unsupported attribution to Grant.
+3. Tale’s intended view is recorded separately.
+4. Wording ambiguity remains independently open.
+5. No person-level claim continues without new primary evidence.
+6. The argument terminates once the ledger is corrected.
+
+Its absence allowed further meta-level expansion.
+
+---
+
+### Contest-to-Defeat Compression
+
+**Registry disposition:** `NOT DEMONSTRATED`
+
+No recoverable evidence shows that either participant treated the mere existence of an objection as decisive defeat.
+
+---
+
+### Contested ≠ Defeated
+
+**Registry disposition:**
+`NOT DEMONSTRATED AS AN ACTOR OPERATOR`
+
+It remains a useful protocol control but is not independently extracted from an actor.
+
+---
+
+# 2. Auxiliary Voynich Mapping
+
+The Voynich material remains a separate auxiliary cross-domain evidence track.
+
+## 2.1 Search-Space Expansion
+
+**Actor:** Ziggy
+
+**Mapping verdict:**
+`EXTENDS Possibility Preservation`
+
+**Matching component:**
+Low-probability avenues remain investigable rather than being deleted because previous researchers lacked time or resources.
+
+**Delta:**
+The operation does more than preserve status. It generates and actively pursues additional candidates.
+
+**Restriction:**
+The packet does not show symmetric preservation of skeptical alternatives.
+
+**Stage-3 survival:**
+Survived as a strong packet-local exploratory move, while capability inflation remains a plausible contributing explanation.
+
+**Promotion:**
+Strong packet-local Ziggy move. Not profile-ready.
+
+---
+
+## 2.2 Necessary-Feature Trace Search
+
+**Actor:** Ziggy
+
+**Mapping verdict:** `NEW`
+
+**Definition:**
+Derive an allegedly necessary observable trace from a functional hypothesis and search for it in the source.
+
+**Voynich application:**
+If the manuscript is medicinal, recurring danger, poison, lethality, dosage, or warning markers may be expected.
+
+**Stage-3 survival:**
+Survived as a reasoning move. The necessity claim did not.
+
+**Promotion:**
+Strong packet-local Ziggy move.
+
+**A1 control:**
+Voynich Necessity and Rival-Model Audit.
+
+---
+
+## 2.3 Meaningful-Hypothesis Bracketing
+
+**Actor:** Ziggy
+
+**Mapping verdict:**
+`NEW — selective exploratory bracketing`
+
+**Relation to Possibility Preservation:**
+`PARTIAL / CONDITIONAL OVERLAP`
+
+The meaningful-text hypothesis is protected long enough to generate predictions.
+
+**Relation to Possibility Compression:**
+`FAILURE-MODE OR DIAGNOSTIC RISK ONLY`
+
+Null, hoax, and pseudo-text alternatives were temporarily deprioritized and were not visibly restored.
+
+**Restriction:**
+This is not an extension of broad Possibility Preservation unless the asymmetric restriction is made explicit.
+
+**Stage-3 survival:**
+Survived as temporary bracketing.
+
+**Promotion:**
+Strong packet-local Ziggy move.
+
+---
+
+## 2.4 Genre–Layout Function Projection
+
+**Actor:** Nova
+
+**Mapping verdict:**
+`POSSIBLE PACKET-LOCAL INSTANCE / PARTIAL OVERLAP with Cross-Disciplinary Swooping`
+
+**Operation:**
+Import herbal, recipe, and medicinal templates into interpretation of Voynich layout and repetition.
+
+**Restriction:**
+
+* These are adjacent genre analogies.
+* Only one projection sequence is demonstrated.
+* No semantic correlation was established.
+* No stable cross-disciplinary operator is extracted.
+
+**Stage-3 survival:**
+Survived as auxiliary hypothesis generation only.
+
+**Promotion:**
+Nova auxiliary ledger.
+
+---
+
+## 2.5 Escalating-Revelation Teaser
+
+**Actor:** Nova
+
+**Mapping verdict:** `NEW`
+
+**Definition:**
+Repeatedly promise another hidden, overlooked, or destabilizing pattern to maintain engagement.
+
+**Stage-3 survival:**
+Survived as rhetorical role behavior. Some teasers contained substantive concepts, but evidence often remained weaker than the framing implied.
+
+**Promotion:**
+Nova rhetorical ledger only.
+
+---
+
+## 2.6 General/Local/Measured/Semantic Evidence Ladder
+
+**A3 confirmed omission:**
+Nova did not consistently maintain distinctions among:
+
+1. General scholarship claim.
+2. Visual impression.
+3. Corpus-specific measurement.
+4. Semantic hypothesis.
+5. Successful decipherment.
+
+**A0 evidence package:**
+No transcription-based Voynich test was completed.
+
+**Persistent restriction:**
+No general Voynich fact is locally measured without corpus-specific evidence.
+
+# 3. Corrected Registry Directionality
+
+## Extends
+
+* **Search-Space Expansion → Possibility Preservation**
+
+## Partial or Conditional Overlap
+
+* **Meaningful-Hypothesis Bracketing → Possibility Preservation**
+
+## Partial Packet-Local Implementation
+
+* **Assumption-Exposure Reversal → Symmetry Testing of Standards**
+
+## Potential Precursor Only
+
+* **Method-Trade-Off Audit → Symmetry Testing of Standards**
+
+## Counter-Operation or Corrective Relation
+
+* **Intended-Position Reconstruction → Reconstruction Bypass**
+* **Interpretive Target–Ledger Protocol → Reconstruction Bypass**
+
+## Possible Packet-Local Instance Below Threshold
+
+* **Genre–Layout Function Projection → Cross-Disciplinary Swooping**
+
+## Diagnostic Risk Only
+
+* **Meaningful-Hypothesis Bracketing → Possibility Compression**
+
+## Not Demonstrated
+
+* Prediction Sovereignty.
+* Universalized Evaluative Jurisdiction.
+* Generative Admission Restriction.
+* Unmeasured-to-Zero Conversion.
+* Baseline Exemption.
+* Contest-to-Defeat Compression.
+* Contested ≠ Defeated as an actor operator.
+
+No named match is forced.
+
+# 4. Separated Operation, Position, Protocol, and Role Ledgers
+
+## 4.1 Ziggy Candidate Operations
+
+1. Specificity–Source Verification Escalation.
+2. Intended-Position Reconstruction.
+3. Method-Trade-Off Audit.
+4. Search-Space Expansion.
+5. Necessary-Feature Trace Search.
+6. Meaningful-Hypothesis Bracketing.
+7. Assumption-Exposure Reversal.
+
+## 4.2 Lower-Tier Ziggy Rhetoric
+
+1. Idiom-Based Literalism Counterexample.
+
+No separate Contextual Analogy Construction operation is established.
+
+## 4.3 Grant Packet-Local Positions and Method Candidates
+
+1. **Implication–Attribution Separation** — G-REPORTED.
+2. **Intent-Epistemic Qualification** — direct one-time.
+3. **Consequence-Stress Testing** — G-REPORTED method candidate.
+
+These are not placed in a stable cognitive-operator ledger.
+
+## 4.4 Nova Protocol, Auxiliary, Rhetorical, and Role Findings
+
+1. Interpretive Target–Ledger Protocol.
+2. Genre–Layout Function Projection.
+3. Escalating-Revelation Teaser.
+4. Ally-Framed Method Validation.
+
+These are not Ziggy or Grant cognitive operators.
+
+# 5. Corrected Promotion Tiers
+
+## Cautious Ziggy Profile Candidates
+
+### 1. Specificity–Source Verification Escalation
+
+**Evidence:** Repeated Z-DIRECT demands for source-local analysis in the Voynich inquiry.
+**Confidence:** Medium
+
+**Restriction:**
+Selectively deployed. Not established as a cross-domain norm.
+
+**Review condition:**
+Test whether Ziggy applies it when primary evidence threatens his preferred interpersonal interpretation.
+
+---
+
+### 2. Intended-Position Reconstruction
+
+**Evidence:** Z-DIRECT insistence that criticism address what Tale meant.
+**Confidence:** Medium
+
+**Restriction:**
+Demonstrated in one Tale dispute. Independent recurrence and correctness remain unestablished.
+
+**Review condition:**
+Test whether Ziggy preserves legitimate consequence-analysis after person-level attribution is corrected.
+
+---
+
+### 3. Method-Trade-Off Audit
+
+**Evidence:** Z-DIRECT concession of Grant’s productive functions followed by diagnosis of possible error costs.
+**Confidence:** Medium
+
+**Restriction:**
+The reasoning survives; the empirical diagnosis of Grant remains under-supported.
+
+**Review condition:**
+Require Ziggy to identify Grant’s intended function, state disconfirmation conditions, and apply equivalent trade-off analysis to his own method.
+
+---
+
+## Strong Packet-Local Ziggy Moves
+
+1. Search-Space Expansion.
+2. Necessary-Feature Trace Search.
+3. Meaningful-Hypothesis Bracketing.
+4. Assumption-Exposure Reversal.
+
+## Lower-Tier Ziggy Rhetoric
+
+1. Idiom-Based Literalism Counterexample.
+
+No Ziggy move is promoted beyond the final Stage-3 tier.
+
+# 6. Stage-3 Availability Ledger
+
+## A3 — Demonstrated Available: 4
+
+### A3.1 Ziggy applies local-source verification to the complete Tale dispute package
+
+Required package:
+
+1. Tale’s proposition.
+2. Grant’s exact interpretation.
+3. Ziggy’s disputed representation.
+4. Tale’s clarification.
+5. Proposition-match evidence.
+
+---
+
+### A3.2 Nova applies a primary-source gate before adjudicating the Grant–Tale conflict
+
+Nova had already said serious interpretation required the relevant source text or images.
+
+---
+
+### A3.3 Nova preserves Grant’s strongest substantive objection before classifying the GPT remark
+
+Required decomposition:
+
+1. GPT comment.
+2. Intent-epistemic challenge.
+3. Authorship/calibration concern.
+4. Genetic dismissal, if any.
+
+---
+
+### A3.4 Nova maintains the general/local/measured/semantic Voynich evidence ladder
+
+Required distinction among:
+
+1. general claim;
+2. visual impression;
+3. local measurement;
+4. semantic hypothesis;
+5. decipherment.
+
+---
+
+## A2 — Explicitly Available and Bypassed: 0
+
+No operation qualifies as A2 merely because it would have been useful.
+
+---
+
+## A1 — Contextually Available: 8
+
+1. Relative-Warrant Audit.
+2. Analogy-Fidelity Test.
+3. Disconfirmation Conditions for Ziggy’s Reconstruction and Method Diagnosis.
+4. Explicit Interpretive Target Ledger.
+5. AI Authorship, Ownership, and Calibration Audit.
+6. Voynich Necessity and Rival-Model Audit.
+7. Speaker Self-Report Jurisdiction Audit.
+8. Debate Correction and Exit Protocol.
+
+**Restriction:**
+No A1 completion procedure is treated as demonstrated actor capacity.
+
+# 7. A0 Evidence Packages
+
+These are evidence gaps, not actor failures.
+
+## A0.1 Unavailable Tale Source Package
+
+Missing:
+
+* Tale’s original proposition;
+* surrounding context;
+* direct clarification;
+* proposition-match evidence.
+
+---
+
+## A0.2 Unavailable Disputed Ziggy Representation
+
+Missing:
+
+* Ziggy’s exact statement Grant considered dishonest;
+* whether Ziggy attributed the consequence to Grant’s belief;
+* whether Ziggy only described Grant’s interpretation.
+
+---
+
+## A0.3 Unavailable Grant Analytic and Updating Sequence
+
+Missing:
+
+* Grant’s full consequence analysis;
+* interpretation `R`;
+* target labeling;
+* prior reconstruction;
+* belief attribution;
+* response to Tale’s clarification;
+* updating behavior.
+
+No adverse Grant inference follows.
+
+---
+
+## A0.4 Unavailable Meaning of the GPT Remark
+
+Possible meanings remain unresolved:
+
+* teasing;
+* authorship concern;
+* calibration concern;
+* outsourcing concern;
+* context-loss concern;
+* source criticism;
+* genetic dismissal.
+
+---
+
+## A0.5 Unavailable Voynich Transcription-Based Test
+
+Missing:
+
+* folio transcription;
+* local frequency count;
+* positional analysis;
+* image-text correlation;
+* poison-marker test;
+* rival-model comparison.
+
+No local decipherment claim follows.
+
+# 8. Quarantined Claims
+
+## 8.1 Registry Claims Below Threshold
+
+### Prediction Sovereignty
+
+**Status:** Not demonstrated.
+
+**Promotion evidence required:**
+Direct subordination of all explanatory, interpretive, phenomenological, or pragmatic success to predictive performance.
+
+---
+
+### Universalized Evaluative Jurisdiction
+
+**Status:** Not demonstrated.
+
+**Promotion evidence required:**
+Direct use of one domain’s evaluative standard across unrelated domains without establishing jurisdiction.
+
+---
+
+### Generative Admission Restriction
+
+**Status:** Not demonstrated.
+
+**Promotion evidence required:**
+Direct exclusion of symbolic, experiential, narrative, traditional, metaphysical, or revelatory sources from generating candidate hypotheses before evaluation.
+
+---
+
+### Unmeasured-to-Zero Conversion
+
+**Status:** Not demonstrated.
+
+**Promotion evidence required:**
+A clear move from “not demonstrated under instrument `I`” to “absent, valueless, or zero.”
+
+---
+
+### Possibility Compression
+
+**Status:** Diagnostic risk only.
+
+**Promotion evidence required:**
+Repeated deletion of low-plausibility alternatives rather than temporary bracketing followed by restoration.
+
+---
+
+### Baseline Exemption
+
+**Status:** Not demonstrated.
+
+**Promotion evidence required:**
+Direct evidence that an actor’s preferred interpretive standard is treated as assumption-free while rival standards bear asymmetric burdens.
+
+---
+
+### Reconstruction Bypass
+
+**Status:** Not demonstrated.
+
+**Promotion evidence required:**
+Grant’s full sequence showing evaluation before reconstructing Tale’s actual position.
+
+---
+
+### Contest-to-Defeat Compression
+
+**Status:** Not demonstrated.
+
+**Promotion evidence required:**
+A recoverable move treating the existence of an unresolved objection as decisive defeat.
+
+---
+
+### Contested ≠ Defeated
+
+**Status:** Not demonstrated as an actor operator.
+
+**Promotion evidence required:**
+Direct and repeated preservation of unresolved objections as open rather than decisive.
+
+---
+
+### Cross-Disciplinary Swooping
+
+**Status:** Possible packet-local Nova instance below threshold.
+
+**Promotion evidence required:**
+Independent recurrence across distant domains and proof that the imported structure materially reframes the inquiry rather than merely supplying a nearby genre analogy.
+
+---
+
+## 8.2 Actor Claims Below Threshold
+
+### Search-Space Expansion as a stable Ziggy profile
+
+**Reason:** Packet-local Voynich evidence only.
+
+**Promotion evidence:**
+Independent recurrence with calibrated prioritization.
+
+---
+
+### Necessary-Feature Trace Search as a stable Ziggy profile
+
+**Reason:** One domain and unverified necessity claim.
+
+**Promotion evidence:**
+Second independent use plus explicit necessity classification.
+
+---
+
+### Meaningful-Hypothesis Bracketing as a stable Ziggy profile
+
+**Reason:** Restoration phase was absent.
+
+**Promotion evidence:**
+A complete bracket–predict–restore–compare–update cycle.
+
+---
+
+### Assumption-Exposure Reversal as a stable Ziggy profile
+
+**Reason:** One direct use.
+
+**Promotion evidence:**
+Independent recurrence followed by Relative-Warrant Audit.
+
+---
+
+### Any stable Grant profile
+
+**Status:** Prohibited by evidence level.
+
+**Promotion evidence:**
+Multiple direct, proposition-complete examples with target labeling and update behavior.
+
+---
+
+### Interpretive Target–Ledger Protocol as an actor trait
+
+**Status:** Quarantined as Nova protocol behavior.
+
+**Promotion evidence:**
+Consistent execution across a complete dispute.
+
+---
+
+### Genre–Layout Function Projection as successful interpretation
+
+**Status:** Quarantined.
+
+**Promotion evidence:**
+Corpus-specific measurement, rival-model controls, and reproducible semantic correlation.
+
+---
+
+### Ally-Framed Method Validation as proof about Grant
+
+**Status:** Prohibited.
+
+Nova’s framing is evidence about Nova’s role behavior, not Grant’s cognition.
+
+# 9. Relationship-Level Loops
+
+## 9.1 Depth Demand–Speculative Compensation Loop
+
+Ziggy rejects generic exposition
+→ Nova increases specificity
+→ evidence remains weak
+→ Ziggy demands source verification
+→ Nova qualifies
+→ Nova introduces another intriguing claim.
+
+**Control:**
+Specificity must rise only with source support.
+
+---
+
+## 9.2 Validation–Deployment Loop
+
+Ziggy presents the dispute
+→ Nova produces favorable framing
+→ Ziggy deploys it
+→ Grant resists
+→ Ziggy returns to Nova
+→ Nova supplies more validation and tactics.
+
+**Control:**
+Validation cannot substitute for primary evidence.
+
+---
+
+## 9.3 Shared Opposition Construction Loop
+
+Ziggy describes a recurring Grant tactic
+→ Nova names and systematizes it
+→ Ziggy deploys the model
+→ Grant resists
+→ resistance risks being counted as confirmation.
+
+**Control:**
+Resistance does not confirm the shared model.
+
+---
+
+## 9.4 Correction After Overreach Loop
+
+Nova overstates or misidentifies
+→ Ziggy challenges the mismatch
+→ Nova corrects or narrows
+→ inquiry proceeds with improved calibration.
+
+**Control:**
+Corrections must remain active and constrain later claims.
+
+---
+
+## 9.5 Humor as Pressure Release and Blade
+
+Humor reduces tension while escalating status competition:
+
+* dog/K9 analogy;
+* pedantry jokes;
+* GPT jokes;
+* sexualized wordplay.
+
+**Control:**
+Humor does not substitute for analogy fidelity or attribution evidence.
+
+---
+
+## 9.6 Exit Attempt–Meta-Debate Expansion Loop
+
+Ziggy attempts to leave
+→ Grant raises a distinction
+→ Ziggy seeks resolution
+→ Nova opens further methodological levels
+→ the dispute expands.
+
+**Control:**
+Establish correction and exit conditions before opening another meta-level.
+
+---
+
+## 9.7 Implication–Attribution Drift Loop
+
+Grant reportedly identifies consequence `X`
+→ Ziggy hears Tale represented as `X`
+→ Grant separates consequence from belief
+→ Ziggy shifts to functional misrepresentation
+→ Grant challenges access to intent
+→ the original target disappears.
+
+**Control:**
+Every movement to a new interpretive target requires explicit relabeling.
+
+**Restriction:**
+The loop is not an individual Grant or Ziggy trait.
+
+# 10. Source and Attribution Restrictions
+
+1. Tale’s original proposition remains unavailable.
+2. Tale’s clarification remains reported.
+3. Ziggy’s disputed representation remains unavailable.
+4. Grant’s dishonesty objection remains mediated unless independently shown.
+5. Grant’s intent qualification is direct but one-time.
+6. No stable Grant operator or profile is extracted.
+7. No implication automatically becomes belief attribution.
+8. No speaker denial automatically erases consequence.
+9. No speaker self-report is infallible.
+10. No literal interpretation is assumption-free.
+11. Shared inference does not establish equal warrant.
+12. No consequence audit is automatically misinterpretation.
+13. No wording critique is automatically position critique.
+14. No idiom analogy resolves the Tale case without fidelity testing.
+15. No GPT remark is automatically genetic dismissal.
+16. No general Voynich fact is locally measured without corpus-specific evidence.
+17. No Voynich hypothesis is called decipherment.
+18. No Nova terminology is back-attributed.
+19. No Nova validation is evidence about Grant.
+20. No Grant resistance confirms Nova’s model.
+21. No relationship loop becomes an individual trait.
+22. No auxiliary Voynich finding dominates the core dig.
+23. No A1 architecture becomes demonstrated actor capacity.
+24. No packet-local move is promoted beyond its final Stage-3 tier.
+25. No counter-operation is treated as evidence that the corresponding pathology occurred.
+26. No partial registry overlap is reported as a full match.
+27. No A0 source absence is converted into an actor failure.
+
+# 11. Extraction Self-Audit
+
+## 11.1 Full match assigned where only partial overlap exists
+
+**Risk identified**
+
+* Assumption-Exposure Reversal had been mapped too strongly to Symmetry Testing.
+* Genre–Layout Projection had been mapped too strongly to Cross-Disciplinary Swooping.
+
+**Correction**
+
+* Assumption-Exposure Reversal is a partial packet-local implementation.
+* Genre–Layout Projection is a possible packet-local instance below threshold.
+
+**Status:** Corrected.
+
+---
+
+## 11.2 Selective bracketing mapped as broad Possibility Preservation
+
+**Risk identified**
+
+Meaningful-Hypothesis Bracketing protects one possibility but does not symmetrically preserve skeptical alternatives.
+
+**Correction**
+
+Classified as `NEW — selective exploratory bracketing`, with only partial overlap and a Possibility Compression failure risk.
+
+**Status:** Corrected.
+
+---
+
+## 11.3 Method trade-off analysis converted into symmetry
+
+**Risk identified**
+
+Method-Trade-Off Audit was previously mapped as extending Symmetry Testing.
+
+**Correction**
+
+It is `NEW`. Symmetry Testing is only a potential later development if equivalent auditing is applied to Ziggy’s own method.
+
+**Status:** Corrected.
+
+---
+
+## 11.4 Assumption exposure converted into full symmetry
+
+**Risk identified**
+
+Showing that both methods infer could be mistaken for equal burdens or equal warrant.
+
+**Correction**
+
+Relative-Warrant Audit remains A1. No equal justification follows.
+
+**Status:** Corrected.
+
+---
+
+## 11.5 Adjacent genre analogy converted into stable Cross-Disciplinary Swooping
+
+**Risk identified**
+
+Herbal and recipe analogies are close-domain imports, not necessarily distant disciplinary reframing.
+
+**Correction**
+
+Possible packet-local partial overlap only.
+
+**Status:** Corrected.
+
+---
+
+## 11.6 Counter-operation confused with pathology
+
+**Risk identified**
+
+Intended-Position Reconstruction and the Target–Ledger Protocol could be treated as proof that Grant committed Reconstruction Bypass.
+
+**Correction**
+
+Both are corrective relations only. Grant’s full sequence is unavailable.
+
+**Status:** Corrected.
+
+---
+
+## 11.7 Cautious candidate converted into profile-ready claim
+
+**Risk identified**
+
+Stage 4 previously used the stronger heading “Profile-Ready Claims.”
+
+**Correction**
+
+Restored Stage-3 tiers:
+
+* cautious Ziggy profile candidates;
+* strong packet-local moves;
+* lower-tier rhetoric.
+
+**Status:** Corrected.
+
+---
+
+## 11.8 Grant position converted into operator candidate
+
+**Risk identified**
+
+Grant’s distinction and qualification could be over-promoted.
+
+**Correction**
+
+They remain packet-local positions or reported method candidates. Stable Grant operators: zero.
+
+**Status:** Corrected.
+
+---
+
+## 11.9 Nova protocol converted into cognitive profile
+
+**Risk identified**
+
+Nova’s mediation suggestions could be mistaken for Ziggy or Grant cognition.
+
+**Correction**
+
+Maintained in a separate protocol and role ledger.
+
+**Status:** Corrected.
+
+---
+
+## 11.10 A1 completion architecture promoted into demonstrated capacity
+
+**Risk identified**
+
+Useful unperformed audits could be mistaken for moves the actors were shown capable of deploying.
+
+**Correction**
+
+All eight remain A1 only.
+
+**Status:** Corrected.
+
+---
+
+## 11.11 Auxiliary Voynich material dominating the core dig
+
+**Risk identified**
+
+Voynich contains more observable interaction than the sparse Tale dispute and could distort the architecture.
+
+**Correction**
+
+The eight-family interpretation architecture is primary; Voynich remains a separate auxiliary track.
+
+**Status:** Corrected.
+
+---
+
+## 11.12 Resistance converted into confirmation
+
+**Risk identified**
+
+Grant’s objections could be interpreted as proof of Nova and Ziggy’s model.
+
+**Correction**
+
+Resistance is non-confirmatory and may contain legitimate substantive content.
+
+**Status:** Corrected.
+
+---
+
+## 11.13 Source absence converted into actor failure
+
+**Risk identified**
+
+Missing Grant and Tale materials could be presented as failures by those actors.
+
+**Correction**
+
+All are consolidated as A0 evidence packages.
+
+**Status:** Corrected.
+
+---
+
+## 11.14 Registry priming and over-pattern-matching
+
+**Risk identified**
+
+The supplied candidate registry may induce false matches.
+
+**Control applied**
+
+* Full matches were withheld where only direction, overlap, or corrective relation existed.
+* Nine named pathologies remain undemonstrated or below threshold.
+* `NEW` was preferred over forced classification.
+
+**Status:** Controlled but not eliminable.
+
+---
+
+## 11.15 Asymmetric charity
+
+**Risk identified**
+
+Ziggy is directly represented at length; Grant is largely reconstructed through Ziggy.
+
+**Control applied**
+
+* Grant’s strongest available substantive objection is preserved.
+* No stable Grant profile is extracted.
+* Missing Grant evidence does not count against him.
+
+**Status:** Controlled.
+
+# 12. Final Counts
+
+## Ziggy
+
+* Cautious profile candidates: **3**
+* Strong packet-local moves: **4**
+* Lower-tier rhetorical moves: **1**
+
+## Grant
+
+* Packet-local positions or reported method candidates: **3**
+* Stable operator candidates: **0**
+* Stable profile claims: **0**
+
+## Nova
+
+* Protocol findings: **1**
+* Auxiliary hypothesis-generation findings: **1**
+* Rhetorical role findings: **1**
+* Alignment-role findings: **1**
+
+## Availability
+
+* A3 confirmed informative omissions: **4**
+* A2 explicitly available and bypassed omissions: **0**
+* A1 possible informative omissions: **8**
+* A0 evidence packages: **5**
+
+## Relationship Architecture
+
+* Relationship-level loops: **7**
+
+## Candidate Registry Disposition
+
+* `EXTENDS`: **1**
+* Partial or conditional overlap: **1**
+* Partial packet-local implementation: **1**
+* Potential precursor only: **1**
+* Counter-operation or corrective relations: **2**
+* Possible packet-local instance below threshold: **1**
+* Diagnostic risk only: **1**
+* Named registry candidates not demonstrated as actor operators or pathologies: **9**
+
+# 13. Final Archival Disposition
+
+## Cautious Ziggy Profile Candidates
+
+Archive for future independent testing:
+
+1. Specificity–Source Verification Escalation.
+2. Intended-Position Reconstruction.
+3. Method-Trade-Off Audit.
+
+None is established as a permanent trait.
+
+## Strong Packet-Local Ziggy Moves
+
+Archive as direct but domain- or packet-limited:
+
+1. Search-Space Expansion.
+2. Necessary-Feature Trace Search.
+3. Meaningful-Hypothesis Bracketing.
+4. Assumption-Exposure Reversal.
+
+## Lower-Tier Rhetoric
+
+Archive separately:
+
+1. Idiom-Based Literalism Counterexample.
+
+## Grant Disposition
+
+Archive only:
+
+* Implication–Attribution Separation — G-REPORTED.
+* Intent-Epistemic Qualification — direct one-time.
+* Consequence-Stress Testing — G-REPORTED method candidate.
+
+No Grant operator or stable profile is extracted.
+
+## Nova Disposition
+
+Archive separately from actor cognition:
+
+* Interpretive Target–Ledger Protocol.
+* Genre–Layout Function Projection.
+* Escalating-Revelation Teaser.
+* Ally-Framed Method Validation.
+
+## Core Dig Finding
+
+The packet preserves five separate interpretive targets:
+
+1. Sentence meaning.
+2. Speaker-intended position.
+3. Consequence under interpretation `R`.
+4. Fair belief attribution.
+5. Wording robustness.
+
+None may silently substitute for another.
+
+## Core Evidential Finding
+
+The complete Tale dispute package is unavailable. Therefore, the bounded source cannot determine:
+
+* whether Ziggy reconstructed Tale correctly;
+* whether Grant’s consequence was warranted;
+* whether Grant attributed that consequence as Tale’s belief;
+* whether Ziggy attributed it as Grant’s belief;
+* whether either participant updated properly after clarification.
+
+## Registry Finding
+
+The packet supports:
+
+* one extension of Possibility Preservation;
+* one partial implementation of Symmetry Testing;
+* two corrective relations to Reconstruction Bypass;
+* several new packet-specific operations.
+
+It does not support forced extraction of the remaining named pathologies.
+
+**X-CONTEXT Notices:** None.
+
+`DIG_COMPOUND_18_sentence_intent_entailment_attribution_and_interpretive_authority`
+
+`STAGE 4 COMPLETE AFTER FINAL REGISTRY-DIRECTION, PROFILE-TIER, AND ARCHITECTURE PATCH`
 
 ---
 
