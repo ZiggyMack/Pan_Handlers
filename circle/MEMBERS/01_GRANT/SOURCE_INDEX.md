@@ -15,6 +15,21 @@
 > to the validation questions (`OPEN_QUESTIONS.md` Q1–Q10), and his direct
 > definition of lying (required to lift the Threshold-to-Character
 > Escalation quarantine). Fidelity rules: `../../DEBATES/README.md`.
+>
+> ⚠️ **STANDING OVERLAY — OPERATOR GRANT-SIMULATION DISCLOSURE
+> (Z-DIRECT, 2026-07-18):** the operator has disclosed that in some
+> source threads he *tests Nova by playing the role of Grant* —
+> arguing in Grant's style without contemporaneous disclosure (usually
+> revealed later in-thread; not always cleanly). Consequence: every
+> **purely G-REPORTED** position in this index carries a three-way
+> reading — *genuine report / Ziggy's reconstruction / Ziggy's
+> deliberate performance* — and which threads involved role-play is
+> UNKNOWN. **G-DIRECT-SCREENSHOT entries (G-002…G-005) are
+> unaffected** — those preserve Grant's actual words. This overlay
+> strengthens, and is already anticipated by, the reported ceiling,
+> the source-direction rule, and the 0-operator record; no specific
+> packet is reclassified without evidence. Field-desk ruling owed on
+> a possible filing label (precedent: G-ANTICIPATED).
 
 | ID | Date | Medium | Fidelity | Location / excerpt | Cited by |
 | ---- | ------ | -------- | ---------- | -------------------- | ---------- |
