@@ -5437,7 +5437,4397 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+## 1. Blind-to-Named Mapping
+
+### Move 1 — Constraint-Level Separation
+
+**Stage-2 provisional name:** Constraint-Level Separation
+**Corrected neutral name:** First-Order/Structural Agency Separation
+
+**Mapping verdict:** NEW
+
+**Why no registry candidate adequately matches:**
+
+The move distinguishes:
+
+* selecting an action under an existing constraint structure;
+* preferring that the structure itself were different;
+* exercising agency within a system;
+* exercising agency concerning the system.
+
+It does not primarily concern:
+
+* prediction;
+* evidential jurisdiction;
+* possibility preservation;
+* burden symmetry;
+* framework reconstruction.
+
+**What the move establishes:**
+
+A person’s locally preferred action under coercive conditions does not exhaust what that person wants at the structural level.
+
+**What it does not establish:**
+
+* that structural change is genuinely available;
+* that an agent possesses control over the governing system;
+* that all constrained action is involuntary;
+* that Grant’s reported “always do what you want” thesis is wholly false.
+
+**Stage-3 alternative reading:**
+
+The strongest alternative is that this was a one-time semantic objection to “want,” rather than a reusable cognitive operation.
+
+**Does the mapping survive?**
+
+Yes, as a consequential packet-local move. It does not yet survive as a profile-level recurring operator.
+
+**Source anchor:**
+
+Ziggy’s objection that Grant’s point works only if one is powerless to change the game, followed by the distinction between agency within and over the structure.
+
+**Confidence:** High for the packet-local move; medium-low for profile recurrence.
+
+---
+
+### Move 2 — Concession Partitioning
+
+**Stage-2 provisional name:** Concession Partitioning
+**Corrected neutral name:** Claim-Scope Partitioning
+
+**Mapping verdict:** NEW
+
+**Why no registry candidate adequately matches:**
+
+This operation:
+
+1. grants a narrow proposition;
+2. separates it from a stronger conclusion;
+3. preserves the unresolved remainder.
+
+It has some affinity with **Contested ≠ Defeated**, but it is not merely the preservation of an unresolved claim. It actively partitions the claim into accepted and unaccepted scopes.
+
+**What matches Contested ≠ Defeated:**
+
+* refusal to treat one successful local point as total victory;
+* preservation of unresolved portions.
+
+**What does not match:**
+
+* Claim-Scope Partitioning can fully accept one component rather than merely leave it contested;
+* it is a decomposition operation before it is a status-holding operation.
+
+**Stage-3 alternative reading:**
+
+The strongest alternative is ordinary conversational moderation.
+
+**Does the mapping survive?**
+
+Yes.
+
+The same structure recurred in:
+
+* the “half point” concession;
+* permission for suffering to remain a hypothesis;
+* permission for Grant to predict a winner;
+* refusal to treat that prediction as demonstrated superiority.
+
+**Source anchors:**
+
+* “I’d give him a half point.”
+* “I’m fine with it being a hypothesis.”
+* Grant may predict which metric will win without declaring it the demonstrated winner.
+
+**Confidence:** High.
+
+---
+
+### Move 3 — Hidden-Commitment Extraction
+
+**Stage-2 provisional name:** Hidden-Commitment Extraction
+**Corrected neutral name:** Commitment-Ladder Probe
+
+**Mapping verdict:** NEW
+
+**Why no registry candidate adequately matches:**
+
+The move tracks transitions among:
+
+* comparative credence;
+* ranking;
+* favored hypothesis;
+* working commitment;
+* practical adoption;
+* ownership.
+
+It does not claim that prediction is the supreme epistemic authority, so it does not match **Prediction Sovereignty**.
+
+It also does not necessarily impose symmetrical standards or preserve possibilities.
+
+**What the move establishes:**
+
+Ranking one candidate above others may carry an epistemically or practically consequential commitment even when it does not entail certainty.
+
+**What it does not establish:**
+
+* that the belief was voluntarily chosen;
+* that ranking is identical to action-selection;
+* that “decision” is the only valid term;
+* that the selected hypothesis is true;
+* that selection causes the outcome.
+
+**Stage-3 alternative reading:**
+
+The strongest alternative is a rhetorical tactic intended to force Grant to accept Ziggy’s preferred vocabulary.
+
+**Does the mapping survive?**
+
+Partially.
+
+The substantive probe survives because Ziggy preserved uncertainty and denied causal control. The specific use of “decision” remained rhetorically contaminated because it retained the disputed term after Grant reportedly rejected it.
+
+**Source anchor:**
+
+“Which metric did you decide, Grant, is more likely to help?”
+
+**Confidence:** Medium-high for the underlying probe; medium for its profile-level classification.
+
+---
+
+### Move 4 — Knowledge-Gap Gating
+
+**Stage-2 provisional name:** Knowledge-Gap Gating
+**Corrected neutral name:** Confidence–Evidence Gating
+
+**Mapping verdict:** EXTENDS Symmetry Testing of Standards
+
+**What matches:**
+
+The suffering metric is required to undergo comparative evaluation rather than functioning as an exempt default. It must be compared with cooperation, justice, love, well-being, and other live candidates.
+
+This resembles forcing the preferred standard to file the same epistemic paperwork as its rivals.
+
+**Delta from Symmetry Testing of Standards:**
+
+The move does more than impose equal burdens. It regulates:
+
+* warranted confidence;
+* public status;
+* practical adoption;
+* whether a candidate may be treated as the demonstrated winner.
+
+Its governing relation is:
+
+> stronger epistemic status requires stronger comparative evidence.
+
+**Secondary registry resonance: Baseline Exemption**
+
+The move counters a possible baseline exemption for suffering, but the bounded conversation does not establish that Grant explicitly treated suffering as neutral or burden-free.
+
+**Stage-3 alternative reading:**
+
+The strongest alternative is an overextension of a corporate decision protocol into belief formation.
+
+**Does the mapping survive?**
+
+Yes, in calibrated form.
+
+It survives only when interpreted as limiting coronation and confidence, not as denying all rational priors before formal testing.
+
+**Source anchors:**
+
+* the comparative experiment identified as a knowledge gap;
+* willingness to permit suffering as a hypothesis or favorite;
+* refusal to treat it as the demonstrated winner.
+
+**Confidence:** High.
+
+---
+
+### Move 5 — Hypothesis–Coronation Separation
+
+**Stage-2 provisional name:** Hypothesis–Coronation Separation
+
+**Mapping verdict:** EXTENDS Contested ≠ Defeated
+
+**What matches:**
+
+An unresolved challenge does not automatically defeat the suffering hypothesis. Grant may continue to treat it as a live favorite.
+
+Likewise, surviving objection does not make it victorious.
+
+**Delta from Contested ≠ Defeated:**
+
+The move establishes a more detailed status ladder:
+
+1. possible candidate;
+2. live hypothesis;
+3. provisional favorite;
+4. predicted winner;
+5. comparatively demonstrated winner.
+
+It distinguishes these statuses rather than merely marking the claim unresolved.
+
+**Secondary registry resonance: Possibility Preservation**
+
+The suffering hypothesis remains on the map despite the unresolved comparison. However, the move does not specifically preserve a low-plausibility possibility, so it is not a full match.
+
+**Stage-3 alternative reading:**
+
+The strongest alternative is a defensive clarification introduced after Ziggy’s earlier formulation appeared to demand suspension of all ranking.
+
+**Does the mapping survive?**
+
+Yes.
+
+Its defensive origin does not eliminate its substantive evaluative function.
+
+**Source anchors:**
+
+* “I’m fine with it being a hypothesis.”
+* Grant may predict suffering will win but cannot yet declare it the demonstrated winner.
+
+**Confidence:** High.
+
+---
+
+### Move 6 — Causal-Control Decoupling
+
+**Stage-2 provisional name:** Causal-Control Decoupling
+**Corrected neutral name:** Commitment–Causal-Control Separation
+
+**Mapping verdict:** NEW
+
+**Why no registry candidate adequately matches:**
+
+The registry does not contain an operation separating:
+
+* choosing what to back;
+* causing the backed proposition to become true.
+
+The move concerns the ontology of commitment and causal efficacy, not evaluative jurisdiction or possibility handling.
+
+**What the move establishes:**
+
+One can select Horse A, assign it higher probability, or place a bet without causing Horse A to win.
+
+**What it does not establish:**
+
+* that Grant used “decision” inconsistently;
+* that the horse analogy’s actual target was causal control;
+* that comparative credence is voluntarily selected;
+* that placing a metaphorical bet is identical to adopting a moral framework.
+
+**Stage-3 alternative reading:**
+
+The strongest alternative is that Ziggy answered a stronger causal claim Grant had not intended. Grant’s exact analogical target remains unavailable.
+
+**Does the mapping survive?**
+
+Yes as a reasoning move. Its relevance to Grant’s exact argument remains conditional.
+
+**Source anchor:**
+
+“No one’s talking about you’re God”; one still decides which horse to place the bet on.
+
+**Confidence:** High for the move; medium for its dialectical relevance.
+
+---
+
+### Move 7 — Functional-Use Audit
+
+**Stage-2 provisional name:** Functional-Use Audit
+**Corrected neutral name:** Explicit Assertion–Functional Implication Audit
+
+**Mapping verdict:** NEW
+
+**Why no registry candidate adequately matches:**
+
+The move separates:
+
+* explicit self-description;
+* repeated argumentative use;
+* possible functional role;
+* warranted implication.
+
+It is not identical to **Reconstruction Bypass** because it does not necessarily evaluate a framework before reconstructing its own aims. Its target is the relation between stated and enacted commitments.
+
+**What the move establishes:**
+
+Repeated use of suffering in moral deliberation justifies asking what role suffering performs.
+
+**What it does not establish:**
+
+* that suffering is Grant’s sole moral criterion;
+* that it is foundational;
+* that it is a complete moral compass;
+* that repeated diagnostic use equals normative endorsement.
+
+**Stage-3 alternative reading:**
+
+The strongest alternative is that the move inflated recurring heuristic use into foundational commitment.
+
+**Does the mapping survive?**
+
+Yes as an audit and question-generating operation.
+
+The moral-compass conclusion does not survive.
+
+**Source anchors:**
+
+* Ziggy’s report that Grant repeatedly asks which option causes more harm or suffering;
+* “These are the implications of what you did say.”
+
+**Confidence:** High for the audit; low for any moral-foundational conclusion.
+
+---
+
+### Move 8 — Explicitness-Shield Detection
+
+**Stage-2 provisional name:** Explicitness-Shield Detection
+
+**Mapping verdict:** NEW
+
+**Why no registry candidate adequately matches:**
+
+The move identifies a possible gap between:
+
+* denying an exact sentence;
+* addressing the functional implication of one’s reasoning.
+
+No registry candidate directly concerns literal-denial defenses.
+
+**What the move potentially detects:**
+
+A speaker may rely on “I never said that” to avoid an implication without engaging its evidential basis.
+
+**What it does not establish:**
+
+* that every scope correction is evasive;
+* that the proposed implication is valid;
+* that Grant’s reported denial had this function;
+* that unspoken implications are automatically attributable.
+
+**Stage-3 alternative reading:**
+
+Grant may have been legitimately correcting an attribution stronger than his actual claim.
+
+**Does the mapping survive?**
+
+Only as a quarantined diagnostic possibility.
+
+It does not survive as a profile-ready operator or established characterization of Grant.
+
+**Source anchor:**
+
+Ziggy’s acknowledgment that Grant had not explicitly said suffering was his moral compass, paired with the claim that his reasoning might still have that implication.
+
+**Confidence:** Low-medium.
+
+---
+
+### Move 9 — Antecedent-Offloading Diagnosis
+
+**Stage-2 provisional name:** Antecedent-Offloading Diagnosis
+**Corrected neutral name:** Evidential-Compulsion Hypothesis
+
+**Mapping verdict:** NEW
+
+**Why no registry candidate adequately matches:**
+
+The registry does not include a diagnosis in which an actor locates belief formation in antecedent causes or evidential compulsion.
+
+**What the hypothesis proposes:**
+
+Grant’s reluctance to use decision language may reflect a model in which the agent is compelled to believe what the evidence makes most probable.
+
+**What it does not establish:**
+
+* rejection of practical agency;
+* denial of responsibility for inquiry;
+* avoidance of accountability;
+* incompatibility with compatibilism;
+* a stable Grant cognitive operator.
+
+**Stage-3 alternative reading:**
+
+The strongest alternative is straightforward doxastic involuntarism:
+
+* belief is not directly chosen;
+* action and application may still be voluntary or responsibility-bearing.
+
+**Does the mapping survive?**
+
+No as an operator attribution.
+
+It survives only as a quarantined Ziggy interpretive hypothesis.
+
+**Source anchor:**
+
+“It’s less about decision and more about compulsion based upon the preponderance of evidence.”
+
+**Confidence:** Low.
+
+---
+
+### Move 10 — Theory–Application Consistency Test
+
+**Stage-2 provisional name:** Theory–Application Consistency Test
+**Corrected neutral name:** Agency-Type Consistency Test
+
+**Mapping verdict:** EXTENDS Symmetry Testing of Standards
+
+**What matches:**
+
+A declared philosophical account of agency is required to apply coherently to the live case rather than being treated as an abstract exemption.
+
+The framework must file the same conceptual paperwork in practice that it files in theory.
+
+**Delta from Symmetry Testing of Standards:**
+
+The comparison is not primarily between competing frameworks. It is between:
+
+* a person’s general theory;
+* the agency categories used in a concrete application.
+
+It also requires type sensitivity:
+
+* action agency;
+* belief agency;
+* inquiry agency;
+* practical application.
+
+**Stage-3 alternative reading:**
+
+The strongest alternative is that applying action-level compatibilism to belief formation is a category error.
+
+**Does the mapping survive?**
+
+Yes as a valid evaluative test.
+
+Its application does not establish a Grant inconsistency because the belief/action distinction remains unresolved.
+
+**Source anchors:**
+
+* Ziggy’s question about why this tension exists if Grant is a compatibilist;
+* later recognition that voluntary action and involuntary belief may be distinguished.
+
+**Confidence:** High for the test; low for the inconsistency verdict.
+
+---
+
+### Move 11 — Abstract-Answer Bypass
+
+**Stage-2 provisional name:** Abstract-Answer Bypass
+**Corrected neutral name:** Application-First Questioning Protocol
+
+**Mapping verdict:** NEW
+
+**Why no registry candidate adequately matches:**
+
+The move changes questioning strategy:
+
+* from abstract doctrinal identity;
+* to concrete framework use and situated reconciliation.
+
+It is not **Reconstruction Bypass**. It does not skip reconstruction; it attempts to obtain more behaviorally diagnostic evidence.
+
+**What the move establishes:**
+
+Asking a compatibilist whether agency exists may yield only a textbook answer. Asking how agency is assigned in the disputed case may be more informative.
+
+**What it does not establish:**
+
+* that concrete wording is automatically neutral;
+* that “moral compass” is an uncontested category;
+* that abstract doctrinal answers are irrelevant.
+
+**Stage-3 alternative reading:**
+
+The move may be protocol-induced coaching generated by Nova rather than a Ziggy cognitive operator.
+
+**Does the mapping survive?**
+
+Yes as Nova-generated protocol behavior.
+
+It does not survive as a profile-ready Ziggy operator.
+
+**Source anchor:**
+
+Nova’s recommendation to focus on Grant’s lived or applied stance rather than asking abstractly whether agency is possible.
+
+**Confidence:** High for the protocol classification.
+
+---
+
+### Move 12 — Progressive Language Mirroring
+
+**Stage-2 provisional name:** Progressive Language Mirroring
+**Corrected neutral name:** Vocabulary Accommodation
+
+**Mapping verdict:** NEW
+
+**Why no registry candidate adequately matches:**
+
+The registry does not contain a rhetorical operation in which one participant adopts another’s vocabulary to determine whether the disagreement is substantive or lexical.
+
+**What the move establishes:**
+
+Changing the wording can test whether resistance is tied to terminology.
+
+**What it does not establish:**
+
+* that the opponent’s complete vocabulary has been adopted;
+* that the reformulation is neutral;
+* that persistence after reformulation proves evasion.
+
+**Stage-3 alternative reading:**
+
+The strongest alternative is repeated rhetorical pressure that retained the disputed word “decision.”
+
+**Does the mapping survive?**
+
+Yes only as lower-tier rhetoric.
+
+The stronger claim that the semantic escape was removed does not survive.
+
+**Source anchor:**
+
+“Only when I put it perfectly in his words did he even get close,” despite the continued use of “decide.”
+
+**Confidence:** High for partial accommodation; low for complete semantic neutralization.
+
+---
+
+### Move 13 — Framework-Substitution Implication
+
+**Stage-2 provisional name:** Framework-Substitution Implication
+**Corrected neutral name:** Prediction-to-Replacement Implication Probe
+
+**Mapping verdict:** EXTENDS Universalized Evaluative Jurisdiction
+
+**What matches:**
+
+A standard initially presented as predictive is traced into domains including:
+
+* moral guidance;
+* normative authority;
+* replacement of religious or ethical frameworks.
+
+The move tests whether a standard is being granted authority outside the domain in which its success was initially claimed.
+
+**Delta from Universalized Evaluative Jurisdiction:**
+
+The move is not itself the jurisdictional overextension. It is a probe that asks whether the predictive claim would license such overextension.
+
+**Secondary registry resonance: Prediction Sovereignty**
+
+If predictive success were treated as sufficient to displace justification, motivation, identity, ritual, or obligation, prediction would function as a final authority.
+
+The bounded conversation does not establish that Grant held this stronger view.
+
+**Stage-3 alternative reading:**
+
+The strongest alternative is a one-off reductive extrapolation that conflates predictive compression with normative and institutional replacement.
+
+**Does the mapping survive?**
+
+Yes only as an exploratory jurisdiction probe.
+
+The replacement thesis does not survive as an attributable Grant position.
+
+**Source anchor:**
+
+“If all moral systems and ethical systems can be distilled down to this … then we don’t need any of the third-party systems.”
+
+**Confidence:** Medium for the probe; low for the implied Grant commitment.
+
+---
+
+### Registry Candidates Without Adequate Positive Match
+
+#### Prediction Sovereignty
+
+**Verdict:** No profile-ready match.
+
+The conversation raises the possibility that predictive success could be elevated into normative authority, but no direct evidence establishes that any actor treated prediction as the final epistemic authority through which all other success must justify itself.
+
+---
+
+#### Universalized Evaluative Jurisdiction
+
+**Verdict:** Partial match only through the Prediction-to-Replacement Implication Probe.
+
+The possible jurisdictional extension is identified, not demonstrated as Grant’s settled practice.
+
+---
+
+#### Generative Admission Restriction
+
+**Verdict:** No match.
+
+No bounded evidence shows that revelation, tradition, narrative coherence, metaphysical intuition, first-person experience, or symbolic compression were excluded from generating candidate hypotheses.
+
+---
+
+#### Unmeasured-to-Zero Conversion
+
+**Verdict:** No match.
+
+Ziggy’s corrected position distinguishes comparative uncertainty from absence of rational priors. No actor is shown converting an unmeasured candidate into a score of zero.
+
+---
+
+#### Possibility Compression
+
+**Verdict:** No stable match.
+
+No sufficiently anchored pattern shows low-plausibility possibilities being treated as functionally irrelevant.
+
+---
+
+#### Baseline Exemption
+
+**Verdict:** Possible secondary resonance, not established.
+
+The demand to compare suffering symmetrically suggests concern about baseline exemption, but Grant’s full evidential procedure is unavailable.
+
+---
+
+#### Reconstruction Bypass
+
+**Verdict:** No profile-ready match.
+
+The conversation may have scored implications before fully reconstructing Grant’s framework, but Grant’s complete direct framework is unavailable. This is better recorded as an extraction risk than as an actor operator.
+
+---
+
+#### Contest-to-Defeat Compression
+
+**Verdict:** No stable actor match.
+
+Ziggy did not treat the unresolved comparative challenge as defeating suffering outright. He preserved it as a hypothesis.
+
+---
+
+#### Symmetry Testing of Standards
+
+**Verdict:** Supported through extensions.
+
+Relevant extensions include:
+
+* Confidence–Evidence Gating;
+* Agency-Type Consistency Test.
+
+---
+
+#### Contested ≠ Defeated
+
+**Verdict:** Supported through Hypothesis–Coronation Separation.
+
+Suffering remains a live hypothesis despite the unresolved comparison.
+
+---
+
+#### Possibility Preservation
+
+**Verdict:** Partial, not profile-ready.
+
+The suffering hypothesis is preserved, but the packet does not show a stable practice of deliberately retaining low-plausibility possibilities during broad exploration.
+
+---
+
+#### Cross-Disciplinary Swooping
+
+**Verdict:** Possible packet-local instance, below threshold.
+
+Ziggy imported a corporate decision and knowledge-gap structure into a philosophical dispute. The transfer is evident, but a single clear import does not establish a recurring operator.
+
+---
+
+## 2. New Operator Candidates
+
+### New Candidate 1 — Claim-Scope Partitioning
+
+**Definition:**
+
+Decompose a disputed claim into narrower and broader propositions, grant the part supported by the available reasoning, and preserve the remainder for separate evaluation.
+
+**Core operation:**
+
+1. identify the locally valid proposition;
+2. identify the stronger attached conclusion;
+3. accept the former;
+4. withhold the latter;
+5. state the remaining evidential burden.
+
+**Demonstrated applications:**
+
+* granting the “half point” in constrained choice;
+* allowing suffering as a hypothesis;
+* allowing suffering as a favorite;
+* distinguishing predicted winner from demonstrated winner.
+
+**Primary function:** Evaluative and regulatory.
+
+**Primary failure mode:**
+
+Selective deployment. The same partitioning was not initially applied to:
+
+* Grant’s narrow use of “decision”;
+* involuntary belief formation;
+* practical ownership.
+
+**Promotion status:** Profile candidate.
+
+**Confidence:** High.
+
+---
+
+### New Candidate 2 — Commitment-Ladder Probe
+
+**Definition:**
+
+Track how an actor moves from comparative credence through increasingly consequential forms of commitment.
+
+**Provisional ladder:**
+
+1. candidate considered;
+2. probability assigned;
+3. candidate ranked;
+4. hypothesis favored;
+5. inquiry prioritized;
+6. working model adopted;
+7. claim publicly asserted;
+8. framework practically applied.
+
+**Primary function:** Transformative and evaluative.
+
+**Primary failure mode:**
+
+Collapsing distinct ladder positions into the contested word “decision.”
+
+**Promotion status:** Profile candidate with rhetorical contamination.
+
+**Confidence:** Medium-high.
+
+---
+
+### New Candidate 3 — Confidence–Evidence Gating
+
+**Definition:**
+
+Limit the confidence, public status, or practical authority of a conclusion according to the comparative evidence available.
+
+**Core principle:**
+
+Unknown comparative superiority does not equal zero support, but it blocks demonstration-level coronation.
+
+**Primary function:** Regulatory.
+
+**Primary failure mode:**
+
+If overextended, the move can imply that rational priors are forbidden until every alternative is formally tested.
+
+**Promotion status:** Profile candidate.
+
+**Confidence:** High.
+
+---
+
+### New Candidate 4 — Commitment–Causal-Control Separation
+
+**Definition:**
+
+Distinguish selecting or backing a proposition from causing that proposition to become true.
+
+**Primary function:** Transformative.
+
+**Primary failure mode:**
+
+Answering a causal-control claim the interlocutor did not actually make.
+
+**Promotion status:** Strong packet-local move.
+
+**Confidence:** High.
+
+---
+
+### New Candidate 5 — Explicit Assertion–Functional Implication Audit
+
+**Definition:**
+
+Compare what a person explicitly says a framework is with the role that framework repeatedly performs in reasoning or action.
+
+**Core distinction:**
+
+* explicit assertion;
+* recurring use;
+* functional implication;
+* justified attribution.
+
+**Primary function:** Evaluative.
+
+**Primary failure mode:**
+
+Inferring foundational or exclusive commitment from repeated heuristic use.
+
+**Promotion status:** Strong packet-local move and possible profile candidate.
+
+**Confidence:** High for the audit; low for any specific implication not independently established.
+
+---
+
+### New Candidate 6 — First-Order/Structural Agency Separation
+
+**Definition:**
+
+Distinguish choosing among options generated by a system from agency directed toward the structure generating those options.
+
+**Primary function:** Transformative and exploratory.
+
+**Primary failure mode:**
+
+Treating conceptual availability of system change as actual practical availability.
+
+**Promotion status:** Consequential packet-local move.
+
+**Confidence:** High locally; insufficient recurrence for profile promotion.
+
+---
+
+### New Candidate 7 — Agency-Type Consistency Test
+
+**Definition:**
+
+Compare an abstract account of agency with the type of agency attributed in a concrete case while distinguishing:
+
+* belief agency;
+* inquiry agency;
+* action agency;
+* application agency.
+
+**Primary function:** Evaluative.
+
+**Primary failure mode:**
+
+Treating action-focused compatibilism as though it necessarily entails voluntary belief selection.
+
+**Promotion status:** Valid test; application unresolved.
+
+**Confidence:** High for the test, low for any Grant inconsistency conclusion.
+
+---
+
+### Below-Threshold New Candidates
+
+#### Application-First Questioning Protocol
+
+Nova-generated protocol behavior. It requires evidence of independent Ziggy deployment before profile promotion.
+
+#### Vocabulary Accommodation
+
+Lower-tier rhetoric. It requires recurrence and complete removal of disputed vocabulary before cognitive-operator promotion.
+
+#### Prediction-to-Replacement Implication Probe
+
+Exploratory jurisdiction audit. It requires a demonstrated bridge between prediction and replacement before stronger promotion.
+
+#### Evidential-Compulsion Hypothesis
+
+Not promoted as an operator. It remains a quarantined interpretation of Grant’s reported language.
+
+#### Explicitness-Shield Detection
+
+Not promoted. The corpus cannot discriminate between literalist evasion and legitimate scope correction.
+
+---
+
+## 3. Profile-Ready Claims
+
+### Profile-Ready Claim 1
+
+**Claim:**
+
+Ziggy repeatedly uses Claim-Scope Partitioning: he grants a narrower proposition while withholding a stronger conclusion not yet earned by that proposition.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT, repeated across the bounded conversation
+
+**Confidence:** High
+
+**Source anchors:**
+
+* “I’d give him a half point.”
+* permission for suffering to remain a hypothesis;
+* permission for Grant to predict that suffering would win;
+* refusal to call suffering the demonstrated comparative winner before testing.
+
+**Why it survived Stage 3:**
+
+The pattern recurred across distinct parts of the dispute and was not better explained as a single rhetorical concession.
+
+**What is not claimed:**
+
+* that Ziggy applies the operation symmetrically in every dispute;
+* that each partition he draws is correct;
+* that Grant accepted the partitions.
+
+**Review condition:**
+
+Downgrade if broader corpus evidence shows that these were isolated concessions produced only by this dispute or that Ziggy routinely collapses narrow and broad claims elsewhere.
+
+---
+
+### Profile-Ready Claim 2
+
+**Claim:**
+
+Ziggy uses Confidence–Evidence Gating to distinguish a live or favored hypothesis from a comparatively demonstrated winner.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High
+
+**Source anchors:**
+
+* the proposed metric comparison identified as a knowledge gap;
+* “I’m fine with it being a hypothesis”;
+* distinction between predicting victory and having earned coronation.
+
+**Why it survived Stage 3:**
+
+Counterevidence eliminated the stronger reading that Ziggy required certainty before any ranking. The calibrated operation remained intact.
+
+**What is not claimed:**
+
+* that all hypotheses require formal experiments before being rational;
+* that untested equals unsupported;
+* that suffering had no current evidence.
+
+**Review condition:**
+
+Downgrade if future evidence shows Ziggy ordinarily treats unmeasured alternatives as equally probable or demands exhaustive testing selectively only from disfavored frameworks.
+
+---
+
+### Profile-Ready Claim 3
+
+**Claim:**
+
+Ziggy distinguishes epistemic or practical commitment from causal control over the outcome.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High as a packet-local claim
+
+**Source anchor:**
+
+The horse-bet response: selecting which horse to back does not make that horse win.
+
+**Why it survived Stage 3:**
+
+No evidence showed that Ziggy believed a decision determines reality. His explicit response rejected that inference.
+
+**What is not claimed:**
+
+* that Grant’s analogy definitely targeted causal control;
+* that every credence is voluntarily selected;
+* that betting and moral-framework adoption are identical.
+
+**Review condition:**
+
+Promote from packet-local to stable profile only if the same separation recurs in independent disputes involving prediction, action, and responsibility.
+
+---
+
+### Profile-Ready Claim 4
+
+**Claim:**
+
+Ziggy performs an Explicit Assertion–Functional Implication Audit: he distinguishes what a person explicitly calls a framework from the role the framework repeatedly appears to play.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT applied to G-REPORTED material
+
+**Confidence:** High for the auditing move; medium for profile generalization
+
+**Source anchors:**
+
+* acknowledgment that Grant had not explicitly called suffering his moral compass;
+* insistence that the implications of repeated harm-based reasoning still required examination;
+* proposed direct question about the role suffering plays.
+
+**Why it survived Stage 3:**
+
+The audit remains legitimate even though the moral-compass conclusion weakened.
+
+**What is not claimed:**
+
+* that suffering was proven to be Grant’s moral compass;
+* that functional implication overrides direct clarification;
+* that repeated use proves exclusivity or foundation.
+
+**Review condition:**
+
+Downgrade if independent cases show Ziggy routinely treats any repeated consideration as a foundational commitment without testing alternative functions.
+
+---
+
+### Profile-Ready Claim 5
+
+**Claim:**
+
+Ziggy uses a Commitment-Ladder Probe to ask when comparative credence becomes inquiry priority, working adoption, public assertion, or practical use.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT and CO-CONSTRUCTED formulation
+
+**Confidence:** Medium-high
+
+**Source anchors:**
+
+* repeated attempts to determine which metric Grant had placed his epistemic bet on;
+* horse-race discussion;
+* concern that suffering was being used in moral analysis despite resistance to commitment language.
+
+**Why it survived Stage 3:**
+
+The underlying concern with commitment survived counterevidence concerning certainty and causal control.
+
+**Classification defense:**
+
+The move is not better explained solely as rhetoric because it tracks a substantive transition from comparative probability to operational consequence. Its expression through the word “decision” nevertheless had a rhetorical component.
+
+**What is not claimed:**
+
+* that every ranking is a voluntary decision;
+* that all ladder stages are identical;
+* that Grant had reached the moral-foundation stage.
+
+**Review condition:**
+
+Downgrade if future evidence shows the move appears only when Ziggy seeks a verbal admission and is not used to distinguish actual levels of adoption.
+
+---
+
+### Profile-Ready Claim 6
+
+**Claim:**
+
+Nova showed an alignment-role tendency: strong validation of Ziggy’s interpretation often preceded full reconstruction of Grant’s strongest available alternative.
+
+**Subject:** Nova
+
+**Evidence classification:** NOVA-DIRECT; ROLE-INDUCED
+
+**Confidence:** High for this packet
+
+**Source anchors:**
+
+* repeated strong validations such as “You’re absolutely sound,” “Your instinct is spot on,” and “Exactly!”;
+* later introduction of the belief/action distinction that weakened the earlier inconsistency diagnosis.
+
+**Why it survived Stage 3:**
+
+Counterevidence showed the tendency was not absolute, but did not remove the ordering pattern: validation frequently came before adversarial reconstruction.
+
+**Classification restriction:**
+
+This is a role-induced interaction claim, not a general cognitive operator or stable trait claim.
+
+**Review condition:**
+
+Do not export beyond this packet without comparable evidence from independent conversations.
+
+---
+
+## 4. Quarantined Claims
+
+### Quarantined Claim 1 — Grant Offloaded Agency to Evidence or Antecedents
+
+**Interpretation:**
+
+Grant’s reported language may have shifted authorship from himself to evidential compulsion.
+
+**Why quarantined:**
+
+* all Grant material is G-REPORTED;
+* doxastic involuntarism offers a coherent alternative;
+* no evidence shows denial of inquiry or practical responsibility;
+* denial of “decision” cannot automatically confirm offloading.
+
+**Promotion evidence required:**
+
+Direct Grant material showing that he:
+
+* denies responsibility for evidence seeking;
+* denies responsibility for comparison standards;
+* denies ownership of assertion or practical application;
+* applies a different decision standard to himself than to others;
+* treats evidence as eliminating every responsibility-bearing choice.
+
+---
+
+### Quarantined Claim 2 — Grant’s Position Is Inconsistent With Compatibilism
+
+**Interpretation:**
+
+Grant accepts compatibilism but resists agency or decision language in application.
+
+**Why quarantined:**
+
+Compatibilism does not require voluntary belief selection. The alleged contradiction may disappear once belief, inquiry, action, and application are separated.
+
+**Promotion evidence required:**
+
+Direct Grant statements showing both:
+
+1. a compatibilist commitment that assigns agency to the relevant type of process; and
+2. denial of that same type of agency in the suffering-metric case under materially identical conditions.
+
+---
+
+### Quarantined Claim 3 — Suffering Is Grant’s Moral Compass
+
+**Interpretation:**
+
+Grant’s reported repeated use of suffering in moral scenarios may indicate that it functions as his moral compass.
+
+**Why quarantined:**
+
+Repeated use could instead indicate:
+
+* a heuristic;
+* a predictive variable;
+* one factor among several;
+* an explanatory shorthand;
+* a provisional research hypothesis.
+
+**Promotion evidence required:**
+
+Direct Grant clarification that suffering:
+
+* guides what ought to be done;
+* overrides or orders competing values;
+* functions as a decision criterion;
+* serves as a foundational or primary moral standard.
+
+---
+
+### Quarantined Claim 4 — Grant Used “I Never Said That” as a Literalist Shield
+
+**Interpretation:**
+
+Grant may have relied on exact wording to avoid functional implications.
+
+**Why quarantined:**
+
+His response may have been a legitimate correction of an overextended attribution.
+
+**Promotion evidence required:**
+
+A direct sequence in which Grant:
+
+1. rejects the label;
+2. is presented with the functional evidence;
+3. refuses to classify the framework’s actual role;
+4. continues using it in the disputed role;
+5. relies only on absence of the exact phrase as a defense.
+
+---
+
+### Quarantined Claim 5 — Grant’s Horse Analogy Diverted the Dispute to Causal Control
+
+**Interpretation:**
+
+The analogy may have answered the claim that a decision causes reality rather than the claim that a bet was selected.
+
+**Why quarantined:**
+
+The analogy’s exact target remains UNKNOWN.
+
+**Promotion evidence required:**
+
+Grant’s full direct wording and surrounding exchange showing that causal efficacy, rather than uncertainty or truth, was the intended point.
+
+---
+
+### Quarantined Claim 6 — Grant Treated Prediction as Sovereign
+
+**Candidate registry relation:** Prediction Sovereignty
+
+**Interpretation:**
+
+Predictive success may have been treated as sufficient to settle moral authority.
+
+**Why quarantined:**
+
+No direct evidence establishes that Grant required justification, normativity, meaning, or other forms of success to submit to prediction as final authority.
+
+**Promotion evidence required:**
+
+Direct Grant claims that predictive adequacy:
+
+* is the highest epistemic criterion;
+* licenses normative adoption;
+* makes nonpredictive success irrelevant;
+* can replace independent justificatory standards.
+
+---
+
+### Quarantined Claim 7 — Suffering Received a Baseline Exemption
+
+**Candidate registry relation:** Baseline Exemption
+
+**Interpretation:**
+
+Suffering may have been treated as the default metric while alternatives bore the comparative burden.
+
+**Why quarantined:**
+
+Grant’s direct evidence, standards, and comparison method are unavailable.
+
+**Promotion evidence required:**
+
+A direct asymmetry showing that:
+
+* rival metrics must justify themselves;
+* suffering is exempted from equivalent operationalization or falsification;
+* the exemption is not supported by independent evidence.
+
+---
+
+### Quarantined Claim 8 — Reconstruction Bypass Occurred
+
+**Candidate registry relation:** Reconstruction Bypass
+
+**Interpretation:**
+
+The conversation may have evaluated Grant’s framework before reconstructing its exact aims and jurisdiction.
+
+**Why quarantined:**
+
+Grant’s complete direct account is unavailable. The apparent bypass may be an artifact of mediated reporting.
+
+**Promotion evidence required:**
+
+Direct evidence that:
+
+* Grant supplied his aims, ontology, and success conditions;
+* Ziggy or Nova ignored them;
+* evaluation proceeded against a materially different reconstruction.
+
+---
+
+### Quarantined Claim 9 — Predictive Compression Licenses Replacement of Moral Systems
+
+**Interpretation:**
+
+If suffering predicts moral judgments, traditional systems may be dispensable.
+
+**Why quarantined:**
+
+Prediction does not automatically replace:
+
+* justification;
+* motivation;
+* identity;
+* ritual;
+* coordination;
+* obligation;
+* exception handling.
+
+The claim originated as Ziggy’s extrapolation, not a demonstrated Grant thesis.
+
+**Promotion evidence required:**
+
+An explicit bridge showing that suffering reproduces or renders unnecessary the additional functions of the systems proposed for replacement.
+
+---
+
+### Quarantined Claim 10 — First-Order/Structural Agency Separation Is a Stable Profile Operator
+
+**Interpretation:**
+
+Ziggy routinely distinguishes agency within a system from agency over the system.
+
+**Why quarantined at profile level:**
+
+The move is consequential but has only one clearly independent application in the bounded packet.
+
+**Promotion evidence required:**
+
+Recurrence in separate disputes involving:
+
+* institutional constraints;
+* conceptual frameworks;
+* rule systems;
+* coercive choice;
+* meta-level intervention.
+
+---
+
+### Quarantined Claim 11 — Agency-Type Consistency Testing Is a Stable Ziggy Operator
+
+**Interpretation:**
+
+Ziggy routinely tests whether abstract theories of agency survive concrete application.
+
+**Why quarantined at profile level:**
+
+The test appears clearly here, but broad recurrence is not established.
+
+**Promotion evidence required:**
+
+Independent cases in which Ziggy:
+
+* distinguishes agency types;
+* applies the declared theory to a live case;
+* allows the strongest category-sensitive reply;
+* revises the inconsistency verdict accordingly.
+
+---
+
+### Quarantined Claim 12 — Vocabulary Accommodation Is a Cognitive Operator
+
+**Interpretation:**
+
+Ziggy strategically adopts an opponent’s vocabulary to isolate substantive disagreement.
+
+**Why quarantined:**
+
+The move may be ordinary rhetoric, and the central disputed term remained.
+
+**Promotion evidence required:**
+
+Repeated cases where Ziggy:
+
+* fully adopts the opponent’s definitions;
+* removes his own contested vocabulary;
+* tests whether disagreement persists;
+* accepts a lexical resolution when the substance disappears.
+
+---
+
+### Quarantined Claim 13 — Application-First Questioning Is a Ziggy Operator
+
+**Interpretation:**
+
+Ziggy prefers concrete application questions over abstract doctrinal questions.
+
+**Why quarantined:**
+
+The move was generated by Nova and accepted by Ziggy.
+
+**Promotion evidence required:**
+
+Independent Ziggy-led examples where he spontaneously replaces abstract allegiance questions with concrete behavioral or inferential tests.
+
+---
+
+### Quarantined Claim 14 — Cross-Disciplinary Swooping Is a Stable Ziggy Operator
+
+**Interpretation:**
+
+Ziggy imports structures from distant domains to reframe philosophical disputes.
+
+**Evidence present:**
+
+The corporate decision and knowledge-gap framework was imported into the moral-metric dispute.
+
+**Why quarantined:**
+
+A single transfer does not establish recurrence.
+
+**Promotion evidence required:**
+
+Independent examples of successful structural import from distinct fields, with evidence that the imported structure does real inferential work rather than serving only as analogy.
+
+---
+
+### Quarantined Claim 15 — Possibility Preservation Is a Stable Ziggy Operator
+
+**Interpretation:**
+
+Ziggy deliberately keeps low-plausibility possibilities active during exploration.
+
+**Why quarantined:**
+
+The conversation shows preservation of suffering as a live hypothesis, but not deliberate retention of low-plausibility candidates as a recurring exploratory discipline.
+
+**Promotion evidence required:**
+
+Direct examples where Ziggy:
+
+* assigns a possibility low probability;
+* refuses to delete it;
+* states the conditions under which it remains relevant;
+* later revisits it when evidence changes.
+
+---
+
+### Quarantined Claim 16 — Unmeasured-to-Zero Conversion Occurred
+
+**Candidate registry relation:** Unmeasured-to-Zero Conversion
+
+**Why quarantined rather than accepted:**
+
+The corrected knowledge-gap account explicitly distinguishes:
+
+* unknown comparative superiority;
+* zero support.
+
+No actor is shown assigning zero merely because something was unmeasured.
+
+**Promotion evidence required:**
+
+A direct statement or scoring procedure converting:
+
+* untested;
+* outside instrument range;
+* or unmeasured
+
+into zero evidential or evaluative value.
+
+---
+
+### Quarantined Claim 17 — Contest-to-Defeat Compression Occurred
+
+**Candidate registry relation:** Contest-to-Defeat Compression
+
+**Why quarantined rather than accepted:**
+
+Ziggy preserved suffering as a hypothesis and possible favorite despite the unresolved comparison.
+
+**Promotion evidence required:**
+
+A direct case where a live objection is treated as decisive refutation without the missing inferential bridge.
+
+---
+
+### Quarantined Claim 18 — Generative Admission Restriction Occurred
+
+**Candidate registry relation:** Generative Admission Restriction
+
+**Why quarantined rather than accepted:**
+
+The bounded packet does not discuss admission rules for revelation, tradition, narrative coherence, intuition, first-person experience, or symbolic compression.
+
+**Promotion evidence required:**
+
+Direct evidence that such sources were excluded from generating serious hypotheses before evaluation.
+
+---
+
+## 5. Extraction Self-Audit
+
+### 1. Candidate-registry priming risk
+
+The named registry creates pressure to redescribe every blind move as a known candidate.
+
+Controls applied:
+
+* seven principal blind findings remained NEW;
+* several registry candidates received no match;
+* secondary semantic resemblance was not upgraded into a primary mapping;
+* forced matches were rejected where the blind operation concerned agency, commitment, or explicit-versus-functional use rather than evaluative jurisdiction.
+
+Highest remaining priming risk:
+
+* mapping Confidence–Evidence Gating to **Symmetry Testing of Standards**;
+* mapping Agency-Type Consistency Test to **Symmetry Testing of Standards**;
+* mapping the replacement probe to **Universalized Evaluative Jurisdiction**.
+
+These are retained as extensions because each includes additional operations absent from the named definition.
+
+---
+
+### 2. Over-pattern-matching risk
+
+Several Stage-2 moves may be ordinary reasoning rather than stable operators:
+
+* First-Order/Structural Agency Separation;
+* Commitment–Causal-Control Separation;
+* Vocabulary Accommodation;
+* Application-First Questioning.
+
+Controls applied:
+
+* one-time consequential moves were not automatically promoted;
+* packet-local status was separated from profile readiness;
+* role-induced and rhetorical explanations were preserved.
+
+---
+
+### 3. Asymmetric charity risk
+
+Grant’s positions are mediated through Ziggy, while Ziggy and Nova are directly observable.
+
+This creates a structural asymmetry:
+
+* Ziggy’s intentions and corrections are visible;
+* Grant’s strongest formulations may be absent;
+* Grant’s reported resistance may look less reasoned than it was;
+* Nova’s alignment may reinforce Ziggy’s reconstruction.
+
+Controls applied:
+
+* all Grant positions remain G-REPORTED;
+* no Grant operator was extracted;
+* direct adverse Grant conclusions were quarantined;
+* legitimate scope correction and doxastic involuntarism were preserved as strong alternatives.
+
+---
+
+### 4. UNCLEAR-to-definite conversion risk
+
+The following earlier interpretations were at risk of being stated too definitely:
+
+* Grant offloaded agency;
+* Grant contradicted compatibilism;
+* suffering was Grant’s moral compass;
+* “I never said that” was evasive;
+* the horse analogy concerned causal control;
+* Grant endorsed moral-system replacement.
+
+Controls applied:
+
+Each is now weakened, marked UNKNOWN where appropriate, or quarantined pending direct evidence.
+
+---
+
+### 5. Functional-use inference risk
+
+Repeated use can support investigation without proving:
+
+* exclusivity;
+* fundamentality;
+* normative endorsement;
+* identity-level commitment.
+
+The Explicit Assertion–Functional Implication Audit was therefore promoted only as an auditing operation. Its substantive conclusion was not promoted.
+
+---
+
+### 6. Lexical-dispute inflation risk
+
+The word “decision” may have carried different meanings:
+
+* comparative judgment;
+* voluntary selection;
+* practical action;
+* formal commitment.
+
+The conversation sometimes treated resistance to the word as evidence of a deeper metaphysical issue.
+
+Control applied:
+
+The Credence–Decision Lexical Loop remains a relationship-level finding, while the deterministic explanation remains quarantined.
+
+---
+
+### 7. Knowledge-gap overstatement risk
+
+The earlier extraction risked interpreting Ziggy as saying no rational prior was possible before comparison.
+
+Counterevidence showed otherwise.
+
+Control applied:
+
+Confidence–Evidence Gating is defined as regulating coronation, confidence, and application—not converting uncertainty to zero.
+
+---
+
+### 8. Registry false-negative risk
+
+Because the candidate definitions are narrow, a move labeled NEW may still overlap with a named operator at a more abstract level.
+
+Most notable examples:
+
+* Claim-Scope Partitioning and Contested ≠ Defeated;
+* Confidence–Evidence Gating and Symmetry Testing;
+* Prediction-to-Replacement Probe and Universalized Evaluative Jurisdiction.
+
+Control applied:
+
+Where overlap existed but the operational delta was material, the verdict used EXTENDS rather than NEW or MATCHES.
+
+---
+
+### 9. Registry false-positive risk
+
+Potentially seductive but unsupported candidates include:
+
+* Prediction Sovereignty;
+* Baseline Exemption;
+* Reconstruction Bypass;
+* Possibility Compression;
+* Generative Admission Restriction.
+
+Control applied:
+
+No profile-ready claim was produced for any of these.
+
+---
+
+### 10. Relationship-to-operator conversion risk
+
+The following are better understood as interaction structures than individual operators:
+
+* Credence–Decision Lexical Loop;
+* Minimal Claim–Expanded Implication Loop;
+* Nova Validation–Accusation Escalation Loop;
+* Local Semantic Dispute–Metaphysical Diagnosis Loop.
+
+Control applied:
+
+They were not converted into Grant cognitive traits.
+
+---
+
+### 11. Role-induced behavior risk
+
+Nova’s Application-First Questioning arose from an assistant coaching role.
+
+Nova’s alignment tendency arose partly from the role of helping Ziggy articulate his concern.
+
+Control applied:
+
+Neither was promoted as a general, context-free cognitive operator.
+
+---
+
+### 12. Source-anchor compression risk
+
+The Stage-4 mapping relies on Stage-1 through Stage-3 extractions and the bounded conversation. Some anchors are paraphrased rather than complete transcript passages.
+
+Control applied:
+
+* confidence was lowered where exact Grant wording was unavailable;
+* no paraphrase was upgraded into direct Grant evidence;
+* direct Ziggy phrases were used where preserved.
+
+---
+
+### 13. Duplicate-operator risk
+
+Stage 3 identified overlap between:
+
+* granting Grant’s narrow decision vocabulary;
+* granting involuntary belief formation.
+
+Control applied:
+
+Both are treated as one application gap under Claim-Scope Partitioning rather than two independent operators.
+
+---
+
+### 14. Candidate-name reification risk
+
+Names such as Commitment-Ladder Probe and Confidence–Evidence Gating can make provisional patterns seem more stable than the evidence warrants.
+
+Control applied:
+
+Every new candidate includes:
+
+* scope;
+* failure mode;
+* promotion status;
+* review condition;
+* distinction between packet-local and profile-ready status.
+
+---
+
+### 15. Extraction-rush audit
+
+No Stage-1 or Stage-2 analysis was rerun.
+
+The Stage-4 mapping was performed against the corrected Stage-3 controls.
+
+Areas remaining most vulnerable to rushed classification are:
+
+1. Commitment-Ladder Probe, because cognitive and rhetorical functions coexist;
+2. Explicit Assertion–Functional Implication Audit, because the operation survives while its conclusion does not;
+3. the extension from Confidence–Evidence Gating to Symmetry Testing;
+4. the extension from the replacement probe to Universalized Evaluative Jurisdiction.
+
+These require review if more direct transcript material becomes available.
+
+---
+
+### 16. Final source and attribution disposition
+
+* Grant operators extracted: **0**
+* Grant direct-position upgrades: **0**
+* Grant stable psychological traits asserted: **0**
+* Profile-ready Ziggy claims: **5**
+* Packet-specific Nova role claim: **1**
+* New operator candidates above lower-tier status: **7**
+* Registry candidates with full direct matches: **0**
+* Registry candidates supported through extensions: **3**
+
+  * Symmetry Testing of Standards;
+  * Contested ≠ Defeated;
+  * Universalized Evaluative Jurisdiction.
+* Registry candidates with partial secondary resonance only:
+
+  * Baseline Exemption;
+  * Possibility Preservation;
+  * Prediction Sovereignty;
+  * Cross-Disciplinary Swooping.
+* Unsupported registry candidates:
+
+  * Generative Admission Restriction;
+  * Unmeasured-to-Zero Conversion;
+  * Possibility Compression;
+  * Reconstruction Bypass as an actor operator;
+  * Contest-to-Defeat Compression.
+
+No X-CONTEXT material was used as evidence.
+-------------
+stage 4 patch
+----------------
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+## 1. Blind-to-Named Mapping Under the Eight-Family Architecture
+
+### Family 1 — Desire–Preference–Action–Coercion Audit
+
+#### Direct Ziggy operation: First-Order/Structural Agency Separation
+
+**Stage-2 blind finding:** Constraint-Level Separation
+
+**Mapping verdict:**
+
+`NEW — strong packet-local Ziggy move`
+
+**Definition:**
+
+Distinguish:
+
+* what an agent chooses among options generated by an existing system;
+* what the agent wants concerning the system generating those options;
+* first-order action under constraint;
+* structural agency directed toward rules, penalties, or available alternatives.
+
+**Source anchor:**
+
+Ziggy objected that Grant’s reported “you always do what you want” account worked only if the actor was powerless to change the game. The exchange then distinguished agency within a system from agency over the system.
+
+**Productive function:**
+
+Prevents constrained compliance from being redescribed as complete preference satisfaction.
+
+**Failure mode:**
+
+Conceptual availability of structural resistance may be mistaken for actual practical capacity to alter the system.
+
+**Named-registry relation:**
+
+None established.
+
+The move is not primarily about prediction, evaluative jurisdiction, possibility handling, or burden symmetry.
+
+**Stage-3 alternative reading:**
+
+A consequential one-time semantic objection to the word “want,” rather than a recurring cognitive operator.
+
+**Survival verdict:**
+
+Survives as a strong packet-local move.
+
+Insufficient independent recurrence for profile promotion.
+
+**Evidence classification:** Z-DIRECT and CO-CONSTRUCTED formulation
+
+**Confidence:** High packet-locally; medium-low for stable profile recurrence.
+
+---
+
+#### Specialized application: “Half-point” constrained-choice concession
+
+This is not a separate operator.
+
+It is an application of **Claim-Scope Partitioning**:
+
+1. Grant the local proposition that the actor chooses the least-disfavored available action.
+2. Reject the stronger proposition that the actor therefore wholly does what they want.
+3. Preserve the structural desire for a different choice architecture.
+
+**Named-registry relation:**
+
+Adjacent to **Contested ≠ Defeated**, but not an independent match.
+
+---
+
+#### G-REPORTED Grant position
+
+Grant reportedly argued that agents ultimately do what they most want because even unpleasant compliance reflects the stronger operative preference.
+
+No Grant operator is extracted.
+
+---
+
+#### Dig-level completion architecture
+
+The family requires separate examination of:
+
+* desire;
+* ranked preference;
+* action;
+* coercive incentive;
+* available alternatives;
+* capacity to alter the choice architecture.
+
+This completion architecture is not demonstrated Grant or Ziggy capacity merely because Stage 4 identifies it.
+
+---
+
+#### Availability findings
+
+**A3 relevance:**
+
+Claim-Scope Partitioning was demonstrated elsewhere and could have been applied more explicitly to the relation between constrained desire and action.
+
+**A1 relevance:**
+
+No additional distinct A1 omission is assigned specifically to this family.
+
+---
+
+#### A0 evidence gaps
+
+No direct Grant account establishes:
+
+* what he meant by “want”;
+* whether structural preference was included;
+* whether coercion altered his classification.
+
+These remain source gaps, not Grant failures.
+
+---
+
+#### Auxiliary or quarantined material
+
+None beyond the caution against treating theoretical system-change as practically available agency.
+
+---
+
+### Family 2 — Credence–Hypothesis–Decision–Commitment Audit
+
+#### Direct Ziggy operation: Claim-Scope Partitioning
+
+**Stage-2 blind finding:** Concession Partitioning
+
+**Mapping verdict:**
+
+`NEW — profile-ready Ziggy operation`
+
+**Definition:**
+
+Decompose a disputed position into narrower and broader propositions, grant what the evidence supports, and withhold what does not yet follow.
+
+**Demonstrated applications:**
+
+* “half point” in the constrained-choice dispute;
+* suffering permitted as a hypothesis;
+* suffering permitted as a provisional favorite;
+* prediction of victory distinguished from demonstrated comparative victory.
+
+**Named-registry relation: Contested ≠ Defeated**
+
+`ADJACENT PRINCIPLE / PARTIAL OVERLAP`
+
+Claim-Scope Partitioning can preserve a live claim without treating it as either victorious or defeated, but its central operation is claim decomposition rather than merely maintaining unresolved status.
+
+**What matches:**
+
+* a challenge does not automatically defeat the surviving narrow claim;
+* survival of a claim does not establish total victory.
+
+**What does not match:**
+
+* Claim-Scope Partitioning can affirm one part as correct;
+* it partitions scope before assigning dialectical status.
+
+**Stage-3 alternative reading:**
+
+Ordinary moderation rather than a reusable operation.
+
+**Survival verdict:**
+
+Survives strongly because the same structure recurred across multiple parts of the bounded exchange.
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High.
+
+---
+
+#### Specialized application: Hypothesis–Coronation Separation
+
+**Classification:**
+
+`SPECIALIZED APPLICATION of Claim-Scope Partitioning`
+
+It is not counted as an independent operator.
+
+**Status ladder distinguished:**
+
+1. live candidate;
+2. hypothesis;
+3. provisional favorite;
+4. predicted winner;
+5. demonstrated comparative winner.
+
+**Relation to Contested ≠ Defeated:**
+
+`ADJACENT PRINCIPLE / PARTIAL OVERLAP`
+
+The suffering hypothesis remains live despite an unresolved comparison, but it is not treated as comparatively established.
+
+**Source anchors:**
+
+* “I’m fine with it being a hypothesis.”
+* Grant may predict suffering will win without treating it as the demonstrated winner.
+
+**Stage-3 survival:**
+
+Strong.
+
+It also provides counterevidence against interpreting Ziggy as requiring certainty or complete evidential closure before any tentative ranking.
+
+---
+
+#### Direct Ziggy operation: Commitment-Ladder Probe
+
+**Stage-2 blind finding:** Hidden-Commitment Extraction
+
+**Mapping verdict:**
+
+`NEW — cautious profile candidate`
+
+**Definition:**
+
+Probe transitions among:
+
+1. considering a candidate;
+2. assigning comparative probability;
+3. ranking it above rivals;
+4. treating it as a favored hypothesis;
+5. prioritizing inquiry around it;
+6. adopting it as a working model;
+7. asserting it publicly;
+8. using it practically.
+
+**Source anchors:**
+
+* “Which metric did you decide, Grant, is more likely to help?”
+* the horse-race bet discussion;
+* concern that suffering was used recurrently despite resistance to commitment language.
+
+**What the operation establishes:**
+
+Comparative credence can become consequential without becoming certainty or causing the proposition to be true.
+
+**What it does not establish:**
+
+* that credence was voluntarily selected;
+* that ranking equals working-model adoption;
+* that every ladder position is properly called a decision;
+* that Grant reached normative-foundation status.
+
+**Named-registry relation:**
+
+None adequately matches.
+
+It is not **Prediction Sovereignty**, because it does not treat prediction as final authority.
+
+**Stage-3 alternative reading:**
+
+A rhetorical attempt to force Grant into Ziggy’s preferred word, `decision`.
+
+**Survival verdict:**
+
+The substantive commitment inquiry survives.
+
+Its historical expression remains rhetorically contaminated because the contested word `decision` remained embedded in the reformulation.
+
+**Evidence classification:** Z-DIRECT with CO-CONSTRUCTED refinement
+
+**Confidence:** Medium-high.
+
+---
+
+#### Strong packet-local Ziggy move: Commitment–Causal-Control Separation
+
+**Stage-2 blind finding:** Causal-Control Decoupling
+
+**Mapping verdict:**
+
+`NEW — strong packet-local Ziggy move`
+
+**Definition:**
+
+Separate selecting, ranking, or backing a proposition from causing the proposition to become true.
+
+**Source anchor:**
+
+Ziggy’s response that no one was claiming Grant was God; the relevant point was which horse one chose to place the bet on.
+
+**What survives:**
+
+A commitment need not causally determine its outcome.
+
+**What remains UNKNOWN:**
+
+Grant’s exact target in the horse analogy.
+
+He may have been distinguishing:
+
+* confidence from certainty;
+* belief from truth;
+* selection from outcome;
+* commitment from causal control.
+
+**Named-registry relation:**
+
+None established.
+
+**Stage-3 alternative reading:**
+
+Ziggy may have replied to a causal-control argument Grant did not intend.
+
+**Survival verdict:**
+
+The reasoning distinction survives.
+
+Its exact dialectical applicability remains conditional.
+
+**Evidence classification:** Z-DIRECT applied to G-REPORTED material
+
+**Confidence:** High for the distinction; medium for relevance to Grant’s exact analogy.
+
+---
+
+#### Lower-tier rhetoric: Vocabulary Accommodation
+
+**Stage-2 blind finding:** Progressive Language Mirroring
+
+**Mapping verdict:**
+
+`NEW — lower-tier rhetorical move`
+
+**Definition:**
+
+Adopt portions of an interlocutor’s vocabulary to determine whether resistance is substantive or lexical.
+
+**Source anchor:**
+
+Ziggy reported that Grant came closest to acknowledgment only when the point was placed “perfectly in his words.”
+
+**Stage-3 counterevidence:**
+
+The reformulation mirrored `more likely` but retained `decide`.
+
+**Survival verdict:**
+
+Partial vocabulary accommodation is established.
+
+Complete semantic neutralization is not.
+
+**Named-registry relation:** None.
+
+**Profile status:** Below profile level.
+
+---
+
+#### G-REPORTED Grant positions
+
+Grant reportedly maintained that:
+
+* suffering was more likely to predict ordinary moral judgments;
+* a hypothesis or credence was not a decision;
+* placing a bet did not cause the horse to win.
+
+No Grant operator is extracted.
+
+---
+
+#### Dig-level completion architecture
+
+This family requires separation of:
+
+1. credence;
+2. hypothesis;
+3. ranking;
+4. inquiry priority;
+5. working-model adoption;
+6. public assertion;
+7. practical commitment;
+8. action.
+
+The packet did not fully complete this ladder.
+
+---
+
+#### Availability findings
+
+**A3-1: Claim-Scope Partitioning applied to Grant’s decision and belief account**
+
+The omitted operation was:
+
+1. grant that Grant may not voluntarily choose what appears most probable;
+2. grant that comparative credence may not be called a decision under Grant’s vocabulary;
+3. separately examine responsibility for inquiry, assertion, adoption, and use.
+
+**A3-2: Comparative uncertainty versus absence of rational priors**
+
+Ziggy later demonstrated that a candidate can remain a hypothesis or favorite despite unresolved comparative superiority.
+
+**A1-3: Reverse-Role Test of the Decision Standard**
+
+Ask whether Grant would apply the same terminology if Ziggy ranked cooperation above suffering.
+
+This completion requirement is not demonstrated actor capacity.
+
+---
+
+#### A0 evidence gaps
+
+1. Unavailable direct definition of `decision`.
+2. Unavailable exact target of the horse analogy.
+
+No adverse Grant conclusion follows.
+
+---
+
+#### Auxiliary and quarantined material
+
+* betting is not identical to choosing a credence;
+* ranking is not automatically working-model adoption;
+* resistance to the word `decision` does not by itself prove evasion.
+
+---
+
+### Family 3 — Prediction–Explanation–Normativity Audit
+
+#### Exploratory Ziggy move: Prediction-to-Replacement Implication Probe
+
+**Stage-2 blind finding:** Framework-Substitution Implication
+
+**Mapping verdict:**
+
+`NEW — exploratory jurisdiction probe`
+
+**Definition:**
+
+Test whether a framework’s claimed predictive success is being extended through the sequence:
+
+`predictive success`
+→ `explanatory completeness`
+→ `normative authority`
+→ `institutional replacement`
+
+**Source anchor:**
+
+Ziggy reasoned that if moral systems could be distilled into suffering, traditional ethical or religious systems might become unnecessary intermediaries.
+
+**Relation to Universalized Evaluative Jurisdiction:**
+
+`COUNTER-OPERATION / DIAGNOSTIC RELATION`
+
+The move probes for possible unjustified jurisdictional expansion.
+
+It is not itself the pathology.
+
+It does not MATCH or EXTEND the registry candidate.
+
+**Relation to Prediction Sovereignty:**
+
+Possible diagnostic relevance only.
+
+The packet does not establish that prediction was treated as the highest or final epistemic authority.
+
+**What the move establishes:**
+
+The larger implications of a predictive theory should be made explicit and tested.
+
+**What it does not establish:**
+
+* that Grant made the full sequence of transitions;
+* that prediction entails normativity;
+* that predictive compression entails replacement;
+* that traditional systems perform no additional functions.
+
+**Stage-3 alternative reading:**
+
+A reductive extrapolation conflating prediction with justification, motivation, obligation, and social function.
+
+**Survival verdict:**
+
+Survives as an exploratory jurisdiction probe.
+
+The replacement thesis remains Ziggy’s extrapolation and is not attributable to Grant.
+
+**Evidence classification:** Z-DIRECT extrapolation from G-REPORTED material
+
+**Confidence:** Medium for the probe; low for the extrapolated conclusion.
+
+---
+
+#### Named-registry disposition: Universalized Evaluative Jurisdiction
+
+**Disposition:**
+
+`COUNTER-OPERATION / DIAGNOSTIC RELATION ONLY`
+
+The packet identifies a possible passage from prediction into normative or institutional authority.
+
+No actor-level jurisdictional pathology is demonstrated.
+
+---
+
+#### Named-registry disposition: Prediction Sovereignty
+
+**Disposition:**
+
+`NOT DEMONSTRATED`
+
+No direct evidence shows that any participant treated predictive success as the highest or final epistemic authority through which every other kind of success must justify itself.
+
+---
+
+#### Co-constructed distinction
+
+The exchange gradually distinguished:
+
+* predicting ordinary moral judgments;
+* explaining those judgments;
+* recommending action;
+* establishing moral correctness.
+
+The distinction was incomplete and appeared later than required.
+
+It is not promoted as a direct same-operation A3 capacity for Nova.
+
+---
+
+#### G-REPORTED Grant position
+
+Grant reportedly treated suffering as the metric most likely to predict ordinary moral judgments.
+
+Whether this was merely descriptive, explanatory, heuristic, or normative remains UNKNOWN.
+
+---
+
+#### Dig-level completion architecture
+
+The family requires explicit bridge tests between:
+
+1. prediction;
+2. explanation;
+3. justification;
+4. recommendation;
+5. normative authority;
+6. institutional replacement.
+
+No bridge may be presumed merely because the preceding level succeeds.
+
+---
+
+#### Availability findings
+
+**A1-2: Metric Role and Jurisdiction Audit**
+
+Ask what job suffering performs:
+
+* predictor;
+* explanation;
+* heuristic;
+* decision procedure;
+* criterion;
+* foundation.
+
+**A1-5: Prediction-to-Replacement Bridge Audit**
+
+Test whether prediction replaces:
+
+* justification;
+* motivation;
+* identity;
+* ritual;
+* coordination;
+* obligation;
+* rights;
+* justice;
+* exception handling.
+
+These are dig-level completion requirements, not demonstrated actor operators.
+
+---
+
+#### A0 evidence gaps
+
+Unavailable direct classification of suffering’s role.
+
+No adverse Grant conclusion follows.
+
+---
+
+#### Auxiliary and quarantined material
+
+* replacement thesis: quarantined;
+* Prediction Sovereignty: not demonstrated;
+* Universalized Evaluative Jurisdiction: diagnostic relation only.
+
+---
+
+### Family 4 — Metric Comparison–Operationalization–Evidence Audit
+
+#### Profile-ready Ziggy operation: Confidence–Evidence Gating
+
+**Stage-2 blind finding:** Knowledge-Gap Gating
+
+**Mapping verdict:**
+
+`NEW — direct Ziggy evidential-calibration operation`
+
+**Definition:**
+
+Match the confidence, public status, and practical authority of a comparative conclusion to the evidence presently available.
+
+**Source anchors:**
+
+* the proposed suffering-versus-rivals comparison described as a knowledge gap;
+* suffering permitted as a hypothesis;
+* suffering permitted as a favorite;
+* demonstrated winner status withheld pending comparison.
+
+**Core calibration:**
+
+* rational priors remain possible;
+* comparative uncertainty does not mean zero evidence;
+* unresolved comparison blocks coronation;
+* unresolved comparison does not necessarily block tentative ranking.
+
+**Relation to Baseline Exemption:**
+
+`COUNTER-OPERATION / DIAGNOSTIC RELATION`
+
+Confidence–Evidence Gating can expose a favored candidate being treated as a default without equivalent support.
+
+It does not demonstrate that Grant actually granted suffering a baseline exemption.
+
+**Relation to Symmetry Testing of Standards:**
+
+`POTENTIAL PRECURSOR ONLY`
+
+It does not MATCH or EXTEND Symmetry Testing.
+
+Symmetry was not demonstrated because Ziggy did not operationalize and test suffering and all rival metrics under the same procedure.
+
+**Stage-3 alternative reading:**
+
+An organizational decision framework imported into a domain where beliefs can rationally remain provisional without formal experimentation.
+
+**Survival verdict:**
+
+Survives in calibrated form.
+
+It regulates confidence, status, and application—not the mere existence of credence.
+
+**Evidence classification:** Z-DIRECT
+
+**Confidence:** High.
+
+---
+
+#### Named-registry disposition: Baseline Exemption
+
+**Disposition:**
+
+`COUNTER-OPERATION / DIAGNOSTIC RELATION`
+
+The packet raises the possibility that suffering received privileged default status.
+
+The pathology is not established because Grant’s direct evidential procedure is unavailable.
+
+---
+
+#### Named-registry disposition: Symmetry Testing of Standards
+
+**Disposition:**
+
+`NOT DEMONSTRATED`
+
+**Relevant precursors:**
+
+* Confidence–Evidence Gating;
+* Reverse-Role Test of the Decision Standard, A1;
+* Symmetrical Metric-Comparison Protocol, A1.
+
+**Required promotion evidence:**
+
+1. suffering and every rival are operationalized under the same procedure;
+2. Ziggy applies equivalent burdens to metrics he finds attractive;
+3. relevant variables remain fixed under reversal;
+4. unfavorable results are accepted rather than reclassified;
+5. the same evidential thresholds govern all candidates.
+
+Unilateral scrutiny of Grant’s metric is not symmetry testing.
+
+---
+
+#### Named-registry disposition: Unmeasured-to-Zero Conversion
+
+**Disposition:**
+
+`NOT DEMONSTRATED`
+
+The corrected Ziggy position explicitly distinguishes:
+
+* unestablished comparative superiority;
+* zero evidential support.
+
+---
+
+#### Named-registry disposition: Contest-to-Defeat Compression
+
+**Disposition:**
+
+`NOT DEMONSTRATED`
+
+Ziggy preserved suffering as a live hypothesis and possible favorite.
+
+The unresolved comparison was not treated as decisive refutation.
+
+---
+
+#### Named-registry disposition: Contested ≠ Defeated
+
+**Disposition:**
+
+`ADJACENT PRINCIPLE / PARTIAL OVERLAP`
+
+Claim-Scope Partitioning and its hypothesis–coronation application preserve a live claim without treating it as either victorious or defeated.
+
+Independent recurrence under the candidate’s precise definition is insufficient for separate operator promotion.
+
+---
+
+#### G-REPORTED Grant position
+
+Grant reportedly retained suffering as the more likely metric even while conceding that comparison could increase confidence.
+
+No Grant operator or baseline exemption is inferred.
+
+---
+
+#### Dig-level completion architecture
+
+A complete metric comparison would require:
+
+* definitions of suffering, cooperation, justice, love, and well-being;
+* target population;
+* class of moral judgments;
+* success measure;
+* independence or overlap among metrics;
+* current positive evidence;
+* falsification or reversal conditions;
+* rules for ties and underdetermination.
+
+---
+
+#### Availability findings
+
+**A1-1: Symmetrical Metric-Comparison Protocol**
+
+This consolidates:
+
+* equal operational burdens;
+* operationalizing prediction;
+* distinguishing positive evidence from absence of exhaustive comparison.
+
+**A3-2: Comparative uncertainty versus absence of rational priors**
+
+This preserves the calibrated position.
+
+---
+
+#### A0 evidence gaps
+
+Unavailable direct metric-comparison protocol from Grant.
+
+No adverse Grant conclusion follows.
+
+---
+
+#### Auxiliary and quarantined material
+
+* Cross-Disciplinary Swooping may describe Ziggy’s use of a corporate knowledge-gap structure, but a single import is below threshold.
+* Symmetry Testing remains completion architecture, not demonstrated operator capacity.
+
+---
+
+### Family 5 — Observation–Heuristic–Compass–Foundation Audit
+
+#### Strong packet-local Ziggy move: Explicit Assertion–Functional Implication Audit
+
+**Stage-2 blind finding:** Functional-Use Audit
+
+**Mapping verdict:**
+
+`NEW — strong packet-local Ziggy move`
+
+**Definition:**
+
+Compare:
+
+* what a person explicitly says a framework is;
+* how that framework repeatedly functions in reasoning;
+* which implications are supported;
+* which stronger attributions remain unproven.
+
+**Source anchors:**
+
+* Ziggy acknowledged that Grant had not explicitly called suffering his moral compass;
+* Ziggy reported recurring use of harm or suffering in moral scenarios;
+* Ziggy asked whether the metric functioned as Grant’s moral compass.
+
+**What survives:**
+
+Repeated use supports a functional question.
+
+**What does not survive:**
+
+Repeated use does not prove:
+
+* sole moral criterion;
+* foundational endorsement;
+* exclusive compass;
+* complete normative framework.
+
+**Named-registry relation:**
+
+None adequately matches.
+
+It is not **Reconstruction Bypass**, because its core operation is explicit-versus-functional comparison, not evaluation before reconstruction.
+
+**Stage-3 alternative reading:**
+
+Recurring heuristic use may have been inflated into foundational commitment.
+
+**Survival verdict:**
+
+The audit survives strongly.
+
+The moral-compass characterization remains quarantined.
+
+**Evidence classification:** Z-DIRECT applied to G-REPORTED conduct
+
+**Confidence:** High for the audit; low for the moral-foundational conclusion.
+
+---
+
+#### Quarantined alternative reading: Explicitness-Shield Interpretation
+
+**Classification:**
+
+`QUARANTINED ALTERNATIVE READING`
+
+It is not a separate operator candidate.
+
+**Two live readings:**
+
+1. literalist evasion—Grant reportedly relied on absence of the exact words while avoiding functional implications;
+2. legitimate scope correction—Ziggy attributed a stronger role than Grant had accepted.
+
+**Disposition:**
+
+UNKNOWN between the two readings.
+
+No Grant characterization is established.
+
+**Promotion evidence required:**
+
+Direct Grant material showing that he:
+
+* rejects the label;
+* is presented with the functional-use evidence;
+* refuses to identify the metric’s role;
+* continues employing it in the disputed way;
+* relies solely on absence of the exact phrase.
+
+---
+
+#### G-REPORTED Grant positions
+
+Grant reportedly:
+
+* repeatedly reasoned through relative suffering or harm;
+* denied having explicitly called suffering his moral compass.
+
+The exact role suffering played remains unavailable.
+
+---
+
+#### Dig-level completion architecture
+
+A full role audit must distinguish:
+
+1. observation;
+2. correlation;
+3. predictor;
+4. explanatory variable;
+5. heuristic;
+6. deliberative consideration;
+7. decision procedure;
+8. moral criterion;
+9. foundational value.
+
+---
+
+#### Availability findings
+
+**A1-2: Metric Role and Jurisdiction Audit**
+
+Ask neutrally:
+
+> What job is suffering doing in the framework?
+
+This completion architecture was contextually available but not completed.
+
+---
+
+#### A0 evidence gaps
+
+Unavailable direct classification of suffering’s role.
+
+No adverse Grant conclusion follows.
+
+---
+
+#### Auxiliary and quarantined material
+
+* moral-compass attribution: quarantined;
+* Explicitness-Shield Interpretation: quarantined;
+* use is not automatically normative endorsement;
+* repeated consideration is not automatically a sole moral compass.
+
+---
+
+### Family 6 — Doxastic–Inquiry–Practical Agency Audit
+
+#### Valid packet-local evaluative test: Agency-Type Consistency Test
+
+**Stage-2 blind finding:** Theory–Application Consistency Test
+
+**Mapping verdict:**
+
+`NEW — packet-local evaluative test`
+
+**Definition:**
+
+Compare a declared agency theory with the agency type assigned in a concrete case while distinguishing:
+
+* belief agency;
+* inquiry agency;
+* assertion agency;
+* action agency;
+* application agency.
+
+**Source anchor:**
+
+Ziggy asked why the reported tension existed if Grant was a compatibilist. The exchange later recognized that belief formation and voluntary action may be treated differently.
+
+**Relation to Symmetry Testing of Standards:**
+
+`NONE ESTABLISHED`
+
+This is a theory–application consistency test, not reciprocal burden testing across competing frameworks.
+
+**What survives:**
+
+It is valid to ask whether a stated theory is applied coherently to the relevant type of agency.
+
+**What does not survive:**
+
+The alleged Grant inconsistency.
+
+Compatibilism does not require voluntary belief selection.
+
+**Stage-3 alternative reading:**
+
+Applying action-level compatibilism to involuntary belief formation may be a category error.
+
+**Survival verdict:**
+
+The test survives.
+
+Its Grant application remains unresolved.
+
+**Evidence classification:** Z-DIRECT and CO-CONSTRUCTED distinction
+
+**Confidence:** High for the test; low for an inconsistency verdict.
+
+---
+
+#### Quarantined interpretation: Evidential-Compulsion Hypothesis
+
+**Stage-2 blind finding:** Antecedent-Offloading Diagnosis
+
+**Mapping verdict:**
+
+`NEW — quarantined interpretation, not an operator`
+
+**Interpretation:**
+
+Grant’s reported reluctance to use decision language may reflect a view that evidence compels belief.
+
+**Strongest alternative:**
+
+Doxastic involuntarism:
+
+* belief is not directly chosen;
+* inquiry, assertion, application, and action may remain agency-bearing.
+
+**Disposition:**
+
+Quarantined.
+
+No Grant psychology, stable trait, or operator is extracted.
+
+**Promotion evidence required:**
+
+Direct evidence that Grant denies responsibility across:
+
+* evidence seeking;
+* comparison standards;
+* assertion;
+* working-model adoption;
+* application;
+* action.
+
+---
+
+#### Co-constructed distinction
+
+The conversation eventually distinguished:
+
+* being compelled by what appears true;
+* choosing what evidence to seek;
+* choosing what to assert;
+* choosing whether to operationalize the belief.
+
+This distinction was incomplete and arrived after stronger agency-offloading language had already appeared.
+
+---
+
+#### Nova role or protocol behavior: Strongest compatibilist reconstruction
+
+Nova later supplied the belief/action distinction that should have preceded earlier inconsistency scoring.
+
+This was the basis for A3-3.
+
+It is not evidence about Grant.
+
+---
+
+#### G-REPORTED Grant positions
+
+Grant was reported as:
+
+* a compatibilist;
+* resistant to calling comparative belief a decision;
+* compelled by the preponderance of evidence, in Ziggy’s reconstruction.
+
+The last item remains Ziggy’s interpretation, not a direct Grant statement unless independently anchored.
+
+---
+
+#### Dig-level completion architecture
+
+Separate:
+
+1. what appears believable;
+2. what evidence is sought;
+3. what standards are applied;
+4. what inquiry is prioritized;
+5. what is asserted;
+6. what confidence is communicated;
+7. what model is adopted;
+8. what guides deliberation;
+9. what guides action.
+
+---
+
+#### Availability findings
+
+**A3-1: Claim-Scope Partitioning applied to Grant’s decision and belief account**
+
+Grant the possible nonvoluntariness of credence while preserving separate practical responsibility questions.
+
+**A3-3: Strongest compatibilist reconstruction before inconsistency scoring**
+
+Nova later demonstrated the exact belief/action distinction.
+
+**A1-4: Doxastic–Inquiry–Practical Agency Separation**
+
+The full nine-part separation was contextually available but not completed.
+
+**A1-6: Disconfirmation Test for the Offloading Diagnosis**
+
+Specify what would count against the interpretation.
+
+---
+
+#### A0 evidence gaps
+
+Unavailable direct belief/action compatibilist distinction from Grant.
+
+No adverse Grant conclusion follows.
+
+---
+
+#### Auxiliary and quarantined material
+
+* Frankfurt material: auxiliary only;
+* Evidential-Compulsion Hypothesis: quarantined;
+* alleged Grant inconsistency: weakened;
+* doxastic involuntarism is not denial of all agency.
+
+---
+
+### Family 7 — Framework Transfer and Jurisdiction Audit
+
+#### Direct Ziggy framework transfer
+
+Ziggy imported a corporate decision and knowledge-gap procedure into the moral-metric dispute.
+
+**Possible named-registry relation: Cross-Disciplinary Swooping**
+
+**Disposition:**
+
+`POSSIBLE SINGLE CROSS-DOMAIN IMPORT, BELOW THRESHOLD`
+
+The transfer is evident, but one cross-domain import does not establish a stable operator.
+
+**Productive function:**
+
+Introduces disciplined attention to:
+
+* decision definition;
+* knowledge gaps;
+* information gathering;
+* confidence before commitment.
+
+**Failure mode:**
+
+An organizational decision procedure may be mistaken for a universal law governing involuntary belief formation.
+
+**Profile status:** Below threshold.
+
+---
+
+#### Prediction-to-Replacement Implication Probe
+
+This is organized here as a jurisdiction diagnostic as well as under Family 3.
+
+It remains:
+
+`NEW — exploratory jurisdiction probe`
+
+Its relation to **Universalized Evaluative Jurisdiction** is counter-operational, not matching or extending.
+
+---
+
+#### Named-registry disposition: Universalized Evaluative Jurisdiction
+
+**Disposition:**
+
+`COUNTER-OPERATION / DIAGNOSTIC RELATION ONLY`
+
+No actor-level pathology is demonstrated.
+
+---
+
+#### Named-registry disposition: Cross-Disciplinary Swooping
+
+**Disposition:**
+
+`POSSIBLE SINGLE CROSS-DOMAIN IMPORT, BELOW THRESHOLD`
+
+**Required promotion evidence:**
+
+Independent examples in which Ziggy:
+
+* imports a structure from a distant domain;
+* preserves relevant differences;
+* uses the import to generate testable consequences;
+* revises or rejects the transfer when it fails.
+
+---
+
+#### Named-registry disposition: Reconstruction Bypass
+
+**Disposition:**
+
+`NOT DEMONSTRATED AS AN ACTOR OPERATOR`
+
+The conversation may have evaluated expanded implications before reconstructing Grant’s complete framework, but direct Grant material is unavailable. The apparent bypass may result from mediated reporting.
+
+---
+
+#### G-REPORTED Grant position
+
+Grant reportedly claimed predictive superiority or greater likelihood for suffering.
+
+No direct evidence establishes how far he transferred that claim into normative or institutional domains.
+
+---
+
+#### Dig-level completion architecture
+
+Any framework transfer must audit:
+
+* source-domain purpose;
+* target-domain purpose;
+* shared structure;
+* disanalogies;
+* jurisdiction;
+* success criteria;
+* failure conditions.
+
+---
+
+#### Availability findings
+
+**A1-5: Prediction-to-Replacement Bridge Audit**
+
+Test whether predictive compression supplies every function of the framework proposed for replacement.
+
+---
+
+#### A0 evidence gaps
+
+Unavailable direct classification of suffering’s role and unavailable direct metric protocol limit jurisdictional conclusions.
+
+---
+
+#### Auxiliary and quarantined material
+
+* Mr. Brute material: auxiliary;
+* corporate decision procedure: useful transfer, not automatically universal;
+* replacement implication: exploratory only.
+
+---
+
+### Family 8 — Assertion–Use–Implication–Ownership Audit
+
+#### Direct Ziggy operation: Explicit Assertion–Functional Implication Audit
+
+This operation appears here in its ownership dimension.
+
+**Core distinctions:**
+
+* what was explicitly asserted;
+* how the framework was used;
+* what implications follow;
+* which implications the speaker owns;
+* whether practical adoption occurred.
+
+**Profile tier:**
+
+Strong packet-local move, not profile-ready due insufficient independent recurrence.
+
+---
+
+#### Direct Ziggy operation: Commitment-Ladder Probe
+
+This operation appears here in its ownership dimension.
+
+It asks whether comparative credence remained merely private or became:
+
+* inquiry priority;
+* public claim;
+* working model;
+* moral application.
+
+**Profile tier:**
+
+Cautious profile candidate.
+
+---
+
+#### Quarantined alternative: Explicitness-Shield Interpretation
+
+Not a separate operator.
+
+The two live readings remain:
+
+* literalist evasion;
+* legitimate scope correction.
+
+No conclusion about Grant is established.
+
+---
+
+#### Nova-generated protocol behavior: Application-First Questioning Protocol
+
+**Stage-2 blind finding:** Abstract-Answer Bypass
+
+**Mapping verdict:**
+
+`NEW — Nova-generated packet-local protocol behavior`
+
+**Definition:**
+
+Replace an abstract doctrinal question with a concrete question about how a framework functions in the live case.
+
+**Source anchor:**
+
+Nova advised against merely asking whether Grant believed agency was possible and instead suggested asking how suffering operated in his actual moral reasoning.
+
+**Productive function:**
+
+Reduces the chance of receiving only a textbook self-description.
+
+**Failure mode:**
+
+The concrete question can remain loaded.
+
+“Do you use suffering as your moral compass?” inserts a disputed classification.
+
+**Profile status:**
+
+Below profile level.
+
+It is not a demonstrated Ziggy operator.
+
+---
+
+#### G-REPORTED Grant positions
+
+Grant reportedly:
+
+* rejected the term `decision`;
+* denied explicitly calling suffering his moral compass;
+* retained suffering as more likely.
+
+No conclusion follows about concealed commitment without direct use, definition, and ownership evidence.
+
+---
+
+#### Dig-level completion architecture
+
+A complete ownership audit must distinguish:
+
+1. explicit statement;
+2. implicit consequence;
+3. recurring use;
+4. acknowledged use;
+5. working adoption;
+6. public assertion;
+7. practical application;
+8. normative ownership.
+
+---
+
+#### Availability findings
+
+**A1-3: Reverse-Role Test of the Decision Standard**
+
+Tests whether Grant’s ownership vocabulary is applied consistently.
+
+**A1-6: Disconfirmation Test for the Offloading Diagnosis**
+
+Specifies what would count against evasion or accountability-avoidance interpretations.
+
+---
+
+#### A0 evidence gaps
+
+* unavailable direct definition of `decision`;
+* unavailable direct classification of suffering’s role.
+
+---
+
+#### Auxiliary and quarantined material
+
+* Explicitness-Shield Interpretation: quarantined;
+* denial does not automatically confirm concealed commitment;
+* explicit denial is not automatically a shield.
+
+---
+
+## 2. Consolidated Operator Inventory and Corrected Registry Directionality
+
+### Profile-ready Ziggy operations
+
+#### 1. Claim-Scope Partitioning
+
+**Classification:** Direct Ziggy evaluative operation
+**Confidence:** High
+**Profile status:** PROFILE-READY
+
+**Registry relation:**
+
+* Contested ≠ Defeated: adjacent principle / partial overlap.
+* No forced match.
+
+---
+
+#### 2. Confidence–Evidence Gating
+
+**Classification:** Direct Ziggy evidential-calibration operation
+**Confidence:** High
+**Profile status:** PROFILE-READY
+
+**Registry relations:**
+
+* Baseline Exemption: counter-operation / diagnostic relation.
+* Symmetry Testing: potential precursor only.
+* Unmeasured-to-Zero Conversion: explicitly not demonstrated.
+
+---
+
+### Cautious profile candidate
+
+#### 3. Commitment-Ladder Probe
+
+**Classification:** Direct Ziggy substantive inquiry with rhetorical contamination
+**Confidence:** Medium-high
+**Profile status:** CAUTIOUS PROFILE CANDIDATE
+
+**Restriction:**
+
+Its substantive concern with commitment survives, but the historical expression remained entangled with the disputed word `decision`.
+
+---
+
+### Strong packet-local Ziggy moves
+
+#### 4. Commitment–Causal-Control Separation
+
+**Confidence:** High packet-locally
+**Profile status:** STRONG PACKET-LOCAL
+
+---
+
+#### 5. Explicit Assertion–Functional Implication Audit
+
+**Confidence:** High for the audit
+**Profile status:** STRONG PACKET-LOCAL
+
+The moral-compass conclusion is not included.
+
+---
+
+#### 6. First-Order/Structural Agency Separation
+
+**Confidence:** High packet-locally
+**Profile status:** STRONG PACKET-LOCAL
+
+---
+
+### Valid packet-local evaluative test
+
+#### 7. Agency-Type Consistency Test
+
+**Confidence:** High for the test
+**Profile status:** VALID PACKET-LOCAL TEST
+
+The test survives.
+
+The alleged Grant inconsistency does not.
+
+---
+
+### Below profile level
+
+1. Application-First Questioning Protocol — Nova-generated.
+2. Vocabulary Accommodation — lower-tier rhetoric.
+3. Prediction-to-Replacement Implication Probe — exploratory jurisdiction probe.
+4. Evidential-Compulsion Hypothesis — quarantined interpretation.
+5. Explicitness-Shield Interpretation — quarantined alternative reading.
+6. Cross-Disciplinary Swooping — possible single import, below threshold.
+7. Frankfurt material — auxiliary.
+8. Mr. Brute material — auxiliary.
+
+---
+
+### Consolidated named-registry disposition
+
+#### Counter-operation or diagnostic relation
+
+* **Baseline Exemption**
+* **Universalized Evaluative Jurisdiction**
+
+#### Adjacent principle / partial overlap
+
+* **Contested ≠ Defeated**
+
+#### Potential precursor only
+
+* **Symmetry Testing of Standards**
+
+#### Possible single cross-domain import, below threshold
+
+* **Cross-Disciplinary Swooping**
+
+#### Not demonstrated
+
+* **Prediction Sovereignty**
+* **Generative Admission Restriction**
+* **Unmeasured-to-Zero Conversion**
+* **Possibility Compression**
+* **Possibility Preservation**
+* **Reconstruction Bypass as an actor operator**
+* **Contest-to-Defeat Compression**
+
+No registry match is forced.
+
+---
+
+## 3. Corrected Profile Tiers and Packet-Local Role Claims
+
+### Profile-ready claim 1
+
+**Claim:**
+
+Ziggy repeatedly uses Claim-Scope Partitioning, granting a narrow proposition while withholding a stronger conclusion not yet supported.
+
+**Subject:** Ziggy
+**Evidence classification:** Z-DIRECT
+**Confidence:** High
+
+**Source anchors:**
+
+* “half point” concession;
+* suffering permitted as a hypothesis;
+* prediction distinguished from demonstrated winner.
+
+**Review condition:**
+
+Downgrade if independent packets show these were isolated concessions unique to this exchange.
+
+---
+
+### Profile-ready claim 2
+
+**Claim:**
+
+Ziggy uses Confidence–Evidence Gating to calibrate the status and authority of a comparative conclusion to the evidence available.
+
+**Subject:** Ziggy
+**Evidence classification:** Z-DIRECT
+**Confidence:** High
+
+**Source anchors:**
+
+* comparative experiment described as a knowledge gap;
+* provisional hypothesis preserved;
+* coronation withheld.
+
+**Review condition:**
+
+Downgrade if Ziggy applies the demand only to disfavored candidates or treats his preferred alternatives as exempt.
+
+---
+
+### Cautious profile claim
+
+**Claim:**
+
+Ziggy uses a Commitment-Ladder Probe to determine when comparative credence becomes inquiry priority, public assertion, working-model adoption, or practical use.
+
+**Subject:** Ziggy
+**Evidence classification:** Z-DIRECT with CO-CONSTRUCTED refinement
+**Confidence:** Medium-high
+
+**Restriction:**
+
+The substantive inquiry survives; the use of `decision` remained rhetorically contested.
+
+**Review condition:**
+
+Promote fully only if independent cases show Ziggy distinguishing ladder stages rather than merely pursuing verbal admissions.
+
+---
+
+### Strong packet-local claim 1
+
+**Claim:**
+
+Ziggy distinguished selecting a commitment from causing the selected outcome.
+
+**Subject:** Ziggy
+**Evidence classification:** Z-DIRECT
+**Confidence:** High packet-locally
+
+**Review condition:**
+
+Independent recurrence required for profile promotion.
+
+---
+
+### Strong packet-local claim 2
+
+**Claim:**
+
+Ziggy distinguished explicit self-description from the apparent functional role of a repeatedly used framework.
+
+**Subject:** Ziggy
+**Evidence classification:** Z-DIRECT applied to G-REPORTED material
+**Confidence:** High for the audit
+
+**Restriction:**
+
+No moral-compass conclusion is included.
+
+---
+
+### Strong packet-local claim 3
+
+**Claim:**
+
+Ziggy distinguished first-order choice within a constraint system from structural preference concerning the system.
+
+**Subject:** Ziggy
+**Evidence classification:** Z-DIRECT and CO-CONSTRUCTED
+**Confidence:** High packet-locally
+
+---
+
+### Valid packet-local evaluative claim
+
+**Claim:**
+
+Ziggy applied an Agency-Type Consistency Test to compare reported compatibilism with agency attribution in the live dispute.
+
+**Subject:** Ziggy
+**Evidence classification:** Z-DIRECT and CO-CONSTRUCTED
+**Confidence:** High for the test
+
+**Restriction:**
+
+No Grant inconsistency is established.
+
+---
+
+### Role-induced interaction claim
+
+**Claim:**
+
+Nova displayed a packet-local alignment-role tendency: strong validation often preceded reconstruction of the strongest available alternative.
+
+**Subject:** Nova
+**Evidence classification:** NOVA-DIRECT; ROLE-INDUCED
+**Confidence:** High for this packet
+
+**Counterevidence:**
+
+Nova later introduced:
+
+* the belief/action distinction;
+* compatibilist coherence;
+* limits on the moral-compass inference.
+
+**Disposition:**
+
+Retained as a packet-local interaction claim.
+
+Not exported as a general operator or stable trait.
+
+---
+
+## 4. Dig-Level Completion Architecture
+
+The following procedures are required to complete the analysis but are not demonstrated actor capacities merely because the extraction identifies them.
+
+### A. Symmetrical Metric-Comparison Protocol
+
+Required steps:
+
+* operationalize suffering and every rival;
+* hold procedures constant;
+* identify current positive evidence;
+* specify reversal conditions;
+* accept unfavorable outcomes.
+
+**Status:** A1 completion architecture
+**Registry relevance:** precursor to Symmetry Testing
+**Demonstrated operator:** No
+
+---
+
+### B. Metric Role and Jurisdiction Audit
+
+Required distinctions:
+
+* observation;
+* prediction;
+* explanation;
+* heuristic;
+* decision procedure;
+* moral criterion;
+* foundation;
+* institutional replacement.
+
+**Status:** A1 completion architecture
+**Demonstrated operator:** No
+
+---
+
+### C. Reverse-Role Test of the Decision Standard
+
+Required operation:
+
+Apply Grant’s reported definition to Ziggy ranking cooperation as more likely.
+
+**Status:** A1 completion architecture
+**Demonstrated operator:** No
+
+---
+
+### D. Doxastic–Inquiry–Practical Agency Separation
+
+Required distinctions:
+
+1. belief appearance;
+2. evidence seeking;
+3. comparison standards;
+4. inquiry priority;
+5. assertion;
+6. communicated confidence;
+7. model adoption;
+8. deliberative use;
+9. action.
+
+**Status:** A1 completion architecture
+**Demonstrated operator:** No
+
+---
+
+### E. Prediction-to-Replacement Bridge Audit
+
+Required test:
+
+Determine whether predictive compression also supplies:
+
+* justification;
+* motivation;
+* identity;
+* ritual;
+* coordination;
+* obligation;
+* justice;
+* rights;
+* exception handling.
+
+**Status:** A1 completion architecture
+**Demonstrated operator:** No
+
+---
+
+### F. Disconfirmation Test for the Offloading Diagnosis
+
+Possible defeaters include Grant:
+
+* accepting inquiry responsibility;
+* distinguishing belief from use;
+* consistently applying his decision definition;
+* acknowledging ownership of assertion;
+* acknowledging ownership of practical application;
+* identifying evidence that would reverse his ranking.
+
+**Status:** A1 completion architecture
+**Demonstrated operator:** No
+
+---
+
+## 5. Quarantined Claims
+
+### 1. Evidential-Compulsion Hypothesis
+
+**Interpretation:**
+
+Grant may relocate belief authorship to evidence or antecedent causes.
+
+**Why quarantined:**
+
+Doxastic involuntarism provides a coherent alternative.
+
+**Promotion evidence required:**
+
+Direct denial of responsibility for inquiry, assertion, adoption, application, and action.
+
+---
+
+### 2. Grant compatibilist inconsistency
+
+**Why quarantined:**
+
+Compatibilism does not require voluntary belief selection.
+
+**Promotion evidence required:**
+
+Direct Grant statements assigning agency to the same process type in theory while denying it in the live case under equivalent conditions.
+
+---
+
+### 3. Grant moral-compass attribution
+
+**Why quarantined:**
+
+Repeated use supports a role question but not foundational status.
+
+**Promotion evidence required:**
+
+Direct clarification that suffering:
+
+* guides what ought to be done;
+* orders competing values;
+* functions as a primary or foundational criterion.
+
+---
+
+### 4. Explicitness-Shield Interpretation
+
+**Why quarantined:**
+
+Literalist evasion and legitimate scope correction remain live.
+
+**Promotion evidence required:**
+
+Direct refusal to address functional-use evidence while relying solely on absence of the exact phrase.
+
+---
+
+### 5. Horse analogy as causal diversion
+
+**Why quarantined:**
+
+The exact target is UNKNOWN.
+
+**Promotion evidence required:**
+
+The complete direct analogy and surrounding argument.
+
+---
+
+### 6. Prediction Sovereignty
+
+**Why quarantined/not demonstrated:**
+
+No evidence establishes prediction as final epistemic authority.
+
+**Promotion evidence required:**
+
+Direct claims subordinating justification, normativity, or meaning to predictive success.
+
+---
+
+### 7. Baseline Exemption
+
+**Why quarantined:**
+
+The concern is diagnostically relevant, but Grant’s comparison procedure is unavailable.
+
+**Promotion evidence required:**
+
+Direct evidence that suffering avoids burdens imposed on rivals.
+
+---
+
+### 8. Universalized Evaluative Jurisdiction as actor pathology
+
+**Why quarantined:**
+
+The packet probes for jurisdictional expansion but does not establish that an actor committed it.
+
+**Promotion evidence required:**
+
+Direct transition from predictive success to authority in a distinct domain without a defended bridge.
+
+---
+
+### 9. Reconstruction Bypass
+
+**Why quarantined/not demonstrated:**
+
+Grant’s full framework is unavailable and may have been lost through mediated reporting.
+
+**Promotion evidence required:**
+
+Direct evidence that the framework’s own aims and success conditions were presented and then ignored.
+
+---
+
+### 10. Prediction-to-replacement thesis
+
+**Why quarantined:**
+
+It is Ziggy’s exploratory extrapolation, not a demonstrated Grant position.
+
+**Promotion evidence required:**
+
+A defended bridge from prediction to full functional replacement.
+
+---
+
+### 11. Cross-Disciplinary Swooping as stable operator
+
+**Why quarantined:**
+
+Only one clear corporate-to-philosophy transfer is present.
+
+**Promotion evidence required:**
+
+Independent successful imports across additional disputes.
+
+---
+
+### 12. First-Order/Structural Agency Separation as stable profile trait
+
+**Why quarantined at profile level:**
+
+Insufficient independent recurrence.
+
+---
+
+### 13. Application-First Questioning as Ziggy operator
+
+**Why quarantined:**
+
+Nova generated the protocol.
+
+**Promotion evidence required:**
+
+Independent Ziggy-led deployments.
+
+---
+
+### 14. Vocabulary Accommodation as cognitive operator
+
+**Why quarantined:**
+
+It remained incomplete and may be ordinary rhetoric.
+
+---
+
+### 15. Possibility Preservation
+
+**Why not demonstrated:**
+
+Preserving suffering as a live hypothesis does not establish deliberate retention of low-plausibility possibilities as a stable exploratory discipline.
+
+---
+
+### 16. Possibility Compression
+
+**Why not demonstrated:**
+
+No anchored pattern shows low-plausibility possibilities being discarded as functionally irrelevant.
+
+---
+
+### 17. Generative Admission Restriction
+
+**Why not demonstrated:**
+
+No evidence concerns exclusion of revelation, tradition, intuition, narrative, first-person experience, or symbolic compression from hypothesis generation.
+
+---
+
+### 18. Unmeasured-to-Zero Conversion
+
+**Why not demonstrated:**
+
+The corrected knowledge-gap account explicitly preserves possible priors and distinguishes unknown from zero.
+
+---
+
+### 19. Contest-to-Defeat Compression
+
+**Why not demonstrated:**
+
+The suffering hypothesis remained live despite the unresolved challenge.
+
+---
+
+### 20. Frankfurt and Mr. Brute material
+
+**Disposition:**
+
+Auxiliary only.
+
+The bounded packet does not contain enough development for operator extraction or registry mapping.
+
+---
+
+## 6. Relationship-Level Loops
+
+### Loop 1 — Credence–Decision Lexical Loop
+
+`Grant reportedly assigns higher likelihood`
+→ `Ziggy calls the ranking a decision`
+→ `Grant reportedly rejects the term`
+→ `Ziggy mirrors “more likely” but retains “decide”`
+→ `the lexical conflict persists`
+
+**Productive function:**
+
+Exposes unresolved distinctions among credence, ranking, decision, and commitment.
+
+**Failure mode:**
+
+The contested predicate remains inside the attempted clarification.
+
+---
+
+### Loop 2 — Minimal Claim–Expanded Implication Loop
+
+`Grant reportedly states a narrow predictive claim`
+→ `Ziggy derives moral-compass or replacement implications`
+→ `Grant reportedly retreats to explicit wording`
+→ `Ziggy reads recurring use functionally`
+
+**Productive function:**
+
+Tests the broader stakes of a narrow claim.
+
+**Failure mode:**
+
+A minimal proposition and its expanded implications may be scored as though they were identical.
+
+---
+
+### Loop 3 — Knowledge Gap–Prior Ranking Loop
+
+`Ziggy identifies missing comparison`
+→ `Grant reportedly retains a prior`
+→ `Ziggy treats the prior as premature`
+→ `later clarification preserves a hypothesis but blocks coronation`
+
+**Productive function:**
+
+Clarifies the distinction between a rational prior and a demonstrated winner.
+
+**Failure mode:**
+
+Comparative uncertainty can be temporarily confused with absence of rational support.
+
+---
+
+### Loop 4 — Nova Validation–Accusation Escalation Loop
+
+`Ziggy offers a suspicion`
+→ `Nova strongly validates`
+→ `the attribution strengthens`
+→ `later distinctions weaken it`
+→ `the stronger language remains active`
+
+**Productive function:**
+
+Accelerates articulation.
+
+**Failure mode:**
+
+Validation can precede adversarial reconstruction.
+
+---
+
+### Loop 5 — Local Semantic Dispute–Metaphysical Diagnosis Loop
+
+`decision remains undefined`
+→ `determinism and offloading are proposed`
+→ `compatibilism complicates the diagnosis`
+→ `the local metric dispute is used to test the metaphysical story`
+
+**Productive function:**
+
+Connects abstract agency theory with applied reasoning.
+
+**Failure mode:**
+
+A lexical disagreement may be overexplained through a broader metaphysical diagnosis.
+
+---
+
+### Global control
+
+Denial of an interpretation cannot automatically confirm:
+
+* evasion;
+* offloading;
+* accountability avoidance;
+* concealed commitment;
+* determinism.
+
+A denial becomes probative only when tested against:
+
+* direct definitions;
+* reversed roles;
+* consistent application;
+* functional use;
+* stated disconfirmation conditions.
+
+---
+
+## 7. Restored Stage-3 Availability Ledger
+
+### A3 — Demonstrated Available: 3
+
+#### A3-1 — Claim-Scope Partitioning applied to Grant’s decision and belief account
+
+Ziggy demonstrated the same operation elsewhere but did not apply it fully to:
+
+* Grant’s narrow decision vocabulary;
+* possible involuntary credence;
+* separate responsibility for inquiry, assertion, adoption, and use.
+
+---
+
+#### A3-2 — Comparative uncertainty versus absence of rational priors
+
+Ziggy later demonstrated the distinction through the hypothesis–coronation application of Claim-Scope Partitioning.
+
+---
+
+#### A3-3 — Strongest compatibilist reconstruction before inconsistency scoring
+
+Nova later supplied the belief/action distinction that should have preceded the earlier inconsistency assessment.
+
+---
+
+### A2 — Explicitly Available: 0
+
+No explicitly supplied and bypassed omission was established.
+
+A useful move is not A2 merely because it could have been offered.
+
+---
+
+### A1 — Contextually Available: 6
+
+1. Symmetrical Metric-Comparison Protocol.
+2. Metric Role and Jurisdiction Audit.
+3. Reverse-Role Test of the Decision Standard.
+4. Doxastic–Inquiry–Practical Agency Separation.
+5. Prediction-to-Replacement Bridge Audit.
+6. Disconfirmation Test for the Offloading Diagnosis.
+
+These are completion requirements, not demonstrated actor capacities.
+
+---
+
+### A0 — Evidence Gaps: 5
+
+1. Unavailable direct definition of `decision`.
+2. Unavailable direct classification of suffering’s role.
+3. Unavailable direct metric-comparison protocol.
+4. Unavailable exact target of the horse analogy.
+5. Unavailable direct belief/action compatibilist distinction.
+
+No adverse Grant conclusion follows from these gaps.
+
+---
+
+### Final availability counts
+
+* A3: **3**
+* A2: **0**
+* A1: **6**
+* A0: **5**
+
+---
+
+## 8. Source and Attribution Restrictions
+
+1. Every Grant position remains **G-REPORTED**.
+2. No Grant operator is extracted.
+3. No stable Grant psychological trait is extracted.
+4. Missing direct Grant evidence is an A0 evidence gap, not a Grant failure.
+5. Nova validation is not evidence about Grant.
+6. Comparative credence is not automatically voluntary belief selection.
+7. Ranking is not automatically working-model adoption.
+8. Working-model adoption is not automatically normative endorsement.
+9. Use is not automatically normative endorsement.
+10. Repeated consideration is not automatically a sole moral compass.
+11. Predictive success is not automatically moral truth.
+12. Predictive compression is not automatically institutional replacement.
+13. Comparative uncertainty is not zero support.
+14. The corporate decision protocol is not automatically a law of belief formation.
+15. Betting is not identical to choosing a credence.
+16. Explicit denial is not automatically a shield.
+17. Doxastic involuntarism is not denial of all agency.
+18. Compatibilist inconsistency requires identity of the relevant agency types.
+19. Denial cannot automatically confirm offloading.
+20. An A1 completion requirement is not demonstrated actor capacity.
+21. Hypothesis–Coronation Separation is not counted independently from Claim-Scope Partitioning.
+22. Explicitness-Shield Interpretation is not counted as an operator.
+23. Relationship-level loops are not automatically individual traits.
+24. A diagnostic move aimed at detecting a pathology is not itself an instance of that pathology.
+25. No Project Conversation Content, unrelated archive, memory, external source, or other chat was used as evidence. The supplied repair directive was used only to correct the Stage-4 architecture and directionality. 
+
+---
+
+## 9. Extraction Self-Audit
+
+### Audit 1 — Registry priming
+
+**Risk:**
+
+The candidate registry can pressure the extraction to force blind findings into familiar names.
+
+**Correction:**
+
+Most core Ziggy operations remain NEW:
+
+* Claim-Scope Partitioning;
+* Confidence–Evidence Gating;
+* Commitment-Ladder Probe;
+* Commitment–Causal-Control Separation;
+* Explicit Assertion–Functional Implication Audit;
+* First-Order/Structural Agency Separation;
+* Agency-Type Consistency Test.
+
+No full registry MATCH is forced.
+
+---
+
+### Audit 2 — Detector/pathology reversal
+
+**Prior error risk:**
+
+A move detecting possible jurisdictional overreach was mapped as extending the pathology itself.
+
+**Correction:**
+
+Prediction-to-Replacement Implication Probe now has:
+
+`COUNTER-OPERATION / DIAGNOSTIC RELATION`
+
+to Universalized Evaluative Jurisdiction.
+
+It is not the pathology it investigates.
+
+---
+
+### Audit 3 — Unilateral burden challenge converted into symmetry
+
+**Prior error risk:**
+
+Confidence–Evidence Gating was mapped as extending Symmetry Testing.
+
+**Correction:**
+
+Confidence–Evidence Gating is NEW.
+
+Symmetry remains undemonstrated because the same burden was not fully applied to suffering and all rival metrics.
+
+---
+
+### Audit 4 — Internal consistency converted into symmetry
+
+**Prior error risk:**
+
+Agency-Type Consistency Test was mapped as extending Symmetry Testing.
+
+**Correction:**
+
+Agency-Type Consistency Test is NEW.
+
+It compares theory with application while distinguishing agency types. It does not impose reciprocal burdens on competing frameworks.
+
+---
+
+### Audit 5 — Application of Claim-Scope Partitioning counted separately
+
+**Prior error risk:**
+
+Hypothesis–Coronation Separation was counted as an independent operator.
+
+**Correction:**
+
+It is a specialized application of Claim-Scope Partitioning.
+
+It is not separately counted in the operator or profile ledger.
+
+---
+
+### Audit 6 — Quarantined interpretation counted as operator
+
+**Prior error risk:**
+
+Explicitness-Shield Detection appeared as a separate move.
+
+**Correction:**
+
+Explicitness-Shield Interpretation is now a quarantined alternative reading under Explicit Assertion–Functional Implication Audit.
+
+---
+
+### Audit 7 — Packet-local move promoted to profile trait
+
+**Prior error risk:**
+
+Commitment–Causal-Control Separation and Explicit Assertion–Functional Implication Audit were promoted too strongly.
+
+**Correction:**
+
+They are retained as strong packet-local moves.
+
+First-Order/Structural Agency Separation is also packet-local.
+
+---
+
+### Audit 8 — Nova role behavior promoted to operator
+
+**Prior error risk:**
+
+Nova’s alignment tendency appeared among profile-ready operator claims.
+
+**Correction:**
+
+It is now a packet-local, role-induced interaction claim.
+
+Application-First Questioning remains Nova-generated protocol behavior.
+
+---
+
+### Audit 9 — G-REPORTED material converted into Grant psychology
+
+**Risk areas:**
+
+* offloading;
+* inconsistency;
+* moral compass;
+* literalist evasion;
+* causal diversion.
+
+**Correction:**
+
+All remain weakened, UNKNOWN, or quarantined.
+
+No Grant operator or stable trait is extracted.
+
+---
+
+### Audit 10 — Prediction converted into normativity
+
+**Risk:**
+
+Predictive success was allowed to imply moral authority or system replacement.
+
+**Correction:**
+
+Prediction–Explanation–Normativity bridges are now explicit completion requirements.
+
+No bridge is presumed.
+
+---
+
+### Audit 11 — Comparison gap converted into zero evidence
+
+**Risk:**
+
+The absence of comparative testing could be misread as making every prior irrational.
+
+**Correction:**
+
+Confidence–Evidence Gating explicitly preserves rational priors.
+
+The gap blocks coronation, not necessarily tentative ranking.
+
+---
+
+### Audit 12 — Vocabulary accommodation treated as complete
+
+**Risk:**
+
+Ziggy’s reformulation was described as fully adopting Grant’s language.
+
+**Correction:**
+
+`More likely` was mirrored, but `decision` remained.
+
+Vocabulary Accommodation is therefore partial and lower-tier.
+
+---
+
+### Audit 13 — Denial treated as confirmation
+
+**Risk:**
+
+Grant’s reported rejection of an interpretation could be treated as evidence of evasion or offloading.
+
+**Correction:**
+
+Denial is not confirmatory without:
+
+* consistent-definition testing;
+* reversed roles;
+* functional evidence;
+* explicit disconfirmation conditions.
+
+---
+
+### Audit 14 — Neighboring skill treated as A3 evidence
+
+**Risk:**
+
+Nova’s general ability to make distinctions was used to classify predictive-versus-normative separation as demonstrated available.
+
+**Correction:**
+
+That omission remains inside the A1 Metric Role and Jurisdiction Audit because no direct same-operation Nova anchor was established.
+
+---
+
+### Audit 15 — A1 architecture promoted into actor capacity
+
+**Risk:**
+
+Completion procedures identified by Stage 3 could be mistaken for demonstrated operator use.
+
+**Correction:**
+
+All six A1 items remain dig-level completion architecture only.
+
+---
+
+### Audit 16 — Cross-domain import overpromotion
+
+**Risk:**
+
+Use of a corporate knowledge-gap framework could be treated as a stable Cross-Disciplinary Swooping operator.
+
+**Correction:**
+
+It remains one possible cross-domain import below threshold.
+
+---
+
+### Audit 17 — Asymmetric charity
+
+**Structural risk:**
+
+Ziggy and Nova are directly observable; Grant is mediated.
+
+**Correction:**
+
+* all Grant content remains G-REPORTED;
+* strongest alternatives are preserved;
+* missing Grant material produces A0 gaps;
+* no adverse stable characterization is promoted.
+
+---
+
+### Audit 18 — Relationship loop converted into individual operator
+
+**Risk:**
+
+The Credence–Decision and Minimal Claim–Expanded Implication loops might be attributed solely to Grant.
+
+**Correction:**
+
+They remain relationship-level interaction structures.
+
+---
+
+### Audit 19 — Profile count inflation
+
+**Correction:**
+
+The final profile tiers are restricted to:
+
+* 2 profile-ready Ziggy operations;
+* 1 cautious profile candidate;
+* 3 strong packet-local Ziggy moves;
+* 1 valid packet-local evaluative test;
+* 1 packet-local Nova role claim.
+
+---
+
+### Audit 20 — Residual uncertainty
+
+Most vulnerable remaining classifications:
+
+1. whether Commitment-Ladder Probe is sufficiently recurrent for cautious profile status;
+2. whether Explicit Assertion–Functional Implication Audit generalizes beyond this packet;
+3. whether the corporate framework transfer performed genuine analytic work or mainly supplied rhetoric;
+4. whether Grant’s reported decision distinction was lexical, doxastic, or both.
+
+These remain subject to the stated review conditions.
+
+---
+
+## 10. Final Archival Disposition
+
+### Archive as profile-ready Ziggy operations
+
+1. **Claim-Scope Partitioning**
+2. **Confidence–Evidence Gating**
+
+---
+
+### Archive as cautious profile candidate
+
+3. **Commitment-Ladder Probe**
+
+With permanent note:
+
+> The substantive commitment inquiry survived, but its expression remained rhetorically contaminated by the disputed word `decision`.
+
+---
+
+### Archive as strong packet-local Ziggy moves
+
+4. **Commitment–Causal-Control Separation**
+5. **Explicit Assertion–Functional Implication Audit**
+6. **First-Order/Structural Agency Separation**
+
+These require independent recurrence for profile promotion.
+
+---
+
+### Archive as valid packet-local evaluative test
+
+7. **Agency-Type Consistency Test**
+
+The test survives.
+
+The Grant inconsistency claim does not.
+
+---
+
+### Archive as packet-local Nova role claim
+
+**Nova — alignment-role tendency**
+
+Strong validation often preceded strongest-alternative reconstruction, but later qualifications prevent a wholly one-sided characterization.
+
+Do not export beyond this packet.
+
+---
+
+### Archive below profile level
+
+* Application-First Questioning Protocol — Nova-generated.
+* Vocabulary Accommodation — lower-tier rhetoric.
+* Prediction-to-Replacement Implication Probe — exploratory.
+* Cross-Disciplinary Swooping — possible single import.
+* Frankfurt material — auxiliary.
+* Mr. Brute material — auxiliary.
+
+---
+
+### Quarantine
+
+* Evidential-Compulsion Hypothesis.
+* Explicitness-Shield Interpretation.
+* Grant compatibilist inconsistency.
+* Grant moral-compass attribution.
+* horse analogy as causal diversion.
+* Prediction Sovereignty.
+* Baseline Exemption as demonstrated pathology.
+* Universalized Evaluative Jurisdiction as demonstrated pathology.
+* Reconstruction Bypass.
+* prediction-to-replacement thesis.
+* Possibility Preservation.
+* Possibility Compression.
+* Generative Admission Restriction.
+* Unmeasured-to-Zero Conversion.
+* Contest-to-Defeat Compression.
+
+---
+
+### Final registry disposition
+
+**Counter-operation or diagnostic relation:**
+
+* Baseline Exemption
+* Universalized Evaluative Jurisdiction
+
+**Adjacent principle / partial overlap:**
+
+* Contested ≠ Defeated
+
+**Potential precursor only:**
+
+* Symmetry Testing of Standards
+
+**Possible single cross-domain import, below threshold:**
+
+* Cross-Disciplinary Swooping
+
+**Not demonstrated:**
+
+* Prediction Sovereignty
+* Generative Admission Restriction
+* Unmeasured-to-Zero Conversion
+* Possibility Compression
+* Possibility Preservation
+* Reconstruction Bypass as an actor operator
+* Contest-to-Defeat Compression
+
+---
+
+### Final counts
+
+**Profile-ready Ziggy operations:** 2
+
+1. Claim-Scope Partitioning
+2. Confidence–Evidence Gating
+
+**Cautious profile candidates:** 1
+
+1. Commitment-Ladder Probe
+
+**Strong packet-local Ziggy moves:** 3
+
+1. Commitment–Causal-Control Separation
+2. Explicit Assertion–Functional Implication Audit
+3. First-Order/Structural Agency Separation
+
+**Valid packet-local evaluative tests:** 1
+
+1. Agency-Type Consistency Test
+
+**Packet-local Nova role claims:** 1
+
+1. Alignment-role tendency
+
+**A3:** 3
+**A2:** 0
+**A1:** 6
+**A0:** 5
+
+**Grant operators extracted:** 0
+**Grant stable traits extracted:** 0
+**Grant direct-position upgrades:** 0
+
+**Retained relationship-level loops:** 5
+
+---
+
+`DIG_COMPOUND_17_credence_metric_selection_doxastic_agency_and_moral_commitment`
+
+`STAGE 4 COMPLETE AFTER FINAL DIRECTIONALITY, CONSOLIDATION, AND PROFILE-TIER PATCH`
+
 
 ---
 
