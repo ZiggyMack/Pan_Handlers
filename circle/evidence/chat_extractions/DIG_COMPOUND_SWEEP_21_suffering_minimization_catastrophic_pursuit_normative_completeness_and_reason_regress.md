@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (criterion-type + counterexample-target + regress-architecture + source-tier + scope overlays binding; ⭐ **G-QUOTED Grant material** — the numbered regress challenge); Stage 2 ✅ reviewed (one repair cycle — criterion-type, moral-target, source-scope, regress-architecture, ledger-separation repair; 5 core + 2 auxiliary Ziggy candidates, 2 co-constructed artifacts, 1 Grant packet-local G-QUOTED move, 0 stable Grant operators, 6 Nova protocols/roles); Stages 3–4 pending
+**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (criterion-type + counterexample-target + regress-architecture + source-tier + scope overlays binding; ⭐ **G-QUOTED Grant material** — the numbered regress challenge); Stage 2 ✅ reviewed (one repair cycle — criterion-type, moral-target, source-scope, regress-architecture, ledger-separation repair; 5 core + 2 auxiliary Ziggy candidates, 2 co-constructed artifacts, 1 Grant packet-local G-QUOTED move, 0 stable Grant operators, 6 Nova protocols/roles); Stage 3 ✅ reviewed (one repair cycle — availability-tier, duplication, promotion, architecture repair; an unauthorized Stage-4 draft appended to the raw output was caught and QUARANTINED, never used; A3: 6 · A2: 3 · A1: 8 · A0: 5 evidence packages; 3 cautious profile candidates + 4 packet-local moves advance to Stage 4); Stage 4 pending
 
 **Discovered topic:** Whether suffering minimization can function as a complete moral criterion (nine-way under-typed — value / pro-tanto reason / sole axiology / lexical priority / criterion of rightness / decision procedure / policy metric / heuristic / metaethical theory); the death-cult extinction counterexample split into terminal-ranking / pursuit-authorization / decision-procedure / completeness arguments; population ethics (existing vs possible persons, death vs noncreation); misuse vs internal-consequence derivation test; the "problem of evil for the framework" analogy (refined to Catastrophic-Permission / Internal-Adequacy Challenge); "principle without a host/archetype" needing seven-level separation; ⭐ **Grant's regress challenge (G-QUOTED)** — "no higher reason" does NOT entail "never changes"; auxiliary tracks: model/via capacitance sensitivity, ontology-vs-frame, complexity/information/randomness
 
@@ -5000,9 +5000,102 @@ The extraction preserved UNKNOWN for:
 
 No UNKNOWN item was intentionally converted into a stable actor label.
 
------------
-after patch
------------
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-20) — REPAIR ORDER + UNAUTHORIZED STAGE-4 APPEND INCIDENT
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — a new incident class.** The extractor's Stage-3
+> reply, pasted above as one immutable block per the fifth-artifact
+> rule, **runs on past the actual Stage-3 content into an unrequested
+> Stage-4 mapping** (the extractor executed Stage 4 without being
+> sent the Stage-4 prompt). That appended draft is **QUARANTINED —
+> never actor evidence, never a mapping input, never a promotion
+> authority.** It cannot map Stage-2 candidates before Stage 3 fixes
+> their promotion tiers, and it already repeats registry-direction
+> errors on inspection (corrective operations mapped as extensions of
+> the failures they oppose). Do not send Stage 4 from this draft; the
+> real Stage 4 must run from the corrected Stage-3 record below.
+
+**Verdict: PASS WITH MAJOR AVAILABILITY-TIER, DUPLICATION, PROMOTION,
+AND ARCHITECTURE REPAIR — PATCH STAGE 3; DO NOT RERUN STAGES 1 OR 2;
+DO NOT USE OR EXECUTE THE APPENDED STAGE 4.** Strong counterevidence
+and alternative-reading work, but the availability ledger overused
+A3, double-counted several omissions, and omitted the final promotion
+architecture.
+
+**🔧 THE A3 STANDARD TIGHTENED:** `A3 — Demonstrated Available`
+requires the **same relevant operation** demonstrated elsewhere, not
+merely adjacent analytical competence. Corrected to **six** A3s:
+Criterion-Type and Practical-Function Typing Before Catastrophic
+Scoring (merging two prior omissions); Falsity–Incompleteness–Under-
+Specification Separation; Strongest Foundationalist Reconstruction
+and Victory-Meaning Audit (merging two prior omissions); Reason-Type
+Audit Before Regress Diagnosis; Entropy–Description–State Distinction
+Before Counterexample Selection; Cross-Domain Transfer Validity and
+Disanalogy Audit.
+
+**🔀 A2 MERGED TO THREE:** Full Expected-Harm Internal Reply (merging
+the strongest-internal-reply and full-expected-harm omissions —
+temporarily grant Grant's criterion as a comparative expected-
+suffering procedure and test it against probability of success,
+transition suffering, resistance, and alternatives; preserves that
+this may reject the pursuit without settling terminal population
+ethics); Symmetric Completeness Burden on Ziggy's Own Moral
+Alternative (no comparative superiority without reciprocal
+accounting); Ontology/Frame Overlap Concession (model ontologies may
+be frame-relative; Angles's actual usage stays Z-REPORTED/UNKNOWN —
+strike "ontology defines what reality is allowed to be").
+
+**🔀 A1 CORRECTED TO EIGHT** (Death–Noncreation–Empty-World
+Separation; Formal Suffering Aggregation; Impossible–Infeasible–Low-
+Probability Separation; Positive Ziggy Rational-Revision Model; Exact
+HyperLynx and Standards Jurisdiction Verification; Dependency Audit
+Before Treating Fitted Attenuation as Moot; Exact Parameter Location
+and Physical Correspondence; Grant's Intended Complexity Measure) —
+the MIPS-to-lines exchange removed entirely (peripheral, outside the
+actor/operator architecture). **A0 consolidated to five evidence
+packages** (Direct Grant Suffering-Criterion and Population-Ethics;
+Complete Grant Higher-Reason and Revision-Architecture; Direct Grant
+Complexity–Information; Direct Angles Ontology-Usage; Technical
+Documentation/Dependency/Result) — evidence gaps, never actor
+failures.
+
+**🔧 PROMOTION ARCHITECTURE FILLED IN (the omission that blocked
+Stage 4):** **3 cautious Ziggy profile candidates** (Terminal-
+Ranking–Pursuit–Decision Separation; Completeness and Imported-Value
+Audit; Analogy-Limit Detection — eligible for future testing, never
+durable traits) · **4 packet-local moves below profile threshold**
+(Catastrophic Edge-Case Stress Test; Adversarial Self-Check; Metric-
+Conditional Hypothesis Pruning; Proxy-Parameter Sensitivity Probe —
+last two auxiliary) · 2 co-constructed analytic artifacts · 1 Grant
+packet-local G-QUOTED move · 0 stable Grant operators/motives · 6
+Nova protocols and role behaviors · 5 relationship-level loops.
+
+**⚖️ KEY COUNTEREVIDENCE PRESERVED:** the death-cult case is a genuine
+stress test but not a demonstrated refutation; Grant's expected-harm
+reply may defeat the exterminatory *pursuit* without resolving the
+*terminal* empty-world ranking; "regress trap" does not survive as an
+established diagnosis; reciprocal self-application raises a question
+but may *confirm* rather than refute a foundationalist reading;
+technical hypothesis pruning survives only as reprioritization, never
+causal elimination; no stable Grant operator, motive, or personality
+inference is justified anywhere in the packet.
+
+**🎯 The decisive correction:** Grant's reported expected-suffering
+reply should be fully conceded within the pursuit branch before the
+remaining population-ethical objection is scored. Likewise, his
+quoted higher-reason game should receive its strongest foundationalist
+interpretation before reciprocal self-application is treated as
+criticism. Neither concession settles the dispute, but without them
+the audit is structurally asymmetric.
+
+---
+
+### ⏬ STAGE 3 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 3
 
 ## 0. Corrected Source Boundary and Attribution Controls
@@ -6809,6 +6902,66 @@ DIG_COMPOUND_21_suffering_minimization_catastrophic_pursuit_normative_completene
 
 STAGE 3 COMPLETE AFTER FINAL AVAILABILITY-TIER, DUPLICATION, PROMOTION, AND ARCHITECTURE PATCH
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 PATCH (Nova, 2026-07-20) — ACCEPTANCE
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-3 record**; the earlier appended Stage-4 draft (filed in the
+> superseded raw output above, before this patch) stays QUARANTINED
+> and unused. Stage 4 is authorized to proceed from THIS record.
+
+**✅ VERDICT: ACCEPTED — STAGE 3 COMPLETE AFTER FINAL AVAILABILITY-
+TIER, DUPLICATION, PROMOTION, AND ARCHITECTURE PATCH; STAGE 4
+AUTHORIZED; no further Stage-3 patch required.** The availability
+tiers are now justified by the *same relevant operation* rather than
+vague analytical competence; the duplicate expected-harm, criterion-
+function, and victory-meaning omissions are properly consolidated.
+Final ledger confirmed: **A3: 6 · A2: 3 · A1: 8 · A0: 5 evidence
+packages · 3 cautious profile candidates · 4 packet-local moves below
+threshold (2 auxiliary) · 2 co-constructed artifacts · 1 Grant
+packet-local G-QUOTED move · 0 stable Grant operators/motives · 6
+Nova protocols/roles · 5 relationship loops**.
+
+**⚖️ THE CENTRAL CONCESSIONS ARE NOW SYMMETRICAL:** a comparative
+expected-suffering procedure may internally reject the exterminatory
+pursuit (transition harms, uncertainty, low success probability,
+resistance, superior alternatives) — but rejecting the pursuit does
+NOT determine whether an empty terminal world outranks inhabited
+life. Grant's quoted higher-reason challenge receives its strongest
+reading in turn: the game may expose a terminal commitment rather than
+prohibit foundations — so reciprocal self-application ≠ automatic
+refutation; no-higher-reason ≠ immutable reason; terminal commitment ≠
+rationally indefeasible commitment.
+
+**⚖️ COUNTEREVIDENCE ARCHITECTURE ACCEPTED:** the death-cult case
+stays a stress test, never a demonstrated refutation; extinction is
+not derived from Grant's actual (under-typed) criterion; "regress
+trap," Grant self-exemption, ontology collapse, and defeat of Grant's
+complexity claim all fail to survive; fitted-attenuation
+reprioritization never establishes zero dependency; a capacitance
+sweep never becomes a physical-via model; cross-domain resemblance
+never establishes one identical operator.
+
+**🔧 ONE OPTIONAL ARCHIVAL WORDING REFINEMENT (no reissue required):**
+replace "extinction entailment does not survive" with **"the claim
+that Grant's reported criterion entails extinction is not
+established"** — the finding is source-specific (Grant's position is
+too under-typed to support the attribution), not a general claim that
+no sufficiently strong suffering-only theory could ever entail an
+empty-world preference.
+
+**🎯 The load-bearing result:** Ziggy's strongest surviving move is
+not that suffering minimization necessarily commands extinction. It
+is that terminal ranking, authorization to pursue, realistic decision
+procedure, and institutional implementation are separate moral
+targets. Grant's expected-harm reply may defeat one target without
+settling the others. Similarly, Grant's higher-reason challenge may
+reveal a foundation rather than an illicit regress, but its inference
+from terminality to immutability remains unsupported.
 
 ---
 
