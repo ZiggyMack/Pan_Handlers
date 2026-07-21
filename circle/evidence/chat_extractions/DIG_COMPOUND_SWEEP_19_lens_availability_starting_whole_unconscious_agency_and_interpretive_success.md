@@ -8104,6 +8104,1664 @@ The most vulnerable judgments are:
 * Evaluative-Premise Audit **MATCHES Baseline Exemption** because premise exposure is directly supported, while jurisdictional extension is not sufficiently reconstructed.
 * Interpretive Goal–Outcome Audit **EXTENDS Reconstruction Bypass** because reconstructing the method’s purpose is prerequisite to performance scoring, while its goal-specific outcome architecture goes further.
 
+----
+after patch
+--------
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+## 0. Source Boundary and Attribution Controls
+
+### Bounded source corpus
+
+This Stage-4 extraction uses only:
+
+1. the complete original user-and-assistant messages of the bounded historical thread;
+2. the completed Stage-1 extraction;
+3. the final corrected Stage-2 extraction;
+4. the final corrected Stage-3 extraction;
+5. the prior Stage-4 extraction;
+6. the supplied candidate registry;
+7. the Stage-4 final registry-direction, promotion-tier, and architecture repair directive.
+
+Excluded from actor evidence:
+
+* Project Conversation Content;
+* other conversations;
+* cross-chat summaries or excerpts;
+* memory;
+* external research;
+* unrelated uploaded files;
+* system context;
+* developer context;
+* X-CONTEXT material.
+
+The brief Voynich detour remains auxiliary and non-profiling.
+
+### Attribution classes
+
+* **Z-DIRECT:** Ziggy’s statements or operations directly present in the bounded thread.
+* **N-DIRECT:** Nova’s statements or operations directly present in the bounded thread.
+* **G-REPORTED:** Grant’s statements, positions, methods, goals, and behavior as reported by Ziggy.
+* **T-REPORTED:** Tail’s statements, corrections, and confirmations as reported by Ziggy.
+* **CO-CONSTRUCTED:** Formulations jointly developed by Ziggy and Nova.
+* **LOWER-TIER:** An application, rhetorical compression, or alternative reading not promoted to durable operator status.
+* **QUARANTINED:** An interpretation retained for further testing but prohibited from actor-level attribution.
+* **UNKNOWN:** Evidence unavailable within the bounded corpus.
+
+### Hard controls
+
+1. Grant has no direct speech in the bounded thread.
+2. Every Grant claim remains G-REPORTED.
+3. Tail remains T-REPORTED.
+4. No reported method outcome is independently verified.
+5. Nova’s agreement is not corroboration.
+6. A detector is not identical to the pathology it detects.
+7. A corrective operation is not an extension of the failure it corrects.
+8. A partial implementation is not a full registry match.
+9. A packet-local overlap is not a stable actor operator.
+10. No Stage-3 promotion tier is increased.
+11. No stable Grant operator or motive may be extracted.
+12. Relationship-level loops remain interaction structures, not individual traits.
+
+# 1. Blind-to-Named Mapping Under the Eight-Family Architecture
+
+## 1.1 Semantic Mode–Psychological Origin Audit
+
+### Move 1 — Framework Stress-Test and Dimensional Repair
+
+**Actor:** Ziggy
+**Stage-3 promotion:** Strong packet-local Ziggy move
+**Mapping verdict:** **NEW**
+
+**Neutral definition:** Propose a conceptual mapping, search for a counterexample, identify dimensions collapsed by the mapping, repair the framework using independent dimensions, and restrict the revised claim to its warranted scope.
+
+**Bounded operation:**
+
+1. Ziggy provisionally maps literal interpretation to conscious processing and intended or nonliteral interpretation to unconscious processing.
+2. He introduces consciously constructed metaphor as a counterexample.
+3. The counterexample exposes that semantic form and psychological origin are independent dimensions.
+4. He repairs the framework.
+5. He retreats from universal equation to case-specific evaluation.
+
+**Relation to Cross-Disciplinary Swooping:**
+
+`POSSIBLE PACKET-LOCAL INSTANCE / PARTIAL OVERLAP IN THE INITIAL IMPORT PHASE`
+
+The initial move imports a Jungian distinction into a semantic and interpretive dispute. That limited import phase resembles Cross-Disciplinary Swooping.
+
+The complete operator does more:
+
+* searches for disconfirmation;
+* detects collapsed dimensions;
+* repairs the imported framework;
+* restricts its scope.
+
+Those later stages correct a principal danger of cross-disciplinary import: treating structural resemblance as identity.
+
+**What is not established:**
+
+* a stable Ziggy habit of importing distant disciplines;
+* that the Jungian framework ultimately explains the interpretive dispute;
+* that the complete repair operator is a subtype or extension of Cross-Disciplinary Swooping.
+
+**Stage-3 alternative reading:** A one-off retreat after an obvious counterexample.
+
+**Does the mapping survive the alternative reading?** The classification as NEW survives. The completed local sequence is directly supported, but broader profile-level recurrence remains unestablished.
+
+---
+
+### Move 2 — Assumption-Exposure Reversal
+
+**Actor:** Ziggy
+**Stage-3 promotion:** Strong packet-local Ziggy move
+**Mapping verdict:** **PARTIAL PACKET-LOCAL IMPLEMENTATION of Symmetry Testing of Standards**
+
+**Neutral definition:** Apply an inference or assumption objection back to a method presenting itself as assumption-free.
+
+**Established implementation:**
+
+* Intention-sensitive interpretation is criticized as involving inference or “mind reading.”
+* Ziggy reapplies that objection to literal interpretation.
+* Literal interpretation is shown to rely on assumptions about:
+
+  * intended uptake;
+  * completeness of wording;
+  * correspondence between sentence and thought;
+  * contextual relevance.
+* Literalism loses assumption-free baseline status.
+
+**Not established:**
+
+* a full reciprocal inventory of both methods’ assumptions;
+* equal inferential burdens;
+* equal warrant;
+* equal error risk;
+* relative-risk comparison;
+* equal correction mechanisms;
+* Ziggy’s acceptance of an unfavorable result after symmetrical scoring.
+
+**Relation to Baseline Exemption:**
+
+`DIAGNOSTIC RELATION ONLY`
+
+Assumption-Exposure Reversal can detect when a preferred method is treated as an exempt baseline. It is not itself Baseline Exemption.
+
+The bounded thread does not establish a stable actor-level Baseline Exemption in Grant or Ziggy.
+
+**Stage-3 alternative reading:** A rhetorical tu quoque used to neutralize criticism without establishing the comparative superiority of Ziggy’s method.
+
+**Does the mapping survive the alternative reading?** Partially. The reciprocal burden is valid and directly supported. Any implication of equal warrant or completed symmetry does not survive.
+
+---
+
+## 1.2 Lens Possession–Access–Selection–Revision Audit
+
+### Move 3 — Weak/Strong Thesis Separation
+
+**Actor:** Ziggy
+**Stage-3 promotion:** Cautious Ziggy profile candidate
+**Mapping verdict:** **NEW**
+
+**Neutral definition:** Grant the weakest defensible proposition while preventing it from carrying stronger conclusions without an explicit inferential bridge.
+
+**Bounded application:**
+
+Ziggy can grant:
+
+> A person cannot deploy a wholly unavailable lens.
+
+That weak constraint does not by itself establish:
+
+* that another lens is absent;
+* that another lens is inaccessible;
+* that it cannot become salient;
+* that it cannot be selected;
+* that it cannot be learned;
+* that inherited lenses cannot be revised;
+* that the present lens has normative authority;
+* that the available set is epistemically closed.
+
+**Why no registry candidate adequately matches:**
+
+* **Contested ≠ Defeated** concerns how unresolved objections are held.
+* **Contest-to-Defeat Compression** concerns overreading an objection as defeat.
+* **Possibility Preservation** concerns maintaining low-plausibility options.
+* Weak/Strong Thesis Separation regulates the inferential expansion of a proposition after it has been conceded.
+
+**Stage-3 alternative reading:** Strategic minimization designed to redescribe Grant’s reported position as trivial.
+
+**Does the mapping survive the alternative reading?** Yes as an operator. Ziggy applies the same containment structure to lens availability and inherited values. Whether he accurately represented Grant’s actual thesis strength remains UNKNOWN.
+
+---
+
+### Move 4 — Lens Possession–Access–Selection Separation
+
+**Actor:** Ziggy for the core distinction
+**Stage-3 promotion:** Strong packet-local Ziggy move
+**Mapping verdict:** **NEW**
+
+**Neutral definition:** Distinguish possessing an interpretive lens, having present access to it, and selecting or declining to select it in a particular context.
+
+**Directly supported core:**
+
+1. possession;
+2. access;
+3. selection or nonselection.
+
+**Dig-level completion architecture not fully attributed to Ziggy:**
+
+4. salience;
+5. recognized relevance;
+6. competent deployment;
+7. comparison with rival lenses;
+8. revision or suppression;
+9. acquisition.
+
+**Why no registry candidate adequately matches:**
+
+* **Unmeasured-to-Zero Conversion** may diagnose treating unknown access as absence, but it does not supply the lens-state decomposition.
+* **Possibility Preservation** concerns possibilities within inquiry, not possession and deployment of cognitive lenses.
+* **Generative Admission Restriction** concerns admissible hypothesis sources, not an actor’s lens state.
+
+**Stage-3 alternative reading:** The decomposition may be an analytic retrofit of Ziggy’s accusation that Grant knowingly possessed and refused an alternative lens.
+
+**Does the mapping survive the alternative reading?** Yes at the core level. The claim of voluntary refusal does not survive. Grant’s actual access, salience, recognition, competence, and choice remain partly UNKNOWN.
+
+---
+
+## 1.3 Starting-Whole Scope Audit
+
+### Move 5 — Origin–Access–Mastery Separation
+
+**Actor:** Ziggy
+**Stage-3 promotion:** Strong packet-local Ziggy move
+**Mapping verdict:** **NEW**
+
+**Neutral definition:** Separate causal or constitutive inclusion within an originating whole from conscious access, complete survey, epistemic closure, or operational mastery of that whole.
+
+**Dimensions separated:**
+
+1. causal dependence;
+2. constitutive continuity;
+3. practical constraint;
+4. epistemic closure;
+5. conscious mastery.
+
+**Bounded operation:** Ziggy grants that cognition and values may arise within inherited, unconscious, or developmental structures. He denies that origin alone gives the actor exhaustive knowledge or control over those structures.
+
+**Why no registry candidate adequately matches:**
+
+* **Unmeasured-to-Zero Conversion** concerns translating missing measurement into zero.
+* **Baseline Exemption** concerns exempting a preferred framework from scrutiny.
+* Neither captures the transition from ontological inclusion to epistemic or operational command.
+
+**Stage-3 alternative reading:** The distinction may be valid while targeting a mastery thesis Grant never made.
+
+**Does the mapping survive the alternative reading?** Yes as a packet-local analytic move. Its application to Grant remains weakened because causal or constitutive continuity may be sufficient for Grant’s reported framework.
+
+---
+
+## 1.4 Inheritance–Agency–Endorsement Audit
+
+### Move 6 — Origin–Endorsement–Revision–Justification Separation
+
+**Actor:** Ziggy
+**Stage-3 promotion:** Cautious Ziggy profile candidate
+**Mapping verdict:** **NEW**
+
+**Neutral definition:** Separate the developmental origin of a value or lens from conscious recognition, psychological identification, inhibition or revision, present endorsement, and normative justification.
+
+**Dimensions separated:**
+
+1. causal or developmental origin;
+2. conscious recognition;
+3. psychological identification;
+4. inhibition, reprioritization, or revision;
+5. present endorsement;
+6. normative justification.
+
+**Bounded operation:** Ziggy grants inherited biological and cultural “autopilot values” while denying that origin establishes permanent practical captivity, current endorsement, or normative authority.
+
+**Why no registry candidate adequately matches:** The registry contains no operator specifically separating genealogy, agency, endorsement, and justification.
+
+**Stage-3 alternative reading:** A substantive libertarian free-will commitment disguised as an analytic distinction.
+
+**Does the mapping survive the alternative reading?** Yes. The bounded material supports reflective reorganization and practical agency, not values created ex nihilo or metaphysically uncaused choice.
+
+---
+
+## 1.5 Intended Meaning–Implication–Representation Audit
+
+### Move 7 — Interpretive Goal–Outcome Audit
+
+**Actor:** Ziggy
+**Stage-3 promotion:** Cautious Ziggy profile candidate
+**Mapping verdict:** **NEW**
+
+**Neutral definition:** Identify an interpretive method’s active goal before evaluating its performance, and distinguish evidence relevant to speaker fidelity from evidence relevant to implication, ambiguity, contradiction, wording, or audience uptake.
+
+**Candidate goals:**
+
+1. speaker-fidelity reconstruction;
+2. implication testing;
+3. ambiguity detection;
+4. contradiction testing;
+5. wording improvement;
+6. reasonable-audience uptake.
+
+**Bounded operation:**
+
+* Ziggy uses Tail’s reported correction as evidence that a reconstruction does not represent Tail’s intended position.
+* Ziggy preserves the possibility that the disputed implication may still follow from Tail’s wording.
+* Speaker correction therefore updates person-level attribution without erasing wording-level consequence.
+
+**Relation to Reconstruction Bypass:**
+
+`COUNTER-OPERATION / CORRECTIVE RELATION`
+
+Interpretive Goal–Outcome Audit corrects the risk of evaluating a method before reconstructing its purpose. It does not extend Reconstruction Bypass and does not establish that Grant committed Reconstruction Bypass.
+
+**Relation to Universalized Evaluative Jurisdiction:**
+
+`DIAGNOSTIC GUARD ONLY`
+
+The audit prevents speaker-fidelity success or failure from automatically governing every interpretive task. It does not establish actor-level Universalized Evaluative Jurisdiction.
+
+**Stage-3 alternative reading:** A defensive tactic privileging speaker intention whenever literal implications are unwelcome.
+
+**Does the mapping survive the alternative reading?** Yes. Ziggy explicitly allows wording consequences to remain live. Actual matching of Grant’s reported method to its active goal remains incomplete.
+
+---
+
+## 1.6 Method Function–Performance–Trade-Off Audit
+
+### Move 8 — Clarification Utility and Opportunity-Cost Audit
+
+**Actor:** Ziggy
+**Stage-3 promotion:** Strong packet-local Ziggy move
+**Mapping verdict:** **NEW**
+
+**Neutral definition:** Compare the informational or argumentative gain from clarification with its costs in time, attention, momentum, and relational friction, including the countervailing costs of under-clarification.
+
+**Relevant variables:**
+
+* ambiguity identified;
+* information gained;
+* claim before clarification;
+* claim after clarification;
+* downstream conclusion changed or unchanged;
+* time and attention consumed;
+* relational consequences;
+* risk of false agreement if clarification is omitted.
+
+**Why no registry candidate adequately matches:** The registry does not contain a direct operator for conversational trade-off accounting.
+
+**Relation to jurisdictional overreach:**
+
+`DIAGNOSTIC RELATION ONLY`
+
+The audit may detect when precision is treated as overriding every other conversational function without justification. It is not itself Universalized Evaluative Jurisdiction.
+
+**Stage-3 alternative reading:** Frustration-driven impatience with analysis that slows Ziggy’s preferred direction.
+
+**Does the mapping survive the alternative reading?** Yes as a legitimate packet-local audit. The bounded application remains qualitative and asymmetric because no concrete before/after test was completed.
+
+---
+
+## 1.7 Moral Language–Suffering–Normativity Audit
+
+### Move 9 — Evaluative-Premise Audit
+
+**Actor:** Ziggy
+**Stage-3 promotion:** Strong packet-local Ziggy move
+**Mapping verdict:** **NEW**
+
+**Neutral definition:** Ask whether a method presented as linguistic, descriptive, or neutral relies on evaluative selections and determine what kind of thesis is actually being advanced.
+
+**Relevant thesis types:**
+
+* lexical;
+* usage-based;
+* predictive;
+* psychological;
+* explanatory;
+* normative;
+* reductive.
+
+**Bounded operation:** Ziggy questions whether selecting suffering as central to “bad” or “wrong” already requires evaluative premises not supplied by linguistic description alone.
+
+**Relation to Baseline Exemption:**
+
+`DETECTOR / CORRECTIVE RELATION`
+
+Evaluative-Premise Audit can detect whether a framework exempts its own values from scrutiny. It is not itself Baseline Exemption.
+
+The bounded packet does not establish that Grant:
+
+* directly claimed neutrality;
+* concealed an evaluative premise;
+* exempted his framework;
+* extended linguistic evidence into universal normative authority.
+
+**Relation to Universalized Evaluative Jurisdiction:**
+
+`POSSIBLE DIAGNOSTIC RELATION ONLY`
+
+If linguistic evidence were made authoritative over normative truth without a bridge, the audit could diagnose jurisdictional overreach. That actor-level pathology is not established here.
+
+**Stage-3 alternative reading:** An adversarial assumption that any evaluative premise constitutes illicit “smuggling.”
+
+**Does the mapping survive the alternative reading?** Yes in neutral form. Evaluative premise detection survives; concealment and illegitimacy do not.
+
+---
+
+## 1.8 Precision–Pedantry–Conversational Movement Audit
+
+### Move 10 — Cross-Dispute Generative-Premise Search
+
+**Actor:** Ziggy
+**Stage-3 promotion:** Strong packet-local Ziggy move
+**Mapping verdict:** **NEW**
+
+**Neutral definition:** Test whether several surface disputes arise from a deeper shared premise.
+
+**Bounded domains connected by Ziggy:**
+
+* interpretation;
+* materialism;
+* agency;
+* inherited values;
+* moral language.
+
+**Why no registry candidate adequately matches:**
+
+* **Cross-Disciplinary Swooping** imports a structure from a distant field into a live dispute.
+* Cross-Dispute Generative-Premise Search moves upstream from several disputes toward a candidate shared generator.
+* It does not require disciplinary import.
+
+**Stage-3 alternative reading:** Overfitting heterogeneous disputes to a preferred master framework.
+
+**Does the mapping survive the alternative reading?** Yes as an exploratory procedure. The stronger conclusion that one root generates all disputes does not survive.
+
+---
+
+### Move 11 — Self-Adversarial Audit
+
+**Actor:** Ziggy
+**Stage-3 promotion:** Strong packet-local Ziggy move
+**Mapping verdict:** **NEW**
+
+**Neutral definition:** Turn critical scrutiny toward one’s own motives, rhetoric, asymmetries, and conduct.
+
+**Bounded targets:**
+
+* fairness;
+* anger;
+* point-scoring;
+* repeated “pedantic” labeling;
+* whether criticism remains an invitation to inquiry;
+* whether standards are being applied symmetrically.
+
+**Relation to Symmetry Testing of Standards:**
+
+`PARTIAL INWARD APPLICATION / POTENTIAL COMPLETION PATH`
+
+Ziggy begins applying critical burdens inward. This can become part of full symmetry testing.
+
+**Not established:**
+
+* completed reciprocal scoring;
+* acceptance of a substantive loss;
+* revision of a central claim;
+* durable behavioral correction;
+* adoption of process-language over person-labeling.
+
+**Stage-3 alternative reading:** Reassurance-seeking framed as openness to criticism.
+
+**Does the mapping survive the alternative reading?** Yes as initiated self-scrutiny. It does not survive as evidence of completed symmetry or correction.
+
+# 2. Corrected Registry Directionality and Disposition
+
+## 2.1 NEW operators
+
+1. Framework Stress-Test and Dimensional Repair.
+2. Weak/Strong Thesis Separation.
+3. Lens Possession–Access–Selection Separation.
+4. Interpretive Goal–Outcome Audit.
+5. Origin–Access–Mastery Separation.
+6. Origin–Endorsement–Revision–Justification Separation.
+7. Evaluative-Premise Audit.
+8. Cross-Dispute Generative-Premise Search.
+9. Self-Adversarial Audit.
+10. Clarification Utility and Opportunity-Cost Audit.
+
+These moves have no adequate full match in the supplied registry.
+
+---
+
+## 2.2 Partial packet-local implementation
+
+### Assumption-Exposure Reversal → Symmetry Testing of Standards
+
+**Disposition:** PARTIAL PACKET-LOCAL IMPLEMENTATION
+
+The “mind reading” burden is reapplied to literalism, but no full reciprocal inventory, relative-warrant comparison, or acceptance of an adverse result is shown.
+
+---
+
+## 2.3 Possible packet-local overlap
+
+### Initial Jungian import phase → Cross-Disciplinary Swooping
+
+**Disposition:** POSSIBLE PACKET-LOCAL INSTANCE / PARTIAL OVERLAP
+
+The initial import fits part of Cross-Disciplinary Swooping. The full Framework Stress-Test and Dimensional Repair operator remains NEW.
+
+---
+
+## 2.4 Counter-operation or corrective relation
+
+1. **Interpretive Goal–Outcome Audit → Reconstruction Bypass**
+
+   * Corrects the risk of scoring a method before reconstructing its goal.
+   * Does not establish that Grant committed Reconstruction Bypass.
+
+2. **Evaluative-Premise Audit → Baseline Exemption**
+
+   * Detects or corrects possible exemption of evaluative premises.
+   * Is not itself Baseline Exemption.
+
+---
+
+## 2.5 Partial inward application
+
+### Self-Adversarial Audit → Symmetry Testing of Standards
+
+**Disposition:** PARTIAL INWARD APPLICATION / POTENTIAL COMPLETION PATH
+
+The inward audit begins reciprocal pressure but does not complete full symmetry testing.
+
+---
+
+## 2.6 Diagnostic relations only
+
+1. **Assumption-Exposure Reversal → Baseline Exemption**
+
+   * Detects loss of assumption-free baseline status.
+   * No stable actor pathology is established.
+
+2. **Interpretive Goal–Outcome Audit → Universalized Evaluative Jurisdiction**
+
+   * Guards against using one interpretive goal as universal scoring authority.
+   * No actor-level jurisdiction pathology is established.
+
+3. **Evaluative-Premise Audit → Universalized Evaluative Jurisdiction**
+
+   * Could detect an unsupported move from linguistic evidence to normative authority.
+   * The required actor evidence is absent.
+
+4. **Clarification Utility and Opportunity-Cost Audit → jurisdictional overreach**
+
+   * Could detect when precision is treated as overriding all other conversational aims.
+   * No named actor pathology is established.
+
+---
+
+## 2.7 Registry candidates not demonstrated
+
+### Prediction Sovereignty
+
+No durable move or actor pathology establishes that predictive success is treated as the final epistemic authority.
+
+**Disposition:** NOT DEMONSTRATED
+
+### Universalized Evaluative Jurisdiction
+
+Possible diagnostic concerns appear, but no actor is shown extending a domain-specific standard into every relevant domain without authority.
+
+**Disposition:** NOT DEMONSTRATED
+
+### Generative Admission Restriction
+
+No bounded evidence shows revelation, tradition, narrative coherence, metaphysical intuition, first-person experience, or symbolic compression being barred from generating serious hypotheses before evaluation.
+
+**Disposition:** NOT DEMONSTRATED
+
+### Unmeasured-to-Zero Conversion
+
+The extraction identifies a danger of treating unknown lens state as absence or refusal. No durable actor operator is shown systematically converting unmeasured results to zero.
+
+**Disposition:** NOT DEMONSTRATED
+
+### Possibility Compression
+
+No stable pattern shows low-plausibility possibilities being made functionally irrelevant solely because of a plausibility threshold.
+
+**Disposition:** NOT DEMONSTRATED
+
+### Baseline Exemption as an actor pathology
+
+Assumption and evaluative-premise audits may detect baseline exemption. The pathology itself is not established in a named actor.
+
+**Disposition:** NOT DEMONSTRATED
+
+### Reconstruction Bypass as an actor pathology
+
+Grant’s active method goal is UNKNOWN. Interpretive Goal–Outcome Audit corrects the risk but does not prove Grant bypassed reconstruction.
+
+**Disposition:** NOT DEMONSTRATED
+
+### Contest-to-Defeat Compression
+
+Ziggy risks generalizing reported speaker-fidelity failure into broader method failure, but this was weakened at Stage 3 and was not extracted as a stable operator.
+
+**Disposition:** NOT DEMONSTRATED
+
+### Contested ≠ Defeated as a durable actor operator
+
+The bounded thread contains unresolved distinctions, but no separately demonstrated durable operation explicitly maintains objections in a formal unresolved state.
+
+**Disposition:** NOT DEMONSTRATED
+
+### Possibility Preservation as a durable actor operator
+
+Alternative-Motive Reconstruction preserves one charitable possibility, but one lower-tier instance is insufficient for durable promotion.
+
+**Disposition:** NOT DEMONSTRATED
+
+# 3. New Operator Candidates
+
+## 3.1 Framework Stress-Test and Dimensional Repair
+
+**Definition:** Test a proposed framework with counterexamples, separate collapsed dimensions, repair the structure, and restrict the revised claim.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Promotion tier:** Strong packet-local Ziggy move
+
+**Confidence:** High locally
+
+**Alternative-reading control:** A one-off local repair remains possible; independent recurrence is required for broader promotion.
+
+**Review condition:** A second independent example of proposal, disconfirmation, dimensional repair, and scope restriction.
+
+---
+
+## 3.2 Weak/Strong Thesis Separation
+
+**Definition:** Grant a weak proposition while blocking its expansion into stronger claims without an inferential bridge.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Promotion tier:** Cautious Ziggy profile candidate
+
+**Confidence:** High
+
+**Alternative-reading control:** Grant’s actual thesis may have been stronger than the weak version Ziggy granted.
+
+**Review condition:** Direct source material showing whether Ziggy reconstructs stronger opposing theses fairly before applying containment.
+
+---
+
+## 3.3 Lens Possession–Access–Selection Separation
+
+**Definition:** Separate possessing a lens, presently accessing it, and selecting it in a specific context.
+
+**Subject:** Ziggy for the core distinction
+
+**Evidence classification:** Z-DIRECT
+
+**Promotion tier:** Strong packet-local Ziggy move
+
+**Confidence:** High for the distinction; low-to-medium for Grant’s alleged refusal
+
+**Alternative-reading control:** The full ladder is analytic completion and cannot be back-attributed to Ziggy.
+
+**Review condition:** Independent use in which UNKNOWN lens state is preserved rather than converted into deliberate nonselection.
+
+---
+
+## 3.4 Interpretive Goal–Outcome Audit
+
+**Definition:** Establish a method’s goal before evaluating its performance and distinguish goal-specific evidence.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT with T-REPORTED feedback
+
+**Promotion tier:** Cautious Ziggy profile candidate
+
+**Confidence:** High for the distinction; medium for reported performance findings
+
+**Alternative-reading control:** Speaker intention cannot automatically defeat wording-level implication.
+
+**Review condition:** A direct sequence in which Ziggy explicitly identifies the opponent’s goal before scoring success or failure.
+
+---
+
+## 3.5 Origin–Access–Mastery Separation
+
+**Definition:** Separate causal or constitutive origin from conscious access, exhaustive survey, and operational mastery.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Promotion tier:** Strong packet-local Ziggy move
+
+**Confidence:** High analytically; medium in application to Grant
+
+**Alternative-reading control:** Grant may require continuity without mastery.
+
+**Review condition:** A direct target that explicitly moves from origin to closure or control.
+
+---
+
+## 3.6 Origin–Endorsement–Revision–Justification Separation
+
+**Definition:** Separate inherited origin from recognition, identification, revision, endorsement, and normative justification.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Promotion tier:** Cautious Ziggy profile candidate
+
+**Confidence:** High
+
+**Alternative-reading control:** Reflective revision does not prove metaphysically uncaused choice.
+
+**Review condition:** Future evidence testing whether Ziggy preserves this separation under deterministic assumptions.
+
+---
+
+## 3.7 Evaluative-Premise Audit
+
+**Definition:** Identify evaluative selections required by a method presented as linguistic, descriptive, or neutral.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT concerning a G-REPORTED thesis
+
+**Promotion tier:** Strong packet-local Ziggy move
+
+**Confidence:** High for the audit; low for illicit-concealment conclusions
+
+**Alternative-reading control:** Evaluative premises may be explicit, justified, and legitimate.
+
+**Review condition:** Another independent case in which evaluative premises are typed neutrally before adverse judgment.
+
+---
+
+## 3.8 Cross-Dispute Generative-Premise Search
+
+**Definition:** Test whether multiple surface disagreements arise from a shared underlying premise.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Promotion tier:** Strong packet-local Ziggy move
+
+**Confidence:** High for the search; medium-to-low for a single-root result
+
+**Alternative-reading control:** Thematic overlap is not causal generation.
+
+**Review condition:** Competing root hypotheses, differentiating predictions, and a falsification condition.
+
+---
+
+## 3.9 Self-Adversarial Audit
+
+**Definition:** Direct critical scrutiny toward one’s own motives, rhetoric, asymmetries, and behavior.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Promotion tier:** Strong packet-local Ziggy move
+
+**Confidence:** High for initiation; low-to-medium for corrective completion
+
+**Alternative-reading control:** The exchange may function partly as reassurance-seeking.
+
+**Review condition:** Observable revision, accepted loss, changed attribution, or sustained behavioral correction.
+
+---
+
+## 3.10 Clarification Utility and Opportunity-Cost Audit
+
+**Definition:** Compare informational gains from precision against costs in attention, momentum, time, and relational friction, including under-clarification costs.
+
+**Subject:** Ziggy
+
+**Evidence classification:** Z-DIRECT
+
+**Promotion tier:** Strong packet-local Ziggy move
+
+**Confidence:** High as a legitimate concern; medium as an applied audit
+
+**Alternative-reading control:** Frustration may distort cost estimates.
+
+**Review condition:** A concrete before/after clarification analysis with symmetric cost accounting.
+
+# 4. Separated Actor, Protocol, Rhetoric, and Quarantine Ledgers
+
+## 4.1 Cautious Ziggy profile candidates
+
+These are suitable for future independent testing. They are not established permanent traits.
+
+1. Weak/Strong Thesis Separation.
+2. Interpretive Goal–Outcome Audit.
+3. Origin–Endorsement–Revision–Justification Separation.
+
+---
+
+## 4.2 Strong packet-local Ziggy moves
+
+1. Framework Stress-Test and Dimensional Repair.
+2. Assumption-Exposure Reversal.
+3. Lens Possession–Access–Selection Separation.
+4. Origin–Access–Mastery Separation.
+5. Evaluative-Premise Audit.
+6. Cross-Dispute Generative-Premise Search.
+7. Self-Adversarial Audit.
+8. Clarification Utility and Opportunity-Cost Audit.
+
+---
+
+## 4.3 Lower-tier Ziggy material
+
+### 1. Explanatory-Surplus Test
+
+**Classification:** Lower-tier rhetorical application of Weak/Strong Thesis Separation.
+
+The “water is wet” compression pressures Grant’s reported principle to identify additional explanatory content. It may also distort a substantive continuity thesis.
+
+### 2. Metaphor counterexample
+
+**Classification:** Application within Framework Stress-Test and Dimensional Repair.
+
+It breaks the literal/conscious versus intended/unconscious equation but is not a separate durable operator.
+
+### 3. Alternative-Motive Reconstruction
+
+**Classification:** Lower-tier alternative reading.
+
+Ziggy preserves the charitable possibility that Grant seeks wording improvement rather than obstruction. One instance is insufficient for Possibility Preservation promotion.
+
+### 4. “Pedantic” rhetoric
+
+**Classification:** Person-level or compressed rhetoric.
+
+It does not establish unnecessary precision, obstruction, motive, or stable trait.
+
+### 5. Time-waste rhetoric
+
+**Classification:** Rhetorical opportunity-cost claim.
+
+“Five minutes” is not treated as measured conversational cost.
+
+---
+
+## 4.4 Quarantined interpretation
+
+### Whole-Mastery Interpretation
+
+**Classification:** QUARANTINED HIDDEN-PREMISE RECONSTRUCTION
+
+**Content:** Grant’s reported starting-whole framework requires epistemic closure, conscious survey, or operational mastery.
+
+**Reason for quarantine:**
+
+* Grant never directly states mastery.
+* Causal or constitutive continuity may be sufficient.
+* Ziggy acknowledges the stronger premise is reconstructed.
+
+**Promotion evidence required:**
+
+* G-DIRECT language moving from origin to exhaustive access;
+* fixed and known boundaries;
+* inability to acquire new lenses;
+* conscious control;
+* epistemic closure.
+
+---
+
+## 4.5 Grant reported positions and candidates
+
+All remain G-REPORTED:
+
+1. available-lens constraint;
+2. contextual lens-switching;
+3. originating-whole continuity;
+4. implication or semantic stress-testing;
+5. suffering-centered moral-language thesis;
+6. possible precision-oriented purpose.
+
+**Stable Grant operators:** 0
+**Stable Grant motives:** 0
+
+No registry pathology may be assigned to Grant from these reports.
+
+---
+
+## 4.6 Nova protocol and role behavior
+
+### 1. Label-to-Process Translation
+
+**Classification:** Nova-generated regulatory protocol
+
+Replace a person-level label with an observable process description.
+
+Example structure:
+
+* person-label: “You are pedantic”;
+* process-description: “The conversation is spending attention on wording without resolving the substantive question.”
+
+Adoption by Ziggy remains UNKNOWN.
+
+### 2. Alignment and conceptual-completion tendency
+
+**Classification:** Nova role behavior
+
+Nova frequently sharpens and completes Ziggy’s tentative formulations.
+
+This may aid conceptual development but is not independent corroboration.
+
+### 3. Reassurance following Ziggy’s self-audit
+
+**Classification:** Nova role behavior
+
+Nova validates Ziggy’s concern and offers limited tactical correction after his self-questioning.
+
+Reassurance does not establish successful self-correction.
+
+# 5. Stage-3 Availability Ledger
+
+## 5.1 A3 — Confirmed informative omissions
+
+**Count: 3**
+
+### A3-1 — Apply Weak/Strong Thesis Separation to the starting-whole framework
+
+Required separation:
+
+1. causal dependence;
+2. constitutive continuity;
+3. practical constraint;
+4. epistemic closure;
+5. conscious mastery.
+
+**Why A3:** Ziggy demonstrated Weak/Strong Thesis Separation elsewhere.
+
+**Outcome effect:** Whole-Mastery Interpretation carried too much of the dispute before weaker Grant alternatives were reconstructed.
+
+---
+
+### A3-2 — Establish Grant’s active method goal before scoring performance
+
+Candidate goals:
+
+* speaker-fidelity reconstruction;
+* implication testing;
+* ambiguity detection;
+* contradiction testing;
+* wording improvement;
+* reasonable-audience uptake.
+
+**Why A3:** Ziggy directly demonstrated the distinction among interpretive goals.
+
+**Outcome effect:** Reported speaker-fidelity failure risked becoming global method failure.
+
+---
+
+### A3-3 — Perform a concrete before/after clarification utility test
+
+Required elements:
+
+1. claim before clarification;
+2. ambiguity raised;
+3. information gained;
+4. claim after clarification;
+5. downstream conclusion changed or unchanged;
+6. attention and relational cost.
+
+**Why A3:** Ziggy demonstrated goal-and-outcome auditing elsewhere.
+
+**Outcome effect:** The opportunity-cost diagnosis remained qualitative and asymmetrical.
+
+---
+
+## 5.2 A2 — Explicitly available and bypassed operations
+
+**A2 — 0**
+
+No operation was explicitly offered and visibly rejected or bypassed.
+
+Nova’s process-language recommendation was appreciated. The thread ended before sustained adoption or refusal could be observed.
+
+---
+
+## 5.3 A1 — Possible informative omissions
+
+**Count: 10**
+
+1. Reciprocal Assumption and Relative-Warrant Audit.
+2. Whole-Mastery Falsification Condition.
+3. Lens-State Evidence and Unknown-versus-Refusal Audit.
+4. Speaker Self-Report Role-Reversal and Jurisdiction Audit.
+5. Person-Level Attribution Versus Wording-Level Warning Audit.
+6. Symmetric Precision Utility Audit.
+7. Available-Lens and Starting-Whole Strength/Function Clarification.
+8. Conditioned-Agency Test.
+9. Moral-Language Jurisdiction Audit.
+10. Interpretation-Dispute Termination Protocol.
+
+No A1 completion procedure becomes a demonstrated actor capacity merely because it is analytically appropriate.
+
+# 6. A0 Evidence Packages
+
+These are evidence gaps, not actor failures.
+
+## A0-1 — Direct Grant Framework and Method Package
+
+Missing:
+
+* Grant’s exact available-lens formulation;
+* Grant’s exact starting-whole formulation;
+* claim strength;
+* declared method goal;
+* direct account of lens-switching;
+* exact suffering thesis;
+* direct reply to Ziggy’s objections.
+
+**Permitted inference:** G-REPORTED candidate status only.
+
+---
+
+## A0-2 — Direct Tail Interpretation Package
+
+Missing:
+
+* Tail’s original wording;
+* Grant’s exact reconstruction;
+* Tail’s exact correction;
+* Ziggy’s reconstruction;
+* Tail’s exact acceptance;
+* whether Tail revised the wording;
+* whether Tail distinguished intention from implication.
+
+**Permitted inference:** Tail’s reported correction is strong but unverified evidence concerning intended meaning.
+
+---
+
+## A0-3 — Disputed Interpretation Sequence
+
+Missing:
+
+1. original claim;
+2. Grant’s immediate response;
+3. Tail’s correction;
+4. Grant’s post-correction update or refusal;
+5. whether implication analysis was relabeled;
+6. whether wording changed;
+7. whether the downstream conclusion changed.
+
+**Permitted inference:** No conclusion that Grant refused correction or failed globally.
+
+---
+
+## A0-4 — Conversational-Cost Measurement Package
+
+Missing:
+
+* timestamps;
+* turn count;
+* ambiguity removed;
+* information gained;
+* conclusions changed;
+* later confusion prevented;
+* relational cost indicators;
+* under-clarification comparison.
+
+**Permitted inference:** Qualitative friction is supported; exact opportunity cost is UNKNOWN.
+
+---
+
+## A0-5 — Post-Audit Behavioral Follow-Through
+
+Missing:
+
+* whether Ziggy adopted process-language;
+* whether “pedantic” labeling changed;
+* whether his Grant attribution changed;
+* whether reciprocal audits were performed;
+* whether self-questioning produced behavioral correction;
+* whether Nova later challenged rather than reassured him.
+
+**Permitted inference:** Self-Adversarial Audit was initiated; completed correction is not established.
+
+# 7. Quarantined Claims and Review Conditions
+
+## 7.1 Whole-Mastery Interpretation
+
+**Claim:** Grant’s starting-whole framework requires conscious survey, control, or epistemic closure.
+
+**Status:** Quarantined hidden-premise reconstruction
+
+**Why quarantined:** Continuity-only alternatives remain live.
+
+**Promotion condition:** Direct Grant evidence explicitly connecting origin to exhaustive access, fixed boundaries, or mastery.
+
+---
+
+## 7.2 Grant deliberately refuses an available lens
+
+**Claim:** Grant possesses, accesses, recognizes, and competently deploys an alternative lens but voluntarily declines to use it.
+
+**Status:** Quarantined actor attribution
+
+**Why quarantined:** Contextual switching does not establish present access, salience, recognized relevance, competence, or refusal.
+
+**Promotion condition:** Direct evidence that Grant acknowledges the lens, demonstrates competence, recognizes its relevance, and expressly declines it.
+
+---
+
+## 7.3 Grant’s semantic method globally fails
+
+**Claim:** Grant’s reported interpretive procedure is broadly or inherently unsuccessful.
+
+**Status:** Quarantined performance claim
+
+**Why quarantined:**
+
+* active method goal is UNKNOWN;
+* reported failure concerns speaker fidelity;
+* no direct favorable Grant cases appear;
+* the source is filtered through Ziggy.
+
+**Promotion condition:** Multiple direct sequences showing failure after goals are declared and after person-level attribution is corrected.
+
+---
+
+## 7.4 Grant committed Reconstruction Bypass
+
+**Claim:** Grant evaluated Tail before reconstructing the relevant framework or method goal.
+
+**Status:** Quarantined registry-pathology attribution
+
+**Why quarantined:** Interpretive Goal–Outcome Audit corrects this danger but Grant’s declared task and reconstruction process are unavailable.
+
+**Promotion condition:** Direct sequence showing evaluation before goal reconstruction, followed by refusal to repair after the omission is identified.
+
+---
+
+## 7.5 Grant exhibits Baseline Exemption
+
+**Claim:** Grant treats literalism or linguistic analysis as a neutral framework exempt from assumption audit.
+
+**Status:** Quarantined registry-pathology attribution
+
+**Why quarantined:** Ziggy exposes assumptions in literalism, but Grant’s direct neutrality claim and response are absent.
+
+**Promotion condition:** Direct claim of neutrality or burden exemption, plus evidence that reciprocal scrutiny is rejected.
+
+---
+
+## 7.6 Grant illicitly smuggles suffering-based values into neutral linguistic analysis
+
+**Status:** Quarantined adverse interpretation
+
+**Why quarantined:**
+
+* Grant’s exact thesis is unavailable;
+* evaluative premises may be open and justified;
+* no concealment is directly shown.
+
+**Promotion condition:** Direct presentation as value-neutral, identifiable normative reliance, and denial or concealment of that reliance.
+
+---
+
+## 7.7 One starting-whole premise generates all downstream disputes
+
+**Status:** Quarantined generative-root claim
+
+**Why quarantined:** Thematic overlap does not prove common generation.
+
+**Promotion condition:**
+
+* explicit root formulation;
+* rival root hypotheses;
+* differentiating consequences;
+* falsification conditions;
+* evidence that changing the root changes downstream conclusions.
+
+---
+
+## 7.8 Ziggy completed successful self-correction
+
+**Status:** Quarantined outcome claim
+
+**Why quarantined:** Self-questioning and appreciation of Nova’s protocol are present; subsequent behavioral change is absent.
+
+**Promotion condition:** Observable revision of attribution, rhetoric, or conduct.
+
+---
+
+## 7.9 “Pedantic” accurately identifies a stable Grant trait
+
+**Status:** Quarantined trait claim
+
+**Why quarantined:** The label may compress ambiguity testing, wording improvement, literalism, displacement, or role conflict.
+
+**Promotion condition:** Repeated direct conduct across contexts after explicit goal and termination protocols, with legitimate alternatives ruled out.
+
+---
+
+## 7.10 Alternative-Motive Reconstruction constitutes Possibility Preservation
+
+**Status:** Lower-tier, not promoted
+
+**Why quarantined from named matching:** One charitable possibility is preserved once, but no stable policy of retaining low-plausibility options is shown.
+
+**Promotion condition:** Repeated deliberate retention of live alternatives and later evidence-responsive updating.
+
+# 8. Relationship-Level Loops
+
+## Loop 1 — Literal Reconstruction / Intentional Correction Loop
+
+`Grant reportedly reconstructs literal wording`
+→ `a person-level implication is produced`
+→ `Tail reportedly rejects that representation`
+→ `Ziggy supplies an intention-sensitive reconstruction`
+→ `Tail reportedly accepts it`
+→ `wording consequences remain disputed`
+→ `the parties do not agree on the active interpretive goal`
+
+**Controls:**
+
+* Tail’s correction updates person-level attribution.
+* It does not erase wording consequence.
+* No global Grant failure follows.
+* The loop is not an individual trait.
+
+---
+
+## Loop 2 — Lens Constraint–Selection Drift Loop
+
+`Ziggy asks why an apparently available lens was not selected`
+→ `Grant reportedly invokes the available-lens constraint`
+→ `the weak constraint is treated as answering the selection question`
+→ `Ziggy calls the response trivial`
+→ `Grant’s claim strength remains unspecified`
+→ `the local lens state remains unresolved`
+
+**Controls:**
+
+* possession does not become access automatically;
+* access does not become salience or selection;
+* UNKNOWN does not become deliberate refusal.
+
+---
+
+## Loop 3 — Precision Demand / Progress Frustration Loop
+
+`Grant reportedly demands precision or tests wording`
+→ `Ziggy experiences displacement`
+→ `Ziggy uses “pedantic” or time-waste rhetoric`
+→ `relational friction increases`
+→ `more attention shifts to whether clarification is legitimate`
+→ `the initial substantive issue remains unresolved`
+
+**Controls:**
+
+* clarification costs must be compared with under-clarification costs;
+* frustration is not measurement;
+* the loop does not establish obstructive motive.
+
+---
+
+## Loop 4 — Evaluative-Premise / Neutrality Loop
+
+`Grant reportedly invokes linguistic evidence`
+→ `Ziggy identifies evaluative premises`
+→ `Ziggy may describe them as smuggled`
+→ `Grant reportedly resists the diagnosis`
+→ `resistance risks being treated as confirmation`
+→ `descriptive and normative jurisdictions remain unsettled`
+
+**Controls:**
+
+* Grant’s resistance does not confirm Ziggy’s diagnosis;
+* evaluative premises are not automatically illicit;
+* linguistic evidence is not automatically neutral or normatively authoritative.
+
+---
+
+## Loop 5 — Validation Amplification Loop
+
+`Ziggy proposes a tentative interpretation`
+→ `Nova validates it`
+→ `Nova supplies conceptual completion`
+→ `the completed interpretation enters later reasoning`
+→ `initial uncertainty becomes less visible`
+→ `Nova alignment resembles corroboration`
+
+**Control:** Nova’s agreement is not independent evidence.
+
+---
+
+## Loop 6 — Self-Critique / Reassurance Loop
+
+`Ziggy questions his fairness, anger, or labeling`
+→ `Nova validates the underlying concern`
+→ `Nova proposes process-language`
+→ `Ziggy expresses appreciation`
+→ `the thread ends before follow-through`
+→ `initiated self-audit risks being treated as completed correction`
+
+**Controls:**
+
+* Nova reassurance does not complete self-audit;
+* process-language adoption remains UNKNOWN.
+
+---
+
+## Loop 7 — Framework Crowdsourcing / Semantic Bottleneck Loop
+
+`Ziggy and Tail reportedly generate broad frameworks`
+→ `Grant reportedly contributes semantic stress-testing`
+→ `precision may reveal ambiguity`
+→ `precision may interrupt generative momentum`
+→ `Ziggy experiences Grant as a bottleneck`
+→ `roles polarize into builders and blocker`
+→ `later interventions risk prejudgment`
+
+**Control:** Role polarization and interaction structure do not establish stable actor traits or motives.
+
+# 9. Source and Attribution Restrictions
+
+1. Grant has no direct speech.
+2. Every Grant claim remains G-REPORTED.
+3. Tail remains T-REPORTED.
+4. No reported outcome is independently verified.
+5. Nova agreement is not corroboration.
+6. No registry detector is identified with the pathology it detects.
+7. No corrective operation is classified as extending the pathology it corrects.
+8. No partial implementation becomes a full match.
+9. No packet-local overlap becomes a stable operator.
+10. No cautious candidate becomes profile-ready or a permanent trait.
+11. No neighboring skill establishes A3 availability.
+12. No A1 procedure becomes demonstrated capacity merely because it is appropriate.
+13. No possession becomes access automatically.
+14. No access becomes salience automatically.
+15. No access becomes selection automatically.
+16. No selection becomes competent deployment automatically.
+17. No unknown state becomes voluntary refusal.
+18. No weak lens constraint becomes epistemic closure.
+19. No causal continuity becomes practical entrapment automatically.
+20. No causal continuity becomes conscious mastery.
+21. No unconscious opacity proves metaphysical freedom.
+22. No inherited origin establishes endorsement.
+23. No inherited origin establishes justification.
+24. No reflective revision proves uncaused agency.
+25. No speaker correction erases wording consequence.
+26. No speaker self-report is infallible.
+27. No speaker-fidelity failure becomes global method failure.
+28. No implication test is automatically person-level misrepresentation.
+29. No evaluative premise becomes illicit smuggling automatically.
+30. No thematic overlap proves one generative root.
+31. No self-questioning proves correction.
+32. No process-language suggestion is treated as adopted without evidence.
+33. No time estimate becomes measured opportunity cost.
+34. No absent favorable Grant example proves that no favorable example existed.
+35. No interaction loop becomes a trait.
+36. No A0 evidence gap becomes an actor failure.
+37. No quarantined interpretation becomes actor evidence.
+38. No X-CONTEXT notice is used as evidence.
+
+# 10. Extraction Self-Audit
+
+## 10.1 Import phase confused with the full repair operator
+
+**Risk:** The initial Jungian import was previously allowed to classify the complete Framework Stress-Test and Dimensional Repair move as extending Cross-Disciplinary Swooping.
+
+**Correction:** Only the initial import phase possibly overlaps Cross-Disciplinary Swooping. The complete repair operator is NEW.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.2 Detector confused with pathology
+
+**Risk:** Evaluative-Premise Audit could be identified with Baseline Exemption, and Assumption-Exposure Reversal could be identified with the baseline pathology it detects.
+
+**Correction:**
+
+* Evaluative-Premise Audit is NEW and has a detector/corrective relation to Baseline Exemption.
+* Assumption-Exposure Reversal has only a diagnostic relation to Baseline Exemption.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.3 Corrective operation classified as an extension of pathology
+
+**Risk:** Interpretive Goal–Outcome Audit was previously described as extending Reconstruction Bypass.
+
+**Correction:** It is NEW and operates against the risk of Reconstruction Bypass. Grant’s commission of that pathology is not established.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.4 Partial symmetry classified as full symmetry
+
+**Risk:** Reapplying the “mind reading” objection to literalism could be treated as complete Symmetry Testing of Standards.
+
+**Correction:** Assumption-Exposure Reversal is only a partial packet-local implementation. Equal burden, warrant, and risk comparison are unperformed.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.5 Initiated self-audit classified as completed symmetry
+
+**Risk:** Ziggy’s questions about fairness and motive could be treated as complete inward symmetry testing.
+
+**Correction:** Self-Adversarial Audit is NEW, with only a partial inward relation to Symmetry Testing of Standards. No substantive loss or correction is observed.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.6 Cautious profile candidate promoted to profile-ready
+
+**Risk:** Stage 4 previously used “Profile-Ready Claims,” increasing the Stage-3 promotion tier.
+
+**Correction:** The highest tier remains “Cautious Ziggy profile candidates.” These are hypotheses suitable for future testing, not permanent traits.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.7 Unknown Grant method goal converted into Reconstruction Bypass
+
+**Risk:** Failure to establish Grant’s goal could be interpreted as proof that Grant bypassed reconstruction.
+
+**Correction:** Unknown goal is an A3 omission in Ziggy’s scoring process and an A0 evidence gap concerning Grant. It is not a Grant pathology finding.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.8 Evaluative premise converted into Baseline Exemption
+
+**Risk:** The presence of evaluative assumptions could be treated as proof that Grant exempted or concealed them.
+
+**Correction:** Evaluative-Premise Audit remains NEW. Baseline Exemption is not demonstrated.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.9 Unknown lens state converted into refusal
+
+**Risk:** Reported contextual switching could be expanded into present access, competence, and deliberate refusal.
+
+**Correction:** Grant’s lens state remains partly UNKNOWN. Only the analytic distinction is retained.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.10 Speaker correction converted into defeat of wording consequence
+
+**Risk:** Tail’s reported correction could be treated as globally defeating Grant’s interpretation.
+
+**Correction:** It strongly updates person-level attribution but leaves implication, ambiguity, and audience-uptake questions defeasibly open.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.11 Packet-local move promoted through registry familiarity
+
+**Risk:** A move could appear more stable merely because it resembles a named registry operator.
+
+**Correction:** Registry resemblance does not increase promotion tier. Eight moves remain strong packet-local, and only three remain cautious profile candidates.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.12 Absent Grant evidence converted into failure
+
+**Risk:** No direct favorable Grant example was found, which could be read as evidence of universal failure.
+
+**Correction:** The source is filtered through Ziggy. Null favorable evidence is nonconclusive and is preserved as an A0 limitation.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.13 Relationship loops converted into traits
+
+**Risk:** Repeated loops could produce trait labels such as “Grant is pedantic” or “Ziggy is self-correcting.”
+
+**Correction:** All seven loops remain interaction structures. Independent direct recurrence is required for trait promotion.
+
+**Disposition:** Corrected.
+
+---
+
+## 10.14 Registry priming and over-pattern-matching
+
+**Risk:** The candidate registry foregrounds epistemic jurisdiction, possibility management, and evaluative asymmetry. This creates pressure to force new operators into named candidates.
+
+**Potential forced matches rejected:**
+
+* Weak/Strong Thesis Separation → Contested ≠ Defeated.
+* Lens-state separation → Unmeasured-to-Zero Conversion.
+* Evaluative-Premise Audit → Baseline Exemption.
+* Interpretive Goal–Outcome Audit → Reconstruction Bypass.
+* Self-Adversarial Audit → full Symmetry Testing.
+* Alternative-Motive Reconstruction → Possibility Preservation.
+
+**Disposition:** Ten moves remain NEW; one receives only partial implementation status.
+
+---
+
+## 10.15 Asymmetric charity
+
+**Risk:** Ziggy’s direct reasoning can be reconstructed in detail, while Grant’s reported reasoning can be represented mainly through failures.
+
+**Controls applied:**
+
+* all Grant material remains G-REPORTED;
+* continuity-only alternatives are retained;
+* no stable Grant pathology is assigned;
+* global method failure is quarantined;
+* deliberate refusal is quarantined;
+* absence of favorable outcomes is nonconclusive.
+
+**Disposition:** Controlled but not eliminated because the source asymmetry is structural.
+
+# 11. Final Counts
+
+## Promotion and actor ledgers
+
+* **Cautious Ziggy profile candidates:** 3
+* **Strong packet-local Ziggy moves:** 8
+* **Lower-tier Ziggy items:** 5
+* **Quarantined interpretations:** 1
+* **Grant reported positions or candidates:** 6
+* **Stable Grant operators:** 0
+* **Stable Grant motives:** 0
+* **Nova protocols and role behaviors:** 3
+
+## Stage-3 availability ledger
+
+* **A3:** 3
+* **A2:** 0
+* **A1:** 10
+* **A0 evidence packages:** 5
+
+## Relationship ledger
+
+* **Relationship-level loops:** 7
+
+## Registry-disposition counts
+
+### Primary move verdicts
+
+* **NEW Stage-2 moves:** 10
+* **Partial packet-local implementations of a named registry operator:** 1
+* **Full MATCHES verdicts:** 0
+* **EXTENDS verdicts:** 0
+
+### Secondary, nonexclusive registry relations
+
+* **Possible packet-local overlaps:** 1
+* **Counter-operation or corrective relations:** 2
+* **Partial inward applications:** 1
+* **Diagnostic relations only:** 4
+
+### Named registry candidates not demonstrated as durable actor operators or pathologies
+
+* **Not demonstrated:** 10
+
+These secondary relation counts overlap with the primary move classifications and are not additive operator totals.
+
+# 12. Archival Disposition
+
+Stage 4 maps the eleven durable Stage-2 Ziggy moves against the supplied registry without increasing any Stage-3 promotion tier.
+
+Ten moves remain NEW:
+
+1. Framework Stress-Test and Dimensional Repair.
+2. Weak/Strong Thesis Separation.
+3. Lens Possession–Access–Selection Separation.
+4. Interpretive Goal–Outcome Audit.
+5. Origin–Access–Mastery Separation.
+6. Origin–Endorsement–Revision–Justification Separation.
+7. Evaluative-Premise Audit.
+8. Cross-Dispute Generative-Premise Search.
+9. Self-Adversarial Audit.
+10. Clarification Utility and Opportunity-Cost Audit.
+
+Assumption-Exposure Reversal is retained as a partial packet-local implementation of Symmetry Testing of Standards. It defeats assumption-free literalism but does not complete reciprocal inventory, equal-burden analysis, or relative-warrant comparison.
+
+The initial Jungian import phase has possible packet-local overlap with Cross-Disciplinary Swooping. The complete Framework Stress-Test and Dimensional Repair operator does not extend that registry candidate.
+
+Interpretive Goal–Outcome Audit is a counter-operation to Reconstruction Bypass, not an extension of it. Evaluative-Premise Audit is a detector and corrective relative to Baseline Exemption, not the pathology itself. Self-Adversarial Audit supplies a possible inward path toward symmetry testing but does not establish completed symmetry or correction.
+
+No durable actor match is established for:
+
+* Prediction Sovereignty;
+* Universalized Evaluative Jurisdiction;
+* Generative Admission Restriction;
+* Unmeasured-to-Zero Conversion;
+* Possibility Compression;
+* Baseline Exemption;
+* Reconstruction Bypass;
+* Contest-to-Defeat Compression;
+* Contested ≠ Defeated;
+* Possibility Preservation.
+
+The corrected promotion ledger retains:
+
+* three cautious Ziggy profile candidates;
+* eight strong packet-local Ziggy moves;
+* five lower-tier Ziggy items;
+* one quarantined interpretation.
+
+Whole-Mastery Interpretation remains quarantined.
+
+Grant remains entirely G-REPORTED, with six reported positions or method candidates, zero stable operators, and zero stable motives.
+
+Nova’s protocol and role behavior remain separately classified and noncorroborative.
+
+The Stage-3 availability ledger remains:
+
+* A3: 3;
+* A2: 0;
+* A1: 10;
+* A0 evidence packages: 5.
+
+All seven relationship loops remain interaction structures and are barred from trait promotion.
+
+No later-stage execution has been performed.
+
+DIG_COMPOUND_19_lens_availability_starting_whole_unconscious_agency_and_interpretive_success
+
+STAGE 4 COMPLETE AFTER FINAL REGISTRY-DIRECTION, PROMOTION-TIER, AND ARCHITECTURE PATCH
+
 
 ---
 
