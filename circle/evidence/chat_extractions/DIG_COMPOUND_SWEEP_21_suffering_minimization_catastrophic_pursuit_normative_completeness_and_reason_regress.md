@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (criterion-type + counterexample-target + regress-architecture + source-tier + scope overlays binding; ⭐ **G-QUOTED Grant material** — the numbered regress challenge); Stage 2 ✅ reviewed (one repair cycle — criterion-type, moral-target, source-scope, regress-architecture, ledger-separation repair; 5 core + 2 auxiliary Ziggy candidates, 2 co-constructed artifacts, 1 Grant packet-local G-QUOTED move, 0 stable Grant operators, 6 Nova protocols/roles); Stage 3 ✅ reviewed (one repair cycle — availability-tier, duplication, promotion, architecture repair; an unauthorized Stage-4 draft appended to the raw output was caught and QUARANTINED, never used; A3: 6 · A2: 3 · A1: 8 · A0: 5 evidence packages; 3 cautious profile candidates + 4 packet-local moves advance to Stage 4); Stage 4 pending
+**Status:** ✅ COMPLETE — Stage 1 ✅ reviewed (criterion-type + counterexample-target + regress-architecture + source-tier + scope overlays binding; ⭐ **G-QUOTED Grant material** — the numbered regress challenge); Stage 2 ✅ reviewed (one repair cycle — criterion-type, moral-target, source-scope, regress-architecture, ledger-separation repair; 5 core + 2 auxiliary Ziggy candidates, 2 co-constructed artifacts, 1 Grant packet-local G-QUOTED move, 0 stable Grant operators, 6 Nova protocols/roles); Stage 3 ✅ reviewed (one repair cycle — availability-tier, duplication, promotion, architecture repair; an unauthorized Stage-4 draft appended to the raw output was caught and QUARANTINED, never used; A3: 6 · A2: 3 · A1: 8 · A0: 5 evidence packages; 3 cautious profile candidates + 4 packet-local moves advance to Stage 4); Stage 4 ✅ reviewed (one repair cycle — registry-direction, promotion-tier, ledger-separation, final-architecture repair; **the archive's FOURTH triple-cycle dig**); **CLOSED — ZERO promotions (plow-through held, 20th consecutive)**
 
 **Discovered topic:** Whether suffering minimization can function as a complete moral criterion (nine-way under-typed — value / pro-tanto reason / sole axiology / lexical priority / criterion of rightness / decision procedure / policy metric / heuristic / metaethical theory); the death-cult extinction counterexample split into terminal-ranking / pursuit-authorization / decision-procedure / completeness arguments; population ethics (existing vs possible persons, death vs noncreation); misuse vs internal-consequence derivation test; the "problem of evil for the framework" analogy (refined to Catastrophic-Permission / Internal-Adequacy Challenge); "principle without a host/archetype" needing seven-level separation; ⭐ **Grant's regress challenge (G-QUOTED)** — "no higher reason" does NOT entail "never changes"; auxiliary tracks: model/via capacitance sensitivity, ontology-vs-frame, complexity/information/randomness
 
@@ -7036,7 +7036,2427 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+## 1. Blind-to-Named Mapping
+
+### 1. Catastrophic Edge-Case Stress Test
+
+**Stage-2 classification:** Core moral Ziggy move candidate
+**Mapping verdict:** **NEW — Catastrophic Edge-Case Stress Test**
+
+**What the move does:** Constructs a catastrophic limiting case and asks whether it follows internally from a typed criterion.
+
+**Why no registry candidate adequately matches:** None of the named candidates specifically captures reductio-style stress testing of a moral criterion.
+
+**Nearest registry relations:**
+
+* It may resist **Possibility Compression** by forcing an extreme possibility onto the map.
+* It risks **Contest-to-Defeat Compression** if the mere availability of a shocking scenario is treated as decisive refutation.
+* Its proper execution requires correction of **Reconstruction Bypass**, because the criterion must be typed before the case is scored.
+
+These are adjacent risks and controls, not the move itself.
+
+**Stage-3 alternative-reading survival:** Partial. The packet-local stress test survives, but the strongest alternative—that the scenario functioned as a rhetorical horror case without a valid derivation—prevents promotion as either a successful refutation or a stable Ziggy operator.
+
+---
+
+### 2. Terminal-Ranking–Pursuit–Decision Separation
+
+**Stage-2 classification:** Core moral Ziggy move candidate
+**Mapping verdict:** **NEW — Terminal-Ranking–Pursuit–Decision Separation**
+
+**What the move does:** Separates:
+
+* terminal-world ranking;
+* authorization to pursue that world;
+* realistic decision procedure;
+* institutional implementation.
+
+**Why no registry candidate adequately matches:** The registry does not contain a candidate for dividing terminal axiology from action guidance and institutional practice.
+
+**What it does not match:** It is not merely **Contested ≠ Defeated**. It does not only lower the verdict strength of an objection; it distinguishes different normative targets that can receive different answers.
+
+**Stage-3 alternative-reading survival:** Yes. The strongest alternative—that this was an ad hoc rescue after Grant’s feasibility reply—remains possible, but Ziggy’s development of recruitment, blame, and harms of pursuit shows substantive inferential work beyond merely preserving the original counterexample.
+
+---
+
+### 3. Adversarial Self-Check
+
+**Stage-2 classification:** Core regulatory Ziggy move candidate
+**Mapping verdict:** **EXTENDS Possibility Preservation**
+
+**What matches:** Ziggy deliberately preserves the possibility that his own confidence is mistaken and requests pressure from the strongest contrary case.
+
+**Delta from the registry candidate:** **Possibility Preservation** ordinarily retains a low-plausibility external hypothesis. Adversarial Self-Check instead retains the possibility of one’s own error and invites active adverse evaluation.
+
+**What does not match:** The conversation does not show sustained preservation of a particular low-probability hypothesis, nor does it show that the self-check caused significant adverse revision.
+
+**Stage-3 alternative-reading survival:** Only partially. The request is explicit, but the reassurance-seeking interpretation remains live because Nova’s audit was limited and largely supportive.
+
+---
+
+### 4. Completeness and Imported-Value Audit
+
+**Stage-2 classification:** Core moral Ziggy move candidate
+**Mapping verdict:** **EXTENDS Reconstruction Bypass**
+
+**Direction control:** This is a corrective response to Reconstruction Bypass, not evidence that Ziggy performs the bypass.
+
+**What matches:** The move requires reconstruction of:
+
+* what the criterion claims;
+* which safeguards are internal;
+* which rules are derived;
+* which values are independently imported.
+
+**Delta from the registry candidate:** It does more than reconstruct a framework according to its own ontology and aims. It audits the derivability of guardrails and whether an allegedly single criterion silently relies on moral pluralism.
+
+**What does not match:** The bounded evidence does not establish that Grant himself bypassed reconstruction in the external conversation.
+
+**Stage-3 alternative-reading survival:** Yes, conditionally. The audit survives, but the alternative reading remains important: Ziggy may be demanding a complete moral and institutional theory from something Grant intended only as a heuristic or partial value.
+
+---
+
+### 5. Analogy-Limit Detection
+
+**Stage-2 classification:** Core Ziggy move candidate
+**Mapping verdict:** **NEW — Analogy-Limit Detection**
+
+**What the move does:** Identifies a disanalogy that limits what a transferred structure can establish.
+
+**Why no registry candidate adequately matches:** **Cross-Disciplinary Swooping** captures importing a structure, but not the corrective act of identifying where that import ceases to carry.
+
+**Nearest registry relation:** It regulates Cross-Disciplinary Swooping by requiring disclosure of relevant disanalogies.
+
+**Stage-3 alternative-reading survival:** Yes. The strongest alternative—that Ziggy was merely expressing confusion about authority—is weaker than the evidence that his question isolated the agent/principle difference and forced revision of an analogy favorable to his own argument.
+
+---
+
+### 6. Metric-Conditional Hypothesis Pruning
+
+**Stage-2 classification:** Auxiliary technical Ziggy move candidate
+**Mapping verdict:** **EXTENDS Contested ≠ Defeated**
+
+**What matches:** A hypothesis is reprioritized rather than declared impossible. Passing fitted attenuation reduced the likelihood that its mask directly caused the failure, while indirect dependency remained open.
+
+**Delta from the registry candidate:** **Contested ≠ Defeated** concerns dialectical objections. This is a technical evidential-triage variant: evidence against a hypothesis reduces priority without converting it to zero.
+
+**What does not match:**
+
+* It does not perform **Unmeasured-to-Zero Conversion**.
+* It does not fully erase a low-probability possibility through **Possibility Compression**.
+
+**Stage-3 alternative-reading survival:** Yes, at packet-local level. The ordinary-troubleshooting interpretation remains plausible, so the move stays below profile threshold.
+
+---
+
+### 7. Proxy-Parameter Sensitivity Probe
+
+**Stage-2 classification:** Auxiliary technical Ziggy move candidate
+**Mapping verdict:** **NEW — Proxy-Parameter Sensitivity Probe**
+
+**What the move does:** Varies a simplified parameter while limiting the inference to system sensitivity rather than claiming full representation of the physical object.
+
+**Why no registry candidate adequately matches:** The registry contains no experimental candidate for bounded parameter probing.
+
+**Nearest registry relations:** Its controls resist:
+
+* **Universalized Evaluative Jurisdiction**, when a proxy is treated as authoritative outside its representational domain;
+* **Unmeasured-to-Zero Conversion**, when omitted physical effects are treated as nonexistent.
+
+Neither candidate captures the probe itself.
+
+**Stage-3 alternative-reading survival:** Yes. The alternative that this was routine parameter sweeping remains plausible, but Ziggy’s explicit concern about confounding and representativeness supports a genuine packet-local reasoning move.
+
+---
+
+### 8. Structural Analogy Transfer
+
+**Stage-2 classification:** Co-constructed analogy protocol
+**Mapping verdict:** **MATCHES Cross-Disciplinary Swooping**
+
+**What matches:** A structure from the classical problem of evil was imported to reframe the evaluation of a suffering criterion.
+
+**What does not match:** The import was not necessarily illegitimate. The conversation discovered and preserved the relevant disanalogy between an agentive deity and an abstract evaluative criterion.
+
+**Stage-3 alternative-reading survival:** Yes, only as a co-constructed analytic artifact. The strongest alternative—that it was rhetorical dramatization—prevents treatment as an individual actor operator or proof of structural identity.
+
+---
+
+### 9. Normative-Layer Separation
+
+**Stage-2 classification:** Co-constructed synthesis architecture
+**Mapping verdict:** **NEW — Normative-Layer Separation**
+
+**What the architecture does:** Separates:
+
+* axiology;
+* criterion of rightness;
+* decision procedure;
+* applied ethics;
+* institutional implementation;
+* moral psychology;
+* metaethics.
+
+**Why no registry candidate adequately matches:** The registry has no candidate for separating the distinct layers of normative theory.
+
+**Nearest registry relation:** It can correct **Reconstruction Bypass** by requiring the framework’s different functions to be reconstructed before scoring.
+
+**Stage-3 alternative-reading survival:** Yes, as architecture. It does not survive as proof that suffering-sensitive axiology is false, uniquely incomplete, or normatively dependent on an archetype.
+
+---
+
+### 10. Recursive Higher-Reason Challenge
+
+**Stage-2 classification:** Packet-local G-QUOTED reasoning move
+**Mapping verdict:** **NEW — Recursive Higher-Reason Challenge**
+
+**What the move does:** Recursively pressures:
+
+* rational revision;
+* foundations;
+* regress;
+* terminal values;
+* higher-order justification.
+
+**Why no registry candidate adequately matches:** None directly captures recursive substitution of higher reasons to expose terminal commitments or regress.
+
+**Possible registry relations not established by the source:**
+
+* **Baseline Exemption**, if Grant exempts his own revision rule;
+* **Contest-to-Defeat Compression**, if presenting the challenge is treated as defeating all competing revision models;
+* **Possibility Compression**, if same-level, coherentist, or reflective-equilibrium revision is dismissed without examination.
+
+The bounded conversation does not establish these.
+
+**Stage-3 alternative-reading survival:** The packet-local challenge survives. The strongest alternative—a rhetorically one-sided game—remains live, but so does the substantive foundationalist reading. “Regress trap,” stable operator, and manipulative motive do not survive.
+
+---
+
+### 11. Charitable Opponent Reconstruction
+
+**Stage-2 classification:** Nova-generated exploratory protocol
+**Mapping verdict:** **EXTENDS Reconstruction Bypass**
+
+**Direction control:** This is the corrective inverse of Reconstruction Bypass.
+
+**What matches:** Nova attempts to reconstruct a stronger Grant position before scoring it.
+
+**Delta from the registry candidate:** The reconstruction is explicitly hypothetical because Grant is absent and must not be converted into Grant evidence.
+
+**What does not match:** The protocol was not executed fully enough to show that the reconstruction bypass was successfully corrected.
+
+**Stage-3 alternative-reading survival:** Limited. It survives as a Nova-generated exploratory protocol, but the strongest alternative—that it was a brief balancing gesture before returning to advocacy—remains substantially supported.
+
+---
+
+### 12. Reciprocal Rule and Victory-Condition Audit
+
+**Stage-2 classification:** Nova-generated evaluative protocol
+**Mapping verdict:** **MATCHES Symmetry Testing of Standards**
+
+**What matches:** Grant’s higher-reason rule is made to undergo the same justificatory and revision demands imposed on other reasons.
+
+**Additional delta within the match:** The protocol also examines:
+
+* permitted terminal outcomes;
+* what “I win” means;
+* whether the procedure is asymmetrically scored.
+
+**What does not match:** Reciprocal application does not establish that the standard fails. It may confirm the foundationalist claim that every hierarchy terminates or regresses.
+
+**Stage-3 alternative-reading survival:** Yes, as an evaluative protocol. It does not survive as a decisive rebuttal.
+
+---
+
+### 13. Model-Inventory–Interpretive-Frame Separation
+
+**Stage-2 classification:** Nova-generated analytic protocol
+**Mapping verdict:** **NEW — Model-Inventory–Interpretive-Frame Separation**
+
+**What the protocol does:** Separates represented entity, property, and relation types from interpretive emphasis within the represented domain.
+
+**Why no registry candidate adequately matches:** The registry does not directly distinguish model inventory from framing.
+
+**Nearest registry relation:** It can support an audit of **Universalized Evaluative Jurisdiction** by showing where a model’s representational authority ends.
+
+**What it does not establish:** A model’s ontology does not determine reality itself.
+
+**Stage-3 alternative-reading survival:** Yes, with overlap controls. The alternative—that Nova imposed strict philosophical terminology on Angles’s looser usage—remains unresolved because Angles’s wording is absent.
+
+---
+
+### 14. Variable-Sense Decomposition
+
+**Stage-2 classification:** Nova-generated analytic protocol
+**Mapping verdict:** **NEW — Variable-Sense Decomposition**
+
+**What the protocol does:** Separates:
+
+* behavioral complexity;
+* description length;
+* algorithmic complexity;
+* state information;
+* entropy;
+* logical depth;
+* generating-rule simplicity.
+
+**Why no registry candidate adequately matches:** None of the named candidates is specifically a semantic and measurement-disaggregation protocol.
+
+**Nearest registry relations:** It can prevent:
+
+* **Universalized Evaluative Jurisdiction**, by keeping each measure inside its proper domain;
+* **Unmeasured-to-Zero Conversion**, by preserving unknown or differently measured quantities.
+
+**Stage-3 alternative-reading survival:** Yes, as a Nova-generated protocol. It was incompletely applied because Grant’s intended complexity measure remained UNKNOWN.
+
+---
+
+### 15. Missing-Bridge Premise Identification
+
+**Stage-2 classification:** Nova-generated analytic protocol
+**Mapping verdict:** **EXTENDS Universalized Evaluative Jurisdiction**
+
+**What matches:** A conclusion about formulas or deterministic algorithms is prevented from governing physical or metaphysical reality before the authority of that extension is established.
+
+**Delta from the registry candidate:** The protocol identifies the exact bridge premise required for the jurisdictional extension:
+
+> Reality is exhaustively reducible to, or generated by, formal computation.
+
+**What does not match:** It does not prohibit cross-domain inference. It requires the bridge to be independently established.
+
+**Stage-3 alternative-reading survival:** Yes, strongly. The alternative that this was a one-time clarification limits stable-operator claims but does not weaken the packet-local inference.
+
+---
+
+### 16. Cross-Domain Unifier Role
+
+**Stage-2 classification:** Nova role behavior
+**Mapping verdict:** **MATCHES Cross-Disciplinary Swooping**
+
+**What matches:** Nova repeatedly imports structures among ethics, regress, signal integrity, ontology, complexity, and randomness.
+
+**What does not match:** This is role behavior rather than an individual cognitive operator. Some transfers were productive; others collapsed distinct problems into an omnibus “same pattern.”
+
+**Stage-3 alternative-reading survival:** Yes, as Nova role behavior with false-analogy risk. It does not survive as an actor-profile operator.
+
+---
+
+## 2. New Operator Candidates
+
+### 2.1 Catastrophic Edge-Case Stress Test
+
+**Status:** NEW, packet-local Ziggy candidate below profile threshold
+**Core function:** Tests whether a catastrophic case follows internally from a typed criterion.
+**Current limitation:** The criterion was not adequately typed, and the catastrophic derivation did not survive Stage 3.
+**Promotion evidence required:** Independent cases showing explicit criterion typing, derivation, premise accounting, and willingness to withdraw the case when it fails.
+
+---
+
+### 2.2 Terminal-Ranking–Pursuit–Decision Separation
+
+**Status:** NEW, cautious Ziggy profile candidate
+**Core function:** Separates terminal ranking, pursuit authorization, practical decision procedure, and institutional implementation.
+**Current limitation:** One strong packet-local instance does not establish durable recurrence.
+**Promotion evidence required:** Independent use, particularly where the distinction weakens Ziggy’s own preferred conclusion.
+
+---
+
+### 2.3 Analogy-Limit Detection
+
+**Status:** NEW, cautious Ziggy profile candidate
+**Core function:** Identifies the disanalogy that limits inferential transfer.
+**Current limitation:** One clear instance.
+**Promotion evidence required:** Further cases where Ziggy restricts analogies favorable to his own position.
+
+---
+
+### 2.4 Proxy-Parameter Sensitivity Probe
+
+**Status:** NEW, auxiliary packet-local Ziggy candidate
+**Core function:** Uses a simplified parameter to probe sensitivity while bounding claims about the full object.
+**Current limitation:** No sweep result or subsequent interpretation appears.
+**Promotion evidence required:** Repeated execution and disciplined interpretation in additional technical cases.
+
+---
+
+### 2.5 Normative-Layer Separation
+
+**Status:** NEW, co-constructed analytic architecture
+**Core function:** Separates seven levels of normative theory.
+**Current limitation:** Jointly constructed and metaphor-supported rather than independently deployed by one actor.
+**Promotion evidence required:** Independent use by an actor without Nova supplying the architecture.
+
+---
+
+### 2.6 Recursive Higher-Reason Challenge
+
+**Status:** NEW, packet-local G-QUOTED move
+**Core function:** Pressures foundations, terminal commitments, and higher-order revision.
+**Current limitation:** One unauthenticated, context-incomplete quotation.
+**Promotion evidence required:** Repeated direct material plus Grant’s responses to coherentism, same-level revision, reflective equilibrium, defeasible foundations, and reciprocal application.
+
+---
+
+### 2.7 Model-Inventory–Interpretive-Frame Separation
+
+**Status:** NEW, Nova-generated analytic protocol
+**Core function:** Separates represented model inventory from interpretive emphasis.
+**Current limitation:** Generated on request; Angles’s local usage remains UNKNOWN.
+**Promotion evidence required:** Independent uptake and successful use by an actor across multiple cases.
+
+---
+
+### 2.8 Variable-Sense Decomposition
+
+**Status:** NEW, Nova-generated analytic protocol
+**Core function:** Prevents substitution among different meanings and measures of a disputed variable.
+**Current limitation:** The protocol was articulated after ambiguity had already shaped the answer and did not recover Grant’s intended measure.
+**Promotion evidence required:** Repeated pre-evaluation use with the target meaning established before counterexample selection.
+
+---
+
+## 3. Profile-Ready Claims
+
+These claims are profile-ready only as carefully bounded packet-local findings or cautious future-testing candidates. They are not established durable personality traits.
+
+### Claim 1 — Terminal-Ranking–Pursuit–Decision Separation
+
+**Claim:** Ziggy explicitly distinguished the evaluation of a terminal outcome from the morality of pursuing it, while also acknowledging suffering caused during pursuit.
+
+**Subject:** Ziggy
+**Evidence classification:** Z-DIRECT
+**Confidence:** High
+**Source anchor:** Ziggy, “I’m insisting it’s the pursuit of the goal,” together with “Yes, there will be suffering along the way.”
+
+**Classification defense:** The distinction changed the target of analysis from successful extinction to the conduct, permissions, recruitment, and blame generated by pursuit. It is not adequately explained as mere rhetoric, although an ad hoc rescue interpretation remains possible.
+
+**Review condition:** Retain as a cautious profile candidate only if independent cases show Ziggy using the distinction consistently, including where it undermines his preferred argument.
+
+---
+
+### Claim 2 — Completeness and Imported-Value Audit
+
+**Claim:** Ziggy tested whether a suffering criterion could exclude a catastrophic application through internal or derived resources, or whether it required additional values and structures.
+
+**Subject:** Ziggy
+**Evidence classification:** Z-DIRECT, with CO-CONSTRUCTED refinement
+**Confidence:** Moderate-high
+**Source anchor:** Ziggy, “if this really is the true metric… how would this edge case… reconcile?” and “the principle alone is incomplete without a framework.”
+
+**Classification defense:** The move identifies a genuine derivability question: whether guardrails belong to the criterion, follow from it, or enter independently. It remains more than rhetorical objection, but its force is conditional on the strength and intended function of Grant’s criterion.
+
+**Review condition:** Downgrade if Grant’s exact position proves to be only a heuristic or if the relevant safeguards are demonstrably derived from the stated criterion. Do not infer comparative superiority without applying the same completeness burden to Ziggy’s alternative.
+
+---
+
+### Claim 3 — Analogy-Limit Detection
+
+**Claim:** Ziggy identified that the problem-of-evil analogy could not automatically transfer agentive responsibility from a deity to an abstract metric.
+
+**Subject:** Ziggy
+**Evidence classification:** Z-DIRECT
+**Confidence:** High
+**Source anchor:** Ziggy, “when it comes to God, I understand how that’s a moral authority… that authority is more elusive to me.”
+
+**Classification defense:** The move limited an analogy favorable to Ziggy’s own developing argument and forced a revised distinction between agentive and justificatory authority. It is therefore not well explained as purely partisan rhetoric.
+
+**Review condition:** Treat as a cautious profile candidate until independent recurrence demonstrates that Ziggy regularly performs disanalogy checks across cases.
+
+---
+
+## 4. Quarantined Claims
+
+### Quarantined Claim 1 — Ziggy has a stable Catastrophic Edge-Case Stress Test operator
+
+**Why quarantined:** Only one moral instance is established, and its catastrophic conclusion was not derived from a typed criterion.
+
+**Promotion evidence required:**
+
+* multiple independent cases;
+* explicit criterion typing;
+* factual and aggregation-premise identification;
+* separation of faithful implication from distorted implementation;
+* withdrawal when the derivation fails.
+
+---
+
+### Quarantined Claim 2 — Ziggy’s Adversarial Self-Check reliably produces adverse revision
+
+**Why quarantined:** The request for skepticism is explicit, but Nova’s response was limited and largely reassuring.
+
+**Promotion evidence required:** A case where Ziggy solicits the strongest contrary position and materially revises, suspends, or abandons a favored conclusion.
+
+---
+
+### Quarantined Claim 3 — Ziggy has stable Possibility Preservation
+
+**Why quarantined:** Preserving the possibility of one’s own error is only a variant of the registry candidate, and no repeated low-plausibility possibility-preservation behavior appears.
+
+**Promotion evidence required:** Multiple cases where Ziggy deliberately keeps a low-probability possibility active without promoting it to belief.
+
+---
+
+### Quarantined Claim 4 — Metric-Conditional Hypothesis Pruning is a durable Ziggy profile operator
+
+**Why quarantined:** The source supports one technical reprioritization that may be ordinary troubleshooting.
+
+**Promotion evidence required:** Repeated examples showing explicit metric identification, controlled reprioritization, and preservation of indirect-dependency uncertainty.
+
+---
+
+### Quarantined Claim 5 — Proxy-Parameter Sensitivity Probe is a durable Ziggy profile operator
+
+**Why quarantined:** One proposed experiment appears, without execution or result interpretation.
+
+**Promotion evidence required:** Additional cases in which Ziggy runs the probe and restricts the conclusion to parameter sensitivity.
+
+---
+
+### Quarantined Claim 6 — Grant has a stable Recursive Higher-Reason Challenge operator
+
+**Why quarantined:** Only one packet-local G-QUOTED challenge exists, without authenticated context.
+
+**Promotion evidence required:** Direct repeated use and clarification of “higher reason,” “change,” “terminal,” and “win.”
+
+---
+
+### Quarantined Claim 7 — Grant uses Baseline Exemption
+
+**Why quarantined:** Nova proposed reciprocal application, but no evidence shows Grant exempting his own rule.
+
+**Promotion evidence required:** Grant applying a justificatory burden asymmetrically while treating his preferred rule as a neutral baseline.
+
+---
+
+### Quarantined Claim 8 — Grant uses Contest-to-Defeat Compression
+
+**Why quarantined:** “I win” is rhetorically strong, but its intended philosophical meaning remains UNKNOWN.
+
+**Promotion evidence required:** Evidence that Grant treats the presentation of the challenge itself as defeating competing revision architectures despite unresolved alternatives.
+
+---
+
+### Quarantined Claim 9 — Grant uses Possibility Compression
+
+**Why quarantined:** The reported feasibility objection may reflect expected-value reasoning rather than treatment of low-probability possibilities as nonexistent.
+
+**Promotion evidence required:** Direct evidence that Grant removes low-probability but decision-relevant possibilities from consideration solely because they fall below a plausibility threshold.
+
+---
+
+### Quarantined Claim 10 — Grant performs Reconstruction Bypass
+
+**Why quarantined:** The bounded packet shows Ziggy’s compressed report, not Grant evaluating an unreconstructed opposing framework.
+
+**Promotion evidence required:** Direct evidence that Grant begins scoring another framework before establishing its aims, ontology, and success conditions.
+
+---
+
+### Quarantined Claim 11 — Grant’s criterion is sole, lexical, complete, decisive, heuristic, or metaethical
+
+**Why quarantined:** Ziggy uses several non-equivalent descriptions, all G-REPORTED.
+
+**Promotion evidence required:** Exact Grant wording specifying the role and strength of suffering.
+
+---
+
+### Quarantined Claim 12 — Grant’s suffering criterion entails extinction
+
+**Why quarantined:** The derivation lacks:
+
+* criterion typing;
+* suffering aggregation;
+* current/future-person rules;
+* death/noncreation distinctions;
+* expected-harm analysis;
+* feasibility assumptions.
+
+**Promotion evidence required:** A valid derivation from Grant’s own stated premises showing both terminal preference and action authorization.
+
+---
+
+### Quarantined Claim 13 — Grant’s expected-harm reply fully resolves the death-cult challenge
+
+**Why quarantined:** It may reject the pursuit without resolving terminal population ethics.
+
+**Promotion evidence required:** A complete account of positive welfare, existing and future persons, death, noncreation, aggregation, and terminal-world ranking.
+
+---
+
+### Quarantined Claim 14 — Suffering minimization constitutes ontology collapse
+
+**Why quarantined:** No evidence shows Grant denying the existence or derivative relevance of justice, dignity, consent, autonomy, or agency.
+
+**Promotion evidence required:** Direct evidence that those values are excluded from the moral domain rather than subordinated, derived, or treated instrumentally.
+
+---
+
+### Quarantined Claim 15 — Normative-Layer Separation is an independent Ziggy operator
+
+**Why quarantined:** The architecture was co-constructed through Ziggy’s metaphors and Nova’s synthesis.
+
+**Promotion evidence required:** Independent Ziggy deployment of the layered architecture in another dispute.
+
+---
+
+### Quarantined Claim 16 — Reciprocal Rule and Victory-Condition Audit defeats Grant’s challenge
+
+**Why quarantined:** Self-application may confirm the existence of a terminal commitment.
+
+**Promotion evidence required:** Clarification of Grant’s intended conclusion and demonstration of contradiction, illicit exemption, or incompatible victory conditions.
+
+---
+
+### Quarantined Claim 17 — Nova consistently performs strong Charitable Opponent Reconstruction
+
+**Why quarantined:** The reconstruction in this packet was brief and followed by substantial advocacy.
+
+**Promotion evidence required:** Repeated cases in which Nova formalizes the strongest opposing framework before scoring and allows it to overturn the initial interpretation.
+
+---
+
+### Quarantined Claim 18 — The 40GBASE-KR4 fitted-attenuation mask is valid for 10GBASE-KR
+
+**Why quarantined:** Nova’s claim was inferred from per-lane similarity and was not verified through authoritative technical material.
+
+**Promotion evidence required:** Governing-standard text, HyperLynx documentation, or tool-vendor confirmation.
+
+---
+
+### Quarantined Claim 19 — The fitted-attenuation mask has zero influence on COM
+
+**Why quarantined:** Passing fitted attenuation supports reprioritization but does not establish the software dependency graph.
+
+**Promotion evidence required:** Verified calculation dependencies showing no direct or indirect path.
+
+---
+
+### Quarantined Claim 20 — Grant’s complexity claim was defeated
+
+**Why quarantined:** His intended complexity and information measures remain UNKNOWN.
+
+**Promotion evidence required:** Exact wording clarifying whether he means rule length, full-state information, entropy, logical depth, computational work, or another measure.
+
+---
+
+### Quarantined Claim 21 — Cross-Domain Unifier is a stable Nova cognitive operator rather than role behavior
+
+**Why quarantined:** The behavior is better explained by Nova’s conversational synthesis role, and several transfers overreached.
+
+**Promotion evidence required:** Repeated disciplined transfers with explicit shared-relation, disanalogy, and success-condition audits.
+
+---
+
+### Quarantined Claim 22 — Prediction Sovereignty, Generative Admission Restriction, or Unmeasured-to-Zero Conversion appears in this packet
+
+**Why quarantined:** No recoverable source anchor establishes any participant treating predictive success as final authority, excluding specified generative sources, or converting an unmeasured result into zero.
+
+**Promotion evidence required:** Direct actor material satisfying the registry definitions rather than thematic resemblance.
+
+---
+
+## 5. Extraction Self-Audit
+
+### Source-boundary audit
+
+The evidentiary corpus was restricted to:
+
+* the bounded original historical conversation;
+* the completed Stage-1 extraction;
+* the final corrected Stage-2 extraction;
+* the final corrected Stage-3 extraction.
+
+No Project Conversation Content, other chat material, memory, external research, uploaded archives, system/developer context, or X-CONTEXT notice was used as actor evidence.
+
+G-QUOTED material remains unauthenticated, potentially paraphrased, and context-incomplete.
+
+---
+
+### Candidate-registry priming risk
+
+The registry strongly invites classification under:
+
+* Reconstruction Bypass;
+* Symmetry Testing of Standards;
+* Universalized Evaluative Jurisdiction;
+* Cross-Disciplinary Swooping;
+* Contest-to-Defeat Compression.
+
+Several Stage-2 moves are corrective protocols rather than actor performances of the corresponding failure. The mapping therefore states “corrective inverse” where necessary and does not treat the named failure as an actor finding.
+
+---
+
+### Forced-match risk
+
+Eight findings remain NEW because forced mapping would collapse relevant distinctions:
+
+* catastrophic criterion testing;
+* terminal-ranking/pursuit separation;
+* analogy limitation;
+* proxy sensitivity;
+* normative-layer architecture;
+* recursive reason challenge;
+* model-inventory/frame separation;
+* variable-sense decomposition.
+
+The number of NEW findings creates proliferation risk, but forced registry compliance would be less accurate.
+
+---
+
+### Over-pattern-matching risk
+
+The packet contains moral theory, reason regress, signal integrity, model ontology, complexity, and randomness.
+
+Nova repeatedly presented these as one recurring pattern. Stage 3 established that they involve different structures:
+
+* normative criterion typing;
+* population ethics;
+* vertical versus network revision;
+* proxy versus object;
+* measure ambiguity;
+* formal-to-physical bridge premises.
+
+Cross-domain resemblance was not treated as identity.
+
+---
+
+### Asymmetric-charity risk
+
+Grant is absent. Ziggy and Nova receive extensive opportunities to refine their positions, while Grant is represented primarily through G-REPORTED material and one G-QUOTED challenge.
+
+Accordingly:
+
+* no stable Grant operator is promoted;
+* no Grant motive is inferred;
+* no criterion strength is assigned;
+* no registry failure pattern is attributed to Grant without direct support.
+
+Nova’s earlier highly confident language does not compensate for the source asymmetry.
+
+---
+
+### Unclear-to-definite conversion risk
+
+The extraction preserved UNKNOWN for:
+
+* Grant’s suffering criterion;
+* suffering aggregation;
+* current and future persons;
+* death and noncreation;
+* Grant’s meanings of “higher reason,” “change,” and “win”;
+* Grant’s complexity measure;
+* Angles’s ontology usage;
+* HyperLynx dependencies;
+* KR/KR4 standards jurisdiction;
+* AMI and capacitance-sweep outcomes.
+
+No UNKNOWN item was intentionally converted into a stable actor label.
+
+---
+
+### Rhetoric-to-operator risk
+
+The death-cult scenario, “software without a host,” “law without a judge,” and “I win” all possess strong rhetorical force.
+
+Controls applied:
+
+* the catastrophic scenario remains packet-local and below profile threshold;
+* host and judge metaphors remain inside Normative-Layer Separation;
+* “I win” is not treated as proof of manipulation;
+* no metaphor supplies the conclusion it illustrates.
+
+---
+
+### Role-behavior conversion risk
+
+Nova’s:
+
+* advocacy;
+* analogy generation;
+* cross-domain unification;
+* sharpening language;
+
+may appear operator-like because they recur. Cross-Domain Unifier remains explicitly classified as role behavior, and Charitable Opponent Reconstruction remains a Nova-generated protocol rather than evidence about Ziggy or Grant.
+
+---
+
+### Profile-promotion risk
+
+Stage-3 survival does not automatically establish a durable trait.
+
+Only three Ziggy findings are placed in Profile-Ready Claims, and each is framed as:
+
+* a recoverable packet-local performance;
+* a cautious profile candidate;
+* subject to independent recurrence testing.
+
+The four remaining Ziggy moves stay below profile threshold.
+
+---
+
+### Reconstruction-direction risk
+
+Mapping Completeness and Imported-Value Audit or Charitable Opponent Reconstruction to **Reconstruction Bypass** can be misleading because both moves correct bypass rather than instantiate it.
+
+The mapping is therefore stated as an extension in the corrective direction. It is not evidence that Ziggy, Nova, or Grant performed Reconstruction Bypass.
+
+---
+
+### Technical-authority risk
+
+The bounded source verifies that technical claims were discussed, not that Nova’s engineering conclusions were correct.
+
+No authoritative status is given to claims concerning:
+
+* KR/KR4 mask equivalence;
+* HyperLynx defaults;
+* COM dependencies;
+* receiver assumptions;
+* AMI performance;
+* parameter topology.
+
+Metric-Conditional Hypothesis Pruning is retained only as reprioritization.
+
+---
+
+### Ontology inflation risk
+
+Nova’s earlier claim that ontology determines what reality is “allowed” to be was too strong.
+
+The retained protocol concerns:
+
+* what a model represents;
+* which represented aspects a frame emphasizes;
+* how modeling choices and framing overlap.
+
+No model ontology determines reality itself.
+
+---
+
+### Counterexample-to-defeat risk
+
+The death-cult case creates a serious challenge only if catastrophe is derived from Grant’s actual criterion.
+
+The extraction does not promote:
+
+* extinction entailment;
+* decisive defeat;
+* absence of all internal safeguards;
+* ontology collapse.
+
+This avoids **Contest-to-Defeat Compression** within the extraction itself.
+
+---
+
+### Self-application overstatement risk
+
+Reciprocal testing is mapped to **Symmetry Testing of Standards**, but symmetry alone does not prove inconsistency.
+
+The extraction preserves the strongest alternative:
+
+> If Grant’s point is that every hierarchy terminates or regresses, self-application may confirm his thesis.
+
+---
+
+### Missing named-candidate risk
+
+Several registry candidates receive no supported positive mapping:
+
+* Prediction Sovereignty;
+* Generative Admission Restriction;
+* Unmeasured-to-Zero Conversion;
+* Baseline Exemption as an established actor move.
+
+Their absence is not treated as evidence that participants never display them elsewhere. It means only that this bounded packet does not establish them.
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 (Nova, 2026-07-20) — REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — the archive's SECOND triple-cycle dig for SWEEP_21
+> itself** (Stages 2, 3, AND 4 each required repair) — following
+> immediately on SWEEP_20's third triple-cycle close. The Stage-4
+> output ABOVE is **SUPERSEDED** — retained as pasted; nothing in it
+> may be used downstream except through the corrected reissue below.
+
+**Verdict: PASS WITH MAJOR REGISTRY-DIRECTION, PROMOTION-TIER,
+LEDGER-SEPARATION, AND FINAL-ARCHITECTURE REPAIR — PATCH STAGE 4; DO
+NOT RERUN STAGES 1–3; DO NOT ARCHIVE THE CURRENT STAGE 4.** The
+Stage-3 evidence ceiling and most alternative readings were
+preserved, but several corrective operations were still labeled as
+**extensions of the failures they correct**, two controlled or
+role-induced performances were promoted to full `MATCHES`, the
+unauthorized heading `Profile-Ready Claims` reappeared, the eight-
+family and availability architecture were omitted, and accepted
+packet-local findings were mixed with unsupported operator claims
+inside one quarantine ledger.
+
+**🔧 REGISTRY DIRECTION CORRECTED (eight instances):** **Adversarial
+Self-Check** → `NEW`, only a `POSSIBLE PACKET-LOCAL ANALOGY` to
+Possibility Preservation (active adverse testing is a distinct
+regulatory operation, not a durable Possibility Preservation
+instance). **Completeness and Imported-Value Audit** → `NEW`,
+`COUNTER-OPERATION/CORRECTIVE RELATION` to Reconstruction Bypass (it
+audits derivation, it does not extend bypass). **Metric-Conditional
+Hypothesis Pruning** → `PARTIAL AUXILIARY IMPLEMENTATION` of
+Contested ≠ Defeated (reduced evidential priority ≠ demonstrated
+impossibility; diagnostic only re: Unmeasured-to-Zero/Possibility
+Compression). **Structural Analogy Transfer** → `PARTIAL CO-
+CONSTRUCTED IMPLEMENTATION` of Cross-Disciplinary Swooping (jointly
+constructed, analytically limited, corrected by disanalogy
+detection — a full match would erase that discipline). **Charitable
+Opponent Reconstruction** → `NEW NOVA-GENERATED EXPLORATORY
+PROTOCOL`, counter-operation to Reconstruction Bypass (the protocol
+tries to *prevent* bypass; incomplete execution doesn't reverse its
+direction). **Reciprocal Rule and Victory-Condition Audit** →
+`PARTIAL ROLE-INDUCED IMPLEMENTATION` of Symmetry Testing of
+Standards (Nova-generated; Grant's intended conclusion stayed
+unresolved; self-application may confirm foundationalism; no
+completed symmetric verdict). **Missing-Bridge Premise
+Identification** → `NEW NOVA-GENERATED ANALYTIC PROTOCOL`, counter-
+operation to Universalized Evaluative Jurisdiction (blocks an
+unauthorized jurisdictional extension; it is not an instance of it).
+**Cross-Domain Unifier Role** → `PARTIAL ROLE-INDUCED
+IMPLEMENTATION` of Cross-Disciplinary Swooping (some transfers
+productive, some overreached — Nova role behavior, never a stable
+cognitive operator).
+
+**📊 CORRECTED REGISTRY COUNTS:** 12 NEW reasoning/protocol/
+architecture candidates · 4 partial named-registry implementations ·
+**0 full MATCHES · 0 full EXTENDS**.
+
+**🚫 "PROFILE-READY CLAIMS" REJECTED AGAIN:** reverted to **cautious
+Ziggy profile candidates** (Terminal-Ranking–Pursuit–Decision
+Separation; Completeness and Imported-Value Audit; Analogy-Limit
+Detection) — eligible for future independent testing, never durable
+traits or fully promoted profile entries. "Stage-2 classification"
+corrected to "Stage-3 promotion tier" throughout.
+
+**🔀 QUARANTINE LEDGER SEPARATED:** the single mixed bucket split
+into: packet-local Ziggy moves below profile threshold (4, last two
+auxiliary) · co-constructed analytic artifacts (2) · Grant packet-
+local G-QUOTED move (1; stable Grant operators/motives held at 0) ·
+Nova protocols and role behaviors (6) · substantive/technical
+conclusions remaining genuinely quarantined (8 — Grant's criterion
+status; extinction entailment; whether the expected-harm reply
+resolves the complete challenge; ontology collapse; whether the
+reciprocal audit "defeats" Grant; the KR4 mask's validity; zero COM
+influence from fitted attenuation; Grant's complexity claim defeated)
+· named registry candidates not established as durable actor
+operators or pathologies.
+
+**🔀 RESTORE:** the eight-family architecture (dig-level analytic
+families, never actor operators); the Stage-3 availability ledger
+(A3: 6 · A2: 3 · A1: 8 · A0: 5 evidence packages — registry
+resemblance completes none of these); all five relationship loops
+with their controls.
+
+**🎯 The load-bearing correction:** reconstructing a criterion before
+auditing its safeguards is not Reconstruction Bypass; identifying the
+bridge needed to move from formal models to physical reality is not
+Universalized Evaluative Jurisdiction; and preserving the possibility
+of one's own error is not automatically the registry's general
+Possibility Preservation operator. These are distinct procedures
+whose direction and evidentiary tier must remain intact.
+
+---
+
+### ⏬ STAGE 4 CORRECTED OUTPUT (governing record)
+
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+## 0. Source Boundary and Attribution Controls
+
+### Evidentiary corpus
+
+This corrected Stage-4 extraction uses as historical actor evidence only:
+
+1. the complete bounded original historical conversation;
+2. the completed Stage-1 extraction;
+3. the final corrected Stage-2 extraction;
+4. the final corrected Stage-3 extraction.
+
+### Mapping and transformation inputs
+
+The following guide mapping and correction but are not historical actor evidence:
+
+1. the prior Stage-4 extraction being repaired;
+2. the supplied candidate registry;
+3. the current Stage-4 repair directive.
+
+Registry definitions and mapping instructions are not evidence about any actor.
+
+### Excluded material
+
+Excluded from actor evidence:
+
+* Project Conversation Content;
+* other chats;
+* memory;
+* external research;
+* unrelated uploaded files;
+* X-CONTEXT notices;
+* system or developer context;
+* registry definitions treated as though participants had used them;
+* later extraction repairs treated as earlier actor execution.
+
+### Attribution controls
+
+* **G-QUOTED** — wording attributed to Grant and reproduced inside the bounded conversation; not independently authenticated, guaranteed verbatim, or context-complete.
+* **G-REPORTED** — Ziggy paraphrases or characterizes Grant.
+* **Z-DIRECT** — Ziggy directly states his own position, question, or reasoning.
+* **Z-REPORTED** — Ziggy reports another person’s preference or behavior.
+* **NOVA-INTERPRETATION** — Nova interprets an actor or dispute.
+* **CO-CONSTRUCTED** — Ziggy and Nova jointly develop an idea.
+* **NOVA ROLE BEHAVIOR** — conduct attributable to Nova’s conversational function.
+* **NOVA-GENERATED PROTOCOL** — a structured analytic procedure formulated by Nova.
+* **UNKNOWN** — the bounded evidence does not support a definite conclusion.
+
+### Grant controls
+
+* **Stable Grant operators:** 0
+* **Stable Grant motives:** 0
+* **Packet-local G-QUOTED Grant moves:** 1
+
+No Grant criterion receives a strength not supported by the source.
+
+---
+
+# 1. Eight-Family Architecture
+
+These are dig-level analytic families, not actor operators.
+
+## 1.1 Criterion-Type and Strength Audit
+
+This family distinguishes:
+
+* suffering as morally bad;
+* suffering as a pro tanto reason;
+* suffering as the sole intrinsic disvalue;
+* suffering reduction with lexical priority;
+* suffering minimization as a criterion of rightness;
+* suffering minimization as an individual decision procedure;
+* suffering as an institutional metric;
+* suffering reduction as a heuristic;
+* suffering as a metaethical or grounding thesis.
+
+The bounded source does not establish which position Grant holds.
+
+“Single,” “supreme,” “complete,” “decisive,” and “heuristic” remain non-equivalent descriptions.
+
+---
+
+## 1.2 Terminal Ranking–Pursuit–Decision Audit
+
+This family distinguishes:
+
+1. ranking a terminal world;
+2. authorizing pursuit of that world;
+3. choosing an action under uncertainty;
+4. institutional implementation.
+
+The packet preserves both:
+
+* practical impossibility does not make pursuit morally harmless;
+* feasibility and expected suffering may reject pursuit internally.
+
+Rejection of pursuit does not automatically resolve terminal population ethics.
+
+---
+
+## 1.3 Population Ethics and Existence Audit
+
+This family distinguishes:
+
+* current persons from future persons;
+* death from noncreation;
+* killing from preventing existence;
+* absence of suffering from positive welfare;
+* total suffering from average suffering;
+* empty-world ranking from action recommendation.
+
+The bounded conversation raises these issues but does not settle them.
+
+---
+
+## 1.4 Completeness–Misuse–Guardrail Audit
+
+This family asks whether a catastrophic application is excluded through:
+
+* resources internal to suffering minimization;
+* decision rules derived from it;
+* or independent values such as rights, consent, justice, autonomy, dignity, agency, non-domination, and value of existing lives.
+
+It distinguishes:
+
+* faithful implication;
+* misuse;
+* derived safeguard;
+* imported safeguard;
+* under-specification;
+* implementation failure.
+
+No safeguard is classified as imported before derivability is tested.
+
+---
+
+## 1.5 Authority–Agency–Framework Audit
+
+This family separates:
+
+* agentive responsibility;
+* causal power;
+* justificatory authority;
+* abstract evaluative standards;
+* moral interpretation;
+* institutional embodiment.
+
+The problem-of-evil analogy remains limited by the deity/metric agency difference.
+
+A non-agentive principle may still possess justificatory authority.
+
+Normative-Layer Separation remains architecture, not refutation.
+
+---
+
+## 1.6 Regress–Foundation–Revision Audit
+
+This family tests:
+
+* meanings of “reason,” “higher,” “change,” and “win”;
+* foundations;
+* regress;
+* terminal commitments;
+* same-level conflict;
+* coherentism;
+* reflective equilibrium;
+* defeasible foundations;
+* reciprocal application.
+
+The Recursive Higher-Reason Challenge remains packet-local G-QUOTED material.
+
+No stable Grant operator follows.
+
+---
+
+## 1.7 Model–Object–Ontology–Frame Audit
+
+This auxiliary family covers the source-verified technical track:
+
+* 10GBASE-KR;
+* 40GBASE-KR4;
+* fitted attenuation;
+* COM;
+* HyperLynx;
+* receiver assumptions;
+* AMI;
+* Tx/Rx capacitance;
+* via representation.
+
+It distinguishes:
+
+* passing metric from failed metric;
+* evidential reprioritization from causal elimination;
+* proxy parameter from physical object;
+* represented model inventory from interpretive frame.
+
+Nova’s technical claims remain unverified interpretations, not documentation.
+
+---
+
+## 1.8 Complexity–Information–Randomness Audit
+
+This auxiliary family separates:
+
+* behavioral complexity;
+* visual complexity;
+* description length;
+* algorithmic complexity;
+* state information;
+* Shannon entropy;
+* thermodynamic entropy;
+* logical depth;
+* generating-rule simplicity;
+* algorithmic randomness;
+* physical randomness.
+
+No unidentified complexity measure is declared defeated.
+
+No formal limitation becomes a physical conclusion without a bridge premise.
+
+---
+
+# 2. Blind-to-Named Mapping
+
+## 2.1 Catastrophic Edge-Case Stress Test
+
+**Stage-3 promotion tier:** Packet-local Ziggy move below profile threshold
+**Primary mapping verdict:** **NEW — Catastrophic Edge-Case Stress Test**
+
+**Function:** Constructs a catastrophic limiting case and asks whether it follows internally from a typed criterion.
+
+**Why no registry candidate adequately matches:** The registry contains no specific reductio-style criterion stress test.
+
+**Secondary diagnostic relations:**
+
+* **Contest-to-Defeat Compression** becomes a risk if the shocking case is treated as decisive before derivation.
+* **Reconstruction Bypass** becomes a risk if criterion type and practical function are not established first.
+* **Possibility Compression** may be countered by placing an extreme possibility on the map.
+
+These are diagnostic relations only.
+
+**Stage-3 alternative-reading survival:** Partial. The packet-local move survives, but the alternative reading—a rhetorical horror case without adequate derivation—prevents promotion as a successful refutation or durable trait.
+
+---
+
+## 2.2 Terminal-Ranking–Pursuit–Decision Separation
+
+**Stage-3 promotion tier:** Cautious Ziggy profile candidate
+**Primary mapping verdict:** **NEW — Terminal-Ranking–Pursuit–Decision Separation**
+
+**Function:** Separates:
+
+* terminal-world ranking;
+* authorization to pursue;
+* realistic decision procedure;
+* institutional implementation.
+
+**Why no registry candidate adequately matches:** No registry candidate divides these distinct normative targets.
+
+**Stage-3 alternative-reading survival:** Yes. The ad hoc-rescue interpretation remains possible, but Ziggy’s treatment of recruitment, blame, transition harms, and institutional pursuit shows substantive inferential work.
+
+**Promotion control:** Future-testing candidate only; not a durable trait.
+
+---
+
+## 2.3 Adversarial Self-Check
+
+**Stage-3 promotion tier:** Packet-local Ziggy move below profile threshold
+**Primary mapping verdict:** **NEW — Adversarial Self-Check**
+
+**Function:** Preserves the possibility that one’s own conclusion is mistaken and requests adverse examination.
+
+**Relation to Possibility Preservation:** **POSSIBLE PACKET-LOCAL ANALOGY ONLY**
+
+The shared feature is preserving a live possibility that would otherwise be dismissed. The difference is decisive:
+
+* Possibility Preservation concerns keeping low-plausibility hypotheses active;
+* Adversarial Self-Check concerns preserving the possibility of one’s own error.
+
+No durable general Possibility Preservation operator is demonstrated.
+
+**Stage-3 alternative-reading survival:** Partial. The explicit request survives, but reassurance-seeking remains a live alternative because no severe adverse revision followed.
+
+---
+
+## 2.4 Completeness and Imported-Value Audit
+
+**Stage-3 promotion tier:** Cautious Ziggy profile candidate
+**Primary mapping verdict:** **NEW — Completeness and Imported-Value Audit**
+
+**Function:** Reconstructs a criterion and asks whether safeguards are:
+
+* internal;
+* derived;
+* or independently imported.
+
+**Relation to Reconstruction Bypass:** **COUNTER-OPERATION / CORRECTIVE RELATION**
+
+The move attempts to prevent premature evaluation by reconstructing the theory’s resources and derivations.
+
+It does not:
+
+* extend Reconstruction Bypass;
+* establish that Grant performed Reconstruction Bypass;
+* prove that every unnamed guardrail is imported.
+
+**Stage-3 alternative-reading survival:** Yes, conditionally. The strongest alternative remains that Ziggy may be demanding a full normative and institutional theory from something intended only as a heuristic or partial value.
+
+**Promotion control:** Future-testing candidate, not a durable trait.
+
+---
+
+## 2.5 Analogy-Limit Detection
+
+**Stage-3 promotion tier:** Cautious Ziggy profile candidate
+**Primary mapping verdict:** **NEW — Analogy-Limit Detection**
+
+**Function:** Identifies a disanalogy that limits what an imported structure can establish.
+
+**Relation to Cross-Disciplinary Swooping:** **CORRECTIVE REGULATION**
+
+The move regulates cross-domain transfer by requiring the relevant disanalogy to be disclosed.
+
+**What survives:** Ziggy distinguished an agentive deity from an abstract evaluative standard.
+
+**What does not follow:** A non-agentive principle cannot possess justificatory authority.
+
+**Stage-3 alternative-reading survival:** Yes. The confusion-only reading is weaker because the question forced correction of an analogy favorable to Ziggy’s own argument.
+
+**Promotion control:** Future-testing candidate only.
+
+---
+
+## 2.6 Metric-Conditional Hypothesis Pruning
+
+**Stage-3 promotion tier:** Auxiliary packet-local Ziggy move below profile threshold
+**Primary mapping verdict:** **PARTIAL AUXILIARY IMPLEMENTATION of Contested ≠ Defeated**
+
+**What partially matches:** Evidential priority was reduced without converting the hypothesis into impossibility.
+
+**Packet-local implementation:**
+
+* COM was identified as the failed metric;
+* fitted attenuation had passed;
+* hypotheses tied solely to fitted attenuation were deprioritized;
+* indirect dependency remained open.
+
+**What does not match fully:** The registry candidate concerns dialectical objections. This is technical evidential triage.
+
+**Relations to other registry candidates:**
+
+* **Unmeasured-to-Zero Conversion:** diagnostic only; no zero-influence conclusion was warranted.
+* **Possibility Compression:** diagnostic only; the possibility was reprioritized, not erased.
+
+**Stage-3 alternative-reading survival:** Yes, as technical reprioritization. Ordinary troubleshooting remains a plausible alternative, so no durable profile promotion follows.
+
+---
+
+## 2.7 Proxy-Parameter Sensitivity Probe
+
+**Stage-3 promotion tier:** Auxiliary packet-local Ziggy move below profile threshold
+**Primary mapping verdict:** **NEW — Proxy-Parameter Sensitivity Probe**
+
+**Function:** Varies a simplified parameter while limiting the inference to sensitivity rather than full-object representation.
+
+**Why no registry candidate adequately matches:** The registry contains no bounded experimental-proxy operator.
+
+**Secondary diagnostic relations:**
+
+* treating the proxy as authoritative for the full via could create **Universalized Evaluative Jurisdiction**;
+* treating omitted physical effects as nonexistent could create **Unmeasured-to-Zero Conversion**.
+
+These are risks, not mappings of the probe itself.
+
+**Stage-3 alternative-reading survival:** Yes. Routine parameter sweeping remains plausible, but Ziggy explicitly questioned confounding, parameter influence, and physical representativeness.
+
+---
+
+## 2.8 Structural Analogy Transfer
+
+**Classification:** CO-CONSTRUCTED analytic artifact
+**Primary mapping verdict:** **PARTIAL CO-CONSTRUCTED IMPLEMENTATION of Cross-Disciplinary Swooping**
+
+**What partially matches:** A structure from the problem of evil was imported into the moral-criterion dispute.
+
+**What limits the mapping:**
+
+* the import was jointly produced;
+* the agent/principle disanalogy corrected it;
+* no structural identity was established;
+* no stable actor operator was established;
+* the cross-domain move was not automatically illicit.
+
+**Stage-3 alternative-reading survival:** Yes, only as a co-constructed exploratory artifact. Rhetorical dramatization remains a viable partial explanation.
+
+---
+
+## 2.9 Normative-Layer Separation
+
+**Classification:** CO-CONSTRUCTED analytic artifact
+**Primary mapping verdict:** **NEW — Normative-Layer Separation**
+
+**Function:** Separates:
+
+1. axiology;
+2. criterion of rightness;
+3. decision procedure;
+4. applied ethics;
+5. institutional implementation;
+6. moral psychology;
+7. metaethics.
+
+**Why no registry candidate adequately matches:** The registry contains no normative architecture of this type.
+
+**Secondary corrective relation:** It can prevent Reconstruction Bypass by requiring each normative layer to be identified before evaluation.
+
+**What does not follow:**
+
+* suffering axiology is false;
+* implementation dependence is unique to suffering theories;
+* an archetype is normatively necessary;
+* a valid principle must be agentive.
+
+**Stage-3 alternative-reading survival:** Yes, as architecture rather than refutation.
+
+---
+
+## 2.10 Recursive Higher-Reason Challenge
+
+**Classification:** Grant packet-local G-QUOTED move
+**Primary mapping verdict:** **NEW — Recursive Higher-Reason Challenge**
+
+**Function:** Recursively pressures:
+
+* rational revision;
+* foundations;
+* regress;
+* terminal values;
+* higher-order justification.
+
+**Why no registry candidate adequately matches:** No named registry candidate captures recursive substitution of higher reasons.
+
+**Secondary diagnostic relations, not established mappings:**
+
+* **Baseline Exemption**, if Grant exempts his own rule;
+* **Contest-to-Defeat Compression**, if merely presenting the challenge is treated as defeat;
+* **Possibility Compression**, if non-hierarchical revision is excluded without examination.
+
+The bounded corpus does not establish any of these pathologies.
+
+**Stage-3 alternative-reading survival:** The packet-local move survives. Both readings remain live:
+
+* substantive foundationalist test;
+* rhetorically one-sided game.
+
+“Regress trap,” self-exemption, and manipulative motive do not survive as findings.
+
+---
+
+## 2.11 Charitable Opponent Reconstruction
+
+**Classification:** NOVA-GENERATED exploratory protocol
+**Primary mapping verdict:** **NEW — Charitable Opponent Reconstruction**
+
+**Function:** Constructs a plausible stronger interpretation of an absent opponent before scoring the dispute.
+
+**Relation to Reconstruction Bypass:** **COUNTER-OPERATION / CORRECTIVE RELATION**
+
+The protocol attempts to prevent bypass.
+
+Incomplete execution does not reverse its direction or make it an extension of the pathology it corrects.
+
+**Stage-3 alternative-reading survival:** Limited. The protocol exists, but the strongest alternative—that it was a brief gesture toward balance before Nova resumed advocacy—remains well supported.
+
+---
+
+## 2.12 Reciprocal Rule and Victory-Condition Audit
+
+**Classification:** NOVA-GENERATED evaluative protocol
+**Primary mapping verdict:** **PARTIAL ROLE-INDUCED IMPLEMENTATION of Symmetry Testing of Standards**
+
+**What partially matches:** Grant’s rule was applied to itself and required to undergo reciprocal scrutiny.
+
+**Additional audit functions:**
+
+* inspect permitted terminal outcomes;
+* type what “I win” means;
+* determine whether the procedure is asymmetrically scored.
+
+**Why only partial:**
+
+* Grant’s response is absent;
+* no completed symmetric verdict was reached;
+* self-application may confirm foundationalism;
+* the protocol did not supply a positive revision theory.
+
+**Stage-3 alternative-reading survival:** Yes, as a Nova-generated protocol. It does not survive as a decisive rebuttal.
+
+---
+
+## 2.13 Model-Inventory–Interpretive-Frame Separation
+
+**Classification:** NOVA-GENERATED analytic protocol
+**Primary mapping verdict:** **NEW — Model-Inventory–Interpretive-Frame Separation**
+
+**Function:** Separates represented entity, property, and relation types from interpretive emphasis within the represented domain.
+
+**Why no registry candidate adequately matches:** No registry candidate directly distinguishes represented model inventory from framing.
+
+**Secondary relation:** It may help diagnose Universalized Evaluative Jurisdiction when a model is treated as authoritative beyond what it represents.
+
+**Controls:**
+
+* model ontology does not determine reality;
+* model inventory and framing can overlap;
+* Angles’s local use remains Z-REPORTED and UNKNOWN.
+
+**Stage-3 alternative-reading survival:** Yes, with overlap controls. The possibility that Nova imposed stricter terminology than Angles uses remains unresolved.
+
+---
+
+## 2.14 Variable-Sense Decomposition
+
+**Classification:** NOVA-GENERATED analytic protocol
+**Primary mapping verdict:** **NEW — Variable-Sense Decomposition**
+
+**Function:** Separates multiple meanings or measures before evaluating a broad claim.
+
+**Packet distinctions:**
+
+* behavioral complexity;
+* description length;
+* algorithmic complexity;
+* state information;
+* entropy;
+* logical depth;
+* generating-rule simplicity.
+
+**Why no registry candidate adequately matches:** No named candidate performs semantic and measurement decomposition of this kind.
+
+**Secondary relations:** It can help prevent jurisdictional and measurement errors, but those are corrective consequences, not primary mappings.
+
+**Stage-3 alternative-reading survival:** Yes, as a protocol. It was incompletely applied because Grant’s intended measure remained UNKNOWN.
+
+---
+
+## 2.15 Missing-Bridge Premise Identification
+
+**Classification:** NOVA-GENERATED analytic protocol
+**Primary mapping verdict:** **NEW — Missing-Bridge Premise Identification**
+
+**Function:** Identifies the unstated premise needed to move from a formal or algorithmic claim to a physical or metaphysical conclusion.
+
+**Relation to Universalized Evaluative Jurisdiction:** **COUNTER-OPERATION / CORRECTIVE RELATION**
+
+The protocol blocks an unsupported jurisdictional extension.
+
+It does not:
+
+* extend Universalized Evaluative Jurisdiction;
+* prohibit every cross-domain inference;
+* prove that no adequate bridge can exist.
+
+**Stage-3 alternative-reading survival:** Strongly. The possibility that it was a one-off clarification limits stable-profile inference but does not weaken the packet-local result.
+
+---
+
+## 2.16 Cross-Domain Unifier Role
+
+**Classification:** NOVA ROLE BEHAVIOR
+**Primary mapping verdict:** **PARTIAL ROLE-INDUCED IMPLEMENTATION of Cross-Disciplinary Swooping**
+
+**What partially matches:** Nova repeatedly imported structures among:
+
+* moral theory;
+* regress;
+* signal integrity;
+* ontology;
+* complexity;
+* randomness.
+
+**Why only partial:**
+
+* some transfers were productive;
+* some transfers overreached;
+* the behavior is role-induced;
+* no stable actor-level cognitive operator follows;
+* no structural identity was established.
+
+**Stage-3 alternative-reading survival:** Yes, as Nova role behavior with false-analogy risk.
+
+---
+
+# 3. Corrected Registry Disposition
+
+## 3.1 NEW Reasoning, Protocol, or Architecture Candidates — 12
+
+1. Catastrophic Edge-Case Stress Test.
+2. Terminal-Ranking–Pursuit–Decision Separation.
+3. Adversarial Self-Check.
+4. Completeness and Imported-Value Audit.
+5. Analogy-Limit Detection.
+6. Proxy-Parameter Sensitivity Probe.
+7. Normative-Layer Separation.
+8. Recursive Higher-Reason Challenge.
+9. Charitable Opponent Reconstruction.
+10. Model-Inventory–Interpretive-Frame Separation.
+11. Variable-Sense Decomposition.
+12. Missing-Bridge Premise Identification.
+
+---
+
+## 3.2 Partial Named-Registry Implementations — 4
+
+1. **Metric-Conditional Hypothesis Pruning**
+   → partial auxiliary implementation of **Contested ≠ Defeated**.
+
+2. **Structural Analogy Transfer**
+   → partial co-constructed implementation of **Cross-Disciplinary Swooping**.
+
+3. **Reciprocal Rule and Victory-Condition Audit**
+   → partial role-induced implementation of **Symmetry Testing of Standards**.
+
+4. **Cross-Domain Unifier Role**
+   → partial role-induced implementation of **Cross-Disciplinary Swooping**.
+
+---
+
+## 3.3 Counter-Operations or Corrective Relations
+
+1. **Completeness and Imported-Value Audit**
+   → corrective relation to **Reconstruction Bypass**.
+
+2. **Charitable Opponent Reconstruction**
+   → corrective relation to **Reconstruction Bypass**.
+
+3. **Missing-Bridge Premise Identification**
+   → corrective relation to **Universalized Evaluative Jurisdiction**.
+
+4. **Analogy-Limit Detection**
+   → regulates **Cross-Disciplinary Swooping**.
+
+These relations do not convert the corrective operation into the pathology it prevents.
+
+---
+
+## 3.4 Possible Analogy Only
+
+1. **Adversarial Self-Check**
+   → possible packet-local analogy to **Possibility Preservation**.
+
+No registry match or durable Possibility Preservation operator follows.
+
+---
+
+## 3.5 Full MATCHES Verdicts
+
+**0**
+
+---
+
+## 3.6 Full EXTENDS Verdicts
+
+**0**
+
+Secondary corrective, diagnostic, and analogy relations overlap with primary classifications and are not additive totals.
+
+---
+
+# 4. Separated Actor and Artifact Ledgers
+
+## 4.1 Cautious Ziggy Profile Candidates — 3
+
+These are future-testing candidates, not durable traits.
+
+### 1. Terminal-Ranking–Pursuit–Decision Separation
+
+**Evidence:** Z-DIRECT
+**Confidence:** High
+**Source anchor:** “I’m insisting it’s the pursuit of the goal”; “Yes, there will be suffering along the way.”
+
+**Review condition:** Test whether Ziggy applies the distinction in independent cases, including when it weakens his own preferred conclusion.
+
+---
+
+### 2. Completeness and Imported-Value Audit
+
+**Evidence:** Z-DIRECT with CO-CONSTRUCTED refinement
+**Confidence:** Moderate-high
+**Source anchor:** “if this really is the true metric… how would this edge case… reconcile?”; “the principle alone is incomplete without a framework.”
+
+**Review condition:** Test only after the target criterion’s strength and function are established. Apply reciprocal accounting to Ziggy’s own framework before inferring superiority.
+
+---
+
+### 3. Analogy-Limit Detection
+
+**Evidence:** Z-DIRECT
+**Confidence:** High
+**Source anchor:** “when it comes to God, I understand how that’s a moral authority… that authority is more elusive to me.”
+
+**Review condition:** Require independent examples, particularly analogies favorable to Ziggy’s preferred position.
+
+---
+
+## 4.2 Packet-Local Ziggy Moves Below Profile Threshold — 4
+
+1. **Catastrophic Edge-Case Stress Test**
+2. **Adversarial Self-Check**
+3. **Metric-Conditional Hypothesis Pruning**
+4. **Proxy-Parameter Sensitivity Probe**
+
+### Controls
+
+* Catastrophic Edge-Case Stress Test is not promoted as a successful refutation.
+* Adversarial Self-Check is not promoted as reliably revision-producing.
+* Metric-Conditional Hypothesis Pruning remains auxiliary technical triage.
+* Proxy-Parameter Sensitivity Probe remains an auxiliary technical move.
+* The final two do not establish a general technical-reasoning trait.
+
+---
+
+## 4.3 Co-Constructed Analytic Artifacts — 2
+
+1. **Structural Analogy Transfer**
+2. **Normative-Layer Separation**
+
+Neither artifact becomes individual authorship without evidence of independent possession and deployment.
+
+---
+
+## 4.4 Grant Packet-Local G-QUOTED Move — 1
+
+1. **Recursive Higher-Reason Challenge**
+
+### Controls
+
+* Stable Grant operators: 0
+* Stable Grant motives: 0
+* G-QUOTED material remains unauthenticated and context-incomplete.
+* No “regress trap,” self-exemption, manipulation, or durable scoring behavior is established.
+
+---
+
+## 4.5 Nova Protocols and Role Behaviors — 6
+
+1. **Charitable Opponent Reconstruction**
+2. **Reciprocal Rule and Victory-Condition Audit**
+3. **Model-Inventory–Interpretive-Frame Separation**
+4. **Variable-Sense Decomposition**
+5. **Missing-Bridge Premise Identification**
+6. **Cross-Domain Unifier Role**
+
+These remain Nova-generated protocols or Nova role behavior. They do not become Ziggy or Grant operators.
+
+---
+
+# 5. Substantive and Technical Conclusions Remaining Quarantined
+
+Exactly eight conclusions remain quarantined.
+
+## 5.1 Grant’s criterion has a known sole, lexical, complete, decisive, heuristic, or metaethical status
+
+**Reason for quarantine:** The available descriptions are G-REPORTED and mutually non-equivalent.
+
+**Promotion evidence required:** Exact Grant wording identifying criterion type, strength, and intended practical function.
+
+---
+
+## 5.2 Grant’s reported criterion entails extinction
+
+**Reason for quarantine:** The derivation lacks:
+
+* exact criterion type;
+* suffering aggregation;
+* existing/future-person rules;
+* death/noncreation distinction;
+* positive-welfare treatment;
+* expected-harm analysis;
+* feasibility assumptions.
+
+**Promotion evidence required:** A derivation from Grant’s own premises establishing terminal preference and action authorization.
+
+---
+
+## 5.3 Grant’s expected-harm reply resolves the complete death-cult challenge
+
+**Reason for quarantine:** The reply may reject pursuit without resolving terminal population ethics.
+
+**Promotion evidence required:** A complete account of terminal ranking, existing and future persons, death, noncreation, positive welfare, and aggregation.
+
+---
+
+## 5.4 Suffering minimization constitutes ontology collapse
+
+**Reason for quarantine:** No direct evidence shows that Grant denies justice, dignity, consent, autonomy, agency, or their derivative importance.
+
+**Promotion evidence required:** Direct Grant material excluding those values from the moral domain rather than subordinating or deriving them.
+
+---
+
+## 5.5 Reciprocal Rule and Victory-Condition Audit defeats Grant
+
+**Reason for quarantine:** Reciprocal application may confirm a foundationalist thesis.
+
+**Promotion evidence required:** Grant’s intended victory meaning plus a demonstrated contradiction, illicit exemption, or incompatible scoring rule.
+
+---
+
+## 5.6 The KR4 attenuation mask is established as valid for the KR setup
+
+**Reason for quarantine:** Nova’s conclusion was unverified against authoritative documentation.
+
+**Promotion evidence required:** Governing-standard text, HyperLynx documentation, or vendor confirmation.
+
+---
+
+## 5.7 The fitted-attenuation mask has zero influence on COM
+
+**Reason for quarantine:** Passing fitted attenuation lowers direct-cause priority but does not establish the dependency graph.
+
+**Promotion evidence required:** Verified COM and fitted-attenuation calculation dependencies.
+
+---
+
+## 5.8 Grant’s complexity claim was defeated
+
+**Reason for quarantine:** Grant’s intended complexity and information measures remain UNKNOWN.
+
+**Promotion evidence required:** Exact Grant wording specifying whether the claim concerns rules, states, entropy, logical depth, computation, or microstate information.
+
+---
+
+# 6. Named Registry Candidates Not Established as Durable Actor Operators or Pathologies
+
+The bounded packet does not establish durable actor-level instances of:
+
+* **Prediction Sovereignty**
+* **Generative Admission Restriction**
+* **Unmeasured-to-Zero Conversion**
+* **Baseline Exemption**
+* **Contest-to-Defeat Compression**
+* **Possibility Compression**
+* **Reconstruction Bypass**
+* **Universalized Evaluative Jurisdiction**
+* durable **Possibility Preservation**
+
+### Controls
+
+* Secondary diagnostic resemblance is not an actor finding.
+* Corrective relations do not prove the pathology occurred.
+* Partial implementations of **Contested ≠ Defeated**, **Symmetry Testing of Standards**, and **Cross-Disciplinary Swooping** do not become durable actor promotions.
+
+---
+
+# 7. Stage-3 Availability Ledger
+
+No registry mapping completes an omitted operation.
+
+## 7.1 A3 Confirmed Informative Omissions — 6
+
+### A3-1 — Criterion-Type and Practical-Function Typing Before Catastrophic Scoring
+
+**Primary omitted performer:** Nova as analyst
+
+Required distinctions:
+
+* pro tanto reason;
+* sole intrinsic disvalue;
+* lexical priority;
+* criterion of rightness;
+* decision procedure;
+* institutional metric;
+* heuristic;
+* metaethical or grounding thesis.
+
+**Outcome effect:** Unsupported criterion-strength substitution broadened the apparent reach of the catastrophic case.
+
+---
+
+### A3-2 — Falsity–Incompleteness–Under-Specification Separation
+
+Required distinctions:
+
+* false axiology;
+* incomplete axiology;
+* missing decision procedure;
+* underspecified institutional implementation;
+* useful but limited theory.
+
+**Outcome effect:** “Needs a framework” was allowed to function as though it were already a refutation.
+
+---
+
+### A3-3 — Strongest Foundationalist Reconstruction and Victory-Meaning Audit
+
+Required reconstruction:
+
+> A hierarchy of rational revision either terminates in a basic commitment or continues indefinitely; discovering the terminal commitment may be Grant’s intended victory.
+
+Possible victory meanings:
+
+* foundation exists;
+* reason is immutable;
+* revision lacks justification;
+* regress continues;
+* conversational victory only.
+
+**Outcome effect:** The foundationalist reading was underweighted.
+
+---
+
+### A3-4 — Reason-Type Audit Before Regress Diagnosis
+
+Required distinctions:
+
+* normative reason;
+* motivating reason;
+* causal influence;
+* endorsed value;
+* psychological disposition;
+* same-level conflict;
+* coherence repair;
+* reflective-equilibrium revision.
+
+**Outcome effect:** Vertical revision was temporarily treated as exhaustive.
+
+---
+
+### A3-5 — Entropy–Description–State Distinction Before Counterexample Selection
+
+Required distinctions:
+
+* Shannon entropy;
+* thermodynamic entropy;
+* algorithmic complexity;
+* description length;
+* state information;
+* logical depth;
+* generating-rule simplicity;
+* behavioral complexity.
+
+**Outcome effect:** Compact generation was overstated as a general low-entropy demonstration.
+
+---
+
+### A3-6 — Cross-Domain Transfer Validity and Disanalogy Audit
+
+Required for each transfer:
+
+* exact shared relation;
+* relevant disanalogies;
+* comparable success conditions;
+* distinction between incompleteness and misrepresentation;
+* inferential rather than merely rhetorical contribution.
+
+**Outcome effect:** Several distinct problems were treated as one pattern.
+
+---
+
+## 7.2 A2 Explicitly Available Omissions — 3
+
+### A2-1 — Full Expected-Harm Internal Reply
+
+Temporarily grant a comparative expected-suffering decision procedure and test:
+
+* probability of success;
+* transition suffering;
+* uncertainty;
+* catastrophic error;
+* resistance;
+* opportunity cost;
+* alternative interventions.
+
+**Control:** May reject pursuit internally without resolving terminal population ethics.
+
+---
+
+### A2-2 — Symmetric Completeness Burden on Ziggy’s Own Moral Alternative
+
+Ask which values make extermination wrong for Ziggy:
+
+* rights;
+* consent;
+* autonomy;
+* dignity;
+* justice;
+* agency;
+* value of existing life;
+* non-domination;
+* uncertainty-sensitive restraints.
+
+Then ask whether they are foundational, derived, plural, or institutionally dependent.
+
+**Control:** Ziggy need not supply a complete replacement to identify a defect, but comparative superiority requires reciprocal accounting.
+
+---
+
+### A2-3 — Ontology/Frame Overlap Concession
+
+Preserve:
+
+* model ontologies may be frame-relative;
+* framing affects represented entities and properties;
+* ontology may mean conceptual scheme in Angles’s vocabulary;
+* Angles’s actual use remains Z-REPORTED and UNKNOWN.
+
+Do not preserve the claim that ontology defines what reality is allowed to be.
+
+---
+
+## 7.3 A1 Possible Informative Omissions — 8
+
+1. **Death–Noncreation–Empty-World Separation**
+2. **Formal Suffering Aggregation**
+3. **Impossible–Infeasible–Low-Probability Separation**
+4. **Positive Ziggy Rational-Revision Model**
+5. **Exact HyperLynx and Standards Jurisdiction Verification**
+6. **Dependency Audit Before Treating Fitted Attenuation as Moot**
+7. **Exact Parameter Location and Physical Correspondence**
+8. **Grant’s Intended Complexity Measure**
+
+The MIPS-to-lines issue remains outside the actor and operator dig.
+
+---
+
+# 8. A0 Evidence Packages
+
+These are evidence gaps, not actor failures.
+
+## A0-1 — Direct Grant Suffering-Criterion and Population-Ethics Package
+
+Missing:
+
+* exact criterion type and strength;
+* suffering definition;
+* aggregation rule;
+* positive welfare;
+* existing versus future persons;
+* death versus noncreation;
+* rights, consent, justice, and autonomy;
+* complete expected-harm calculation.
+
+---
+
+## A0-2 — Complete Grant Higher-Reason and Revision-Architecture Package
+
+Missing:
+
+* original context;
+* exact meanings of “higher reason,” “change,” and “win”;
+* response to same-level conflict;
+* response to coherentism and reflective equilibrium;
+* response to reciprocal application;
+* status of defeasible foundations.
+
+---
+
+## A0-3 — Direct Grant Complexity–Information Package
+
+Missing:
+
+* intended complexity measure;
+* intended information measure;
+* whether the claim concerns rules, states, microstates, entropy, computation, or logical depth.
+
+---
+
+## A0-4 — Direct Angles Ontology-Usage Package
+
+Missing:
+
+* Angles’s own wording;
+* whether ontology means represented inventory, conceptual scheme, frame, or worldview.
+
+---
+
+## A0-5 — Technical Documentation, Dependency, and Result Package
+
+Missing:
+
+* authoritative KR/KR4 mask jurisdiction;
+* HyperLynx dependency graph;
+* COM/fitted-attenuation interaction;
+* exact parameter topology;
+* AMI result;
+* capacitance-sweep result;
+* measurement or calibration comparison.
+
+---
+
+# 9. Relationship-Level Loops
+
+Exactly five loops are retained.
+
+## Loop 1 — Grant Compression → Ziggy Friction → Nova Expansion → Return Preparation
+
+1. Grant’s position enters through Ziggy’s compressed report.
+2. Ziggy identifies unresolved friction.
+3. Nova expands the dispute into distinctions and formulations.
+4. Ziggy prepares language for return to the live conversation.
+
+**Controls:**
+
+* compressed reporting is not a Grant trait;
+* Nova’s reconstruction is not Grant evidence;
+* no motive inference follows.
+
+---
+
+## Loop 2 — Ziggy Self-Doubt → Nova Mixed Audit/Reassurance → Revised Commitment
+
+1. Ziggy requests skepticism toward his own certainty.
+2. Nova offers limited contrary readings.
+3. Nova also provides substantial reassurance.
+4. Ziggy receives a more articulated formulation.
+
+**Controls:**
+
+* confidence change is not a measured psychological fact;
+* revised commitment means conversational reformulation;
+* robust adverse revision is not established.
+
+---
+
+## Loop 3 — Metaphor Proposal → Formalization → Limitation Check → Revision
+
+Examples:
+
+* problem of evil;
+* software without a host;
+* law without a judge;
+* ontology versus frame;
+* via as capacitance.
+
+**Controls:**
+
+* metaphor is not evidence;
+* formalization does not authenticate the metaphor;
+* limitation checking is required before inferential use.
+
+---
+
+## Loop 4 — Single-Criterion Claim → Hidden-Structure Expansion
+
+Compressed claims are expanded into additional structures:
+
+* suffering → population ethics, rights, decision rules, institutions;
+* higher reason → foundations, revision type, same-level conflict;
+* complexity → entropy, description, state information;
+* capacitance → distributed physical behavior.
+
+**Controls:**
+
+* hidden complexity does not invalidate every abstraction;
+* expansion may show incompleteness without falsity;
+* compactness is not itself a defect.
+
+---
+
+## Loop 5 — Cheap Technical Probe → Limitation Recognition → Deferred Higher-Fidelity Validation
+
+1. A quick wizard setting or parameter sweep is considered.
+2. Its representational limits are recognized.
+3. AMI, geometry changes, measurement, or another higher-fidelity method is deferred.
+
+**Controls:**
+
+* higher fidelity is not epistemically final;
+* no AMI result appears;
+* no capacitance-sweep result appears;
+* the loop is not an actor trait.
+
+---
+
+# 10. Source and Attribution Restrictions
+
+1. No G-QUOTED material becomes authenticated direct testimony.
+2. No Grant criterion receives unsupported strength.
+3. No corrective operation is identified with the pathology it corrects.
+4. No corrective operation extends that pathology.
+5. No possible analogy becomes a registry match.
+6. No partial implementation becomes a full match.
+7. No Stage-3 cautious candidate becomes profile-ready.
+8. No survival finding raises a promotion tier.
+9. No packet-local G-QUOTED move becomes a stable Grant operator.
+10. No catastrophic case becomes a refutation without derivation.
+11. No terminal ranking becomes an action recommendation automatically.
+12. No expected-harm reply settles terminal population ethics automatically.
+13. No incompleteness finding becomes falsity.
+14. No safeguard is classified as imported before derivability is tested.
+15. No abstract principle must be agentive.
+16. No metaphor supplies its conclusion.
+17. No reciprocal test becomes a complete revision theory.
+18. No model ontology determines reality.
+19. No passing metric proves zero indirect dependency.
+20. No proxy parameter becomes the full physical object.
+21. No compact rule establishes low entropy generally.
+22. No unidentified complexity measure is declared defeated.
+23. No formal limitation becomes physical determinism without a bridge.
+24. No cross-domain resemblance becomes structural identity.
+25. No Nova repair corroborates Ziggy.
+26. No reported motive becomes fact.
+27. No relationship loop becomes a trait.
+28. No A0 evidence gap becomes actor failure.
+29. No peripheral MIPS or tanker issue enters the operator ledger.
+30. No X-CONTEXT notice is used as evidence.
+
+---
+
+# 11. Extraction Self-Audit
+
+## 11.1 Corrective operation identified with pathology
+
+**Risk:** A move preventing Reconstruction Bypass or Universalized Evaluative Jurisdiction was previously mapped as though it instantiated or extended the pathology.
+
+**Correction:**
+
+* Completeness and Imported-Value Audit is a counter-operation to Reconstruction Bypass.
+* Charitable Opponent Reconstruction is a counter-operation to Reconstruction Bypass.
+* Missing-Bridge Premise Identification is a counter-operation to Universalized Evaluative Jurisdiction.
+
+---
+
+## 11.2 Corrective operation labeled as an extension of pathology
+
+**Risk:** “EXTENDS” reversed the functional direction.
+
+**Correction:** All three corrective relations now remain secondary and non-additive. Their primary verdict is NEW.
+
+---
+
+## 11.3 Partial implementation promoted to full match
+
+**Risk:** Partial analogues were previously labeled MATCHES.
+
+**Correction:** Four partial implementations are retained, with zero full MATCHES verdicts.
+
+---
+
+## 11.4 Role behavior converted into actor cognitive operator
+
+**Risk:** Nova’s Cross-Domain Unifier behavior could be mistaken for a stable cognitive operator.
+
+**Correction:** It remains NOVA ROLE BEHAVIOR and only a partial role-induced implementation of Cross-Disciplinary Swooping.
+
+---
+
+## 11.5 Co-construction converted into individual authorship
+
+**Risk:** Structural Analogy Transfer and Normative-Layer Separation could be assigned to Ziggy or Nova alone.
+
+**Correction:** Both remain CO-CONSTRUCTED analytic artifacts.
+
+---
+
+## 11.6 Adversarial Self-Check forced into Possibility Preservation
+
+**Risk:** Preserving one’s own fallibility was treated as the same operation as preserving low-plausibility hypotheses.
+
+**Correction:** Adversarial Self-Check is NEW. Possibility Preservation is only a possible packet-local analogy.
+
+---
+
+## 11.7 Metric-Conditional Pruning promoted beyond technical triage
+
+**Risk:** A single troubleshooting reprioritization could become a durable epistemic trait.
+
+**Correction:** It remains an auxiliary packet-local Ziggy move and only a partial implementation of Contested ≠ Defeated.
+
+---
+
+## 11.8 Structural Analogy Transfer treated as automatically illicit
+
+**Risk:** Cross-Disciplinary Swooping could be read as inherently defective.
+
+**Correction:** The transfer was productive but required disanalogy correction. No automatic illegitimacy or identity follows.
+
+---
+
+## 11.9 Reciprocal application treated as proof Grant fails
+
+**Risk:** Symmetry testing was treated as a completed refutation.
+
+**Correction:** Self-application may confirm foundationalism. No completed symmetric verdict was reached.
+
+---
+
+## 11.10 Missing-Bridge identification treated as jurisdictional overreach
+
+**Risk:** The corrective protocol was identified with the extension it blocks.
+
+**Correction:** Missing-Bridge Premise Identification is NEW and counter-operational.
+
+---
+
+## 11.11 Cautious profile candidate relabeled profile-ready
+
+**Risk:** Stage-3 candidates were elevated into durable profile claims.
+
+**Correction:** Only the term **Cautious Ziggy profile candidates** is retained. All three remain future-testing candidates.
+
+---
+
+## 11.12 Stage-2 classification substituted for Stage-3 promotion tier
+
+**Risk:** Earlier move classifications were presented as current promotion status.
+
+**Correction:** Every Ziggy mapping now uses the final Stage-3 promotion tier.
+
+---
+
+## 11.13 Accepted packet-local moves mixed with quarantined substantive conclusions
+
+**Risk:** A reasoning move’s existence was confused with the truth of the conclusion it supported.
+
+**Correction:** Actor/artifact ledgers and substantive-conclusion quarantine are separated.
+
+---
+
+## 11.14 Stage-3 availability ledger omitted
+
+**Risk:** Registry mapping displaced the omission findings.
+
+**Correction:** A3, A2, A1, and A0 ledgers are restored with final corrected counts.
+
+---
+
+## 11.15 Relationship loops omitted
+
+**Risk:** Stage 4 could become only an operator registry.
+
+**Correction:** All five approved interaction-level loops are restored with trait-conversion controls.
+
+---
+
+## 11.16 Technical interpretations treated as documented facts
+
+**Risk:** Nova’s KR/KR4, COM, receiver, capacitance, and AMI statements could be elevated through repetition.
+
+**Correction:** Technical conclusions remain unverified and quarantined where required.
+
+---
+
+## 11.17 UNKNOWN converted into actor findings
+
+**Risk:** Source gaps concerning Grant or Angles could become profile claims.
+
+**Correction:** UNKNOWN remains preserved for:
+
+* Grant’s criterion;
+* suffering aggregation;
+* population ethics;
+* higher-reason meanings;
+* victory meaning;
+* complexity measure;
+* Angles’s ontology use;
+* technical dependencies and outcomes.
+
+---
+
+# 12. Final Counts
+
+* **Cautious Ziggy profile candidates:** 3
+* **Packet-local Ziggy moves below profile threshold:** 4
+* **Co-constructed analytic artifacts:** 2
+* **Grant packet-local G-QUOTED moves:** 1
+* **Stable Grant operators:** 0
+* **Stable Grant motives:** 0
+* **Nova protocols and role behaviors:** 6
+* **Relationship-level loops:** 5
+* **A3 confirmed informative omissions:** 6
+* **A2 explicitly available omissions:** 3
+* **A1 possible informative omissions:** 8
+* **A0 evidence packages:** 5
+* **NEW reasoning/protocol/architecture candidates:** 12
+* **Partial named-registry implementations:** 4
+* **Full MATCHES verdicts:** 0
+* **Full EXTENDS verdicts:** 0
+* **Substantive and technical conclusions quarantined:** 8
+
+Secondary corrective, diagnostic, and analogy relations overlap with primary classifications and are not additive.
+
+---
+
+# 13. Archival Disposition
+
+* Stages 1, 2, and 3 remain unchanged.
+* This document supersedes the prior Stage-4 extraction.
+* The supplied registry was used only for mapping and not as actor evidence.
+* No Stage-3 promotion tier was increased.
+* Three Ziggy findings remain cautious future-testing profile candidates.
+* Four Ziggy findings remain packet-local and below profile threshold.
+* Two findings remain co-constructed analytic artifacts.
+* Grant retains one packet-local G-QUOTED move.
+* Stable Grant operators remain 0.
+* Stable Grant motives remain 0.
+* Six Nova items remain protocols or role behaviors.
+* Four moves receive partial named-registry implementation status.
+* No move receives a full MATCHES or EXTENDS verdict.
+* Eight substantive or technical conclusions remain quarantined.
+* The signal-integrity and modeling track remains auxiliary and technically unverified.
+* MIPS and tanker exchanges remain outside the actor and operator ledger.
+* No X-CONTEXT material was used.
+
+DIG_COMPOUND_21_suffering_minimization_catastrophic_pursuit_normative_completeness_and_reason_regress
+
+STAGE 4 COMPLETE AFTER FINAL REGISTRY-DIRECTION, PROMOTION-TIER, LEDGER-SEPARATION, AND ARCHITECTURE PATCH
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 CORRECTED OUTPUT + FINAL CLOSURE (Nova, 2026-07-20)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-4 record**, read together with the overlays here. This
+> closes SWEEP_21.
+
+**✅ VERDICT: ACCEPTED — STAGE 4 COMPLETE AFTER FINAL REGISTRY-
+DIRECTION, PROMOTION-TIER, LEDGER-SEPARATION, AND ARCHITECTURE PATCH;
+DIG STATUS: COMPLETE; no further patch required.** Every prior
+directional reversal corrected: Completeness and Imported-Value
+Audit, Charitable Opponent Reconstruction, and Missing-Bridge Premise
+Identification all stand as `NEW` counter-operations to Reconstruction
+Bypass / Reconstruction Bypass / Universalized Evaluative Jurisdiction
+respectively — none identified with the pathology it corrects.
+Adversarial Self-Check stands as possible-analogy-only, never a
+Possibility Preservation match. The four partial implementations
+(Metric-Conditional Hypothesis Pruning → Contested ≠ Defeated;
+Structural Analogy Transfer → Cross-Disciplinary Swooping; Reciprocal
+Rule and Victory-Condition Audit → Symmetry Testing of Standards;
+Cross-Domain Unifier Role → Cross-Disciplinary Swooping) each stay
+bounded — partial implementation ≠ full registry match, co-
+construction ≠ individual authorship, role-induced performance ≠
+durable actor operator. **Full MATCHES: 0 · Full EXTENDS: 0.**
+
+**⚖️ PROMOTION TIERS HOLD:** **3 cautious Ziggy profile candidates**
+(Terminal-Ranking–Pursuit–Decision Separation; Completeness and
+Imported-Value Audit; Analogy-Limit Detection — future-testing
+candidates, never durable traits) · **4 packet-local moves below
+profile threshold** (Catastrophic Edge-Case Stress Test; Adversarial
+Self-Check; Metric-Conditional Hypothesis Pruning; Proxy-Parameter
+Sensitivity Probe — last two auxiliary) · **2 co-constructed
+analytic artifacts** (Structural Analogy Transfer; Normative-Layer
+Separation) · **1 Grant packet-local G-QUOTED move** (Recursive
+Higher-Reason Challenge — 0 stable Grant operators · 0 stable Grant
+motives) · **6 Nova protocols and role behaviors**. No material
+silently crossed ledgers.
+
+**⚖️ AVAILABILITY ARCHITECTURE HOLDS:** A3: 6 · A2: 3 · A1: 8 · A0: 5
+evidence packages — registry naming completes none of the central
+open operations (typing Grant's criterion; fully granting the
+comparative expected-harm reply within the pursuit branch;
+distinguishing death/noncreation/empty-world ranking; reconstructing
+the strongest foundationalist reading of the higher-reason challenge;
+typing "reason"/"change"/"win"; Ziggy's positive rational-revision
+architecture; the technical documentation/dependency/result package).
+
+**⚖️ SUBSTANTIVE QUARANTINE HOLDS (8 conclusions):** Grant's criterion
+strength/function UNKNOWN; extinction not established as entailed by
+Grant's criterion; the expected-harm reply not established as
+resolving the complete challenge; suffering minimization not
+established as "ontology collapse"; the reciprocal audit not
+established as defeating Grant; the KR4 mask's validity for the KR
+setup not established; zero COM influence from fitted attenuation not
+established; Grant's complexity claim not established as defeated.
+**Existence of a reasoning move ≠ truth of the conclusion pursued
+through it.** All five relationship loops restored with controls
+intact.
+
+**📜 FOR THE RECORD:** SWEEP_21 required repair at Stages 2, 3, AND 4
+— the archive's **fourth triple-cycle dig** (after SWEEP_18, SWEEP_19,
+and SWEEP_20), and it also carries the **unauthorized Stage-4-draft
+append incident** at Stage 3 (an extractor self-executing an
+unrequested stage, caught and quarantined before contaminating
+anything downstream) — Failure-Atlas-adjacent material alongside the
+detector-vs-disease pattern's continuing recurrence.
+
+**🎯 The dig's final philosophical pressure point:** a moral theory's
+ranking of an empty world, its authorization of extinction-oriented
+pursuit, its realistic decision procedure, and its institutional
+consequences are separate questions. Grant's reported expected-harm
+reply may answer the pursuit question without settling the terminal
+ranking. Likewise, Grant's quoted higher-reason challenge may expose
+foundational commitments without proving that terminal reasons are
+immutable or that all rational revision must proceed vertically.
 
 ---
 

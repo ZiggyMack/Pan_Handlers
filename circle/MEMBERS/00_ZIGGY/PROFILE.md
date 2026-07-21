@@ -383,6 +383,33 @@ yet (IT-126) — a corrective operation is not thereby an instance of
 the pathology it corrects — alongside the "cautious candidate quietly
 becoming profile-ready" slip, caught for the second straight dig.
 
+**The suffering-minimization and regress layer (SWEEP_21 — the
+archive's fourth triple-cycle dig, and a new incident class):** three
+cautious profile candidates — **Terminal-Ranking–Pursuit–Decision
+Separation** (the death-cult extinction counterexample split into
+terminal world ranking, pursuit authorization, realistic decision
+procedure, and institutional implementation — Grant's reported
+expected-suffering reply may answer the pursuit branch without
+settling the terminal-ranking branch, IT-128), **Completeness and
+Imported-Value Audit** (counter-operation to Reconstruction Bypass —
+a foundational value need not contain its whole implementation
+procedure), and **Analogy-Limit Detection** (⭐ Ziggy catches his own
+favorable analogy overreaching: God is agentive, a metric is an
+abstract standard, and responsibility does not transfer automatically
+— the renamed Catastrophic-Permission/Internal-Adequacy Challenge) —
+plus four packet-local moves below profile threshold (Catastrophic
+Edge-Case Stress Test; Adversarial Self-Check; Metric-Conditional
+Hypothesis Pruning and Proxy-Parameter Sensitivity Probe, both
+auxiliary). Grant's higher-reason regress challenge (G-QUOTED) was
+repaired the same way SWEEP_20 repaired the God/brute-fact trilemma:
+*"no higher reason" does not entail "unchangeable," and foundation
+does not imply immutability* (IT-129) — Nova's reciprocal self-
+application pressures the game's consistency without refuting it.
+This dig also carries a **new incident class**: the extractor
+self-executed an unrequested Stage 4 inside its Stage-3 reply,
+without ever being sent the Stage-4 prompt — caught and quarantined
+before contaminating anything downstream.
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
@@ -452,8 +479,12 @@ one packet); **the audit exempted its own proposal** (SW20, confirmed
 A3 — the Foundation-Symmetry Demand requires every worldview's
 primitives and stopping rules on one ledger, but the God proposal was
 initially treated as costing nothing; a complete theistic ledger was
-never produced until pressed, IT-077). Candidate charter theme
-"over-generation / insufficient pruning" has not yet been directly
-tested — the opening research question stands.
+never produced until pressed, IT-077); **the completeness burden
+applied one-sidedly** (SW21, confirmed A2 — Grant's suffering
+criterion was required to exclude catastrophe using only internal
+resources or admit imported values, but Ziggy's own moral alternative
+was never put through the same completeness audit, IT-128). Candidate
+charter theme "over-generation / insufficient pruning" has not yet
+been directly tested — the opening research question stands.
 
 *(Formal sections B–L still await Phase 2; this ledger feeds them.)*
