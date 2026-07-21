@@ -334,6 +334,29 @@ consequence, attribution, and wording robustness are separate
 targets — the dispute fails when either side changes targets without
 relabeling.*
 
+**The lens-availability layer (SWEEP_19 — the second triple-cycle
+dig, and the detector-vs-disease pattern crystallizes):** three
+cautious profile candidates — **Weak/Strong Thesis Separation**
+(never applied to the starting-whole framework itself, confirmed
+A3), **Interpretive Goal–Outcome Audit** (Grant's active goal never
+fixed before scoring, confirmed A3), and
+**Origin–Endorsement–Revision–Justification Separation** (the
+sufficient modest thesis: reflective reorganization without
+libertarian freedom) — plus eight strong packet-local moves,
+anchored by the **lens-capability ladder** (possession ≠ access ≠
+salience ≠ selection ≠ deployment, IT-124) and the corrected
+**unconscious argument** (epistemic, not ontological — the
+Whole-Mastery Interpretation stays quarantined across all four
+stages, IT-125). ⭐ **The Self-Adversarial Audit is the layer's
+strongest positive finding** — turning scrutiny toward his own
+fairness, anger, and use of "pedantic" — ruled *initiated
+self-scrutiny, not proven self-correction* (a partial inward symmetry
+application; ending in reassurance is not the completed operation).
+The Stage-4 chain concentrated the archive's clearest statement of
+its most recurring extractor failure: **a method that detects a
+pathology is not thereby an instance of that pathology** (IT-126) —
+four separate instances in one output, the seventh consecutive dig.
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
@@ -393,8 +416,14 @@ warrant* still open); **selective source discipline** (SW18,
 confirmed A3 — Voynich-level local verification demanded of Nova
 while the Tale dispute's primary sources went unrecovered; the
 selective-deployment qualifier now travels with the
-source-verification candidate). Candidate charter theme
-"over-generation / insufficient pruning" has not yet been directly
-tested — the opening research question stands.
+source-verification candidate); **demonstrated operations left
+unfinished at the point they mattered** (SW19, confirmed
+A3-1/A3-2/A3-3 — Weak/Strong Thesis Separation never reached the
+starting-whole framework; the Goal–Outcome Audit never fixed Grant's
+active goal before scoring; the Clarification Audit never ran its own
+before/after test — the tool was in hand, half-used, three times in
+one packet). Candidate charter theme "over-generation / insufficient
+pruning" has not yet been directly tested — the opening research
+question stands.
 
 *(Formal sections B–L still await Phase 2; this ledger feeds them.)*

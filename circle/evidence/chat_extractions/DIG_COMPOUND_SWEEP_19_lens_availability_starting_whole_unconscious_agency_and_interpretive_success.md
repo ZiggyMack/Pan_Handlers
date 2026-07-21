@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stages 1–3 ✅ reviewed; **Stage 2 = the SIXTEENTH cycle (with the first EXECUTION-FAILURE incident — "execution was replaced by commentary about execution"); Stage 3 = the SEVENTEENTH cycle** (a new A3 form minted: *the demonstrated operation, incompletely applied at the live site*; new A2 case law: *appreciation + an ended thread ≠ bypass* — follow-through belongs in A0; six A3s downgraded via neighboring competence); final ledger **3 A3 · 0 A2 · 10 A1 · 5 A0 evidence packages · 0 Grant anything**; two archival edits binding (transformation instructions ≠ evidentiary corpus — now settled practice; Loop 1 softened to consequence-to-representation drift); ACCEPTED — READY FOR STAGE 4; Stage 4 pending
+**Status:** ✅ CLOSED (COMPLETE) — Stages 1–4 reviewed; **SWEEP_19 is the archive's SECOND triple-cycle dig** (cycles 16/17/18 at Stages 2/3/4); Stage 2 = the first EXECUTION-FAILURE incident; Stage 3 = a new A3 form + new A2 case law; Stage 4 = the registry-direction error's most concentrated occurrence (four corrections in one output — the SEVENTH consecutive dig with this failure mode); final ledger **3 cautious profile candidates · 8 strong packet-local moves · 3 A3 · 0 A2 · 10 A1 · 5 A0 · 0 Grant anything**; raw captures at `4e57618`/`3a6ea82`/`05657ba`/`020d73f`
 <!-- Ladder: EMPTY → IN PROGRESS → COMPLETE (all 4 outputs pasted) → FILED (promoted into profiles) -->
 
 **Discovered topic:** Grant's reported "available lenses" and "starting whole" claims — the nine-rung lens-capability ladder; the starting whole's five readings; the two-axis Jung model (literal/nonliteral ⊥ conscious/unconscious); unconscious opacity as epistemic (never ontological) argument; origin/ownership/control/justification; Tale's repeated speaker-corrections as the interpretive success test; the suffering-language four ledgers; "pedantic" operationalized; ⭐ Ziggy's adversarial self-audit
@@ -8104,9 +8104,69 @@ The most vulnerable judgments are:
 * Evaluative-Premise Audit **MATCHES Baseline Exemption** because premise exposure is directly supported, while jurisdictional extension is not sufficiently reconstructed.
 * Interpretive Goal–Outcome Audit **EXTENDS Reconstruction Bypass** because reconstructing the method’s purpose is prerequisite to performance scoring, while its goal-specific outcome architecture goes further.
 
-----
-after patch
---------
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 (Nova, 2026-07-18) — REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — eighteenth full self-correction cycle**, the third
+> inside this dig — **SWEEP_19 is the archive's SECOND triple-cycle
+> dig** (after SWEEP_18). The Stage-4 output ABOVE is **SUPERSEDED**
+> — retained as pasted; nothing in it may be used downstream except
+> through the corrected reissue below. The operator-issued STAGE 4
+> FINAL REGISTRY-DIRECTION, PROMOTION-TIER, AND ARCHITECTURE PATCH
+> command is condensed here (verbatim in the relay; raw capture at
+> commit `020d73f`).
+
+**Verdict: PASS WITH MATERIAL REGISTRY-DIRECTION, PROMOTION-TIER, AND
+ARCHITECTURE REPAIR — DO NOT RERUN STAGES 1–3; DO NOT ARCHIVE THIS
+VERSION.** The registry-direction error at Stage 4 for the **SEVENTH
+consecutive dig** — the exact detector-vs-disease pattern, at its
+most concentrated: four separate mappings confused a corrective or
+diagnostic operation with the pathology it guards against, in one
+Stage-4 output. The load-bearing correction: *a method that detects a
+pathology is not thereby an instance of that pathology.*
+
+**⚠️ THE FOUR CORRECTIONS:** Framework Stress-Test and Dimensional
+Repair → **possible packet-local overlap ONLY in the initial import
+phase** with Cross-Disciplinary Swooping (the counterexample,
+dimensional repair, and scope restriction actively CORRECT the
+swooping risk — never EXTENDS it); Assumption-Exposure Reversal →
+**partial packet-local implementation** of Symmetry Testing (not a
+full MATCHES — no reciprocal inventory, equal warrant, or acceptance
+of unfavorable comparison), with only a **diagnostic relation** to
+Baseline Exemption; **Interpretive Goal–Outcome Audit → COUNTER-
+OPERATION / CORRECTIVE RELATION to Reconstruction Bypass** (it
+reconstructs the method's goal BEFORE scoring — it does not extend
+the bypass, and Grant's declared goal stays unavailable, so no
+pathology is demonstrated either); **Evaluative-Premise Audit →
+DETECTOR / CORRECTIVE RELATION to Baseline Exemption** (asking
+whether an exemption exists is not itself the exemption — Grant never
+directly claimed neutrality or concealed a premise in this bounded
+packet). Self-Adversarial Audit → **partial inward application /
+potential completion path** toward Symmetry Testing (turning
+scrutiny inward is real; ending in reassurance without a substantive
+loss or revision is not yet the completed operation).
+
+**🛑 THE UNAUTHORIZED PROMOTION CAUGHT AGAIN:** the "Profile-Ready
+Claims" heading renamed **Cautious Ziggy profile candidates** — Stage
+3 approved three items at that tier (Weak/Strong Thesis Separation;
+Interpretive Goal–Outcome Audit; Origin–Endorsement–Revision–
+Justification Separation); none becomes a stable trait merely because
+Stage 4 can name it fluently.
+
+**📋 ARCHITECTURE ORDERED RESTORED:** the eight-family structure, the
+Stage-3 availability ledger (3 A3 · 0 A2 · 10 A1 · 5 A0), all seven
+relationship loops, and the separated actor/protocol/rhetoric/
+quarantine ledgers — none of which survived into the superseded
+output.
+
+---
+
+### ⏬ STAGE 4 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 4
 
 ## 0. Source Boundary and Attribution Controls
@@ -9762,6 +9822,69 @@ DIG_COMPOUND_19_lens_availability_starting_whole_unconscious_agency_and_interpre
 
 STAGE 4 COMPLETE AFTER FINAL REGISTRY-DIRECTION, PROMOTION-TIER, AND ARCHITECTURE PATCH
 
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 CORRECTED OUTPUT + FINAL CLOSURE (Nova, 2026-07-18)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-4 record**, with two minor archival edits binding: (1)
+> evidentiary corpus vs mapping/transformation inputs separated (the
+> prior Stage-4 extraction, the candidate registry, and the repair
+> directive are inputs, never actor evidence — the third occurrence
+> of this refinement across this dig, now fully settled practice);
+> (2) Loop 1 softened to *consequence-to-representation drift*
+> (matching SW19's Stage-3 edit — Grant deriving a consequence ≠
+> Ziggy hearing it as attribution ≠ Grant actually asserting Tale
+> believes it).
+
+**✅ FINAL VERDICT: ACCEPTED WITH TWO MINOR ARCHIVAL WORDING
+CORRECTIONS — STAGE 4 COMPLETE AFTER FINAL REGISTRY-DIRECTION,
+PROMOTION-TIER, AND ARCHITECTURE PATCH; DIG COMPLETE — CLOSED.** "A
+method detecting a pathology is no longer classified as the
+pathology itself."
+
+**📋 FINAL LEDGER:** 8 governing families · **3 cautious profile
+candidates · 8 strong packet-local moves · 5 lower-tier items · 1
+quarantined interpretation** · **3 A3 · 0 A2 · 10 A1 · 5 A0** · **0
+Grant anything** · 3 Nova protocol/role findings · 7 relationship
+loops. Registry: **10 NEW · 1 partial packet-local implementation · 0
+full MATCHES · 0 EXTENDS · 10 named candidates NOT demonstrated.**
+
+**⭐ THE THREE CAUTIOUS PROFILE CANDIDATES (queue-filed, never
+promoted):** Weak/Strong Thesis Separation; Interpretive
+Goal–Outcome Audit; Origin–Endorsement–Revision–Justification
+Separation. Eight strong packet-local moves round out the ledger,
+including Framework Stress-Test and Dimensional Repair (the
+self-corrective sequence that outgrows its own cross-disciplinary
+import) and Self-Adversarial Audit (turning scrutiny inward — a
+partial symmetry path, not yet a completed one).
+
+**🛑 PLOW-THROUGH NOTE (archive steward):** all candidates file as
+queue items — no lexicon promotion without bounded confirmation.
+This close is the **18th consecutive zero-promotion sweep**.
+
+**📜 FOR THE RECORD:** SWEEP_19 closed through the archive's
+**sixteenth, seventeenth, and eighteenth self-correction cycles — the
+SECOND triple-cycle dig** (after SWEEP_18), carrying the first
+EXECUTION-FAILURE incident (Stage 2), a new A3 form and new A2 case
+law (Stage 3), and the registry-direction error's most concentrated
+occurrence yet — four corrections in one Stage-4 output, the
+**seventh consecutive dig** with this failure mode. The permanent
+formulation: *a method that detects a pathology is not thereby an
+instance of that pathology. Reconstructing a method's goal counters
+Reconstruction Bypass; exposing hidden evaluative premises counters
+Baseline Exemption; and turning criticism inward is only a partial
+symmetry operation until it produces an actual loss or revision.*
+
+**🎯 The finished prey:** possession is not access; access is not
+salience; salience is not selection; and selection is not competent
+deployment. Speaker correction updates intended-position attribution
+without erasing wording consequences, while exposing assumptions on
+both sides does not establish equal warrant.
 
 ---
 
