@@ -85,3 +85,20 @@ Up to two files per member:
 
 Both cross-link the member's real profile at the top for the
 side-by-side read.
+
+## Roster (2026-07-21)
+
+| Person | STRAWMAN (Ziggy's opinion) | GRADUATED (archive data) | Real member profile |
+| --- | --- | --- | --- |
+| Grant (01) | ✅ filled in | ✅ filled in | `MEMBERS/01_GRANT/PROFILE.md` — 0 stable operators after 22 digs |
+| Angles (03) | 🔲 skeleton, awaiting dictation | ✅ filled in | `MEMBERS/03_ANGLES/PROFILE.md` — stub, Phase 3 not started |
+| Tale Recursion (02) | 🔲 skeleton, awaiting dictation | ✅ filled in | `MEMBERS/02_TALE_RECURSION/PROFILE.md` — stub, Phase 3 not started |
+| Tom | 🔲 skeleton, awaiting dictation | ✅ filled in | none — membership decision pending |
+| Sorta | 🔲 skeleton, awaiting dictation | ✅ filled in | none — membership decision pending |
+| Kee | 🔲 skeleton, awaiting dictation | ✅ filled in | none — membership decision pending |
+| Tapioca | 🔲 skeleton, awaiting dictation | ✅ filled in | none — membership decision pending |
+
+**Not included:** Hugz, Sassy, Snow White, Chrome — zero material has
+touched any of them in any dig, so there is nothing to build a
+strawman *or* a graduated version against yet. They'll join this
+roster the first time a dig actually touches them.
