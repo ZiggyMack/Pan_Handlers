@@ -70,6 +70,82 @@ and nothing about his own metaphysics, his DCT formulation, or his
 God-classification has ever been put on the table the way he demands
 of others.
 
+**The epistemic self-portrait, seen across the wider archive.** Beyond
+the eight formally sourced claims above, the same picture of Grant
+recurs dig after dig in Ziggy's own paraphrase, never rising to a
+formal source ID but consistent enough to be worth stating: prediction
+functions for him as something close to an "ultimate axiom," fused to
+a justification-centrism where metaphysics has to answer to
+epistemology rather than the other way around. The sharpest reported
+formulation: *"religion is not a real axiom... since it does have
+predictive power"* — on this view, a claim that generates testable
+predictions has already disqualified itself from foundational,
+presupposed status. His moral core reads the same way across many
+digs — suffering-minimization as "the compass" — but it isn't frozen:
+by one later report, he conceded *"there is a whole other host of
+things that have to be baked in,"* moving from resisting cooperation
+as a rival metric toward something more layered. None of this is
+G-DIRECT; it's the stable shape Ziggy's reports keep taking, nothing
+more.
+
+**A direct tension worth sitting with.** Ziggy's own dictated read
+below (see "Ziggy's direct read") states plainly that Grant's moral
+compass is suffering-minimization, full stop. But one reported
+exchange has Grant asked point-blank whether he uses suffering as his
+moral compass — and his reported answer was *"I never said I was."*
+The archive's own verdict on that exchange: repeated use of a metric
+in argument doesn't establish that the metric is held as foundational,
+and this charge formally did not survive review. That's not a small
+footnote — it's the strawman's own headline claim about Grant meeting
+a reported direct denial from Grant, unresolved, sitting in the same
+file.
+
+**Debate style, in wider color.** Ziggy's running impression, tracked
+explicitly as a behavioral pattern rather than a moral verdict:
+*"it just seems he always has a way to call somebody dishonest, even
+if they're in error."* The reported mechanism: Grant poses a
+hypothetical (often a divine-command scenario — would you obey a
+command to do something atrocious?), fixes one frame as binding, then
+presses a strict conditional until a contradiction is forced. The
+earliest archive example runs the same shape in miniature: a
+twelve-step problem-of-evil syllogism, met with a terse, total denial
+— *"False. I did not argue that CT is internally inconsistent."* A
+much later dig shows the same instinct from the inside, in his own
+words about method: *"I can only choose the lens that I have"* —
+willing to deconstruct someone else's literal wording for its
+implications even after they deny meaning it, while conceding lenses
+can shift with context. A separate, weakly-grounded label — Nova
+repeatedly tagging Grant "logical positivism" or "analytic
+philosophy," tied to a never-examined thread called "Grant and
+Positivism" — has been flagged by the archive's own quality control as
+an interpretive overlay, not evidence, and stays out of this picture
+except as a lead worth chasing.
+
+**Two charges tested and rejected, on the record.** Worth naming
+because they show the discipline cuts against convenient reads too:
+asked why a self-identified compatibilist would resist calling a
+likelihood-ranking a "decision," the compatibilist-inconsistency
+charge was ruled not established — a compatibilist need not claim
+beliefs are directly chosen. And separately from the moral-compass
+denial above, Grant is reported accepting the underlying concept of
+"acting under uncertainty" while resisting the specific word "faith,"
+not because he rejects the idea but because he's pricing the
+*communicative cost* of a word he thinks invites misunderstanding —
+neither side wins by controlling the dictionary.
+
+**The relationship pattern with Ziggy, across four separate loops.**
+AI-mediated exchanges reportedly raise Ziggy's own precision while
+raising Grant's fatigue — the method sharpens one side and tires the
+other. A recurring lexical fight over the word "decision" never gets
+resolved by either side dropping it. A formal-premise dispute in which
+neither party ever agrees on the actual jurisdiction under debate —
+Ziggy reads it as frame control, Grant reads it as evasion, and no
+shared ground is established either way. And one clean exception to
+all of that friction: when Grant directly asked about AI influence on
+Ziggy's arguments and Ziggy disclosed transparently, Grant reportedly
+recalibrated his trust *positively* — the one fully warm entry in the
+whole Ziggy–Grant relationship record.
+
 **Trust in the AI-mediation channel is real but conditional.** Grant
 has directly and positively distinguished Ziggy's integrated, critical
 use of AI tools from "unfiltered AI output" — a genuine, specific vote
@@ -92,6 +168,14 @@ keeps showing up instead, across sources that have nothing else in
 common, is closer to *disciplined epistemic gatekeeping with a
 formalist's instinct for closing doors* than anything resembling the
 predicted failure modes.
+
+*The wider-color material above is compiled from Ziggy's reports
+across `DIG_01`, `SW02`–`SW09`, `SW13`, `SW15`, `SW17`, `SW19`,
+`AUX00/03/07`, and `../RELATIONSHIP_MAP.md` — none of it G-DIRECT,
+none of it cleared for a formal source ID, and all of it subject to
+the standing Operator Grant-Simulation disclosure: Ziggy has said he
+sometimes plays Grant's role in unlabeled tests of Nova, so any of
+this could be report, reconstruction, or performance.*
 
 ## Ziggy's direct read
 
