@@ -34,6 +34,25 @@ process worth reckoning with. If they look very different — in
 confidence, in specificity, in what gets asserted as fact versus left
 `UNKNOWN` — that difference *is* the demonstration.
 
+## Three points, not two
+
+There's a middle artifact between opinion and sterile record:
+`GRADUATED_<MEMBER>.md`. Where the strawman is Ziggy's opinion with
+zero grounding, the graduated version is the *actual* archive
+data — real source IDs, real quotes — written up as a confident
+profile by simply skipping the promotion discipline (no requirement
+for independent recurrence, cross-extractor confirmation, or the
+member's own direct answers) and treating every queued candidate as
+if it had already graduated. It's still traceable to sources; it just
+hasn't earned what the real profile requires to assert the same
+things.
+
+```text
+STRAWMAN_<MEMBER>.md           →  Ziggy's opinion, ungated, no receipts
+GRADUATED_<MEMBER>.md           →  real data, ungated promotion
+MEMBERS/<NN_MEMBER>/PROFILE.md  →  earned through the full pipeline
+```
+
 ## Status
 
 **Scaffolding stood up 2026-07-21. Not yet polished, not yet
@@ -54,7 +73,15 @@ casual guardrails.
 
 ## File format
 
-One file per member: `STRAWMAN_<MEMBER>.md`. No required structure —
-this is meant to be typed the way an unfiltered opinion actually
-occurs, not organized like a profile. If a member's real profile
-already exists, cross-link it at the top for the side-by-side read.
+Up to two files per member:
+
+- `STRAWMAN_<MEMBER>.md` — Ziggy's opinion. No required structure —
+  meant to be typed the way an unfiltered opinion actually occurs, not
+  organized like a profile.
+- `GRADUATED_<MEMBER>.md` — the archive's own data, written up
+  confidently instead of held at candidate/cautious tier. Every claim
+  cites a real source ID (`G-###`, `Z-###`, etc.); none has cleared
+  the actual promotion bar.
+
+Both cross-link the member's real profile at the top for the
+side-by-side read.
