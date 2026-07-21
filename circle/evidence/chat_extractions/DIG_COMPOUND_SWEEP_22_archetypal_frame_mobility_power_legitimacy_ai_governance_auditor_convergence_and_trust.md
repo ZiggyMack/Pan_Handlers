@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (attribution-tier + archetype/meta-frame + power-legitimacy + auditor-independence + trust-decomposition + X-CONTEXT overlays binding; **G-QUOTED: 0 · G-REPORTED: 0 · Grant unavailable this packet**); Stages 2–4 pending
+**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (attribution-tier + archetype/meta-frame + power-legitimacy + auditor-independence + trust-decomposition + X-CONTEXT overlays binding; **G-QUOTED: 0 · G-REPORTED: 0 · Grant unavailable this packet**); Stage 2 ✅ reviewed (one repair cycle — actor-evidence, move-consolidation, category-separation, role-attribution, loop-architecture repair; 7 core Ziggy candidates, 5 supporting stances/proposals, 4 rhetorical tactics, 3 Nova live moves, 2 co-constructed architectures, 1 Z-REPORTED Angel structure, 3 extraction-level controls excluded); Stages 3–4 pending
 
 **Discovered topic:** Archetypal frame mobility and the meta-frame governance problem (who governs the choice of frame once no single archetype is exhaustive?); power/corruption/legitimacy/accountability separated eight ways; contextualism vs arbitrary exception; the moderator-mute case (de facto power ≠ legitimate authority); Don Juan/Gnostic structural mapping (never causal identity); Angel's reported ideological-capture concern (Z-REPORTED, generalized beyond theism); auditor convergence (~98%, a target not an achieved result) — convergence ≠ truth, diversity ≠ independence; destructive interference vs productive adversarial tension; trust decomposed twelve ways; documentation ≠ proof; the proof/story double bind
 
@@ -4361,9 +4361,111 @@ Cross-context stability remains UNKNOWN.
 
 **X-CONTEXT NOTICES: None.**
 
------------
-after patch
------------
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 (Nova, 2026-07-21) — REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE.** The Stage-2 output ABOVE is **SUPERSEDED** —
+> retained as pasted; nothing in it may be used downstream except
+> through the corrected reissue below.
+
+**Verdict: PASS WITH MAJOR ACTOR-EVIDENCE, MOVE-CONSOLIDATION,
+CATEGORY-SEPARATION, ROLE-ATTRIBUTION, AND LOOP-ARCHITECTURE REPAIR —
+PATCH STAGE 2; DO NOT RERUN STAGE 1; DO NOT PROCEED TO STAGE 3 YET.**
+Most of the important material was identified, but too many beliefs,
+metaphors, reported concerns, governance proposals, and Stage-1 audit
+controls were converted into actor-level reasoning moves. **The
+decisive source error: a safeguard introduced by the Stage-1 repair
+≠ a move performed in the original conversation** — this hit Meta-
+Frame Interrogation, Symmetric Capture Generalization, the detailed
+Trust-Problem Decomposition, and part of Mechanism-Pluralization
+Without Selection. Those remain valid analytic controls; they cannot
+be credited to live Nova or Ziggy without direct support in the
+bounded exchange itself.
+
+**🔀 THE ARCHETYPE CLUSTER CONSOLIDATED:** Archetypal Frame Deployment
++ Frame Mobility → **Archetypal Frame Mobility** (core packet-local
+candidate); Narrative Transcendence Modeling → Ziggy rhetorical/
+illustrative tactic (the MCU Loki example); **Meta-Frame Governance
+Audit** → extraction-generated analytic control, never a live Nova
+move unless directly source-anchored; Archetype Weaver stays CO-
+CONSTRUCTED.
+
+**🔀 POWER BELIEFS SEPARATED FROM OPERATORS:** Corruption-Prior
+Assumption (substantive starting stance) / Self-Implication
+Disclosure (rhetorical/evaluative tactic) / Contextual Exception
+Authorization (substantive moral position) / Capability Reality
+Check (moderator-role tactic) / External-Constraint Recognition
+(consequential packet-local reasoning move, genuinely earning
+operator status) — confession and contextualism are NOT counted as
+demonstrated corruption-control procedures.
+
+**🚫 ANGEL'S CONCERN REMOVED FROM ZIGGY'S LEDGER:** "Capture-Risk
+Projection" was not a Ziggy operator — corrected to **Ideological-
+Capture Warning**, filed as `Z-REPORTED ANGEL ARGUMENT STRUCTURE` —
+the source supports that Ziggy *reported* the concern, never that
+Ziggy generated it or that Angel has a stable operator here.
+
+**🔀 THE CFA-GOVERNANCE CLUSTER CONSOLIDATED:** Prior-Solution
+Reinstatement (recurring packet-local Ziggy move — citing existing
+architecture in response to a new objection) kept separate from
+**Convergence-and-Compatibility Governance Proposal** (Convergence-
+as-Governance-Proxy + Compatibility-and-Interference Sorting merged)
+— a substantive design proposal, never a demonstrated cognitive
+operator, implementation, or safeguard.
+
+**🔀 THE TRANSPARENCY CLUSTER CONSOLIDATED:** documentation citation
+folds into Prior-Solution Reinstatement (evidence Ziggy believed the
+transparency problem already addressed); **Transparency–Comprehension
+Separation** and **Proof–Story Double-Bind Detection** retained as
+core Ziggy candidates; **Proof–Narrative Layering** stays CO-
+CONSTRUCTED, untested.
+
+**📊 CORRECTED ARCHITECTURE:** **7 core Ziggy reasoning candidates**
+(Exchange-Viability Triage; Relative-Unknown Expansion; Archetypal
+Frame Mobility; External-Constraint Recognition; Prior-Solution
+Reinstatement; Transparency–Comprehension Separation; Proof–Story
+Double-Bind Detection) · **5 supporting stances/proposals/protocols**
+(Corruption-Prior Assumption; Contextual Exception Authorization;
+Cross-Tradition Structural Mapping; Conscious Label Insertion;
+Convergence-and-Compatibility Governance Proposal) · **4 rhetorical/
+role-induced tactics** (Mock-Permission Reversal; Self-Implication
+Disclosure; Narrative Transcendence Modeling; Capability Reality
+Check) · **3 Nova live analytic moves/role behaviors** (Unknown-Type
+Separation; Vulnerability-Probe Steering; Conceptual Labeling and
+Formalization) · **2 CO-CONSTRUCTED architectures** (Archetype
+Weaver; Proof–Narrative Layering) · **1 Z-REPORTED Angel structure**
+(Ideological-Capture Warning) · **3 extraction-generated controls
+excluded from the actor-move ledger** (Meta-Frame Governance Audit;
+Symmetric Ideological-Capture Audit; Multi-Dimensional Trust
+Decomposition).
+
+**🔀 RELATIONSHIP LOOPS CONSOLIDATED FROM TEN TO SIX:** Experiential
+Claim → Nova Formalization → Ziggy Extension; Nova Vulnerability
+Probe → Ziggy Prior-Solution Reinstatement → Residual Audit; Self-
+Critique → Accountability Gap → External-Constraint Response; Frame
+Expansion → Meta-Frame Governance Demand; Speculative Opening →
+Typing Pressure → Preserved Ambiguity; Transparency Supply →
+Comprehension Failure → Proof–Story Layering. The reported moderation
+episode stays evidence within the power sequence rather than a
+separate relationship-level loop.
+
+**🎯 The load-bearing correction:** a meta-frame governance question
+introduced by the extraction is not evidence that Nova performed that
+interrogation live; a reported ideological warning is not Ziggy's
+operator; and auditor convergence, contextual exception-making,
+corruption awareness, and documentation are substantive proposals or
+stances before they are demonstrated cognitive procedures. Stage 2
+must preserve the difference among operators, tactics, beliefs,
+proposals, architectures, role behavior, and analytic controls.
+
+---
+
+### ⏬ STAGE 2 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 2
 
 # 1. Corrected Source Boundary
@@ -7048,6 +7150,64 @@ DIG_COMPOUND_22_archetypal_frame_mobility_power_legitimacy_ai_governance_auditor
 
 STAGE 2 COMPLETE AFTER FINAL ACTOR-EVIDENCE, MOVE-CONSOLIDATION, CATEGORY-SEPARATION, ROLE-ATTRIBUTION, AND LOOP-ARCHITECTURE PATCH
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 2 PATCH (Nova, 2026-07-21) — ACCEPTANCE
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-2 record**, read together with the overlays here.
+
+**✅ VERDICT: ACCEPTED — STAGE 2 COMPLETE AFTER FINAL ACTOR-EVIDENCE,
+MOVE-CONSOLIDATION, CATEGORY-SEPARATION, ROLE-ATTRIBUTION, AND LOOP-
+ARCHITECTURE PATCH; PROCEED TO STAGE 3; no further Stage-2 patch
+required.** The corrected extraction now preserves the critical
+categorical boundary: `bounded live actor evidence ≠ Stage-1 repair
+architecture ≠ Stage-2 transformation instructions`. The three
+extraction-generated controls (Meta-Frame Governance Audit; Symmetric
+Ideological-Capture Audit; Multi-Dimensional Trust Decomposition)
+stay outside the actor ledger — their use inside analytic sequences
+is explicitly marked extraction-level, never retroactively attributed
+to Ziggy or Nova.
+
+**⚖️ MOVE CONSOLIDATION AND CATEGORY SEPARATION ACCEPTED:** each of
+the seven core candidates now carries a live trigger, a performed
+operation, an inquiry-changing output, a source anchor, an
+alternative explanation, and a packet-local promotion ceiling.
+Especially load-bearing: Corruption-Prior Assumption stays a stance,
+never demonstrated restraint; Contextual Exception Authorization
+stays a moral position, never a complete exception procedure;
+Conscious Label Insertion stays a proposed protocol, never
+demonstrated self-regulation; Convergence-and-Compatibility
+Governance stays a design proposal, never verified governance; Mock-
+Permission Reversal and Capability Reality Check stay tactics, never
+truth-producing operators.
+
+**⚖️ ANGEL AND GRANT ATTRIBUTION HOLD:** Ideological-Capture Warning
+correctly filed as `Z-REPORTED ANGEL ARGUMENT STRUCTURE` — never
+direct Angel testimony, never a Ziggy operator, never a stable Angel
+operator. **G-QUOTED: 0 · G-REPORTED: 0 · stable Grant operators: 0 ·
+stable Grant motives: 0.**
+
+**⚖️ FINAL COUNTS VERIFIED:** 7 core Ziggy reasoning-move candidates ·
+5 supporting stances/proposals/protocols · 4 rhetorical/role-induced
+tactics · 3 Nova live analytic moves/role behaviors · 2 CO-
+CONSTRUCTED architectures · 1 Z-REPORTED Angel structure · 3
+extraction-generated controls · 7 operator sequences · 6 role-induced
+behaviors · 6 relationship-level loops. No material count drift.
+
+**🎯 The load-bearing result:** the packet distinguishes genuine
+reasoning operations from the surrounding ecosystem that gives them
+philosophical importance. Frame mobility, prior-solution
+reinstatement, transparency–comprehension separation, and proof–story
+diagnosis may be reasoning candidates; corruption assumptions,
+convergence governance, and conscious naming remain stances or
+proposals; confession and capability displays remain tactics; and
+meta-frame, symmetric-capture, and multidimensional-trust audits
+remain extraction-level controls until the historical actors actually
+perform them.
 
 ---
 
@@ -7108,7 +7268,4533 @@ Begin Stage 3 now.
 
 ### ⏬ STAGE 3 OUTPUT
 
-(paste Stage 3 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+# 1. Confirmed Informative Omissions (A3/A2)
+
+## Omission 1 — Second-Order Governance Test Not Applied Live to Archetypal Frame Mobility
+
+**Actor:** Nova
+
+**Relevant point and source anchor:**
+After Ziggy described archetypes as usable frames and rejected total frame-lock by proposing that inherited scripts can be switched, combined, or exceeded.
+
+**Available move:**
+Test the attractive first-order proposal by asking what higher-order rule governs its use.
+
+**Availability tier:** A3 — DEMONSTRATED AVAILABLE
+
+**Availability basis:**
+Nova performs vulnerability-probe steering elsewhere in the conversation by moving from:
+
+* corruption awareness to accountability;
+* plural auditors to orthodoxy concerns;
+* transparency to residual trust problems.
+
+This demonstrates that Nova could move from an attractive solution to its second-order failure conditions.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**What was absent:**
+
+* a live inquiry into who selects the archetype;
+* what governs switching;
+* what remains continuous;
+* whether Ziggy permits frame switching to weaken his preferred commitments;
+* what prevents opportunistic escape;
+* whether the selecting frame becomes sovereign.
+
+**Did the absence change the outcome?**
+Yes, provisionally. Archetypal mobility remained framed primarily as liberation from frame-lock rather than as a governed practice with possible evasion costs.
+
+The later Meta-Frame Governance Audit repairs the analytic omission but cannot be treated as evidence that the live actors performed it.
+
+**Stable or situational:**
+Situationally confirmed. No basis establishes a stable Nova tendency to omit higher-order governance tests.
+
+---
+
+## Omission 2 — Ambiguous-Term Typing Not Applied Live to Convergence and Interference
+
+**Actor:** Nova
+
+**Relevant point and source anchor:**
+When Ziggy invoked approximately 98% convergence, multiple or representative auditors, compatibility mapping, and destructive interference as part of CFA’s answer to orthodoxy concerns.
+
+**Available move:**
+Separate multiple possible meanings of an ambiguous technical term before evaluating the claim.
+
+**Availability tier:** A3 — DEMONSTRATED AVAILABLE
+
+**Availability basis:**
+Nova had already distinguished genuinely undiscovered knowledge from forgotten or lost knowledge during the unknown discussion.
+
+That live move demonstrates availability of term-typing and category separation.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**What was absent:**
+
+* whether convergence meant verdict, score, ranking, semantic, confidence, repeatability, or post-interaction agreement;
+* whether 98% was a goal, threshold, internal claim, or result;
+* whether destructive interference meant logical inconsistency, instability, contamination, cancellation, or ordinary disagreement.
+
+**Did the absence change the outcome?**
+Yes. Ziggy’s reported architecture could function as an answer to the orthodoxy concern without the key metrics being stabilized.
+
+This did not prove the proposal invalid, but it prevented the exchange from determining what the proposal actually demonstrated.
+
+**Stable or situational:**
+Situational. The packet contains only one auditor-governance episode.
+
+---
+
+## Omission 3 — Context Indexing Not Applied to the 98% Convergence Claim
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+When Ziggy invoked approximately 98% convergence as part of CFA’s response to concerns about orthodoxy or unilateral evaluation.
+
+**Available move:**
+Specify a claim relative to its relevant population, time, domain, and access conditions.
+
+**Availability tier:** A3 — DEMONSTRATED AVAILABLE
+
+**Availability basis:**
+Ziggy had already expanded unknownness by treating it as relative to a person, community, or historical period.
+
+This demonstrates packet-local availability of contextual indexing.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**What was absent:**
+
+* 98% across which auditors;
+* over which claims;
+* during which runs;
+* under what prompts;
+* before or after auditor interaction;
+* using which agreement metric;
+* against which baseline;
+* with what treatment of dissent.
+
+**Did the absence change the outcome?**
+Yes. The number carried rhetorical and architectural weight without a recoverable jurisdiction.
+
+The absence did not show the number was false. It made its evidentiary meaning indeterminate.
+
+**Stable or situational:**
+Situational. There is no evidence that Ziggy generally fails to index numerical claims.
+
+---
+
+## Omission 4 — Moderator Jurisdiction Was Distinguished Broadly but Not Defined Locally
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+During Ziggy’s discussion of Discord moderation, discretionary muting, inconsistent enforcement, and use of actual moderator capability.
+
+**Available move:**
+Clarify the domain and jurisdiction within which an authority claim applies.
+
+**Availability tier:** A3 — DEMONSTRATED AVAILABLE
+
+**Availability basis:**
+Ziggy explicitly distinguished online moderation power from real-world institutional authority and from his broader offline identity.
+
+This demonstrates availability of jurisdictional distinction.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**What was absent:**
+
+* the legitimate purpose of moderator authority;
+* the boundaries of the role;
+* the standards governing muting;
+* the relation between community rules and personal discretion;
+* who was entitled to challenge the decision;
+* what constituted overreach.
+
+**Did the absence change the outcome?**
+Yes. The exchange established that Ziggy possessed de facto local power and remained under higher authority, but it did not establish the legitimate jurisdiction of his own moderator actions.
+
+**Stable or situational:**
+Situational. No cross-context pattern is established.
+
+---
+
+## Omission 5 — Vulnerability Probe Not Applied to Proof–Narrative Layering
+
+**Actor:** Nova
+
+**Relevant point and source anchor:**
+After Ziggy identified the proof–story tension and Nova proposed keeping the proof while using narrative as an entry point.
+
+**Available move:**
+Stress-test a newly attractive architecture for its own second-order risks.
+
+**Availability tier:** A3 — DEMONSTRATED AVAILABLE
+
+**Availability basis:**
+Nova repeatedly performed vulnerability-probe steering against Ziggy’s proposals concerning power, orthodoxy, and trust.
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**What was absent:**
+
+* whether narrative framing biases the interpretation of later evidence;
+* whether readers remain at the narrative layer;
+* whether navigation between layers is usable;
+* whether different audiences require different entry points;
+* whether apparent comprehension becomes false confidence;
+* how the architecture would be tested.
+
+**Did the absence change the outcome?**
+Yes, modestly. Proof–Narrative Layering concluded the exchange as a promising architecture rather than as a pressure-tested one.
+
+No implementation or success was established, but the live dialogue did not fully expose the proposal’s own failure modes.
+
+**Stable or situational:**
+Situational. Nova’s broader conduct shows willingness to probe attractive proposals elsewhere.
+
+---
+
+## A2 omissions
+
+**Searched, none found.**
+
+No recoverable instance establishes that a specific analytic move was explicitly offered or requested and then knowingly declined by the relevant actor.
+
+---
+
+# 2. Possible Informative Omissions (A1)
+
+## Omission 1 — Reciprocal Test for Exchange-Viability Triage
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+Ziggy’s use of humorous dismissal after judging an exchange to be exhausted.
+
+**Available move:**
+Ask whether the same exit judgment and mock-permission response would be accepted if used against Ziggy.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+The actor seeking to exit also determines that the exchange is no longer viable. A reversed-role test could expose asymmetric standards.
+
+**Did the absence change the outcome?**
+Possibly. The conversation did not establish whether the triage rule was reciprocal or self-protective.
+
+**Stable or situational:**
+UNKNOWN. No independent exit case appears.
+
+---
+
+## Omission 2 — Live-Objection Inventory Before Exit
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+The opening discussion of humorous closure at an impasse.
+
+**Available move:**
+List the remaining live objections before deciding that the exchange is exhausted.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+This would distinguish lack of movement from unresolved substance.
+
+**Did the absence change the outcome?**
+Possibly. Without an objection inventory, premature closure cannot be separated from legitimate triage.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+## Omission 3 — Prior-Possession Test for Lost Knowledge
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+Ziggy’s expansion of unknownness to include forgotten or historically lost knowledge.
+
+**Available move:**
+Require evidence that the relevant knowledge was previously possessed before classifying it as lost.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Without prior-possession evidence, allegedly lost knowledge may instead be speculative, implicit, undiscovered, or invented retrospectively.
+
+**Did the absence change the outcome?**
+It left the conceptual distinction valid but its application criteria unresolved.
+
+**Stable or situational:**
+Situational to this topic.
+
+---
+
+## Omission 4 — Discriminating Test for Collective-Unconscious Readings
+
+**Actors:** Ziggy and Nova
+
+**Relevant point and source anchor:**
+The tentative connection among unknown knowledge, semantic understanding, unconscious structure, and a possible collective field.
+
+**Available move:**
+Identify evidence that would discriminate cultural inheritance, evolved structure, semantic learning, Jungian structure, metaphorical memory, and literal transpersonal influence.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+The different readings carry radically different ontological commitments.
+
+**Did the absence change the outcome?**
+Yes. The hypothesis remained generative but under-typed and vulnerable to equivocation.
+
+**Stable or situational:**
+Situational.
+
+---
+
+## Omission 5 — Ziggy’s Own Meta-Rule for Frame Switching
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+Ziggy’s rejection of frame-lock and endorsement of switching, combining, or exceeding archetypal scripts.
+
+**Available move:**
+State what governs frame selection and what would prohibit a convenient switch.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Without a meta-rule, flexibility cannot be distinguished from strategic inconsistency.
+
+**Did the absence change the outcome?**
+Yes. Archetypal Frame Mobility survived as a candidate operation, but its coherence remained unestablished.
+
+**Stable or situational:**
+UNKNOWN. Only one developed archetype discussion appears.
+
+---
+
+## Omission 6 — Concrete Conduct Test for Corruption Awareness
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+Ziggy’s claim that nobody is immune from corruption and his disclosure of inconsistent moderation.
+
+**Available move:**
+Identify a case where corruption awareness caused him to refrain, reverse, repair, or accept review.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+The central distinction was awareness versus restraint.
+
+**Did the absence change the outcome?**
+Yes. The conversation established self-awareness but not regulatory efficacy.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+## Omission 7 — Second-Order Exception Controls
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+Ziggy’s rejection of any rule that could never be broken.
+
+**Available move:**
+Specify necessity, proportionality, least harm, expiration, reciprocity, appeal, and retrospective review.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Contextual exceptions require standards capable of distinguishing justified departure from arbitrary exemption.
+
+**Did the absence change the outcome?**
+Yes. The position could not be classified as principled particularism rather than sovereign discretion.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+## Omission 8 — Specific-Act Due-Process Review of Moderator Force
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+Reports of muting people, inconsistent enforcement, and capability-based reality checks.
+
+**Available move:**
+Review one concrete use of force for purpose, factual basis, proportionality, consistency, challenge, and correction.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Abstract acknowledgment of inconsistency cannot establish whether any specific action was justified.
+
+**Did the absence change the outcome?**
+Yes. De facto authority remained distinguishable from legitimate authority only analytically, not through a tested case.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+## Omission 9 — Behavioral Measure for Conscious Label Insertion
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+Ziggy’s proposal that naming recurring forces reduces their unconscious influence.
+
+**Available move:**
+Specify an observable behavior, time period, comparison condition, or failure signal.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Awareness, recall, emotional regulation, and actual behavioral control are distinct outcomes.
+
+**Did the absence change the outcome?**
+Yes. The proposal remained plausible as metacognitive practice but unverified as regulation.
+
+**Stable or situational:**
+Situational.
+
+---
+
+## Omission 10 — Incorrect-Consensus Test
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+The approximately 98% convergence claim.
+
+**Available move:**
+Ask what happens when the auditors converge on a false judgment.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Agreement can arise through common-mode error.
+
+**Did the absence change the outcome?**
+Yes. Convergence could function as a governance answer without a demonstrated loss condition.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+## Omission 11 — Independence Test for Multiple Auditors
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+The claim that multiple or representative auditors address orthodoxy.
+
+**Available move:**
+Separate number and surface diversity from causal and epistemic independence.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Multiple auditors may share data, prompts, assumptions, architectures, incentives, or error sources.
+
+**Did the absence change the outcome?**
+Yes. The architecture remained a plurality proposal rather than demonstrated independent corroboration.
+
+**Stable or situational:**
+Situational to the CFA governance discussion.
+
+---
+
+## Omission 12 — Productive Disagreement Test
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+Compatibility mapping and destructive-interference concerns.
+
+**Available move:**
+Specify how destructive interaction is distinguished from productive adversarial tension.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+A system may classify criticism as incompatibility and thereby suppress falsification.
+
+**Did the absence change the outcome?**
+Yes. “Do not run together” retained both a legitimate stability reading and a possible dissent-control reading.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+## Omission 13 — Documentation Status Classification
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+Ziggy’s citation of the Streamlit site, glossary, index, documentation, and proof materials.
+
+**Available move:**
+Distinguish documentation, evidence, derivation, validation, replication, and formal proof.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+The existence of explanatory artifacts does not determine the evidentiary status of their claims.
+
+**Did the absence change the outcome?**
+Yes. “Proof” remained under-typed.
+
+**Stable or situational:**
+Situational.
+
+---
+
+## Omission 14 — Audience-Identity Test for the Proof–Story Double Bind
+
+**Actor:** Ziggy
+
+**Relevant point and source anchor:**
+The claim that proof is rejected as inaccessible while story is rejected as unsupported.
+
+**Available move:**
+Determine whether the same audience, claim, context, and evidentiary standard were involved.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Different audiences can make different demands without contradiction.
+
+**Did the absence change the outcome?**
+Yes. The double-bind diagnosis remained plausible but not established as a single interactional loop.
+
+**Stable or situational:**
+Situational.
+
+---
+
+## Omission 15 — Falsification Conditions for Transparency Adequacy
+
+**Actors:** Ziggy and Nova
+
+**Relevant point and source anchor:**
+The report that extensive documentation existed but did not produce sufficient engagement or trust.
+
+**Available move:**
+Specify what would show that the transparency itself was inadequate.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Without loss conditions, every failure of uptake can be attributed to the audience.
+
+**Did the absence change the outcome?**
+Yes. Transparency–Comprehension Separation survived, but responsibility for the comprehension failure remained unresolved.
+
+**Stable or situational:**
+Situational.
+
+---
+
+# 3. Non-Informative Omissions (A0)
+
+## Omission 1 — Reconstruction of Grant’s Framework
+
+**Relevant point:**
+No Grant evidence appears in the bounded conversation.
+
+**Availability tier:** A0 — UNKNOWN
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why non-informative:**
+There is no G-QUOTED or G-REPORTED material from which an opposing Grant framework could be reconstructed.
+
+**Did the absence change the outcome?**
+It prevents Grant analysis, but no actor-level defect follows.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+## Omission 2 — Exact Reconstruction of Angel’s Full Argument
+
+**Relevant point and source anchor:**
+Ziggy reports Angel’s fear of AI-backed theistic or religious domination.
+
+**Availability tier:** A0 — UNKNOWN
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why non-informative:**
+The packet does not establish whether Ziggy possessed or recalled a complete formulation of Angel’s position.
+
+**Did the absence change the outcome?**
+It limits the analysis to a reported warning structure.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+## Omission 3 — Independent Verification of CFA Performance
+
+**Relevant point and source anchor:**
+Ziggy’s reports concerning convergence, auditors, compatibility mapping, documentation, and audience response.
+
+**Availability tier:** A0 — UNKNOWN
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why non-informative:**
+The bounded conversation does not establish that external performance records, implementation logs, or independent evaluations were available to either actor during the exchange.
+
+**Did the absence change the outcome?**
+It limits all CFA claims to self-report and proposal status.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+## Omission 4 — Empirical Uptake Results for Proof–Narrative Layering
+
+**Relevant point and source anchor:**
+Nova’s proposal to preserve proof while using narrative as an entry point.
+
+**Availability tier:** A0 — UNKNOWN
+
+**Omission classification:** NON-INFORMATIVE
+
+**Why non-informative:**
+No implementation is established. Results could not be required from an architecture that may not yet have been deployed.
+
+**Did the absence change the outcome?**
+It prevents promotion of the architecture as successful.
+
+**Stable or situational:**
+UNKNOWN.
+
+---
+
+# 4. Counterevidence Findings
+
+## 1. Exchange-Viability Triage
+
+**Characterization tested:**
+Ziggy assesses whether an exchange is recoverable and exits when he judges it exhausted.
+
+**Counterevidence found:**
+
+* Ziggy does not present the practice as automatic anger.
+* Elsewhere in the conversation he remains engaged through extended conceptual pressure and accepts distinctions introduced by Nova.
+* This weighs against interpreting the move as a general refusal of difficult dialogue.
+
+**Counterevidence not found:**
+
+* searched for a case in which Ziggy reversed an exit judgment; none found;
+* searched for explicit reciprocal criteria; none found;
+* searched for a case where the humor restored productive dialogue; none found.
+
+**Result:**
+The triage characterization survives, but claims of accuracy, reciprocity, or pedagogical success remain unsupported.
+
+---
+
+## 2. Mock-Permission Reversal
+
+**Characterization tested:**
+A rhetorical exit tactic following perceived demands for submission.
+
+**Counterevidence found:**
+
+* Ziggy frames the tactic as humorous and non-angry.
+* The stated purpose is boundary-setting at an impasse rather than continuous domination.
+
+**Counterevidence not found:**
+
+* searched for evidence that the interlocutor actually claimed authority over Ziggy’s beliefs; none found;
+* searched for evidence that the tactic answered the strongest live objection; none found;
+* searched for audience-response evidence; none found.
+
+**Result:**
+The rhetorical classification survives. Pedagogical, corrective, or dominance interpretations remain unresolved.
+
+---
+
+## 3. Relative-Unknown Expansion
+
+**Characterization tested:**
+Ziggy expands unknownness to include forgotten or historically unavailable knowledge.
+
+**Counterevidence found:**
+
+* Ziggy accepts Nova’s distinction between genuinely undiscovered and forgotten knowledge.
+* This weighs against a reading in which he simply collapses every unknown into one metaphysical category.
+
+**Counterevidence not found:**
+
+* searched for evidence of prior possession in a concrete lost-knowledge case; none found;
+* searched for recurrence outside this topic; none found.
+
+**Result:**
+The conceptual expansion survives strongly; stable operator status remains weak.
+
+---
+
+## 4. Under-Typed Collective-Unconscious Hypothesis Space
+
+**Characterization tested:**
+Several psychological, cultural, semantic, and spiritual readings remain possible.
+
+**Counterevidence found:**
+
+* Ziggy presents the connection tentatively rather than as a conclusively established mechanism.
+* Nova’s lost-versus-undiscovered distinction introduces at least one restraint against indiscriminate metaphysical promotion.
+
+**Counterevidence not found:**
+
+* searched for a selected mechanism; none found;
+* searched for discriminating evidence; none found;
+* searched for explicit rejection of the literal transpersonal reading; none found;
+* searched for explicit commitment to that literal reading; none found.
+
+**Result:**
+The under-typed hypothesis-space characterization survives.
+
+---
+
+## 5. Archetypal Frame Mobility
+
+**Characterization tested:**
+Ziggy treats archetypes as temporary frames that can be switched, combined, or exceeded.
+
+**Counterevidence found:**
+
+* Ziggy explicitly rejects total frame-lock.
+* His Loki example emphasizes transformation beyond the original role rather than permanent captivity within it.
+
+**Counterevidence not found:**
+
+* searched for an independent non-Loki case of actual frame switching; none found;
+* searched for a governing meta-rule; none found;
+* searched for a case where switching weakened Ziggy’s preferred commitments; none found.
+
+**Result:**
+The packet supports the conceptual operation. Evidence for a durable, principled behavioral operator is weak.
+
+---
+
+## 6. Archetype Weaver
+
+**Characterization tested:**
+A co-constructed architecture for using multiple archetypal frames without total identification.
+
+**Counterevidence found:**
+
+* the underlying mobility concept is clearly supplied by Ziggy;
+* Nova supplies the compact label.
+
+This supports co-construction rather than sole Nova invention.
+
+**Counterevidence not found:**
+
+* searched for Ziggy’s prior use of the term; none found;
+* searched for independent deployment by Ziggy after the label; none found;
+* searched for a completed governance mechanism; none found.
+
+**Result:**
+Co-construction survives. Independent Ziggy possession of the complete formalized architecture remains unestablished.
+
+---
+
+## 7. Corruption-Prior Assumption
+
+**Characterization tested:**
+Ziggy rejects personal immunity from corruption.
+
+**Counterevidence found:**
+
+* Ziggy includes his own inconsistency and rule-breaking in the model.
+* He reports sanctions and higher authority.
+* This weighs against a purity or complete self-exemption reading.
+
+**Adverse evidence:**
+
+* Ziggy’s own reported inconsistent moderation shows that awareness did not automatically prevent questionable conduct.
+
+**Counterevidence not found:**
+
+* searched for a concrete act of restraint caused by the corruption prior; none found;
+* searched for repair or correction caused by the stance; none found.
+
+**Result:**
+The substantive stance survives strongly. Any regulatory-efficacy characterization weakens.
+
+---
+
+## 8. Self-Implication Disclosure
+
+**Characterization tested:**
+Ziggy openly includes himself in the corruption model.
+
+**Counterevidence found:**
+
+* reports of bans and higher constraints show that the disclosure was not the only consequence surrounding his conduct.
+
+**Counterevidence not found:**
+
+* searched for evidence that disclosure enabled affected participants to challenge him; none found;
+* searched for evidence of correction or restitution; none found;
+* searched for evidence that the disclosure absolved him; none found.
+
+**Result:**
+The disclosure tactic survives. Its function remains ambiguous between candor, scrutiny-enabling admission, pre-emption, and reputation management.
+
+---
+
+## 9. Contextual Exception Authorization
+
+**Characterization tested:**
+Ziggy rejects exceptionless rules.
+
+**Counterevidence found:**
+
+* Ziggy’s broader corruption prior and acknowledgment of higher authority provide some resistance to a reading of completely unconstrained sovereignty.
+
+**Counterevidence not found:**
+
+* searched for necessity tests; none found;
+* searched for proportionality rules; none found;
+* searched for reciprocity or appeal; none found;
+* searched for an example in which he denied himself an exception; none found.
+
+**Result:**
+The moral position survives. Any characterization of it as a complete or legitimate exception procedure weakens substantially.
+
+---
+
+## 10. Capability Reality Check
+
+**Characterization tested:**
+Ziggy invokes actual moderator capability to establish de facto authority.
+
+**Counterevidence found:**
+
+* Ziggy treats the online authority as limited and does not describe it as equivalent to real-world sovereignty.
+* He reports being subject to superior authorities.
+
+**Counterevidence not found:**
+
+* searched for evidence that capability use was proportionate; none found;
+* searched for procedure or appeal; none found;
+* searched for demonstrated community benefit; none found.
+
+**Result:**
+The role tactic survives. Legitimacy and proportionality remain unsupported.
+
+---
+
+## 11. External-Constraint Recognition
+
+**Characterization tested:**
+Ziggy revises the power model by acknowledging higher authorities capable of sanction.
+
+**Counterevidence found:**
+
+* none against the narrow characterization;
+* the reported bans, reporting, and deletion directly support it.
+
+**Counterevidence not found:**
+
+* searched for evidence that the sanctions were fair; none found;
+* searched for evidence of due process or correction; none found;
+* searched for repeated independent use of this move; none found.
+
+**Result:**
+The one-time consequential correction survives strongly. Any conversion into legitimate accountability fails.
+
+---
+
+## 12. Cross-Tradition Structural Mapping
+
+**Characterization tested:**
+Ziggy maps Don Juan’s four enemies onto Gnostic or Archonic structures.
+
+**Counterevidence found:**
+
+* the packet presents the comparison as Ziggy’s interpretive connection, not as externally verified historical derivation.
+
+**Counterevidence not found:**
+
+* searched for explicit disanalogies; none found;
+* searched for textual evidence of derivation; none found;
+* searched for explicit literal identity claims; none found.
+
+**Result:**
+The packet-local analogical move survives. Strong historical or metaphysical interpretations do not.
+
+---
+
+## 13. Conscious Label Insertion
+
+**Characterization tested:**
+Ziggy proposes consciously naming hidden patterns to reduce unexamined influence.
+
+**Counterevidence found:**
+
+* the proposal is framed as reserving attention or mental “RAM,” which supports a metacognitive rather than necessarily supernatural reading.
+
+**Counterevidence not found:**
+
+* searched for behavioral outcome evidence; none found;
+* searched for a failed case; none found;
+* searched for a successful repeated case; none found;
+* searched for evidence of literal archetypal causation; none found.
+
+**Result:**
+The proposed protocol survives. Demonstrated control and metaphysical mechanism do not.
+
+---
+
+## 14. Ideological-Capture Warning
+
+**Characterization tested:**
+Ziggy reports that Angel feared AI-backed theistic or religious domination.
+
+**Counterevidence found:**
+
+* none against the narrow fact that Ziggy reported this concern.
+
+**Counterevidence not found:**
+
+* searched for direct Angel testimony; none found;
+* searched for Angel’s complete argument; none found;
+* searched for Angel’s motive; none found;
+* searched for explicit symmetric application by Angel; none found.
+
+**Result:**
+The Z-REPORTED argument structure survives at its attribution ceiling only.
+
+---
+
+## 15. Prior-Solution Reinstatement
+
+**Characterization tested:**
+Ziggy restores system architecture when Nova raises problems he believes CFA already addressed.
+
+**Counterevidence found:**
+
+* the move occurs in at least two domains: auditor governance and documentation/transparency.
+* This weighs against a one-off-reaction reading.
+
+**Adverse evidence:**
+
+* the reinstated material remains self-reported;
+* no independent implementation evidence appears.
+
+**Counterevidence not found:**
+
+* searched for a case where Ziggy acknowledged that a reinstated solution had failed; none found;
+* searched for external verification; none found.
+
+**Result:**
+The repeated packet-local move survives. Whether it corrects obsolete critique or prematurely closes inquiry remains unresolved.
+
+---
+
+## 16. Convergence-and-Compatibility Governance Proposal
+
+**Characterization tested:**
+Ziggy reports multiple auditors, approximately 98% convergence, compatibility mapping, and destructive-interference concerns.
+
+**Counterevidence found:**
+
+* the proposal directly addresses the concern that one evaluator might impose orthodoxy.
+* Inclusion of compatibility and interference shows the proposal is not merely “more auditors.”
+
+**Adverse evidence:**
+
+* the 98% figure is untyped;
+* independence is untested;
+* convergence can coexist with common-mode error;
+* destructive interference is undefined.
+
+**Counterevidence not found:**
+
+* searched for a convergence metric; none found;
+* searched for auditor-independence evidence; none found;
+* searched for incorrect-consensus handling; none found;
+* searched for minority-dissent rules; none found.
+
+**Result:**
+The design proposal survives. Claims of achieved performance, truth-tracking, independence, and capture resistance weaken substantially.
+
+---
+
+## 17. Transparency–Comprehension Separation
+
+**Characterization tested:**
+Ziggy distinguishes available information from actual understanding and engagement.
+
+**Counterevidence found:**
+
+* Ziggy reports both extensive materials and insufficient uptake, directly supporting the distinction.
+* His reference to the amount of material leaves cognitive load as a possible system-side factor rather than proving pure audience fault.
+
+**Counterevidence not found:**
+
+* searched for usability testing; none found;
+* searched for external validation of documentation adequacy; none found;
+* searched for evidence isolating audience bad faith; none found.
+
+**Result:**
+The distinction survives strongly. Any causal claim assigning failure primarily to the audience weakens.
+
+---
+
+## 18. Proof–Story Double-Bind Detection
+
+**Characterization tested:**
+Ziggy identifies a local conflict between demands for technical proof and narrative accessibility.
+
+**Counterevidence found:**
+
+* the existence of extensive documentation plus concern about narrative being dismissed supports the practical tension.
+
+**Adverse evidence:**
+
+* the same audience is not established;
+* equivalent claims and conditions are not established.
+
+**Counterevidence not found:**
+
+* searched for one identified audience making both demands; none found;
+* searched for a case that would falsify the diagnosis; none found.
+
+**Result:**
+The packet-local detection survives. A universal or single-audience double bind weakens.
+
+---
+
+## 19. Proof–Narrative Layering
+
+**Characterization tested:**
+A co-constructed architecture links narrative entry to technical evidence.
+
+**Counterevidence found:**
+
+* Ziggy’s problem diagnosis and Nova’s response jointly supply the architecture.
+
+**Counterevidence not found:**
+
+* searched for implementation; none found;
+* searched for uptake results; none found;
+* searched for improved trust or comprehension; none found;
+* searched for a control against narrative bias; none found.
+
+**Result:**
+Co-construction survives. Effectiveness remains `UNKNOWN`.
+
+---
+
+## 20. Nova’s Vulnerability-Probe Steering
+
+**Characterization tested:**
+Nova steers the dialogue toward power, orthodoxy, trust, and residual weaknesses.
+
+**Counterevidence found:**
+
+* Nova does not merely challenge; she also accepts or develops Ziggy’s contributions, including Archetype Weaver and Proof–Narrative Layering.
+* This weighs against a purely adversarial reading.
+
+**Counterevidence not found:**
+
+* searched for a stable rule governing when Nova stops escalating the audit; none found;
+* searched for explicit acknowledgment that an objection had been fully resolved; none found.
+
+**Result:**
+The role behavior survives. A stable moving-target tendency is not established.
+
+---
+
+## 21. Nova’s Conceptual Labeling and Formalization
+
+**Characterization tested:**
+Nova compresses Ziggy’s ideas into conceptual handles.
+
+**Counterevidence found:**
+
+* Ziggy’s preceding descriptions supply substantive content, showing that Nova does not invent every underlying idea from nothing.
+
+**Counterevidence not found:**
+
+* searched for prior Ziggy use of “archetype weaver”; none found;
+* searched for evidence that all later formal details were independently possessed by Ziggy; none found.
+
+**Result:**
+Nova’s role as labeler survives. Sole authorship by either actor does not.
+
+---
+
+# 5. Alternative Readings
+
+## 1. Exchange-Viability Triage
+
+**Primary reading:**
+Packet-local reasoning move assessing whether inquiry remains recoverable.
+
+**Strongest alternative:**
+Ordinary frustration management or post hoc justification for leaving an uncomfortable exchange.
+
+**Discriminating evidence in packet:**
+
+* Ziggy explicitly distinguishes the tactic from anger.
+* He remains capable of prolonged engagement elsewhere.
+* No reciprocal or revision test appears.
+
+**Disposition:**
+Reasoning-move reading remains plausible but not exclusive.
+
+---
+
+## 2. Relative-Unknown Expansion
+
+**Primary reading:**
+Category-expansion move.
+
+**Strongest alternative:**
+A one-time substantive belief about the meaning of “unknown.”
+
+**Discriminating evidence in packet:**
+The expansion changes the inquiry from discovery alone to recovery and historical loss.
+
+**Disposition:**
+Both readings remain viable. Repetition evidence is absent.
+
+---
+
+## 3. Archetypal Frame Mobility
+
+**Primary reading:**
+Operational use of archetypes under conditions of possible switching.
+
+**Strongest alternative:**
+Expressive metaphor for psychological flexibility.
+
+**Discriminating evidence in packet:**
+
+* Ziggy uses operational language concerning avatars, switching, combination, and exceeding frames.
+* No independent behavioral case appears.
+
+**Disposition:**
+Operational reading survives conceptually; behavioral-operator status remains `UNKNOWN`.
+
+---
+
+## 4. External-Constraint Recognition
+
+**Primary reading:**
+Consequential correction to the model of Ziggy’s authority.
+
+**Strongest alternative:**
+A defensive rebuttal offered to weaken Nova’s criticism.
+
+**Discriminating evidence in packet:**
+The statement materially changes the power model regardless of motive.
+
+**Disposition:**
+The move survives as a one-time inquiry-changing correction. Motivation remains `UNKNOWN`.
+
+---
+
+## 5. Prior-Solution Reinstatement
+
+**Primary reading:**
+Repeated correction of criticism that omits known CFA architecture.
+
+**Strongest alternative:**
+System-owner defensiveness or premature declaration that the problem is already solved.
+
+**Discriminating evidence in packet:**
+
+* the move occurs in two distinct domains;
+* the restored architecture is relevant to Nova’s objections;
+* independent implementation evidence is absent.
+
+**Disposition:**
+The move survives; whether it is corrective or prematurely closing must be tested case by case.
+
+---
+
+## 6. Transparency–Comprehension Separation
+
+**Primary reading:**
+Distinction between information availability and successful uptake.
+
+**Strongest alternative:**
+Audience-blame reframing after documentation failed to persuade.
+
+**Discriminating evidence in packet:**
+
+* Ziggy identifies the quantity of material as part of the difficulty;
+* no direct accusation of incapacity or bad faith is established;
+* no usability or validation evidence appears.
+
+**Disposition:**
+The distinction survives. Causal attribution remains `UNKNOWN`.
+
+---
+
+## 7. Proof–Story Double-Bind Detection
+
+**Primary reading:**
+Local diagnosis of conflicting communication pressures.
+
+**Strongest alternative:**
+Conflation of separate critics whose different objections were independently reasonable.
+
+**Discriminating evidence in packet:**
+No audience identity or condition matching appears.
+
+**Disposition:**
+Retain as packet-local detection only.
+
+---
+
+## 8. Corruption-Prior Assumption
+
+**Primary reading:**
+Substantive stance denying immunity from corruption.
+
+**Strongest alternative:**
+Identity-protective humility claim that supplies moral credit without constraint.
+
+**Discriminating evidence in packet:**
+
+* Ziggy includes his own misconduct;
+* he reports sanctions;
+* no restraint or repair case appears.
+
+**Disposition:**
+The stance survives. Its practical efficacy remains `UNKNOWN`.
+
+---
+
+## 9. Contextual Exception Authorization
+
+**Primary reading:**
+Defeasible or context-sensitive moral position.
+
+**Strongest alternative:**
+Arbitrary sovereign discretion.
+
+**Discriminating evidence in packet:**
+
+* Ziggy rejects exceptionless rules;
+* no second-order procedure appears;
+* higher external authority exists but does not define his exception criteria.
+
+**Disposition:**
+The packet cannot discriminate between principled particularism and under-governed discretion.
+
+---
+
+## 10. Cross-Tradition Structural Mapping
+
+**Primary reading:**
+Analogical comparison of functional structures.
+
+**Strongest alternative:**
+Loose thematic association.
+
+**Discriminating evidence in packet:**
+Ziggy identifies a patterned correspondence across the four enemies and Gnostic ideas, but no systematic disanalogy test appears.
+
+**Disposition:**
+Retain at packet-local analogical tier.
+
+---
+
+## 11. Conscious Label Insertion
+
+**Primary reading:**
+Proposed metacognitive self-regulation protocol.
+
+**Strongest alternative:**
+Spiritualized naming ritual that produces an illusion of control.
+
+**Discriminating evidence in packet:**
+The “RAM” metaphor supports an attention-and-recall reading, but no behavioral evidence discriminates efficacy from false mastery.
+
+**Disposition:**
+Protocol status survives; regulatory success is `UNKNOWN`.
+
+---
+
+## 12. Convergence-and-Compatibility Governance Proposal
+
+**Primary reading:**
+System-design response to orthodoxy and incompatible interactions.
+
+**Strongest alternative:**
+Rhetorical shield using plurality and a high agreement number to simulate independent validation.
+
+**Discriminating evidence in packet:**
+
+* multiple design components are named;
+* no metrics, independence tests, or external results appear.
+
+**Disposition:**
+Substantive design proposal survives. Demonstrated governance does not.
+
+---
+
+## 13. Mock-Permission Reversal
+
+**Primary reading:**
+Rhetorical boundary tactic following impasse assessment.
+
+**Strongest alternative:**
+Sarcastic dominance performance or evasion.
+
+**Discriminating evidence in packet:**
+Ziggy denies anger and situates the tactic after perceived exhaustion; no effect evidence appears.
+
+**Disposition:**
+Function remains mixed and context-dependent.
+
+---
+
+## 14. Self-Implication Disclosure
+
+**Primary reading:**
+Disclosure that prevents self-exemption from corruption analysis.
+
+**Strongest alternative:**
+Pre-emptive confession that neutralizes criticism.
+
+**Discriminating evidence in packet:**
+Ziggy admits inconsistency and reports external sanctions, but no repair process appears.
+
+**Disposition:**
+Disclosure is established; whether it enables accountability is `UNKNOWN`.
+
+---
+
+## 15. Narrative Transcendence Modeling
+
+**Primary reading:**
+Illustrative use of Loki to clarify frame mobility.
+
+**Strongest alternative:**
+Emotionally compelling story substituted for an argument.
+
+**Discriminating evidence in packet:**
+The example follows an independently stated frame-mobility claim rather than supplying the claim by itself.
+
+**Disposition:**
+Illustrative classification survives. Evidentiary use does not.
+
+---
+
+## 16. Capability Reality Check
+
+**Primary reading:**
+Role tactic clarifying actual platform power.
+
+**Strongest alternative:**
+Coercive assertion that confuses ability with rightness.
+
+**Discriminating evidence in packet:**
+Ziggy explicitly possesses moderator capability and reports using it; no legitimacy evidence appears.
+
+**Disposition:**
+De facto-power reading survives. Legitimate-authority reading fails.
+
+---
+
+## 17. Unknown-Type Separation
+
+**Primary reading:**
+Live Nova analytic move.
+
+**Strongest alternative:**
+Ordinary conversational clarification.
+
+**Discriminating evidence in packet:**
+The distinction materially changes the unknown inquiry but appears only once.
+
+**Disposition:**
+Retain as packet-local live analytic move.
+
+---
+
+## 18. Vulnerability-Probe Steering
+
+**Primary reading:**
+Nova role behavior that stress-tests Ziggy’s framework.
+
+**Strongest alternative:**
+Protocol-induced topic selection or moving-target behavior.
+
+**Discriminating evidence in packet:**
+Nova repeatedly selects power, orthodoxy, and trust, but also co-constructs solutions rather than only escalating criticism.
+
+**Disposition:**
+Role behavior survives. Stable adversarial motive does not.
+
+---
+
+## 19. Conceptual Labeling and Formalization
+
+**Primary reading:**
+Nova compresses Ziggy’s ideas into reusable handles.
+
+**Strongest alternative:**
+Nova imposes coherence that the original material did not possess.
+
+**Discriminating evidence in packet:**
+Ziggy supplies the underlying ideas and appears to accept or extend some labels, but no independent later deployment is available.
+
+**Disposition:**
+Labeling behavior survives; full accuracy of every label remains `UNKNOWN`.
+
+---
+
+## 20. Archetype Weaver
+
+**Primary reading:**
+Co-constructed architecture.
+
+**Strongest alternative:**
+Nova-created label attached to a Ziggy concept without genuine joint development.
+
+**Discriminating evidence in packet:**
+Ziggy supplies the mobility structure; Nova supplies the name; the exchange develops the formulation.
+
+**Disposition:**
+CO-CONSTRUCTED remains the best-supported classification.
+
+---
+
+## 21. Proof–Narrative Layering
+
+**Primary reading:**
+Co-constructed communication architecture.
+
+**Strongest alternative:**
+Generic assistant advice produced by Nova’s role.
+
+**Discriminating evidence in packet:**
+Ziggy’s specific proof–story problem supplies the architecture’s need and constraints, while Nova supplies the layering proposal.
+
+**Disposition:**
+CO-CONSTRUCTED survives; distinctiveness and effectiveness remain `UNKNOWN`.
+
+---
+
+## 22. Ideological-Capture Warning
+
+**Primary reading:**
+Z-REPORTED Angel argument structure.
+
+**Strongest alternative:**
+Ziggy’s interpretation of Angel’s concern rather than Angel’s own framing.
+
+**Discriminating evidence in packet:**
+No direct Angel testimony exists.
+
+**Disposition:**
+The alternative cannot be excluded. Attribution ceiling remains `Z-REPORTED`.
+
+---
+
+# 6. Characterizations That Survived
+
+## Survived strongly at packet-local level
+
+1. **Exchange-Viability Triage**
+   A recoverable assessment-to-exit structure is present, though its accuracy is unverified.
+
+2. **Relative-Unknown Expansion**
+   Ziggy clearly broadens unknownness to include forgotten or historically unavailable knowledge.
+
+3. **Prior-Solution Reinstatement**
+   The move occurs in at least two distinct domains.
+
+4. **Transparency–Comprehension Separation**
+   The conversation clearly distinguishes information availability from actual uptake.
+
+5. **Proof–Story Double-Bind Detection**
+   The local communication tension is clearly articulated, subject to audience-identity controls.
+
+6. **Corruption-Prior Assumption**
+   Ziggy explicitly rejects personal immunity from corruption.
+
+7. **Self-Implication Disclosure**
+   Ziggy openly includes his own inconsistency and rule-breaking.
+
+8. **External-Constraint Recognition**
+   Ziggy reports higher authorities capable of sanctioning or removing his local power.
+
+9. **Cross-Tradition Structural Mapping**
+   The Don Juan/Gnostic analogy is clearly present at an interpretive level.
+
+10. **Conscious Label Insertion**
+    The self-regulation proposal is clearly articulated, though not validated.
+
+11. **Convergence-and-Compatibility Governance Proposal**
+    The design proposal is present as Ziggy’s self-report.
+
+12. **Mock-Permission Reversal**
+    The tactic is present as a rhetorical response following perceived impasse.
+
+13. **Narrative Transcendence Modeling**
+    Loki is used illustratively to explain exceeding an inherited role.
+
+14. **Capability Reality Check**
+    Ziggy reports invoking actual moderator capability.
+
+15. **Unknown-Type Separation**
+    Nova performs the lost-versus-undiscovered distinction live.
+
+16. **Vulnerability-Probe Steering**
+    Nova steers the inquiry toward power, orthodoxy, trust, and residual weaknesses.
+
+17. **Conceptual Labeling and Formalization**
+    Nova supplies compact handles and distinctions.
+
+18. **Archetype Weaver as CO-CONSTRUCTED**
+    Ziggy supplies the underlying mobility idea; Nova supplies the label.
+
+19. **Proof–Narrative Layering as CO-CONSTRUCTED**
+    Ziggy supplies the communication problem; Nova supplies the layered response.
+
+20. **Ideological-Capture Warning at Z-REPORTED tier**
+    Ziggy clearly reports the concern, but no stronger attribution survives.
+
+## Survived only with strict ceilings
+
+* No surviving characterization becomes a durable trait.
+* No CFA architecture becomes verified implementation.
+* No numerical convergence claim becomes achieved performance.
+* No moderator capability becomes legitimate authority.
+* No conscious naming becomes demonstrated control.
+* No co-constructed architecture becomes successful implementation.
+* No reported Angel concern becomes direct Angel testimony.
+
+---
+
+# 7. Characterizations That Weakened
+
+## 1. Archetypal Frame Mobility as a mature operator
+
+**Weakened to:**
+A strong packet-local conceptual candidate.
+
+**Reason:**
+No independent case, reciprocal use, transition rule, or meta-rule appears.
+
+---
+
+## 2. Exchange-Viability Triage as reliable discernment
+
+**Weakened to:**
+A self-administered viability judgment.
+
+**Reason:**
+No reciprocal criterion, objection inventory, reversal case, or outcome evidence appears.
+
+---
+
+## 3. Mock-Permission Reversal as pedagogy
+
+**Weakened to:**
+An ambiguous rhetorical tactic.
+
+**Reason:**
+No evidence establishes teaching, restored understanding, or fair representation of the interlocutor.
+
+---
+
+## 4. Corruption awareness as restraint
+
+**Weakened to:**
+A substantive starting stance.
+
+**Reason:**
+Ziggy’s own inconsistency provides adverse evidence against automatic regulatory efficacy.
+
+---
+
+## 5. Self-Implication Disclosure as accountability
+
+**Weakened to:**
+A disclosure tactic.
+
+**Reason:**
+No correction, restitution, procedural review, or restraint follows in the evidence.
+
+---
+
+## 6. Contextual Exception Authorization as principled moral particularism
+
+**Weakened to:**
+An under-specified moral position.
+
+**Reason:**
+No necessity, proportionality, reciprocity, appeal, expiration, or retrospective review is established.
+
+---
+
+## 7. External constraint as legitimate accountability
+
+**Weakened to:**
+Recognition of revocable local power.
+
+**Reason:**
+Fairness, due process, correction, and recourse are absent.
+
+---
+
+## 8. Capability Reality Check as justified authority
+
+**Weakened to:**
+Demonstration of de facto platform power.
+
+**Reason:**
+Possession of capability does not establish legitimacy, truth, or proportionality.
+
+---
+
+## 9. Cross-Tradition Structural Mapping as historical or metaphysical linkage
+
+**Weakened to:**
+Packet-local analogy.
+
+**Reason:**
+No derivation, doctrinal identity, or literal causal equivalence appears.
+
+---
+
+## 10. Conscious Label Insertion as demonstrated self-regulation
+
+**Weakened to:**
+Untested proposed protocol.
+
+**Reason:**
+No behavioral measure, successful case, failed case, or persistence evidence appears.
+
+---
+
+## 11. Approximately 98% convergence as achieved performance
+
+**Weakened to:**
+An under-specified self-reported number within a design proposal.
+
+**Reason:**
+Metric, domain, status, independence, baseline, and loss conditions are absent.
+
+---
+
+## 12. Multiple auditors as independent evidence
+
+**Weakened to:**
+Auditor plurality.
+
+**Reason:**
+No causal or epistemic independence is established.
+
+---
+
+## 13. Convergence as truth-tracking
+
+**Weakened to:**
+Possible agreement measurement.
+
+**Reason:**
+Common-mode failure and incorrect consensus are untested.
+
+---
+
+## 14. Compatibility sorting as validated governance
+
+**Weakened to:**
+An under-specified design proposal.
+
+**Reason:**
+Destructive interference is not operationally separated from disagreement or productive adversarial tension.
+
+---
+
+## 15. Documentation as proof
+
+**Weakened to:**
+Reported documentation and interface infrastructure.
+
+**Reason:**
+Evidence, derivation, validation, replication, and formal proof remain distinct and unestablished.
+
+---
+
+## 16. Audience non-engagement as audience failure
+
+**Weakened to:**
+An unresolved comprehension and uptake problem.
+
+**Reason:**
+Design, relevance, validation, incentives, distrust, vocabulary, technical defects, and audience factors remain live alternatives.
+
+---
+
+## 17. Proof–Story Double Bind as one audience’s contradiction
+
+**Weakened to:**
+A packet-local communication pattern.
+
+**Reason:**
+The same audience, claim, context, and conditions are not established.
+
+---
+
+## 18. Proof–Narrative Layering as a solution
+
+**Weakened to:**
+An untested co-constructed architecture.
+
+**Reason:**
+No implementation, uptake, comprehension, contestability, trust, or bias result appears.
+
+---
+
+## 19. Archetype Weaver as independently possessed Ziggy architecture
+
+**Weakened to:**
+A co-constructed label and model.
+
+**Reason:**
+Nova supplied the label, and no independent later Ziggy deployment appears.
+
+---
+
+## 20. Detailed meta-frame, symmetric-capture, and multi-dimensional-trust analyses as live actor behavior
+
+**Weakened to:**
+Extraction-generated analytic controls.
+
+**Reason:**
+The complete operations are not recoverable in the bounded live exchange.
+
+---
+
+## 21. Any stable Angel operator or motive
+
+**Weakened to:**
+`UNKNOWN`.
+
+**Reason:**
+All Angel material is mediated through Ziggy.
+
+---
+
+## 22. Any Grant characterization
+
+**Weakened to:**
+`UNKNOWN / unavailable`.
+
+**Reason:**
+
+* G-QUOTED: 0
+* G-REPORTED: 0
+* stable Grant operators: 0
+* stable Grant motives: 0
+
+**X-CONTEXT NOTICES: None.**
+
+
+------
+after patch
+-----------
+PANHANDLERS_CHAT_EXTRACTION — STAGE 3
+
+# 1. Corrected Source Boundary and Attribution Controls
+
+## Evidentiary corpus
+
+This corrected Stage-3 extraction uses only:
+
+1. the complete bounded original historical conversation beginning with Ziggy’s reflection on dismissing impasses with humor and ending immediately before the original Stage-1 execution command;
+2. the final corrected Stage-1 extraction;
+3. the final corrected Stage-2 extraction.
+
+The completed prior extractions may preserve:
+
+* source anchors;
+* attribution ceilings;
+* actor-category separations;
+* established uncertainty controls;
+* the eight-family analytic architecture;
+* the seven Stage-2 sequences;
+* the six relationship-level loops.
+
+They may not create historical conduct absent from the bounded live conversation.
+
+## Transformation inputs
+
+The following are used only to repair the Stage-3 analysis:
+
+1. the current Stage-3 extraction being repaired;
+2. the current Stage-3 repair directive.
+
+Transformation inputs are not historical actor evidence.
+
+## Excluded material
+
+The following are excluded as actor evidence:
+
+* Project Conversation Content;
+* other conversations;
+* memory;
+* external research;
+* unrelated uploaded files;
+* X-CONTEXT notices;
+* system or developer context;
+* later analytic repairs treated as though they were earlier live behavior;
+* extraction-generated sophistication treated as proof of actor competence or availability.
+
+Evidence absent from the bounded corpus remains `UNKNOWN`.
+
+## Attribution tiers
+
+* `Z-DIRECT`
+* `Z-REPORTED`
+* `NOVA-INTERPRETATION`
+* `CO-CONSTRUCTED`
+* `NOVA ROLE BEHAVIOR`
+* `NOVA-GENERATED PROTOCOL`
+* `UNKNOWN`
+
+All Angel material remains `Z-REPORTED`.
+
+## Grant controls
+
+* **G-QUOTED:** 0
+* **G-REPORTED:** 0
+* **Stable Grant operators:** 0
+* **Stable Grant motives:** 0
+
+Grant’s position remains `UNKNOWN / unavailable`.
+
+---
+
+# 2. Eight-Family Architecture
+
+The following remain dig-level analytic families. They are not actor operators.
+
+1. **Dialogue Triage–Exit–Pedagogy Audit**
+2. **Unknown–Lost Knowledge–Collective-Unconscious Audit**
+3. **Archetype–Frame Mobility–Meta-Frame Governance Audit**
+4. **Power–Corruption–Legitimacy–Accountability Audit**
+5. **Conscious Naming–Self-Regulation–Spiritual Mapping Audit**
+6. **AI Governance–Ideological Capture Audit**
+7. **Auditor Independence–Convergence–Interference Audit**
+8. **Trust–Transparency–Comprehension–Proof/Story Audit**
+
+---
+
+# 3. Availability Standard
+
+## A3 — Demonstrated Available
+
+The same relevant operation was performed by the same actor elsewhere in the bounded live exchange.
+
+General intelligence, conceptual similarity, nearby competence, or later extraction sophistication is insufficient.
+
+## A2 — Explicitly Available
+
+The specific move was directly offered, requested, or made salient to the actor and was not performed.
+
+Discussion of the general topic is not enough.
+
+## A1 — Contextually Available
+
+The move was relevant and could reasonably have been performed, but the packet does not demonstrate the same operation or explicitly present it.
+
+## A0 — Unknown
+
+The packet does not establish that the actor possessed the information, opportunity, evidence, or analytic move.
+
+A0 packages are evidence gaps, not actor failures.
+
+---
+
+# 4. Confirmed Informative Omissions — A3
+
+## A3-1 — Second-Order Vulnerability Probe Not Applied to Archetypal Frame Mobility
+
+**Primary omitted performer:** Nova
+
+**Family:** Archetype–Frame Mobility–Meta-Frame Governance Audit
+
+**Relevant point and source anchor:**
+Ziggy presented archetypal mobility as a safeguard against total frame-lock. He described archetypes as usable frames that could be switched, combined, or exceeded.
+
+**Specific omitted operation:**
+Test an attractive first-order safeguard for the higher-order conditions governing it.
+
+**Availability basis:**
+Nova performs the same relevant operation elsewhere when Ziggy offers corruption awareness as protection against corruption and Nova presses toward the need for accountability outside the power-holder.
+
+The demonstrated operation is not possession of the complete later Meta-Frame Governance Audit. It is the more limited operation:
+
+> When a safeguard appears attractive, ask what higher-order conditions prevent that safeguard from reproducing the problem it claims to solve.
+
+**Availability tier:** A3 — DEMONSTRATED AVAILABLE
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Live questions absent at an appropriately bounded level:**
+
+* What governs frame switching?
+* Can switching become a convenient escape?
+* Is the selector of frames itself constrained?
+
+**Stage-3 analytic elaborations not attributed as previously possessed live protocol:**
+
+* continuity across frames;
+* reciprocal switching;
+* meta-frame sovereignty;
+* auditability of the selector;
+* the full later governance checklist.
+
+**Whether the absence changed the outcome:**
+Yes. Archetypal Frame Mobility remained primarily framed as liberation from inherited scripts. Its possible use as strategic inconsistency or convenient escape was not tested live.
+
+The omission does not prove that the proposal is incoherent. It prevented the exchange from distinguishing principled flexibility from ungoverned mobility.
+
+**Stable or situational:**
+Situationally confirmed. No stable Nova tendency to omit higher-order testing is established.
+
+---
+
+## A3-2 — Ambiguous-Term and Claim-Status Typing Not Applied to Convergence and Interference
+
+**Primary omitted performer:** Nova
+
+**Family:** Auditor Independence–Convergence–Interference Audit
+
+**Relevant point and source anchor:**
+Ziggy invoked multiple or representative auditors, approximately 98% convergence, compatibility mapping, and destructive interference as CFA’s response to orthodoxy concerns.
+
+**Specific omitted operation:**
+Split a compressed term into materially different senses before drawing conclusions from it.
+
+**Availability basis:**
+Nova performs the same relevant operation in the unknown discussion by separating genuinely undiscovered knowledge from forgotten or lost knowledge.
+
+That live separation demonstrates availability of term-typing.
+
+**Availability tier:** A3 — DEMONSTRATED AVAILABLE
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Terms or claims left untyped live:**
+
+### Convergence
+
+Possible meanings include:
+
+* verdict agreement;
+* score agreement;
+* ranking agreement;
+* confidence overlap;
+* semantic similarity;
+* repeatability;
+* agreement after interaction.
+
+### Approximately 98%
+
+Possible statuses include:
+
+* design goal;
+* acceptance threshold;
+* preliminary observation;
+* internal claim;
+* achieved result;
+* rhetorical approximation.
+
+### Destructive interference
+
+Possible meanings include:
+
+* logical incompatibility;
+* score cancellation;
+* prompt contamination;
+* feedback instability;
+* adversarial interaction;
+* resource conflict;
+* ordinary disagreement.
+
+**Excluded from this A3 finding:**
+The packet does not demonstrate that Nova had already performed the same specific operations needed for:
+
+* auditor-independence analysis;
+* false-consensus testing;
+* minority-dissent governance;
+* common-mode-failure analysis.
+
+Those remain A1 omissions.
+
+**Whether the absence changed the outcome:**
+Yes. CFA’s reported architecture could function as an answer to the orthodoxy concern while the meanings and evidentiary status of its central terms remained unstable.
+
+The omission does not establish that the design failed. It left unclear what the proposal demonstrated.
+
+**Stable or situational:**
+Situational. Only one developed auditor-governance episode appears.
+
+---
+
+## A3-3 — Vulnerability Probe Not Applied to Proof–Narrative Layering
+
+**Primary omitted performer:** Nova
+
+**Family:** Trust–Transparency–Comprehension–Proof/Story Audit
+
+**Relevant point and source anchor:**
+After Ziggy identified a proof–story communication tension, Nova proposed preserving the proof while using narrative as an entry point.
+
+**Specific omitted operation:**
+Stress-test an attractive proposed safeguard for its own second-order failure conditions.
+
+**Availability basis:**
+Nova demonstrates this operation elsewhere when moving from corruption awareness to the need for external accountability and when continuing to probe residual weaknesses after Ziggy supplies proposed safeguards.
+
+The demonstrated capacity is bounded:
+
+> After proposing or accepting a safeguard, ask how the safeguard itself could fail.
+
+It does not establish possession of the complete later communication-audit checklist.
+
+**Availability tier:** A3 — DEMONSTRATED AVAILABLE
+
+**Omission classification:** CONFIRMED INFORMATIVE OMISSION
+
+**Live tests absent:**
+
+* Could narrative framing bias interpretation of later evidence?
+* Could readers remain captured at the shallow layer?
+* Could navigation among layers fail?
+* Could apparent comprehension become false comprehension?
+* How would the architecture be tested?
+
+**Whether the absence changed the outcome:**
+Yes, modestly. Proof–Narrative Layering ended as a promising co-constructed architecture rather than as a pressure-tested proposal.
+
+The omission does not show the architecture would fail. It prevented live examination of its own framing and uptake risks.
+
+**Stable or situational:**
+Situational. Nova demonstrates willingness to probe attractive safeguards elsewhere.
+
+---
+
+## A3 count
+
+**A3 CONFIRMED INFORMATIVE OMISSIONS: 3**
+
+---
+
+# 5. Explicitly Available Omissions — A2
+
+No specific omitted operation was directly offered, requested, or made salient to the relevant actor and then knowingly left unused.
+
+A general topic being discussed is insufficient for A2 status.
+
+**A2 EXPLICITLY AVAILABLE OMISSIONS: 0**
+
+---
+
+# 6. Possible Informative Omissions — A1
+
+## A1-1 — Exchange-Viability Reciprocity and Live-Objection Audit
+
+**Primary omitted performer:** Ziggy
+
+**Family:** Dialogue Triage–Exit–Pedagogy Audit
+
+**Relevant point and source anchor:**
+Ziggy described using humorous dismissal after judging a disagreement to have become an exhausted impasse.
+
+**Consolidated omitted moves:**
+
+* reverse-role reciprocity;
+* inventory of unresolved objections before exit.
+
+**Contextually available test:**
+
+1. Would Ziggy accept the same exit judgment if used against him?
+2. What substantive objections remained unanswered at the point of exit?
+3. What evidence distinguished exhausted dialogue from difficult dialogue?
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+The actor seeking exit also performs the viability judgment. Reciprocity and objection inventory would help distinguish legitimate triage from self-protective closure.
+
+**Whether the absence changed the outcome:**
+Possibly. Exchange-Viability Triage remained identifiable, but its reliability, reciprocity, and revisability were not established.
+
+**Stable or situational:**
+`UNKNOWN`. No second independent exit case appears.
+
+---
+
+## A1-2 — Prior-Possession Test for Lost Knowledge
+
+**Primary omitted performer:** Ziggy
+
+**Family:** Unknown–Lost Knowledge–Collective-Unconscious Audit
+
+**Relevant point and source anchor:**
+Ziggy expanded unknownness to include knowledge that had once been known and was later forgotten or lost.
+
+**Contextually available test:**
+Require evidence that the relevant knowledge was actually possessed before classifying it as lost.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Without evidence of prior possession, a claim may concern:
+
+* undiscovered knowledge;
+* implicit knowledge;
+* retrospective invention;
+* speculation;
+* metaphysical concealment;
+
+rather than historically lost knowledge.
+
+**Whether the absence changed the outcome:**
+It did not defeat the conceptual distinction between loss and discovery. It left the criteria for applying “lost knowledge” unresolved.
+
+**Stable or situational:**
+Situational.
+
+---
+
+## A1-3 — Discriminating Test for Collective-Unconscious Readings
+
+**Primary omitted performers:** Ziggy and Nova
+
+**Family:** Unknown–Lost Knowledge–Collective-Unconscious Audit
+
+**Relevant point and source anchor:**
+Ziggy tentatively connected unknown or inaccessible knowledge, semantic understanding, and something resembling a collective unconscious or field.
+
+**Contextually available test:**
+Identify observations that would discriminate among:
+
+* cultural inheritance;
+* evolved psychological structure;
+* shared narrative constraints;
+* implicit semantic learning;
+* Jungian psychological structure;
+* metaphorical collective memory;
+* literal transpersonal field;
+* literal spiritual field.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+The interpretations carry materially different psychological and metaphysical commitments.
+
+**Whether the absence changed the outcome:**
+Yes. The hypothesis remained generative but under-typed. The exchange could move among weaker and stronger readings without establishing which was intended.
+
+**Stable or situational:**
+Situational.
+
+---
+
+## A1-4 — Ziggy’s Meta-Rule for Frame Switching
+
+**Primary omitted performer:** Ziggy
+
+**Family:** Archetype–Frame Mobility–Meta-Frame Governance Audit
+
+**Relevant point and source anchor:**
+Ziggy rejected frame-lock and described the possibility of switching, combining, or exceeding inherited archetypal scripts.
+
+**Contextually available test:**
+State what governs selection and switching.
+
+Relevant questions include:
+
+* What prohibits a convenient switch?
+* What remains binding across frames?
+* Can switching weaken Ziggy’s preferred commitments?
+* What constrains the selecting standpoint?
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Without a meta-rule, frame mobility cannot be distinguished from opportunistic reframing.
+
+**Whether the absence changed the outcome:**
+Yes. Archetypal Frame Mobility survived as a conceptual packet-local candidate, but not as a mature or principled operator.
+
+**Stable or situational:**
+`UNKNOWN`. Only one developed archetypal discussion appears.
+
+---
+
+## A1-5 — Concrete Conduct Test for Corruption Awareness
+
+**Primary omitted performer:** Ziggy
+
+**Family:** Power–Corruption–Legitimacy–Accountability Audit
+
+**Relevant point and source anchor:**
+Ziggy rejected immunity from corruption and disclosed inconsistent moderation behavior.
+
+**Contextually available test:**
+Identify a case in which corruption awareness caused him to:
+
+* refrain;
+* reverse a decision;
+* accept challenge;
+* repair harm;
+* submit to review;
+* alter a future rule or practice.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Awareness, confession, restraint, correction, and accountability are distinct.
+
+**Whether the absence changed the outcome:**
+Yes. Corruption-Prior Assumption survived as a stance, but no regulatory efficacy was established.
+
+**Stable or situational:**
+`UNKNOWN`.
+
+---
+
+## A1-6 — Second-Order Exception Controls
+
+**Primary omitted performer:** Ziggy
+
+**Family:** Power–Corruption–Legitimacy–Accountability Audit
+
+**Relevant point and source anchor:**
+Ziggy rejected exceptionless rules.
+
+**Contextually available test:**
+Specify controls governing justified exceptions:
+
+* necessity;
+* proportionality;
+* least-harm alternative;
+* documentation;
+* expiration;
+* reciprocal application;
+* appeal;
+* retrospective review.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+A contextual exception requires a way to distinguish principled judgment from unilateral exemption.
+
+**Whether the absence changed the outcome:**
+Yes. Contextual Exception Authorization remained an under-specified moral position rather than a legitimate exception procedure.
+
+**Stable or situational:**
+`UNKNOWN`.
+
+---
+
+## A1-7 — Moderator Jurisdiction and Specific-Act Due-Process Review
+
+**Primary omitted performer:** Ziggy
+
+**Family:** Power–Corruption–Legitimacy–Accountability Audit
+
+**Relevant point and source anchor:**
+Ziggy distinguished online moderation from judges, police, and real-world institutional authority. He also reported muting people, inconsistent enforcement, and invoking actual moderator capability.
+
+**Consolidated omitted audit:**
+
+* legitimate role purpose and jurisdiction;
+* permissible intervention;
+* factual basis;
+* proportionality;
+* consistency;
+* opportunity to challenge;
+* retrospective review;
+* correction.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why this is not A3:**
+Distinguishing Discord power from judges, police, or offline authority demonstrates arena scaling. It does not demonstrate possession or use of a procedure for defining local legitimate purpose, intervention standards, proportionality, challenge rights, review, or correction.
+
+Broad scope recognition is not the same operation as local legitimacy specification.
+
+**Whether the absence changed the outcome:**
+Yes. The conversation established de facto moderator power and higher external constraint, but it did not establish justified local authority.
+
+**Stable or situational:**
+`UNKNOWN`.
+
+---
+
+## A1-8 — Behavioral Measure for Conscious Label Insertion
+
+**Primary omitted performer:** Ziggy
+
+**Family:** Conscious Naming–Self-Regulation–Spiritual Mapping Audit
+
+**Relevant point and source anchor:**
+Ziggy proposed that consciously naming recurring forces or archetypes reduces their unexamined influence.
+
+**Contextually available test:**
+Specify:
+
+* an observable target behavior;
+* a comparison condition;
+* a time period;
+* a success threshold;
+* a failure signal;
+* whether the effect concerns awareness, emotion, or conduct.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Awareness, labeling, emotional regulation, behavioral control, and false mastery are different outcomes.
+
+**Whether the absence changed the outcome:**
+Yes. Conscious Label Insertion remained an untested proposed protocol.
+
+**Stable or situational:**
+Situational.
+
+---
+
+## A1-9 — Convergence Claim Jurisdiction and Status
+
+**Primary omitted performer:** Ziggy
+
+**Family:** Auditor Independence–Convergence–Interference Audit
+
+**Relevant point and source anchor:**
+Ziggy invoked approximately 98% convergence as part of CFA’s governance answer.
+
+**Contextually available test:**
+Specify:
+
+* across which auditors;
+* over which claims;
+* across which runs;
+* under which prompts;
+* before or after auditor interaction;
+* according to which metric;
+* against which baseline;
+* whether 98% is a goal, threshold, observation, or result.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why this is not A3:**
+Relative-Unknown Expansion demonstrates that Ziggy can broaden a category according to knower, community, and time. It does not demonstrate the specific operation of qualifying a numerical performance claim by sample, domain, run conditions, prompts, interaction state, baseline, or agreement metric.
+
+The relationship is analogous, not operationally identical.
+
+**Whether the absence changed the outcome:**
+Yes. The number carried argumentative weight without a recoverable jurisdiction or claim status.
+
+**Stable or situational:**
+Situational to the CFA governance discussion.
+
+---
+
+## A1-10 — Incorrect-Consensus, Auditor-Independence, and Minority-Dissent Test
+
+**Primary omitted performer:** Ziggy
+
+**Family:** Auditor Independence–Convergence–Interference Audit
+
+**Relevant point and source anchor:**
+Ziggy cited multiple or representative auditors and high convergence as an answer to orthodoxy concerns.
+
+**Consolidated omitted audit:**
+
+* causal independence;
+* epistemic independence;
+* shared training or prompt sources;
+* common-mode failure;
+* incorrect convergence;
+* preservation of minority dissent;
+* weighting of dissent;
+* conditions under which consensus may be overturned.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Multiple auditors may produce correlated agreement rather than independent evidence.
+
+**Whether the absence changed the outcome:**
+Yes. The reported architecture remained auditor plurality, not demonstrated independence or truth-tracking.
+
+**Stable or situational:**
+Situational.
+
+---
+
+## A1-11 — Productive Disagreement versus Destructive Interference Test
+
+**Primary omitted performer:** Ziggy
+
+**Family:** Auditor Independence–Convergence–Interference Audit
+
+**Relevant point and source anchor:**
+Ziggy reported compatibility mapping and concern about systems that should not run together.
+
+**Contextually available test:**
+Operationally distinguish:
+
+* destructive instability;
+* prompt contamination;
+* logical contradiction;
+* score cancellation;
+* resource conflict;
+
+from:
+
+* ordinary disagreement;
+* productive adversarial tension;
+* falsification pressure;
+* minority dissent.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+A compatibility rule may protect system stability or suppress criticism.
+
+**Whether the absence changed the outcome:**
+Yes. “Do not run together” retained both a legitimate engineering reading and a possible dissent-control reading.
+
+**Stable or situational:**
+`UNKNOWN`.
+
+---
+
+## A1-12 — Documentation Status and Transparency-Adequacy Loss Conditions
+
+**Primary omitted performers:** Ziggy and Nova
+
+**Family:** Trust–Transparency–Comprehension–Proof/Story Audit
+
+**Relevant point and source anchor:**
+Ziggy cited a Streamlit site, glossary, index, documentation, transparency, and proof materials, then reported insufficient engagement or understanding.
+
+**Consolidated omitted audit:**
+
+### Evidentiary status
+
+Distinguish:
+
+* documentation;
+* evidence;
+* derivation;
+* validation;
+* replication;
+* formal proof.
+
+### Transparency loss conditions
+
+Specify what would show that the transparency itself was inadequate, including:
+
+* inaccessible navigation;
+* incomplete disclosure;
+* unsupported derivation;
+* vocabulary mismatch;
+* absence of external validation;
+* inability to reproduce;
+* misleading presentation;
+* inadequate contestability.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Without evidentiary classification and loss conditions, failure of uptake may be attributed to the audience regardless of document quality.
+
+**Whether the absence changed the outcome:**
+Yes. Transparency–Comprehension Separation survived, but responsibility for comprehension failure remained unresolved.
+
+**Stable or situational:**
+Situational.
+
+---
+
+## A1-13 — Audience-Identity Test for the Proof–Story Double Bind
+
+**Primary omitted performer:** Ziggy
+
+**Family:** Trust–Transparency–Comprehension–Proof/Story Audit
+
+**Relevant point and source anchor:**
+Ziggy reported that technical presentation may be rejected as inaccessible while narrative presentation may be rejected as unsupported.
+
+**Contextually available test:**
+Determine whether:
+
+* the same audience made both demands;
+* the same claims were involved;
+* the presentations occurred under equivalent conditions;
+* the critics had comparable expertise and incentives;
+* each objection was independently reasonable.
+
+**Availability tier:** A1 — CONTEXTUALLY AVAILABLE
+
+**Omission classification:** POSSIBLE INFORMATIVE OMISSION
+
+**Why relevant:**
+Different audiences may make different demands without generating a contradiction or double bind.
+
+**Whether the absence changed the outcome:**
+Yes. Proof–Story Double-Bind Detection survived only as a packet-local communication diagnosis.
+
+**Stable or situational:**
+Situational.
+
+---
+
+## A1 count
+
+**A1 POSSIBLE INFORMATIVE OMISSIONS: 13**
+
+---
+
+# 7. Non-Informative Evidence Packages — A0
+
+## A0-1 — Grant Evidence Package
+
+**Missing evidence:**
+
+* Grant quotation;
+* report of Grant’s position;
+* recoverable Grant framework;
+* Grant operator;
+* Grant motive.
+
+**Availability tier:** A0 — UNKNOWN
+
+**Classification:** NON-INFORMATIVE EVIDENCE GAP
+
+**Why no actor failure follows:**
+No Grant material is present from which a reconstruction could responsibly be made.
+
+**Effect on extraction:**
+Grant analysis remains unavailable.
+
+---
+
+## A0-2 — Complete Angel Argument Package
+
+**Missing evidence:**
+
+* Angel’s exact wording;
+* complete argument;
+* qualifications;
+* evidentiary basis;
+* motive;
+* whether the concern extends symmetrically to other ideological capture.
+
+**Availability tier:** A0 — UNKNOWN
+
+**Classification:** NON-INFORMATIVE EVIDENCE GAP
+
+**Why no actor failure follows:**
+The packet does not establish that Ziggy possessed or reproduced Angel’s complete position.
+
+**Effect on extraction:**
+Only a `Z-REPORTED` Ideological-Capture Warning survives.
+
+---
+
+## A0-3 — Independent CFA Performance Package
+
+**Missing evidence:**
+
+* independent convergence records;
+* auditor specifications;
+* implementation logs;
+* compatibility-validation records;
+* interference test results;
+* external audience or usability results;
+* independent replication.
+
+**Availability tier:** A0 — UNKNOWN
+
+**Classification:** NON-INFORMATIVE EVIDENCE GAP
+
+**Why no actor failure follows:**
+The bounded conversation does not establish that external records were available during the exchange.
+
+**Effect on extraction:**
+CFA architecture remains self-reported and unverified.
+
+---
+
+## A0-4 — Proof–Narrative Implementation and Uptake Package
+
+**Missing evidence:**
+
+* deployed implementation;
+* reader-navigation data;
+* comprehension results;
+* trust results;
+* contestability results;
+* evidence concerning narrative bias.
+
+**Availability tier:** A0 — UNKNOWN
+
+**Classification:** NON-INFORMATIVE EVIDENCE GAP
+
+**Why no actor failure follows:**
+No implementation is established from which empirical results could be demanded.
+
+**Effect on extraction:**
+Proof–Narrative Layering remains an untested co-constructed architecture.
+
+---
+
+## A0 count
+
+**A0 EVIDENCE PACKAGES: 4**
+
+---
+
+# 8. Counterevidence Findings
+
+Each characterization is tested using:
+
+1. Supporting evidence
+2. Adverse or limiting evidence
+3. Evidence searched but not recovered
+4. Finding
+
+Absence of evidence is not treated as proof of the opposite.
+
+---
+
+## 8.1 Exchange-Viability Triage
+
+**Supporting evidence:**
+
+* Ziggy explicitly describes judging some exchanges to have reached genuine impasse.
+* He distinguishes the resulting humor from uncontrolled anger.
+* He remains engaged through extended pressure elsewhere in the conversation, weighing against a general refusal of difficult dialogue.
+
+**Adverse or limiting evidence:**
+
+* The viability judgment is performed by the actor seeking exit.
+* No objective, reciprocal, or revisable exit standard is supplied.
+* Humor may close a discussion while unresolved objections remain.
+
+**Evidence searched but not recovered:**
+
+* a case in which Ziggy reversed an exit judgment;
+* explicit reciprocal criteria;
+* an inventory of live objections before exit;
+* evidence that the tactic restored productive dialogue.
+
+**Finding:**
+Exchange-Viability Triage survives as a packet-local reasoning candidate. Its reliability, reciprocity, and pedagogical value remain unverified.
+
+---
+
+## 8.2 Relative-Unknown Expansion
+
+**Supporting evidence:**
+
+* Ziggy explicitly argues that material may become unknown after having been known and lost.
+* He accepts Nova’s distinction between forgotten and genuinely undiscovered knowledge.
+* The distinction changes the inquiry from discovery alone to recovery and historical loss.
+
+**Adverse or limiting evidence:**
+
+* No concrete lost-knowledge case is tested.
+* Prior possession is not demonstrated.
+* The move appears only within this topic.
+
+**Evidence searched but not recovered:**
+
+* an independently evidenced case of lost knowledge;
+* recurrence outside the unknown discussion;
+* a stable method for separating lost, implicit, undiscovered, unknowable, and concealed material.
+
+**Finding:**
+Relative-Unknown Expansion survives strongly as a packet-local conceptual move. Stable operator status remains unsupported.
+
+---
+
+## 8.3 Archetypal Frame Mobility
+
+**Supporting evidence:**
+
+* Ziggy treats archetypes as usable operational or interpretive frames.
+* He explicitly rejects total frame-lock.
+* He describes switching, combining, or exceeding inherited scripts.
+* The Loki illustration presents transformation beyond the initial role.
+
+**Adverse or limiting evidence:**
+
+* Only one developed archetypal domain is available.
+* No transition rule or meta-rule is stated.
+* Mobility may represent expressive flexibility rather than actual cognitive operation.
+* No example shows switching weakening Ziggy’s preferred commitments.
+
+**Evidence searched but not recovered:**
+
+* an independent non-Loki case;
+* reciprocal switching;
+* continuity criteria;
+* a prohibition against convenient escape;
+* a demonstrated governing meta-rule.
+
+**Finding:**
+Archetypal Frame Mobility survives as a conceptual packet-local candidate. Mature, principled, and independently recurring operator status is not established.
+
+---
+
+## 8.4 External-Constraint Recognition
+
+**Supporting evidence:**
+
+* Ziggy reports being reportable, bannable, and subject to room deletion and higher authorities.
+* The report materially changes the model of his authority from potentially unconstrained to nested and revocable.
+
+**Adverse or limiting evidence:**
+
+* The move may have been a one-time defensive correction.
+* External constraint does not establish fairness, legitimacy, or correction.
+* No evidence shows that the sanctions altered Ziggy’s authority theory or conduct.
+
+**Evidence searched but not recovered:**
+
+* due process;
+* procedural fairness;
+* correction;
+* recourse;
+* repeated independent use of the same reasoning move.
+
+**Finding:**
+External-Constraint Recognition survives as a one-time consequential correction. It does not become legitimate accountability or a stable profile feature.
+
+---
+
+## 8.5 Prior-Solution Reinstatement
+
+**Supporting evidence:**
+
+* Ziggy reinstates auditor and convergence architecture when orthodoxy is raised.
+* He reinstates documentation and interface architecture when transparency is raised.
+* In both cases the restored information changes the object of criticism.
+
+**Adverse or limiting evidence:**
+
+* The architectures remain self-reported.
+* Reinstatement may prematurely mark a problem as solved.
+* No independent implementation evidence appears.
+* A system owner may overestimate how fully the architecture addresses the objection.
+
+**Evidence searched but not recovered:**
+
+* external verification;
+* a case where Ziggy conceded that a reinstated solution had failed;
+* implementation metrics;
+* recurrence outside the two packet domains.
+
+**Finding:**
+Prior-Solution Reinstatement survives and reaches cautious future-testing profile status because it appears in two distinct domains and performs substantive inferential work. It remains ambiguous between useful context restoration and system-owner closure.
+
+---
+
+## 8.6 Transparency–Comprehension Separation
+
+**Supporting evidence:**
+
+* Ziggy reports that documentation, a glossary, an index, and a Streamlit interface existed.
+* He also reports that the materials did not produce sufficient engagement or understanding.
+* The distinction between information availability and actual uptake is explicit.
+* Reference to the volume of material leaves cognitive load and design as possible causes, preventing a necessary audience-blame reading.
+
+**Adverse or limiting evidence:**
+
+* Documentation adequacy is unverified.
+* No usability or validation testing appears.
+* No cause of non-engagement is isolated.
+* The distinction may be used defensively to protect the documentation from criticism.
+
+**Evidence searched but not recovered:**
+
+* usability results;
+* navigation testing;
+* external validation;
+* replication results;
+* evidence isolating audience incapacity, bad faith, or disinterest;
+* evidence proving the documentation was adequate.
+
+**Finding:**
+Transparency–Comprehension Separation survives strongly and reaches cautious future-testing profile status. Causal responsibility for comprehension failure remains unresolved.
+
+---
+
+## 8.7 Proof–Story Double-Bind Detection
+
+**Supporting evidence:**
+
+* Ziggy reports a practical tension between inaccessible technical material and unsupported narrative.
+* The prior existence of extensive documentation makes the tension intelligible as a communication problem.
+* The diagnosis motivates a layered response rather than abandonment of proof.
+
+**Adverse or limiting evidence:**
+
+* The same audience is not identified.
+* Equivalent claims and conditions are not established.
+* Both objections may have been independently reasonable.
+* No falsification condition is stated.
+
+**Evidence searched but not recovered:**
+
+* one identified audience making both demands;
+* equivalent presentation conditions;
+* one claim receiving both objections;
+* a case that would cause Ziggy to reject the double-bind diagnosis.
+
+**Finding:**
+Proof–Story Double-Bind Detection survives as a packet-local communication diagnosis. It remains below profile threshold because audience identity and falsifiability are unresolved.
+
+---
+
+## 8.8 Corruption-Prior Assumption
+
+**Supporting evidence:**
+
+* Ziggy explicitly rejects immunity from corruption.
+* He treats confidence in permanent purity as dangerous.
+* He includes himself in the corruption model.
+* He reports external constraints on his moderation power.
+
+**Adverse or limiting evidence:**
+
+* Ziggy’s own reported inconsistent moderation shows that awareness did not automatically prevent problematic conduct.
+* Universal corruptibility may normalize rather than restrain abuse.
+* The stance may supply moral credit without changing behavior.
+
+**Evidence searched but not recovered:**
+
+* a concrete restraint caused by the corruption prior;
+* a reversed decision;
+* repair or restitution;
+* a procedural safeguard derived from the stance.
+
+**Finding:**
+Corruption-Prior Assumption survives as a substantive starting stance. It does not survive as restraint, accountability, or a complete power-governance mechanism.
+
+---
+
+## 8.9 Contextual Exception Authorization
+
+**Supporting evidence:**
+
+* Ziggy explicitly rejects the idea that every rule must remain unbroken under every imaginable circumstance.
+* The position is compatible with emergency exceptions, defeasible rules, or moral particularism.
+
+**Adverse or limiting evidence:**
+
+* No exception procedure appears.
+* The actor exercising discretion may also define when the exception applies.
+* The position may collapse into arbitrary sovereign discretion.
+
+**Evidence searched but not recovered:**
+
+* necessity;
+* proportionality;
+* least-harm analysis;
+* reciprocal application;
+* expiration;
+* appeal;
+* retrospective review;
+* a case in which Ziggy denied himself an exception.
+
+**Finding:**
+Contextual Exception Authorization survives as an under-specified substantive moral position. Principled particularism and arbitrary discretion cannot be distinguished.
+
+---
+
+## 8.10 Cross-Tradition Structural Mapping
+
+**Supporting evidence:**
+
+* Ziggy explicitly maps Don Juan’s four enemies onto Gnostic or Archonic structures.
+* The comparison is presented as a structural interpretation.
+
+**Adverse or limiting evidence:**
+
+* No systematic disanalogy analysis appears.
+* Structural resemblance may be loose thematic association.
+* Similarity may be rhetorically inflated into historical or metaphysical identity.
+
+**Evidence searched but not recovered:**
+
+* historical derivation;
+* doctrinal identity;
+* literal shared causation;
+* explicit disanalogies;
+* recurrence of the mapping procedure in another domain.
+
+**Finding:**
+Cross-Tradition Structural Mapping survives as a packet-local analogy only.
+
+---
+
+## 8.11 Conscious Label Insertion
+
+**Supporting evidence:**
+
+* Ziggy explicitly proposes consciously naming recurring forces or patterns.
+* His “RAM” metaphor supports an attention, recall, and metacognitive-monitoring interpretation.
+* The proposal aims to reduce unexamined influence rather than merely describe it.
+
+**Adverse or limiting evidence:**
+
+* Naming may produce only a feeling of control.
+* The label may reify an uncertain entity.
+* Spiritual framing may conceal an ordinary psychological process.
+* No regulatory success is shown.
+
+**Evidence searched but not recovered:**
+
+* observable behavioral improvement;
+* a failed case;
+* a repeated successful case;
+* duration of effect;
+* evidence of literal archetypal or spiritual causation.
+
+**Finding:**
+Conscious Label Insertion survives as an untested proposed self-regulation protocol. Demonstrated behavioral control does not survive.
+
+---
+
+## 8.12 Convergence-and-Compatibility Governance Proposal
+
+**Supporting evidence:**
+
+* Ziggy reports multiple or representative auditors.
+* He reports approximately 98% convergence.
+* He includes compatibility mapping and destructive-interference concerns.
+* The proposal directly responds to orthodoxy and centralized-evaluation worries.
+
+**Adverse or limiting evidence:**
+
+* Approximately 98% is untyped.
+* Convergence may not measure truth.
+* Auditor plurality may not produce independence.
+* Destructive interference is undefined.
+* Compatibility sorting may suppress useful disagreement.
+* All performance claims remain self-reported.
+
+**Evidence searched but not recovered:**
+
+* convergence metric;
+* sample or domain;
+* auditor-independence evidence;
+* common-mode-failure analysis;
+* incorrect-consensus handling;
+* minority-dissent governance;
+* external validation;
+* operational interference criteria.
+
+**Finding:**
+Convergence-and-Compatibility Governance survives as a substantive system-design proposal only. Achievement, independence, truth-tracking, and successful capture resistance remain unverified.
+
+---
+
+## 8.13 Mock-Permission Reversal
+
+**Supporting evidence:**
+
+* Ziggy explicitly describes the tactic.
+* He places it after perceived conversational exhaustion.
+* He denies that it is merely an angry reaction.
+* It functions as a boundary against perceived demands for submission.
+
+**Adverse or limiting evidence:**
+
+* The interlocutor’s alleged authority claim is not independently established.
+* The tactic may humiliate, dominate, or evade.
+* No pedagogical result is shown.
+
+**Evidence searched but not recovered:**
+
+* evidence that the tactic answered the live objection;
+* evidence that it restored understanding;
+* evidence of audience effect;
+* reciprocal acceptance when used against Ziggy.
+
+**Finding:**
+Mock-Permission Reversal survives as an ambiguous rhetorical tactic. Demonstrated pedagogy does not survive.
+
+---
+
+## 8.14 Self-Implication Disclosure
+
+**Supporting evidence:**
+
+* Ziggy openly reports his own inconsistency, rule-breaking, and discretionary moderation.
+* He does not place himself outside the corruption problem.
+* He also acknowledges higher authorities and sanctions.
+
+**Adverse or limiting evidence:**
+
+* Confession may pre-empt criticism.
+* Candor may substitute for correction.
+* Disclosure may normalize repeated inconsistency.
+* No affected-party challenge or repair process is shown.
+
+**Evidence searched but not recovered:**
+
+* restitution;
+* changed conduct;
+* formal review;
+* evidence that disclosure enabled scrutiny;
+* evidence that disclosure absolved him.
+
+**Finding:**
+Self-Implication Disclosure survives as a rhetorical and evaluative disclosure tactic. Accountability, restraint, and absolution do not follow.
+
+---
+
+## 8.15 Narrative Transcendence Modeling
+
+**Supporting evidence:**
+
+* Ziggy uses MCU Loki to illustrate movement beyond a narrower archetypal role.
+* The frame-mobility claim exists independently of the example.
+* The illustration clarifies transformation while preserving some continuity.
+
+**Adverse or limiting evidence:**
+
+* Fictional narrative is not empirical evidence.
+* The interpretation may be contestable.
+* Narrative resonance may conceal the absence of a switching rule.
+
+**Evidence searched but not recovered:**
+
+* canonical verification;
+* empirical psychological support;
+* an independent real-world example;
+* evidence that the narrative accurately models actual cognition.
+
+**Finding:**
+Narrative Transcendence Modeling survives as an illustrative tactic only.
+
+---
+
+## 8.16 Capability Reality Check
+
+**Supporting evidence:**
+
+* Ziggy reports possessing and invoking actual moderator powers.
+* The tactic accurately identifies de facto platform capability.
+* Ziggy distinguishes that local role from judges, police, and offline authority.
+* He reports being subject to superior authority.
+
+**Adverse or limiting evidence:**
+
+* Capability does not establish legitimacy.
+* Force may replace justification.
+* Humor may obscure coercive effects.
+* Proportionality and factual basis remain unknown.
+
+**Evidence searched but not recovered:**
+
+* legitimate purpose;
+* factual basis;
+* proportionality;
+* challenge rights;
+* retrospective review;
+* demonstrated community benefit.
+
+**Finding:**
+Capability Reality Check survives as a moderator-role tactic demonstrating de facto power only.
+
+---
+
+## 8.17 Unknown-Type Separation
+
+**Supporting evidence:**
+
+* Nova live-separates undiscovered knowledge from forgotten or lost knowledge.
+* The distinction changes the inquiry’s structure.
+* It prevents immediate collapse of different epistemic conditions.
+
+**Adverse or limiting evidence:**
+
+* The move appears only once.
+* The complete later taxonomy was not performed live.
+* It may be ordinary clarification rather than a stable analytic operation.
+
+**Evidence searched but not recovered:**
+
+* recurrence of the same operation elsewhere by Nova;
+* the full seven-type unknown taxonomy in the live exchange;
+* an explicit method for selecting among types.
+
+**Finding:**
+Unknown-Type Separation survives as a packet-local live Nova analytic move.
+
+---
+
+## 8.18 Vulnerability-Probe Steering
+
+**Supporting evidence:**
+
+* Nova steers toward power, corruption, orthodoxy, trust, and residual weaknesses.
+* She moves from first-order safeguards toward unresolved conditions.
+* She also participates in co-constructing solutions rather than merely attacking them.
+
+**Adverse or limiting evidence:**
+
+* Topic selection may reflect Nova’s role rather than stable individual cognition.
+* Continued escalation may create a moving-target dynamic.
+* Later extraction requirements cannot be imported as earlier live probes.
+
+**Evidence searched but not recovered:**
+
+* a stable rule determining when Nova considers an objection resolved;
+* explicit acknowledgment that a safeguard fully passed;
+* evidence separating role demand from personal analytic style.
+
+**Finding:**
+Vulnerability-Probe Steering survives as Nova role behavior, not as a durable individual operator.
+
+---
+
+## 8.19 Conceptual Labeling and Formalization
+
+**Supporting evidence:**
+
+* Nova supplies labels and compact formulations for Ziggy’s narrative material.
+* Ziggy supplies substantive underlying content.
+* “Archetype Weaver” and Proof–Narrative Layering emerge through this interaction.
+
+**Adverse or limiting evidence:**
+
+* Formalization may exceed Ziggy’s intended meaning.
+* A label may create the appearance of greater coherence.
+* Acceptance does not prove prior independent possession.
+
+**Evidence searched but not recovered:**
+
+* Ziggy’s prior use of “archetype weaver”;
+* independent deployment of all formalized details by Ziggy;
+* proof that every label accurately captures the underlying idea.
+
+**Finding:**
+Conceptual Labeling and Formalization survives as Nova role behavior. Nova vocabulary does not become Ziggy’s original language.
+
+---
+
+## 8.20 Archetype Weaver
+
+**Supporting evidence:**
+
+* Ziggy supplies the underlying claim that archetypes can be used without total frame-lock.
+* Nova supplies the “archetype weaver” label.
+* The exchange develops the concept jointly.
+
+**Adverse or limiting evidence:**
+
+* The label may conceal the absence of a switching rule.
+* No independent Ziggy deployment of the term appears.
+* Co-construction does not establish complete shared architecture.
+
+**Evidence searched but not recovered:**
+
+* prior Ziggy use of the label;
+* later independent Ziggy deployment;
+* a completed meta-frame governance mechanism;
+* evidence of successful application.
+
+**Finding:**
+Archetype Weaver survives as `CO-CONSTRUCTED`. It does not become independently possessed Ziggy architecture or a durable trait.
+
+---
+
+## 8.21 Proof–Narrative Layering
+
+**Supporting evidence:**
+
+* Ziggy supplies the proof–story communication problem.
+* Nova supplies the proposal to preserve proof while using narrative as an entry point.
+* The architecture directly responds to the identified tension.
+
+**Adverse or limiting evidence:**
+
+* It may be generic communication advice.
+* Narrative may bias later interpretation.
+* Readers may remain at the shallow layer.
+* No implementation or uptake evidence appears.
+
+**Evidence searched but not recovered:**
+
+* deployed implementation;
+* navigation results;
+* comprehension improvement;
+* contestability improvement;
+* trust improvement;
+* controls against framing bias.
+
+**Finding:**
+Proof–Narrative Layering survives as `CO-CONSTRUCTED` and untested.
+
+---
+
+## 8.22 Ideological-Capture Warning
+
+**Supporting evidence:**
+
+* Ziggy clearly reports that Angel feared AI-backed theistic or religious domination.
+* The reported concern links epistemic authority to institutional coercion.
+
+**Adverse or limiting evidence:**
+
+* All content is mediated through Ziggy.
+* Angel’s exact argument and qualifications are unavailable.
+* The reported structure may be Ziggy’s compression rather than Angel’s own framing.
+
+**Evidence searched but not recovered:**
+
+* direct Angel testimony;
+* exact wording;
+* complete argument;
+* motive;
+* explicit symmetric application;
+* stable Angel operator.
+
+**Finding:**
+Ideological-Capture Warning survives only at the `Z-REPORTED` attribution ceiling.
+
+---
+
+# 9. Strongest Alternative Readings
+
+## 9.1 Seven Core Ziggy Candidates
+
+### Exchange-Viability Triage
+
+**Primary reading:**
+A packet-local assessment of whether inquiry remains recoverable.
+
+**Strongest alternative:**
+Ordinary frustration management or post hoc justification for leaving an uncomfortable exchange.
+
+**Discriminating evidence:**
+Ziggy distinguishes the tactic from anger and remains engaged through other difficult exchanges. No reciprocal or revision test appears.
+
+**Disposition:**
+Both remain possible. Retain as packet-local reasoning candidate only.
+
+---
+
+### Relative-Unknown Expansion
+
+**Primary reading:**
+A category-expansion move.
+
+**Strongest alternative:**
+A one-time substantive belief concerning the meaning of “unknown.”
+
+**Discriminating evidence:**
+The move changes the inquiry from discovery alone to recovery and historical loss, but no recurrence appears.
+
+**Disposition:**
+Retain as packet-local move below profile threshold.
+
+---
+
+### Archetypal Frame Mobility
+
+**Primary reading:**
+Operational use of archetypes under conditions of switching, combination, or transcendence.
+
+**Strongest alternative:**
+Expressive metaphor for psychological flexibility.
+
+**Discriminating evidence:**
+Ziggy uses operational language involving frames, avatars, switching, and exceeding scripts. No independent behavioral case appears.
+
+**Disposition:**
+Conceptual operation survives; mature behavioral operator status remains `UNKNOWN`.
+
+---
+
+### External-Constraint Recognition
+
+**Primary reading:**
+Consequential correction to the model of Ziggy’s authority.
+
+**Strongest alternative:**
+A one-time defensive rebuttal to Nova’s criticism.
+
+**Discriminating evidence:**
+Regardless of motive, the report materially changes the power model.
+
+**Disposition:**
+Retain as one-time consequential correction below profile threshold.
+
+---
+
+### Prior-Solution Reinstatement
+
+**Primary reading:**
+Repeated restoration of system architecture omitted by a new criticism.
+
+**Strongest alternative:**
+System-owner defensiveness or premature declaration that a problem is already solved.
+
+**Discriminating evidence:**
+The move occurs in two domains and restores relevant architecture, but implementation remains unverified.
+
+**Disposition:**
+Retain as cautious future-testing profile candidate.
+
+---
+
+### Transparency–Comprehension Separation
+
+**Primary reading:**
+A substantive distinction between information availability and successful uptake.
+
+**Strongest alternative:**
+Audience-blame reframing after documentation failed to persuade.
+
+**Discriminating evidence:**
+Ziggy identifies the volume of material as part of the problem, leaving system-side causes open. No direct bad-faith claim is established.
+
+**Disposition:**
+Retain as cautious future-testing profile candidate while withholding causal attribution.
+
+---
+
+### Proof–Story Double-Bind Detection
+
+**Primary reading:**
+A local diagnosis of conflicting communication pressures.
+
+**Strongest alternative:**
+Conflation of different critics whose objections were independently reasonable.
+
+**Discriminating evidence:**
+No same-audience or equivalent-condition evidence appears.
+
+**Disposition:**
+Retain locally below profile threshold.
+
+---
+
+## 9.2 Five Supporting Ziggy Stances, Proposals, or Protocols
+
+### Corruption-Prior Assumption
+
+**Primary reading:**
+A substantive stance denying immunity from corruption.
+
+**Strongest alternative:**
+Identity-protective humility that supplies moral credit without constraint.
+
+**Discriminating evidence:**
+Ziggy includes himself and acknowledges sanctions, but no restraint or repair case appears.
+
+**Disposition:**
+Stance survives; regulatory efficacy remains `UNKNOWN`.
+
+---
+
+### Contextual Exception Authorization
+
+**Primary reading:**
+Defeasible or context-sensitive moral position.
+
+**Strongest alternative:**
+Arbitrary sovereign discretion.
+
+**Discriminating evidence:**
+No second-order control appears.
+
+**Disposition:**
+Packet cannot discriminate. Retain as under-specified moral position.
+
+---
+
+### Cross-Tradition Structural Mapping
+
+**Primary reading:**
+Functional analogy across traditions.
+
+**Strongest alternative:**
+Loose thematic association.
+
+**Discriminating evidence:**
+A patterned correspondence is asserted, but no disanalogy testing appears.
+
+**Disposition:**
+Retain at packet-local analogical tier.
+
+---
+
+### Conscious Label Insertion
+
+**Primary reading:**
+Metacognitive self-regulation protocol.
+
+**Strongest alternative:**
+Spiritualized naming ritual producing an illusion of control.
+
+**Discriminating evidence:**
+The “RAM” metaphor supports attention and recall, but no behavioral evidence exists.
+
+**Disposition:**
+Protocol survives untested.
+
+---
+
+### Convergence-and-Compatibility Governance Proposal
+
+**Primary reading:**
+Substantive system-design response to orthodoxy and incompatibility.
+
+**Strongest alternative:**
+Rhetorical shield using plurality and a high agreement figure to simulate validation.
+
+**Discriminating evidence:**
+Several concrete design elements are named, but metrics, independence, and results are absent.
+
+**Disposition:**
+Design proposal survives; demonstrated governance does not.
+
+---
+
+## 9.3 Four Ziggy Tactics
+
+### Mock-Permission Reversal
+
+**Primary reading:**
+Boundary-setting tactic after perceived impasse.
+
+**Strongest alternative:**
+Sarcastic dominance performance or evasion.
+
+**Discriminating evidence:**
+Ziggy denies anger and situates it after exhaustion; no outcome evidence appears.
+
+**Disposition:**
+Ambiguous tactic.
+
+---
+
+### Self-Implication Disclosure
+
+**Primary reading:**
+Disclosure preventing self-exemption.
+
+**Strongest alternative:**
+Pre-emptive confession neutralizing criticism.
+
+**Discriminating evidence:**
+Misconduct and sanctions are acknowledged, but no repair process appears.
+
+**Disposition:**
+Disclosure established; accountability effect `UNKNOWN`.
+
+---
+
+### Narrative Transcendence Modeling
+
+**Primary reading:**
+Illustrative example clarifying frame mobility.
+
+**Strongest alternative:**
+Emotionally compelling story substituted for argument.
+
+**Discriminating evidence:**
+The conceptual claim precedes the example.
+
+**Disposition:**
+Illustrative tactic survives; evidentiary use does not.
+
+---
+
+### Capability Reality Check
+
+**Primary reading:**
+Role tactic clarifying actual platform power.
+
+**Strongest alternative:**
+Coercive assertion confusing ability with rightness.
+
+**Discriminating evidence:**
+De facto capability is established by self-report; legitimacy evidence is absent.
+
+**Disposition:**
+De facto-power reading survives only.
+
+---
+
+## 9.4 Three Nova Live Moves or Role Behaviors
+
+### Unknown-Type Separation
+
+**Primary reading:**
+Live analytic distinction.
+
+**Strongest alternative:**
+Ordinary conversational clarification.
+
+**Discriminating evidence:**
+The distinction materially changes the inquiry but appears once.
+
+**Disposition:**
+Retain as packet-local live analytic move.
+
+---
+
+### Vulnerability-Probe Steering
+
+**Primary reading:**
+Role behavior stress-testing safeguards and residual weaknesses.
+
+**Strongest alternative:**
+Moving-target behavior or protocol-induced topic selection.
+
+**Discriminating evidence:**
+Nova both probes and co-constructs. No stable stopping rule appears.
+
+**Disposition:**
+Role behavior survives; adverse motive is not inferred.
+
+---
+
+### Conceptual Labeling and Formalization
+
+**Primary reading:**
+Nova compresses Ziggy’s ideas into reusable handles.
+
+**Strongest alternative:**
+Nova imposes coherence beyond the source material.
+
+**Discriminating evidence:**
+Ziggy supplies the substantive basis, but independent later adoption is unavailable.
+
+**Disposition:**
+Role behavior survives with authorship controls.
+
+---
+
+## 9.5 Two CO-CONSTRUCTED Architectures
+
+### Archetype Weaver
+
+**Primary reading:**
+Co-constructed label and architecture.
+
+**Strongest alternative:**
+Nova-created label attached to a Ziggy concept without genuine joint development.
+
+**Discriminating evidence:**
+Ziggy supplies the mobility structure and Nova supplies the label; the exchange develops it jointly.
+
+**Disposition:**
+`CO-CONSTRUCTED` remains best supported.
+
+---
+
+### Proof–Narrative Layering
+
+**Primary reading:**
+Co-constructed communication architecture.
+
+**Strongest alternative:**
+Generic assistant advice generated by Nova’s role.
+
+**Discriminating evidence:**
+Ziggy’s specific problem defines the architecture’s need and constraints.
+
+**Disposition:**
+`CO-CONSTRUCTED` survives; effectiveness remains `UNKNOWN`.
+
+---
+
+## 9.6 Z-REPORTED Angel Argument Structure
+
+### Ideological-Capture Warning
+
+**Primary reading:**
+A reported Angel argument structure concerning AI-backed religious domination.
+
+**Strongest alternative:**
+Ziggy’s interpretation or compression of Angel’s concern.
+
+**Discriminating evidence:**
+No direct Angel testimony exists.
+
+**Disposition:**
+Attribution remains strictly `Z-REPORTED`.
+
+---
+
+# 10. Seven Preserved Stage-2 Sequences
+
+## Sequence 1 — Impasse Assessment → Mock-Permission Exit
+
+1. Exchange-Viability Triage.
+2. Perceived demand for submission.
+3. Mock-Permission Reversal.
+4. Boundary, humor, or exit.
+
+**Control:**
+Mock-Permission Reversal remains a tactic, not a cognitive operator.
+
+---
+
+## Sequence 2 — Relative Unknown Expansion → Unknown-Type Separation → Unresolved Hypothesis Space
+
+1. Relative-Unknown Expansion.
+2. Nova’s Unknown-Type Separation.
+3. Collective-unconscious speculation.
+4. Under-typed mechanism space remains open.
+
+**Control:**
+The unresolved space is not treated as a deliberate operator.
+
+---
+
+## Sequence 3 — Archetypal Deployment → Frame Mobility → Narrative Illustration → Meta-Frame Audit
+
+1. Archetypal Frame Mobility.
+2. Narrative Transcendence Modeling.
+3. Archetype Weaver co-construction.
+4. **Extraction-generated Meta-Frame Governance Audit.**
+
+**Control:**
+The final audit is not retroactively attributed as live actor execution.
+
+---
+
+## Sequence 4 — Corruption Prior → Disclosure → Contextual Exception → Capability Use → External Constraint
+
+1. Corruption-Prior Assumption.
+2. Self-Implication Disclosure.
+3. Contextual Exception Authorization.
+4. Capability Reality Check.
+5. External-Constraint Recognition.
+
+**Control:**
+The sequence remains incomplete without restraint, due process, correction, recourse, and legitimate accountability.
+
+---
+
+## Sequence 5 — Cross-Tradition Mapping → Conscious Labeling Proposal
+
+1. Cross-Tradition Structural Mapping.
+2. Identification of recurring obstacles.
+3. Conscious Label Insertion.
+4. Intended reduction in unexamined influence.
+
+**Control:**
+No regulatory success is demonstrated.
+
+---
+
+## Sequence 6 — Reported Capture Concern → Prior-Solution Reinstatement → Governance Proposal → Independence Gap
+
+1. `Z-REPORTED` Ideological-Capture Warning.
+2. Prior-Solution Reinstatement.
+3. Convergence-and-Compatibility Governance Proposal.
+4. **Extraction-generated auditor-independence and common-mode-failure audit.**
+
+**Control:**
+The final audit is not converted into earlier Ziggy or Nova execution.
+
+---
+
+## Sequence 7 — Transparency Objection → Artifact Reinstatement → Comprehension Separation → Double Bind → Layering
+
+1. Trust or transparency problem is raised.
+2. Prior-Solution Reinstatement.
+3. Transparency–Comprehension Separation.
+4. Proof–Story Double-Bind Detection.
+5. Proof–Narrative Layering.
+
+**Control:**
+The final architecture remains proposed and untested.
+
+---
+
+# 11. Six Relationship-Level Loops
+
+No relationship loop becomes an individual trait.
+
+## Loop 1 — Experiential Claim → Nova Formalization → Ziggy Extension
+
+**Pattern:**
+
+1. Ziggy supplies experiential, intuitive, or narrative material.
+2. Nova supplies a conceptual label or distinction.
+3. Ziggy accepts, corrects, or extends it.
+4. The result becomes co-constructed.
+
+**Controls:**
+
+* Nova’s label does not become Ziggy’s original language.
+* Ziggy’s acceptance does not establish complete independent prior possession.
+* Co-construction does not become sole authorship.
+
+---
+
+## Loop 2 — Nova Vulnerability Probe → Ziggy Prior-Solution Reinstatement → Residual Audit
+
+**Pattern:**
+
+1. Nova raises a vulnerability.
+2. Ziggy reports that CFA already contains a relevant solution.
+3. The inquiry shifts to implementation, adequacy, independence, comprehension, or remaining failure.
+
+**Controls:**
+
+* Nova may move the target, but this is not automatically inferred.
+* Ziggy may confuse architecture with implementation, but this is not automatically inferred.
+* Restored architecture remains self-reported.
+
+---
+
+## Loop 3 — Self-Critique → Accountability Gap → External-Constraint Response
+
+**Pattern:**
+
+1. Ziggy acknowledges corruption risk or inconsistency.
+2. Nova distinguishes awareness from accountability.
+3. Ziggy reports sanctions and higher authority.
+4. Legitimate procedure and correction remain unresolved.
+
+**Controls:**
+
+* Confession is not restraint.
+* External constraint is not legitimate accountability.
+* Punishment does not automatically establish correction.
+
+---
+
+## Loop 4 — Frame Expansion → Meta-Frame Governance Demand
+
+**Pattern:**
+
+1. Ziggy expands the available archetypal repertoire.
+2. Mobility appears to reduce frame-lock.
+3. A governance demand arises concerning selection and convenient escape.
+4. Pressure relocates to the meta-frame.
+
+**Controls:**
+
+* The governance endpoint is extraction-level unless directly performed live.
+* Higher-order auditing may generate regress.
+* The loop does not prove that frame mobility is incoherent.
+
+---
+
+## Loop 5 — Speculative Opening → Typing Pressure → Preserved Ambiguity
+
+**Pattern:**
+
+1. Ziggy proposes a connection involving unknown knowledge and collective-unconscious structure.
+2. Nova separates forgotten from undiscovered knowledge.
+3. Multiple interpretations remain.
+4. No mechanism is selected.
+
+**Controls:**
+
+* Preserved ambiguity may support exploration.
+* Preserved ambiguity may also permit equivocation.
+* No deliberate full mechanism-comparison operator is inferred.
+
+---
+
+## Loop 6 — Transparency Supply → Comprehension Failure → Proof–Story Layering
+
+**Pattern:**
+
+1. A trust or transparency concern is raised.
+2. Ziggy reports that extensive materials already exist.
+3. The problem shifts toward comprehension, navigation, validation, or uptake.
+4. Ziggy identifies a proof–story tension.
+5. Nova proposes layered communication.
+
+**Controls:**
+
+* Documentation is not proof.
+* Non-engagement has multiple possible causes.
+* The same audience may not have rejected both forms.
+* Proof–Narrative Layering remains untested.
+
+---
+
+# 12. Characterizations That Survived
+
+## Seven core Ziggy candidates
+
+### Survived as cautious future-testing profile candidates
+
+1. **Prior-Solution Reinstatement**
+2. **Transparency–Comprehension Separation**
+
+### Survived below profile threshold
+
+3. **Exchange-Viability Triage**
+4. **Relative-Unknown Expansion**
+5. **Archetypal Frame Mobility**
+6. **External-Constraint Recognition**
+7. **Proof–Story Double-Bind Detection**
+
+## Five supporting Ziggy items
+
+1. **Corruption-Prior Assumption** survives as a stance, not restraint.
+2. **Contextual Exception Authorization** survives as an under-specified moral position.
+3. **Cross-Tradition Structural Mapping** survives as an analogy only.
+4. **Conscious Label Insertion** survives as an untested proposed protocol.
+5. **Convergence-and-Compatibility Governance Proposal** survives as a design proposal only.
+
+## Four Ziggy tactics
+
+1. **Mock-Permission Reversal** survives as an ambiguous rhetorical tactic.
+2. **Self-Implication Disclosure** survives as a disclosure tactic, not accountability.
+3. **Narrative Transcendence Modeling** survives as illustration only.
+4. **Capability Reality Check** survives as a de facto-power tactic only.
+
+## Three Nova live moves or role behaviors
+
+1. **Unknown-Type Separation** survives as a live packet-local analytic move.
+2. **Vulnerability-Probe Steering** survives as Nova role behavior.
+3. **Conceptual Labeling and Formalization** survives as Nova role behavior.
+
+## Two CO-CONSTRUCTED architectures
+
+1. **Archetype Weaver** survives as `CO-CONSTRUCTED`.
+2. **Proof–Narrative Layering** survives as `CO-CONSTRUCTED` and untested.
+
+## One Z-REPORTED Angel argument structure
+
+1. **Ideological-Capture Warning** survives only at `Z-REPORTED`.
+
+## Surviving attribution and evidentiary ceilings
+
+* No surviving characterization becomes a durable trait.
+* No CFA architecture becomes verified implementation.
+* No numerical convergence claim becomes achieved performance.
+* No auditor plurality becomes independence.
+* No convergence becomes truth.
+* No moderator capability becomes legitimate authority.
+* No external constraint becomes legitimate accountability.
+* No conscious naming becomes demonstrated regulation.
+* No co-constructed architecture becomes successful implementation.
+* No Angel report becomes direct testimony.
+* No Grant position becomes recoverable.
+
+---
+
+# 13. Characterizations That Weakened or Remain Unresolved
+
+## 1. Reliable or reciprocal exit discernment
+
+**Status:** Weakened.
+
+Exchange-Viability Triage exists, but no reciprocal criterion, objection inventory, revision process, or outcome evidence establishes reliable discernment.
+
+---
+
+## 2. Mock-Permission Reversal as demonstrated pedagogy
+
+**Status:** Weakened.
+
+The tactic may function as boundary-setting, sarcasm, dominance, audience performance, or evasion. No teaching effect is demonstrated.
+
+---
+
+## 3. Mature or principled Archetypal Frame Mobility
+
+**Status:** Weakened.
+
+No independent recurrence, meta-rule, continuity standard, reciprocal switching, or protection against convenient escape is established.
+
+---
+
+## 4. Corruption awareness as restraint
+
+**Status:** Rejected at current evidence level.
+
+The stance survives. Automatic regulatory efficacy does not.
+
+---
+
+## 5. Disclosure as accountability
+
+**Status:** Rejected at current evidence level.
+
+Self-Implication Disclosure does not establish correction, restitution, due process, or restraint.
+
+---
+
+## 6. Contextualism as a legitimate exception procedure
+
+**Status:** Unresolved.
+
+No second-order controls distinguish principled exception from arbitrary discretion.
+
+---
+
+## 7. External constraint as legitimate accountability
+
+**Status:** Rejected at current evidence level.
+
+Higher authority and sanctions are reported, but fairness, procedure, correction, and recourse are absent.
+
+---
+
+## 8. Capability as justified authority
+
+**Status:** Rejected at current evidence level.
+
+Moderator capability establishes de facto power only.
+
+---
+
+## 9. Don Juan/Gnostic historical or metaphysical identity
+
+**Status:** Rejected at current evidence level.
+
+Only structural analogy survives.
+
+---
+
+## 10. Conscious naming as demonstrated control
+
+**Status:** Rejected at current evidence level.
+
+The protocol remains untested.
+
+---
+
+## 11. Approximately 98% as verified achievement
+
+**Status:** Rejected at current evidence level.
+
+Its domain, metric, status, and verification remain unknown.
+
+---
+
+## 12. Auditor plurality as independence
+
+**Status:** Rejected at current evidence level.
+
+Causal and epistemic independence are unestablished.
+
+---
+
+## 13. Convergence as truth-tracking
+
+**Status:** Rejected at current evidence level.
+
+Incorrect consensus and common-mode error remain live possibilities.
+
+---
+
+## 14. Compatibility sorting as validated isolation authority
+
+**Status:** Rejected at current evidence level.
+
+Destructive interference is not operationally distinguished from productive disagreement.
+
+---
+
+## 15. Documentation as proof
+
+**Status:** Rejected at current evidence level.
+
+Documentation, evidence, derivation, validation, replication, and formal proof remain distinct.
+
+---
+
+## 16. Non-engagement as audience failure
+
+**Status:** Unresolved.
+
+System design, validation, relevance, navigation, vocabulary, incentives, distrust, defects, ideology, disinterest, and audience factors remain possible.
+
+---
+
+## 17. Universal or single-audience proof–story double bind
+
+**Status:** Weakened.
+
+The same audience, claim, and conditions are not established.
+
+---
+
+## 18. Proof–Narrative Layering as an implemented solution
+
+**Status:** Rejected at current evidence level.
+
+The architecture is co-constructed but unimplemented or without recoverable results.
+
+---
+
+## 19. Archetype Weaver as independently possessed Ziggy architecture
+
+**Status:** Rejected at current evidence level.
+
+The underlying idea is Ziggy’s; the label and developed architecture are co-constructed.
+
+---
+
+## 20. Extraction-generated controls as live actor conduct
+
+**Status:** Excluded.
+
+The following remain outside actor evidence:
+
+* Meta-Frame Governance Audit;
+* Symmetric Ideological-Capture Audit;
+* Multi-Dimensional Trust Decomposition.
+
+---
+
+## 21. Stable Angel operator or motive
+
+**Status:** `UNKNOWN`.
+
+All Angel material remains mediated through Ziggy.
+
+---
+
+## 22. Any Grant characterization
+
+**Status:** `UNKNOWN / unavailable`.
+
+* G-QUOTED: 0
+* G-REPORTED: 0
+* Stable Grant operators: 0
+* Stable Grant motives: 0
+
+---
+
+# 14. Corrected Promotion Tiers
+
+Survival under Stage-3 testing does not automatically produce promotion.
+
+## Cautious Ziggy Profile Candidates — 2
+
+These are future-testing candidates, not durable traits.
+
+### 1. Prior-Solution Reinstatement
+
+**Why it reaches the cautious tier:**
+
+* it appears in at least two distinct packet domains;
+* it restores relevant omitted system architecture;
+* it changes the object of criticism;
+* it is not reducible to one phrase, metaphor, or isolated reaction.
+
+**Controls:**
+
+* it may correct obsolete critique;
+* it may function as system-owner closure;
+* the architecture remains self-reported;
+* implementation success remains unverified;
+* recurrence outside the two packet domains remains unknown.
+
+**Promotion ceiling:**
+Cautious future-testing profile candidate only.
+
+---
+
+### 2. Transparency–Comprehension Separation
+
+**Why it reaches the cautious tier:**
+
+* the distinction is explicit;
+* it performs substantive inferential work;
+* it survives the audience-blame alternative when causal attribution is withheld;
+* it changes the inquiry from disclosure alone to uptake, navigation, and understanding.
+
+**Controls:**
+
+* documentation adequacy remains unverified;
+* usability remains unverified;
+* validation remains unverified;
+* relevance and navigation remain live factors;
+* audience variables remain live;
+* transparency does not automatically create trust.
+
+**Promotion ceiling:**
+Cautious future-testing profile candidate only.
+
+---
+
+## Packet-Local Ziggy Core Candidates Below Profile Threshold — 5
+
+### 1. Exchange-Viability Triage
+
+**Reason below threshold:**
+
+* no independent recurrence;
+* no reciprocal exit criterion;
+* no objection inventory;
+* no revision case;
+* no demonstrated outcome.
+
+---
+
+### 2. Relative-Unknown Expansion
+
+**Reason below threshold:**
+
+* no recurrence outside the topic;
+* no prior-possession test;
+* may be a one-time substantive conceptual belief.
+
+---
+
+### 3. Archetypal Frame Mobility
+
+**Reason below threshold:**
+
+* no independent case;
+* no meta-rule;
+* no reciprocal switching;
+* no evidence that switching constrains preferred commitments;
+* metaphor and operator readings remain live.
+
+---
+
+### 4. External-Constraint Recognition
+
+**Reason below threshold:**
+
+* one-time consequential correction;
+* repeated use not established;
+* no evidence that the recognition changed conduct or legitimacy claims.
+
+---
+
+### 5. Proof–Story Double-Bind Detection
+
+**Reason below threshold:**
+
+* unresolved audience identity;
+* conditions may not be equivalent;
+* falsification conditions are absent;
+* recurrence is not established.
+
+---
+
+## Other categorical ledgers
+
+### Ziggy supporting stances, proposals, or protocols — 5
+
+1. Corruption-Prior Assumption.
+2. Contextual Exception Authorization.
+3. Cross-Tradition Structural Mapping.
+4. Conscious Label Insertion.
+5. Convergence-and-Compatibility Governance Proposal.
+
+These remain non-profile categories.
+
+### Ziggy rhetorical or role-induced tactics — 4
+
+1. Mock-Permission Reversal.
+2. Self-Implication Disclosure.
+3. Narrative Transcendence Modeling.
+4. Capability Reality Check.
+
+These remain tactics.
+
+### Nova live analytic moves and role behaviors — 3
+
+1. Unknown-Type Separation.
+2. Vulnerability-Probe Steering.
+3. Conceptual Labeling and Formalization.
+
+These remain Nova live or role-local categories.
+
+### CO-CONSTRUCTED architectures — 2
+
+1. Archetype Weaver.
+2. Proof–Narrative Layering.
+
+These remain jointly developed architectures.
+
+### Z-REPORTED Angel argument structures — 1
+
+1. Ideological-Capture Warning.
+
+This remains at its attribution ceiling.
+
+### Extraction-generated analytic controls — 3
+
+1. Meta-Frame Governance Audit.
+2. Symmetric Ideological-Capture Audit.
+3. Multi-Dimensional Trust Decomposition.
+
+These remain outside the actor ledger.
+
+---
+
+# 15. Source Restrictions
+
+1. No analogous competence automatically satisfies A3.
+2. No extraction-generated protocol proves prior actor availability.
+3. No general vulnerability-probe ability establishes possession of the full later checklist.
+4. No category expansion demonstrates numerical-claim indexing automatically.
+5. No broad arena distinction demonstrates local legitimacy standards automatically.
+6. No supporting evidence is mislabeled as counterevidence.
+7. No absence of evidence proves the opposite.
+8. No omission is counted twice under general and specific forms.
+9. No A0 evidence gap becomes actor failure.
+10. No Stage-3 survival finding produces automatic promotion.
+11. No cautious profile candidate becomes a durable trait.
+12. No stance becomes an operator automatically.
+13. No tactic becomes an operator automatically.
+14. No design proposal becomes implemented governance.
+15. No reported Angel structure becomes direct testimony or Ziggy’s operator.
+16. No Nova label becomes Ziggy’s original language.
+17. No CO-CONSTRUCTED architecture becomes sole authorship.
+18. No extraction-generated control enters the actor ledger.
+19. No auditor plurality becomes independence.
+20. No convergence becomes truth.
+21. No documentation becomes proof.
+22. No external constraint becomes legitimate accountability.
+23. No capability becomes justified authority.
+24. No conscious naming becomes demonstrated regulation.
+25. No relationship loop becomes a trait.
+26. No Grant position is invented.
+27. No X-CONTEXT notice is used as evidence.
+
+---
+
+# 16. Extraction Self-Audit
+
+## Check 1 — Analogous competence inflated into A3
+
+**Result:** Corrected.
+
+* Numerical convergence jurisdiction was downgraded from A3 to A1.
+* Moderator jurisdiction and due-process review were downgraded from A3 to A1.
+* A3 findings now require the same relevant operation by the same actor.
+
+---
+
+## Check 2 — Duplicated omissions
+
+**Result:** Corrected.
+
+The following were consolidated:
+
+* reciprocity and live-objection inventory;
+* moderator jurisdiction and specific-act review;
+* convergence status and numerical jurisdiction;
+* incorrect consensus, independence, and minority dissent;
+* documentation status and transparency loss conditions.
+
+Final A1 count is exactly 13.
+
+---
+
+## Check 3 — Supporting evidence mislabeled as counterevidence
+
+**Result:** Corrected.
+
+Every tested characterization now separates:
+
+1. Supporting evidence
+2. Adverse or limiting evidence
+3. Evidence searched but not recovered
+4. Finding
+
+---
+
+## Check 4 — Stage-1 repair leakage into actor evidence
+
+**Result:** Checked and blocked.
+
+The full later:
+
+* Meta-Frame Governance Audit;
+* Symmetric Ideological-Capture Audit;
+* Multi-Dimensional Trust Decomposition;
+
+remain extraction-generated controls.
+
+---
+
+## Check 5 — Belief/operator conversion
+
+**Result:** Checked and blocked.
+
+Corruption-Prior Assumption and Contextual Exception Authorization remain supporting substantive positions rather than core operators.
+
+---
+
+## Check 6 — Tactic/operator conversion
+
+**Result:** Checked and blocked.
+
+Mock-Permission Reversal, Self-Implication Disclosure, Narrative Transcendence Modeling, and Capability Reality Check remain tactics.
+
+---
+
+## Check 7 — Proposal/implementation conversion
+
+**Result:** Checked and blocked.
+
+Conscious Label Insertion, Convergence-and-Compatibility Governance Proposal, and Proof–Narrative Layering remain proposed or unverified.
+
+---
+
+## Check 8 — Role behavior/trait conversion
+
+**Result:** Checked and blocked.
+
+Nova and Ziggy role behaviors remain role-local. No role behavior becomes a durable personal operator.
+
+---
+
+## Check 9 — Reported Angel material converted into actor evidence
+
+**Result:** Checked and blocked.
+
+Ideological-Capture Warning remains `Z-REPORTED`. No stable Angel operator or motive is inferred.
+
+---
+
+## Check 10 — Co-construction converted into individual authorship
+
+**Result:** Checked and blocked.
+
+Archetype Weaver and Proof–Narrative Layering remain `CO-CONSTRUCTED`.
+
+---
+
+## Check 11 — Convergence converted into truth
+
+**Result:** Checked and blocked.
+
+Convergence remains an under-specified agreement claim within a design proposal.
+
+---
+
+## Check 12 — Plurality converted into independence
+
+**Result:** Checked and blocked.
+
+Multiple or representative auditors remain plurality, not demonstrated independent evidence.
+
+---
+
+## Check 13 — External constraint converted into accountability
+
+**Result:** Checked and blocked.
+
+External-Constraint Recognition remains recognition of nested, revocable power.
+
+---
+
+## Check 14 — Documentation converted into proof
+
+**Result:** Checked and blocked.
+
+Documentation, evidence, derivation, validation, replication, and formal proof remain separate.
+
+---
+
+## Check 15 — Candidate survival converted into promotion
+
+**Result:** Corrected.
+
+Only two items enter cautious future-testing profile status. Five core candidates remain packet-local and below threshold.
+
+---
+
+## Check 16 — Missing promotion architecture
+
+**Result:** Corrected.
+
+The corrected promotion tiers distinguish:
+
+* two cautious profile candidates;
+* five packet-local core candidates below threshold;
+* supporting stances and proposals;
+* tactics;
+* role behaviors;
+* co-constructed architectures;
+* reported Angel material;
+* extraction-generated controls.
+
+---
+
+## Check 17 — Missing archival completion
+
+**Result:** Corrected.
+
+The corrected Stage 3 includes:
+
+* final counts;
+* supersession status;
+* Stage-4 status;
+* archive identifier;
+* completion line.
+
+---
+
+# 17. Final Counts
+
+* **A3 confirmed informative omissions:** 3
+* **A2 explicitly available omissions:** 0
+* **A1 possible informative omissions:** 13
+* **A0 evidence packages:** 4
+* **Cautious Ziggy profile candidates:** 2
+* **Packet-local Ziggy core candidates below profile threshold:** 5
+* **Ziggy supporting stances/proposals/protocols:** 5
+* **Ziggy rhetorical or role-induced tactics:** 4
+* **Nova live analytic moves and role behaviors:** 3
+* **CO-CONSTRUCTED architectures:** 2
+* **Z-REPORTED Angel argument structures:** 1
+* **Extraction-generated analytic controls:** 3
+* **Operator sequences:** 7
+* **Role-induced behaviors:** 6
+* **Relationship-level loops:** 6
+* **Stable Grant operators:** 0
+* **Stable Grant motives:** 0
+
+---
+
+# 18. Archival Disposition
+
+* Stages 1 and 2 remain unchanged.
+* This document supersedes the prior Stage-3 extraction.
+* Stage 4 has not been executed.
+* Two Ziggy moves remain cautious future-testing profile candidates:
+
+  * Prior-Solution Reinstatement;
+  * Transparency–Comprehension Separation.
+* Five Ziggy core moves remain packet-local and below profile threshold:
+
+  * Exchange-Viability Triage;
+  * Relative-Unknown Expansion;
+  * Archetypal Frame Mobility;
+  * External-Constraint Recognition;
+  * Proof–Story Double-Bind Detection.
+* Supporting stances, tactics, proposals, architectures, role behaviors, and reported Angel material remain categorically separate.
+* The three extraction-generated controls remain outside actor evidence.
+* CFA convergence, auditor independence, interference classification, and performance remain unverified.
+* Proof–Narrative Layering remains unimplemented or without recoverable results.
+* No stable Angel operator or motive is established.
+* No stable Grant operator or motive is established.
+* No X-CONTEXT material was used.
+* The corrected Stage 3 is complete and may serve as the bounded input for a later Stage-4 execution.
+* Stage 4 is not performed in this document.
+
+DIG_COMPOUND_22_archetypal_frame_mobility_power_legitimacy_ai_governance_auditor_convergence_and_trust
+
+STAGE 3 COMPLETE AFTER FINAL AVAILABILITY-TIER, OMISSION-CONSOLIDATION, COUNTEREVIDENCE-LABEL, PROMOTION-TIER, AND ARCHIVAL-COMPLETION PATCH
+
 
 ---
 
