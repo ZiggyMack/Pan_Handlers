@@ -26,20 +26,37 @@
   → SW15 → SW16 → SW17 → SW18 → SW19, each Stage 4 needing at least
   one detector-vs-disease correction. This is a stable extractor
   failure mode, not a one-off — a strong Failure-Atlas candidate.
+- **SWEEP_20 (2026-07-20) — the eighth consecutive dig, five
+  instances in one output:** Prediction–Truth Direction Separation
+  (COUNTER-OPERATION to Prediction Sovereignty, not a partial
+  overlap); Probability-Regime/Origin Separation (COUNTER-OPERATION to
+  Universalized Evaluative Jurisdiction — a jurisdictional firewall is
+  not the jurisdictional violation); Taxonomy–Advocacy–Burden
+  Separation (COUNTER-OPERATION to Reconstruction Bypass — assigning
+  the proper burden counters bypass rather than extending it);
+  Prediction-Failure Chain Decomposition and Foundation-Cost Symmetry
+  Audit both downgraded from full `MATCHES`/`EXTENDS` to `PARTIAL
+  PACKET-LOCAL IMPLEMENTATION` (neither completed its live loss
+  condition). SW20 is also the archive's **third triple-cycle dig**
+  (after SW18 and SW19) — Stages 2, 3, AND 4 each required repair,
+  and this pattern was the concentrated Stage-4 error in all three.
 - **The companion rule this dig also hardened:** the unauthorized-
   promotion pattern ("cautious candidate" quietly becoming
-  "profile-ready") — caught again at Stage 4 despite the explicit
-  Stage-3 restriction stated the dig before.
+  "profile-ready") — caught again at Stage 4 for the SECOND straight
+  dig (SW19, SW20) despite the explicit Stage-3 restriction stated the
+  dig before.
 - **Kinship:** the Failure-Atlas seed list (Logical-Status
   Compression; Proxy Objection Construction); the polarity-reversal
   seed (registry pathologies never written as observed fact-chains —
   a related but distinct discipline).
-- **Unfinished:** whether the six-plus recurrences justify formal
+- **Unfinished:** whether the eight-plus recurrences justify formal
   Failure-Atlas registration now, ahead of the full synthesis pass;
   a standing Stage-4 pre-check specifically for corrective/diagnostic
-  operations before registry mapping.
+  operations before registry mapping; whether the "cautious →
+  profile-ready" companion slip is itself now recurrent enough (2 of 2
+  most recent digs) to warrant its own standing pre-check.
 - **Sources:** cross-dig pattern spanning
   `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_14_protection_frames_meaning_source_and_moral_authority.md`
   through
-  `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_19_lens_availability_starting_whole_unconscious_agency_and_interpretive_success.md`
+  `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_20_metaphysical_grounding_presuppositions_brute_facts_ockham_derivat.md`
   (Idea Trail; no promotions).

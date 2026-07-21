@@ -357,6 +357,32 @@ its most recurring extractor failure: **a method that detects a
 pathology is not thereby an instance of that pathology** (IT-126) —
 four separate instances in one output, the seventh consecutive dig.
 
+**The metaphysical-grounding layer (SWEEP_20 — the third triple-cycle
+dig, and the detector-vs-disease pattern's eighth consecutive
+occurrence):** three cautious profile candidates — **Prediction–Truth
+Direction Separation** (predictive success is evidence, never truth's
+cause or constitution; a counter-operation to Prediction Sovereignty,
+not a partial overlap), **Taxonomy–Advocacy–Burden Separation** (the
+six-level mapping-to-proof ladder; a counter-operation to
+Reconstruction Bypass), and **Foundation-Cost Symmetry Audit** (⭐ the
+Foundation-Symmetry Demand stated in its cleanest form yet — symmetry
+of audit ≠ equality of outcome — but caught exempting God as "costs
+nothing" mid-audit, IT-077) — plus four strong packet-local moves
+(Prediction-Failure Chain Decomposition; Probability-Regime/Origin
+Separation; Frame Expansion and Option-Set Recovery; Contrast-
+Dependence Audit, the last two auxiliary). The God/brute-fact/"I
+don't know" trilemma was repaired into three separate ledgers
+(ontological / explanatory-status / epistemic — IT-101); Grant's
+B1/B2 opposite-compatibility challenge (G-QUOTED) stands as the
+packet's philosophical center — *equally compatible with an
+explanandum and its negation ≠ explaining it* — and the asymmetric
+bridge it demands was never actually built (IT-127, a live open
+question). Five registry-direction corrections in one Stage-4 output
+mark the detector-vs-disease pattern's most concentrated recurrence
+yet (IT-126) — a corrective operation is not thereby an instance of
+the pathology it corrects — alongside the "cautious candidate quietly
+becoming profile-ready" slip, caught for the second straight dig.
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
@@ -422,8 +448,12 @@ A3-1/A3-2/A3-3 — Weak/Strong Thesis Separation never reached the
 starting-whole framework; the Goal–Outcome Audit never fixed Grant's
 active goal before scoring; the Clarification Audit never ran its own
 before/after test — the tool was in hand, half-used, three times in
-one packet). Candidate charter theme "over-generation / insufficient
-pruning" has not yet been directly tested — the opening research
-question stands.
+one packet); **the audit exempted its own proposal** (SW20, confirmed
+A3 — the Foundation-Symmetry Demand requires every worldview's
+primitives and stopping rules on one ledger, but the God proposal was
+initially treated as costing nothing; a complete theistic ledger was
+never produced until pressed, IT-077). Candidate charter theme
+"over-generation / insufficient pruning" has not yet been directly
+tested — the opening research question stands.
 
 *(Formal sections B–L still await Phase 2; this ledger feeds them.)*

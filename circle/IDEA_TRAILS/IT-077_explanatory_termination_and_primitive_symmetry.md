@@ -24,7 +24,25 @@
   physicalism's debt was foregrounded.
 - **Branches:** IT-043 (rival bedrocks — the same reciprocity at
   foundation scale); IT-030 (stopping rules); IT-083 (purpose vs work).
+- **SWEEP_20 continuation (2026-07-20) — the Foundation-Cost Symmetry
+  Audit and its live failure:** the same reciprocal-burden trajectory
+  restated in its cleanest form yet — *not "every worldview is equally
+  presuppositional," but "every worldview's primitives, bridge
+  principles, stopping rules, and explanation standards belong on the
+  same ledger."* ⭐ Ziggy's strongest packet finding (**the
+  Foundation-Symmetry Demand**), cautious profile candidate. But the
+  tu-quoque cap held again in the breach: Stage 3 caught the audit
+  initially **exempting God as "costs nothing"** — a complete
+  theistic ledger (existence / necessity / rationality / modal
+  structure / relation to intelligibility / bridge principles) was
+  never actually produced. Symmetry of *audit* ≠ equality of
+  *outcome* remains the discipline; this dig's contribution is
+  catching the audit itself running asymmetrically in practice, not
+  just in principle.
 - **Unfinished:** the debts compared by severity/coherence/scope rather
-  than counted; the discriminating-world test (A1-1).
-- **Sources:** `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_11_consciousness_fundamentality_emergence_and_explanatory_stopping.md`
+  than counted; the discriminating-world test (A1-1); whether a
+  completed symmetric theistic ledger (SW20's open A1 item) would
+  change the comparison.
+- **Sources:** `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_11_consciousness_fundamentality_emergence_and_explanatory_stopping.md`;
+  `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_20_metaphysical_grounding_presuppositions_brute_facts_ockham_derivat.md`
   (candidate-grade; no promotions).

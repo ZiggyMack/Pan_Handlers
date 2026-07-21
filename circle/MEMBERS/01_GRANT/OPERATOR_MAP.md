@@ -45,6 +45,20 @@ including its communicative-cost rationale (IT-095). And ruled UNCLEAR:
 his External-AI Adjudication Attempt's function (argument, evidence,
 authority, summary, or rhetoric — never pre-labeled as deference).*
 
+## D0-B. ⭐ Packet-Local G-QUOTED Ledger (SWEEP_20 — new evidentiary tier)
+
+> Exact wording reproduced via typed quotation (not a screenshot) —
+> weaker than G-DIRECT-SCREENSHOT (no image verification), stronger
+> than G-REPORTED (Ziggy's paraphrase). Provenance not independently
+> authenticated; surrounding context not guaranteed complete. Same QC
+> restriction binds: *no broad personality trait promotes from one
+> packet*.
+
+| Seed | Evidence | Notes |
+| --- | --- | --- |
+| **Additive Commitment-Ledger Formalization** | G-QUOTED (G-007) · HIGH locally | translates rival theories into explicit commitment sets (A1: X is brute; B1: God is brute; B2: X is a feature of God) and tests whether one side carries an added independent commitment without compensating explanatory gain; **A1, B1, and B2 held UNKNOWN** — no substantive definitions supplied absent his own explicit assignment |
+| **Explanatory Constraint and Opposite-Compatibility Demand** | G-QUOTED (G-007) · HIGH locally | his strongest recoverable challenge, repaired away from blanket deductivism: *if B1 remains equally compatible with B2 and not-B2, B1 has not yet been shown to explain why B2 obtains* — satisfiable by entailment, necessitation, constitution, causation, probabilistic support, or another asymmetric relation, never strict deduction alone; ruled the packet's philosophical center (IT-127); the asymmetric bridge it demands was never actually built by either side (live A2 omission) |
+
 ## D. Recurring Operators
 
 ### CO-001 · Prediction Sovereignty

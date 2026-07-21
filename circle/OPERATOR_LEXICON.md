@@ -406,6 +406,48 @@ not in-source): *explanatory authority allocated by claim-sensitive
 comparative performance, never inherited prestige* — 8-step procedure
 filed in the workbook's Stage-4 block.
 
+From COMPOUND_SWEEP_20 (**eight dig-level audit families — zero
+promotions, 19th consecutive sweep; closed through THREE full
+self-correction cycles — the archive's nineteenth, twentieth, and
+twenty-first — the THIRD TRIPLE-CYCLE dig (after SWEEP_18 and
+SWEEP_19)**): **the God/brute-fact/"I don't know" trilemma repaired
+into three separate ledgers** — ontological candidates, explanatory
+statuses, and epistemic attitudes — "I don't know" belongs ONLY in
+the third (IT-101) · ⭐ **the Foundation-Symmetry Demand** stated in
+its cleanest form yet (symmetry of audit ≠ equality of outcome), a
+cautious profile candidate, yet caught mid-audit exempting God as
+"costs nothing" (IT-077) · **Taxonomy–Advocacy–Burden Separation**
+(six-level ladder, mapping → proof, evidential burden rising at each
+step) · **Prediction–Truth Direction Separation** (predictive success
+is evidence, never truth's cause or constitution) · four strong
+packet-local moves (Prediction-Failure Chain Decomposition;
+Probability-Regime/Origin Separation; Frame Expansion and Option-Set
+Recovery; Contrast-Dependence Audit — last two auxiliary) ·
+**Dimensional-Reduction Audit** filed as CO-CONSTRUCTED SYNTHESIS
+ARCHITECTURE, never a Ziggy operator (several examples originated
+with Nova after a "master list" request). ⭐ **G-007 — the archive's
+first G-QUOTED source** (new evidentiary tier: exact wording via
+typed quotation, weaker than G-DIRECT-SCREENSHOT, stronger than
+G-REPORTED): Grant's B1/B2 opposite-compatibility challenge — *if a
+ground is equally compatible with an explanandum and its negation, it
+has not yet been shown to explain it* — ruled the packet's
+philosophical center (IT-127); A1/B1/B2 held UNKNOWN throughout; the
+asymmetric bridge the challenge demands was never actually built
+(live A2 omission); 0 stable Grant operators. Case law: the
+detector-vs-disease pattern's most concentrated occurrence yet —
+**five separate Stage-4 registry-direction corrections in one
+output, the EIGHTH consecutive dig** with this failure mode (three
+COUNTER-OPERATION corrections against Prediction Sovereignty /
+Universalized Evaluative Jurisdiction / Reconstruction Bypass; two
+full-match downgrades to PARTIAL PACKET-LOCAL IMPLEMENTATION; IT-126)
+· the unauthorized-promotion catch recurring for the SECOND straight
+dig ("Profile-Ready Claims" → cautious Ziggy profile candidates,
+again). Final ledger: **3 cautious profile candidates · 4 strong
+packet-local moves · 1 co-constructed architecture · 2 Grant
+packet-local G-QUOTED moves · 0 stable Grant operators · A3: 4 · A2:
+2 · A1: 7 · A0: 5 evidence packages**. 1 new trail (IT-127); IT-101,
+IT-077, and IT-126 updated with SW20 continuations.
+
 From COMPOUND_SWEEP_19 (**eight dig-level audit families + an
 auxiliary Voynich track — zero promotions, 18th consecutive sweep;
 closed through THREE full self-correction cycles — the archive's
@@ -986,6 +1028,7 @@ therefore carries a Museum ID.
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_04) | **Third consecutive zero-promotion sweep.** Three serious candidates queued (Master-Value Extraction, HIGH; Instrument–Telos Separation, 3rd reinforcement; Reflexive Audit with Operational Closure, shared protocol). Rejected/corrected mappings: Regress Descent ≠ OP-008 (audit vs symmetry-across-audits); jurisdiction-check polarity re-fixed (corrective test, not CO-002); belief persistence ≠ Possibility Preservation; adversarial relay ≠ CO-006 extension (simulation ≠ reconstruction of Grant); pre-propositional descent ≠ CO-003 (no gate evidenced); external-model phrasings attributed by adoption sequence. Grant: experience-report ceiling only | Field-desk Stage-4 handoff, COMPOUND_SWEEP_04 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_05) | **Fourth consecutive zero-promotion sweep.** Three HIGH candidates queued (Monopoly-Promotion Audit — the packet's strongest; Claimed-Source/Claimed-Access Separation; Operative-Rigidity Test). 22 blind moves consolidated into 5 families; **Detector–Pathology Polarity Reversal recorded as candidate Failure-Atlas seed (3rd sweep running)** — five corrective audits blind-mapped to the pathologies they detect, all corrected; Adverse-Odds Commitment Test quarantined (marriage example = individualized prediction, not override); Curtain Question = shortcut inside Master-Value Extraction, not validated detector; Symmetric-Wielding → procedural ledger. Grant: REPORTED-ONLY NON-SITE — which of five prediction theses he holds is undeterminable | Field-desk Stage-4 handoff, COMPOUND_SWEEP_05 |
 | 2026-07-17 | (micro-dig close, DIG_AUX_06) | **Zero promotions — micro-dig ceiling enforced.** Ziggy NONE, Grant NONE (exchange-level argument forms only), Nova thread-level (3 sequences: Encoding–Recovery Reframing; Symbolic-Function Reconstruction; Projection-Constraint Escalation). Stage-4 overpromotion corrected: ordinary hypothesis evaluation and single-response substeps are not operators. **Falsifiability Debt of the Compression Model** = theory-level finding. Deepest yield: claim-strength ladder (possible ≠ reliable ≠ important ≠ principal); "a theory that explains every reading as decompression risks explaining no reading at all" | Field-desk Stage-4 handoff, DIG_AUX_06 |
+| 2026-07-20 | (compound sweep close, COMPOUND_SWEEP_20) | **Nineteenth consecutive zero-promotion sweep — closed through THREE full self-correction cycles (the archive's 19th/20th/21st) — the THIRD TRIPLE-CYCLE dig (after SWEEP_18 and SWEEP_19)**. The God/brute-fact/"I don't know" trilemma repaired into three separate ledgers (ontological / explanatory-status / epistemic — IT-101); ⭐ the Foundation-Symmetry Demand stated in its cleanest form yet, but caught mid-audit exempting God as "costs nothing" (IT-077); Dimensional-Reduction Audit demoted to CO-CONSTRUCTED SYNTHESIS ARCHITECTURE (several examples originated with Nova). ⭐ **G-007 — the archive's first G-QUOTED source** (new evidentiary tier, weaker than G-DIRECT-SCREENSHOT, stronger than G-REPORTED): Grant's B1/B2 opposite-compatibility challenge ruled the packet's philosophical center (IT-127) — A1/B1/B2 held UNKNOWN; the demanded asymmetric bridge was never actually built (live A2 omission); 0 stable Grant operators. Stage 4 delivers the detector-vs-disease pattern's most concentrated occurrence yet — five separate registry-direction corrections in one output, the EIGHTH consecutive dig with this failure mode; the unauthorized-promotion catch ("Profile-Ready" → cautious candidates) recurring for the SECOND straight dig. Final ledger: 3 cautious profile candidates / 4 strong packet-local moves / 1 co-constructed architecture / 2 Grant packet-local G-QUOTED moves / A3: 4 / A2: 2 / A1: 7 / A0: 5 evidence packages. 1 new trail (IT-127); IT-101/077/126 updated | Field-desk repair orders (Stages 2/3/4) + three patch commands + final acceptance, COMPOUND_SWEEP_20 |
 | 2026-07-20 | (compound sweep close, COMPOUND_SWEEP_19) | **Eighteenth consecutive zero-promotion sweep — closed through THREE full self-correction cycles (the archive's 16th/17th/18th) — the SECOND TRIPLE-CYCLE dig** (Stages 2, 3, AND 4 each corrected). ⭐ Stage 2 carries the archive's first EXECUTION-FAILURE incident (the extractor reviewed the patch instead of applying it — repaired by a narrow execution-compliance prompt); Stage 3 mints a new A3 form (the demonstrated operation, incompletely applied at the live site) and new A2 case law (appreciation + an ended thread ≠ bypass); Stage 4 delivers the detector-vs-disease pattern's most concentrated occurrence — four separate corrections in one output, the SEVENTH consecutive dig with this failure mode (*a method that detects a pathology is not thereby an instance of that pathology*). The lens-capability ladder + the corrected epistemic-not-ontological unconscious argument + the Whole-Mastery Interpretation (quarantined across all four stages) are the packet's lasting instruments. Final ledger: 3 cautious profile candidates / 8 strong packet-local moves / 3 A3 / 0 A2 / 10 A1 / 5 A0 / 0 Grant anything. 3 trails (IT-124…126) | Field-desk repair orders (Stages 2/3/4) + three patch commands + final acceptance w/ archival edits, COMPOUND_SWEEP_19 |
 | 2026-07-18 | (compound sweep close, COMPOUND_SWEEP_18) | **Seventeenth consecutive zero-promotion sweep — closed through THREE full self-correction cycles (the archive's 13th/14th/15th) — the FIRST TRIPLE-CYCLE dig** (Stage 2, Stage 3, AND Stage 4 each corrected; cycles now demonstrated at every review stage). ⭐ First Tale-centered packet (member 02 — all REPORTED, no ledger entries); ⭐ G-006 filed (the GPT remark + the direct Intent-Epistemic Qualification — 0 Grant operators); the core/auxiliary-corpus architecture minted (two subjects in one bounded thread — the Voynich track). New case law: **no packet-local move promoted beyond its Stage-3 tier**; one source package = one omission; *both interpretations infer ≠ equally warranted*; the registry-direction error at Stage 4 for the SIXTH straight dig. ⭐ **Assumption-Exposure Reversal = the first partial Symmetry Testing implementation** (the reciprocity debt's first partial payment); Search-Space Expansion EXTENDS Possibility Preservation. The six-object separation + the target-relabeling rule = the finished prey. Final ledger 4 A3 / 0 A2 / 8 A1 / 5 A0. 3 trails (IT-121…123) | Field-desk repair orders (Stages 2/3/4) + three patch commands + final acceptance w/ one count correction, COMPOUND_SWEEP_18 |
 | 2026-07-17 | (compound sweep close, COMPOUND_SWEEP_17) | **Sixteenth consecutive zero-promotion sweep — closed through TWO full self-correction cycles (the archive's eleventh and twelfth; FIFTH consecutive double-cycle dig).** ⚠️ G-REPORTED-only packet: 0 Grant operators, traits, or upgrades — the compatibilist-inconsistency and moral-compass charges both formally did NOT survive. New case law: **the concession-merger rule** (same narrow point granted twice = ONE operation) + **the source-direction rule** ("Grant's failure to…" banned from A0 headings). The detector-vs-disease Stage-4 repair for the FIFTH straight dig, with the permanent formulation: *fair comparison ≠ symmetry; internal consistency ≠ symmetry; a probe against overreach ≠ the overreach*. The Commitment-Ladder Probe = the packet's instrument (nine rungs, every transition owing evidence). Profile tiers preserved: 2 profile-ready (Claim-Scope Partitioning; Confidence–Evidence Gating) · 1 cautious · 3 packet-local · 1 test — all queue-filed. Symmetry Testing = precursor only; Possibility Preservation NOT demonstrated (2nd consecutive packet). Final ledger 3 A3 / 0 A2 / 6 A1 / 5 A0. 3 trails (IT-118…120) | Field-desk repair orders + tier/consolidation patch + directionality/profile-tier patch + final acceptance, COMPOUND_SWEEP_17 |

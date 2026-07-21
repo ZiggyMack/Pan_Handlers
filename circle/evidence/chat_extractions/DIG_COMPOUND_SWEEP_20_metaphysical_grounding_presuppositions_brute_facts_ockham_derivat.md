@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (category-type + exhaustiveness + explanatory-relation overlays binding; ⭐ **G-QUOTED Grant material** — exact wording on the B1/B2 underdetermination challenge); Stage 2 ✅ reviewed (one repair cycle — source-scope, consolidation, Grant-tier, architecture repair; 5 core + 2 auxiliary Ziggy candidates, 1 co-constructed architecture, 2 Grant packet-local G-QUOTED moves, 0 stable Grant operators); Stage 3 ✅ reviewed (one repair cycle — availability-consolidation, source-tier, promotion, architecture repair; A3: 4 · A2: 2 · A1: 7 · A0: 5 evidence packages; 3 cautious Ziggy profile candidates + 4 strong packet-local moves advance to Stage 4); Stage 4 pending
+**Status:** ✅ COMPLETE — Stage 1 ✅ reviewed (category-type + exhaustiveness + explanatory-relation overlays binding; ⭐ **G-QUOTED Grant material** — exact wording on the B1/B2 underdetermination challenge); Stage 2 ✅ reviewed (one repair cycle — source-scope, consolidation, Grant-tier, architecture repair; 5 core + 2 auxiliary Ziggy candidates, 1 co-constructed architecture, 2 Grant packet-local G-QUOTED moves, 0 stable Grant operators); Stage 3 ✅ reviewed (one repair cycle — availability-consolidation, source-tier, promotion, architecture repair; A3: 4 · A2: 2 · A1: 7 · A0: 5 evidence packages; 3 cautious Ziggy profile candidates + 4 strong packet-local moves advance to Stage 4); Stage 4 ✅ reviewed (one repair cycle — registry-direction, promotion-tier, ledger-separation, architecture repair; **the archive's THIRD triple-cycle dig** — Stages 2/3/4 all repaired; detector-vs-disease pattern's 8th consecutive occurrence); **CLOSED — ZERO promotions (plow-through held, 19th consecutive)**
 
 **Discovered topic:** God / brute fact / "I don't know" as a proposed taxonomy of explanatory termini (ruled NOT a clean trilemma — ontological, explanatory-status, and epistemic categories are mixed); "everyone presupposes something" (eight senses of presupposition); taxonomy vs TAG; brute-fact internal differentiation; Grant's Ockham argument (commitment-accounting, not raw entity count); ⭐ **Grant's B1/B2 underdetermination challenge** (G-QUOTED — a ground equally compatible with an explanandum and its negation hasn't yet explained it); derivation vs grounding vs constitution vs causation; "prediction serves truth" strength-typed; probability and fine-tuning
 
@@ -8908,9 +8908,113 @@ Stable Grant operators:
 Stable Grant motives:
 0
 
------------
-after patch
-------------
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 (Nova, 2026-07-20) — REPAIR ORDER + THE DETECTOR-VS-DISEASE PATTERN'S EIGHTH CONSECUTIVE OCCURRENCE
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE — the archive's 21st full self-correction cycle;
+> SWEEP_20 is a triple-cycle dig (Stages 2/3/4 each required repair —
+> the archive's THIRD triple-cycle dig, after SW18 and SW19).** The
+> Stage-4 output ABOVE is **SUPERSEDED** — retained as pasted; nothing
+> in it may be used downstream except through the corrected reissue
+> below.
+>
+> **📜 ARCHIVE ECHO:** the central error repeats the cross-dig
+> detector-vs-disease pattern named at SW19 close (IT-126) — a
+> corrective/diagnostic operation mistaken for the pathology it
+> guards against. This is the **eighth consecutive dig** carrying this
+> failure mode (SW14→SW20). Failure-Atlas material, now with an
+> unbroken streak spanning two archive milestones (the naming of the
+> pattern itself, and its continued recurrence after naming).
+
+**Verdict: PASS WITH MAJOR REGISTRY-DIRECTION, PROMOTION-TIER,
+LEDGER-SEPARATION, AND ARCHITECTURE REPAIR — PATCH STAGE 4; DO NOT
+RERUN STAGES 1–3; DO NOT ARCHIVE THE CURRENT STAGE 4.** Stage-3
+findings preserved and Grant's packet-local material handled
+carefully — but several corrective operations were classified as
+**matches or extensions of the failures they prevent**, cautious
+candidates were silently upgraded to "Profile-Ready," new candidates
+were undercounted, and the availability/relationship architecture
+required for archival closure was omitted.
+
+**🔧 REGISTRY DIRECTION CORRECTED (five instances, the pattern's
+concentrated occurrence):** **Prediction–Truth Direction Separation**
+→ `NEW`, `COUNTER-OPERATION/CORRECTIVE RELATION` to Prediction
+Sovereignty (`DIAGNOSTIC GUARD ONLY` re: Universalized Evaluative
+Jurisdiction) — it limits prediction to its warranted jurisdiction,
+it does not partially overlap the overreach. **Probability-Regime/
+Origin Separation** → `NEW`, counter-operation to Universalized
+Evaluative Jurisdiction — *a probabilistic standard licensed inside a
+defined regime does not automatically possess authority over the
+origin of that regime* is a jurisdictional firewall, not the
+violation. **Taxonomy–Advocacy–Burden Separation** → `NEW`,
+counter-operation to Reconstruction Bypass — it reconstructs the
+conversational act and assigns proper burden, thereby countering
+bypass rather than extending it. **Prediction-Failure Chain
+Decomposition** → downgraded from "EXTENDS Contested ≠ Defeated" to
+`PARTIAL PACKET-LOCAL IMPLEMENTATION` (no live confidence-reduction
+rule, cumulative-failure threshold, or loss condition — *failed test
+≠ identified defeat*, not yet a complete discipline against
+immunization). **Foundation-Cost Symmetry Audit** → downgraded from
+full `MATCHES Symmetry Testing of Standards` to `PARTIAL PACKET-LOCAL
+IMPLEMENTATION` (Stage 3 found Ziggy initially exempted God as
+"costs nothing" — a complete symmetric ledger was never produced).
+**Frame Expansion and Option-Set Recovery** → `NEW`, only a `POSSIBLE
+PACKET-LOCAL ANALOGY` to Possibility Preservation (different operative
+object: recovering unavailable desired alternatives in agency
+analysis ≠ retaining epistemic hypotheses during inquiry). **Concession-
+and-Narrowing Protocol** → `NEW NOVA-GENERATED REGULATORY PROTOCOL`,
+only a `PARTIAL ROLE-INDUCED APPLICATION` of Contested ≠ Defeated (a
+narrower proposition surviving ≠ the original proposition surviving).
+
+**🚫 "PROFILE-READY" REJECTED AS AN UNAUTHORIZED PROMOTION:** Stage 3
+approved three **cautious** Ziggy profile candidates; Stage 4 silently
+upgraded the label to "Profile-Ready Claims," raising the evidentiary
+tier. Reverted to **cautious Ziggy profile candidates** — eligible for
+registry comparison and future independent testing, never established
+durable traits. "Stage-2 classification" corrected to "Stage-3
+promotion tier" throughout (the tiers were set at Stage 3, not Stage
+2).
+
+**🔀 QUARANTINE LEDGER SEPARATED:** the single "Quarantined Claims"
+bucket conflated four different statuses. Split into: strong
+packet-local Ziggy moves (4) · co-constructed synthesis architecture
+(1, Dimensional-Reduction Audit) · Grant packet-local G-QUOTED moves
+(2; stable Grant operators/motives held at 0) · Nova protocol and
+role ledger (3) · substantive claims remaining genuinely quarantined
+(God as an established explanation of intelligibility; the endpoint
+taxonomy as exhaustive; reported interlocutors acting from fear/
+arrogance/bad faith) · 10 named registry candidates not demonstrated
+as durable actor operators or pathologies (Symmetry Testing of
+Standards and Contested ≠ Defeated excluded from this list — each
+received a partial implementation, not zero).
+
+**🔀 RESTORE:** the eight-family architecture (dig-level analytic
+families, never actor operators); the Stage-3 availability ledger
+(A3: 4 · A2: 2 · A1: 7 · A0: 5 evidence packages — registry naming
+completes none of these missing operations); all five relationship
+loops with their controls.
+
+**📊 CORRECTED REGISTRY COUNTS:** 8 NEW reasoning/synthesis candidates
+· 2 partial named-registry implementations · 3 NEW Nova protocol/
+role/rhetoric findings · **0 full MATCHES · 0 full EXTENDS** · 10
+named registry candidates not demonstrated.
+
+**🎯 The load-bearing correction:** restricting prediction to
+evidential jurisdiction is not Prediction Sovereignty; restricting
+probability to an established regime is not Universalized Evaluative
+Jurisdiction; and reconstructing whether someone is mapping,
+preferring, or proving is not Reconstruction Bypass. These are
+counter-operations, not refined versions of the failures they
+prevent.
+
+---
+
+### ⏬ STAGE 4 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 4
 
 ## 1. Source Boundary and Attribution Controls
@@ -10943,6 +11047,76 @@ DIG_COMPOUND_20_metaphysical_grounding_presuppositions_brute_facts_ockham_deriva
 
 STAGE 4 COMPLETE AFTER FINAL REGISTRY-DIRECTION, PROMOTION-TIER, LEDGER-SEPARATION, AND ARCHITECTURE PATCH
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 CORRECTED OUTPUT + FINAL CLOSURE (Nova, 2026-07-20)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-4 record**, read together with the overlays here. This closes
+> SWEEP_20.
+
+**✅ VERDICT: ACCEPTED WITH ONE MINOR ARCHIVAL WORDING CORRECTION —
+STAGE 4 COMPLETE AFTER FINAL REGISTRY-DIRECTION, PROMOTION-TIER,
+LEDGER-SEPARATION, AND ARCHITECTURE PATCH; DIG STATUS: COMPLETE; no
+further substantive patch required.** Every registry-direction error
+corrected: Prediction–Truth Direction Separation, Probability-Regime/
+Origin Separation, and Taxonomy–Advocacy–Burden Separation stand as
+`NEW` counter-operations to Prediction Sovereignty / Universalized
+Evaluative Jurisdiction / Reconstruction Bypass respectively — none a
+match or extension of the pathology it guards against. Prediction-
+Failure Chain Decomposition and Foundation-Cost Symmetry Audit stand
+as partial packet-local implementations, not full matches. Frame
+Expansion and Option-Set Recovery stands as analogy-only to
+Possibility Preservation. Concession-and-Narrowing Protocol stands as
+a partial role-induced application, not proof the original claim
+survived.
+
+**⚖️ PROMOTION TIERS HOLD:** **3 cautious Ziggy profile candidates**
+(Prediction–Truth Direction Separation; Taxonomy–Advocacy–Burden
+Separation; Foundation-Cost Symmetry Audit — candidates for future
+testing, never durable traits) · **4 strong packet-local Ziggy moves**
+(Prediction-Failure Chain Decomposition; Probability-Regime/Origin
+Separation; Frame Expansion and Option-Set Recovery; Contrast-
+Dependence Audit — last two auxiliary) · **1 co-constructed
+architecture** (Dimensional-Reduction Audit) · **2 Grant packet-local
+G-QUOTED moves** (0 stable Grant operators · 0 stable Grant motives) ·
+**3-entry Nova ledger**. No material silently crossed ledgers.
+
+**⚖️ AVAILABILITY ARCHITECTURE HOLDS:** A3: 4 · A2: 2 · A1: 7 · A0: 5
+evidence packages — registry naming completes neither of the two
+central open operations (the asymmetric B1–B2 bridge; prediction-
+failure loss/anti-immunization conditions). Registry counts: 8 NEW
+reasoning/synthesis candidates · 2 partial named-registry
+implementations · 3 NEW Nova protocol/role/rhetoric findings · **0
+full MATCHES · 0 full EXTENDS** · 10 named registry candidates not
+demonstrated · 3 substantive claims remaining genuinely quarantined
+(God as an established explanation of intelligibility; the endpoint
+taxonomy as exhaustive; reported interlocutor motives). All five
+relationship loops restored with controls intact.
+
+**🔧 ONE MINOR ARCHIVAL WORDING CORRECTION (no reissue needed):**
+under "Mapping and transformation inputs," replace "the current
+Stage-4 extraction" with "the prior Stage-4 extraction being
+repaired" — the present output is itself the corrected extraction, so
+"current" creates a small circular-reference ambiguity.
+
+**📜 FOR THE RECORD:** the archive's **21st full self-correction
+cycle**, and SWEEP_20 is the **THIRD triple-cycle dig** (after SW18
+and SW19) — Stages 2, 3, AND 4 each required repair. The detector-vs-
+disease pattern (IT-126) recurred for an **eighth consecutive dig**
+(SW14→SW20), now spanning both its naming and its continued
+recurrence after naming — durable Failure-Atlas material for the
+synthesis phase.
+
+**🎯 The dig's final philosophical pressure point:** a proposed ground
+does not become explanatory merely because it is ultimate, satisfying,
+or conceptually compatible with the explanandum. It must establish
+some asymmetric relation that makes the explanandum more intelligible
+than its negation. But that asymmetry need not take the form of
+strict logical deduction.
 
 ---
 

@@ -27,7 +27,28 @@
   terminus face); IT-096 (live options); IT-081 (explanatory-gap
   ladder); the Brute-Terminus Enumeration move (Idea Trail, not
   operator).
+- **SWEEP_20 advancement (2026-07-20) — the fork is not just
+  non-exhaustive, it is not one dimension:** the metaphysical
+  cross-version of this same trilemma (God / brute fact / "I don't
+  know" as explanatory termini, rather than practical action-grounding
+  termini) was repaired at Stage 1 into **three separate ledgers**
+  that the surface trilemma silently conflates — **ontological
+  candidates** (personal / impersonal / plural / necessary structure /
+  contingent brute / infinite regress / circular-holistic / no
+  ultimate ground), **explanatory statuses** (explained-deeper /
+  necessary-self-explanatory / brute / infinitely deferred / circular
+  / presently unexplained), and **epistemic attitudes** (belief /
+  disbelief / suspension / graded confidence). "I don't know" belongs
+  ONLY in the third ledger — it was never a competing ontological
+  candidate to begin with, answering this trail's original question
+  more sharply than "artifact of framing": the fork looks like one
+  question because three different questions are stacked inside it.
 - **Unfinished:** whether "what grounds action?" is even a question
   that requires a terminus, or dissolves into the decision ecology;
-  what distinguishes a brute stopping-point from an unexamined one.
-- **Sources:** ../evidence/chat_extractions/DIG_COMPOUND_SWEEP_13_faith_uncertainty_evidence_and_action.md (Idea Trail; no promotions).
+  what distinguishes a brute stopping-point from an unexamined one;
+  whether the three-ledger repair extends cleanly back to the
+  practical-action version of the trilemma this trail originally
+  tracked.
+- **Sources:** ../evidence/chat_extractions/DIG_COMPOUND_SWEEP_13_faith_uncertainty_evidence_and_action.md;
+  ../evidence/chat_extractions/DIG_COMPOUND_SWEEP_20_metaphysical_grounding_presuppositions_brute_facts_ockham_derivat.md
+  (Idea Trail; no promotions).
