@@ -8,6 +8,14 @@
 > that. Unlike Angles or Tale, Tom has real direct-screenshot material
 > (`T-DIRECT-SCREENSHOT, PARTIAL`), one tier below the archive's best
 > evidence.
+>
+> ⚠️ **Possible second "Tom," never confirmed as the same person:** a
+> "Tom" also appears in SWEEP_12's Gavin/lying dispute — Grant reportedly
+> says *"the symmetry breaker is that Tom does not have a reputation
+> for making baseless accusations... while Gavin definitely does."*
+> The archive never links this Tom to SWEEP_16's Tom. Treat it as an
+> unconfirmed possible overlap, same caution as the Angles/Grant
+> question in that file.
 
 **Written by:** Ziggy (direct-read section, pending) + compiled from
 the dig record (implied-picture section)
@@ -63,8 +71,32 @@ His exact metaethical home — error theory, noncognitivism,
 relativism, constructivism, contractualism — has never been pinned
 down and probably doesn't need to be for the positions above to hold.
 
+**Status marker worth noting.** Tom's two seeds are filed as "the
+archive's first non-Grant, non-Ziggy *member-level* direct seeds" — a
+status none of Sorta, Kee, or Tapioca get, even though all four came
+out of the same dig. He also gets his own dedicated offensive/defensive
+role write-up, which the other three don't: offensively, he condemns
+certain positions through harm and suffering, treating suffering as a
+decisive symmetry-breaker; defensively, each refinement of his view
+tends to introduce a new foundational commitment that isn't
+independently defended — his definitional moves can function as
+closure rather than explanation. And notably: **no interaction with
+Grant is documented anywhere** — his exchange runs entirely against
+Ziggy, in a separate thread from Grant's own material.
+
+**The relationship pattern this produced.** Filed as the archive's
+first Ziggy–Tom loop, the **Grounding Descent Loop**: Tom offers
+social rules → Ziggy asks for authority → Tom appeals to harm → Ziggy
+distinguishes obligation → Tom appeals to reasons → Ziggy asks for
+deeper grounding → Tom supplies a definition — with no agreed stopping
+rule anywhere in the exchange. The restriction cuts both ways: Tom's
+grounding is informal-but-real, but Ziggy's own realist demand is
+itself a commitment that owes grounds too.
+
 *Compiled from `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_16_formalization_semantics_frame_protection_and_moral_authority.md`,
 `../IDEA_TRAILS/IT-116_anti_realist_condemnation_and_the_force_of_reasons.md`,
+`../evidence/chat_extractions/DIG_COMPOUND_SWEEP_12_lying_justification_culpability_and_productive_disruption.md`
+(the possible-second-Tom passage only),
 and `../RELATIONSHIP_MAP.md`.*
 
 ## Ziggy's direct read

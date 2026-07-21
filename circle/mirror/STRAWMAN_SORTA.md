@@ -5,7 +5,10 @@
 > still an open decision — so there's nothing to cross-link. Two
 > layers make up the full picture: what the digs already imply
 > without Sorta's own confirmation, and Ziggy's direct read on top of
-> that. Sorta appears exactly once in the archive, in one screenshot.
+> that. Sorta appears exactly once in the archive with direct material,
+> in one screenshot — but is also *reported* (never directly evidenced)
+> in a second, separate dig, and there may be an entirely different
+> Sorta conversation that's never been captured anywhere.
 
 **Written by:** Ziggy (direct-read section, pending) + compiled from
 the dig record (implied-picture section)
@@ -50,7 +53,23 @@ symptom of a bigger gap — that the theory in question lacks any real
 account of action or character at all — was never settled. That's the
 live question her one sentence opened and nobody closed.
 
-*Compiled from `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_16_formalization_semantics_frame_protection_and_moral_authority.md`.*
+**She's positioned as neutral, not just uninvolved.** SW16 explicitly
+casts her as a "third-party conceptual refiner" — someone who
+sharpens a dispute rather than backing either side of it. She isn't
+Ziggy's ally against Grant or vice versa; her one intervention is
+framed as belonging to neither camp.
+
+**A possible second Sorta, never chased down.** A separate, earlier
+dig (SW15) reports a "Sorta" contributing utilitarianism-related
+arguments — but only through Ziggy's report, never directly, and that
+dig's own notices flag a "Sorta/utilitarianism discussion" as an
+entirely separate, unrecovered conversation (title and date unknown).
+Whether that's the same Sorta as SW16's agency objection, or even the
+same topic-area person, has never been established either way.
+
+*Compiled from `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_16_formalization_semantics_frame_protection_and_moral_authority.md`
+and `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_15_argument_structure_frame_transfer_and_debate_gamesmanship.md`
+(the reported-only utilitarianism mention).*
 
 ## Ziggy's direct read
 

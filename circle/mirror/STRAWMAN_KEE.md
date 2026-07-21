@@ -7,7 +7,9 @@
 > without Kee's own confirmation, and Ziggy's direct read on top of
 > that. **Kee is the thinnest record of the four people SWEEP_16
 > touched**, and honestly reporting that thinness is most of what the
-> first layer has to say.
+> first layer has to say. A full corpus check (2026-07-21) confirms
+> this is genuinely the complete record — no other dig, relationship
+> row, or idea trail mentions her at all.
 
 **Written by:** Ziggy (direct-read section, pending) + compiled from
 the dig record (implied-picture section)
@@ -46,10 +48,17 @@ makes her one-line contribution more load-bearing than its length
 suggests.
 
 **The role she's actually shown playing.** Beyond the one claim, Kee
-mostly appears as texture: common-sense remarks and reactions that
-function as a signal of what reads as intuitively compelling to a
-non-specialist audience, rather than as argument in her own right.
-That's rated low-to-medium confidence even in the underlying record.
+is explicitly bucketed with "other chat participants as social
+audience" rather than given an individual role write-up the way Tom
+is: short interjections, mockery, agreement reactions, and
+common-sense appeals that create public pressure and "reward
+rhetorical confidence over conceptual patience," anchored specifically
+to her reaction icons and surrounding chat context. That's rated
+Medium confidence — the lowest-confidence characterization of any of
+the four. This is a structural choice made at the time of extraction,
+not something that happened later: she was filed as audience texture
+from the start, despite having a real direct quote like Tom, Sorta,
+and Tapioca do.
 
 **The tell.** Tom, Sorta, and Tapioca all got a named position carried
 forward into the packet's final disposition. **Kee did not.** Her

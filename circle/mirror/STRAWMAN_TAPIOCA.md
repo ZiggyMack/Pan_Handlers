@@ -10,7 +10,10 @@
 > words appears anywhere in the source — every citation is paraphrase.
 > The prefix has also drifted in-file between `TP-` (as declared) and
 > `TA-` (as actually used in nearly every citation) — worth
-> normalizing if she's ever formally registered.
+> normalizing if she's ever formally registered. A full corpus check
+> (2026-07-21) confirms SW16 and its own two idea trails (IT-116,
+> IT-117) are genuinely the complete record — no other dig mentions
+> her.
 
 **Written by:** Ziggy (direct-read section, pending) + compiled from
 the dig record (implied-picture section)
@@ -50,6 +53,16 @@ live alternatives — so nobody gets to force a "realism or it's just
 preference" choice onto her position either. That cuts both ways: it
 protects her point from an easy dismissal, but it also means her
 point alone doesn't crown any one of those alternatives as correct.
+
+**Weight without a personality.** IT-116 credits her jointly with
+Tom as founding that idea trail — a one-line intervention getting
+equal billing with someone who has multiple quotes and his own
+offensive/defensive role write-up. But that's also the full extent of
+how she's treated: unlike Tom or Sorta, Tapioca gets no dedicated
+"Tapioca as X" role section anywhere — no personality or demeanor
+color at all, just the position itself, appearing only in ledger
+entries. She has the most load-bearing single line of the four and
+the least characterization around it.
 
 *Compiled from `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_16_formalization_semantics_frame_protection_and_moral_authority.md`
 and `../IDEA_TRAILS/IT-116_anti_realist_condemnation_and_the_force_of_reasons.md`.*
