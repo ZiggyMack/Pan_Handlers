@@ -7,7 +7,17 @@
 > the digs already imply without Tale's own confirmation, and Ziggy's
 > direct read on top of that. No direct Tale material exists anywhere
 > in the archive — every claim in the first layer is Z-REPORTED (via
-> Ziggy) or a Ziggy-relayed quote attributed to Tale.
+> Ziggy) or a Ziggy-relayed quote attributed to Tale. A full corpus
+> check (2026-07-21) confirms Tale appears in exactly three digs total
+> — DIG_AUX_05, SWEEP_18, SWEEP_19 — so this is now the complete
+> record, not a partial one.
+>
+> ⚠️ **A caveat that specifically taints the Grant side of this file:**
+> Ziggy has disclosed that he sometimes plays Grant's role in
+> unlabeled testing of Nova, without always flagging it. That means
+> every "Grant said X about Tale" claim below carries a three-way
+> reading — genuine report, Ziggy's reconstruction, or Ziggy's
+> performance — and which is which is unknown.
 
 **Written by:** Ziggy (direct-read section, pending) + compiled from
 the dig record (implied-picture section)
@@ -21,6 +31,37 @@ the dig record (implied-picture section)
 The "Unavailable Tale Source Package" has been the packet's central
 evidence gap every time Tale's name has come up. Confident, not
 corroborated.
+
+**Where this actually starts: a friend, a book, and a shared
+interest.** Tale's first appearance in the archive predates either
+dispute-dig and has nothing to do with Grant at all. Ziggy, introducing
+a source: *"the anatomy of genre by Truby is a recommended book my
+friend Tale Recursion brought to my attention"* (DIG_AUX_05,
+2026-07-17) — and the two had reportedly been discussing story as a
+powerful human tool before that. Tale's own view on narrative,
+genre, or anything else discussed in that conversation was never
+captured; the only thing established is that he made the
+recommendation and that Ziggy calls him a friend, not just a circle
+member.
+
+**A second reported role, separate from the dispute: co-builder, not
+just interpreted party.** SWEEP_19 names a relationship pattern where
+Ziggy and Tale reportedly try to develop broad ideas collaboratively,
+with a role split forming: Ziggy and Tale as "builders," Grant as
+"blocker." This is the only place in the record where Tale functions
+as someone constructing ideas alongside Ziggy rather than someone
+whose past wording is being fought over — filed at only medium
+confidence, since neither Tale nor Grant appears directly to confirm
+the framing.
+
+**The structural role he ends up playing in the dispute itself.** Once
+the Grant interpretation fight starts, Tale becomes what the record
+calls an "authority-object": simultaneously the person whose meaning
+is disputed and the reported authority who allegedly confirms Ziggy's
+steelman over Grant's. Because he never speaks directly in either
+dig, that role is described as structurally decisive but evidentially
+unavailable — the whole dispute leans on what he supposedly thinks,
+while what he actually thinks stays out of reach.
 
 **The dispute Tale keeps getting pulled into.** The recurring shape,
 across at least two separate packets: Grant deconstructs the literal
@@ -71,11 +112,15 @@ whether Ziggy has access to anyone's intent at all — and by that
 point the original question about what Tale actually said has quietly
 disappeared from the exchange.
 
-*Compiled from `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_18_sentence_intent_entailment_attribution_and_interpretive_authority.md`,
+*Compiled from `../evidence/chat_extractions/DIG_AUX_05_story_genre_wisdom_compression_and_orientation.md`,
+`../evidence/chat_extractions/DIG_COMPOUND_SWEEP_18_sentence_intent_entailment_attribution_and_interpretive_authority.md`,
 `../evidence/chat_extractions/DIG_COMPOUND_SWEEP_19_lens_availability_starting_whole_unconscious_agency_and_interpretive_success.md`,
 `../IDEA_TRAILS/IT-121_the_interpretive_target_ledger.md`,
 `../IDEA_TRAILS/IT-123_self_report_jurisdiction_and_communicative_responsibility.md`,
-and `../RELATIONSHIP_MAP.md`.*
+and `../RELATIONSHIP_MAP.md`. No independent philosophical, moral, or
+epistemological position from Tale exists anywhere in the archive —
+every scrap of material is either the book recommendation above or
+downstream of the Grant interpretation dispute.*
 
 ## Ziggy's direct read
 
