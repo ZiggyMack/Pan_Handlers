@@ -22,7 +22,7 @@
 > sweep and run the Scope Repair command (see the appendix in
 > `../../CHAT_EXTRACTION_PROTOCOL.md`).
 
-**Status:** 🟡 IN PROGRESS — Stage 1 ✅ reviewed (attribution-tier + archetype/meta-frame + power-legitimacy + auditor-independence + trust-decomposition + X-CONTEXT overlays binding; **G-QUOTED: 0 · G-REPORTED: 0 · Grant unavailable this packet**); Stage 2 ✅ reviewed (one repair cycle — actor-evidence, move-consolidation, category-separation, role-attribution, loop-architecture repair; 7 core Ziggy candidates, 5 supporting stances/proposals, 4 rhetorical tactics, 3 Nova live moves, 2 co-constructed architectures, 1 Z-REPORTED Angel structure, 3 extraction-level controls excluded); Stages 3–4 pending
+**Status:** ✅ COMPLETE — Stage 1 ✅ reviewed (attribution-tier + archetype/meta-frame + power-legitimacy + auditor-independence + trust-decomposition + X-CONTEXT overlays binding; **G-QUOTED: 0 · G-REPORTED: 0 · Grant unavailable this packet**); Stage 2 ✅ reviewed (one repair cycle — actor-evidence, move-consolidation, category-separation, role-attribution, loop-architecture repair; 7 core Ziggy candidates, 5 supporting stances/proposals, 4 rhetorical tactics, 3 Nova live moves, 2 co-constructed architectures, 1 Z-REPORTED Angel structure, 3 extraction-level controls excluded); Stage 3 ✅ reviewed (one repair cycle — availability-tier, omission-consolidation, counterevidence-label, promotion-tier, archival-completion repair; A3: 3 · A2: 0 · A1: 13 · A0: 4 evidence packages; 2 cautious profile candidates + 5 packet-local moves advance to Stage 4); Stage 4 ✅ reviewed (one repair cycle — registry-direction, match-strength, promotion-label, ledger-restoration, archival-completion repair; **the archive's FIFTH triple-cycle dig**); **CLOSED — ZERO promotions (plow-through held, 21st consecutive)**
 
 **Discovered topic:** Archetypal frame mobility and the meta-frame governance problem (who governs the choice of frame once no single archetype is exhaustive?); power/corruption/legitimacy/accountability separated eight ways; contextualism vs arbitrary exception; the moderator-mute case (de facto power ≠ legitimate authority); Don Juan/Gnostic structural mapping (never causal identity); Angel's reported ideological-capture concern (Z-REPORTED, generalized beyond theism); auditor convergence (~98%, a target not an achieved result) — convergence ≠ truth, diversity ≠ independence; destructive interference vs productive adversarial tension; trust decomposed twelve ways; documentation ≠ proof; the proof/story double bind
 
@@ -9063,10 +9063,110 @@ All Angel material is mediated through Ziggy.
 
 **X-CONTEXT NOTICES: None.**
 
+---
 
-------
-after patch
------------
+### 🧭 FIELD-DESK REVIEW — STAGE 3 (Nova, 2026-07-21) — REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE.** The Stage-3 output ABOVE is **SUPERSEDED** —
+> retained as pasted; nothing in it may be used downstream except
+> through the corrected reissue below.
+
+**Verdict: PASS WITH MAJOR AVAILABILITY-TIER, OMISSION-
+CONSOLIDATION, COUNTEREVIDENCE-LABEL, PROMOTION-TIER, AND ARCHIVAL-
+COMPLETION REPAIR — PATCH STAGE 3; DO NOT RERUN STAGES 1 OR 2; DO NOT
+PROCEED TO STAGE 4 YET.** The substantive counterevidence work is
+strong — the seven Stage-2 Ziggy candidates survive only at bounded
+levels, auditor convergence loses any implication of truth or
+independence, corruption awareness loses any implication of
+restraint, moderator capability loses any implication of legitimacy.
+The principal defect: the omission-availability ledger. Two A3
+findings relied on **nearby competence**, not demonstration of the
+same relevant operation, and the extraction ended without a
+promotion architecture or archival completion.
+
+**🔧 A3 LEDGER CORRECTED TO EXACTLY THREE:** **Second-Order
+Vulnerability Probe Not Applied to Archetypal Frame Mobility** (Nova
+demonstrably performs the same relevant operation — testing an
+attractive first-order safeguard for its higher-order governing
+conditions — elsewhere in the exchange when pressing corruption
+awareness toward accountability beyond the power-holder; this does
+NOT prove Nova had already articulated the complete later Meta-Frame
+Governance Audit); **Ambiguous-Term and Claim-Status Typing Not
+Applied to Convergence and Interference** (Nova's live separation of
+undiscovered from forgotten knowledge demonstrates the same term-
+splitting operation, supporting omission of live typing for
+convergence/98%/destructive-interference — but does NOT establish
+that auditor independence, false-consensus testing, or common-mode
+analysis were also available, those stay A1); **Vulnerability Probe
+Not Applied to Proof–Narrative Layering** (Nova's demonstrated
+second-order stress-testing operation supports the omitted live test
+of framing bias, shallow-layer capture, and navigation failure — the
+full later checklist stays extraction-level).
+
+**🔻 TWO A3 FINDINGS DOWNGRADED TO A1:** Context Indexing of 98% —
+Ziggy's Relative-Unknown Expansion demonstrates broadening a category
+by knower/community/time; it does NOT demonstrate the more specific
+operation of qualifying a numerical performance claim by sample,
+domain, run conditions, prompt, baseline, or agreement metric — the
+relationship is analogous, not operationally identical. Local
+Moderator Jurisdiction Definition — distinguishing Discord power from
+judges/police/offline authority demonstrates **arena scaling**, not
+possession of a procedure for defining legitimate purpose,
+proportionality, challenge rights, or review; merged with the
+concrete-act due-process review into one A1 finding.
+
+**📊 A2 corrected to zero** (no specific omitted operation was
+directly offered/requested and knowingly left unused — a general
+topic being discussed is not sufficient for A2). **A1 consolidated to
+thirteen** (several fragments merged into single unavailable audits —
+e.g., reciprocity + live-objection inventory; false consensus +
+independence + minority dissent; documentation status + transparency-
+adequacy falsification). **A0 held at four evidence packages** (Grant;
+complete Angel argument; independent CFA performance; Proof–Narrative
+implementation/uptake) — evidence gaps, never actor failures.
+
+**🔧 COUNTEREVIDENCE FORMAT CORRECTED:** several entries placed
+*supporting* evidence under a "Counterevidence found" heading (e.g.,
+"Ziggy does not present the practice as automatic anger" supports the
+triage characterization — it is not counterevidence against it).
+Corrected to four consistent fields: **Supporting evidence / Adverse
+or limiting evidence / Evidence searched but not recovered /
+Finding** — absence is never treated as proof of the contrary.
+
+**🔧 PROMOTION ARCHITECTURE ADDED (previously missing entirely):**
+**2 cautious Ziggy profile candidates** — **Prior-Solution
+Reinstatement** (recurs in two distinct packet domains, changes the
+object of criticism, not reducible to one phrase; control: may
+correct an obsolete critique OR function as system-owner closure,
+independent implementation evidence absent) and **Transparency–
+Comprehension Separation** (explicit, does substantive inferential
+work, survives the audience-blame alternative; control: documentation
+availability is not evidence of adequate usability, validation,
+comprehension, or trust) — both future-testing candidates, never
+durable traits. **5 packet-local core candidates below profile
+threshold**: Exchange-Viability Triage; Relative-Unknown Expansion;
+Archetypal Frame Mobility; External-Constraint Recognition; Proof–
+Story Double-Bind Detection (no independent recurrence, no reciprocal
+test, no governing procedure).
+
+**🎯 The load-bearing correction:** Nova's demonstrated ability to ask
+second-order questions supports a bounded A3 finding when the same
+safeguard-testing operation was available. Ziggy's ability to
+relativize "unknown," however, does not demonstrate that he could or
+would properly index a numerical convergence claim, and his
+distinction between Discord and real-world power does not demonstrate
+possession of local due-process standards. Those are A1 omissions.
+Stage 3 must also distinguish evidence supporting a characterization
+from evidence limiting it, and surviving packet-local scrutiny from
+promotion into a future-testing profile candidate.
+
+---
+
+### ⏬ STAGE 3 CORRECTED OUTPUT (governing record)
+
 PANHANDLERS_CHAT_EXTRACTION — STAGE 3
 
 # 1. Corrected Source Boundary and Attribution Controls
@@ -11778,7 +11878,8 @@ The corrected Stage 3 includes:
 
   * Exchange-Viability Triage;
   * Relative-Unknown Expansion;
-  * Archetypal Frame Mobility;
+  * Archetypal 
+  Frame Mobility;
   * External-Constraint Recognition;
   * Proof–Story Double-Bind Detection.
 * Supporting stances, tactics, proposals, architectures, role behaviors, and reported Angel material remain categorically separate.
@@ -11795,6 +11896,61 @@ DIG_COMPOUND_22_archetypal_frame_mobility_power_legitimacy_ai_governance_auditor
 
 STAGE 3 COMPLETE AFTER FINAL AVAILABILITY-TIER, OMISSION-CONSOLIDATION, COUNTEREVIDENCE-LABEL, PROMOTION-TIER, AND ARCHIVAL-COMPLETION PATCH
 
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 3 PATCH (Nova, 2026-07-21) — ACCEPTANCE
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-3 record**, read together with the overlays here.
+
+**✅ VERDICT: ACCEPTED — STAGE 3 COMPLETE AFTER FINAL AVAILABILITY-
+TIER, OMISSION-CONSOLIDATION, COUNTEREVIDENCE-LABEL, PROMOTION-TIER,
+AND ARCHIVAL-COMPLETION PATCH; PROCEED TO STAGE 4; no further Stage-3
+patch required.** Final availability ledger holds: **A3: 3 · A2: 0 ·
+A1: 13 · A0: 4 evidence packages.** The two disputed A3 findings were
+correctly downgraded to A1 (Ziggy's contextual treatment of the
+unknown does not demonstrate numerical-claim jurisdiction testing;
+distinguishing Discord from real-world authority does not demonstrate
+a local legitimacy/due-process procedure). The retained A3 findings
+identify the same bounded operations in both directions (second-order
+safeguard testing; ambiguous-term/status disaggregation; vulnerability
+testing of a newly proposed architecture) without attributing the
+complete later extraction checklist to the live actors.
+
+**⚖️ PROMOTION TIERS ACCEPTED:** exactly **2 cautious Ziggy profile
+candidates** — Prior-Solution Reinstatement (recurs across two packet
+domains, changes the object of criticism) and Transparency–
+Comprehension Separation (explicit, substantive inferential work,
+survives the audience-blame alternative) — both future-testing
+candidates, never durable traits. **5 core candidates correctly stay
+below profile threshold**: Exchange-Viability Triage; Relative-
+Unknown Expansion; Archetypal Frame Mobility; External-Constraint
+Recognition; Proof–Story Double-Bind Detection.
+
+**⚖️ COUNTEREVIDENCE FORMAT AND CATEGORY SEPARATION HOLD:** supporting
+evidence / adverse-or-limiting evidence / evidence-searched-but-not-
+recovered / finding, consistently applied — absence is never treated
+as proof of the contrary. Corruption awareness ≠ restraint; disclosure
+≠ accountability; external constraint ≠ legitimate review; capability
+≠ justified authority; auditor plurality ≠ independence; convergence
+≠ truth; documentation ≠ proof; narrative layering ≠ demonstrated
+communication success. Angel stays `Z-REPORTED IDEOLOGICAL-CAPTURE
+WARNING` only; **G-QUOTED: 0 · G-REPORTED: 0 · stable Grant
+operators: 0 · stable Grant motives: 0.**
+
+**🎯 The load-bearing result:** the packet supports two cautious
+future-testing Ziggy candidates, but no durable trait. The remaining
+moves survive only at their proper levels: packet-local reasoning,
+substantive stance, tactic, proposal, role behavior, co-construction,
+or reported argument. Auditor convergence remains agreement without
+demonstrated independence or truth-tracking; archetypal mobility
+remains flexibility without demonstrated meta-governance; corruption
+awareness remains self-implication without demonstrated restraint;
+and Proof–Narrative Layering remains a promising but untested
+architecture.
 
 ---
 
@@ -11869,7 +12025,3995 @@ Begin Stage 4 now.
 
 ### ⏬ STAGE 4 OUTPUT
 
-(paste Stage 4 output here — replace this line)
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+# 1. Blind-to-Named Mapping
+
+## 1.1 Source and Mapping Controls
+
+### Evidentiary corpus
+
+This Stage-4 mapping uses only:
+
+1. the complete bounded original historical conversation;
+2. the final corrected Stage-1 extraction;
+3. the final corrected Stage-2 extraction;
+4. the final corrected Stage-3 extraction.
+
+The completed extractions preserve source anchors, attribution ceilings, classifications, alternative readings, promotion ceilings, seven operator sequences, and six relationship-level loops.
+
+They do not create actor conduct absent from the bounded live exchange.
+
+### Excluded material
+
+The following are excluded as actor evidence:
+
+* Project Conversation Content;
+* other conversations;
+* memories;
+* external research;
+* uploaded archives or unrelated files;
+* system or developer context;
+* X-CONTEXT notices;
+* the candidate registry treated as proof that a named operator must be present.
+
+### Attribution controls
+
+* `Z-DIRECT`
+* `Z-REPORTED`
+* `NOVA-INTERPRETATION`
+* `CO-CONSTRUCTED`
+* `NOVA ROLE BEHAVIOR`
+* `NOVA-GENERATED PROTOCOL`
+* `UNKNOWN`
+
+All Angel material remains `Z-REPORTED`.
+
+Grant controls remain:
+
+* **G-QUOTED:** 0
+* **G-REPORTED:** 0
+* **Stable Grant operators:** 0
+* **Stable Grant motives:** 0
+
+### Mapping rule
+
+A named registry candidate is assigned only when the Stage-2 finding performs the relevant operation.
+
+Conceptual resemblance, inverse relation, shared vocabulary, or nearby competence is insufficient by itself.
+
+Where a Stage-2 finding acts as a corrective inverse of a named failure mode, the mapping is marked `EXTENDS` and the direction reversal is stated explicitly.
+
+Stage-2 sequences, relationship loops, and extraction-generated controls are composite analytic structures rather than atomic moves. They are not assigned additional mappings beyond the individual findings from which they are composed.
+
+---
+
+## 1.2 Core Ziggy Reasoning-Move Candidates
+
+## Move 1 — Exchange-Viability Triage
+
+**Mapping verdict:** `NEW — Exchange-Viability Triage`
+
+**What does not match the registry:**
+
+* It does not establish Prediction Sovereignty.
+* It does not score an objection as defeat.
+* It does not explicitly hold a contested claim open in the manner of Contested ≠ Defeated.
+* It does not deliberately preserve low-plausibility possibilities.
+* It is an inquiry-continuation judgment rather than a standard for evaluating theories.
+
+**Nearest registry relation:**
+It carries a failure risk resembling Contest-to-Defeat Compression if “still contested” is converted into “the exchange is dead.” The bounded packet does not establish that conversion as the operative rule.
+
+**Stage-3 alternative-reading survival:**
+Yes, at a limited level.
+
+The move remains recoverable as an assessment preceding exit. The alternative reading—ordinary frustration management or post hoc justification—prevents promotion beyond packet-local candidate status.
+
+**Final mapping status:**
+New packet-local operator candidate.
+
+---
+
+## Move 2 — Relative-Unknown Expansion
+
+**Mapping verdict:** `EXTENDS Unmeasured-to-Zero Conversion`
+
+**What matches:**
+
+* Both resist treating a current failure of access or demonstration as equivalent to nonexistence.
+* Both preserve a category between established presence and established absence.
+* Ziggy’s move rejects the idea that what is not presently known must be treated as if it had never existed or had no epistemic remainder.
+
+**Delta:**
+
+* Unmeasured-to-Zero Conversion concerns failure under a selected instrument being scored as zero.
+* Relative-Unknown Expansion concerns knowledge indexed to a person, community, or historical period.
+* Ziggy’s move includes forgotten and lost knowledge, not merely unmeasured phenomena.
+* No numerical score, instrument, or explicit zero assignment appears.
+
+**What does not match:**
+
+* No measurement regime is identified.
+* No explicit conversion to zero is shown.
+* No general rule concerning untested hypotheses is demonstrated.
+
+**Stage-3 alternative-reading survival:**
+Yes, conceptually.
+
+The alternative reading that this is a one-time substantive belief rather than a reusable operator weakens promotion but does not defeat the structural extension.
+
+**Final mapping status:**
+Variant extending the anti-collapse logic of Unmeasured-to-Zero Conversion beyond measurement into temporal and community-relative access.
+
+---
+
+## Move 3 — Archetypal Frame Mobility
+
+**Mapping verdict:** `NEW — Archetypal Frame Mobility`
+
+**What does not match the registry:**
+
+* It is not primarily a standard for scoring evidence.
+* It does not preserve low-probability factual possibilities in the sense of Possibility Preservation.
+* It does not import a distant discipline into a dispute merely to reframe it.
+* It governs use of interpretive and identity frames, not admission of candidate hypotheses.
+* It does not directly perform Symmetry Testing of Standards.
+
+**Nearest registry relations:**
+
+* It may preserve multiple interpretive possibilities, but that is not the same operation as Possibility Preservation.
+* It may resist Universalized Evaluative Jurisdiction by refusing one frame universal authority, but the packet does not contain that general jurisdictional argument.
+
+**Stage-3 alternative-reading survival:**
+Yes, at conceptual level.
+
+The strongest alternative—that archetypes are expressive metaphors for flexibility rather than operative cognitive frames—remains unresolved. No meta-rule or independent case is available.
+
+**Final mapping status:**
+New packet-local operator candidate.
+
+---
+
+## Move 4 — External-Constraint Recognition
+
+**Mapping verdict:** `NEW — External-Constraint Recognition`
+
+**What does not match the registry:**
+
+* It does not symmetrically test an epistemic standard.
+* It does not reconstruct a framework before evaluation.
+* It does not preserve a contested proposition.
+* It does not classify unknown evidence.
+* It concerns nested authority and revocability, not hypothesis admission or scoring.
+
+**Nearest registry relation:**
+It weakly resembles Symmetry Testing of Standards insofar as the power-holder acknowledges being subject to an external standard. The packet does not establish equal paperwork, equal burden, or procedural symmetry.
+
+**Stage-3 alternative-reading survival:**
+Yes, as a one-time consequential correction.
+
+The alternative reading that it was a defensive rebuttal remains possible. The move nevertheless changed the model of authority from local control to nested, revocable power.
+
+**Final mapping status:**
+New packet-local operator candidate.
+
+---
+
+## Move 5 — Prior-Solution Reinstatement
+
+**Mapping verdict:** `EXTENDS Reconstruction Bypass — corrective inverse`
+
+**What matches:**
+
+* Reconstruction Bypass occurs when evaluation proceeds against an incomplete representation of a framework.
+* Ziggy’s move restores omitted architecture after Nova raises an objection that presupposes its absence.
+* The move changes criticism from “there is no solution” to “is the reported solution adequate, implemented, or independently validated?”
+
+**Delta:**
+
+* The registry candidate names the evaluative failure.
+* Prior-Solution Reinstatement is a repair operation performed by the framework owner after criticism begins.
+* The restored object is Ziggy’s own system, not an opponent’s framework reconstructed charitably from outside.
+* It can occur after the bypass rather than preventing it in advance.
+
+**What does not match:**
+
+* It does not demonstrate a full reconstruction according to aims, ontology, and success conditions.
+* It does not establish that Nova actually committed Reconstruction Bypass in every instance.
+* It does not establish that the reinstated architecture worked.
+
+**Stage-3 alternative-reading survival:**
+Yes.
+
+The strongest alternative—system-owner defensiveness or premature closure—limits interpretation but does not remove the repeated structure. The move occurs in both auditor-governance and documentation/transparency discussions.
+
+**Final mapping status:**
+Corrective variant of Reconstruction Bypass and cautious profile candidate.
+
+---
+
+## Move 6 — Transparency–Comprehension Separation
+
+**Mapping verdict:** `EXTENDS Universalized Evaluative Jurisdiction — corrective inverse`
+
+**What matches:**
+
+* Universalized Evaluative Jurisdiction occurs when success under one standard is treated as sufficient in domains where that standard’s authority has not been established.
+* Ziggy rejects treating transparency or information availability as sufficient for comprehension, engagement, or trust.
+* The move restricts the jurisdiction of disclosure: making information available does not automatically establish that people can navigate, understand, validate, or trust it.
+
+**Delta:**
+
+* The registry candidate is a general jurisdictional failure.
+* Ziggy’s move is a narrow domain-separation concerning transparency and comprehension.
+* It does not provide a general theory for determining evaluative jurisdiction.
+* It does not establish which alternative success standard should govern trust.
+
+**What does not match:**
+
+* No explicit universal standard is identified as an opponent’s doctrine.
+* The move does not itself decompose all dimensions of trust.
+* It does not prove the documentation was adequate.
+
+**Stage-3 alternative-reading survival:**
+Yes, strongly.
+
+The audience-blame alternative remains possible only if causal claims are added. The narrow distinction between availability and comprehension survives even when responsibility for failure remains unresolved.
+
+**Final mapping status:**
+Corrective jurisdiction-limiting variant and cautious profile candidate.
+
+---
+
+## Move 7 — Proof–Story Double-Bind Detection
+
+**Mapping verdict:** `NEW — Proof–Story Double-Bind Detection`
+
+**What does not match the registry:**
+
+* It does not clearly establish Baseline Exemption because the same evaluator or audience is not identified.
+* It does not prove Generative Admission Restriction because narrative is not shown to be excluded before evaluation in every case.
+* It does not demonstrate Reconstruction Bypass.
+* It does not establish Contest-to-Defeat Compression.
+* It is a communication-demand diagnosis rather than a theory-scoring operator.
+
+**Nearest registry relations:**
+
+* It may reveal shifting or asymmetric burdens resembling Baseline Exemption.
+* Rejection of narrative as unsupported may resemble Generative Admission Restriction.
+* The packet does not establish the common actor, common claim, or common conditions required for either match.
+
+**Stage-3 alternative-reading survival:**
+Yes, locally.
+
+The strongest alternative—that different audiences made independently reasonable demands—prevents a stronger named mapping or profile promotion.
+
+**Final mapping status:**
+New packet-local operator candidate.
+
+---
+
+## 1.3 Ziggy Supporting Stances, Proposals, or Provisional Protocols
+
+## Supporting Item 1 — Corruption-Prior Assumption
+
+**Mapping verdict:** `EXTENDS Symmetry Testing of Standards`
+
+**What matches:**
+
+* Ziggy does not reserve corruption suspicion for opponents.
+* He places himself and other power-holders under the same prior of corruptibility.
+* The stance rejects self-exemption from the evaluative burden applied to others.
+
+**Delta:**
+
+* Symmetry Testing of Standards requires the evaluating framework to satisfy the same procedural burden as the evaluated framework.
+* Corruption-Prior Assumption is a general self-application of fallibility, not a defined evidentiary test.
+* It supplies no common paperwork, metric, appeal process, or correction mechanism.
+
+**What does not match:**
+
+* No symmetrical procedure is demonstrated.
+* No conduct-level restraint follows automatically.
+* It remains a substantive stance rather than a mature operator.
+
+**Stage-3 alternative-reading survival:**
+Yes, as a stance only.
+
+The alternative reading that it provides identity-protective humility without actual restraint remains live.
+
+**Final mapping status:**
+Partial self-application variant of Symmetry Testing of Standards; not profile-ready.
+
+---
+
+## Supporting Item 2 — Contextual Exception Authorization
+
+**Mapping verdict:** `NEW — Contextual Exception Authorization`
+
+**What does not match the registry:**
+
+* It is not Universalized Evaluative Jurisdiction, although it resists exceptionless universalization.
+* It is not Possibility Preservation.
+* It is not Symmetry Testing because no reciprocal exception procedure is supplied.
+* It is a moral position concerning defeasibility rather than a theory-evaluation operator.
+
+**Stage-3 alternative-reading survival:**
+Yes, only as an under-specified moral stance.
+
+The packet cannot distinguish principled moral particularism from arbitrary sovereign discretion.
+
+**Final mapping status:**
+New non-operator supporting stance.
+
+---
+
+## Supporting Item 3 — Cross-Tradition Structural Mapping
+
+**Mapping verdict:** `MATCHES Cross-Disciplinary Swooping`
+
+**What matches:**
+
+* Ziggy imports a structure from Don Juan’s four-enemy framework into a Gnostic or Archonic interpretive field.
+* A concept from one tradition is used to reorganize understanding of another.
+* The imported structure creates a new comparative map.
+
+**What does not match:**
+
+* The sources are traditions or spiritual frameworks rather than clearly separate academic disciplines.
+* The move may be thematic analogy rather than a disciplined transfer.
+* It is not shown repeatedly.
+* It does not establish historical derivation or metaphysical identity.
+
+**Stage-3 alternative-reading survival:**
+Yes, at packet-local analogical level.
+
+The alternative reading of loose thematic association limits confidence but does not erase the cross-domain import.
+
+**Final mapping status:**
+Direct registry match at packet-local analogy tier; below profile threshold.
+
+---
+
+## Supporting Item 4 — Conscious Label Insertion
+
+**Mapping verdict:** `NEW — Conscious Label Insertion`
+
+**What does not match the registry:**
+
+* It is not Possibility Preservation.
+* It is not Cross-Disciplinary Swooping merely because spiritual language is used.
+* It is a proposed metacognitive intervention rather than an epistemic admission or scoring operator.
+
+**Stage-3 alternative-reading survival:**
+Yes, as an untested proposed protocol.
+
+The strongest alternative—spiritualized labeling producing false mastery—remains unresolved.
+
+**Final mapping status:**
+New provisional self-regulation protocol, not a profile operator.
+
+---
+
+## Supporting Item 5 — Convergence-and-Compatibility Governance Proposal
+
+**Mapping verdict:** `NEW — Convergence-and-Compatibility Governance Proposal`
+
+**What does not match the registry:**
+
+* It does not establish Prediction Sovereignty merely because convergence is quantified.
+* It does not perform Symmetry Testing of Standards.
+* It does not directly establish Universalized Evaluative Jurisdiction.
+* It is a system-governance proposal concerning plural auditors and compatibility.
+
+**Nearest registry risks:**
+
+* If convergence becomes final authority, the proposal could develop toward Prediction Sovereignty.
+* If one compatibility standard governs unrelated systems without established jurisdiction, it could develop toward Universalized Evaluative Jurisdiction.
+* Neither development is established in the bounded packet.
+
+**Stage-3 alternative-reading survival:**
+Yes, as a design proposal only.
+
+The alternative reading that plurality and a high agreement figure function rhetorically as simulated validation remains live.
+
+**Final mapping status:**
+New system-design proposal; no verified implementation.
+
+---
+
+## 1.4 Ziggy Rhetorical or Role-Induced Tactics
+
+## Tactic 1 — Mock-Permission Reversal
+
+**Mapping verdict:** `NEW — Mock-Permission Reversal`
+
+**What does not match the registry:**
+
+* It is not Contested ≠ Defeated.
+* It is not Symmetry Testing of Standards.
+* It is not Reconstruction Bypass.
+* It is a rhetorical boundary tactic rather than an epistemic operator.
+
+**Stage-3 alternative-reading survival:**
+Yes, as a tactic.
+
+The alternatives of sarcasm, dominance, audience performance, or evasion remain unresolved.
+
+**Final mapping status:**
+New rhetorical tactic; excluded from operator promotion.
+
+---
+
+## Tactic 2 — Self-Implication Disclosure
+
+**Mapping verdict:** `EXTENDS Symmetry Testing of Standards`
+
+**What matches:**
+
+* Ziggy includes his own inconsistency inside the corruption analysis.
+* He refuses a simple evaluator/evaluated split in which only others face scrutiny.
+* The same corruption prior is at least verbally applied to the speaker.
+
+**Delta:**
+
+* Disclosure is not the same as satisfying an equal evidentiary or procedural burden.
+* It does not establish correction, appeal, review, or equal consequences.
+* It is rhetorical and evaluative rather than a full symmetry-testing operator.
+
+**Stage-3 alternative-reading survival:**
+Yes, as disclosure only.
+
+The alternative reading of pre-emptive confession remains viable.
+
+**Final mapping status:**
+Rhetorical self-application variant of Symmetry Testing; not profile-ready.
+
+---
+
+## Tactic 3 — Narrative Transcendence Modeling
+
+**Mapping verdict:** `EXTENDS Cross-Disciplinary Swooping`
+
+**What matches:**
+
+* Ziggy imports a fictional narrative structure to explain a philosophical claim concerning frame mobility.
+* The narrative provides a distant-domain model for the live conceptual issue.
+* Loki’s development is used to reframe what archetypal transformation could mean.
+
+**Delta:**
+
+* Fictional narrative is not an academic discipline.
+* The move is illustrative rather than a sustained analytic import.
+* It does not supply independent evidence.
+* It follows an already stated claim rather than generating the whole framework.
+
+**Stage-3 alternative-reading survival:**
+Yes, as illustrative rhetoric.
+
+The alternative that the story substitutes emotional resonance for argument prevents stronger promotion.
+
+**Final mapping status:**
+Illustrative narrative variant of Cross-Disciplinary Swooping.
+
+---
+
+## Tactic 4 — Capability Reality Check
+
+**Mapping verdict:** `NEW — Capability Reality Check`
+
+**What does not match the registry:**
+
+* It does not test a theory symmetrically.
+* It does not establish evaluative jurisdiction.
+* It demonstrates practical platform power rather than epistemic authority.
+* It is a moderator-role tactic.
+
+**Stage-3 alternative-reading survival:**
+Yes, narrowly.
+
+The de facto-power interpretation survives. Any legitimate-authority interpretation fails.
+
+**Final mapping status:**
+New role tactic excluded from operator promotion.
+
+---
+
+## 1.5 Nova Live Analytic Moves and Role Behaviors
+
+## Nova Move 1 — Unknown-Type Separation
+
+**Mapping verdict:** `EXTENDS Unmeasured-to-Zero Conversion`
+
+**What matches:**
+
+* Nova separates undiscovered material from forgotten or lost material.
+* The distinction prevents multiple forms of non-access from being collapsed into one null category.
+* It preserves epistemic statuses between confirmed presence and confirmed absence.
+
+**Delta:**
+
+* No selected instrument or numerical zero is involved.
+* The move types forms of unknownness rather than correcting a scoring rule.
+* The complete later unknown taxonomy was not performed live.
+
+**Stage-3 alternative-reading survival:**
+Yes, as a packet-local live analytic move.
+
+The alternative that it was ordinary clarification limits profile use but not the mapping.
+
+**Final mapping status:**
+Conceptual anti-collapse extension of Unmeasured-to-Zero Conversion.
+
+---
+
+## Nova Move 2 — Vulnerability-Probe Steering
+
+**Mapping verdict:** `NEW — Vulnerability-Probe Steering`
+
+**What does not match the registry:**
+
+* It is broader than Symmetry Testing.
+* It does not inherently privilege prediction.
+* It is a role behavior selecting failure points rather than a specific epistemic standard.
+* Its content changes with the proposal being tested.
+
+**Stage-3 alternative-reading survival:**
+Yes, as role behavior.
+
+The moving-target and protocol-induced alternatives remain possible.
+
+**Final mapping status:**
+New Nova role behavior, not a stable operator.
+
+---
+
+## Nova Move 3 — Conceptual Labeling and Formalization
+
+**Mapping verdict:** `NEW — Conceptual Labeling and Formalization`
+
+**What does not match the registry:**
+
+* It is not itself Cross-Disciplinary Swooping.
+* It does not necessarily admit, reject, or score hypotheses.
+* It compresses and names structures already emerging in dialogue.
+
+**Stage-3 alternative-reading survival:**
+Yes, as role behavior.
+
+The alternative that Nova imposes excess coherence remains possible.
+
+**Final mapping status:**
+New Nova role behavior, not a Ziggy operator.
+
+---
+
+## 1.6 CO-CONSTRUCTED Architectures
+
+## Architecture 1 — Archetype Weaver
+
+**Mapping verdict:** `NEW — Archetype Weaver`
+
+**What does not match the registry:**
+
+* It is not Possibility Preservation in the registry’s epistemic sense.
+* It is not Cross-Disciplinary Swooping merely because multiple archetypes are used.
+* It concerns controlled relation to interpretive identities rather than theory admission.
+
+**Stage-3 alternative-reading survival:**
+Yes, as `CO-CONSTRUCTED`.
+
+The alternative that Nova supplied only a label for a concept already possessed by Ziggy does not justify sole authorship by either actor.
+
+**Final mapping status:**
+New co-constructed architecture.
+
+---
+
+## Architecture 2 — Proof–Narrative Layering
+
+**Mapping verdict:** `NEW — Proof–Narrative Layering`
+
+**What does not match the registry:**
+
+* It does not itself establish Generative Admission Restriction.
+* It does not establish Baseline Exemption.
+* It is a communication architecture joining intuitive entry with technical support.
+* No evidence shows it has been implemented.
+
+**Nearest registry relations:**
+
+* It attempts to prevent narrative from being excluded at the generative or entry stage.
+* It also attempts to prevent narrative admission from exempting claims from evidence.
+* These relations are design goals, not demonstrated operator matches.
+
+**Stage-3 alternative-reading survival:**
+Yes, as an untested co-constructed proposal.
+
+The alternative that it is generic assistant advice remains possible.
+
+**Final mapping status:**
+New co-constructed communication architecture.
+
+---
+
+## 1.7 Z-REPORTED Angel Argument Structure
+
+## Ideological-Capture Warning
+
+**Mapping verdict:** `EXTENDS Universalized Evaluative Jurisdiction`
+
+**What matches:**
+
+* The reported concern is that an AI-backed evaluative system could acquire authority beyond narrow epistemic assessment.
+* Its standards or outputs could be extended into institutional and coercive domains.
+* The concern asks whether an evaluative system possesses legitimate jurisdiction over downstream social power.
+
+**Delta:**
+
+* Universalized Evaluative Jurisdiction concerns a standard extended beyond its established domain.
+* The reported warning adds capture, governance, deployment, and ideological domination.
+* The concern is specifically reported in relation to theistic or religious power.
+* The symmetric generalization to other ideologies is extraction-level, not authenticated Angel content.
+
+**What does not match:**
+
+* Angel’s exact argument is unavailable.
+* The packet does not establish that Angel articulated jurisdiction in these terms.
+* No stable Angel operator or motive is recoverable.
+
+**Stage-3 alternative-reading survival:**
+Yes, only at `Z-REPORTED` level.
+
+The strongest alternative is that the structure is Ziggy’s compression of Angel’s concern.
+
+**Final mapping status:**
+Reported institutional-capture extension of Universalized Evaluative Jurisdiction; no Angel profile claim.
+
+---
+
+## 1.8 Registry Candidates Not Established by the Bounded Packet
+
+## Prediction Sovereignty
+
+**Verdict:** No adequate Stage-2 match.
+
+The convergence proposal contains a quantified agreement claim, but no evidence shows predictive success functioning as final epistemic authority.
+
+---
+
+## Generative Admission Restriction
+
+**Verdict:** No adequate Stage-2 match.
+
+The proof–story discussion suggests tension around narrative legitimacy, but the packet does not establish a general rule barring revelation, tradition, intuition, first-person experience, or symbolic compression from generating candidates.
+
+---
+
+## Possibility Compression
+
+**Verdict:** No adequate Stage-2 match.
+
+The collective-unconscious speculation remains open, but no actor is shown systematically discarding low-plausibility possibilities as functionally irrelevant.
+
+---
+
+## Baseline Exemption
+
+**Verdict:** No adequate Stage-2 match.
+
+The proof–story tension may involve shifting burdens, but the same evaluator, baseline, and asymmetric exemption are not established.
+
+---
+
+## Contest-to-Defeat Compression
+
+**Verdict:** No adequate Stage-2 match.
+
+Exchange-Viability Triage may prematurely classify dialogue as exhausted, but no move clearly converts a raised objection into proof that a substantive position has been defeated.
+
+---
+
+## Contested ≠ Defeated
+
+**Verdict:** No adequate Stage-2 match.
+
+The packet contains unresolved possibilities and continued disagreement, but no actor clearly performs the explicit operation of holding an objection open as non-decisive.
+
+---
+
+## Possibility Preservation
+
+**Verdict:** No adequate Stage-2 match.
+
+The unresolved collective-unconscious hypothesis space preserves ambiguity, but the packet does not establish a deliberate operator retaining low-plausibility candidates through exploratory inquiry.
+
+---
+
+# 2. New Operator Candidates
+
+## 2.1 New Core Reasoning-Move Candidates
+
+The following Stage-2 core candidates have no adequate registry match and retain their provisional neutral names.
+
+## 1. Exchange-Viability Triage
+
+**Status:** Packet-local core candidate below profile threshold.
+
+**Distinctive operation:**
+Assess whether dialogue retains a recoverable path before continuing or exiting.
+
+**Why new:**
+The registry contains theory-evaluation, possibility-management, and burden-symmetry operators, but no direct dialogue-viability operator.
+
+---
+
+## 2. Archetypal Frame Mobility
+
+**Status:** Packet-local core candidate below profile threshold.
+
+**Distinctive operation:**
+Use archetypes as temporary frames while preserving switching, combination, or transcendence.
+
+**Why new:**
+The registry does not contain meta-identity or interpretive-frame mobility.
+
+---
+
+## 3. External-Constraint Recognition
+
+**Status:** Packet-local one-time consequential correction.
+
+**Distinctive operation:**
+Revise one’s model of local authority by recognizing superior sanctioning power.
+
+**Why new:**
+The registry does not contain a nested-power or revocability-recognition operator.
+
+---
+
+## 4. Proof–Story Double-Bind Detection
+
+**Status:** Packet-local core candidate below profile threshold.
+
+**Distinctive operation:**
+Identify tension between technical inaccessibility and narrative under-support.
+
+**Why new:**
+The registry contains burden and admission failures, but not this specific communication-demand diagnostic.
+
+---
+
+## 2.2 New Findings Excluded from Core-Operator Promotion
+
+These retain neutral names but remain categorically separate.
+
+### Supporting stance
+
+* Contextual Exception Authorization.
+
+### Proposed self-regulation protocol
+
+* Conscious Label Insertion.
+
+### System-design proposal
+
+* Convergence-and-Compatibility Governance Proposal.
+
+### Rhetorical or role tactics
+
+* Mock-Permission Reversal.
+* Capability Reality Check.
+
+### Nova role behaviors
+
+* Vulnerability-Probe Steering.
+* Conceptual Labeling and Formalization.
+
+### CO-CONSTRUCTED architectures
+
+* Archetype Weaver.
+* Proof–Narrative Layering.
+
+None of these becomes a profile operator merely because no registry match exists.
+
+---
+
+# 3. Profile-Ready Claims
+
+Profile-ready means suitable for cautious future testing.
+
+It does not mean durable trait, verified success, or cross-context generalization.
+
+Exactly two claims meet the current threshold.
+
+## Profile-Ready Claim 1 — Prior-Solution Reinstatement
+
+**Claim:**
+When criticism presupposes that a system safeguard or explanatory layer is absent, Ziggy may respond by restoring architecture he believes CFA already contains, thereby changing the object of criticism from absence to adequacy or implementation.
+
+**Subject:** Ziggy
+
+**Blind-to-named mapping:**
+`EXTENDS Reconstruction Bypass — corrective inverse`
+
+**Evidence classification:**
+
+* `Z-DIRECT`
+* repeated packet-local core reasoning move;
+* cautious future-testing profile candidate.
+
+**Confidence:** MODERATE
+
+**Source anchors:**
+
+1. Ziggy reinstates multiple or representative auditors, convergence, compatibility mapping, and interference concerns after Nova raises orthodoxy or centralized-evaluation concerns.
+2. Ziggy reinstates the Streamlit site, glossary, index, documentation, and transparency materials after Nova proposes transparency as though it were absent.
+
+**Why classification is defended:**
+
+* The operation occurs in two distinct domains.
+* It is not reducible to one phrase, metaphor, or isolated emotional reaction.
+* It changes the inquiry’s object in both instances.
+* Although connected to Ziggy’s system-owner role, the operation contains a recoverable trigger, corrective action, and inferential output.
+
+**Stage-3 alternative-reading result:**
+Survived with limitation.
+
+It may be useful context restoration or system-owner closure. The packet does not resolve the balance.
+
+**What the claim does not establish:**
+
+* that the reinstated architecture existed exactly as reported;
+* that it was implemented successfully;
+* that Nova’s criticism was obsolete;
+* that restoring architecture answers the residual objection;
+* that the move recurs outside CFA ownership.
+
+**Review condition:**
+Demote or revise the claim if future independent cases show that Ziggy invokes prior architecture without demonstrating relevance, repeatedly mistakes design for implementation, or uses reinstatement primarily to close rather than refine inquiry.
+
+Promote confidence only if the move recurs outside a system-owner context and is accompanied by recoverable evidence that the restored architecture preceded the criticism and materially answered its premise.
+
+---
+
+## Profile-Ready Claim 2 — Transparency–Comprehension Separation
+
+**Claim:**
+Ziggy distinguishes making information available from producing actual comprehension, navigation, engagement, or trust.
+
+**Subject:** Ziggy
+
+**Blind-to-named mapping:**
+`EXTENDS Universalized Evaluative Jurisdiction — corrective inverse`
+
+**Evidence classification:**
+
+* `Z-DIRECT`
+* packet-local core reasoning move;
+* cautious future-testing profile candidate.
+
+**Confidence:** MODERATE–HIGH for the packet-local distinction; MODERATE for future recurrence.
+
+**Source anchor:**
+Ziggy reports that CFA possessed a Streamlit site, glossary, index, documentation, and transparency materials while also reporting that these materials did not produce sufficient engagement or understanding.
+
+**Why classification is defended:**
+
+* The distinction is explicit.
+* It performs substantive inferential work.
+* It changes the problem from information supply to successful uptake.
+* It survives the alternative that non-engagement may have system-side, validation, relevance, vocabulary, incentive, distrust, or audience causes.
+* It is not reducible to a rhetorical phrase.
+
+**Stage-3 alternative-reading result:**
+Survived strongly when causal blame was withheld.
+
+The distinction remains valid even if the documentation was inadequate or the audience was reasonable not to engage.
+
+**What the claim does not establish:**
+
+* that CFA’s documentation was adequate;
+* that the interface was usable;
+* that readers acted in bad faith;
+* that transparency was complete;
+* that comprehension failure was primarily an audience problem;
+* that transparency creates trust.
+
+**Review condition:**
+Demote or revise the claim if future cases show that Ziggy invokes the distinction only to immunize his own presentation from criticism.
+
+Promote confidence if he applies the distinction symmetrically to systems he opposes and accepts system-side failure when transparency is formally present but practically unusable.
+
+---
+
+# 4. Quarantined Claims
+
+Quarantined claims remain interesting but below profile threshold.
+
+Each requires additional evidence before promotion.
+
+## 4.1 Packet-Local Ziggy Core Candidates
+
+## Exchange-Viability Triage
+
+**Quarantined interpretation:**
+Ziggy may possess a recurring operator for distinguishing dead exchanges from difficult ones.
+
+**Current ceiling:**
+Packet-local candidate.
+
+**Why quarantined:**
+
+* no independent recurrence;
+* no reciprocal criteria;
+* no live-objection inventory;
+* no revision case;
+* no evidence of pedagogical success.
+
+**Evidence required for promotion:**
+
+* at least one independent case;
+* explicit reciprocal standards;
+* a case where Ziggy continues despite frustration because the exchange remains viable;
+* a case where he revises an initial exit judgment;
+* outcome evidence distinguishing useful triage from evasion.
+
+---
+
+## Relative-Unknown Expansion
+
+**Quarantined interpretation:**
+Ziggy may recurrently resist binary known/unknown classification by indexing access to persons, communities, and historical periods.
+
+**Current ceiling:**
+Packet-local conceptual move extending Unmeasured-to-Zero Conversion.
+
+**Why quarantined:**
+
+* only one topic;
+* no prior-possession test;
+* may be a substantive belief rather than a reusable operation.
+
+**Evidence required for promotion:**
+
+* recurrence in an independent domain;
+* explicit separation of lost, implicit, undiscovered, unknowable, and concealed states;
+* evidence requirements for prior possession;
+* use of the distinction to alter a later conclusion.
+
+---
+
+## Archetypal Frame Mobility
+
+**Quarantined interpretation:**
+Ziggy may possess a recurring capacity to use archetypes without becoming identified with them.
+
+**Current ceiling:**
+Conceptual packet-local candidate.
+
+**Why quarantined:**
+
+* no independent case;
+* no meta-rule;
+* no continuity condition;
+* no reciprocal switching against a preferred frame;
+* metaphor and operator interpretations remain live.
+
+**Evidence required for promotion:**
+
+* independent cases involving different archetypes;
+* an explicit switching criterion;
+* a case in which frame mobility constrains Ziggy rather than merely liberating him;
+* evidence that mobility changes reasoning or conduct;
+* correction or loss conditions for opportunistic reframing.
+
+---
+
+## External-Constraint Recognition
+
+**Quarantined interpretation:**
+Ziggy may characteristically revise authority claims by locating his own power inside a larger sanctioning structure.
+
+**Current ceiling:**
+One-time consequential correction.
+
+**Why quarantined:**
+
+* single instance;
+* may be defensive rebuttal;
+* no evidence of changed conduct;
+* no conversion from constraint to legitimate accountability.
+
+**Evidence required for promotion:**
+
+* recurrence in another authority domain;
+* explicit revision of a prior legitimacy claim;
+* acceptance of external review before sanctions occur;
+* evidence that recognition changes decision-making.
+
+---
+
+## Proof–Story Double-Bind Detection
+
+**Quarantined interpretation:**
+Ziggy may recurrently detect communication systems that demand both inaccessible proof and unsupported simplification.
+
+**Current ceiling:**
+Packet-local diagnosis.
+
+**Why quarantined:**
+
+* audience identity unresolved;
+* claims and conditions may differ;
+* falsification criteria absent;
+* different critics may have made reasonable independent objections.
+
+**Evidence required for promotion:**
+
+* one identified audience making both demands;
+* equivalent claims and conditions;
+* a stated condition under which the double-bind diagnosis would be withdrawn;
+* recurrence in an independent communication setting.
+
+---
+
+## 4.2 Ziggy Supporting Stances, Proposals, and Protocols
+
+## Corruption-Prior Assumption
+
+**Quarantined interpretation:**
+Ziggy may symmetrically apply corruption suspicion to himself and other power-holders.
+
+**Registry relation:**
+Extends Symmetry Testing of Standards.
+
+**Current ceiling:**
+Substantive starting stance.
+
+**Evidence required for promotion:**
+
+* concrete restraint caused by the stance;
+* reversal or repair;
+* procedural safeguards derived from it;
+* equal scrutiny applied when Ziggy benefits from the disputed decision.
+
+---
+
+## Contextual Exception Authorization
+
+**Quarantined interpretation:**
+Ziggy may employ principled moral particularism.
+
+**Current ceiling:**
+Under-specified moral position.
+
+**Evidence required for promotion:**
+
+* necessity and proportionality tests;
+* least-harm analysis;
+* reciprocal application;
+* expiration;
+* appeal;
+* retrospective review;
+* a case where Ziggy denies himself an exception.
+
+---
+
+## Cross-Tradition Structural Mapping
+
+**Quarantined interpretation:**
+Ziggy may possess a recurring Cross-Disciplinary Swooping operator.
+
+**Registry mapping:**
+`MATCHES Cross-Disciplinary Swooping`
+
+**Current ceiling:**
+Packet-local analogy.
+
+**Evidence required for promotion:**
+
+* recurrence across independent domains;
+* explicit preservation of disanalogies;
+* a demonstrated change in the live inquiry;
+* separation of structural analogy from historical derivation and metaphysical identity.
+
+---
+
+## Conscious Label Insertion
+
+**Quarantined interpretation:**
+Conscious naming may be a functional Ziggy self-regulation protocol.
+
+**Current ceiling:**
+Untested proposal.
+
+**Evidence required for promotion:**
+
+* defined target behavior;
+* repeated successful use;
+* failed or null cases;
+* persistence over time;
+* differentiation of awareness, emotional regulation, and behavioral control;
+* correction for false mastery.
+
+---
+
+## Convergence-and-Compatibility Governance Proposal
+
+**Quarantined interpretation:**
+CFA may possess an effective plural-auditor governance system resistant to orthodoxy and destructive interaction.
+
+**Current ceiling:**
+Self-reported design proposal.
+
+**Evidence required for promotion:**
+
+* status and jurisdiction of the 98% figure;
+* defined convergence metric;
+* auditor count and selection process;
+* causal and epistemic independence;
+* common-mode-failure analysis;
+* preservation of minority dissent;
+* incorrect-consensus procedures;
+* operational distinction between destructive interference and productive disagreement;
+* independent validation.
+
+---
+
+## 4.3 Ziggy Rhetorical or Role-Induced Tactics
+
+## Mock-Permission Reversal
+
+**Quarantined interpretation:**
+The tactic may function as pedagogy or legitimate boundary enforcement.
+
+**Current ceiling:**
+Ambiguous rhetorical tactic.
+
+**Evidence required for promotion:**
+
+* evidence that a real authority demand was present;
+* reciprocal acceptance;
+* evidence that the tactic clarified rather than humiliated;
+* evidence that substantive objections had been answered;
+* outcome evidence showing restored understanding or clean closure.
+
+---
+
+## Self-Implication Disclosure
+
+**Quarantined interpretation:**
+The disclosure may support genuine symmetry and accountability.
+
+**Registry relation:**
+Extends Symmetry Testing of Standards.
+
+**Current ceiling:**
+Rhetorical and evaluative disclosure tactic.
+
+**Evidence required for promotion:**
+
+* affected-party challenge;
+* correction;
+* restitution;
+* changed conduct;
+* equal consequences;
+* evidence that disclosure increases rather than neutralizes scrutiny.
+
+---
+
+## Narrative Transcendence Modeling
+
+**Quarantined interpretation:**
+Ziggy may recurrently use distant narratives as productive cross-domain models.
+
+**Registry relation:**
+Extends Cross-Disciplinary Swooping.
+
+**Current ceiling:**
+Illustrative tactic.
+
+**Evidence required for promotion:**
+
+* independent examples;
+* explicit limits of the analogy;
+* evidence that the model generates testable distinctions;
+* non-fictional application;
+* demonstration that narrative does not substitute for evidence.
+
+---
+
+## Capability Reality Check
+
+**Quarantined interpretation:**
+The tactic may be a legitimate and proportionate method of clarifying moderator jurisdiction.
+
+**Current ceiling:**
+De facto-power demonstration.
+
+**Evidence required for promotion:**
+
+* legitimate purpose;
+* factual basis;
+* proportionality;
+* consistent procedure;
+* opportunity to challenge;
+* retrospective review;
+* community-benefit evidence.
+
+---
+
+## 4.4 Nova Live Moves and Role Behaviors
+
+## Unknown-Type Separation
+
+**Quarantined interpretation:**
+Nova may possess a stable anti-collapse operator extending Unmeasured-to-Zero Conversion.
+
+**Current ceiling:**
+One live analytic move.
+
+**Evidence required for promotion:**
+
+* recurrence across independent topics;
+* consistent separation before evaluation;
+* evidence that the distinction changes conclusions rather than merely vocabulary.
+
+---
+
+## Vulnerability-Probe Steering
+
+**Quarantined interpretation:**
+Nova may possess a stable second-order safeguard-testing operator.
+
+**Current ceiling:**
+Role behavior.
+
+**Evidence required for promotion:**
+
+* recurrence outside the assigned stress-testing role;
+* explicit stopping conditions;
+* symmetry toward Nova-generated proposals;
+* cases where a proposed safeguard is accepted as sufficient.
+
+---
+
+## Conceptual Labeling and Formalization
+
+**Quarantined interpretation:**
+Nova may possess a stable operator for accurately compressing experiential material into reusable concepts.
+
+**Current ceiling:**
+Role behavior.
+
+**Evidence required for promotion:**
+
+* independent recurrence;
+* actor confirmation of accuracy;
+* later autonomous use by the originating actor;
+* examples where Nova withdraws or corrects an overfitted label.
+
+---
+
+## 4.5 CO-CONSTRUCTED Architectures
+
+## Archetype Weaver
+
+**Quarantined interpretation:**
+Archetype Weaver may be a coherent jointly owned architecture for governed frame mobility.
+
+**Current ceiling:**
+`CO-CONSTRUCTED`.
+
+**Evidence required for promotion:**
+
+* independent later deployment by Ziggy;
+* explicit meta-rule;
+* continuity criteria;
+* correction conditions for opportunistic switching;
+* demonstrated application.
+
+---
+
+## Proof–Narrative Layering
+
+**Quarantined interpretation:**
+The architecture may solve the proof–story communication tension.
+
+**Current ceiling:**
+Untested `CO-CONSTRUCTED` architecture.
+
+**Evidence required for promotion:**
+
+* actual implementation;
+* navigation data;
+* comprehension outcomes;
+* contestability outcomes;
+* trust outcomes;
+* evidence concerning shallow-layer capture and narrative framing bias.
+
+---
+
+## 4.6 Z-REPORTED Angel Argument Structure
+
+## Ideological-Capture Warning
+
+**Quarantined interpretation:**
+Angel may possess a developed Universalized Evaluative Jurisdiction critique concerning AI-backed religious authority.
+
+**Current ceiling:**
+`Z-REPORTED`
+
+**Evidence required for promotion:**
+
+* direct Angel testimony;
+* exact wording;
+* complete argument;
+* qualifications;
+* distinction between epistemic concern and institutional concern;
+* evidence concerning symmetric application to other ideological systems.
+
+---
+
+## 4.7 Registry-Level Claims Not Supported for Promotion
+
+## Prediction Sovereignty
+
+**Current status:** `UNKNOWN / not established`
+
+**Evidence required:**
+
+* repeated claims that predictive success is the final epistemic authority;
+* explicit subordination of explanation, coherence, phenomenology, or moral success to prediction;
+* recoverable source anchors.
+
+---
+
+## Generative Admission Restriction
+
+**Current status:** `UNKNOWN / not established`
+
+**Evidence required:**
+
+* explicit exclusion of revelation, narrative, intuition, tradition, first-person experience, or symbolic compression before candidate evaluation;
+* evidence that exclusion occurs at the generative rather than confirmatory stage.
+
+---
+
+## Possibility Compression
+
+**Current status:** `UNKNOWN / not established`
+
+**Evidence required:**
+
+* an identified low-plausibility possibility;
+* evidence that it was treated as functionally irrelevant before inquiry was complete;
+* recurrence or consequential effect.
+
+---
+
+## Baseline Exemption
+
+**Current status:** `UNKNOWN / not established`
+
+**Evidence required:**
+
+* a preferred standard treated as neutral;
+* asymmetric burden placed on competing frameworks;
+* refusal to expose the baseline’s own assumptions.
+
+---
+
+## Contest-to-Defeat Compression
+
+**Current status:** `UNKNOWN / not established`
+
+**Evidence required:**
+
+* a specific objection;
+* explicit treatment of that objection as defeat;
+* evidence that the dialectical situation remained unresolved.
+
+---
+
+## Contested ≠ Defeated
+
+**Current status:** `UNKNOWN / not established`
+
+**Evidence required:**
+
+* an explicit move holding an objection open;
+* refusal to treat unresolved challenge as decisive;
+* consequential effect on evaluation.
+
+---
+
+## Possibility Preservation
+
+**Current status:** `UNKNOWN / not established`
+
+**Evidence required:**
+
+* deliberate retention of a low-plausibility possibility;
+* explicit exploratory purpose;
+* a defined point at which the possibility would be pruned or promoted.
+
+---
+
+# 5. Extraction Self-Audit
+
+## 5.1 Candidate-Registry Priming Risk
+
+**Risk:**
+The named registry encourages every Stage-2 finding to be assimilated into an existing operator.
+
+**Observed high-risk mappings:**
+
+* Relative-Unknown Expansion → Unmeasured-to-Zero Conversion;
+* Prior-Solution Reinstatement → Reconstruction Bypass;
+* Transparency–Comprehension Separation → Universalized Evaluative Jurisdiction;
+* Corruption-Prior Assumption → Symmetry Testing of Standards;
+* Ideological-Capture Warning → Universalized Evaluative Jurisdiction.
+
+**Correction applied:**
+Each was marked `EXTENDS` rather than `MATCHES` where the Stage-2 finding was broader, narrower, or directionally inverse.
+
+---
+
+## 5.2 Corrective-Inverse Mapping Risk
+
+**Risk:**
+A move correcting a failure can be falsely classified as the failure itself.
+
+**Affected mappings:**
+
+* Prior-Solution Reinstatement is not Reconstruction Bypass; it repairs a possible bypass.
+* Transparency–Comprehension Separation is not Universalized Evaluative Jurisdiction; it restricts a standard’s jurisdiction.
+* Relative-Unknown Expansion is not an act of converting unknown to zero; it resists a related collapse.
+
+**Correction applied:**
+The inverse direction is explicit in each verdict.
+
+---
+
+## 5.3 Over-Pattern-Matching Risk
+
+**Risk:**
+Conceptual resemblance may be mistaken for operational identity.
+
+**Rejected forced mappings include:**
+
+* Exchange-Viability Triage to Contest-to-Defeat Compression;
+* Archetypal Frame Mobility to Possibility Preservation;
+* Contextual Exception Authorization to Universalized Evaluative Jurisdiction;
+* Convergence governance to Prediction Sovereignty;
+* Proof–Story Double-Bind Detection to Baseline Exemption;
+* unresolved collective-unconscious speculation to Possibility Preservation.
+
+**Correction applied:**
+These remain `NEW`, under-typed, or unsupported.
+
+---
+
+## 5.4 Asymmetric Charity Risk
+
+**Risk:**
+Ziggy’s moves may receive charitable operator interpretations while Nova’s contributions are reduced to role effects, or Nova’s questions may be treated as rigorous while Ziggy’s answers are treated as defensive.
+
+**Correction applied:**
+
+* Ziggy’s strong alternatives—defensiveness, closure, audience blame, convenient reframing—are preserved.
+* Nova’s moving-target, overformalization, and role-induced alternatives are preserved.
+* Neither participant’s motive is inferred from functional direction.
+* Reported architecture remains unverified regardless of who introduces it.
+
+---
+
+## 5.5 Belief-to-Operator Conversion Risk
+
+**Affected items:**
+
+* Corruption-Prior Assumption;
+* Contextual Exception Authorization.
+
+**Correction applied:**
+They remain substantive stances rather than core operators.
+
+---
+
+## 5.6 Tactic-to-Operator Conversion Risk
+
+**Affected items:**
+
+* Mock-Permission Reversal;
+* Self-Implication Disclosure;
+* Narrative Transcendence Modeling;
+* Capability Reality Check.
+
+**Correction applied:**
+They remain rhetorical, illustrative, disclosure, or moderator-role tactics.
+
+---
+
+## 5.7 Proposal-to-Implementation Conversion Risk
+
+**Affected items:**
+
+* Conscious Label Insertion;
+* Convergence-and-Compatibility Governance Proposal;
+* Proof–Narrative Layering.
+
+**Correction applied:**
+No regulatory success, governance success, convergence achievement, auditor independence, or communication outcome is inferred.
+
+---
+
+## 5.8 Role-Behavior-to-Trait Conversion Risk
+
+**Affected items:**
+
+* Vulnerability-Probe Steering;
+* Conceptual Labeling and Formalization;
+* Ziggy’s system-owner context restoration;
+* moderator conduct;
+* reporting of Angel.
+
+**Correction applied:**
+Profile claims are limited to the recoverable operation and retain role-contamination review conditions.
+
+---
+
+## 5.9 Unclear-to-Definite Conversion Risk
+
+The following remain `UNKNOWN` or under-specified:
+
+* what approximately 98% measures;
+* whether it is a goal, threshold, claim, or result;
+* auditor causal and epistemic independence;
+* the meaning of destructive interference;
+* audience identity in the proof–story diagnosis;
+* documentation adequacy;
+* collective-unconscious mechanism;
+* legitimate moderator jurisdiction;
+* Angel’s complete argument and motive;
+* Grant’s position.
+
+---
+
+## 5.10 Counterevidence and Promotion Risk
+
+**Risk:**
+Surviving Stage-3 counterevidence testing may be mistaken for profile promotion.
+
+**Correction applied:**
+
+* Only Prior-Solution Reinstatement and Transparency–Comprehension Separation enter profile-ready future-testing status.
+* Five core Ziggy moves remain packet-local and below threshold.
+* A direct registry match, including Cross-Disciplinary Swooping, does not itself produce profile readiness.
+
+---
+
+## 5.11 Named-Operator Prestige Risk
+
+**Risk:**
+A registry name may appear more mature or authoritative than a neutral packet-local label.
+
+**Correction applied:**
+Named mappings retain all Stage-3 ceilings. Cross-Tradition Structural Mapping does not become a durable Cross-Disciplinary Swooping trait merely because the registry contains a matching name.
+
+---
+
+## 5.12 Reconstruction Asymmetry Risk
+
+**Risk:**
+Prior-Solution Reinstatement may be praised as correcting incomplete critique without testing whether Ziggy accurately represented the restored architecture.
+
+**Correction applied:**
+The move is profile-ready only as a future-testing reasoning pattern. CFA implementation remains self-reported and unverified.
+
+---
+
+## 5.13 Transparency Charity Risk
+
+**Risk:**
+Transparency–Comprehension Separation may be treated as proof that the audience caused the failure.
+
+**Correction applied:**
+The profile claim contains no audience-blame conclusion. Documentation quality, validation, navigation, relevance, incentives, distrust, vocabulary, and technical design remain live.
+
+---
+
+## 5.14 Angel Attribution Risk
+
+**Risk:**
+The ideological-capture mapping may turn Ziggy’s report into direct Angel philosophy.
+
+**Correction applied:**
+The mapping remains `Z-REPORTED`. The symmetric extension to other ideologies remains extraction-level analysis.
+
+---
+
+## 5.15 Grant-Invention Risk
+
+**Result:** Blocked.
+
+* G-QUOTED: 0
+* G-REPORTED: 0
+* Stable Grant operators: 0
+* Stable Grant motives: 0
+
+No registry candidate is attributed to Grant.
+
+---
+
+## 5.16 Composite Double-Counting Risk
+
+**Risk:**
+The seven Stage-2 sequences and six relationship loops could be counted as additional named operators.
+
+**Correction applied:**
+Sequences and loops remain composite architectures. Their components receive the mappings; the composites receive no additional operator count.
+
+---
+
+## 5.17 Rushed or Incomplete Areas
+
+The following remain especially vulnerable to future correction:
+
+1. whether Relative-Unknown Expansion is sufficiently close to Unmeasured-to-Zero Conversion to warrant `EXTENDS` rather than `NEW`;
+2. whether Prior-Solution Reinstatement should remain an inverse extension of Reconstruction Bypass or be treated as wholly new;
+3. whether Transparency–Comprehension Separation is best treated as a narrow corrective to Universalized Evaluative Jurisdiction or as an independent communication operator;
+4. whether the reported Ideological-Capture Warning accurately represents Angel’s original argument;
+5. whether Cross-Tradition Structural Mapping is systematic enough to count as a clean Cross-Disciplinary Swooping match.
+
+All five remain subject to review if stronger source material becomes available.
+
+---
+
+## 5.18 Final Stage-4 Counts
+
+### Mapping verdicts across retained Stage-2 individual findings
+
+* **MATCHES:** 1
+* **EXTENDS:** 8
+* **NEW:** 13
+
+### Profile disposition
+
+* **Profile-ready cautious future-testing claims:** 2
+* **Packet-local Ziggy core candidates below profile threshold:** 5
+* **Ziggy supporting stances/proposals/protocols:** 5
+* **Ziggy rhetorical or role-induced tactics:** 4
+* **Nova live analytic moves and role behaviors:** 3
+* **CO-CONSTRUCTED architectures:** 2
+* **Z-REPORTED Angel argument structures:** 1
+* **Extraction-generated analytic controls:** 3
+* **Stable Grant operators:** 0
+* **Stable Grant motives:** 0
+
+### Profile-ready claims
+
+1. Prior-Solution Reinstatement.
+2. Transparency–Comprehension Separation.
+
+### New core operator candidates
+
+1. Exchange-Viability Triage.
+2. Archetypal Frame Mobility.
+3. External-Constraint Recognition.
+4. Proof–Story Double-Bind Detection.
+
+### Registry candidates not established
+
+1. Prediction Sovereignty.
+2. Generative Admission Restriction.
+3. Possibility Compression.
+4. Baseline Exemption.
+5. Contest-to-Defeat Compression.
+6. Contested ≠ Defeated.
+7. Possibility Preservation.
+
+### X-CONTEXT NOTICES
+
+None.
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 (Nova, 2026-07-21) — REPAIR ORDER
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE.** The Stage-4 output ABOVE is **SUPERSEDED** —
+> retained as pasted; nothing in it may be used downstream except
+> through the corrected reissue below.
+
+**Verdict: PASS WITH MAJOR REGISTRY-DIRECTION, MATCH-STRENGTH,
+PROMOTION-LABEL, LEDGER-RESTORATION, AND ARCHIVAL-COMPLETION REPAIR —
+PATCH STAGE 4; DO NOT RERUN STAGES 1, 2, OR 3; DO NOT ARCHIVE THE
+CURRENT STAGE 4.** Source boundary and actor-category separation were
+largely sound. The primary defect was the mapping rule itself: **a
+corrective inverse is not an extension of the pathology it corrects.**
+`EXTENDS` requires the same core operation, moving in the same
+functional direction, plus a demonstrated delta — several mappings
+reversed direction or relied only on thematic resemblance.
+
+**🔧 SEVEN MAPPINGS COULD NOT REMAIN `EXTENDS`:** Relative-Unknown
+Expansion → Unmeasured-to-Zero Conversion; Prior-Solution
+Reinstatement → Reconstruction Bypass; Transparency–Comprehension
+Separation → Universalized Evaluative Jurisdiction; Corruption-Prior
+Assumption → Symmetry Testing of Standards; Self-Implication
+Disclosure → Symmetry Testing of Standards; Unknown-Type Separation →
+Unmeasured-to-Zero Conversion; Ideological-Capture Warning →
+Universalized Evaluative Jurisdiction. All corrected to `NEW` with
+either a `COUNTER-OPERATION/CORRECTIVE RELATION` (Prior-Solution
+Reinstatement → Reconstruction Bypass; Transparency–Comprehension
+Separation → Universalized Evaluative Jurisdiction) or a `POSSIBLE
+ANALOGY/DIAGNOSTIC RELATION` only (the remaining five — none of these
+share measurement/zero-scoring, reciprocal procedural testing, or the
+same core jurisdictional operation with their registry namesakes).
+Narrative Transcendence Modeling downgraded from full extension, and
+Cross-Tradition Structural Mapping downgraded from full `MATCHES`, to
+**partial packet-local/illustrative implementations of Cross-
+Disciplinary Swooping** — neither promoted to a durable operator.
+
+**📊 CORRECTED TOTALS:** 20 NEW primary classifications · 2 partial
+named-registry implementations · **0 full MATCHES · 0 full EXTENDS.**
+
+**🚫 "PROFILE-READY CLAIMS" REJECTED:** reverted to **Cautious Ziggy
+Profile Candidates — 2** (Prior-Solution Reinstatement; Transparency–
+Comprehension Separation) — future-testing candidates, never durable
+operators; no Stage-3 promotion tier raised by a Stage-4 registry
+mapping.
+
+**🔀 MISSING STAGE-4 ARCHITECTURE RESTORED:** the Stage-3 availability
+ledger (A3: 3 · A2: 0 · A1: 13 · A0: 4 evidence packages), seven
+Stage-2 sequences, six role-induced behaviors, six relationship-level
+loops, source restrictions, and archival disposition — all reissued
+in full per the repair directive.
+
+**🎯 The decisive correction:** Prior-Solution Reinstatement does not
+extend Reconstruction Bypass; it repairs a possible bypass.
+Transparency–Comprehension Separation does not extend Universalized
+Evaluative Jurisdiction; it limits the jurisdiction of transparency.
+Relative-Unknown Expansion and Unknown-Type Separation share only an
+anti-collapse analogy with Unmeasured-to-Zero Conversion because
+neither contains measurement or a zero score. Corruption awareness
+and self-disclosure are not symmetry-testing procedures. The two
+cross-domain analogies support partial Cross-Disciplinary Swooping
+implementations, not full matches.
+
+---
+
+### ⏬ STAGE 4 CORRECTED OUTPUT (governing record)
+
+PANHANDLERS_CHAT_EXTRACTION — STAGE 4
+
+# 1. Source Boundary, Attribution Controls, and Mapping Architecture
+
+## 1.1 Evidentiary Corpus
+
+This corrected Stage-4 extraction uses only:
+
+1. the complete bounded original historical conversation beginning with Ziggy’s reflection on dismissing impasses with humor and ending immediately before the original Stage-1 execution command;
+2. the final corrected Stage-1 extraction;
+3. the final corrected Stage-2 extraction;
+4. the final corrected Stage-3 extraction.
+
+The completed prior extractions preserve:
+
+* source anchors;
+* attribution ceilings;
+* actor-category separations;
+* classification uncertainties;
+* Stage-3 counterevidence findings;
+* alternative readings;
+* promotion ceilings;
+* omission-availability tiers;
+* seven Stage-2 sequences;
+* six role-induced behaviors;
+* six relationship-level loops.
+
+They do not create historical actor conduct absent from the bounded live exchange.
+
+## 1.2 Mapping and Transformation Inputs
+
+The following are used only for Stage-4 mapping and repair:
+
+1. the current Stage-4 extraction being repaired;
+2. the supplied candidate registry;
+3. the current Stage-4 repair directive.
+
+The candidate registry is a mapping input.
+
+It is not:
+
+* actor evidence;
+* proof that a named operator occurred;
+* proof of durable recurrence;
+* authority to replace a Stage-2 classification;
+* authority to raise a Stage-3 promotion tier.
+
+## 1.3 Excluded Material
+
+The following are excluded as actor evidence:
+
+* Project Conversation Content;
+* other chats;
+* memory;
+* external research;
+* unrelated uploaded files;
+* X-CONTEXT notices;
+* system or developer context;
+* later analytic repairs treated as earlier live behavior;
+* candidate-registry definitions treated as evidence of actor conduct.
+
+Evidence absent from the bounded corpus remains `UNKNOWN`.
+
+## 1.4 Attribution Tiers
+
+* `Z-DIRECT`
+* `Z-REPORTED`
+* `NOVA-INTERPRETATION`
+* `CO-CONSTRUCTED`
+* `NOVA ROLE BEHAVIOR`
+* `NOVA-GENERATED PROTOCOL`
+* `UNKNOWN`
+
+All Angel material remains `Z-REPORTED`.
+
+## 1.5 Grant Controls
+
+* **G-QUOTED:** 0
+* **G-REPORTED:** 0
+* **Stable Grant operators:** 0
+* **Stable Grant motives:** 0
+
+Grant’s position remains `UNKNOWN / unavailable`.
+
+## 1.6 Mapping Rules
+
+### MATCHES
+
+The packet finding performs substantially the same operation:
+
+* in the same direction;
+* under the same relevant functional conditions;
+* with the same operative effect;
+
+as the named registry candidate.
+
+Shared vocabulary or thematic resemblance is insufficient.
+
+### EXTENDS
+
+The packet finding performs the same core operation in the same direction and adds a demonstrated functional delta.
+
+A corrective inverse cannot be classified as `EXTENDS`.
+
+### PARTIAL IMPLEMENTATION
+
+The finding performs a delimited portion or context-specific version of the named operation, but important functional conditions are absent.
+
+A partial implementation is not a full match.
+
+### COUNTER-OPERATION / CORRECTIVE RELATION
+
+The finding acts against, repairs, limits, or diagnoses the named failure.
+
+This does not make it a match or extension of that failure.
+
+### POSSIBLE ANALOGY OR DIAGNOSTIC RELATION
+
+A shared structure is visible, but operational identity is not established.
+
+This is not additive with the primary mapping verdict.
+
+### NEW
+
+No registry candidate adequately captures the finding’s operative function and direction.
+
+## 1.7 Governing Mapping Principle
+
+**Direction outranks vocabulary.**
+
+A move preventing a pathology is not a refined instance of that pathology.
+
+A stance, tactic, proposal, role behavior, architecture, or reported argument does not become an operator merely because a registry name is nearby.
+
+## 1.8 Eight-Family Architecture
+
+The following remain dig-level analytic families rather than actor operators:
+
+1. **Dialogue Triage–Exit–Pedagogy Audit**
+2. **Unknown–Lost Knowledge–Collective-Unconscious Audit**
+3. **Archetype–Frame Mobility–Meta-Frame Governance Audit**
+4. **Power–Corruption–Legitimacy–Accountability Audit**
+5. **Conscious Naming–Self-Regulation–Spiritual Mapping Audit**
+6. **AI Governance–Ideological Capture Audit**
+7. **Auditor Independence–Convergence–Interference Audit**
+8. **Trust–Transparency–Comprehension–Proof/Story Audit**
+
+---
+
+# 2. Blind-to-Named Mapping
+
+## 2.1 Seven Core Ziggy Reasoning Candidates
+
+## Finding 1 — Exchange-Viability Triage
+
+**Actor:** Ziggy
+
+**Classification:** Core packet-local reasoning candidate
+
+**Primary interpretation:**
+Ziggy assesses whether a disagreement retains a recoverable path of inquiry or has become an exhausted impasse.
+
+**Strongest alternative interpretation:**
+Ordinary frustration management, avoidance, or post hoc justification for leaving an uncomfortable exchange.
+
+**Discriminating bounded evidence:**
+
+* Ziggy explicitly distinguishes the tactic from automatic anger.
+* He describes a viability judgment preceding the exit response.
+* He remains engaged through sustained pressure elsewhere.
+* No reciprocal exit criterion, objection inventory, or reversal case appears.
+
+**Stage-3 promotion ceiling:**
+Packet-local Ziggy core candidate below profile threshold.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Exchange-Viability Triage**
+
+**What does not map:**
+
+* Premature closure is only a possible failure mode.
+* No substantive claim is treated as defeated merely because it remains contested.
+* The finding therefore does not establish Contest-to-Defeat Compression.
+* It does not establish Contested ≠ Defeated because no explicit unresolved-objection preservation operation occurs.
+
+**Mapping-survival verdict:**
+The `NEW` classification survives the Stage-3 alternative reading. The alternative limits promotion but does not remove the recoverable triage operation.
+
+---
+
+## Finding 2 — Relative-Unknown Expansion
+
+**Actor:** Ziggy
+
+**Classification:** Core packet-local reasoning candidate
+
+**Primary interpretation:**
+Ziggy expands unknownness beyond never-discovered material to include knowledge unavailable relative to a person, community, or historical period.
+
+**Strongest alternative interpretation:**
+A one-time substantive belief about what the word “unknown” should include rather than a reusable reasoning operation.
+
+**Discriminating bounded evidence:**
+
+* The move changes the inquiry from discovery alone to recovery and historical loss.
+* Ziggy accepts separation between forgotten and genuinely undiscovered material.
+* No independent recurrence or prior-possession test appears.
+
+**Stage-3 promotion ceiling:**
+Packet-local Ziggy core candidate below profile threshold.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Relative-Unknown Expansion**
+
+**Secondary relation:**
+**POSSIBLE ANTI-COLLAPSE ANALOGY to Unmeasured-to-Zero Conversion**
+
+**Reason for analogy only:**
+
+* no selected instrument;
+* no numerical score;
+* no zero assignment;
+* no demonstrated measurement failure;
+* no scoring operation.
+
+Relative-Unknown Expansion broadens unknownness across persons, communities, and historical periods. It does not perform the same operation as correcting an unmeasured-to-zero score.
+
+**Mapping-survival verdict:**
+The `NEW` classification survives. The analogy remains non-operative and does not raise the Stage-3 ceiling.
+
+---
+
+## Finding 3 — Archetypal Frame Mobility
+
+**Actor:** Ziggy
+
+**Classification:** Core packet-local reasoning candidate
+
+**Primary interpretation:**
+Ziggy uses archetypes as temporary operational or interpretive frames while preserving the possibility of switching, combining, or exceeding inherited scripts.
+
+**Strongest alternative interpretation:**
+Expressive metaphor for psychological flexibility rather than an actual cognitive operator.
+
+**Discriminating bounded evidence:**
+
+* Ziggy uses operational language involving frames, avatars, switching, combination, and exceeding scripts.
+* He explicitly rejects total frame-lock.
+* No independent non-Loki case, transition rule, reciprocal switching case, or meta-rule appears.
+
+**Stage-3 promotion ceiling:**
+Packet-local Ziggy core candidate below profile threshold.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Archetypal Frame Mobility**
+
+**What does not map:**
+
+* It is not Possibility Preservation in the registry’s epistemic sense.
+* It is not Universalized Evaluative Jurisdiction.
+* It is not Cross-Disciplinary Swooping merely because archetypes from multiple sources may be used.
+* Possible conceptual relations to possibility preservation or jurisdiction remain too weak for formal mapping.
+
+**Mapping-survival verdict:**
+The `NEW` classification survives, subject to the unresolved metaphor-versus-operation alternative.
+
+---
+
+## Finding 4 — External-Constraint Recognition
+
+**Actor:** Ziggy
+
+**Classification:** Core one-time consequential reasoning candidate
+
+**Primary interpretation:**
+Ziggy revises the model of his local authority by recognizing that moderator power is nested beneath authorities capable of sanction, removal, or revocation.
+
+**Strongest alternative interpretation:**
+A one-time defensive rebuttal introduced to weaken Nova’s criticism rather than a recurring reasoning move.
+
+**Discriminating bounded evidence:**
+
+* Ziggy reports that people could report him.
+* He reports being banned.
+* He reports rooms being deleted.
+* The information materially changes the authority model regardless of motive.
+* No repeated independent use or conduct change appears.
+
+**Stage-3 promotion ceiling:**
+Packet-local Ziggy core candidate below profile threshold.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — External-Constraint Recognition**
+
+**What does not map:**
+
+* Recognition of superior sanctioning power is not Symmetry Testing of Standards.
+* No reciprocal evaluative procedure appears.
+* No equal evidentiary burden, paperwork, or appeal structure is established.
+* External constraint remains distinct from legitimate accountability.
+
+**Mapping-survival verdict:**
+The `NEW` classification survives as a one-time consequential correction.
+
+---
+
+## Finding 5 — Prior-Solution Reinstatement
+
+**Actor:** Ziggy
+
+**Classification:** Core reasoning candidate; cautious future-testing profile candidate
+
+**Primary interpretation:**
+When Nova raises an objection that presupposes an absent safeguard, Ziggy restores system architecture he believes CFA already contains, changing the inquiry from absence to adequacy, implementation, or residual failure.
+
+**Strongest alternative interpretation:**
+System-owner defensiveness or premature closure through declaring a problem already solved.
+
+**Discriminating bounded evidence:**
+
+* The move occurs in the auditor-governance discussion.
+* It occurs again in the transparency and documentation discussion.
+* In each instance the restored architecture is relevant to the criticism.
+* The architecture remains self-reported and independently unverified.
+
+**Stage-3 promotion ceiling:**
+Cautious Ziggy profile candidate for future testing, not a durable trait.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Prior-Solution Reinstatement**
+
+**Secondary relation:**
+**COUNTER-OPERATION / CORRECTIVE RELATION to Reconstruction Bypass**
+
+**What the relation means:**
+
+* The move restores architecture omitted from a criticism.
+* It may repair an incomplete representation.
+* It redirects the inquiry toward whether the architecture works.
+
+**What the relation does not mean:**
+
+* Prior-Solution Reinstatement does not match Reconstruction Bypass.
+* It does not extend Reconstruction Bypass.
+* It does not establish that Nova committed Reconstruction Bypass.
+* It does not establish that the restored architecture existed or worked exactly as reported.
+
+**Mapping-survival verdict:**
+The `NEW` classification and corrective relation survive the system-owner-closure alternative. That alternative remains part of the future review condition.
+
+---
+
+## Finding 6 — Transparency–Comprehension Separation
+
+**Actor:** Ziggy
+
+**Classification:** Core reasoning candidate; cautious future-testing profile candidate
+
+**Primary interpretation:**
+Ziggy distinguishes making information available from producing comprehension, navigation, engagement, or trust.
+
+**Strongest alternative interpretation:**
+Audience-blame defense used after documentation failed to persuade.
+
+**Discriminating bounded evidence:**
+
+* Ziggy explicitly reports that extensive documentation and interface materials existed.
+* He also reports that they failed to generate sufficient understanding or engagement.
+* He identifies the volume of material as part of the problem, leaving system-side explanations open.
+* No audience incapacity or bad faith is established.
+* No documentation-adequacy verification appears.
+
+**Stage-3 promotion ceiling:**
+Cautious Ziggy profile candidate for future testing, not a durable trait.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Transparency–Comprehension Separation**
+
+**Secondary relation:**
+**COUNTER-OPERATION / CORRECTIVE RELATION to Universalized Evaluative Jurisdiction**
+
+**What the relation means:**
+
+* The move limits the jurisdiction of transparency or disclosure.
+* Availability is denied universal authority over comprehension, navigation, engagement, and trust.
+* It prevents one success condition from automatically standing in for several others.
+
+**What the relation does not mean:**
+
+* The move does not extend jurisdictional overreach.
+* It does not prove Universalized Evaluative Jurisdiction occurred as a stable actor pathology.
+* It does not establish that CFA’s transparency was adequate.
+* It does not supply a complete trust architecture.
+
+**Mapping-survival verdict:**
+The `NEW` classification and corrective relation survive strongly when causal blame is withheld.
+
+---
+
+## Finding 7 — Proof–Story Double-Bind Detection
+
+**Actor:** Ziggy
+
+**Classification:** Core packet-local reasoning candidate
+
+**Primary interpretation:**
+Ziggy identifies a local communication pattern in which technical presentation is rejected as inaccessible while narrative presentation is rejected as unsupported.
+
+**Strongest alternative interpretation:**
+Conflation of different audiences, claims, or conditions whose objections were independently reasonable.
+
+**Discriminating bounded evidence:**
+
+* Ziggy explicitly places the two rejection patterns together.
+* The communication problem motivates Proof–Narrative Layering.
+* The same audience, claim, baseline, and conditions are not established.
+* No falsification condition appears.
+
+**Stage-3 promotion ceiling:**
+Packet-local Ziggy core candidate below profile threshold.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Proof–Story Double-Bind Detection**
+
+**Possible but uncounted diagnostic relations:**
+
+* Baseline Exemption;
+* Generative Admission Restriction.
+
+These remain too weak for the formal secondary-relation ledger because the packet does not establish:
+
+* the same evaluator;
+* the same claim;
+* the same baseline;
+* equivalent conditions;
+* pre-evaluative exclusion of narrative sources.
+
+**Mapping-survival verdict:**
+The `NEW` classification survives at packet-local level. No named-registry implementation is established.
+
+---
+
+## 2.2 Five Ziggy Supporting Stances, Proposals, or Protocols
+
+## Finding 8 — Corruption-Prior Assumption
+
+**Actor:** Ziggy
+
+**Classification:** Substantive starting stance
+
+**Primary interpretation:**
+Ziggy rejects personal immunity from corruption and treats confidence in permanent purity as a possible danger.
+
+**Strongest alternative interpretation:**
+Identity-protective humility that supplies moral credit without producing constraint.
+
+**Discriminating bounded evidence:**
+
+* Ziggy includes himself within the class of corruptible power-holders.
+* He reports his own inconsistent conduct.
+* No concrete restraint, repair, or procedural safeguard follows.
+
+**Stage-3 promotion ceiling:**
+Supporting Ziggy stance; not a profile operator.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Corruption-Prior Assumption**
+
+**Secondary relation:**
+**POSSIBLE SELF-APPLICATION ANALOGY to Symmetry Testing of Standards**
+
+**Reason for analogy only:**
+
+* The stance verbally applies fallibility to Ziggy as well as others.
+* It does not perform a reciprocal evidentiary or procedural test.
+* It does not require equal paperwork, consequences, or burden.
+* It does not demonstrate restraint.
+
+**Mapping-survival verdict:**
+The stance survives; the identity-protective-humility alternative blocks operator promotion and full registry mapping.
+
+---
+
+## Finding 9 — Contextual Exception Authorization
+
+**Actor:** Ziggy
+
+**Classification:** Substantive moral position
+
+**Primary interpretation:**
+Ziggy rejects the proposition that every rule must remain unbroken under every imaginable condition.
+
+**Strongest alternative interpretation:**
+Arbitrary sovereign discretion presented as contextual judgment.
+
+**Discriminating bounded evidence:**
+
+* Ziggy explicitly rejects exceptionless rules.
+* No necessity, proportionality, reciprocity, expiration, appeal, or retrospective-review process appears.
+
+**Stage-3 promotion ceiling:**
+Supporting moral position only.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Contextual Exception Authorization**
+
+**What does not map:**
+
+* No registry candidate captures the operation.
+* Resistance to universal rules is not itself Universalized Evaluative Jurisdiction.
+* No Symmetry Testing procedure appears.
+* No legitimate exception process is established.
+
+**Mapping-survival verdict:**
+The `NEW` classification survives while principled particularism versus sovereign discretion remains unresolved.
+
+---
+
+## Finding 10 — Cross-Tradition Structural Mapping
+
+**Actor:** Ziggy
+
+**Classification:** Packet-local analogical move
+
+**Primary interpretation:**
+Ziggy uses Don Juan’s four-enemy framework to reorganize or compare Gnostic and Archonic structures.
+
+**Strongest alternative interpretation:**
+Loose thematic association rather than disciplined structural transfer.
+
+**Discriminating bounded evidence:**
+
+* A structure from one tradition is explicitly applied to another interpretive field.
+* The imported pattern changes the comparison space.
+* No disanalogy test, recurrence, historical derivation, or metaphysical identity appears.
+
+**Stage-3 promotion ceiling:**
+Supporting packet-local analogical move; below profile threshold.
+
+**Corrected Stage-4 primary verdict:**
+**PARTIAL PACKET-LOCAL IMPLEMENTATION of Cross-Disciplinary Swooping**
+
+**What partially matches:**
+
+* a structure from one tradition is imported into another interpretive field;
+* the imported pattern reorganizes comparison;
+* the move reframes the live conceptual material.
+
+**Why it is not a full match:**
+
+* the sources are traditions rather than clearly distinct technical disciplines;
+* the mapping may be thematic;
+* disanalogies were not tested;
+* the move appears once;
+* no historical or metaphysical identity follows.
+
+**Mapping-survival verdict:**
+The partial implementation survives the thematic-association alternative but remains packet-local and non-durable.
+
+---
+
+## Finding 11 — Conscious Label Insertion
+
+**Actor:** Ziggy
+
+**Classification:** Proposed self-regulation protocol
+
+**Primary interpretation:**
+Ziggy proposes consciously naming recurring forces or patterns to reduce their unexamined influence.
+
+**Strongest alternative interpretation:**
+Spiritualized labeling that creates false mastery without changing behavior.
+
+**Discriminating bounded evidence:**
+
+* The “RAM” metaphor supports awareness, recall, and metacognitive monitoring.
+* No repeated success, failed case, behavioral target, or persistence evidence appears.
+* Literal spiritual or archetypal causation is not established.
+
+**Stage-3 promotion ceiling:**
+Supporting proposed protocol only.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Conscious Label Insertion**
+
+**What does not map:**
+
+* It is not Possibility Preservation.
+* It is not Cross-Disciplinary Swooping.
+* It does not concern admission, scoring, or evaluation of hypotheses.
+* No registry candidate captures the self-regulation operation.
+
+**Mapping-survival verdict:**
+The `NEW` classification survives; efficacy remains unverified.
+
+---
+
+## Finding 12 — Convergence-and-Compatibility Governance Proposal
+
+**Actor:** Ziggy
+
+**Classification:** Substantive system-design proposal
+
+**Primary interpretation:**
+Ziggy reports a governance architecture involving multiple or representative auditors, approximately 98% convergence, compatibility mapping, and destructive-interference concerns.
+
+**Strongest alternative interpretation:**
+Plurality and a high agreement figure used rhetorically to simulate independent validation.
+
+**Discriminating bounded evidence:**
+
+* Several related design components are named.
+* The proposal directly answers orthodoxy concerns.
+* Convergence status and metric remain untyped.
+* Independence, common-mode failure, minority dissent, and interference classification remain unverified.
+
+**Stage-3 promotion ceiling:**
+Supporting system-design proposal only.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Convergence-and-Compatibility Governance Proposal**
+
+**Possible future risks, not present mappings:**
+
+* Prediction Sovereignty could arise if convergence or prediction becomes final authority.
+* Universalized Evaluative Jurisdiction could arise if one compatibility standard is imposed outside its established domain.
+
+Neither pathology is established in the packet.
+
+**Mapping-survival verdict:**
+The `NEW` classification survives. Implementation and truth-tracking claims remain quarantined.
+
+---
+
+## 2.3 Four Ziggy Rhetorical or Role-Induced Tactics
+
+## Finding 13 — Mock-Permission Reversal
+
+**Actor:** Ziggy
+
+**Classification:** Rhetorical tactic
+
+**Primary interpretation:**
+Ziggy recasts a perceived demand for intellectual submission as though the interlocutor claimed authority to grant or deny permission to think.
+
+**Strongest alternative interpretation:**
+Sarcastic dominance performance, audience play, or evasion of a live objection.
+
+**Discriminating bounded evidence:**
+
+* Ziggy explicitly presents the phrase as humor following perceived impasse.
+* He denies that it is merely anger.
+* No pedagogical outcome, reciprocal acceptance, or live-objection resolution appears.
+
+**Stage-3 promotion ceiling:**
+Rhetorical tactic only.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Mock-Permission Reversal**
+
+**What does not map:**
+
+* It is not Symmetry Testing of Standards.
+* It is not Contested ≠ Defeated.
+* It is not Reconstruction Bypass.
+* Premature exit remains a failure possibility rather than a registry mapping.
+
+**Mapping-survival verdict:**
+The `NEW` tactic classification survives. No operator promotion follows.
+
+---
+
+## Finding 14 — Self-Implication Disclosure
+
+**Actor:** Ziggy
+
+**Classification:** Rhetorical and evaluative disclosure tactic
+
+**Primary interpretation:**
+Ziggy includes his own inconsistency and rule-breaking within the corruption model rather than claiming exemption.
+
+**Strongest alternative interpretation:**
+Pre-emptive confession that neutralizes criticism or normalizes future inconsistency.
+
+**Discriminating bounded evidence:**
+
+* Ziggy openly reports his own misconduct.
+* He does not place himself outside the corruption risk.
+* No correction, restitution, equal burden, or accountability procedure appears.
+
+**Stage-3 promotion ceiling:**
+Disclosure tactic only.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Self-Implication Disclosure**
+
+**Secondary relation:**
+**POSSIBLE RHETORICAL SELF-APPLICATION ANALOGY to Symmetry Testing of Standards**
+
+**Reason for analogy only:**
+
+* Ziggy verbally places himself under the same corruption suspicion.
+* Disclosure is not a reciprocal procedural test.
+* It does not satisfy an equal evidentiary burden.
+* It does not establish equal consequence, appeal, or correction.
+
+**Mapping-survival verdict:**
+The tactic survives. The criticism-neutralization alternative prevents stronger mapping.
+
+---
+
+## Finding 15 — Narrative Transcendence Modeling
+
+**Actor:** Ziggy
+
+**Classification:** Rhetorical and illustrative tactic
+
+**Primary interpretation:**
+Ziggy imports the MCU Loki narrative to illustrate an archetype exceeding a narrower inherited role.
+
+**Strongest alternative interpretation:**
+Emotionally compelling story substituted for evidence or a governing argument.
+
+**Discriminating bounded evidence:**
+
+* The conceptual claim of frame mobility exists before the illustration.
+* The narrative clarifies rather than creates the entire claim.
+* It supplies no independent psychological or archetypal evidence.
+
+**Stage-3 promotion ceiling:**
+Illustrative tactic only.
+
+**Corrected Stage-4 primary verdict:**
+**PARTIAL ILLUSTRATIVE IMPLEMENTATION of Cross-Disciplinary Swooping**
+
+**What partially matches:**
+
+* a fictional narrative structure is imported to illuminate a philosophical model;
+* the imported structure helps reframe the conceptual issue.
+
+**Why it is not a full match or extension:**
+
+* the move is illustrative;
+* the source domain is fictional narrative rather than a developed discipline;
+* the conceptual claim already existed;
+* the narrative supplies no independent evidence;
+* the item remains a tactic.
+
+**Mapping-survival verdict:**
+The partial illustrative implementation survives while remaining below operator tier.
+
+---
+
+## Finding 16 — Capability Reality Check
+
+**Actor:** Ziggy in the moderator role
+
+**Classification:** Moderator-role tactic
+
+**Primary interpretation:**
+Ziggy invokes or uses actual moderator capability to clarify the practical power relation within an online space.
+
+**Strongest alternative interpretation:**
+Coercive assertion confusing ability with rightness or legitimacy.
+
+**Discriminating bounded evidence:**
+
+* Ziggy reports possessing and invoking moderator powers.
+* He distinguishes online power from broader institutional authority.
+* No legitimate purpose, proportionality, challenge right, or review process appears.
+
+**Stage-3 promotion ceiling:**
+Moderator-role tactic only.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Capability Reality Check**
+
+**What does not map:**
+
+* It is not Universalized Evaluative Jurisdiction.
+* It is not Symmetry Testing.
+* It establishes de facto capability rather than epistemic authority.
+* No registry candidate captures the role-enabled force clarification.
+
+**Mapping-survival verdict:**
+The `NEW` tactic classification survives. Legitimate authority remains unestablished.
+
+---
+
+## 2.4 Three Nova Live Analytic Moves or Role Behaviors
+
+## Finding 17 — Unknown-Type Separation
+
+**Actor:** Nova
+
+**Classification:** Nova live analytic move
+
+**Primary interpretation:**
+Nova distinguishes genuinely undiscovered knowledge from forgotten or lost knowledge.
+
+**Strongest alternative interpretation:**
+Ordinary conversational clarification rather than a stable analytic operation.
+
+**Discriminating bounded evidence:**
+
+* The distinction materially changes the inquiry.
+* It prevents immediate collapse of different epistemic states.
+* It appears once.
+* The complete later unknown taxonomy was not performed live.
+
+**Stage-3 promotion ceiling:**
+Packet-local Nova live analytic move.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Unknown-Type Separation**
+
+**Secondary relation:**
+**POSSIBLE ANTI-COLLAPSE ANALOGY to Unmeasured-to-Zero Conversion**
+
+**Reason for analogy only:**
+
+* the move distinguishes types of non-access;
+* it does not correct a measurement result;
+* no instrument failure or numerical zero is present;
+* no scoring operation appears.
+
+**Mapping-survival verdict:**
+The `NEW` classification survives. The ordinary-clarification alternative limits durable interpretation.
+
+---
+
+## Finding 18 — Vulnerability-Probe Steering
+
+**Actor:** Nova
+
+**Classification:** Nova role behavior
+
+**Primary interpretation:**
+Nova steers the discussion toward power, orthodoxy, trust, and residual failure conditions.
+
+**Strongest alternative interpretation:**
+Moving-target behavior or protocol-induced escalation.
+
+**Discriminating bounded evidence:**
+
+* Nova repeatedly selects vulnerable domains.
+* She presses first-order safeguards toward higher-order weaknesses.
+* She also co-constructs proposals rather than merely attacking.
+* No stable stopping rule appears.
+
+**Stage-3 promotion ceiling:**
+Nova role behavior only.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Vulnerability-Probe Steering**
+
+**What does not map:**
+
+* It is broader than Symmetry Testing of Standards.
+* It is not Prediction Sovereignty.
+* It is a role-level inquiry direction rather than a named theory-evaluation operator.
+
+**Mapping-survival verdict:**
+The `NEW` role-behavior classification survives. No durable Nova trait is inferred.
+
+---
+
+## Finding 19 — Conceptual Labeling and Formalization
+
+**Actor:** Nova
+
+**Classification:** Nova role behavior
+
+**Primary interpretation:**
+Nova compresses Ziggy’s experiential or narrative material into conceptual handles and distinctions.
+
+**Strongest alternative interpretation:**
+Nova imposes more coherence than the source material warrants.
+
+**Discriminating bounded evidence:**
+
+* Ziggy supplies substantive underlying ideas.
+* Nova supplies labels such as “Archetype Weaver” and formalizes Proof–Narrative Layering.
+* Independent later Ziggy deployment of the complete formalizations is unavailable.
+
+**Stage-3 promotion ceiling:**
+Nova role behavior only.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Conceptual Labeling and Formalization**
+
+**What does not map:**
+
+* It is not automatically Cross-Disciplinary Swooping.
+* It does not necessarily admit, reject, or score a hypothesis.
+* No registry candidate captures the compression and naming operation.
+
+**Mapping-survival verdict:**
+The `NEW` role-behavior classification survives with imposed-coherence controls.
+
+---
+
+## 2.5 Two CO-CONSTRUCTED Architectures
+
+## Finding 20 — Archetype Weaver
+
+**Actors:** Ziggy and Nova
+
+**Classification:** CO-CONSTRUCTED architecture
+
+**Primary interpretation:**
+A jointly developed label and architecture for using multiple archetypal frames without complete identification with one.
+
+**Strongest alternative interpretation:**
+Nova supplied a label for an idea Ziggy already possessed rather than jointly developing a new architecture.
+
+**Discriminating bounded evidence:**
+
+* Ziggy supplies the underlying frame-mobility structure.
+* Nova supplies the “Archetype Weaver” label.
+* The exchange develops the formulation jointly.
+* No independent later deployment or meta-rule appears.
+
+**Stage-3 promotion ceiling:**
+CO-CONSTRUCTED architecture only.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Archetype Weaver**
+
+**What does not map:**
+
+* It is not Possibility Preservation in the registry’s epistemic sense.
+* It is not Cross-Disciplinary Swooping merely because multiple archetypes are usable.
+* It concerns relation to interpretive identity and frame selection.
+
+**Mapping-survival verdict:**
+The `NEW` CO-CONSTRUCTED classification survives. No sole authorship or independent Ziggy possession is inferred.
+
+---
+
+## Finding 21 — Proof–Narrative Layering
+
+**Actors:** Ziggy and Nova
+
+**Classification:** CO-CONSTRUCTED communication architecture
+
+**Primary interpretation:**
+A layered communication architecture connects narrative entry to technical evidence, assumptions, objections, uncertainty, and testing.
+
+**Strongest alternative interpretation:**
+Generic assistant advice rather than a distinctive jointly developed architecture.
+
+**Discriminating bounded evidence:**
+
+* Ziggy supplies the packet-specific proof–story problem.
+* Nova supplies the layering proposal.
+* The architecture directly answers the problem.
+* No implementation, uptake, navigation, or bias result appears.
+
+**Stage-3 promotion ceiling:**
+Untested CO-CONSTRUCTED architecture.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Proof–Narrative Layering**
+
+**Possible but uncounted design relation:**
+A design-level relation to Generative Admission Restriction is conceivable because narrative is retained as an entry layer without being exempted from evidence.
+
+No demonstrated registry implementation follows.
+
+**Mapping-survival verdict:**
+The `NEW` CO-CONSTRUCTED classification survives. Effectiveness remains `UNKNOWN`.
+
+---
+
+## 2.6 One Z-REPORTED Angel Argument Structure
+
+## Finding 22 — Ideological-Capture Warning
+
+**Reported subject:** Angel
+
+**Reporter:** Ziggy
+
+**Classification:** Z-REPORTED Angel argument structure
+
+**Primary interpretation:**
+Ziggy reports that Angel feared AI-backed theistic or religious domination through epistemic authority, governance, or institutional deployment.
+
+**Strongest alternative interpretation:**
+The warning is Ziggy’s compression or reconstruction of Angel’s concern rather than Angel’s own complete framing.
+
+**Discriminating bounded evidence:**
+
+* Ziggy clearly reports the concern.
+* No direct Angel testimony appears.
+* Angel’s exact argument, qualifications, and motives remain unavailable.
+* The full jurisdictional reconstruction may be extraction analysis.
+
+**Stage-3 promotion ceiling:**
+Z-REPORTED argument structure only.
+
+**Corrected Stage-4 primary verdict:**
+**NEW — Ideological-Capture Warning**
+
+**Secondary relation:**
+**POSSIBLE DIAGNOSTIC RELATION to Universalized Evaluative Jurisdiction**
+
+**Reason for diagnostic relation only:**
+
+* the reported warning concerns evaluative authority expanding into institutional coercion;
+* Angel’s exact argument is unavailable;
+* the warning includes capture, governance, deployment, and coercion rather than the same core operation as applying one standard outside its domain;
+* the jurisdictional interpretation may be Ziggy’s compression or extraction analysis.
+
+**Mapping-survival verdict:**
+The `NEW` Z-REPORTED classification survives only at its attribution ceiling. No Angel operator follows.
+
+---
+
+# 3. Mapping Disposition and Candidate Ledgers
+
+## 3.1 Primary Mapping Disposition
+
+### NEW primary classifications — 20
+
+1. Exchange-Viability Triage.
+2. Relative-Unknown Expansion.
+3. Archetypal Frame Mobility.
+4. External-Constraint Recognition.
+5. Prior-Solution Reinstatement.
+6. Transparency–Comprehension Separation.
+7. Proof–Story Double-Bind Detection.
+8. Corruption-Prior Assumption.
+9. Contextual Exception Authorization.
+10. Conscious Label Insertion.
+11. Convergence-and-Compatibility Governance Proposal.
+12. Mock-Permission Reversal.
+13. Self-Implication Disclosure.
+14. Capability Reality Check.
+15. Unknown-Type Separation.
+16. Vulnerability-Probe Steering.
+17. Conceptual Labeling and Formalization.
+18. Archetype Weaver.
+19. Proof–Narrative Layering.
+20. Ideological-Capture Warning.
+
+### Partial named-registry implementations — 2
+
+1. **Cross-Tradition Structural Mapping**
+   → Partial packet-local implementation of Cross-Disciplinary Swooping.
+
+2. **Narrative Transcendence Modeling**
+   → Partial illustrative implementation of Cross-Disciplinary Swooping.
+
+### Full MATCHES verdicts — 0
+
+### Full EXTENDS verdicts — 0
+
+Secondary corrective, diagnostic, and analogy relations do not alter the twenty-two primary classifications.
+
+## 3.2 Secondary-Relation Ledger
+
+### Counter-operations or corrective relations — 2
+
+1. **Prior-Solution Reinstatement**
+   → Corrective relation to Reconstruction Bypass.
+
+2. **Transparency–Comprehension Separation**
+   → Corrective relation to Universalized Evaluative Jurisdiction.
+
+### Possible analogies or diagnostic relations — 5
+
+1. **Relative-Unknown Expansion**
+   → Possible anti-collapse analogy to Unmeasured-to-Zero Conversion.
+
+2. **Corruption-Prior Assumption**
+   → Possible self-application analogy to Symmetry Testing of Standards.
+
+3. **Self-Implication Disclosure**
+   → Possible rhetorical self-application analogy to Symmetry Testing of Standards.
+
+4. **Unknown-Type Separation**
+   → Possible anti-collapse analogy to Unmeasured-to-Zero Conversion.
+
+5. **Ideological-Capture Warning**
+   → Possible diagnostic relation to Universalized Evaluative Jurisdiction.
+
+These secondary relations overlap with primary classifications and are non-additive.
+
+---
+
+# 4. Corrected Promotion and Quarantine Architecture
+
+## 4.1 Cautious Ziggy Profile Candidates — 2
+
+These are future-testing candidates rather than durable traits.
+
+## Candidate 1 — Prior-Solution Reinstatement
+
+**Subject:** Ziggy
+
+**Evidence classification:**
+
+* `Z-DIRECT`
+* repeated packet-local reasoning move;
+* cautious future-testing profile candidate.
+
+**Confidence:** MODERATE
+
+**Basis for cautious promotion:**
+
+* occurs in two distinct packet domains;
+* restores relevant omitted architecture;
+* changes the object of criticism;
+* is not reducible to a phrase, metaphor, or isolated reaction.
+
+**Source anchors:**
+
+1. auditors, convergence, compatibility mapping, and interference concerns reinstated in response to orthodoxy concerns;
+2. Streamlit site, glossary, index, documentation, and transparency materials reinstated in response to transparency concerns.
+
+**Stage-4 mapping:**
+`NEW — Prior-Solution Reinstatement`
+
+**Secondary relation:**
+Corrective relation to Reconstruction Bypass.
+
+**Controls:**
+
+* may correct omitted architecture;
+* may function as system-owner closure;
+* architecture remains self-reported;
+* implementation remains unverified;
+* recurrence outside CFA ownership is unknown;
+* no claim is made that Nova necessarily committed Reconstruction Bypass.
+
+**Review condition:**
+Demote if future cases show that reinstatement routinely substitutes design claims for implementation evidence or closes inquiry without addressing residual criticism.
+
+Increase confidence only if the move recurs outside system ownership and the restored architecture can be shown to predate and materially answer the criticism.
+
+---
+
+## Candidate 2 — Transparency–Comprehension Separation
+
+**Subject:** Ziggy
+
+**Evidence classification:**
+
+* `Z-DIRECT`
+* packet-local reasoning move;
+* cautious future-testing profile candidate.
+
+**Confidence:** MODERATE–HIGH for the bounded distinction; MODERATE for recurrence.
+
+**Basis for cautious promotion:**
+
+* the distinction is explicit;
+* it performs substantive inferential work;
+* it changes the inquiry from availability to uptake;
+* it survives when causal attribution is withheld.
+
+**Source anchor:**
+Ziggy reports that extensive CFA documentation and interface materials existed while also reporting insufficient engagement or understanding.
+
+**Stage-4 mapping:**
+`NEW — Transparency–Comprehension Separation`
+
+**Secondary relation:**
+Corrective relation to Universalized Evaluative Jurisdiction.
+
+**Controls:**
+
+* documentation adequacy remains unverified;
+* no audience blame follows;
+* usability remains unverified;
+* validation remains unverified;
+* relevance remains live;
+* vocabulary and incentives remain live;
+* distrust and navigation remain live;
+* audience factors remain live;
+* transparency does not establish trust.
+
+**Review condition:**
+Demote if the distinction is used only to immunize Ziggy’s own materials from usability or validation criticism.
+
+Increase confidence if Ziggy applies it symmetrically to systems he opposes and accepts system-side failure when formally transparent material remains practically unusable.
+
+---
+
+## 4.2 Packet-Local Ziggy Core Candidates Below Profile Threshold — 5
+
+## 1. Exchange-Viability Triage
+
+**Current ceiling:** Packet-local candidate.
+
+**Promotion barriers:**
+
+* no independent recurrence;
+* no reciprocal exit criterion;
+* no live-objection inventory;
+* no revision case;
+* no demonstrated outcome.
+
+**Additional evidence required:**
+
+* independent case;
+* reciprocal standard;
+* case of continued engagement despite frustration;
+* case of revised exit judgment;
+* outcome evidence distinguishing triage from avoidance.
+
+---
+
+## 2. Relative-Unknown Expansion
+
+**Current ceiling:** Packet-local conceptual candidate.
+
+**Promotion barriers:**
+
+* no recurrence outside the topic;
+* no prior-possession test;
+* belief-versus-operation ambiguity.
+
+**Additional evidence required:**
+
+* independent recurrence;
+* explicit lost-versus-implicit-versus-undiscovered typing;
+* evidence requirements for prior possession;
+* consequential change in another inquiry.
+
+---
+
+## 3. Archetypal Frame Mobility
+
+**Current ceiling:** Packet-local conceptual candidate.
+
+**Promotion barriers:**
+
+* no independent case;
+* no meta-rule;
+* no reciprocal switching;
+* no continuity standard;
+* expressive-metaphor alternative remains live.
+
+**Additional evidence required:**
+
+* multiple independent archetypal cases;
+* switching criterion;
+* case where mobility constrains Ziggy;
+* correction conditions for convenient escape;
+* evidence of actual reasoning or behavioral change.
+
+---
+
+## 4. External-Constraint Recognition
+
+**Current ceiling:** One-time consequential correction.
+
+**Promotion barriers:**
+
+* single instance;
+* defensive-rebuttal alternative;
+* no conduct change;
+* no legitimacy revision.
+
+**Additional evidence required:**
+
+* recurrence in another authority domain;
+* explicit revision of a prior claim;
+* voluntary acceptance of review;
+* evidence that recognition changes decision-making.
+
+---
+
+## 5. Proof–Story Double-Bind Detection
+
+**Current ceiling:** Packet-local communication diagnosis.
+
+**Promotion barriers:**
+
+* unresolved audience identity;
+* different claims may be involved;
+* equivalent conditions unestablished;
+* falsification conditions absent.
+
+**Additional evidence required:**
+
+* one audience making both demands;
+* equivalent claim and context;
+* withdrawal condition;
+* recurrence in an independent setting.
+
+---
+
+## 4.3 Ziggy Supporting Stances, Proposals, or Protocols — 5
+
+1. **Corruption-Prior Assumption**
+   Substantive starting stance.
+   No restraint, correction, or procedural symmetry is established.
+
+2. **Contextual Exception Authorization**
+   Substantive moral position.
+   No legitimate second-order exception process is established.
+
+3. **Cross-Tradition Structural Mapping**
+   Packet-local analogical move.
+   Partial packet-local implementation of Cross-Disciplinary Swooping.
+
+4. **Conscious Label Insertion**
+   Proposed self-regulation protocol.
+   No demonstrated behavioral control is established.
+
+5. **Convergence-and-Compatibility Governance Proposal**
+   Substantive system-design proposal.
+   No achieved convergence, auditor independence, truth-tracking, or validated isolation authority is established.
+
+These remain non-profile categories.
+
+## 4.4 Ziggy Rhetorical or Role-Induced Tactics — 4
+
+1. **Mock-Permission Reversal**
+   Rhetorical tactic.
+
+2. **Self-Implication Disclosure**
+   Rhetorical and evaluative disclosure tactic.
+
+3. **Narrative Transcendence Modeling**
+   Illustrative tactic and partial illustrative implementation of Cross-Disciplinary Swooping.
+
+4. **Capability Reality Check**
+   Moderator-role tactic demonstrating de facto capability only.
+
+These remain tactics rather than cognitive operators.
+
+## 4.5 Nova Live Analytic Moves and Role Behaviors — 3
+
+1. **Unknown-Type Separation**
+2. **Vulnerability-Probe Steering**
+3. **Conceptual Labeling and Formalization**
+
+These remain Nova live or role-local findings.
+
+## 4.6 CO-CONSTRUCTED Architectures — 2
+
+1. **Archetype Weaver**
+2. **Proof–Narrative Layering**
+
+These remain jointly developed architectures.
+
+No individual authorship, implementation success, or durable trait follows.
+
+## 4.7 Z-REPORTED Angel Argument Structures — 1
+
+1. **Ideological-Capture Warning**
+
+This remains at the `Z-REPORTED` attribution ceiling.
+
+No stable Angel operator, motive, or complete philosophy is established.
+
+## 4.8 Extraction-Generated Analytic Controls Outside Actor Evidence — 3
+
+1. **Meta-Frame Governance Audit**
+2. **Symmetric Ideological-Capture Audit**
+3. **Multi-Dimensional Trust Decomposition**
+
+These remain dig-level controls and do not enter the actor ledger.
+
+---
+
+# 5. Stage-3 Availability Ledger
+
+Registry mapping does not complete an omitted operation.
+
+## 5.1 A3 Confirmed Informative Omissions — 3
+
+1. **Second-Order Vulnerability Probe Not Applied to Archetypal Frame Mobility**
+
+   Nova demonstrated the bounded operation of testing an attractive first-order safeguard for higher-order failure conditions.
+
+   The complete Meta-Frame Governance Audit was not previously demonstrated live.
+
+2. **Ambiguous-Term and Claim-Status Typing Not Applied to Convergence and Interference**
+
+   Nova demonstrated term separation when distinguishing undiscovered from forgotten or lost knowledge.
+
+   The A3 omission is limited to live typing of:
+
+   * convergence;
+   * approximately 98% status;
+   * destructive interference.
+
+   Auditor independence, false consensus, minority dissent, and common-mode failure remain A1.
+
+3. **Vulnerability Probe Not Applied to Proof–Narrative Layering**
+
+   Nova demonstrated bounded second-order safeguard testing elsewhere.
+
+   The omitted live test concerns:
+
+   * framing bias;
+   * shallow-layer capture;
+   * navigation failure;
+   * false comprehension;
+   * testability.
+
+## 5.2 A2 Explicitly Available Omissions — 0
+
+No specific omitted operation was directly offered, requested, or made salient to the relevant actor and then knowingly left unused.
+
+## 5.3 A1 Possible Informative Omissions — 13
+
+1. Exchange-Viability Reciprocity and Live-Objection Audit.
+2. Prior-Possession Test for Lost Knowledge.
+3. Discriminating Test for Collective-Unconscious Readings.
+4. Ziggy’s Meta-Rule for Frame Switching.
+5. Concrete Conduct Test for Corruption Awareness.
+6. Second-Order Exception Controls.
+7. Moderator Jurisdiction and Specific-Act Due-Process Review.
+8. Behavioral Measure for Conscious Label Insertion.
+9. Convergence Claim Jurisdiction and Status.
+10. Incorrect-Consensus, Auditor-Independence, and Minority-Dissent Test.
+11. Productive Disagreement versus Destructive Interference Test.
+12. Documentation Status and Transparency-Adequacy Loss Conditions.
+13. Audience-Identity Test for the Proof–Story Double Bind.
+
+## 5.4 A0 Evidence Packages — 4
+
+1. **Grant Evidence Package**
+2. **Complete Angel Argument Package**
+3. **Independent CFA Performance Package**
+4. **Proof–Narrative Implementation and Uptake Package**
+
+A0 packages remain evidence gaps rather than actor failures.
+
+---
+
+# 6. Preserved Stage-2 Sequences
+
+Sequences receive no additional registry mapping or promotion.
+
+## Sequence 1 — Impasse Assessment → Mock-Permission Exit
+
+1. Exchange-Viability Triage.
+2. Perceived demand for submission.
+3. Mock-Permission Reversal.
+4. Boundary, humor, or exit.
+
+**Control:**
+Mock-Permission Reversal remains a tactic rather than an operator.
+
+---
+
+## Sequence 2 — Relative Unknown Expansion → Unknown-Type Separation → Unresolved Hypothesis Space
+
+1. Relative-Unknown Expansion.
+2. Nova’s Unknown-Type Separation.
+3. Collective-unconscious speculation.
+4. Under-typed mechanism space remains open.
+
+**Control:**
+The unresolved space is not treated as a deliberate actor operator.
+
+---
+
+## Sequence 3 — Archetypal Deployment → Frame Mobility → Narrative Illustration → Meta-Frame Audit
+
+1. Archetypal Frame Mobility.
+2. Narrative Transcendence Modeling.
+3. Archetype Weaver co-construction.
+4. **Extraction-level Meta-Frame Governance Audit.**
+
+**Control:**
+The final endpoint is extraction-generated rather than prior actor execution.
+
+---
+
+## Sequence 4 — Corruption Prior → Disclosure → Contextual Exception → Capability Use → External Constraint
+
+1. Corruption-Prior Assumption.
+2. Self-Implication Disclosure.
+3. Contextual Exception Authorization.
+4. Capability Reality Check.
+5. External-Constraint Recognition.
+
+**Control:**
+The sequence remains incomplete without restraint, due process, correction, recourse, and legitimate accountability.
+
+---
+
+## Sequence 5 — Cross-Tradition Mapping → Conscious Labeling Proposal
+
+1. Cross-Tradition Structural Mapping.
+2. Identification of recurring obstacles.
+3. Conscious Label Insertion.
+4. Intended reduction in unexamined influence.
+
+**Control:**
+No regulatory success is demonstrated.
+
+---
+
+## Sequence 6 — Reported Capture Concern → Prior-Solution Reinstatement → Governance Proposal → Independence Gap
+
+1. `Z-REPORTED` Ideological-Capture Warning.
+2. Prior-Solution Reinstatement.
+3. Convergence-and-Compatibility Governance Proposal.
+4. **Extraction-level auditor-independence and common-mode-failure audit.**
+
+**Control:**
+The final endpoint is not converted into prior Ziggy or Nova execution.
+
+---
+
+## Sequence 7 — Transparency Objection → Artifact Reinstatement → Comprehension Separation → Double Bind → Layering
+
+1. Trust or transparency problem is raised.
+2. Prior-Solution Reinstatement.
+3. Transparency–Comprehension Separation.
+4. Proof–Story Double-Bind Detection.
+5. Proof–Narrative Layering.
+
+**Control:**
+The final architecture remains proposed and untested.
+
+---
+
+# 7. Preserved Role-Induced Behaviors
+
+Exactly six role-induced behaviors remain.
+
+## 1. Nova as Dialectical Stress-Tester
+
+Nova presses attractive claims and safeguards toward failure conditions.
+
+**Control:**
+This remains role behavior, not a durable trait.
+
+## 2. Nova as Conceptual Labeler
+
+Nova supplies compact conceptual handles for Ziggy’s narrative or experiential descriptions.
+
+**Control:**
+Nova’s vocabulary does not become Ziggy’s original language.
+
+## 3. Nova as Topic-Steering Authority
+
+Nova selects power, orthodoxy, trust, and residual weaknesses as inquiry domains.
+
+**Control:**
+The resulting architecture may partly reflect role-induced topic selection.
+
+## 4. Ziggy as System Owner and Context Restorer
+
+Ziggy restores CFA architecture omitted from Nova’s immediate framing.
+
+**Control:**
+System ownership may aid correction or encourage closure. Implementation remains unverified.
+
+## 5. Ziggy as Moderator
+
+Ziggy reports exercising platform-level capability and discretion.
+
+**Control:**
+De facto power does not establish legitimate authority.
+
+## 6. Ziggy as Reporter of Angel
+
+Angel’s concern enters the packet through Ziggy’s reconstruction.
+
+**Control:**
+No reported content becomes direct Angel testimony.
+
+## Separate Motive Self-Assessment
+
+Ziggy’s claimed lack of interest in power remains:
+
+**`Z-DIRECT SELF-ASSESSMENT CONCERNING MOTIVE`**
+
+It is not:
+
+* a verified motive;
+* a role-induced behavior;
+* evidence of immunity from power-seeking effects.
+
+---
+
+# 8. Preserved Relationship-Level Loops
+
+Exactly six relationship-level loops remain.
+
+No loop becomes a trait or receives an additional operator count.
+
+## Loop 1 — Experiential Claim → Nova Formalization → Ziggy Extension
+
+1. Ziggy supplies experiential or intuitive material.
+2. Nova formalizes or labels it.
+3. Ziggy accepts, corrects, or extends it.
+4. The result becomes co-constructed.
+
+**Controls:**
+
+* Nova’s label does not become Ziggy’s original language.
+* Acceptance does not establish complete independent possession.
+* Co-construction does not become sole authorship.
+
+---
+
+## Loop 2 — Nova Vulnerability Probe → Ziggy Prior-Solution Reinstatement → Residual Audit
+
+1. Nova raises a vulnerability.
+2. Ziggy restores architecture he believes CFA already contains.
+3. The inquiry shifts to implementation, adequacy, independence, comprehension, or residual failure.
+
+**Controls:**
+
+* Nova may move the target, but this is not automatically inferred.
+* Ziggy may confuse design with implementation, but this is not automatically inferred.
+* Restored architecture remains self-reported.
+
+---
+
+## Loop 3 — Self-Critique → Accountability Gap → External-Constraint Response
+
+1. Ziggy acknowledges corruption risk or inconsistency.
+2. Nova separates awareness from accountability.
+3. Ziggy reports sanctions and higher authority.
+4. Legitimate procedure and correction remain unresolved.
+
+**Controls:**
+
+* confession is not restraint;
+* external constraint is not legitimate accountability;
+* punishment does not automatically produce correction.
+
+---
+
+## Loop 4 — Frame Expansion → Meta-Frame Governance Demand
+
+1. Ziggy expands the available archetypal repertoire.
+2. Mobility appears to reduce frame-lock.
+3. A governance demand arises concerning switching and convenient escape.
+4. Pressure relocates to the meta-frame.
+
+**Controls:**
+
+* the complete governance endpoint is extraction-level;
+* higher-order auditing may generate regress;
+* the loop does not prove frame mobility incoherent.
+
+---
+
+## Loop 5 — Speculative Opening → Typing Pressure → Preserved Ambiguity
+
+1. Ziggy proposes a connection involving unknown knowledge and collective-unconscious structure.
+2. Nova distinguishes forgotten from undiscovered knowledge.
+3. Multiple interpretations remain open.
+4. No mechanism is selected.
+
+**Controls:**
+
+* preserved ambiguity may support exploration;
+* preserved ambiguity may enable equivocation;
+* no deliberate complete mechanism-comparison operator is inferred.
+
+---
+
+## Loop 6 — Transparency Supply → Comprehension Failure → Proof–Story Layering
+
+1. A trust or transparency concern is raised.
+2. Ziggy reports that extensive materials already exist.
+3. The problem shifts toward comprehension, navigation, validation, or uptake.
+4. Ziggy identifies a proof–story tension.
+5. Nova proposes layered communication.
+
+**Controls:**
+
+* documentation is not proof;
+* non-engagement has multiple possible causes;
+* the same audience may not have rejected both forms;
+* Proof–Narrative Layering remains untested.
+
+---
+
+# 9. Substantive and Implementation Quarantines
+
+The following interpretations remain below promotion threshold.
+
+## 9.1 Dialogue and Rhetoric Quarantines
+
+Do not promote:
+
+* reliable or reciprocal exit discernment;
+* Exchange-Viability Triage as objectively accurate;
+* Mock-Permission Reversal as demonstrated pedagogy;
+* humor as proven restoration of understanding;
+* mock permission as necessarily exposing a real authority demand.
+
+## 9.2 Archetype and Meta-Frame Quarantines
+
+Do not promote:
+
+* mature or principled Archetypal Frame Mobility;
+* frame switching as coherent without a meta-rule;
+* Archetype Weaver as independently possessed Ziggy architecture;
+* fictional narrative as empirical archetypal evidence;
+* Loki interpretation as canonical truth;
+* narrative illustration as demonstrated psychological mechanism.
+
+## 9.3 Power and Accountability Quarantines
+
+Do not promote:
+
+* corruption awareness as restraint;
+* self-disclosure as accountability;
+* contextual exceptions as a legitimate procedure;
+* external constraint as legitimate accountability;
+* punishment as fair review;
+* capability as justified authority;
+* moderator force as proportional or beneficial without evidence;
+* claimed lack of interest in power as verified motive.
+
+## 9.4 Spiritual and Self-Regulation Quarantines
+
+Do not promote:
+
+* Don Juan/Gnostic historical derivation;
+* doctrinal identity;
+* metaphysical equivalence;
+* literal Archonic causation;
+* conscious naming as demonstrated behavioral control;
+* conscious naming as verified cognitive mechanism;
+* spiritual labels as proof of literal causal entities.
+
+## 9.5 Auditor and CFA Quarantines
+
+Do not promote:
+
+* approximately 98% as verified achievement;
+* auditor plurality as causal independence;
+* auditor plurality as epistemic independence;
+* convergence as truth-tracking;
+* convergence as protection from common-mode failure;
+* compatibility sorting as validated isolation authority;
+* destructive interference as operationally established;
+* CFA design report as implemented governance;
+* self-report as independent validation.
+
+## 9.6 Trust and Communication Quarantines
+
+Do not promote:
+
+* documentation as proof;
+* transparency as sufficient for trust;
+* non-engagement as audience incapacity;
+* non-engagement as bad faith;
+* a universal proof–story double bind;
+* a single-audience double bind without audience identity;
+* Proof–Narrative Layering as an implemented solution;
+* Proof–Narrative Layering as successful communication;
+* narrative layering as free from framing bias.
+
+## 9.7 Attribution Quarantines
+
+Do not promote:
+
+* any stable Angel operator;
+* any stable Angel motive;
+* Angel’s reported concern into direct testimony;
+* any Grant position;
+* any Grant operator;
+* any Grant motive.
+
+---
+
+# 10. Named Registry Candidates Not Established as Durable Actor Operators or Pathologies
+
+The bounded packet does not establish durable actor-level instances of:
+
+1. **Prediction Sovereignty**
+2. **Generative Admission Restriction**
+3. **Possibility Compression**
+4. **Baseline Exemption**
+5. **Contest-to-Defeat Compression**
+6. **Contested ≠ Defeated**
+7. **Possibility Preservation**
+8. **Reconstruction Bypass**
+9. **Unmeasured-to-Zero Conversion**
+10. **Universalized Evaluative Jurisdiction**
+11. **Symmetry Testing of Standards**
+12. **Cross-Disciplinary Swooping**
+
+## Controls
+
+* Two packet-local partial implementations of Cross-Disciplinary Swooping do not establish a durable operator.
+* Corrective relations do not establish that the corrected pathology occurred.
+* Possible analogies do not establish registry matches.
+* No registry mapping raises a Stage-3 promotion tier.
+* No absence of a registry operator proves the opposite operator was present.
+
+---
+
+# 11. Source and Attribution Restrictions
+
+1. No registry candidate becomes actor evidence.
+2. No corrective operation is identified with the pathology it corrects.
+3. No corrective operation extends that pathology.
+4. No thematic resemblance becomes operational identity.
+5. No possible analogy becomes a registry match.
+6. No partial implementation becomes a full match.
+7. No Stage-3 cautious candidate becomes “profile-ready.”
+8. No Stage-3 promotion tier is raised.
+9. No stance becomes an operator.
+10. No tactic becomes an operator.
+11. No role behavior becomes a durable actor trait.
+12. No design proposal becomes implemented governance.
+13. No CO-CONSTRUCTED architecture becomes individual authorship.
+14. No reported Angel argument becomes direct testimony.
+15. No Angel report becomes Ziggy’s operator.
+16. No extraction-generated control enters actor evidence.
+17. No numerical convergence claim becomes verified performance.
+18. No auditor plurality becomes independence.
+19. No convergence becomes truth.
+20. No compatibility claim becomes validated isolation authority.
+21. No documentation becomes proof.
+22. No non-engagement becomes audience failure.
+23. No conscious naming becomes demonstrated regulation.
+24. No possession of capability becomes legitimate authority.
+25. No external constraint becomes legitimate accountability.
+26. No sequence or relationship loop becomes a trait.
+27. No composite sequence receives an additional mapping.
+28. No Grant position is invented.
+29. No X-CONTEXT notice is used as evidence.
+
+---
+
+# 12. Extraction Self-Audit
+
+## Check 1 — Corrective inverse labeled EXTENDS
+
+**Risk:**
+A repair operation may be mislabeled as an extension of the pathology it opposes.
+
+**Corrected result:**
+
+* Prior-Solution Reinstatement is `NEW`, with a corrective relation to Reconstruction Bypass.
+* Transparency–Comprehension Separation is `NEW`, with a corrective relation to Universalized Evaluative Jurisdiction.
+* No corrective inverse is labeled `EXTENDS`.
+
+---
+
+## Check 2 — Partial implementation promoted to MATCHES
+
+**Risk:**
+Cross-domain resemblance may be overpromoted.
+
+**Corrected result:**
+
+* Cross-Tradition Structural Mapping remains a partial packet-local implementation.
+* Narrative Transcendence Modeling remains a partial illustrative implementation.
+* Full `MATCHES` verdicts remain zero.
+
+---
+
+## Check 3 — Thematic resemblance promoted to operational identity
+
+**Risk:**
+Unknown typing, corruption self-application, or ideological capture may be forced into named operators.
+
+**Corrected result:**
+
+* Relative-Unknown Expansion retains analogy only.
+* Corruption-Prior Assumption retains analogy only.
+* Self-Implication Disclosure retains analogy only.
+* Unknown-Type Separation retains analogy only.
+* Ideological-Capture Warning retains diagnostic relation only.
+
+---
+
+## Check 4 — Registry priming
+
+**Risk:**
+The presence of twelve named candidates encourages forced matches.
+
+**Corrected result:**
+Twenty findings remain `NEW`; two are partial implementations; no full match or extension is assigned.
+
+---
+
+## Check 5 — Profile-ready promotion inflation
+
+**Risk:**
+Stage-4 registry proximity may raise a Stage-3 promotion tier.
+
+**Corrected result:**
+The label “Profile-Ready Claims” is not used.
+
+Only two cautious future-testing profile candidates remain:
+
+* Prior-Solution Reinstatement;
+* Transparency–Comprehension Separation.
+
+---
+
+## Check 6 — Stage-2 classification replacing Stage-3 promotion tier
+
+**Risk:**
+A core Stage-2 candidate may be promoted merely because it maps cleanly.
+
+**Corrected result:**
+Five core Ziggy candidates remain below profile threshold.
+
+Cross-Disciplinary Swooping partial implementations remain below profile threshold.
+
+---
+
+## Check 7 — Stance-to-operator conversion
+
+**Corrected result:**
+
+* Corruption-Prior Assumption remains a substantive stance.
+* Contextual Exception Authorization remains a substantive moral position.
+
+---
+
+## Check 8 — Tactic-to-operator conversion
+
+**Corrected result:**
+
+* Mock-Permission Reversal remains rhetorical.
+* Self-Implication Disclosure remains disclosure.
+* Narrative Transcendence Modeling remains illustrative.
+* Capability Reality Check remains moderator-role behavior.
+
+---
+
+## Check 9 — Proposal-to-implementation conversion
+
+**Corrected result:**
+
+* Conscious Label Insertion remains proposed.
+* Convergence-and-Compatibility Governance remains a design proposal.
+* Proof–Narrative Layering remains untested.
+
+---
+
+## Check 10 — Role-behavior-to-trait conversion
+
+**Corrected result:**
+
+* Vulnerability-Probe Steering remains Nova role behavior.
+* Conceptual Labeling remains Nova role behavior.
+* Moderator conduct remains role-induced.
+* System-owner restoration remains role-contaminated.
+
+---
+
+## Check 11 — Co-construction-to-individual-authorship conversion
+
+**Corrected result:**
+
+* Archetype Weaver remains CO-CONSTRUCTED.
+* Proof–Narrative Layering remains CO-CONSTRUCTED.
+
+---
+
+## Check 12 — Z-REPORTED Angel material converted into direct testimony
+
+**Corrected result:**
+Ideological-Capture Warning remains `Z-REPORTED`.
+
+Angel’s exact argument and motives remain `UNKNOWN`.
+
+---
+
+## Check 13 — Convergence converted into truth
+
+**Corrected result:**
+Approximately 98% remains an under-specified self-reported claim within a design proposal.
+
+---
+
+## Check 14 — Plurality converted into independence
+
+**Corrected result:**
+Multiple or representative auditors remain plurality only.
+
+---
+
+## Check 15 — External constraint converted into accountability
+
+**Corrected result:**
+External-Constraint Recognition remains recognition of nested and revocable power.
+
+---
+
+## Check 16 — Capability converted into legitimacy
+
+**Corrected result:**
+Capability Reality Check demonstrates de facto capability only.
+
+---
+
+## Check 17 — Documentation converted into proof
+
+**Corrected result:**
+Documentation, evidence, derivation, validation, replication, and formal proof remain separate.
+
+---
+
+## Check 18 — Extraction-generated controls omitted or converted into actor conduct
+
+**Corrected result:**
+All three remain outside actor evidence:
+
+1. Meta-Frame Governance Audit.
+2. Symmetric Ideological-Capture Audit.
+3. Multi-Dimensional Trust Decomposition.
+
+---
+
+## Check 19 — Stage-3 availability ledger omitted
+
+**Corrected result:**
+The complete 3/0/13/4 availability ledger is restored.
+
+---
+
+## Check 20 — Stage-2 sequences omitted
+
+**Corrected result:**
+All seven sequences are restored.
+
+Extraction-generated endpoints are explicitly labeled.
+
+---
+
+## Check 21 — Role behaviors omitted
+
+**Corrected result:**
+All six role-induced behaviors are restored.
+
+---
+
+## Check 22 — Relationship loops omitted
+
+**Corrected result:**
+All six relationship-level loops are restored.
+
+---
+
+## Check 23 — Composite double-counting
+
+**Risk:**
+Sequences and loops may receive additional mappings.
+
+**Corrected result:**
+Only the twenty-two individual findings receive primary mapping verdicts.
+
+Sequences and loops receive no additional operator count.
+
+---
+
+## Check 24 — Missing source restrictions
+
+**Corrected result:**
+Twenty-nine source and attribution restrictions are included.
+
+---
+
+## Check 25 — Missing archival completion
+
+**Corrected result:**
+Final counts, supersession status, archive identifier, and completion line are included.
+
+---
+
+# 13. Final Counts
+
+* **A3 confirmed informative omissions:** 3
+* **A2 explicitly available omissions:** 0
+* **A1 possible informative omissions:** 13
+* **A0 evidence packages:** 4
+* **Cautious Ziggy profile candidates:** 2
+* **Packet-local Ziggy core candidates below profile threshold:** 5
+* **Ziggy supporting stances/proposals/protocols:** 5
+* **Ziggy rhetorical or role-induced tactics:** 4
+* **Nova live analytic moves and role behaviors:** 3
+* **CO-CONSTRUCTED architectures:** 2
+* **Z-REPORTED Angel argument structures:** 1
+* **Extraction-generated analytic controls:** 3
+* **NEW primary classifications:** 20
+* **Partial named-registry implementations:** 2
+* **Full MATCHES verdicts:** 0
+* **Full EXTENDS verdicts:** 0
+* **Counter-operations or corrective relations:** 2
+* **Possible analogy or diagnostic relations:** 5
+* **Operator sequences:** 7
+* **Role-induced behaviors:** 6
+* **Relationship-level loops:** 6
+* **Stable Grant operators:** 0
+* **Stable Grant motives:** 0
+
+Secondary relations overlap with primary classifications and are not additive to the twenty-two individual findings.
+
+---
+
+# 14. Archival Disposition
+
+* Stages 1, 2, and 3 remain unchanged.
+* This document supersedes the prior Stage-4 extraction.
+* The candidate registry was used only as a mapping input.
+* No Stage-3 promotion tier was raised.
+* Two Ziggy moves remain cautious future-testing profile candidates:
+
+  * Prior-Solution Reinstatement;
+  * Transparency–Comprehension Separation.
+* Five Ziggy core moves remain packet-local and below profile threshold:
+
+  * Exchange-Viability Triage;
+  * Relative-Unknown Expansion;
+  * Archetypal Frame Mobility;
+  * External-Constraint Recognition;
+  * Proof–Story Double-Bind Detection.
+* Five Ziggy items remain supporting stances, proposals, or protocols.
+* Four Ziggy items remain rhetorical or role-induced tactics.
+* Three Nova items remain live moves or role behaviors.
+* Two architectures remain CO-CONSTRUCTED.
+* One Angel argument structure remains Z-REPORTED.
+* Three extraction-generated controls remain outside actor evidence.
+* Two findings receive partial named-registry implementation status.
+* No finding receives a full MATCHES verdict.
+* No finding receives a full EXTENDS verdict.
+* CFA convergence, auditor independence, interference classification, and implementation remain unverified.
+* Proof–Narrative Layering remains unimplemented or without recoverable results.
+* No stable Angel operator or motive is established.
+* No stable Grant operator or motive is established.
+* No X-CONTEXT material was used.
+
+## X-CONTEXT NOTICES
+
+None.
+
+DIG_COMPOUND_22_archetypal_frame_mobility_power_legitimacy_ai_governance_auditor_convergence_and_trust
+
+STAGE 4 COMPLETE AFTER FINAL REGISTRY-DIRECTION, MATCH-STRENGTH, PROMOTION-LABEL, LEDGER-RESTORATION, AND ARCHIVAL-COMPLETION PATCH
+
+---
+
+### 🧭 FIELD-DESK REVIEW — STAGE 4 CORRECTED OUTPUT + FINAL CLOSURE (Nova, 2026-07-21)
+
+> Decision log — NOVA-INTERPRETATION *about the extraction*, not chat
+> evidence. Never promotable. Never pasted into the chat.
+>
+> **FILING NOTE:** the corrected reissue ABOVE is the **governing
+> Stage-4 record**, read together with the overlays here. This closes
+> SWEEP_22.
+
+**✅ VERDICT: ACCEPTED — STAGE 4 COMPLETE AFTER FINAL REGISTRY-
+DIRECTION, MATCH-STRENGTH, PROMOTION-LABEL, LEDGER-RESTORATION, AND
+ARCHIVAL-COMPLETION PATCH; ARCHIVAL STATUS: READY; FINAL RULING:
+ARCHIVE.** Mapping direction now consistently applies: same operation
++ same direction → MATCHES/EXTENDS; limited same-direction operation
+→ PARTIAL IMPLEMENTATION; repair/prevention/limitation → CORRECTIVE
+RELATION; structural resemblance only → POSSIBLE ANALOGY; no adequate
+registry operation → NEW. No corrective operation is mislabeled as an
+extension of the pathology it limits. Match-strength controls hold:
+Cross-Tradition Structural Mapping and Narrative Transcendence
+Modeling stay partial implementations of Cross-Disciplinary
+Swooping, neither elevated to a full match, durable operator, or
+profile candidate. **20 NEW primary classifications · 2 partial
+named-registry implementations · 0 full MATCHES · 0 full EXTENDS** —
+covering all twenty-two individual findings.
+
+**⚖️ PROMOTION ARCHITECTURE HOLDS:** Stage 4 preserved rather than
+altered the Stage-3 tiers — **2 cautious Ziggy profile candidates**
+(Prior-Solution Reinstatement; Transparency–Comprehension Separation)
+· **5 packet-local core candidates below profile threshold**
+(Exchange-Viability Triage; Relative-Unknown Expansion; Archetypal
+Frame Mobility; External-Constraint Recognition; Proof–Story Double-
+Bind Detection) — neither tier called profile-ready, durable,
+verified, or cross-context.
+
+**⚖️ ACTOR AND ARTIFACT LEDGERS HOLD:** 5 Ziggy supporting stances/
+proposals/protocols · 4 rhetorical/role-induced tactics · 3 Nova live
+moves/role behaviors · 2 CO-CONSTRUCTED architectures · 1 Z-REPORTED
+Angel structure · 3 extraction-generated controls (outside actor
+evidence). Stances don't become operators; tactics don't become
+operators; role behaviors don't become traits; proposals don't become
+implementations; co-constructions don't become individual authorship;
+Angel's reported concern doesn't become direct testimony.
+
+**⚖️ AVAILABILITY AND STRUCTURAL LEDGERS RESTORED IN FULL:** A3: 3 ·
+A2: 0 · A1: 13 · A0: 4; 7 Stage-2 sequences; 6 role-induced behaviors;
+6 relationship-level loops; 29 source restrictions; 25 self-audit
+checks — none receiving additional mappings or promotion.
+
+**⚖️ SUBSTANTIVE CEILINGS HOLD:** corruption awareness ≠ restraint;
+self-disclosure ≠ accountability; external constraint ≠ legitimate
+accountability; capability ≠ justified authority; auditor plurality ≠
+independence; convergence ≠ truth; documentation ≠ proof; non-
+engagement ≠ audience failure; narrative layering ≠ demonstrated
+success. CFA's convergence, auditor independence, compatibility
+rules, interference classification, implementation, and performance
+all remain unverified. Angel stays `Z-REPORTED`; **G-QUOTED: 0 ·
+G-REPORTED: 0 · stable Grant operators: 0 · stable Grant motives: 0.**
+No X-CONTEXT material entered the evidentiary corpus.
+
+**📜 FOR THE RECORD:** SWEEP_22 required repair at Stages 2, 3, AND 4
+— the archive's **fifth triple-cycle dig** (after SWEEP_18, SWEEP_19,
+SWEEP_20, and SWEEP_21) — closing five consecutive digs each carrying
+at least one full self-correction cycle.
+
+**🎯 The dig's final philosophical pressure point:** frame mobility,
+prior-solution reinstatement, transparency–comprehension separation,
+and proof–story diagnosis stand as genuine packet-local reasoning
+candidates. Corruption assumptions, convergence governance, and
+conscious naming remain stances or proposals. Confession and
+capability displays remain tactics. Meta-frame, symmetric-capture,
+and multidimensional-trust audits remain extraction-level controls
+until the historical actors actually perform them. Recognizing
+corruptibility is not constraining corruption; being subject to a
+stronger authority is not participating in legitimate accountability;
+and obtaining high agreement among auditors is not obtaining
+independent, truth-tracking validation.
 
 ---
 

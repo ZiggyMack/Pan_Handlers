@@ -410,6 +410,36 @@ self-executed an unrequested Stage 4 inside its Stage-3 reply,
 without ever being sent the Stage-4 prompt — caught and quarantined
 before contaminating anything downstream.
 
+**The archetype-mobility and AI-governance layer (SWEEP_22 — the
+archive's fifth triple-cycle dig, and the fifth consecutive dig
+carrying a self-correction cycle):** two cautious profile candidates —
+**Prior-Solution Reinstatement** (recurs across two packet domains —
+citing existing architecture in response to a new objection;
+counter-operation to Reconstruction Bypass, never an extension of
+it) and **Transparency–Comprehension Separation** (documentation
+availability is not evidence of adequate usability, validation,
+comprehension, or trust; counter-operation to Universalized
+Evaluative Jurisdiction) — plus five packet-local core candidates
+below profile threshold (Exchange-Viability Triage; Relative-Unknown
+Expansion; Archetypal Frame Mobility; External-Constraint
+Recognition; Proof–Story Double-Bind Detection). ⭐ **The meta-frame
+governance problem** (IT-130): archetype mobility — Ziggy's ability
+to invoke, combine, or transcend inherited archetypal scripts —
+relocates rather than dissolves the power question, since the chooser
+of frames becomes an unexamined sovereign unless the switching rule
+is itself constrained. ⭐ **Auditor convergence ruled a target, not an
+achieved result** (IT-131): the reported ~98% convergence is what a
+system is *looking for*, not verified performance — convergence ≠
+truth, diversity ≠ independence, multiple auditors ≠ multiple
+epistemic lineages. Power/corruption/legitimacy separated six ways
+(corruption prior/detection/restraint/correction/accountability/
+legitimacy) — de facto moderator capability (the mute-powers case)
+stays separate from legitimate authority; external constraint stays
+separate from mutual accountability. Angel's ideological-capture
+concern filed strictly `Z-REPORTED`, never a Ziggy operator. This
+packet carries **0 G-QUOTED and 0 G-REPORTED Grant material** —
+Grant is fully unavailable here.
+
 **Observed tensions (symmetry duty):** inconsistent self-application of
 symmetry testing (SWEEP_02); asymmetric functional treatment of science vs
 story/religion (AUX_05, confirmed A3); mystery-insulation risk on humility
@@ -483,7 +513,11 @@ never produced until pressed, IT-077); **the completeness burden
 applied one-sidedly** (SW21, confirmed A2 — Grant's suffering
 criterion was required to exclude catastrophe using only internal
 resources or admit imported values, but Ziggy's own moral alternative
-was never put through the same completeness audit, IT-128). Candidate
+was never put through the same completeness audit, IT-128); **confession
+as possible preemptive licensing** (SW22 — Self-Implication Disclosure
+demonstrated, restraint and correction not demonstrated; "I already
+admitted I am inconsistent" risks functioning as a reason exposing
+the inconsistency adds nothing). Candidate
 charter theme "over-generation / insufficient pruning" has not yet
 been directly tested — the opening research question stands.
 
