@@ -1,4 +1,4 @@
-# 🪞 Mirror — Ungated Opinion, Not Profile
+# 🪞 Mirror — Ungated, Not Profile
 
 > ⚠️ **Everything in this directory is the OPPOSITE of the rest of `circle/`.**
 > Every other file in this archive exists downstream of source discipline:
@@ -9,12 +9,12 @@
 > operators, 0 stable traits, 0 motives** after 22 sweeps.
 >
 > The files in `mirror/` skip every one of those gates on purpose.
-> Each `STRAWMAN_<MEMBER>.md` is **Ziggy's raw, unverified, un-fact-checked
-> opinion** of what that member's position or psychology actually is —
-> written the way an ordinary person forms an opinion of someone they
-> disagree with, with no requirement to cite, quote, or confirm
-> anything. It is deliberately the artifact Grant and Angles feared the
-> real archive was secretly producing.
+> Each `STRAWMAN_<MEMBER>.md` is the full picture that can be built
+> **without that member's own confirmation** — no citation
+> requirement, no independent recurrence, no cross-extractor check,
+> no direct answer from the person themselves. It is deliberately the
+> artifact Grant and Angles feared the real archive was secretly
+> producing.
 
 ## Why this exists
 
@@ -25,43 +25,50 @@ you're doing" is to actually build the thing they're afraid of, put it
 next to the real profile, and let the delta speak:
 
 ```text
-STRAWMAN_<MEMBER>.md          →  Ziggy's opinion, ungated, no receipts
-MEMBERS/<NN_MEMBER>/PROFILE.md →  earned through the full pipeline
+STRAWMAN_<MEMBER>.md           →  the full uncorroborated picture
+MEMBERS/<NN_MEMBER>/PROFILE.md →  earned through the full pipeline,
+                                   corroborated with the actual member
 ```
 
 If the two documents look similar, that's a real finding about the
 process worth reckoning with. If they look very different — in
 confidence, in specificity, in what gets asserted as fact versus left
-`UNKNOWN` — that difference *is* the demonstration.
+`UNKNOWN` — that difference *is* the demonstration: how much error
+comes from inference alone, versus dialing it in against the real
+source.
 
-## Three points, not two
+## What "uncorroborated" actually means here
 
-There's a middle artifact between opinion and sterile record:
-`GRADUATED_<MEMBER>.md`. Where the strawman is Ziggy's opinion with
-zero grounding, the graduated version is the *actual* archive
-data — real source IDs, real quotes — written up as a confident
-profile by simply skipping the promotion discipline (no requirement
-for independent recurrence, cross-extractor confirmation, or the
-member's own direct answers) and treating every queued candidate as
-if it had already graduated. It's still traceable to sources; it just
-hasn't earned what the real profile requires to assert the same
-things.
+A strawman isn't only Ziggy typing out an opinion from scratch. His
+read on every member is already baked into the archive itself — the
+direction of his questions to Nova across 22 digs, which threads he
+pushed on, which distinctions he asked for, is itself an expression of
+who he thinks these people are. So each `STRAWMAN_<MEMBER>.md` has two
+layers, both uncorroborated, both counted:
 
-```text
-STRAWMAN_<MEMBER>.md           →  Ziggy's opinion, ungated, no receipts
-GRADUATED_<MEMBER>.md           →  real data, ungated promotion
-MEMBERS/<NN_MEMBER>/PROFILE.md  →  earned through the full pipeline
-```
+- **"What the digs already imply"** — the archive's own G-REPORTED /
+  Z-REPORTED / packet-local material, written up confidently instead
+  of held at candidate tier. Every claim traces to a real source ID;
+  none has cleared the actual promotion bar (independent recurrence,
+  cross-extractor confirmation, the member's own direct answers).
+- **"Ziggy's direct read"** — his own explicit, undefended take,
+  written the way an ordinary person describes someone they
+  disagree with.
+
+Together, those two layers are the strawman. There is no third,
+separate "graduated" tier — that was an earlier miscommunication in
+how this directory got built; the archive-inferred layer lives inside
+each strawman file now, not beside it.
 
 ## Status
 
-**Scaffolding stood up 2026-07-21. Not yet polished, not yet
-consent-reviewed, not yet linked from any member's real profile.**
-Owed before this directory is considered final:
+**Restructured 2026-07-21 to the two-layer model above. Not yet
+polished, not yet consent-reviewed, not yet linked from any member's
+real profile.** Owed before this directory is considered final:
 
 - [ ] a real policy paragraph in `../ETHICS_AND_CONSENT.md` covering
       this artifact type explicitly (ingestion-filter rules don't yet
-      mention "deliberately ungated opinion" as a category)
+      mention "deliberately uncorroborated picture" as a category)
 - [ ] Grant and Angles told about this directory's existence and
       purpose directly, ideally before either reads their own file
 - [ ] a decision on whether these ever go fully public as-is, get
@@ -71,34 +78,27 @@ Owed before this directory is considered final:
 Until that's done, treat every file here as a draft: real content,
 casual guardrails.
 
-## File format
-
-Up to two files per member:
-
-- `STRAWMAN_<MEMBER>.md` — Ziggy's opinion. No required structure —
-  meant to be typed the way an unfiltered opinion actually occurs, not
-  organized like a profile.
-- `GRADUATED_<MEMBER>.md` — the archive's own data, written up
-  confidently instead of held at candidate/cautious tier. Every claim
-  cites a real source ID (`G-###`, `Z-###`, etc.); none has cleared
-  the actual promotion bar.
-
-Both cross-link the member's real profile at the top for the
-side-by-side read.
-
 ## Roster (2026-07-21)
 
-| Person | STRAWMAN (Ziggy's opinion) | GRADUATED (archive data) | Real member profile |
+| Person | "What the digs imply" layer | "Ziggy's direct read" layer | Real member profile |
 | --- | --- | --- | --- |
 | Grant (01) | ✅ filled in | ✅ filled in | `MEMBERS/01_GRANT/PROFILE.md` — 0 stable operators after 22 digs |
-| Angles (03) | 🔲 skeleton, awaiting dictation | ✅ filled in | `MEMBERS/03_ANGLES/PROFILE.md` — stub, Phase 3 not started |
-| Tale Recursion (02) | 🔲 skeleton, awaiting dictation | ✅ filled in | `MEMBERS/02_TALE_RECURSION/PROFILE.md` — stub, Phase 3 not started |
-| Tom | 🔲 skeleton, awaiting dictation | ✅ filled in | none — membership decision pending |
-| Sorta | 🔲 skeleton, awaiting dictation | ✅ filled in | none — membership decision pending |
-| Kee | 🔲 skeleton, awaiting dictation | ✅ filled in | none — membership decision pending |
-| Tapioca | 🔲 skeleton, awaiting dictation | ✅ filled in | none — membership decision pending |
+| Angles (03) | ✅ filled in | 🔲 pending dictation | `MEMBERS/03_ANGLES/PROFILE.md` — stub, Phase 3 not started |
+| Tale Recursion (02) | ✅ filled in | 🔲 pending dictation | `MEMBERS/02_TALE_RECURSION/PROFILE.md` — stub, Phase 3 not started |
+| Tom | ✅ filled in | 🔲 pending dictation | none — membership decision pending |
+| Sorta | ✅ filled in | 🔲 pending dictation | none — membership decision pending |
+| Kee | ✅ filled in | 🔲 pending dictation | none — membership decision pending |
+| Tapioca | ✅ filled in | 🔲 pending dictation | none — membership decision pending |
 
 **Not included:** Hugz, Sassy, Snow White, Chrome — zero material has
 touched any of them in any dig, so there is nothing to build a
-strawman *or* a graduated version against yet. They'll join this
-roster the first time a dig actually touches them.
+strawman against yet. They'll join this roster the first time a dig
+actually touches them.
+
+## File format
+
+One file per person: `STRAWMAN_<NAME>.md`, with the two sections
+described above ("What the digs already imply" then "Ziggy's direct
+read"). Cross-link the person's real profile at the top if one
+exists; note plainly if it doesn't (membership pending, or Phase 3
+not yet started).
