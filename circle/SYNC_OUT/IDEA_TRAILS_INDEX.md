@@ -1,16 +1,12 @@
 # 🛤️ Idea Trails — Lineage Registry
 
-> 📤 **Snapshot for SYNC_OUT, taken 2026-07-21.** Master copy lives at
-> `circle/IDEA_TRAILS/README.md` — that's the one that keeps updating.
-> Re-copy this file rather than editing it in place if it goes stale.
->
 > Ideas are circle property with individual fingerprints. A **trail** records where
 > an idea was seeded, who transformed it, which distinction unlocked progress, where
 > it branched, and which project inherited it.
 >
 > Public archive — content boundary applies at ingestion (`../ETHICS_AND_CONSENT.md` §2–3).
 
-**Status:** registry seeded, 0 trails opened · **Last reviewed:** 2026-07-16
+**Status:** 131 candidates registered, 118 OPEN (IT-014…IT-131) · **Last reviewed:** 2026-07-21
 
 ---
 

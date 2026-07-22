@@ -6,7 +6,7 @@
 >
 > Public archive — content boundary applies at ingestion (`../ETHICS_AND_CONSENT.md` §2–3).
 
-**Status:** registry seeded, 0 trails opened · **Last reviewed:** 2026-07-16
+**Status:** 131 candidates registered, 118 OPEN (IT-014…IT-131) · **Last reviewed:** 2026-07-21
 
 ---
 
