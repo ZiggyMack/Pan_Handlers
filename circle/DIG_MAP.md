@@ -25,33 +25,33 @@ member evidence.
 | --- | --- | --- | --- | --- |
 | `AUX_00` | 2026-07-17 | *(not a real topic — the record of the contaminated first run, kept for provenance only)* | — | orientation only, not promotable |
 | `AUX_01` | 2026-07-17 | Repo Nova's own institutional evolution and this protocol's design history | — | Stage 1 only; 2–4 postponed |
-| `AUX_02` | 2026-07-17 | What does it mean for something to be "invariant" — unchanging relative to what transformation? | — | ✅ complete |
-| `AUX_03` | 2026-07-17 | Does predictive success settle what's metaphysically true, or only what's useful? | — | ✅ complete |
+| `AUX_02` 🧠 | 2026-07-17 | What does it mean for something to be "invariant" — unchanging relative to what transformation? | — | ✅ complete |
+| `AUX_03` 🧠 | 2026-07-17 | Does predictive success settle what's metaphysically true, or only what's useful? | — | ✅ complete |
 | `AUX_04` | 2026-07-17 | Bell's theorem as a modal opening: was the menu of ruled-out options ever exhaustive? | — | ✅ complete — strongest Ziggy evidence to date |
-| `DIG_01` | 2026-07-17 | Grant's reported 12-step syllogism: does classical theism collapse moral generativity to zero? | Grant (reported) | ✅ complete — first Grant site |
-| `SW02` | 2026-07-17 | Maps vs. experience, values, and what makes a position plausible | Grant (reported) | ✅ complete — candidate harvest only |
-| `SW03` | 2026-07-17 | What justifies a framework's own starting point — the jurisdiction of justification | Grant (reported) | ✅ complete |
-| `SW04` | 2026-07-17 | Belief, prediction, and foundations — can any single value serve as the "master" frame? | Grant (reported) | ✅ complete |
-| `SW05` | 2026-07-17 | Direct sequel to SW04: can prediction, truth, suffering, law, religion, or consciousness be the master frame? | Grant (reported-only) | ✅ complete |
+| `DIG_01` 🧠 | 2026-07-17 | Grant's reported 12-step syllogism: does classical theism collapse moral generativity to zero? | Grant (reported) | ✅ complete — first Grant site |
+| `SW02` 🧠 | 2026-07-17 | Maps vs. experience, values, and what makes a position plausible | Grant (reported) | ✅ complete — candidate harvest only |
+| `SW03` 🧠 | 2026-07-17 | What justifies a framework's own starting point — the jurisdiction of justification | Grant (reported) | ✅ complete |
+| `SW04` 🧠 | 2026-07-17 | Belief, prediction, and foundations — can any single value serve as the "master" frame? | Grant (reported) | ✅ complete |
+| `SW05` 🧠 | 2026-07-17 | Direct sequel to SW04: can prediction, truth, suffering, law, religion, or consciousness be the master frame? | Grant (reported-only) | ✅ complete |
 | `AUX_06` | 2026-07-17 | Micro-dig: does interpretive disagreement over a myth's meaning disprove myth-as-compression? | Grant (reported) | ✅ complete (micro) |
-| `SW06` | 2026-07-17 | Observer facts vs. world facts (the teapot case); does science have jurisdiction over spiritual claims? | Grant (reported) | ✅ complete |
+| `SW06` 🧠 | 2026-07-17 | Observer facts vs. world facts (the teapot case); does science have jurisdiction over spiritual claims? | Grant (reported) | ✅ complete |
 | `SW07` | 2026-07-17 | Sequel to AUX_06 + SW05: information-theoretic myth compression; prediction as mechanism, not sovereign | Grant (reported/anticipated) | ✅ complete |
-| `AUX_07` | 2026-07-17 | Can faith function as an axiomatic bedrock, and does predictive power disqualify it? | Grant (reported) | ✅ complete — most direct "prediction as ultimate standard" site |
+| `AUX_07` 🧠 | 2026-07-17 | Can faith function as an axiomatic bedrock, and does predictive power disqualify it? | Grant (reported) | ✅ complete — most direct "prediction as ultimate standard" site |
 | `SW08` | 2026-07-17 | Subjective experience as evidence; knowledge vs. action thresholds; belief rescue vs. legitimate repair | Grant (reported/reconstructed) | ✅ complete |
 | `SW09` | 2026-07-17 | The Grant/Mary plausibility dispute: ranking claims, the "agnostic agent," miracle claims | Grant (reported) | ✅ complete — split dig |
 | `SW10` | 2026-07-17 | Does "noise" reduce to diminishing returns, or is it silencing? | Grant (reported); **Angles** (first bounded material) | ✅ complete |
 | `SW11` | 2026-07-17 | Bracketing exercise: can consciousness be treated as fundamental? Reason vs. cause; mechanism vs. experience | Grant (opponent unnamed) | ✅ complete |
 | `SW12` | 2026-07-17 | The Gavin dispute — did he lie? A mental-state ladder from honest error to lying | **Grant (G-002, first direct screenshots)** | ✅ complete — milestone |
-| `SW13` | 2026-07-17 | Can "faith" name acting under uncertainty, and does that undercut evidentialism? | Grant (G-003, direct) | ✅ complete |
+| `SW13` 🧠 | 2026-07-17 | Can "faith" name acting under uncertainty, and does that undercut evidentialism? | Grant (G-003, direct) | ✅ complete |
 | `SW14` | 2026-07-17 | Protection vs. defense; meaning recovery; God as archetype vs. ground | Grant (G-004, direct) | ✅ complete — first fully positive Ziggy–Grant trust loop |
 | `SW15` | 2026-07-17 | A three-level straw-manning ledger; divine-command hypotheticals; AI-mediated debate escalation | Grant (reported-only, 0 operators) | ✅ complete |
 | `SW16` | 2026-07-17 | The divine-command formalization dispute (validity/soundness); four new members' first direct appearance | Grant (G-005); **Tom, Sorta, Kee, Tapioca (first direct material)** | ✅ complete — milestone |
-| `SW17` | 2026-07-17 | Did Grant "decide" suffering is the best moral metric? Six meanings of "decision" | Grant (reported-only, 0 operators) | ✅ complete |
-| `SW18` | 2026-07-18 | The Grant-interprets-Tale dispute: does wording commit someone to a meaning they deny intending? | Grant (G-006); **Tale (first centered packet)** | ✅ complete — milestone |
-| `SW19` | 2026-07-20 | Grant's "available lenses" and "starting whole" claims — the unconscious argument is epistemic, not ontological | Grant (reported-only, 0 operators); Tale (2nd consecutive appearance) | ✅ complete |
-| `SW20` | 2026-07-20 | The God/brute-fact/"I don't know" trilemma dismantled as a category error | **Grant (G-007, first G-QUOTED — the B1/B2 opposite-compatibility challenge)** | ✅ complete |
-| `SW21` | 2026-07-21 | "Suffering minimization" under nine different readings; the death-cult counterexample split four ways | **Grant (G-008 — the higher-reason regress challenge)** | ✅ complete |
-| `SW22` | 2026-07-21 | Archetypal frame mobility and who governs the choice of frame; is auditor convergence actually truth-tracking? | Grant (fully unavailable); Angles (Z-reported ideological-capture concern) | ✅ complete |
+| `SW17` 🧠 | 2026-07-17 | Did Grant "decide" suffering is the best moral metric? Six meanings of "decision" | Grant (reported-only, 0 operators) | ✅ complete |
+| `SW18` 🧠 | 2026-07-18 | The Grant-interprets-Tale dispute: does wording commit someone to a meaning they deny intending? | Grant (G-006); **Tale (first centered packet)** | ✅ complete — milestone |
+| `SW19` 🧠 | 2026-07-20 | Grant's "available lenses" and "starting whole" claims — the unconscious argument is epistemic, not ontological | Grant (reported-only, 0 operators); Tale (2nd consecutive appearance) | ✅ complete |
+| `SW20` 🧠 | 2026-07-20 | The God/brute-fact/"I don't know" trilemma dismantled as a category error | **Grant (G-007, first G-QUOTED — the B1/B2 opposite-compatibility challenge)** | ✅ complete |
+| `SW21` 🧠 | 2026-07-21 | "Suffering minimization" under nine different readings; the death-cult counterexample split four ways | **Grant (G-008 — the higher-reason regress challenge)** | ✅ complete |
+| `SW22` 🧠 | 2026-07-21 | Archetypal frame mobility and who governs the choice of frame; is auditor convergence actually truth-tracking? | Grant (fully unavailable); Angles (Z-reported ideological-capture concern) | ✅ complete |
 | `AUX_05` | 2026-07-17 | Story as wisdom compression vs. the Hero's Journey; first Tale Recursion appearance | **Tale (first appearance anywhere)** | 🟡 Stage 3 complete, Stage 4 authorized — not yet closed |
 | `DIG_00ABCD` | 2026-07-17 | Grant's evaluative architecture via the CT/Moral-Substance dispute; birthplace of the Diagnostic Interrogation and Coupling Probe methods | Grant (heavy reported, no direct) | 🟡 in progress — Stages 1–2 only |
 
@@ -126,6 +126,29 @@ If filtering down to "read these first," this is the shortlist:
 10. **`SW22`** — auditor convergence (~98%) ruled a target the process is
     *looking for*, not evidence it's *achieved* — the archive's own
     self-audit turned on itself.
+
+## 🧠 Philosophical-core digs (tagged by Ziggy, 2026-07-21)
+
+Ziggy's cut: these hold reusable philosophical ingredients — foundations,
+grounding, master-value candidates, epistemology of belief and testimony,
+metaethics, meta-governance of trust — as opposed to digs that are really
+about litigating one person's conduct or tactics in a specific dispute.
+Tagged for pulling into the larger philosophical synthesis work, separate
+from the member-profiling pipeline. Marked 🧠 in the table above:
+
+`AUX_02` · `AUX_03` · `DIG_01` · `SW02` · `SW03` · `SW04` · `SW05` ·
+`SW06` · `AUX_07` · `SW13` · `SW17` · `SW18` · `SW19` · `SW20` · `SW21` ·
+`SW22`
+
+**Candidates that fit the same cut, not yet tagged** (flagged, not added
+unilaterally — this is a scope call, not a sourcing one):
+
+- `SW09` — miracle claims / agnostic priors: the same
+  Bayesian-epistemology-of-testimony genre as `AUX_03`/`AUX_07`/`SW03`.
+- `SW11` — consciousness fundamentality: squarely hard-problem /
+  philosophy-of-mind territory.
+- `SW08` — belief rescue vs. immunization: general epistemology of belief
+  revision, same family as `SW13`/`SW19`.
 
 ## Still-open leads not yet dug
 
