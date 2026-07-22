@@ -17,30 +17,70 @@ independent recurrence. The archive is public because the members
 consented to sharing their *ideas*, not their personal lives — a content
 boundary, not a repo boundary (`../ETHICS_AND_CONSENT.md`).
 
-As of 2026-07-21: 22+ digs filed, zero unearned promotions across all of
+As of 2026-07-22: 22+ digs filed, zero unearned promotions across all of
 them (the "plow-through" discipline), a `mirror/` side-project comparing
-Ziggy's own gut reads against the corroborated pipeline, and this Dig Map —
-a lightweight index of what's actually been talked about, built to help
-decide what's worth a fresh conversation.
+Ziggy's own gut reads against the corroborated pipeline, a Dig Map indexing
+what's actually been talked about, and — new in this packet — a first-pass
+synthesis compressing all of it into six recurring structural questions
+(`CONSTITUTIONAL_BACKBONE.md`).
 
 ## What's in this packet
 
 | File | What it is |
 | --- | --- |
-| `DIG_MAP.md` | One row per dig: topic, date, who's in it. Also groups digs that ask the same underlying question (candidates for combining) and a highest-signal shortlist. **Start here — it's the menu.** |
-| `IDEA_TRAILS_INDEX.md` | The idea-level registry: one line per idea/trail with its "treasure" (the actual finding or open tension), not just a title. This is where the real philosophical content lives at a skimmable size. |
+| `DIG_MAP.md` | One row per dig: topic, date, who's in it. Also groups digs that ask the same underlying question (candidates for combining) and a highest-signal shortlist. |
+| `IDEA_TRAILS_INDEX.md` | The idea-level registry: one line per idea/trail with its "treasure" (the actual finding or open tension), not just a title. |
+| `CONSTITUTIONAL_BACKBONE.md` | The compression pass — six recurring structural questions underneath all 131 trails, with the anti-collapse distinctions each one produced. **Start here** — it's the synthesis the other two files feed into. |
+| `GLOSSARY.md` | Self-contained, copy-paste-ready definitions of this project's jargon (source-confidence labels, availability tiers, "dig," "IT-###," the detector-vs-disease pattern, etc.) — for anyone/anything working from this packet alone, with no other context. |
 
 ## How to use it
 
-1. Read `DIG_MAP.md` first — pick a topic cluster or, for genuine
-   brainstorming rather than re-deriving settled ground, pick something
-   from its **"Still-open leads not yet dug"** section instead.
-2. Cross-reference `IDEA_TRAILS_INDEX.md` for that topic's existing
-   trails — the "treasure" column tells you what's already been found,
-   so a new conversation adds to it instead of repeating it.
-3. If a specific trail needs full detail, request the source file
+1. Read `CONSTITUTIONAL_BACKBONE.md` first — it's the synthesis, not
+   another list.
+2. Drop into `DIG_MAP.md` for the underlying conversations, or its
+   **"Still-open leads not yet dug"** section for genuinely unresolved
+   ground rather than re-deriving settled territory.
+3. Cross-reference `IDEA_TRAILS_INDEX.md` for a specific cluster's
+   existing trails — the "treasure" column tells you what's already been
+   found.
+4. If a specific trail needs full detail, request the source file
    (`circle/IDEA_TRAILS/IT-###_....md`) rather than assuming — this
-   packet deliberately ships the index, not the full trail files.
+   packet deliberately ships indices and a synthesis, not the full trail
+   files or raw workbooks.
+5. Any question or prompt that uses this project's own terms should pull
+   its one-line definition from `GLOSSARY.md` — see "Handing this to
+   NotebookLM" below for why that's not optional.
+
+## Handing this to NotebookLM (the Nyquist LLM_BOOK pipeline)
+
+This packet is built to double as source material for the
+`Nyquist_Consciousness` repo's LLM_BOOK distillation pipeline
+(`REPO-SYNC/LLM_BOOK/0_SOURCE_MANIFESTS/0_chew.py`) — the process that
+turns raw material into NotebookLM-driven reports, infographics, decks,
+audio, and video. Structural precedent Ziggy pointed to:
+`STAGING/New_8_Cognative_Physics/`.
+
+**What this packet is, in that pipeline's terms:** an `_IN/`-equivalent
+raw corpus — not a pre-built `_ROUND_N/` package. It does **not** contain
+`chat.md` (NotebookLM questions), `report.md` (output specifications), or
+`routing.md` (Pan Handler lab routing) — those are what a
+`py 0_chew.py <batch> --diet` run asks a Claude to *produce* by reading
+files like these, not something to hand over pre-filled. Whoever stages
+this (presumably a Claude working inside `Nyquist_Consciousness`) should
+copy this folder's contents into a new batch's `_IN/`, then run the diet
+chew from there.
+
+**The one constraint that actually matters:** NotebookLM answers only
+from whatever's uploaded into its notebook — it cannot see this repo,
+`OPERATOR_LEXICON.md`, or anything not physically in the source set
+(`HOLY_GRAIL.md`'s **Self-Contained Question Principle**). Every term this
+packet uses that isn't standard English — source-confidence labels,
+availability tiers, "dig," "IT-###," "plow-through," the
+detector-vs-disease pattern — is defined in `GLOSSARY.md` for exactly
+this reason. If `GLOSSARY.md` isn't one of the uploaded sources, any
+chat.md question referencing these terms needs its definition inlined
+directly into the question, or NotebookLM will hallucinate or return a
+thin answer indistinguishable from a real one.
 
 ## Ground rules worth keeping in mind
 
@@ -86,4 +126,4 @@ pasted in raw.
 **Filed:** `circle/SYNC_OUT/README.md`
 **Status:** starter packet — expand deliberately, don't bulk-mirror the
 whole archive in here
-**Last updated:** 2026-07-21
+**Last updated:** 2026-07-22
