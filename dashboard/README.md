@@ -14,6 +14,11 @@ streamlit run app.py
 
 Visit http://localhost:8501 (or the port shown in terminal).
 
+**FIELD GUIDES → Pathfinder** opens the new AI-assisted 3D/video learning console.
+It also runs independently with `python -m streamlit run Help/app.py --server.port 8506`
+from the repository root. See [the guide README](../Help/README.md) for notes,
+JSON restore/export, and the four pipeline expansion plans.
+
 ---
 
 ## Directory Structure

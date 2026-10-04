@@ -70,6 +70,56 @@
   different claim than the evidence supports (e.g., treating
   "foundational" as though it meant "infallible").
 
+## Terms inside the dig files (only needed once the cleaned dig workbooks are uploaded)
+
+The definitions above cover the two index files. The dig workbooks (`DIG_*`)
+use a finer-grained vocabulary. If a cleaned, de-protocoled copy of a dig is
+uploaded as source material, inline these too — or upload this glossary
+alongside them.
+
+- **Attribution codes (person-prefixed)** — every claim in a dig is tagged
+  by *who* said it and *how directly*:
+  - *Z-DIRECT* — Ziggy's own words in the bounded thread.
+  - *G-DIRECT* — the debated person's own words, image-verified (screenshots).
+  - *G-QUOTED* — the debated person's exact wording via typed transcription,
+    not image-verified.
+  - *G-REPORTED* — Ziggy's paraphrase of the debated person, not their words.
+  - *G-ANTICIPATED* — a predicted move the debated person has not actually made.
+  - *CO-CONSTRUCTED* — built jointly in the Ziggy–Nova conversation,
+    attributable to neither alone.
+  - *NOVA-INTERPRETATION / NOVA-RECONSTRUCTED* — the AI's own reading or
+    reconstruction, never attributed to a human. ("G-" is the prefix for
+    Grant, the most-profiled debated person; other members get their own.)
+- **NON-SITE** — a dig that produced no promotable evidence about its intended
+  target (e.g., "Grant: G-REPORTED NON-SITE" = the thread mentioned Grant but
+  yielded nothing citable *about him*). The idea content is still kept.
+- **CO-### / Z-### / G-###** — stable ID numbers: `CO-###` = a cognitive
+  operator (a named reasoning move); `Z-###` / `G-###` = a numbered
+  source-index entry for that person. (`IT-###`, an idea trail, is above.)
+- **Field-desk review** — Nova's verdict on a stage's output, filed inside the
+  workbook (run next stage / repurpose / quarantine). A decision log *about the
+  extraction*, never itself evidence about a person.
+- **Fifth-artifact rule** — the four stage outputs are immutable once pasted;
+  the clean synthesis packet is a separate, fifth, *derived* artifact, so
+  audits can catch "synthesis drift." If packet and workbook disagree, the
+  workbook wins.
+- **Synthesis packet** — a short (3–5 KB) clean summary assembled from a
+  *completed* workbook (Promoted Claims / Explicitly NOT Promoted / Operator
+  Outcomes / Trail & Leads). Only a few digs have one; most exist only as raw
+  workbooks.
+- **Stage 1–4** — the four extraction passes each workbook runs: (1) source
+  survey — who said what, position ladders; (2) candidate harvest — the
+  reasoning moves/operators surfaced; (3) pressure-test — challenges to the
+  candidates; (4) provisional mapping into operators and trails.
+- **Compound sweep** — a workbook that ran Stages 2–4 wholesale over a
+  multi-topic thread as fast data collection (see "plow-through" above).
+  Generates leads; promotes nothing without a later bounded sub-dig.
+- **QUARANTINED** — a claim held inside its packet, not profile-grade, until a
+  second independent packet corroborates it. Quarantined ≠ hidden — it's
+  written to publication standard, just not yet citable.
+- **Operator maturity (RED)** — a newly-registered operator flagged RED =
+  tentative, observed once, recurrence untested.
+
 ## Reading the two included indices
 
 - **`DIG_MAP.md`** — one row per source conversation: topic, approximate
@@ -84,3 +134,7 @@
 
 **Filed:** `circle/SYNC_OUT/GLOSSARY.md`
 **Last updated:** 2026-07-22
+**Beefed up 2026-07-22** by Repo (Nyquist) Claude — added the "Terms inside
+the dig files" section so the Self-Contained Question Principle holds once
+cleaned dig workbooks are uploaded, not just the two index files. Relay to
+the `circle/` master if one exists.

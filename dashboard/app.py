@@ -16,7 +16,7 @@ from config import PATHS, SETTINGS
 from utils import load_projects, load_manifests, load_nyquist_status, page_divider
 
 # Import page modules
-from pages import overview, federation_health, project_tracker, nyquist_tunnel, about
+from pages import overview, federation_health, project_tracker, nyquist_tunnel, about, pathfinder
 from pages.projects import whitepaper, online_voting, nursing, gene_therapy, modern_slavery, abi, dcia
 
 # ========== PAGE ROUTING ==========
@@ -32,6 +32,7 @@ PAGES = {
     # === CORE ENGINES ===
     "───── CORE ENGINES ─────": None,  # Separator
     "📄 White Paper Pipeline": whitepaper,
+    "🧭 Pathfinder": pathfinder,
 
     # === WICKED PROBLEMS ===
     "───── WICKED PROBLEMS ─────": None,  # Separator
@@ -659,12 +660,12 @@ def main():
             st.markdown("**🔴 MATRIX MODE: ON**")
             if st.button("Exit The Matrix", use_container_width=True, key="matrix_toggle"):
                 st.session_state['matrix_mode'] = False
-                st.experimental_rerun()
+                st.rerun()
         else:
             st.markdown("**⚪ MATRIX MODE: OFF**")
             if st.button("Enter The Matrix", use_container_width=True, key="matrix_toggle"):
                 st.session_state['matrix_mode'] = True
-                st.experimental_rerun()
+                st.rerun()
 
         st.markdown("---")
 
@@ -686,6 +687,10 @@ def main():
         st.markdown("**CORE ENGINES**")
         if st.button("📄 White Paper Pipeline", use_container_width=True):
             st.session_state['current_page'] = "📄 White Paper Pipeline"
+
+        st.markdown("**FIELD GUIDES**")
+        if st.button("🧭 Pathfinder", use_container_width=True):
+            st.session_state['current_page'] = "🧭 Pathfinder"
 
         st.markdown("**WICKED PROBLEMS**")
         if st.button("🗳️ Online Voting", use_container_width=True):

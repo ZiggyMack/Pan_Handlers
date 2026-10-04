@@ -2,7 +2,7 @@
 # =====================================
 
 # Core Framework
-streamlit>=1.20.0          # Dashboard framework (1.20+ for session_state, experimental_rerun)
+streamlit>=1.32,<2         # Dashboard and Pathfinder guide (modern rerun, tabs, forms)
 
 # Standard Library (included for documentation)
 # pathlib - File path handling (built-in)

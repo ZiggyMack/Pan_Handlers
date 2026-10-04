@@ -82,6 +82,35 @@ chat.md question referencing these terms needs its definition inlined
 directly into the question, or NotebookLM will hallucinate or return a
 thin answer indistinguishable from a real one.
 
+**Staging the raw digs (the treatment).** The dig workbooks are not
+NotebookLM-ready as-is — each repeats the full Stage 1–4 prompts, the
+preflight, and the fifth-artifact rules, so uploading several *raw* would
+flood the notebook with identical boilerplate. But that wrapper is a fixed
+~293 lines; the other 94–97% is extraction. So whoever stages this should
+run a mechanical **de-protocol pass**: strip the header instructions, the
+HUMAN PREFLIGHT, and each fenced `STAGE N PROMPT` block; keep every
+`STAGE N OUTPUT` and `FIELD-DESK REVIEW` section, plus the
+title/Status/Discovered-topic lines as a self-contained header. It's pure
+text-processing — no re-extraction, no API — and it turns each workbook
+into a clean, thread-scoped source.
+
+**Tiered corpus for a round.** Load the notebook in three tiers: (1) the
+four index/synthesis files here (including `GLOSSARY.md`); (2) the existing
+`ziggy_nova_*` synthesis packets (the ~4 fully-filed digs); (3) the
+de-protocoled digs for whichever cluster the round targets. Default to
+**one clean file per dig** — each workbook is already one conversation, and
+splitting finer costs NotebookLM the context it needs to *synthesize*
+rather than just quote; only split the giants (>~5k lines) by stage so no
+single source dominates. Keep the total under NotebookLM's ~50-source
+ceiling: the philosophical-core cut (~16 digs) plus the tier-1/2 files sits
+comfortably around 24.
+
+**Focus drives the questions, not the includes.** Load a generous corpus
+once, then let each round's research question shape what you *ask*.
+NotebookLM only draws on what's relevant per question, so a broad corpus +
+sharp questions beats re-curating the source set every round — and Rounds
+2/3 reuse the same loaded notebook with new questions.
+
 ## Ground rules worth keeping in mind
 
 - **Ideas are fair game; people are not.** Discuss positions, arguments,
@@ -99,10 +128,14 @@ thin answer indistinguishable from a real one.
 
 ## What's deliberately not included here (and why)
 
-- **Raw dig workbooks** — the actual conversation excerpts and staged
-  review process. Large, process-heavy, and the evidentiary record of
-  real conversations — pull a specific one in on purpose if a brainstorm
-  needs primary-source grounding, don't bulk-export them.
+- **Raw dig workbooks** (`DIG_*.md`) — not shipped here, to keep this
+  packet an index-and-synthesis layer. But don't read "not included" as
+  "not valuable": each workbook is **94–97% real extracted content**
+  behind a fixed ~293-line protocol wrapper (the repeated stage prompts).
+  After a one-pass de-protocol treatment they are prime primary-source
+  material — see **"Staging the raw digs"** below. Only ~4 of ~30 digs
+  have a clean synthesis packet; the rest live *only* as workbooks, so the
+  treatment is how you reach them.
 - **Member profiles / `OPERATOR_LEXICON.md`** — the corroborated,
   in-progress verdicts on real people. These are the archive's actual
   output, still being built under its own discipline; better to keep
@@ -127,3 +160,7 @@ pasted in raw.
 **Status:** starter packet — expand deliberately, don't bulk-mirror the
 whole archive in here
 **Last updated:** 2026-07-22
+**Beefed up 2026-07-22** by Repo (Nyquist) Claude — reframed the raw-dig
+workbooks as prime (94–97% content) material behind a strippable wrapper,
+and added the "Staging the raw digs" treatment + tiered-corpus + 50-source
+guidance from the LLM_BOOK / NotebookLM side of the pipeline.

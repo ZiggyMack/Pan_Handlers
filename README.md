@@ -2,6 +2,21 @@
 
 > **"These are the things we built together that neither could have done alone."**
 
+## Pathfinder — follow the process
+
+The new [Pathfinder console](Help/README.md) compares routes for AI-assisted 3D and
+video work: AUTOMATIC1111, Forge UI, Invoke, and ComfyUI. ComfyUI has the first
+walkthrough; the other routes retain their tradeoffs and expansion plans.
+
+Its central **Rewrite a scene** mission maps how to keep existing footage
+recognizable while changing dialogue: script and performance, clean audio,
+lip sync, editing, and a repeatable first-shot worksheet.
+
+Run `python -m streamlit run Help/app.py --server.port 8506` from this repository,
+or open **FIELD GUIDES → Pathfinder** in the operations dashboard. The guide uses
+the Nyquist Ledger's colored capability columns and keeps an exportable personal
+journey of decisions, checkpoints and lessons.
+
 ## Philosophy
 
 **FUCK IT, WE'LL DO IT LIVE!**

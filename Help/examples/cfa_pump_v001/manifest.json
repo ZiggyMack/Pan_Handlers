@@ -1,0 +1,46 @@
+{
+    "schema_version":  1,
+    "record_type":  "portable_cfa_evidence_sample",
+    "reviewed_on":  "2026-09-12",
+    "source_checkout":  "D:/Documents/CFA",
+    "source_branch":  "main",
+    "canonical_evidence":  "docs/notes/explorable_world/pathfinder_handoff/evidence.json",
+    "experiment_id":  "pump_concept_v001",
+    "completed_still":  true,
+    "dialogue_rewrite_executed":  false,
+    "improved_second_generated_image":  false,
+    "actual_runtime_seconds":  null,
+    "actual_credits":  null,
+    "files":  [
+                  {
+                      "filename":  "pump_concept_v001.png",
+                      "source_path":  "docs/notes/explorable_world/comfy/outputs/pump_concept_v001.png",
+                      "bytes":  859874,
+                      "sha256":  "5777aaf41b6343e999033d357c136cc18d840a35f565b98d72895c974027e0c4"
+                  },
+                  {
+                      "filename":  "pump_concept_prompt.txt",
+                      "source_path":  "docs/notes/explorable_world/comfy/pump_concept_prompt.txt",
+                      "bytes":  994,
+                      "sha256":  "bcb33a3228b6a0009f173e19b04e7ecbd1d1fa97e27f90105848e2b88e96fc99"
+                  },
+                  {
+                      "filename":  "pump_concept_v001.record.json",
+                      "source_path":  "docs/notes/explorable_world/comfy/workflows/pump_concept_v001.record.json",
+                      "bytes":  9334,
+                      "sha256":  "30eb2aa920c9d756f1f5ac0650694e7bbef9d59a4b24de2c9b44c77a415cf2ab"
+                  },
+                  {
+                      "filename":  "pump_concept_v001.editor.json",
+                      "source_path":  "docs/notes/explorable_world/comfy/workflows/pump_concept_v001.editor.json",
+                      "bytes":  29101,
+                      "sha256":  "da506499a61d427ecf6c844e578de2cd68fc4320c7b36ad2a75fb4e387a94359"
+                  },
+                  {
+                      "filename":  "pump_concept_v001.api.json",
+                      "source_path":  "docs/notes/explorable_world/comfy/workflows/pump_concept_v001.api.json",
+                      "bytes":  3475,
+                      "sha256":  "4661cf9f818215442e93b843577367f60345eba0bb3fba8fb4d42c39c7904d4d"
+                  }
+              ]
+}
