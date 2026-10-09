@@ -9,6 +9,7 @@ installed release. No workflow execution or model installation is claimed.
 
 EPISODE_TITLE = "ComfyUI Tutorial Series: Ep04 - IMG2IMG and LoRA Basics"
 EPISODE_URL = "https://www.youtube.com/watch?v=xedwjtaPVzw"
+SOURCE_KEY = "ep4"  # October 4 archive/hash and user-supplied URL in tutorial_register.
 
 _CORE = "https://github.com/Comfy-Org/ComfyUI/blob/master/nodes.py"
 _SAMPLERS = "https://github.com/Comfy-Org/ComfyUI/blob/master/comfy/samplers.py"

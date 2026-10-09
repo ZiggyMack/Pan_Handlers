@@ -4,12 +4,49 @@ import math
 
 import streamlit as st
 
+from Help.content.h3_candidate import H3_CANDIDATE
+
 
 _NATIVE = "https://github.com/Comfy-Org/ComfyUI/blob/master/comfy_extras/nodes_video.py"
 _VHS = "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite#video-combine"
 _VHS_SOURCE = "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/blob/main/videohelpersuite/nodes.py"
 _SUBGRAPH = "https://docs.comfy.org/interface/features/subgraph"
 _LTX = "https://docs.comfy.org/tutorials/video/ltx/ltx-2-3"
+_AUDIO_EVIDENCE = "../../CFA/docs/notes/explorable_world/comfy/workflows/hon_dolo_audio_replace_v001.record.json"
+_AUDIO_GUIDE = "../../CFA/docs/notes/explorable_world/comfy/workflows/hon_dolo_audio_replace_v001.README.md"
+_AUDIO_STAGES = (
+    {"Stage": "Replace the soundtrack locally", "CFA evidence": "Completed ten-second FFmpeg preview: compressed picture packets and all 240 decoded frame hashes/timestamps match the source.", "Limit": "Technical picture preservation; normal-speed listening, lyric alignment and creative acceptance were not established by those checks."},
+    {"Stage": "Assemble frames and replacement audio in Cloud", "CFA evidence": "Native graph saved and server-converted; live schemas and uploaded inputs checked. Not executed.", "Limit": "Create Video assembles decoded frames and audio; saving this route re-encodes picture. Local stream-copy measurements do not apply to its eventual output."},
+    {"Stage": "Change visible mouth motion", "CFA evidence": "Separate lip-sync candidate prepared; unexecuted.", "Limit": "Prepared speech/vocals are required. A soundtrack swap has no generative mouth stage; lip sync needs its own detail, timing and acceptance review."},
+)
+
+
+def soundtrack_case_markdown():
+    lines = ["## CFA case: soundtrack replacement is separate from lip sync", "",
+             "October 8, 2026 review of saved CFA records; no new render or media inspection by this guide.", ""]
+    for row in _AUDIO_STAGES:
+        lines.extend(["### " + row["Stage"], "", row["CFA evidence"], "", row["Limit"], ""])
+    lines.extend([
+        "The whole-track replacement removes original dialogue, music and ambience. Preserve ambience with separate stems or a deliberate new mix; do not infer selective voice replacement from a soundtrack swap.", "",
+        "Prepare the exact replacement recording before choosing mouth timing. Identical written lyrics do not give a new recording identical timing. The first ten seconds are a technical excerpt, not an approved lyric-to-shot edit.", "",
+        "Keep source-picture ID/hash, exact audio recording and trim, output route, measured frame/FPS/audio checks, listening notes and acceptance scope together. Stream copy avoids picture decoding/re-encoding; assembling decoded frames uses an encoding path.", "",
+        f"[Measured local record]({_AUDIO_EVIDENCE}) · [Cloud and lip-sync handoff]({_AUDIO_GUIDE})", "",
+        "Local CFA paths are provenance only; the hosted guide does not read the sibling checkout or include its media.", "",
+        f"[FFmpeg stream copy](https://ffmpeg.org/ffmpeg.html#Streamcopy) · [Native Comfy video nodes]({_NATIVE})", "",
+    ])
+    return "\n".join(lines)
+
+
+def render_soundtrack_case():
+    with st.expander("CFA worked distinction · soundtrack swap, assembly and lip sync"):
+        st.caption("October 8 review of saved records. The measured proof was local video editing; Comfy processing remains a Cloud task.")
+        st.table(_AUDIO_STAGES)
+        st.code("Source picture + replacement recording -> soundtrack swap\nSource frames + FPS + trimmed audio -> Create Video -> Save Video\nSource picture + prepared speech/vocals -> separate lip-sync candidate", language="text")
+        st.write("Replacing the complete soundtrack also removes ambience. Use separate stems or a deliberate new mix when ambience must survive. A new recording requires rechecking lyric timings even when the words stay the same.")
+        st.write("The ten-second preview is a technical proof, not an approved lyric edit. Listen to the chosen recording, then review mouth motion and preserved details separately.")
+        st.markdown("[FFmpeg stream-copy behavior](https://ffmpeg.org/ffmpeg.html#Streamcopy) · [Native Comfy video nodes](" + _NATIVE + ")")
+        st.caption("Canonical local CFA evidence (requires its checkout):")
+        st.code("D:/Documents/CFA/docs/notes/explorable_world/comfy/workflows/hon_dolo_audio_replace_v001.record.json", language="text")
 
 ROUTES = {
     "video_native": {
@@ -62,6 +99,12 @@ def handoff_markdown(route_id, frames, source_fps, export_fps):
         f"- Playback speed relative to source: {result['speed_ratio']:.6f}x", "",
         "Frames / FPS describes constant-rate picture duration. It does not validate a model's frame-count rules, account for trimming, or measure an audio track.",
         "Changing only export FPS does not generate intermediate frames or retime speech.", "",
+        "## Assign the reference roles", "",
+        "- Appearance image and its intended identity / costume / setting:",
+        "- Performance video, exact trim and movement / camera to preserve:",
+        "- Audio asset and whether to reuse the same signal or reference its voice / rhythm:",
+        "- Ordered reference labels and effective prompt inspected in the actual graph:", "",
+        "A video input does not automatically enable its soundtrack as an audio reference. Review the actual output; a reuse instruction is not proof of preserved audio or lip sync.", "",
         "## Keep the evidence", "",
         "- Exact model variant, template revision, companion files and custom-node versions:",
         "- Saved baseline workflow and input media:",
@@ -71,7 +114,44 @@ def handoff_markdown(route_id, frames, source_fps, export_fps):
         "- Runtime and attributable usage cost (unknown until measured):", "",
         "Reopen the exported file outside the canvas. Save JSON and media together. Record actual observations in My workbook or Field journal.", "",
         f"[Node reference]({route['source']}) · [Native video nodes]({_NATIVE}) · [Subgraph ports]({_SUBGRAPH})", "",
+        soundtrack_case_markdown(),
     ])
+
+
+def h3_markdown():
+    candidate = H3_CANDIDATE
+    lines = ["# " + candidate["title"], "", "Research reviewed " + candidate["reviewed"], "",
+             candidate["status"], "", candidate["caveat"], "", "## Assign each input a job", ""]
+    for role in candidate["roles"]:
+        lines.extend(["### " + role["Input"], "", role["Job"], "", "Review: " + role["Review"], ""])
+    lines.extend(["## Dependencies to verify in Cloud", ""])
+    lines.extend("- " + item for item in candidate["dependencies"])
+    lines.extend(["", "## From candidate to a bounded preview", ""])
+    lines.extend(f"{index}. {item}" for index, item in enumerate(candidate["steps"], 1))
+    lines.extend(["", "Record exact template/revision, reference roles, compiled settings and workspace evidence in the existing Video workshop plan fields. This checklist is not a Comfy workflow or a successful run record.", ""])
+    lines.extend(f"- [{label}]({url})" for label, url in candidate["sources"])
+    return "\n".join(lines) + "\n"
+
+
+def render_h3_candidate(key_prefix):
+    """Read-only research branch; opening it never selects a route or accepts a take."""
+    candidate = H3_CANDIDATE
+    with st.expander("Additional candidate · MiniMax H3 reference roles"):
+        st.markdown("**" + candidate["title"] + "**")
+        st.caption("Research reviewed " + candidate["reviewed"])
+        st.info(candidate["status"])
+        st.table(candidate["roles"])
+        st.markdown("**Dependencies to check in the actual Cloud workspace**")
+        for item in candidate["dependencies"]:
+            st.markdown("- " + item)
+        st.markdown("**From candidate to a bounded preview**")
+        for index, item in enumerate(candidate["steps"], 1):
+            st.markdown(f"{index}. {item}")
+        st.write(candidate["caveat"])
+        st.caption("If CFA chooses this alternate recipe, record its exact template in Workflow copy and exact revision, assign inputs in Reference image / replacement audio / control asset, and document compiled settings and Cloud compatibility evidence. This callout leaves the recommended route and saved takes unchanged; opening it does not select H3.")
+        st.markdown(" · ".join(f"[{label}]({url})" for label, url in candidate["sources"]))
+        st.download_button("Download H3 candidate checklist", h3_markdown(),
+                           "pathfinder-h3-candidate.md", "text/markdown", key=key_prefix + "_download")
 
 
 def _dialogue():
@@ -151,6 +231,8 @@ def render(key_prefix="help_video_handoff"):
     st.caption("Nominal constant-rate duration = frames ÷ FPS. Trimming, looping or ping-pong change the result. These numbers do not validate a model's supported frame counts or measure audio. Keep the chosen template's generation settings for the first test.")
     st.markdown(f"[Video Combine frame-rate behavior]({_VHS})")
     _dialogue()
+    render_soundtrack_case()
+    render_h3_candidate(key_prefix + "_h3")
     _reference_and_detail()
     st.download_button("Download this video handoff plan", handoff_markdown(selected, frames, source_fps, export_fps),
                        file_name="comfyui-video-audio-handoff.md", mime="text/markdown", key=key_prefix + "_download")

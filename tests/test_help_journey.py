@@ -4,7 +4,7 @@ import copy
 import json
 import unittest
 
-from Help.journey import (
+from Help.state.journey import (
     MAX_IMPORT_BYTES,
     STEP_IDS,
     dumps_journey,

@@ -2,7 +2,7 @@
 # =====================================
 
 # Core Framework
-streamlit>=1.32,<2         # Dashboard and Pathfinder guide (modern rerun, tabs, forms)
+streamlit>=1.36,<2         # Dashboard and Pathfinder guide (explicit navigation, tabs, forms)
 
 # Standard Library (included for documentation)
 # pathlib - File path handling (built-in)

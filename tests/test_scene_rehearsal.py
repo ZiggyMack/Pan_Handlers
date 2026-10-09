@@ -6,8 +6,8 @@ import unittest
 
 from streamlit.testing.v1 import AppTest
 
-from Help.journey import dumps_journey, loads_journey
-from Help.scene_lab import _guide_markdown
+from Help.state.journey import dumps_journey, loads_journey
+from Help.pages.rewrite_scene import _guide_markdown
 
 
 APP = Path(__file__).resolve().parents[1] / "Help" / "app.py"

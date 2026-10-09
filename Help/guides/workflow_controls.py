@@ -2,7 +2,7 @@
 
 import streamlit as st
 
-from Help.workflow_lessons import EPISODE_URL
+from Help.content.workflow_lessons import EPISODE_URL
 
 
 _OVERVIEW = "https://docs.comfy.org/interface/overview"
@@ -14,6 +14,22 @@ GROUPS = ("Run & inspect", "Save & exchange", "Canvas & navigation", "Models & n
 
 # Stable IDs keep selections distinct when the groups or renderer placement change.
 CONTROLS = (
+    {
+        "id": "preview", "group": GROUPS[0], "label": "Input preview / Result preview / Save Image",
+        "role": "Identify which work an output requests", "now": "Trace each terminal Preview or Save node upstream in the actual graph; its label alone does not determine the requested work.",
+        "meaning": "Input previews display loaded/cropped pixels or effective text after their upstream work runs. A generated-result preview requires sampling first. PreviewImage writes temporary preview files; Save Image keeps an output. When both are enabled, saving can occur in the same run without a review pause.",
+        "try": "Use the existing Controlled experiment or Image-to-image comparison. Name the input preview, generated result and saved output, then record the problem, one changed control, actual outcome and next decision in its download.",
+        "caution": "For input-only work, mute every sampler-dependent terminal, including result previews. Inspect the remaining compiled dependencies; Cloud runtime may still apply. A separate input-only workflow avoids manual toggles, but edits do not automatically synchronize with the renderer.",
+        "sources": (("PreviewImage", "https://docs.comfy.org/built-in-nodes/PreviewImage"), ("SaveImage", "https://docs.comfy.org/built-in-nodes/SaveImage")),
+    },
+    {
+        "id": "modes", "group": GROUPS[0], "label": "Mute / Bypass / Collapse",
+        "role": "Separate execution from presentation", "now": "Default shortcuts: Ctrl+M mute, Ctrl+B bypass and Alt+C collapse; check your configured keybindings and operating system equivalents.",
+        "meaning": "Mute disables a node. Bypass forwards compatible inputs where possible, which can remove an optional adapter. Collapse only changes the displayed node size and does not disable its computation.",
+        "try": "Copy sampler + VAE Decode + Save Image as a complete branch, preserving incoming wires. Give the copy a distinct prefix. Request A alone, then B alone deliberately; inspect which terminal outputs remain active before submitting.",
+        "caution": "Bypass is not a general off switch for an entire render or required conditioning. Another active output can still depend on the sampler. Multiple branches, latent batches and repeated queued jobs are different requests for work; none implies parallel GPU execution.",
+        "sources": (("Shortcuts", _KEYS), ("Partial execution", "https://docs.comfy.org/interface/features/partial-execution")),
+    },
     {
         "id": "run", "group": GROUPS[0], "label": "Queue Prompt / Run",
         "role": "Submit generation", "now": "Run and queue controls; the current default shortcut is Ctrl+Enter (Cmd+Enter on macOS).",
@@ -130,7 +146,7 @@ CONTROLS = (
 
 
 def controls_markdown():
-    lines = ["# ComfyUI control guide", "", "A guide to the Episode 2 menu and current equivalents. Reviewed 2026-09-12.",
+    lines = ["# ComfyUI control guide", "", "Episode 2 menu reviewed 2026-09-12; preview and output-mode operating lesson added 2026-10-04 from CFA's episode 3 notes.",
              "Interface placement and available actions vary by environment and version.", "",
              f"[Episode 2 menu walkthrough]({EPISODE_URL}&t=144s)", ""]
     for group in GROUPS:

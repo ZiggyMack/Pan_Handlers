@@ -4,13 +4,17 @@ from html import escape
 
 import streamlit as st
 
-from Help.video_plan import (
+from Help.state.video_plan import (
     MATERIALS, CHANGES, PRESERVE, REVIEW_CHECKS, new_plan, route_for,
     contradictions, add_take, accept_take, current_accepted, dumps_plan,
     loads_plan, plan_markdown, plan_entry,
 )
-from Help.video_routes import ROUTES, FINISHING
-from Help import cfa_learning
+from Help.content.video_routes import ROUTES, FINISHING
+from Help.content import cfa_learning
+from Help.guides.video_handoff import render_h3_candidate
+
+from Help.state.session import append_journal_entry, go
+from Help.ui.components import hero
 
 
 STATE_KEY = "help_video_plan"
@@ -92,6 +96,7 @@ def _route_tab(go):
         for alternative in route["alternatives"]:
             st.markdown("- " + alternative)
         st.write("Look, setting and character replacement are separate experiments. Change one major constraint at a time so the comparison explains what worked.")
+    render_h3_candidate("help_video_route_h3")
     st.button("Use the CFA woman-and-wolf test brief", key="help_video_guardian", on_click=_guardian)
     st.caption("Optional lighting/motion capability test, separate from CFA's music-video production. It does not establish character replacement, rap lip-sync or tattoo consistency. This fills a brief and source reference; no media is loaded and earlier takes stay in the notebook.")
     _field(st.text_input, "Source clip / asset reference", "source", max_chars=2000)
@@ -102,7 +107,7 @@ def _route_tab(go):
     with st.expander("Where we actually stand", expanded=False):
         st.caption("CFA records reviewed " + cfa_learning.REVIEWED + "; not a new account check.")
         st.table(cfa_learning.STATUS_ROWS)
-        st.caption("The separate authored Godot prototype remains a future branch. The two recovered video graphs are reference recipes, not executed CFA videos.")
+        st.caption("The separate authored Godot prototype remains a future branch. Older recovered reference graphs are distinct from the later executed CFA control tests; neither source discovery nor a completed render establishes acceptance.")
         st.write("The recovered wolf recipe starts from a missing gf_24_a.jpg. It is an image-to-video reference, so opening that graph does not turn the available MP4 into its input. Use a source-video control workflow for this test.")
         st.button("Inspect the completed still and foundations →", on_click=go,
                   args=("ComfyUI guide",), key="help_video_evidence_guide")
@@ -175,6 +180,14 @@ def _review_tab():
                     else:
                         st.video(upload.getvalue())
     st.write("Keep one fixed baseline. Record every attempted take, including failures; change one control or input for the next comparison. A beautiful frame with changed performance does not pass a motion-preservation brief.")
+    with st.expander("Borrow a model comparison, then test our own brief"):
+        st.markdown(
+            "1. Keep the same source excerpt, intended change and preservation checks. Record each model's exact recipe and reference roles.\n"
+            "2. Use each model's documented settings. Equal seeds, step counts or CFG across different architectures do not create equivalent conditions.\n"
+            "3. Record each output with its own workflow revision, effective prompt and settings. Watch matching timecodes for identity, motion, contact, speech and temporal artifacts.\n"
+            "4. Record actual usage and failures alongside quality. A creator's ranking or historical price is context; the accepted take must pass this shot's checks."
+        )
+        st.caption("Video workshop → 05 / Relevant lessons → Tutorial source register includes the archived video-model comparison and its unresolved original URL. Its demonstration is not evidence of a CFA render.")
     st.caption("Acceptance requires a source reference, a change brief and an exact saved workflow revision, plus all four review checks. Failed takes can be recorded with incomplete preparation notes.")
     with st.form("help_video_take_form"):
         st.text_input("Result file / remote asset reference", max_chars=2000, key="help_video_take_result")
@@ -285,6 +298,8 @@ def _lessons_tab(go):
     lessons = {
         "open": "Open and inspect the borrowed workflow",
         "creative": "Direct the result · Spanish creator / NKD lessons",
+        "tutorials": "Tutorial source register · follow-up lessons and model comparisons",
+        "prompts": "Compose prompt text and inspect optional styles",
         "access": "Resolve Cloud model imports and access",
         "controls": "Understand the menu, queue and canvas",
         "reference": "Prepare a character or look reference",
@@ -294,34 +309,40 @@ def _lessons_tab(go):
     }
     selected = st.selectbox("I need help with…", list(lessons), format_func=lessons.get, key="help_video_lesson")
     if selected == "open":
-        from Help.workflow_files import render
+        from Help.guides.workflow_files import render
         render("help_video_files")
     elif selected == "creative":
-        from Help.tutorial_notes import render
+        from Help.guides.tutorial_notes import render
         render("help_video_creative_notes", initial_episode="nkd")
+    elif selected == "tutorials":
+        from Help.guides.tutorial_notes import render
+        render("help_video_source_notes", initial_episode="ep8")
+    elif selected == "prompts":
+        from Help.guides.prompt_wiring import render_composition
+        render_composition("help_video_prompt_composition")
     elif selected == "access":
-        from Help.cloud_access import render
+        from Help.guides.cloud_access import render
         render("help_video_access")
     elif selected == "controls":
-        from Help.workflow_controls import render
+        from Help.guides.workflow_controls import render
         render("help_video_controls")
     elif selected == "reference":
-        from Help.image_edit_lab import render
+        from Help.guides.image_edit_lab import render
         render()
     elif selected == "compare":
-        from Help.sampling_lab import render
+        from Help.guides.sampling_lab import render
         render()
     elif selected == "handoff":
-        from Help.video_handoff import render
+        from Help.guides.video_handoff import render
         render("help_video_handoff_workshop")
     else:
-        from Help.node_atlas import render
+        from Help.guides.node_atlas import render
         render()
     st.caption("The still-image lessons teach methods. Their SDXL defaults, sampler values and latent batch size are not video-model settings. Use the selected video's exact recipe and temporal constraints.")
     st.button("Open the complete lesson library →", on_click=go, args=("ComfyUI guide",), key="help_video_all_lessons")
 
 
-def render(save_entry, go):
+def _render_workshop(save_entry, go):
     st.markdown("**Source → workflow → preview → accepted take → HD → reviewed 4K**")
     st.caption("Plan and review here; run in your cloud Comfy workspace. This console does not connect to Comfy, inspect its catalog or submit jobs.")
     tabs = st.tabs(["01 / Choose the route", "02 / Prepare & open", "03 / Preview & compare", "04 / Finish & keep", "05 / Relevant lessons"])
@@ -329,3 +350,9 @@ def render(save_entry, go):
                                     lambda: _finish_tab(save_entry), lambda: _lessons_tab(go))):
         with tab:
             renderer()
+
+
+def render():
+    hero("ACTIVE MISSION / VIDEO WORKSHOP", "From source clip to accepted take.",
+          "Choose an existing workflow for the change you want. Preserve the performance, compare honestly, and finish the take that earns it.")
+    _render_workshop(append_journal_entry, go)

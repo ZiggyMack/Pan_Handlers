@@ -9,8 +9,8 @@ from zipfile import ZipFile
 
 from streamlit.testing.v1 import AppTest
 
-from Help.journey import dumps_journey, loads_journey
-from Help.worked_example import CASE_FILES, case_bundle
+from Help.state.journey import dumps_journey, loads_journey
+from Help.guides.worked_example import CASE_FILES, case_bundle
 
 
 class WorkedExampleTests(unittest.TestCase):
@@ -43,7 +43,7 @@ class WorkedExampleTests(unittest.TestCase):
         app = AppTest.from_string(
             "from Help.console import render\n"
             "import streamlit as st\n"
-            "from Help.journey import new_journey\n"
+            "from Help.state.journey import new_journey\n"
             "if 'help_journey' not in st.session_state:\n"
             "    journal = new_journey()\n"
             "    journal['chosen_path'] = 'forge'\n"
@@ -64,8 +64,8 @@ class WorkedExampleTests(unittest.TestCase):
 
     def test_shared_renderers_can_appear_twice_with_distinct_keys(self):
         app = AppTest.from_string(
-            "from Help.cloud_access import render as cloud\n"
-            "from Help.worked_example import render as example\n"
+            "from Help.guides.cloud_access import render as cloud\n"
+            "from Help.guides.worked_example import render as example\n"
             "cloud('first_cloud')\ncloud('second_cloud')\n"
             "example('first_example')\nexample('second_example')\n", default_timeout=25,
         ).run()

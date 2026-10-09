@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from Help.sampling_lab import build_cases, plan_markdown
+from Help.guides.sampling_lab import build_cases, plan_markdown
 
 
 class SamplingLabTests(unittest.TestCase):
@@ -47,8 +47,8 @@ class SamplingLabTests(unittest.TestCase):
     def test_draft_navigation_and_invalid_input_preserve_plan_and_journal(self):
         script = '''
 import streamlit as st
-from Help.journey import new_journey
-from Help.sampling_lab import render
+from Help.state.journey import new_journey
+from Help.guides.sampling_lab import render
 if 'help_journey' not in st.session_state:
     st.session_state['help_journey'] = new_journey()
 if st.radio('Page', ['Sampling', 'Away'], key='page') == 'Sampling':

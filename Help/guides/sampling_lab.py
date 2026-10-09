@@ -6,7 +6,8 @@ import re
 
 import streamlit as st
 
-from Help.shared_controls import render as render_shared_controls
+from Help.guides.shared_controls import render as render_shared_controls
+from Help.guides import workflow_decision
 
 
 _STATE = "help_sampling_draft"
@@ -74,7 +75,7 @@ def _md(value):
     return re.sub(r"([\\`*_{}\[\]()#+.!|~>-])", r"\\\1", escape(str(value), quote=False))
 
 
-def plan_markdown(draft, cases):
+def plan_markdown(draft, cases, decision=None):
     lines = ["# KSampler comparison plan", "", "Planned only; no generation or result is implied.", "",
              "Saved baseline graph / model receipt: " + _md(draft["recipe"] or "Not yet recorded"), "",
              "Changed variable: " + VARIABLES[draft["variable"]], "",
@@ -92,6 +93,8 @@ def plan_markdown(draft, cases):
                   "Repeat a promising comparison across additional seeds before treating it as a general conclusion.", "",
                   "Keep this plan with the editor JSON and original outputs. Record observed results in Workflow lab's Change one variable milestone or Field journal, then export the journal to retain it.", "",
                   f"[KSampler controls and bounds]({_DOCS})", ""])
+    if decision is not None:
+        lines.extend([workflow_decision.decision_markdown(decision)])
     return "\n".join(lines)
 
 
@@ -127,9 +130,16 @@ def _comparison():
     if not _draft()["sampler"].strip() or not _draft()["scheduler"].strip() or not _draft()["recipe"].strip():
         st.caption("The baseline record is still incomplete. Add its graph reference, sampler and scheduler before running; the downloaded plan remains a draft.")
     st.caption("This planner validates basic numeric bounds, not whether these settings suit your model. It does not predict image quality, elapsed time or VRAM.")
-    st.download_button("Download the A/B/C comparison plan", plan_markdown(_draft(), cases),
+    st.caption("Begin with A and one alternative B. C is an optional follow-up, not a request to queue three jobs. Stop and review when the chosen success check is answered.")
+    workflow_decision.render_operating_steps()
+    decision = workflow_decision.render(
+        "help_sampling_decision",
+        "ComfyUI guide / Workflow anatomy / Controlled experiment; Episode 3 sampling and canvas operations. "
+        "Help/CFA_TUTORIAL_LEDGER.md PH TUT 04; reviewed October 4, 2026.",
+    )
+    st.download_button("Download the A/B/C comparison plan", plan_markdown(_draft(), cases, decision),
                        file_name="comfyui-sampling-comparison.md", mime="text/markdown", key="help_sampling_download")
-    st.write("Keep the comparison notes under 07 / Workflow lab → Change one variable, or add an observation to Field journal. This plan stays separate from recorded results and foundation progress.")
+    st.write("The download keeps your planned settings and separately labeled observations together. These session drafts are separate from journey JSON; download them before leaving. You can also summarize the lesson in 07 / Workflow lab → Change one variable or Field journal.")
 
 
 def _controls():
@@ -169,6 +179,7 @@ def _branches():
         ],
     })
     st.write("Give each output a distinct prefix. Preserve the expanded graph before creating a compact interface, then reopen the export and confirm that the intended branches still produce their labeled outputs.")
+    st.info("To inspect only inputs, mute every terminal output that depends on sampling, including generated-result previews as well as Save Image. Muting only Save while leaving a sampler-dependent Preview enabled can still request generation. Inspect the compiled dependencies; a collapsed group still runs.")
     st.markdown("[Copy/paste and mode shortcuts](https://docs.comfy.org/interface/shortcuts) · [Subgraphs](https://docs.comfy.org/interface/features/subgraph) · [Partial execution](https://docs.comfy.org/interface/features/partial-execution)")
 
 

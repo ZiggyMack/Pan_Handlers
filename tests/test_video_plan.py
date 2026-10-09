@@ -4,8 +4,8 @@ import copy
 import json
 import unittest
 
-from Help.journey import dumps_journey, loads_journey, new_journey
-from Help.video_plan import (
+from Help.state.journey import dumps_journey, loads_journey, new_journey
+from Help.state.video_plan import (
     MATERIALS, MAX_IMPORT_BYTES, REVIEW_CHECKS, accept_take, add_take,
     contradictions, current_accepted, dumps_plan, loads_plan, new_plan,
     plan_entry, plan_markdown, route_for, validate_plan,

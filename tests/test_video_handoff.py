@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from Help.video_handoff import handoff_markdown, timing
+from Help.guides.video_handoff import handoff_markdown, timing
 
 
 class VideoHandoffTests(unittest.TestCase):
@@ -35,8 +35,8 @@ class VideoHandoffTests(unittest.TestCase):
     def test_explorer_switches_handoffs_and_warns_only_for_changed_playback_rate(self):
         script = """
 import streamlit as st
-from Help.journey import new_journey
-from Help.video_handoff import render
+from Help.state.journey import new_journey
+from Help.guides.video_handoff import render
 if 'help_journey' not in st.session_state:
     st.session_state['help_journey'] = new_journey()
 render()

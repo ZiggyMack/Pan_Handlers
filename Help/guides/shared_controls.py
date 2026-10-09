@@ -33,7 +33,8 @@ def reference_markdown():
         lines.extend(["## " + topic["label"], "", "```text", wiring(key), "```", "", topic["meaning"], ""])
     lines.extend(["## Keep comparisons controlled", "",
                   "Share only what should move together. To compare CFG values across branches, keep their CFG controls separate while sharing settings intended to stay fixed. A shared seed alone does not guarantee identical images.",
-                  "If several controls advance automatically, several experimental variables can change at once. Start fixed; vary one deliberately.",
+                  "If several controls advance automatically, several experimental variables can change at once. Start fixed; vary one deliberately. When copying a complete branch, inspect its retained incoming wires: a copied denoise link may still point to the original Primitive. Give the comparison variable its own control before varying it.",
+                  "Inspect the compiled effective settings as well as the visible widgets; stale named-widget metadata or a connected input can override a displayed value. Reopen the actual exported editor JSON and confirm the shared wires, fixed seed control, output modes and distinct prefixes.",
                   "A Primitive adapts to compatible widget-backed inputs. It is not a universal source for MODEL, CLIP, LATENT or arbitrary socket types.", "",
                   f"[Primitive behavior and conversion changes]({_PRIMITIVE})", ""])
     return "\n".join(lines)
@@ -64,6 +65,7 @@ def render(key_prefix):
     with st.expander("Avoid the common shared-control mistakes"):
         st.write("A Primitive adapts to a compatible widget-backed input; it cannot provide an arbitrary MODEL, CLIP or LATENT. Two inputs having a similar label is not sufficient: their widget configurations and allowed values must be compatible.")
         st.write("Keep automatic increment/randomize behavior deliberate. If both the seed and CFG advance, you have changed two variables. A fixed shared seed is useful evidence, but the model, prompts, sampler and environment still affect the result.")
+        st.write("A copied branch can retain the original denoise/CFG wire. Leave shared constants connected, but give the comparison variable a separate input or widget. Verify the compiled effective values; changing a visible box is insufficient when a wire or stale named-widget metadata overrides it.")
         st.caption("Inspect the resolved value in the queued workflow or output metadata when available. A control displayed after generation may already show the next value.")
     st.markdown(f"[Current Primitive and parameter-input behavior]({_PRIMITIVE}) · [KSampler settings](https://docs.comfy.org/built-in-nodes/sampling/ksampler)")
     st.download_button("Download the shared-control pattern", reference_markdown(),

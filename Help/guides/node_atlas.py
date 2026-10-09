@@ -1,7 +1,8 @@
 """A curated ComfyUI teaching atlas, independent of the learner's journal.
 
 Node identities and sockets were checked against ComfyUI and pack-maintainer
-upstream sources on 2026-09-12. This static reference does not inspect an installation,
+upstream sources on 2026-09-12; prompt-composition additions were checked
+on 2026-10-04. This static reference does not inspect an installation,
 execute workflows, or contact a renderer. It only depends on Streamlit.
 """
 
@@ -9,7 +10,7 @@ from html import escape
 
 import streamlit as st
 
-from Help.prompt_wiring import render as render_prompt_wiring
+from Help.guides.prompt_wiring import render as render_prompt_wiring, render_composition
 
 
 _SOURCE = "https://github.com/Comfy-Org/ComfyUI/blob/master/"
@@ -32,6 +33,32 @@ _RESIZE_SOURCE = _SOURCE + "comfy/utils.py#L1012"
 # separately. Hidden execution metadata and conditional advanced controls are
 # deliberately outside this starter reference and its connection explorer.
 NODES = {
+    "PrimitiveStringMultiline": {
+        "name": "Text (Multiline)", "category": "Models & prompts", "source_category": "utilities/primitive",
+        "purpose": "Supply reusable raw prompt text.", "inputs": {}, "outputs": {"STRING": "STRING"},
+        "controls": {"value": "STRING · editable text"},
+        "caveat": "This supplies words, not embeddings. Fan out to separate model-specific encoders, exposing their text widgets as sockets when needed.",
+        "availability": "Current core node; verify your Cloud version. Reviewed October 4, 2026.",
+        "source": _SOURCE + "comfy_extras/nodes_primitive.py", "docs": "",
+    },
+    "StringConcatenate": {
+        "name": "Concatenate Text", "category": "Models & prompts", "source_category": "text",
+        "purpose": "Join two strings before encoding.",
+        "inputs": {"string_a": "STRING", "string_b": "STRING"}, "outputs": {"STRING": "STRING"},
+        "controls": {"delimiter": "STRING · separator, such as comma-space or newline"},
+        "caveat": "Inspect the assembled text. Input widgets may need conversion to sockets. Empty style and routing that omits it establish the no-style baseline; this node does not join CONDITIONING.",
+        "availability": "Current core node; tutorials may use other packages. Cloud availability unchecked. Reviewed October 4, 2026.",
+        "source": _SOURCE + "comfy_extras/nodes_string.py", "docs": "",
+    },
+    "ConditioningConcat": {
+        "name": "Conditioning (Concat)", "category": "Models & prompts", "source_category": "model/conditioning/transform",
+        "purpose": "Concatenate encoded guidance, not raw words.",
+        "inputs": {"conditioning_to": "CONDITIONING", "conditioning_from": "CONDITIONING"},
+        "outputs": {"CONDITIONING": "CONDITIONING"}, "controls": {},
+        "caveat": "Use compatible encoders and the selected model's recipe. It is not weighted averaging or cross-architecture conversion; input order and conditioning metadata matter.",
+        "availability": "Built-in node. Reviewed October 4, 2026.",
+        "source": _SOURCE + "nodes.py", "docs": "",
+    },
     "CheckpointLoaderSimple": {
         "name": "Load Checkpoint",
         "category": "Models & prompts",
@@ -67,10 +94,10 @@ NODES = {
         "category": "Models & prompts",
         "source_category": "model/conditioning",
         "purpose": "Turn prompt text into conditioning using the supplied text encoder.",
-        "inputs": {"clip": "CLIP"},
+        "inputs": {"clip": "CLIP", "text": "STRING"},
         "outputs": {"CONDITIONING": "CONDITIONING"},
         "controls": {"text": "STRING · prompt"},
-        "caveat": "The classic recipe uses this node twice, for positive and negative prompts. Two instances of one node type can do different jobs; newer model templates may handle prompts differently.",
+        "caveat": "Text normally appears as a widget; expose it as a STRING socket to share raw words. The classic recipe uses this node twice for positive and negative prompts. Newer models may handle guidance differently; use the appropriate model-specific encoder.",
         "availability": "Built-in node.",
         "source": _SOURCE + "nodes.py#L52",
         "docs": "https://docs.comfy.org/built-in-nodes/ClipTextEncode",
@@ -383,6 +410,27 @@ RECIPES = {
         ),
         "source": "https://docs.comfy.org/get_started/first_generation",
     },
+    "prompt_composition": {
+        "task": "Compose and inspect prompt text",
+        "name": "Raw words → optional style → the right encoder",
+        "result": "A visible text instruction and a clear distinction between strings and encoded guidance.",
+        "scope": "Episode 5–7 teaching pattern, reviewed October 4, 2026. Current core nodes illustrate the roles; this does not install nodes or encode text in Pathfinder.",
+        "nodes": ("PrimitiveStringMultiline", "StringConcatenate", "CLIPTextEncode", "ConditioningConcat"),
+        "stages": (("Write", "Instruction + optional style", "STRING"),
+                   ("Inspect", "Concatenate Text / effective text preview", "STRING"),
+                   ("Encode", "Each model's compatible encoder", "CONDITIONING")),
+        "steps": (
+            "Start with the instruction only. Add an optional style deliberately and inspect the exact assembled words.",
+            "Share STRING across model branches, keeping each branch's compatible encoder and sampling recipe separate.",
+            "ConditioningConcat is an alternative for already encoded inputs in a compatible recipe. It does not concatenate text or make incompatible encoders interchangeable.",
+        ),
+        "connections": (("Instruction.STRING", "STRING", "StringConcatenate.string_a"),
+                        ("Style.STRING (optional)", "STRING", "StringConcatenate.string_b"),
+                        ("StringConcatenate.STRING", "STRING", "Encoder.text (exposed input)"),
+                        ("Compatible loader.CLIP", "CLIP", "Encoder.clip"),
+                        ("Encoder.CONDITIONING", "CONDITIONING", "Compatible sampler conditioning input")),
+        "source": _SOURCE + "nodes.py",
+    },
     "scene_lipsync": {
         "task": "Fit replacement dialogue to a scene",
         "name": "Scene clip + replacement speech → lip-sync pass",
@@ -636,6 +684,8 @@ def _recipes():
     _recipe_map(recipe)
     if recipe_id == "classic_still":
         render_prompt_wiring("help_atlas_prompts")
+    if recipe_id == "prompt_composition":
+        render_composition("help_atlas_composition")
     for index, step in enumerate(recipe["steps"], start=1):
         st.markdown(f"{index}. {step}")
     with st.expander("Trace each connection"):
@@ -759,7 +809,7 @@ def _connections():
     })
     st.markdown(f"[Official data type reference]({_TYPE_DOCS})")
     with st.expander("Shared Primitive controls · coordinate multiple KSamplers"):
-        from Help.shared_controls import render as render_shared_controls
+        from Help.guides.shared_controls import render as render_shared_controls
         render_shared_controls("help_atlas_shared")
     with st.expander("Episode 2 · latent, pixels and the required VAE"):
         st.write("KSampler combines different kinds of input: MODEL, CONDITIONING and LATENT. The classic Empty Latent Image node creates zeros; the sampler prepares its seeded noise separately.")

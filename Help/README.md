@@ -1,5 +1,21 @@
 # Pathfinder
 
+## Collaborator handoff - October 8, 2026
+
+Open **Collaborators** in the sidebar. Start with **ComfyUI**, then choose **Grok**, **Gemini** or **Google Flow** for their project-specific how-tos. **Role & handoff** explains the job and evidence; **Preserve or explore** distinguishes Prime corrections from creative discovery; **Continue a lesson** reuses the existing reference-role, comparison, prompt, workflow-file and video/audio exercises. The [file map](FILE_MAP.md) identifies the new page and teaching data.
+
+The source is CFA's [October 8 debrief](../../CFA/docs/notes/explorable_world/comfy/projects/collaborators/panhandler_return_20261008.txt), including the appendix dated **October 9, 01:45:08 UTC** (October 8 locally). Grok's return packets are provider-visible but local receipt/verification is not established in that snapshot. Gemini notebook text and chat sources are usable; direct visual-media Sources attempts remain failed/unverified. The prepared six-second Flow excerpt comes from the retained 41-second source and has not been uploaded or run in Flow. These dated facts do not update from accounts automatically.
+
+CFA has now executed an image-to-video motion test and depth/Canny source-video relights. Motion acceptance is pending and both relights failed strict detail preservation. Its local ten-second soundtrack proof preserved compressed picture packets and all 240 frame hashes/timestamps; the Cloud assembly graph is saved/server-converted but unexecuted, and the lip-sync candidate is separate and unexecuted. The shared video/audio and scene-rewrite lessons teach these boundaries. Earlier October 4 evidence below remains historical.
+
+The two projects, Hon Dolo / Strictly Business and Lisan Al Gaib / Meta Mirror, keep separate briefs and masters in [CFA Creative Studio](https://algaib.streamlit.app/). Pathfinder links provenance and teaches the method without copying production media. New tattoo discovery includes a four-option standalone companion sheet in the same delivery; Prime preservation protects selected existing details. Favorites, scoped working references, verified files and accepted masters are separate decisions. Downloaded collaborator notes contain explanations/source references only; save/export CFA review state in CFA itself. Existing journal v1 and video-plan v1 stay unchanged.
+
+## Tutorial learning loop
+
+Ziggy's October 4 standing instruction is to return every reviewed tutorial to Panhandlers as reusable workflow knowledge. Start with the [tutorial ledger and Nova tasks](CFA_TUTORIAL_LEDGER.md): it links all eight current transcript archives, lessons, reconstruction files and evidence states. The October 4 teaching integration connects that source register to the existing episode 3/4 lessons and adds episodes 5–8, H3 media roles, video comparisons, prompt composition and operating exercises. Future guide intakes update the ledger, and completed teaching work returns through [CFA_FEEDBACK.md](CFA_FEEDBACK.md) and the CFA handoff map. This is a manual bookkeeping process, not an automatic repository sync.
+
+Open **Video workshop → 05 / Relevant lessons → Tutorial source register** to start at Episode 8, then select among eleven guides. **Compose prompt text and inspect optional styles** opens the related practice. The eight-resource register includes archive identifiers, verified SHA-256/byte counts, review dates and the basis for each video link; the app never reads CFA at runtime. Episode 8's source association was recovered from primary YouTube metadata, while the H3 and comparison creator-video URLs remain unresolved. Source metadata review is separate from independently watching a video.
+
 Pathfinder is a Streamlit console for comparing ways to accomplish a task, following a practical learning route, and recording enough detail for someone else to repeat the work. **Active direction, October 2, 2026: high-resolution, lifelike video in ComfyUI.** Start with existing footage and change its look, setting or characters while preserving its original motion and performance. First establish a convincing short clip, then an HD master and a reviewed 4K derivative. Dialogue rewriting remains a supported branch; game development and editable 3D remain future branches.
 
 AUTOMATIC1111, Forge UI, Invoke / InvokeAI and ComfyUI stay visible as valid alternatives, with strengths and tradeoffs. ComfyUI has the first seven-stage guide. The other three retain explicit expansion checklists. A coverage label such as “Planned” describes this console's walkthrough, not whether the upstream application is available.
@@ -30,7 +46,7 @@ Its [intake](../../CFA/docs/notes/explorable_world/comfy/references/wolf_care_v0
 
 ## Run it
 
-Use **Python 3.10 or newer** and **Streamlit >=1.32,<2**. The guide itself uses Streamlit and the Python standard library. It does not require ComfyUI, Blender, a GPU or an API key to open and explore.
+Use **Python 3.10 or newer** and **Streamlit >=1.36,<2**. The guide itself uses Streamlit and the Python standard library. It does not require ComfyUI, Blender, a GPU or an API key to open and explore.
 
 From the `Pan_Handlers` repository root:
 
@@ -57,21 +73,23 @@ The standalone console has its own grouped sidebar. The integrated view keeps th
 - **Compare paths:** four colored capability columns, detailed tradeoffs, and a recorded path decision.
 - **ComfyUI guide:** an early fit-and-tradeoffs review, followed by shot brief, setup, first image, workflow understanding, short video experiment, optional 3D branch, and packaging the result. Setup alternatives include Desktop, Portable, Manual and Cloud.
 - **Field journal:** checkpoint notes, observations, next steps and reference URLs, with portable exports.
-- **Node Atlas** (inside ComfyUI guide): task → recipe → node navigation, grouped search across 21 curated starter node types, and a declared-type connection explorer. Load VAE, VAE Encode and Preview Image explain the boundary between latent data and pixels. Other recipes cover ControlNet compatibility, native/VHS video export, and image-to-image with resizing and optional MODEL/CLIP LoRA insertion. Five recipes are available. This is not an inventory of every installed node; matching socket types is only the first compatibility check.
+- **Node Atlas** (inside ComfyUI guide): task → recipe → node navigation, grouped search across 24 curated starter node types, and a declared-type connection explorer. Load VAE, VAE Encode and Preview Image explain the boundary between latent data and pixels. Six recipes cover the first still, dialogue, ControlNet compatibility, native/VHS video export, image-to-image with optional LoRA, and prompt composition. The new recipe distinguishes Primitive text, StringConcatenate and ConditioningConcat. This is not an inventory of every installed node; matching socket types is only the first compatibility check.
 - **Models & files** (inside Setup routes): Civitai and other model sources, an interactive filter plan including a ControlNet search, a rating/download shortlist checklist, the distinction between nodes/models/workflows, file roles and compatible loaders, Cloud imports and access, an optional Civitai node-pack reference, and a downloadable model receipt template. **Choose the right file** explains ControlNet pairing; the receipt records the checkpoint family, control weights, reference map and comparison settings. The starter image preset uses **SDXL 1.0 + Checkpoint + SafeTensor**; specialized workflows retain their own requirements.
 - **Worked example** (inside ComfyUI guide): inspect the actual first CFA pump image beside its written brief, review what needed revision, and download its editor graph, API graph or complete evidence sample. The small packaged copy works without a CFA checkout, account or model download; production artifacts remain in CFA.
 - **First prompt connections** (Workflow anatomy and the first-still Node Atlas recipe): trace a shared CLIP output into two encoder instances, route their conditioning to positive/negative sampler inputs, then complete the image path. The lesson captures Ep01 at **11:36**, explains common wiring mistakes, and provides a small prompt experiment.
+- **Prompt composition** (Workflow anatomy → Node map → Beyond two prompts, Node Atlas's composition recipe, and Video workshop → Relevant lessons): share raw strings while retaining each model's own encoder; distinguish joining text before encoding from joining encoded conditioning. Optional style text starts off. Inspect and download the effective text, with SDXL negative conditioning separated from CFA Klein's inactive CFG-1 negative notes. This text exercise does not preview Comfy's compiled graph or an unrun image.
 - **Size & sampler** (Workflow anatomy, also under Find a model): compare model-specific canvas sizes and translate the exact version's recommended settings into KSampler fields. The SD 1.5 tutorial values and current Juggernaut X v10 publisher recommendations retain separate provenance. The model receipt records the complete sampling configuration.
-- **Tutorial notes** (Workflow anatomy): choose the nine Ep01 lessons, ten Ep03 lessons, ten Ep04 lessons, ten annotations from Max Novak's additional guide, or eleven English annotations from the supplied Spanish creative-control video. Download the selected guide's notes with timestamped video links and primary references. Creator preferences, sponsored performance examples and historical instructions remain distinct from learner evidence. Episode 2's exercises remain in Workflow lab.
+- **Tutorial notes** (Workflow anatomy and Video workshop → Relevant lessons → Tutorial source register): eleven selector entries retain Ep01, Ep03, Ep04, Max Novak and the Spanish creative-control guide, with 25 new annotations across Ep05–08, H3 media roles and video-model comparison. Existing episode 3/4 annotations are reused. Downloads preserve timestamps, primary references and source metadata where archived; unresolved creator-video links stay explicitly unresolved. The source register has its own portable JSON download. Creator preferences, sponsored timings and historical prices remain separate from learner evidence and current account estimates. Episode 2's exercises remain in Workflow lab.
 - **Creative control / NKD:** open **Video workshop → 05 / Relevant lessons → Direct the result**, or select the Spanish creator in **Workflow anatomy → Tutorial notes**. Reference roles and crops, influence controls, regional editing, concept LoRAs and audio-conditioned timing become practical comparisons. Three nested views show how to apply the ideas, what CFA records actually establish, and how to translate local-installation advice to managed Cloud. The download includes eleven timestamped English annotations, translation uncertainties, Cloud instructions and CFA lessons. NKD node availability in the learner's Cloud workspace and the creator's complete advertised download pack remain unverified; the linked public NKD example is a source candidate.
 - **Save & load** (Workflow anatomy): a dedicated loading callout, **Save → optional Clear → Load → Verify**, an editor workflow for practice, PNG/JSON guidance, and a portable checklist. A Manager route comparison explains built-in workflow opening, Desktop's included Manager, local setup and Cloud's managed nodes.
 - **07 / Workflow lab:** seven Episode 2 practice milestones cover reading, tracing, building, debugging, comparing, organizing and reopening a graph. Five connection problems provide feedback; six concept comparisons explain common confusions. Learners can retain per-skill observations, download a Markdown workbook and save a snapshot to the existing Field journal. Practice is performed in ComfyUI, and neither quiz answers nor workbook status automatically complete foundation checkpoints.
 - **Control guide** (Workflow lab): the tutorial menu grouped into Run & inspect, Save & exchange, Canvas & navigation, and Models & nodes. Each entry explains its purpose, current location, a common confusion and a small exercise. Includes a full map and downloadable reference; selecting an entry only displays guidance.
 - **VAE paths** (Workflow anatomy): choose the VAE source independently from its purpose. Checkpoint and separate-loader paths cover ordinary decoding and encoding an existing image before sampling. A diagram and socket-by-socket reference show both required decoder inputs. Includes local/Cloud file guidance, failure checks, tiled decoding and exact video-variant caveats. These are conceptual branches, not executable workflow exports.
-- **Controlled experiment** (Workflow anatomy): plan A/B/C comparisons of CFG, steps or seed from a working baseline. Exact seed digits are retained, shared settings are explicit, and the downloadable plan provides blank observation fields. Guidance covers Primitive controls, cache, batching, output prefixes, comparison branches, bypass/mute, partial execution and compact graphs. The plan does not execute a graph, forecast quality or mark progress complete.
+- **Controlled experiment** (Workflow anatomy): plan A/B/C comparisons of CFG, steps or seed from a working baseline. Exact seed digits are retained and shared settings are explicit. Optional decision fields connect the problem, lesson, recipe rationale and success check to actual compiled settings, output/error and next decision; these are included in the existing Markdown export. A small copy → inspect inputs → compare → reopen exercise teaches complete output branches, distinct prefixes, output muting and preservation of the original input. Planned settings and reported actual execution remain separate. The plan does not execute a graph, forecast quality or mark progress complete.
 - **Shared controls** (Controlled experiment, also Node Atlas → How connections work): a highlighted coordination pattern for multiple KSamplers. Inspect CFG, steps, seed or scheduler feeding two to four sampler instances, then follow the setup checklist. One Primitive per independently controlled parameter preserves the distinction between shared settings and deliberate branch differences. Covers legacy conversion menus and modern parameter sockets, with a downloadable reference.
 - **Video & audio** (Workflow lab): inspect subgraph outputs, choose a native or optional VHS export route, and explore how frame count and FPS change duration. Includes prompt-enhancer checks for exact dialogue, generated audio versus prepared-audio paths, file retention, selected-take upscaling, and a Blender structure/style-reference exercise. Download a conceptual handoff plan; actual results belong in the workbook or journal. The timing explorer does not validate model-specific dimensions/frame counts or run a workflow.
-- **Image to image** (Workflow lab): prepare and resize the source before VAE Encode, inspect the pixel/latent path, and compare denoise separately from optional LoRA model/CLIP strengths. Explains crop/stretch behavior, VAE memory limits, file compatibility, trigger words, current LoRA loader names, and cumulative drift. The A/B/C planner retains exact seeds and one changed control, with a downloadable plan and blank observation table. It does not simulate images or calculate preservation scores.
+- **MiniMax H3 candidate** (Video workshop → 01 / Choose the route and Workflow lab → Video & audio): an optional callout separates appearance, performance and audio inputs, current official requirements and CFA's catalog-only evidence. Its checklist does not select H3, replace the recommended route or alter saved takes. Use the existing freeform reference/revision/settings fields if CFA elects to test it. No runtime support or temporal fidelity is inferred from template presence.
+- **Image to image** (Workflow lab): prepare and resize the source before VAE Encode, inspect the pixel/latent path, and compare denoise separately from optional LoRA model/CLIP strengths. Explains crop/stretch behavior, VAE memory limits, file compatibility, trigger words, current LoRA loader names, and cumulative drift. The A/B/C planner retains exact seeds and one changed control. Its existing Markdown download now includes optional decision/actual-outcome notes and the shared operating exercise. It does not simulate images or calculate preservation scores.
 - **Sources & roadmap:** official references, the inspiration video and reserved work for the other paths.
 
 The ComfyUI guide uses nested navigation to reveal the next useful level of detail. Its outer workspaces begin with **Fit & tradeoffs**, before installation. Within the checkpoint workspace, **Instructions**, **Evidence & notes** and **Trail overview** separate the exercise, its record and the overall route. Setup uses a tab for each environment; workflow anatomy separates the map, a small experiment and the glossary. This keeps the alternatives and the cost of choosing ComfyUI visible early, while preserving deeper material for follow-through.
@@ -164,57 +182,47 @@ The Workflow lab draft survives navigation within the current session. Save a wo
 
 The sampling comparison draft also survives navigation in this session. Download its Markdown plan to retain it; it is not included automatically in a journey export. Record actual experiment results in the workflow workbook or Field journal and retain the corresponding graphs and outputs separately.
 
+The October 4 prompt-composition draft and optional comparison decision/outcome notes also persist within their scoped session forms. Download prompt notes or the relevant sampling/image-to-image comparison Markdown to retain them. They are **not** added automatically to journal v1 or video-plan JSON, and these downloads do not restore editable forms. A reported input check, dry run or execution is not an accepted result.
+
 The image-to-image comparison draft follows the same session-only pattern. Its LoRA settings survive hiding that branch or navigating away. Disabling the LoRA branch returns the chosen comparison to denoise; hidden strengths remain in the draft but are excluded from that plan. Download the comparison before leaving and record actual evidence separately.
 
-## Architecture
+## Find the page you want to change
 
-| File | Responsibility |
+Start with the [file map](FILE_MAP.md): it matches every sidebar label to its Python page and maps the nested ComfyUI lessons to their supporting files. You can request changes using **page → tab → desired change**, without having to find the code yourself.
+
+```text
+Help/
+├── app.py              Standalone launcher; keep this deployment entry point
+├── console.py          Shared navigation shell and page dispatch
+├── pages/              One file for each visible sidebar page
+├── guides/             Reusable lessons and learning tools
+├── content/            Route data, teaching content and tutorial annotations
+├── state/              Session helpers, validation and export formats
+├── ui/                 Theme and shared presentation components
+└── examples/           Portable evidence and workflow samples
+```
+
+| Website page | Main file |
 | --- | --- |
-| `Help/app.py` | Standalone entry point and Streamlit page configuration. |
-| `Help/console.py` | Shared section rendering, navigation, forms and session interactions. |
-| `Help/catalog.py` | Path comparisons, guide steps, environment instructions, sources, glossary and expansion checklist. |
-| `Help/journey.py` | Journal schema, validation, JSON import/export and Markdown export. No file persistence. |
-| `Help/theme.py` | Shared visual treatment, responsive capability columns and optional Matrix mode. |
-| `Help/video_routes.py` | Researched task/workflow candidates, input contracts, dependencies, source links and execution limits. |
-| `Help/video_plan.py` | Pure video-plan validation, versioned JSON/Markdown export, take-review state and ordinary v1 journal snapshots. |
-| `Help/video_workshop.py` | Material/change/preserve entry questions, route navigation, preparation guidance, optional comparison playback, take review and finishing plans. |
-| `Help/scene_content.py` | Sourced scene-rewrite approaches, first-shot steps, execution routes and failure notes. |
-| `Help/scene_lab.py` | Dedicated scene mission, nested navigation and worksheet interactions. |
-| `Help/scene_plan.py` | Worksheet validation and export to the existing journal format. |
-| `Help/node_atlas.py` | Curated node definitions, recipe connections, role/search filters and connection explanation. |
-| `Help/model_library.py` | Model discovery, compatible files/loaders, optional Civitai integration guidance and a receipt template. |
-| `Help/prompt_wiring.py` | Shared first-connection lesson for positive and negative CLIP Text Encode instances. |
-| `Help/generation_settings.py` | Model-specific canvas examples, sampler/scheduler mapping and inference-setting checklist. |
-| `Help/tutorial_notes.py` | Episode selector, Ep01 annotations and shared rendering/download of tutorial notes. |
-| `Help/episode_three.py` | Ten timestamped Ep03 observations, practical applications and current primary-source corrections. |
-| `Help/episode_four.py` | Ten Ep04 annotations covering image-to-image, resizing, LoRA loading and controlled comparisons. |
-| `Help/image_edit_lab.py` | Source preparation and LoRA wiring lessons, durable session trial planner and Markdown comparison export. |
-| `Help/additional_guide.py` | Ten annotations from Max Novak's supplied guide, verified source metadata and model/version caveats. Pure content data. |
-| `Help/creative_control_guide.py` | Eleven translated Spanish-video annotations, practical creative comparisons, ASR clarifications and managed-Cloud guidance. Pure content data. |
-| `Help/cfa_learning.py` | Dated, manually reviewed CFA evidence and reusable lessons. No runtime dependency on the sibling repository or account calls. |
-| `Help/video_handoff.py` | Media handoff diagrams, constant-rate timing explorer, dialogue/3D-reference practice and Markdown plan export. |
-| `Help/sampling_lab.py` | Controlled comparison plans, exact seed handling and branch/control guidance. Session-only draft with Markdown export. |
-| `Help/shared_controls.py` | Reusable Primitive fan-out lesson, multi-sampler diagrams, compatibility notes and reference export. |
-| `Help/workflow_files.py` | Dedicated save/load walkthrough, practice editor download, Manager route comparison and reopening checklist. |
-| `Help/workflow_lessons.py` | Seven sourced Episode 2 exercises, observable checkpoints and six concept comparisons. Pure content data. |
-| `Help/workflow_lab.py` | Practice navigation, connection exercises, session draft and workbook/journal snapshot exports. |
-| `Help/workflow_controls.py` | Grouped tutorial/current control reference, action distinctions and portable cheat sheet. |
-| `Help/vae_paths.py` | VAE source/purpose explorer, wiring diagram and portable reference, with image, memory and video paths. |
-| `Help/model_filters.py` | Session filter planner, screenshot filter explanations and a downloadable Civitai search plan. |
-| `Help/cloud_access.py` | Shared Cloud import/access instructions, optional Codex connection guidance, evidence checklist and export. No credential collection or account calls. |
-| `Help/worked_example.py` | Read-only CFA prompt/result comparison, graph downloads and a fixed evidence ZIP. |
-| `Help/examples/cfa_pump_v001/` | Portable PNG, prompt, editor/API graphs, run record, instructions and source/hash manifest. No model weights. |
-| `dashboard/pages/pathfinder.py` | Thin wrapper that embeds the shared renderer in the operations dashboard. |
+| Start here | [pages/start_here.py](pages/start_here.py) |
+| Compare paths | [pages/compare_paths.py](pages/compare_paths.py) |
+| Video workshop | [pages/video_workshop.py](pages/video_workshop.py) |
+| Rewrite a scene | [pages/rewrite_scene.py](pages/rewrite_scene.py) |
+| ComfyUI guide | [pages/comfyui_guide.py](pages/comfyui_guide.py) |
+| Field journal | [pages/field_journal.py](pages/field_journal.py) |
+| Sources & roadmap | [pages/sources_roadmap.py](pages/sources_roadmap.py) |
 
-The dashboard registers the wrapper in `dashboard/app.py`. The standalone app configures its own page; the embedded renderer leaves page configuration to its host.
+Run **`Help/app.py`**, not an individual page module. Streamlit Cloud's app entry remains `Help/app.py`. The standalone launcher uses explicit, hidden `st.navigation` to disable automatic `pages/` discovery and retain Pathfinder's custom grouped sidebar. This requires Streamlit 1.36 or newer. [Streamlit navigation documentation](https://docs.streamlit.io/develop/api-reference/navigation/st.navigation)
+
+The existing [dashboard wrapper](../dashboard/pages/pathfinder.py) still embeds the same console and is registered by `dashboard/app.py`. The embedded renderer leaves page configuration and outer navigation to that host. Neither the reorganization nor the launcher changes the journal/video-plan formats or introduces a CFA runtime dependency. Small evidence assets retain their `Help/examples/` paths.
 
 ## Maintain the guide
 
-For contributions grounded in CFA experiments, read [the current handoff to Nova](CFA_HANDOFF.md), CFA's [latest workflow index and experiment records](../../CFA/docs/notes/explorable_world/comfy/workflows/README.md), the [Video first brief](../../CFA/docs/notes/explorable_world/comfy/PLAYBOOK.md#video-first), and [Nova's September evidence and changes](CFA_FEEDBACK.md). This is a manual handoff, with no automatic repository sync. Review and save changes in their owning repository; a shared conversation does not merge working trees, commits or pushes. The October 4 snapshot distinguishes completed stills pending acceptance, executed input checks and sampling-control dry runs. The pump remains the one packaged worked example in Pathfinder. CFA's first source-video visual transformation remains ahead.
+For contributions grounded in CFA experiments, read [the current handoff to Nova](CFA_HANDOFF.md), CFA's [latest workflow index and experiment records](../../CFA/docs/notes/explorable_world/comfy/workflows/README.md), the [Video first brief](../../CFA/docs/notes/explorable_world/comfy/PLAYBOOK.md#video-first), and [dated feedback and adopted changes](CFA_FEEDBACK.md). This is a manual handoff, with no automatic repository sync. Review and save changes in their owning repository; a shared conversation does not merge working trees, commits or pushes. The October 8 snapshot supersedes the earlier no-video-execution status: video tests have run but have not established an accepted preservation result. The pump remains the one packaged still worked example in Pathfinder; newer media remains in CFA.
 
 Return production findings as a source/result pair, exact graph and model/node versions, measured dimensions/timing/cost, acceptance observations, and one failure or improvement where available. Keep immutable recovered recipes separate from adapted working copies. New general lessons belong here; execution evidence remains canonical in CFA. For Hon Dolo, the next creative decision is review of the clean identity still before detailed finishing and a separate motion/audio experiment. For the optional source-video test, return current Cloud compatibility for one selected route, then one fixed-seed preview and a performance-preservation review before high-resolution finishing. Audio conditioning, source-motion preservation and lip sync require their own evidence.
 
-`Help/catalog.py` separates researched content from the interface. Its principal collections are:
+`Help/content/catalog.py` separates researched content from the interface. Its principal collections are:
 
 - `PATHS`: identity, interaction, strengths, tradeoffs, role in the video project, coverage status and official project URL.
 - `COMFY_TRADEOFFS`: six benefit/cost pairs with concrete mitigation actions and balanced comparisons to the alternatives, shown before setup.
@@ -222,15 +230,15 @@ Return production findings as a source/result pair, exact graph and model/node v
 - `ENVIRONMENT_GUIDES`: setup routes and their tradeoffs.
 - `SOURCES`, `GLOSSARY`, `FUTURE_CHECKLIST`: references, terms and the common remaining work for alternative paths.
 
-Keep claims tied to the exact documented workflow and version scope. The Spanish creative-control notes and CFA evidence snapshot were reviewed **October 4, 2026**; video-route research is dated **October 2, 2026**; much of the retained foundation/tutorial material has the earlier **September 12, 2026** review scope. A newer review does not revalidate every historical source, installed node or model. Keep displayed dates scoped to what was actually checked. Prefer links to current installation instructions over copying package versions that can become stale.
+Keep claims tied to the exact documented workflow and version scope. The eight-resource source register, episode 5–8 follow-ups, prompt/operating lessons, H3 candidate, Spanish creative-control notes and CFA evidence snapshot carry **October 4, 2026** review scope. Earlier LTX/Wan route research is dated **October 2, 2026**; much of the retained foundation/tutorial material has the earlier **September 12, 2026** review scope. A newer review does not revalidate every historical source, installed node or model. Keep displayed dates scoped to what was actually checked. Prefer links to current installation instructions over copying package versions that can become stale.
 
 To flesh out an existing alternative, retain its identity and comparison, add its verified setup and worked example, and then update coverage to match what the console actually supports. Rendering separate walkthroughs for the other tools requires extending the current ComfyUI-oriented UI as well as its content.
 
 To add a path or checkpoint:
 
 1. Add the record to `PATHS` or `STEPS` with a stable ID, clear actions/tradeoffs and relevant official sources.
-2. Update `PATH_IDS` or `STEP_IDS` and their export labels in `journey.py`. The validator accepts the identifiers declared there. Keep output/environment choices aligned if those change.
-3. Update dependent interface details in `console.py`, including the capability rows and any counts or wording tied to the four current paths or seven current checkpoints. Add the corresponding path color treatment in `theme.py` when appropriate.
+2. Update `PATH_IDS` or `STEP_IDS` and their export labels in `state/journey.py`. The validator accepts the identifiers declared there. Keep output/environment choices aligned if those change.
+3. Update the relevant page in `pages/`, including comparison rows or wording tied to the current paths/checkpoints. Navigation changes belong in `console.py`; path colors and shared styling belong in `ui/theme.py`. Use [FILE_MAP.md](FILE_MAP.md) to find shared lessons and content.
 4. Decide how existing JSON exports will migrate. Preserve old IDs where possible; schema changes need an explicit compatibility or migration policy rather than silently dropping fields.
 5. Check navigation, changed content, checkpoint persistence across section changes, and JSON/Markdown export plus JSON restore.
 
@@ -254,6 +262,6 @@ The source locations found and read on this machine are:
 - `D:\Documents\Nyquist_Consciousness\dashboard\Decoration\TIPS_AND_TRICKS.md`
 - `D:\Documents\Nyquist_Consciousness\dashboard\pages\AI_ARMADA.py`
 
-These are design references, not runtime dependencies. The shared implementation is local to `Help/theme.py` and `Help/console.py`.
+These are design references, not runtime dependencies. The shared implementation is local to `Help/ui/theme.py`, `Help/ui/components.py` and the shared `Help/console.py` shell.
 
-The learning inspiration is [pixaroma's ComfyUI Tutorial Series, Ep01 — Introduction and Installation](https://www.youtube.com/watch?v=Zko_s2LO9Wo), published July 9, 2024. Chapter references come from the public video description. The video provides context; current official installation instructions provide the setup guidance. Tool capabilities and the video/mesh branches are sourced in `Help/catalog.py` and exposed in the console's **Sources & roadmap** section.
+The learning inspiration is [pixaroma's ComfyUI Tutorial Series, Ep01 — Introduction and Installation](https://www.youtube.com/watch?v=Zko_s2LO9Wo), published July 9, 2024. Chapter references come from the public video description. The video provides context; current official installation instructions provide the setup guidance. Tool capabilities and the video/mesh branches are sourced in `Help/content/catalog.py` and exposed in the console's **Sources & roadmap** section.

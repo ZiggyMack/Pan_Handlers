@@ -7,6 +7,7 @@ an installed stable frontend; the notes do not claim a workflow was executed.
 
 EPISODE_TITLE = "ComfyUI Tutorial Series: Ep03 - TXT2IMG Basics"
 EPISODE_URL = "https://www.youtube.com/watch?v=g8UlYE_HM2M"
+SOURCE_KEY = "ep3"  # October 4 archive/hash and URL evidence in tutorial_register.
 
 _CORE = "https://github.com/Comfy-Org/ComfyUI/blob/master/nodes.py"
 _SAMPLER = "https://docs.comfy.org/built-in-nodes/sampling/ksampler"

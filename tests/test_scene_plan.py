@@ -3,8 +3,8 @@
 import copy
 import unittest
 
-from Help.journey import dumps_journey, journey_markdown, loads_journey, new_journey, validate_journey
-from Help.scene_plan import (
+from Help.state.journey import dumps_journey, journey_markdown, loads_journey, new_journey, validate_journey
+from Help.state.scene_plan import (
     CHALLENGES, INSPIRATION_URL, new_plan, plan_markdown, plan_to_entry, validate_plan,
 )
 

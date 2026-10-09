@@ -1,13 +1,17 @@
 """Annotated learner transcript bookmarks; no installation or rendering actions."""
 
+import json
+
 import streamlit as st
 
-from Help.catalog import TUTORIAL_URL
-from Help.episode_three import EPISODE_TITLE as EP3_TITLE, EPISODE_URL as EP3_URL, LESSONS as EP3_LESSONS
-from Help.episode_four import EPISODE_TITLE as EP4_TITLE, EPISODE_URL as EP4_URL, LESSONS as EP4_LESSONS
-from Help.additional_guide import GUIDE_TITLE, GUIDE_URL, GUIDE_CREATOR, GUIDE_PROVENANCE, LESSONS as ADDITIONAL_LESSONS
-from Help import creative_control_guide as creative
-from Help import cfa_learning
+from Help.content.catalog import TUTORIAL_URL
+from Help.content.episode_three import EPISODE_TITLE as EP3_TITLE, EPISODE_URL as EP3_URL, LESSONS as EP3_LESSONS, SOURCE_KEY as EP3_SOURCE
+from Help.content.episode_four import EPISODE_TITLE as EP4_TITLE, EPISODE_URL as EP4_URL, LESSONS as EP4_LESSONS, SOURCE_KEY as EP4_SOURCE
+from Help.content.additional_guide import GUIDE_TITLE, GUIDE_URL, GUIDE_CREATOR, GUIDE_PROVENANCE, LESSONS as ADDITIONAL_LESSONS
+from Help.content import creative_control_guide as creative
+from Help.content import cfa_learning
+from Help.content.tutorial_followups import episode_entries
+from Help.content.tutorial_register import SOURCES, register_rows, source_markdown
 
 
 REVIEWED = "September 12, 2026"
@@ -112,7 +116,7 @@ _EPISODES = {
     "ep3": {"label": "Episode 3 · TXT2IMG Basics", "number": 3,
             "title": "Episode 3 · annotated tutorial notes", "download": "Episode 3",
             "filename": "comfyui-episode-3-annotated-notes.md",
-            "url": EP3_URL, "lessons": EP3_LESSONS, "coverage": "00:21–20:26"},
+            "url": EP3_URL, "lessons": EP3_LESSONS, "coverage": "00:21–20:26", "source_key": EP3_SOURCE},
     "additional": {"label": "Max Novak · Video, audio and editing workflows",
                    "title": GUIDE_TITLE + " · annotated notes", "download": "Max Novak guide",
                    "filename": "comfyui-max-novak-annotated-notes.md",
@@ -121,12 +125,16 @@ _EPISODES = {
     "ep4": {"label": "Episode 4 · IMG2IMG and LoRA Basics", "number": 4,
             "title": "Episode 4 · annotated tutorial notes", "download": "Episode 4",
             "filename": "comfyui-episode-4-annotated-notes.md",
-            "url": EP4_URL, "lessons": EP4_LESSONS, "coverage": "00:00–17:21"},
+            "url": EP4_URL, "lessons": EP4_LESSONS, "coverage": "00:00–17:21", "source_key": EP4_SOURCE},
     "nkd": {"label": "Spanish creator · Creative control / NKD", "title": creative.GUIDE_TITLE,
             "download": "Spanish creative-control guide", "filename": "comfyui-creative-control-translated-notes.md",
             "url": creative.GUIDE_URL, "lessons": creative.LESSONS, "coverage": "00:00–13:53",
             "provenance": creative.GUIDE_PROVENANCE, "reviewed": creative.REVIEWED},
 }
+_EPISODES.update(episode_entries())
+_EPISODES = {key: _EPISODES[key] for key in (
+    "ep1", "ep3", "ep4", "ep5", "ep6", "ep7", "ep8", "additional", "nkd", "h3", "comparison"
+)}
 
 
 def _video_link(seconds, label=None, url=TUTORIAL_URL):
@@ -144,6 +152,8 @@ def notes_markdown(episode="ep1"):
         selected.get("provenance", f"Based on the learner-supplied {selected['coverage']} transcript. Historical demonstrations are separate from current instructions."),
         "", f"Primary references reviewed {selected.get('reviewed', REVIEWED)}. These notes do not confirm an installation or generated result.", "",
     ]
+    if selected.get("source_key"):
+        lines.extend([source_markdown(selected["source_key"]), ""])
     if episode == "nkd":
         lines.extend([creative.practice_markdown(), "## CFA lessons already supported by records", "",
                       cfa_learning.SUMMARY, "", "Source record: " + cfa_learning.SOURCE_PATH, ""])
@@ -162,8 +172,28 @@ def notes_markdown(episode="ep1"):
         ])
         if lesson.get("related"):
             lines.extend(["Related moments: " + " · ".join(_video_link(seconds, _stamp(seconds) + " · " + label, selected["url"]) for seconds, label in lesson["related"]), ""])
-        lines.extend(["References: " + " · ".join(f"[{title}]({url})" for title, url in lesson["sources"]), ""])
+        if lesson["sources"]:
+            lines.extend(["References: " + " · ".join(f"[{title}]({url})" for title, url in lesson["sources"]), ""])
     return "\n".join(lines)
+
+
+def _source_context(selected, key_prefix):
+    source_key = selected.get("source_key")
+    if source_key:
+        source = SOURCES[source_key]
+        if source["url"]:
+            st.markdown(f"[Open source video]({source['url']})")
+        else:
+            st.info("The supplied transcript is archived; its original video URL remains unresolved. Timestamps below refer to that transcript.")
+        st.caption(source["url_basis"])
+    with st.expander("Source register · eight CFA tutorial resources"):
+        st.caption("Reviewed October 4, 2026. Source records preserve provenance; neither a tutorial nor catalog presence proves a working account recipe.")
+        st.table(register_rows())
+        if source_key:
+            st.markdown(source_markdown(source_key))
+        st.download_button("Download source register", json.dumps(SOURCES, ensure_ascii=False, indent=2),
+                           file_name="comfyui-tutorial-source-register.json", mime="application/json",
+                           key=key_prefix + "_sources_download")
 
 
 def _creative_context():
@@ -201,6 +231,7 @@ def render(key_prefix="help_tutorial_notes", initial_episode="nkd"):
                            format_func=lambda value: _EPISODES[value]["label"], key=key_prefix + "_episode")
     selected = _EPISODES[episode]
     st.caption(f"Captured from your supplied {selected['coverage']} transcript. Each bookmark separates the historical demonstration from instructions to apply now.")
+    _source_context(selected, key_prefix)
     if episode == "nkd":
         _creative_context()
     if episode == "ep3" and EP3_URL:
@@ -213,6 +244,14 @@ def render(key_prefix="help_tutorial_notes", initial_episode="nkd"):
     if episode == "ep4":
         st.markdown(f"[{EP4_TITLE}]({EP4_URL})")
         st.info("Try 07 / Workflow lab → Image to image: prepare the reference, compare denoise, then wire a compatible LoRA through MODEL and CLIP. Node Atlas includes the full image-to-image recipe and its optional LoRA insertion.")
+    if episode in ("ep5", "ep6", "ep7"):
+        st.info("Practice in Workflow anatomy → Node map → Beyond two prompts · composition and styles: share raw strings across text inputs, compare string concatenation with encoded conditioning, and inspect the effective prompt with optional styles off.")
+    if episode == "ep8":
+        st.info("This is the historical FLUX.1 lesson. Keep its packages, precision and adapters separate from our FLUX.2 Klein reference editor. Continue in Workflow lab → Image to image and Workflow anatomy → Save & load for those practical handoffs.")
+    if episode == "comparison":
+        st.info("Continue in Video workshop → 03 / Preview & compare. Use the existing take record for outputs, matched timecodes, preservation checks, rejection reasons and acceptance. This transcript supplies review questions, not our benchmark results or current prices.")
+    if episode == "h3":
+        st.info("Continue in Video workshop for candidate selection and current H3 requirements. This source lesson records media roles; a discovered template is not a validated or executed video workflow.")
     st.caption("Episode 2's guided exercises and control map are in 07 / Workflow lab.")
     st.table({"Time": [_stamp(lesson["seconds"]) for lesson in selected["lessons"]],
               "Lesson": [lesson["takeaway"] for lesson in selected["lessons"]]})
@@ -227,7 +266,8 @@ def render(key_prefix="help_tutorial_notes", initial_episode="nkd"):
             st.write(lesson["keep"])
             if lesson.get("related"):
                 st.markdown("Related moments: " + " · ".join(_video_link(seconds, _stamp(seconds) + " · " + label, selected["url"]) for seconds, label in lesson["related"]))
-            st.markdown("References: " + " · ".join(f"[{title}]({url})" for title, url in lesson["sources"]))
+            if lesson["sources"]:
+                st.markdown("References: " + " · ".join(f"[{title}]({url})" for title, url in lesson["sources"]))
     st.download_button(f"Download annotated {selected['download']} notes", notes_markdown(episode),
                        file_name=selected["filename"], mime="text/markdown",
                        key=key_prefix + "_download")

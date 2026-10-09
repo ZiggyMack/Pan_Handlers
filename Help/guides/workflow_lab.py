@@ -6,10 +6,10 @@ import re
 
 import streamlit as st
 
-from Help.workflow_lessons import CONCEPTS, EPISODE_TITLE, EPISODE_URL, LESSONS
-from Help.workflow_controls import render as render_workflow_controls
-from Help.video_handoff import render as render_video_handoff
-from Help.image_edit_lab import render as render_image_edit_lab
+from Help.content.workflow_lessons import CONCEPTS, EPISODE_TITLE, EPISODE_URL, LESSONS
+from Help.guides.workflow_controls import render as render_workflow_controls
+from Help.guides.video_handoff import render as render_video_handoff
+from Help.guides.image_edit_lab import render as render_image_edit_lab
 
 
 _STATE_KEY = "help_workflow_lab_draft"

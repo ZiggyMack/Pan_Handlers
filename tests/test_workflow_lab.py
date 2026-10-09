@@ -12,9 +12,9 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from Help.journey import MAX_ENTRIES, dumps_journey, loads_journey, new_journey
-from Help.workflow_lab import new_workbook, workbook_entry, workbook_markdown
-from Help.workflow_lessons import LESSONS
+from Help.state.journey import MAX_ENTRIES, dumps_journey, loads_journey, new_journey
+from Help.guides.workflow_lab import new_workbook, workbook_entry, workbook_markdown
+from Help.content.workflow_lessons import LESSONS
 
 
 class WorkflowLabTests(unittest.TestCase):

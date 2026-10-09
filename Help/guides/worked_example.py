@@ -8,7 +8,7 @@ from zipfile import ZIP_DEFLATED, ZipFile
 import streamlit as st
 
 
-CASE_DIR = Path(__file__).resolve().parent / "examples" / "cfa_pump_v001"
+CASE_DIR = Path(__file__).resolve().parents[1] / "examples" / "cfa_pump_v001"
 CASE_FILES = (
     "README.md", "manifest.json", "pump_concept_v001.png",
     "pump_concept_prompt.txt", "pump_concept_v001.record.json",

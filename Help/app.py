@@ -13,6 +13,10 @@ if str(ROOT) not in sys.path:
 from Help.console import render
 
 
+def _console_page():
+    render(standalone=True)
+
+
 def main():
     st.set_page_config(
         page_title="Pathfinder | Pan Handlers",
@@ -20,7 +24,10 @@ def main():
         layout="wide",
         initial_sidebar_state="expanded",
     )
-    render(standalone=True)
+    # Explicit registration keeps pages/ as importable modules for our custom
+    # sidebar, rather than exposing additional, automatically discovered routes.
+    page = st.Page(_console_page, title="Pathfinder | Pan Handlers", icon="🧭", default=True)
+    st.navigation([page], position="hidden").run()
 
 
 if __name__ == "__main__":

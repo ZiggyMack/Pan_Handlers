@@ -6,7 +6,8 @@ import re
 
 import streamlit as st
 
-from Help.episode_four import EPISODE_TITLE, EPISODE_URL
+from Help.content.episode_four import EPISODE_TITLE, EPISODE_URL
+from Help.guides import workflow_decision
 
 
 _STATE = "help_image_edit_draft"
@@ -76,7 +77,7 @@ def _md(value):
     return re.sub(r"([\\`*_{}\[\]()#+.!|~>-])", r"\\\1", escape(str(value), quote=False))
 
 
-def plan_markdown(draft, trials):
+def plan_markdown(draft, trials, decision=None):
     fields = ["denoise", "strength_model", "strength_clip"] if draft["lora_enabled"] else ["denoise"]
     lines = ["# Image-to-image comparison plan", "", "Planned settings only; no generated image or preservation score is implied.", "",
              "Baseline workflow / exact model and LoRA version: " + _md(draft["recipe"] or "Not recorded"),
@@ -98,6 +99,8 @@ def plan_markdown(draft, trials):
                   "For a separate LoRA on/off comparison, hold the prompt and all other controls fixed and bypass the whole adapter or set both strengths to zero, checking the model and CLIP routes.", "",
                   "Keep the input, outputs, workflow and exact dependency versions together. Record actual observations in My workbook or Field journal; the plan itself does not mark progress complete.", "",
                   f"[Image-to-image example]({_IMG2IMG}) · [LoRA example]({_LORA}) · [Node definitions]({_CORE})", ""])
+    if decision is not None:
+        lines.extend([workflow_decision.decision_markdown(decision)])
     return "\n".join(lines)
 
 
@@ -180,9 +183,17 @@ def _compare():
     st.info("For A, B and C, keep the same prepared input, fixed seed, prompts, resize/crop, files and all other controls. Give each result its own output name. Shared Primitive controls can hold the fixed values across multiple KSamplers; leave the comparison variable independent.")
     if use_lora:
         st.caption("For a separate LoRA on/off test, bypass the entire adapter or set both strengths to zero while preserving the same prompt. Zero model strength with active CLIP strength is not a full off baseline.")
-    st.download_button("Download this image-edit comparison", plan_markdown(_draft(), trials),
+    st.caption("Use A and one alternative B for the first check; C is optional. None of these rows queues a Cloud job. Keep the original prepared source for every comparison.")
+    workflow_decision.render_operating_steps()
+    decision = workflow_decision.render(
+        "help_image_edit_decision",
+        "ComfyUI guide / Workflow lab / Image to image / Compare edits; Episode 4. "
+        "https://www.youtube.com/watch?v=xedwjtaPVzw ; CFA Image Refinement SDXL v2 is validated, not rendered. "
+        "Help/CFA_TUTORIAL_LEDGER.md PH TUT 04; reviewed October 4, 2026.",
+    )
+    st.download_button("Download this image-edit comparison", plan_markdown(_draft(), trials, decision),
                        file_name="comfyui-image-edit-comparison.md", mime="text/markdown", key="help_image_edit_download")
-    st.caption("The draft survives navigation in this session. Download this plan to keep it; it is not automatically included in journey JSON. Record actual outputs, failures and drift in My workbook or Field journal.")
+    st.caption("The draft and optional outcome notes survive navigation in this session. Download them to keep them; they are not automatically included in journey JSON. Actual outputs and failures stay separate from the proposed trial settings and do not establish acceptance.")
 
 
 def render():

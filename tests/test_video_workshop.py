@@ -5,8 +5,8 @@ import unittest
 
 from streamlit.testing.v1 import AppTest
 
-from Help.journey import dumps_journey, loads_journey
-from Help.video_plan import current_accepted, dumps_plan, loads_plan, route_for
+from Help.state.journey import dumps_journey, loads_journey
+from Help.state.video_plan import current_accepted, dumps_plan, loads_plan, route_for
 
 
 APP = Path(__file__).resolve().parents[1] / "Help" / "app.py"
@@ -84,6 +84,7 @@ class VideoWorkshopTests(unittest.TestCase):
         accepted = current_accepted(app.session_state["help_video_plan"])
         self.assertEqual(accepted["id"], "take-002")
         self.assertEqual(len(app.session_state["help_video_plan"]["takes"]), 2)
+
         exported = dumps_plan(app.session_state["help_video_plan"])
         self.assertEqual(current_accepted(loads_plan(exported))["id"], "take-002")
         app.text_area(key="help_video_work_brief").set_value("Now change the setting too.").run()
@@ -99,6 +100,26 @@ class VideoWorkshopTests(unittest.TestCase):
         self.nav(app, "Video workshop")
         self.assertEqual(len(app.session_state["help_video_plan"]["takes"]), 2)
 
+    def test_new_lessons_and_candidate_leave_plan_and_journal_unchanged(self):
+        app = self.app()
+        self.nav(app, "Video workshop")
+        before_plan = dumps_plan(app.session_state["help_video_plan"])
+        before_journal = dumps_journey(app.session_state["help_journey"])
+        self.assertTrue(any("MiniMax H3" in expander.label for expander in app.expander))
+        app.selectbox(key="help_video_lesson").select("tutorials").run()
+        self.check(app)
+        self.assertEqual(app.selectbox(key="help_video_source_notes_episode").value, "ep8")
+        app.selectbox(key="help_video_source_notes_episode").select("comparison").run()
+        self.check(app)
+        app.selectbox(key="help_video_lesson").select("prompts").run()
+        app.text_area(key="help_video_prompt_composition_instruction").set_value("Keep the performance.").run()
+        self.nav(app, "Field journal")
+        self.nav(app, "Video workshop")
+        app.selectbox(key="help_video_lesson").select("prompts").run()
+        self.check(app)
+        self.assertEqual(app.text_area(key="help_video_prompt_composition_instruction").value, "Keep the performance.")
+        self.assertEqual(dumps_plan(app.session_state["help_video_plan"]), before_plan)
+        self.assertEqual(dumps_journey(app.session_state["help_journey"]), before_journal)
 
 if __name__ == "__main__":
     unittest.main()

@@ -4,12 +4,16 @@ from math import isclose
 
 import streamlit as st
 
-from Help.scene_content import (
+from Help.content.scene_content import (
     COMFY_RECIPE, EDITING_APPROACHES, EXECUTION_ROUTES, FAILURES,
     FAST_STEPS, INSPIRATION, REHEARSAL, SCENE_SOURCES,
 )
-from Help.scene_plan import new_plan, plan_markdown, plan_to_entry, validate_plan
-from Help.node_atlas import render_recipe_nodes
+from Help.state.scene_plan import new_plan, plan_markdown, plan_to_entry, validate_plan
+from Help.guides.node_atlas import render_recipe_nodes
+from Help.guides.video_handoff import render_soundtrack_case, soundtrack_case_markdown
+
+from Help.state.session import append_journal_entry
+from Help.ui.components import hero, route_strip
 
 
 APPROACH_NAMES = {item["id"]: item["name"] for item in EDITING_APPROACHES}
@@ -78,7 +82,7 @@ def _guide_markdown():
                       f'Next test: {failure["fix"]}', ""])
     lines.extend(["", "## Sources", ""])
     lines.extend(f'- [{item["title"]}]({item["url"]}) — {item["note"]}' for item in SCENE_SOURCES)
-    lines.extend(["", "## Inspiration", "", INSPIRATION["url"], "", INSPIRATION["access_note"], ""])
+    lines.extend(["", "## Inspiration", "", INSPIRATION["url"], "", INSPIRATION["access_note"], "", soundtrack_case_markdown()])
     return "\n".join(lines)
 
 
@@ -86,6 +90,7 @@ def _intent():
     st.subheader("Keep the scene. Change what is said.")
     st.write("The target is an existing shot with a new scripted performance: preserve its recognizable composition, camera, cast and setting while changing the dialogue. Lip sync can adapt the visible mouth to that audio; editing and sound work make the result feel like a scene.")
     st.info("Editable 3D geometry is a separate branch. You can begin this mission with a video clip and replacement speech.")
+    render_soundtrack_case()
     fit, difficulty, reference = st.tabs(["What stays / what changes", "How hard is it?", "The inspiration"])
     with fit:
         st.table({
@@ -240,8 +245,16 @@ def _failure_lab():
             st.write(source["note"])
 
 
-def render(save_entry):
+def _render_lab(save_entry):
     tabs = st.tabs(["01 / Understand the target", "02 / Fast path", "03 / ComfyUI recipe", "04 / Shot worksheet", "05 / Failure lab"])
     for tab, renderer in zip(tabs, (_intent, _fast_path, _recipe, lambda: _worksheet(save_entry), _failure_lab)):
         with tab:
             renderer()
+
+
+def render():
+    hero("RELATED BRANCH / SCENE DIALOGUE REWRITE", "Same scene. New dialogue.",
+          "Understand what to preserve, what to replace, and how to turn one short experiment into a recipe someone else can follow.")
+    route_strip()
+    st.caption("Start with the editing approach; choose tools for its individual stages. The ComfyUI foundations remain available alongside this dedicated mission.")
+    _render_lab(append_journal_entry)

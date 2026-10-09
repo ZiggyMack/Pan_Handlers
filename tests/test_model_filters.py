@@ -11,14 +11,14 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from Help.journey import dumps_journey, loads_journey
-from Help.model_filters import _plan_markdown
+from Help.state.journey import dumps_journey, loads_journey
+from Help.guides.model_filters import _plan_markdown
 
 
 _APP = """
 import streamlit as st
-from Help.journey import new_journey
-from Help.model_filters import render
+from Help.state.journey import new_journey
+from Help.guides.model_filters import render
 
 if 'help_journey' not in st.session_state:
     journey = new_journey()

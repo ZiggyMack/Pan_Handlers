@@ -2,7 +2,7 @@
 
 import streamlit as st
 
-from Help.catalog import TUTORIAL_URL
+from Help.content.catalog import TUTORIAL_URL
 
 
 _SIZES = {

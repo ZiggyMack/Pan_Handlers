@@ -7,6 +7,7 @@ AppTest executes the real Streamlit entry point without a browser or server.
 from pathlib import Path
 import sys
 import unittest
+from unittest.mock import patch
 
 from streamlit.testing.v1 import AppTest
 
@@ -15,11 +16,11 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from Help.journey import dumps_journey, loads_journey
+from Help.state.journey import dumps_journey, loads_journey
 
 APP = ROOT / "Help" / "app.py"
 SECTIONS = (
-    "Start here", "Video workshop", "Rewrite a scene", "Compare paths", "ComfyUI guide", "Field journal", "Sources & roadmap"
+    "Start here", "Video workshop", "Collaborators", "Rewrite a scene", "Compare paths", "ComfyUI guide", "Field journal", "Sources & roadmap"
 )
 
 
@@ -54,6 +55,28 @@ class HelpConsoleTests(unittest.TestCase):
                     theme = "matrix" if matrix else "ledger"
                     self.assertIn(f'data-help-theme="{theme}"', rendered)
                     self.assertIn("help-hero", rendered)
+
+    def test_embedded_dashboard_keeps_navigation_and_journal_across_pages(self):
+        # Match the script-directory path supplied by `streamlit run dashboard/app.py`.
+        dashboard_path = patch.object(sys, "path", [str(ROOT / "dashboard"), *sys.path])
+        dashboard_path.start()
+        self.addCleanup(dashboard_path.stop)
+        app = AppTest.from_file(str(ROOT / "dashboard" / "app.py"), default_timeout=20)
+        app.session_state["current_page"] = "🧭 Pathfinder"
+        app.session_state["matrix_mode"] = True
+        app.run()
+        self.assert_no_exception(app)
+        app.text_input(key="help_widget_goal").set_value("Keep this embedded project brief").run()
+        before = loads_journey(dumps_journey(app.session_state["help_journey"]))
+        for section in SECTIONS:
+            with self.subTest(section=section):
+                app.radio(key="help_section").set_value(section).run()
+                self.assert_no_exception(app)
+                self.assertEqual(app.session_state["help_journey"], before)
+                self.assertFalse(any(button.key == "help_nav_" + section for button in app.button))
+                self.assertTrue(any('data-help-theme="matrix"' in element.value for element in app.markdown))
+        app.radio(key="help_section").set_value("Start here").run()
+        self.assertEqual(app.text_input(key="help_widget_goal").value, before["goal"])
 
     def test_shot_and_output_choice_survive_leaving_the_page(self):
         app = self.new_app()

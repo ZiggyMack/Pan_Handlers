@@ -2,7 +2,7 @@
 
 import streamlit as st
 
-from Help.workflow_lessons import EPISODE_URL
+from Help.content.workflow_lessons import EPISODE_URL
 
 
 SOURCES = {

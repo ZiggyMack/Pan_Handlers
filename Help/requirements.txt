@@ -1,2 +1,2 @@
 # Also runs as a page within dashboard/app.py.
-streamlit>=1.32,<2
+streamlit>=1.36,<2

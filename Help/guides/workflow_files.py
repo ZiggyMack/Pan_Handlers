@@ -2,8 +2,8 @@
 
 import streamlit as st
 
-from Help.catalog import TUTORIAL_URL
-from Help.worked_example import CASE_DIR
+from Help.content.catalog import TUTORIAL_URL
+from Help.guides.worked_example import CASE_DIR
 
 
 _FIRST = "https://docs.comfy.org/get_started/first_generation"
@@ -25,6 +25,8 @@ VERIFY_ROWS = (
     ("Model and components", "Exact model/version and file role; matching text encoder, VAE and any LoRA or ControlNet; loader compatibility."),
     ("Generation preset", "Width/height, sampler, scheduler, steps, CFG, seed value and fixed/randomize control; denoise and model-specific controls where present."),
     ("Inputs and environment", "Source images/audio/video, missing custom-node packages and versions, and local versus Cloud availability."),
+    ("Effective compiled settings", "Trace linked controls and inspect resolved prompt/model/sampling values in the current compiled graph. Stale named-widget values or old embedded API metadata can disagree with the visible canvas."),
+    ("Output branches after reopening", "Reopen the actual exported editor JSON in a separate tab. Check shared wires, fixed seed control, active/muted Preview and Save nodes, and distinct output prefixes."),
 )
 
 BOOKMARKS = (
@@ -70,7 +72,9 @@ def checklist_markdown():
         "## My reopening evidence", "",
         "- Workflow filename and version:", "- Loaded model/variant and preset:",
         "- Missing files or nodes, if any:", "- Copy saved before changes:",
-        "- Actual run/output result, only if tested:", "",
+        "- Effective compiled settings / exact graph revision:", "- Active outputs and unique prefixes:",
+        "- Actual run/output result, only if tested:", "- Next decision and reason:", "",
+        "Reopening checks the saved graph; it does not execute or accept a result. In the Controlled experiment or Image-to-image comparison, keep problem, lesson/source, recipe rationale, one changed variable, success check and self-reported outcome with the downloadable plan. Journal v1 stays separate.", "",
         "## Tutorial bookmarks", "", _bookmarks_markdown(), "",
         "These moments describe the learner's 2024 tutorial. Use current menu and installation guidance for your version.", "",
         "## Official references", "",

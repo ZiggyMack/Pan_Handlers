@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from Help.image_edit_lab import build_trials, plan_markdown
+from Help.guides.image_edit_lab import build_trials, plan_markdown
 
 
 def sample_plan():
@@ -55,8 +55,8 @@ class ImageEditTests(unittest.TestCase):
     def test_optional_lora_and_navigation_preserve_the_draft_and_journal(self):
         script = """
 import streamlit as st
-from Help.image_edit_lab import render
-from Help.journey import new_journey
+from Help.guides.image_edit_lab import render
+from Help.state.journey import new_journey
 if 'help_journey' not in st.session_state:
     st.session_state['help_journey'] = new_journey()
 if st.radio('Page', ['Lesson', 'Elsewhere'], key='test_page') == 'Lesson':

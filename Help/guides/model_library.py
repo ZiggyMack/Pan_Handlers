@@ -6,10 +6,10 @@ blank receipt template; it never downloads models or contacts a model service.
 
 import streamlit as st
 
-from Help.catalog import TUTORIAL_URL
-from Help.cloud_access import ACCESS_SOURCES, render as render_cloud_access
-from Help.model_filters import render as render_model_filters
-from Help.generation_settings import render as render_generation_settings
+from Help.content.catalog import TUTORIAL_URL
+from Help.guides.cloud_access import ACCESS_SOURCES, render as render_cloud_access
+from Help.guides.model_filters import render as render_model_filters
+from Help.guides.generation_settings import render as render_generation_settings
 
 
 MODEL_TUTORIAL_BOOKMARK = {
