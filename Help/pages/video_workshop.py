@@ -9,7 +9,7 @@ from Help.state.video_plan import (
     contradictions, add_take, accept_take, current_accepted, dumps_plan,
     loads_plan, plan_markdown, plan_entry,
 )
-from Help.content.video_routes import ROUTES, FINISHING
+from Help.content.video_routes import ROUTES, FINISHING, RESEARCH_DATE
 from Help.content import cfa_learning
 from Help.guides.video_handoff import render_h3_candidate
 
@@ -47,7 +47,7 @@ def _guardian():
         material="video", change="look", preserve=["motion", "camera", "identity", "contact"],
         source=GUARDIAN, reference="",
         brief="The same woman-and-wolf encounter in cool, overcast daylight. Keep both subjects, their scale, positions, gesture timing, contact and camera movement. Believable skin, fur and fabric. Change the atmosphere only.",
-        clip_notes="CFA source receipt: 1088 x 1920; 193 frames at 24 fps; 8.042 s; audio track present. SHA256 3f2be3389bbf36c9e83927ac43b4f8181de836a6ddecefb629bac1756169678a (bytes rechecked October 2). Full playback and audio review still needed. Select one continuous 4–8-second gesture and record its exact in/out points before preparing inputs.",
+        clip_notes="CFA source receipt: references/wolf_care_v001.intake.md (bytes and hash rechecked October 2; portrait 1088 x 1920 at 24 fps, about eight seconds, audio present). Full playback and audio review still needed. Select one continuous 4–8-second gesture and record its exact in/out points before preparing inputs.",
         workflow_revision="", environment_notes="", settings="", estimate="",
     )
 
@@ -75,7 +75,9 @@ def _route_card():
         f'<h3>{escape(route["title"])}</h3><p>{escape(route["why"])}</p></div>',
         unsafe_allow_html=True,
     )
-    st.caption(route["kind"] + " · Research checked October 2, 2026 · Your Cloud workspace is not checked by this guide.")
+    st.caption(route["kind"] + " · Official documentation checked " + RESEARCH_DATE + " · Your Cloud workspace is not checked by this guide.")
+    if route.get("evidence"):
+        st.caption("CFA evidence, records reviewed " + cfa_learning.REVIEWED + ": " + route["evidence"])
     st.write(route["caveat"])
     return route
 
@@ -180,6 +182,7 @@ def _review_tab():
                     else:
                         st.video(upload.getvalue())
     st.write("Keep one fixed baseline. Record every attempted take, including failures; change one control or input for the next comparison. A beautiful frame with changed performance does not pass a motion-preservation brief.")
+    st.caption("CFA's worked example, October 4: the native image-to-video take decoded 97 frames at 24 fps and 960 × 512 although the selector label said 16:9; twelve sampled frames showed long eye closures and smile drift; full-speed playback and audio review are still pending, so the take is recorded, not accepted. Record the measured dimensions and the pending checks the same way here. The lesson and record are under Where we actually stand.")
     with st.expander("Borrow a model comparison, then test our own brief"):
         st.markdown(
             "1. Keep the same source excerpt, intended change and preservation checks. Record each model's exact recipe and reference roles.\n"

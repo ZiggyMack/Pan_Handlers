@@ -93,4 +93,4 @@ def render_operating_steps():
     with st.expander("Small exercise: copy → inspect inputs → compare → reopen"):
         for number, step in enumerate(OPERATING_STEPS, 1):
             st.markdown(f"**{number}.** {step}")
-        st.caption("CFA operating notes reviewed October 4, 2026. These are instructions to carry out deliberately in your own Cloud workflow, not actions performed here.")
+        st.caption("CFA operating notes reviewed October 4, 2026. These are instructions to carry out deliberately in your own Cloud workflow, not actions performed here. When the baseline is someone else's finished video rather than your own run, separate what was observed from what was inferred first: Collaborators > 02 / Preserve or explore > Observed scene versus inferred method.")

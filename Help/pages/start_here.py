@@ -2,6 +2,7 @@
 
 import streamlit as st
 
+from Help.content import cfa_learning
 from Help.content.catalog import REQUIREMENTS_BOOKMARK, TUTORIAL_URL
 from Help.pages.video_workshop import render_entry
 from Help.state.journey import OUTPUT_KINDS
@@ -13,7 +14,8 @@ def render():
     path_cards()
     hero("VIDEO FIRST / THE NEXT EXPERIMENT", "Keep the performance. Change the world.",
           "Start with your source material, borrow the right workflow, and work toward one convincing shot before finishing it in HD and 4K.")
-    st.caption("PROJECT MEMORY / October 8 CFA records: video-control tests executed but failed strict preservation; local soundtrack swap preserved the picture. Lip-sync and an accepted finished video remain ahead.")
+    st.caption("PROJECT MEMORY / CFA records reviewed " + cfa_learning.REVIEWED + ": "
+               + cfa_learning.SUMMARY.split(". ")[0] + ". Current states are in Video workshop > Where we actually stand.")
     render_entry(go)
     st.divider()
     left, right = st.columns([1.5, 1], gap="large")

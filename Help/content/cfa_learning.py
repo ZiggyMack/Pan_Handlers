@@ -1,12 +1,14 @@
 """Dated CFA findings for teaching; no account calls or sibling-repo reads.
 
-This static snapshot reflects local CFA records reviewed on October 8, 2026.
-The October 4 still-workflow lessons remain dated historical examples.
-It does not verify the learner's current account or installed node catalog.
-Evidence paths are relative to Help and are references, not runtime inputs.
+This static snapshot reflects local CFA records reviewed on October 8, 2026,
+plus the October 9 teaching delta (CFA's POST_014508_DELTA.txt) adopted on
+October 10. The October 4 still-workflow lessons remain dated historical
+examples. It does not verify the learner's current account or installed node
+catalog. Evidence paths are relative to Help and are references, not runtime
+inputs. Dated production states are source material, not current facts.
 """
 
-REVIEWED = "October 8, 2026"
+REVIEWED = "October 9, 2026 · delta adopted October 10"
 SOURCE_PATH = "D:/Documents/CFA/docs/notes/explorable_world/comfy/workflows/README.md"
 COLLABORATOR_RECORD = "../../CFA/docs/notes/explorable_world/comfy/projects/collaborators/comfy_workflows.json"
 SUMMARY = (
@@ -15,7 +17,12 @@ SUMMARY = (
     "strict preservation of the source details. A separate local soundtrack swap preserved "
     "all 240 picture frames and their timestamps; its Cloud assembly graph is saved and "
     "server-converted but unexecuted. Lip-sync is a separate unexecuted candidate. "
-    "Earlier still-workflow lessons remain below with their October 4 scope. "
+    "Through October 9, Grok's Lisan 500 pack, five-archive Hon return and benchmark and "
+    "mouth kits are verified received locally as review candidates, while the head library "
+    "and the later mouth-macro set remain provider reports; a Seedance 2.5 first-frame "
+    "recipe is saved but unexecuted, and the opening-shot collaborator benchmark is "
+    "prepared with zero video turns. Earlier still-workflow lessons remain below with "
+    "their October 4 scope. "
     "This is a review of saved records, not a new account check or fresh media inspection."
 )
 
@@ -73,12 +80,50 @@ STATUS_ROWS = [
         "Status": "Separate Sync editor prepared for a provisional 2.375-second source/vocal interval. Not executed or accepted; exact lyric selection, suitable vocal signal, live compatibility and an account quote remain to be checked. Soundtrack replacement is not lip-sync.",
     },
     {
+        "Evidence": "October 9 · Grok returns verified locally",
+        "Status": "The Lisan 500 pack (500 unique sources plus 50 contact sheets; every input and output hash and image decode verified), the five-archive Hon return (115 unique files, 86 images, including 17 outfit gun variants and ten first-round boss proofs) and the benchmark and mouth kits (117 unique files) passed CRC, size, hash and decode checks. All are review candidates. No new accepted master, no prompt sent, no generation.",
+    },
+    {
+        "Evidence": "October 9 · Seedance 2.5 first-frame candidate",
+        "Status": "The official first-frame graph is saved unchanged (four nodes, three links, five seconds, two example images, audio on) beside a local recipe for a future eight-second, 720p, first-frame-only, audio-off comparison on the common frame. Cloud availability, live node schema, compiled inputs, account access and quote are unverified. Deferred; it adds no run.",
+    },
+    {
+        "Evidence": "October 9 · Opening-shot collaborator benchmark",
+        "Status": "Gemini, Flow, Grok and Comfy are to be compared on one identical selected frame: four short service takes first, at most three later Flow variants, plus a separate ChatGPT built-in image entry and a scene/detail capability map whose cells stay empty until evidence exists. One Grok starting still was pending; no generation, upload, score or spend. Reuses the saved LTX-2.5 image-to-video graph and the existing intake and run-record templates.",
+    },
+    {
+        "Evidence": "October 9 · Head library and mouth standard",
+        "Status": "A reusable head-and-shoulders library is the adopted default: 130 unique head slots (50 front states plus 20 states × 4 extra views) with 50 separate mouth macros. The provider later proposed 150 or 170 and reported all 50 macros complete in VIS-HD_v003 as needs-review. Live user confirmation fixed four upper gold caps, white central incisors and lower silver. Counts and quality remain provider reports until received and reviewed.",
+    },
+    {
+        "Evidence": "October 8 · Mouth-continuity plan (carried in the October 9 delta)",
+        "Status": "Planned, not executed: a non-generative exposure-only comparison on the retained source for lighting; separately one Gemini close-up neutral/smile/spoken-line proof, then at most one same-prompt comparison adding an exact mouth crop if the live interface supports that role. Two stochastic takes count as exploratory evidence only.",
+    },
+    {
         "Evidence": "Finishing and video",
-        "Status": "Executed motion and relighting tests now exist, with the review limits above. No accepted Comfy decorated identity master, rap lip-sync result or accepted HD/4K video master is established by these records. H3 template discovery does not establish execution.",
+        "Status": "Executed motion and relighting tests now exist, with the review limits above. No accepted Comfy decorated identity master, rap lip-sync result or accepted HD/4K video master is established by these records. H3 template discovery does not establish execution. Through October 9 the opening benchmark had no accepted starting frame and zero video turns.",
     },
 ]
 
 LESSONS = (
+    {
+        "title": "Choose first-frame or reference conditioning on purpose",
+        "observation": "October 9: CFA saved the official Seedance 2.5 first-frame graph unchanged through Comfy Partner Nodes and wrote a recipe for a future eight-second, 720p, first-frame-only, audio-off comparison on the benchmark's common frame. Cloud availability, the live node schema, compiled inputs, account access and the quote were not verified, so the candidate is deferred and the run count is unchanged.",
+        "apply": "Before picking a graph, say whether the job is a new rendition, a targeted edit or an upscale, and whether the input fixes the opening frame or only conditions appearance. A first-frame recipe and a reference-image role are different inputs with different failure modes. Historical best-of-many image baselines are not matched one-shot scores for a new model. A Seedance extension returns a new segment; it is not an automatically cumulative video.",
+        "evidence": "../../CFA/docs/notes/explorable_world/comfy/workflows/seedance_2_5_20261009.README.txt",
+    },
+    {
+        "title": "A verified archive is a review candidate, not an accepted master",
+        "observation": "October 9: five nested Grok archives were verified and extracted: 129 file occurrences became 115 unique files, 86 of them decodable images. Fourteen duplicate occurrences reuse one canonical copy by exact bytes. Five ZIPs were deleted only after independent canonical-byte verification, and eleven relocated source entries kept their history through sidecar records rather than edited receipts.",
+        "apply": "Deduplicate by exact SHA-256 and keep every filename, archive path and alias. Verify extracted bytes before deleting an archive. Treat a provider's approval or completion claim as an attributed report. Do not execute helper scripts that arrive inside a delivery as part of intake. A returned image advances nothing by itself: not approval, not a Flow request, not lip-sync or Cloud execution.",
+        "evidence": "../../CFA/docs/notes/explorable_world/comfy/projects/hon_dolo_strictly_business/grok_return_20261009/START_HERE.txt",
+    },
+    {
+        "title": "Ten turns means one base plus verified extensions",
+        "observation": "October 9: the opening continuation prototype prepares one Grok scene-frame request from three scoped references, then one short Gemini creation and up to nine dependent continuations. Nova inspects each result during an authorized run; a failed append or continuity check stops the chain. At the saved checkpoint there was no accepted starting frame and no video turn.",
+        "apply": "Count a chain as a base plus verified native extensions, with no blind retries and no promised final duration. Multi-turn editing does not prove prefix-preserving extension; check that each extension keeps the earlier frames. Only the longest passing cumulative take becomes the delivery master. A chosen starting frame is a scene decision, not a character master.",
+        "evidence": "../../CFA/docs/notes/explorable_world/comfy/projects/hon_dolo_strictly_business/handoffs/gemini_opening_continuation_20261009/BENCHMARK.txt",
+    },
     {
         "title": "A successful video job can fail the preservation brief",
         "observation": "October 7: the depth and Canny LTX-2.3 tests both produced 57-frame, 24 fps videos with matching source timestamps and clean full decode. Matched samples nevertheless changed mouth shape, lower grill, lip rings, eye/know lettering and background geometry. Canny did not materially improve continuity. Recorded review covered matched samples and decode, not normal-speed playback or listening.",

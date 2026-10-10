@@ -14,23 +14,33 @@ _SUBGRAPH = "https://docs.comfy.org/interface/features/subgraph"
 _LTX = "https://docs.comfy.org/tutorials/video/ltx/ltx-2-3"
 _AUDIO_EVIDENCE = "../../CFA/docs/notes/explorable_world/comfy/workflows/hon_dolo_audio_replace_v001.record.json"
 _AUDIO_GUIDE = "../../CFA/docs/notes/explorable_world/comfy/workflows/hon_dolo_audio_replace_v001.README.md"
+_MEDIA_INTAKE = "../../CFA/docs/notes/explorable_world/comfy/projects/hon_dolo_strictly_business/media_intake.v001.json"
+_MOUTH_PLAN = "../../CFA/docs/notes/explorable_world/comfy/projects/hon_dolo_strictly_business/handoffs/gemini_mouth_continuity_20261008/START_HERE.txt"
+_PRODUCTION_PLAN = "../../CFA/docs/notes/explorable_world/comfy/workflows/HON_DOLO_PRODUCTION_PLAN.md"
 _AUDIO_STAGES = (
     {"Stage": "Replace the soundtrack locally", "CFA evidence": "Completed ten-second FFmpeg preview: compressed picture packets and all 240 decoded frame hashes/timestamps match the source.", "Limit": "Technical picture preservation; normal-speed listening, lyric alignment and creative acceptance were not established by those checks."},
     {"Stage": "Assemble frames and replacement audio in Cloud", "CFA evidence": "Native graph saved and server-converted; live schemas and uploaded inputs checked. Not executed.", "Limit": "Create Video assembles decoded frames and audio; saving this route re-encodes picture. Local stream-copy measurements do not apply to its eventual output."},
     {"Stage": "Change visible mouth motion", "CFA evidence": "Separate lip-sync candidate prepared; unexecuted.", "Limit": "Prepared speech/vocals are required. A soundtrack swap has no generative mouth stage; lip sync needs its own detail, timing and acceptance review."},
+    {"Stage": "Change the light or the mouth without regenerating the shot (planned)", "CFA evidence": "October 8 mouth-continuity plan: a non-generative exposure-only lighting comparison on the retained source, then one Gemini close-up neutral/smile/spoken-line proof and at most one same-prompt comparison adding an exact mouth crop. Not executed.", "Limit": "Grading, audio replacement, mouth modification, static dental evidence and actual supported conditioning are five different checks. Use the current four-upper-gold mouth rule, not the frozen two-canines wording; two stochastic takes are exploratory evidence only."},
+)
+_STREAMS_NOTE = (
+    "Inspect the actual streams before trusting a filename or container: the file CFA was told was a 'lyric MP4' turned out on inspection to be an M4A holding Opus audio plus timed text with no moving picture, and the MP3 carried static cover art. "
+    "Keep the supplied lyric master separate from captions extracted from a container, and keep metadata timing separate from listening-verified sync. "
+    "Three sampled matching audio windows show strong correspondence; they are not full recording identity. The October 4 and October 7 recordings are different sources with different timings."
 )
 
 
 def soundtrack_case_markdown():
     lines = ["## CFA case: soundtrack replacement is separate from lip sync", "",
-             "October 8, 2026 review of saved CFA records; no new render or media inspection by this guide.", ""]
+             "October 8, 2026 review of saved CFA records, extended October 10 with the mouth-continuity plan and the media-intake lesson; no new render or media inspection by this guide.", ""]
     for row in _AUDIO_STAGES:
         lines.extend(["### " + row["Stage"], "", row["CFA evidence"], "", row["Limit"], ""])
     lines.extend([
         "The whole-track replacement removes original dialogue, music and ambience. Preserve ambience with separate stems or a deliberate new mix; do not infer selective voice replacement from a soundtrack swap.", "",
         "Prepare the exact replacement recording before choosing mouth timing. Identical written lyrics do not give a new recording identical timing. The first ten seconds are a technical excerpt, not an approved lyric-to-shot edit.", "",
+        _STREAMS_NOTE, "",
         "Keep source-picture ID/hash, exact audio recording and trim, output route, measured frame/FPS/audio checks, listening notes and acceptance scope together. Stream copy avoids picture decoding/re-encoding; assembling decoded frames uses an encoding path.", "",
-        f"[Measured local record]({_AUDIO_EVIDENCE}) · [Cloud and lip-sync handoff]({_AUDIO_GUIDE})", "",
+        f"[Measured local record]({_AUDIO_EVIDENCE}) · [Cloud and lip-sync handoff]({_AUDIO_GUIDE}) · [Media intake, October 4]({_MEDIA_INTAKE}) · [Mouth-continuity plan, October 8]({_MOUTH_PLAN})", "",
         "Local CFA paths are provenance only; the hosted guide does not read the sibling checkout or include its media.", "",
         f"[FFmpeg stream copy](https://ffmpeg.org/ffmpeg.html#Streamcopy) · [Native Comfy video nodes]({_NATIVE})", "",
     ])
@@ -44,9 +54,10 @@ def render_soundtrack_case():
         st.code("Source picture + replacement recording -> soundtrack swap\nSource frames + FPS + trimmed audio -> Create Video -> Save Video\nSource picture + prepared speech/vocals -> separate lip-sync candidate", language="text")
         st.write("Replacing the complete soundtrack also removes ambience. Use separate stems or a deliberate new mix when ambience must survive. A new recording requires rechecking lyric timings even when the words stay the same.")
         st.write("The ten-second preview is a technical proof, not an approved lyric edit. Listen to the chosen recording, then review mouth motion and preserved details separately.")
+        st.write(_STREAMS_NOTE)
         st.markdown("[FFmpeg stream-copy behavior](https://ffmpeg.org/ffmpeg.html#Streamcopy) · [Native Comfy video nodes](" + _NATIVE + ")")
         st.caption("Canonical local CFA evidence (requires its checkout):")
-        st.code("D:/Documents/CFA/docs/notes/explorable_world/comfy/workflows/hon_dolo_audio_replace_v001.record.json", language="text")
+        st.code("D:/Documents/CFA/docs/notes/explorable_world/comfy/workflows/hon_dolo_audio_replace_v001.record.json\nD:/Documents/CFA/docs/notes/explorable_world/comfy/projects/hon_dolo_strictly_business/media_intake.v001.json\nD:/Documents/CFA/docs/notes/explorable_world/comfy/projects/hon_dolo_strictly_business/handoffs/gemini_mouth_continuity_20261008/START_HERE.txt", language="text")
 
 ROUTES = {
     "video_native": {
@@ -166,10 +177,12 @@ def _dialogue():
     st.table([
         {"Goal": "Explore a new speaking shot", "Path": "LTX text-to-video or image-to-video with generated audio", "Check": "The line, pronunciation and scene are generated; review each take."},
         {"Goal": "Animate an image to prepared speech", "Path": "Documented LTX-2.3 image + audio-to-video template", "Check": "Uses supplied audio while generating motion; the result is a new clip."},
-        {"Goal": "Rewrite dialogue within an existing scene", "Path": "Rewrite a scene → replacement audio / localized lip-sync route", "Check": "Start from the source footage and compare its camera, cuts, background and identity against the result."},
+        {"Goal": "Generate new motion from a fixed recording", "Path": "LTX-2.5 audio-to-video (CFA research, October 4)", "Check": "The audio is fixed and the motion is new; this is not a rewrite of what is said and not preservation of a recorded performance."},
+        {"Goal": "Synthesize rewritten dialogue", "Path": "Documented Dub-It route (CFA research, October 4)", "Check": "The words themselves are synthesized. Keep recorded vocal, generated dialogue and the final music mix as three separate records."},
+        {"Goal": "Rewrite dialogue within an existing scene", "Path": "Rewrite a scene → replacement audio / localized lip-sync route", "Check": "Start from the source footage and compare its camera, cuts, background and identity against the result. Sync's example defaults to bounce on mismatched durations; CFA's prepared editor uses cut_off."},
     ])
-    st.caption("The new tutorial demonstrates generated shots. It does not establish the toolchain used in your movie-scene inspiration or prove that an existing scene will be preserved.")
-    st.markdown(f"[Official LTX-2.3 task-specific templates]({_LTX})")
+    st.caption("The new tutorial demonstrates generated shots. It does not establish the toolchain used in your movie-scene inspiration or prove that an existing scene will be preserved. For judging someone else's finished video, use Collaborators > 02 / Preserve or explore > Observed scene versus inferred method, the Lil Vader study: six spot-checks, provisional timing, unknown toolchain, audio and cuts, three proposed craft tests none of which ran, and no completed AVLAR session.")
+    st.markdown(f"[Official LTX-2.3 task-specific templates]({_LTX}) · [CFA production plan, dated research]({_PRODUCTION_PLAN})")
 
 
 def _reference_and_detail():
@@ -228,7 +241,7 @@ def render(key_prefix="help_video_handoff"):
     speed.metric("Playback speed", f"{result['speed_ratio']:.3f}×")
     if source_fps != export_fps:
         st.warning("Changing only export FPS changes picture speed and duration. It does not create intermediate frames or retime the audio. Recheck speech alignment before saving a final take.")
-    st.caption("Nominal constant-rate duration = frames ÷ FPS. Trimming, looping or ping-pong change the result. These numbers do not validate a model's supported frame counts or measure audio. Keep the chosen template's generation settings for the first test.")
+    st.caption("Nominal constant-rate duration = frames ÷ FPS. Trimming, looping or ping-pong change the result. These numbers do not validate a model's supported frame counts or measure audio. Keep the chosen template's generation settings for the first test. A higher frame rate is playback cadence, not evidence of coherent motion: CFA's October 6 Grok clips at 12 and 24 fps decoded to held stills and ghosted transitions.")
     st.markdown(f"[Video Combine frame-rate behavior]({_VHS})")
     _dialogue()
     render_soundtrack_case()

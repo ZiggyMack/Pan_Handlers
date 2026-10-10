@@ -3,7 +3,7 @@
 import streamlit as st
 
 from Help.content.collaborators import (
-    REVIEWED, PROVIDERS, COMMON_LESSONS, EVIDENCE_STATES, DISCOVERY, PRESERVATION,
+    REVIEWED, PROVIDERS, COMMON_LESSONS, EVIDENCE_STATES, DISCOVERY, PRESERVATION, EVIDENCE_SOURCE,
 )
 from Help.state.session import go
 from Help.ui.components import hero
@@ -50,6 +50,7 @@ def guide_markdown(provider_id):
     lines.extend(["", "## Know what the evidence establishes", ""])
     for state in EVIDENCE_STATES:
         lines.extend(["- **" + state["Stage"] + ":** " + state["Meaning"]])
+    lines.extend(["", "Canonical definitions: " + EVIDENCE_SOURCE[0] + " (" + EVIDENCE_SOURCE[1] + "). The states above are a learner-facing summary; CFA's section is scoped observations, not one linear ladder."])
     for lesson in COMMON_LESSONS:
         lines.extend(["", "## " + lesson["title"], "", lesson["meaning"], "", lesson["example"], "",
                       "[CFA evidence](" + lesson["evidence"] + ")"])
@@ -97,6 +98,7 @@ def render():
         st.info(provider["boundaries"])
         st.markdown("**What has actually happened?**")
         st.table(EVIDENCE_STATES)
+        st.caption("Learner-facing summary. Canonical definitions: " + EVIDENCE_SOURCE[0] + ". CFA records scoped workflow states and asset-intake observations separately, not one linear ladder.")
         with st.expander("Source records and current project handoffs"):
             st.caption("Pathfinder explains the method. CFA Creative Studio owns the operational library, review choices and handoffs. One asset keeps one master record even when shown under both project and collaborator.")
             st.link_button("Open CFA Creative Studio", "https://algaib.streamlit.app/")

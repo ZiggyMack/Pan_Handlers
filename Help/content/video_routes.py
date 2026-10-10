@@ -2,6 +2,9 @@
 
 These are instructional handoffs, not account inventory or executed renders.
 The remote JSON links are mutable: retain the downloaded revision with a run.
+Each route's "evidence" string records what CFA has actually done with it, as
+of the cfa_learning snapshot date; an empty string means CFA has not touched
+the route. Production detail lives in CFA's records, linked by name here.
 """
 
 RESEARCH_DATE = "2026-10-02"
@@ -37,11 +40,12 @@ ROUTES = {
             "Compare source and output at matching timecodes and normal speed: gesture, contact, identity, camera path, texture stability and intended visual change. Save the graph, settings, output and actual run/cost record.",
             "The inspected Union graph generates audio; its source-audio output is unconnected. Keep the original track separately and audition/remux it after visual acceptance if it still fits.",
         ],
-        "caveat": "Structural guidance is not a pixel or identity lock. Depth can also preserve background geometry you wanted to change. The current JSON has two sampling stages; upstream summaries disagree on stage/refinement counts, so inspect the downloaded graph's active schedules. Cloud package availability and a successful render remain unverified.",
+        "caveat": "Structural guidance is not a pixel or identity lock. Depth can also preserve background geometry you wanted to change. The current JSON has two sampling stages; upstream summaries disagree on stage/refinement counts, so inspect the downloaded graph's active schedules. CFA's October 4 Cloud preflight found this exact depth path cannot run unchanged: the three Video Depth Anything nodes were absent while seven manifest models were present. The route CFA actually executed on October 7 was the official LTX-2.3 IC-LoRA template with core MoGe depth (v001) and Canny (v002); both produced correctly timed 57-frame clips and both failed the strict lighting-only preservation brief, so for lighting alone the next candidate is non-generative grading or compositing.",
         "docs": "https://docs.ltx.io/open-source-model/feature-guides/structural-control/union-control",
         "workflow": _LTX + "LTX-2.5_ICLoRA_Union_Control_Distilled.json",
         "workflow_name": "LTX-2.5_ICLoRA_Union_Control_Distilled.json",
-        "kind": "Official editor workflow · untested here",
+        "kind": "Official editor workflow · Cloud preflight negative in CFA (October 4); 2.3 IC-LoRA sibling executed (October 7), preservation failed",
+        "evidence": "CFA: October 4 Union Control dependency preflight, negative (wolf_care_union_control_v001.preflight.json); October 7 LTX-2.3 IC-LoRA relights executed and reviewed, preservation failed, not accepted (hon_dolo_gemini_relight_v001 and v002 record.json).",
         "alternatives": [
             "Localized change: evaluate LTX-2.5_ICLoRA_Inpaint_Two_Stage_Distilled.json with an aligned mask sequence.",
             "Task-specific RGB edit: LTX-2.5_V2V_ICLoRA_Single_Stage_Distilled.json needs an adapter trained for the desired edit; its shipped Instant Shave example is not a general relighting adapter.",
@@ -57,6 +61,7 @@ ROUTES = {
             "Wan2.2 Animate 14B model: the documented FP8 candidate is Wan2_2-Animate-14B_fp8_e4m3fn_scaled_KJ.safetensors; follow the selected graph for FP8 versus BF16.",
             "umt5_xxl_fp8_e4m3fn_scaled.safetensors, clip_vision_h.safetensors, wan_2.1_vae.safetensors and lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors; keep each in its declared remote model category.",
             "Resolve the template's preprocessing dependencies/model files too; a loaded diffusion model alone is insufficient.",
+            "CFA's October 4 research (dated, no run): the preserved-setting Mix branch also needs SAM2/pose preparation and has an independent export-FPS control; verify both against the live template before a run.",
         ],
         "steps": [
             "Open the official JSON or search 'Wan2.2 Animate' in Comfy Templates, then save a copy. Resolve models and nodes before a paid run.",
@@ -69,6 +74,7 @@ ROUTES = {
         "workflow": _TEMPLATES + "video_wan2_2_14B_animate.json",
         "workflow_name": "video_wan2_2_14B_animate.json",
         "kind": "Official editor workflow · untested here",
+        "evidence": "CFA: researched only in the October 4 production plan (HON_DOLO_PRODUCTION_PLAN.md); no Wan graph saved, validated or run.",
         "alternatives": ["Wan Animate 2 for a new background and independently directed camera.", "LTX masked editing when only a bounded region should change."],
     },
     "wan_animate": {
@@ -91,6 +97,7 @@ ROUTES = {
         "workflow": _TEMPLATES + "video_wan_animate2.json",
         "workflow_name": "video_wan_animate2.json",
         "kind": "Official editor workflow · untested here",
+        "evidence": "CFA: researched only in the October 4 production plan (HON_DOLO_PRODUCTION_PLAN.md); no Wan graph saved, validated or run.",
         "alternatives": ["Wan2.2 Animate Mix when retaining the source environment matters.", "LTX Union depth when whole-scene structure matters more than a replacement-character reference."],
     },
     "image_to_video": {
@@ -99,12 +106,17 @@ ROUTES = {
         "inputs": ["Prepared starting image.", "Prompt for the action, setting and camera."],
         "dependencies": ["Use the exact current native LTX-2.5 image-to-video template manifest; its model set and loader layout can differ from the advanced Union graph.", "Cloud template/node availability and gated Lightricks model access must be checked before execution."],
         "steps": ["Open the official LTX-2.5 page, select its image-to-video template and save a copy.", "Load the first image, define one simple action and render a short preview with the template's supported dimensions/frame count.", "Judge temporal consistency before attempting a longer clip or higher resolution."],
-        "caveat": "This generates new motion. It cannot demonstrate preservation of an existing video's performance, and recovered image-to-video examples may depend on a missing starting image.",
+        "caveat": "This generates new motion. It cannot demonstrate preservation of an existing video's performance. CFA's October 4 run produced 97 frames at 24 fps and 960 × 512, a 15:8 output despite the 16:9 selector label, with long eye closures and smile drift in sampled frames; full-speed playback review and acceptance are still pending. The template's advertised prompt slot failed before queue and direct internal inputs were used, so verify encoded dimensions and reopen the saved graph rather than trusting the selector.",
         "docs": "https://docs.comfy.org/tutorials/video/ltx/ltx-2-5",
         "workflow": "",
         "workflow_name": "Native LTX-2.5 image-to-video template (select on official page)",
-        "kind": "Official template handoff · untested here",
-        "alternatives": ["Supply a driving video for Wan Animate 2.", "Use an existing scene clip for LTX Union Control."],
+        "kind": "Official template · executed once in CFA on October 4; acceptance pending",
+        "evidence": "CFA: executed October 4 from the clean Hon Dolo candidate (hon_dolo_motion_v001.record.json; saved Cloud workflow bfe78175), reviewed by sampled frames only, not accepted. Seedance 2.5 first-frame candidate saved unchanged on October 9, unexecuted (seedance_2_5_20261009.README.txt).",
+        "alternatives": [
+            "Supply a driving video for Wan Animate 2.",
+            "Use an existing scene clip for LTX Union Control.",
+            "Hosted Seedance 2.5 first-frame through Comfy Partner Nodes: the official graph is saved in CFA (October 9) and unexecuted; prepare a separate eight-second, 720p, audio-off copy for the common frame, and remember an extension returns only the new segment.",
+        ],
     },
     "render_first": {
         "title": "Render the 3D scene into a source clip first",
@@ -117,6 +129,7 @@ ROUTES = {
         "workflow": "",
         "workflow_name": "3D render → video-source handoff",
         "kind": "Instructional handoff",
+        "evidence": "",
         "alternatives": ["Start from an existing video to reach the current milestone faster."],
     },
     "brief_first": {
@@ -130,6 +143,7 @@ ROUTES = {
         "workflow": "",
         "workflow_name": "Source-and-brief preparation",
         "kind": "Instructional handoff",
+        "evidence": "",
         "alternatives": ["With only a still, use image-to-video and accept that motion will be generated."],
     },
     "dialogue": {
@@ -138,11 +152,12 @@ ROUTES = {
         "inputs": ["One source shot.", "Clean replacement speech WAV aligned to its timing, including silent beats."],
         "dependencies": ["The existing guide's sync.so partner-node candidate requires a compatible Comfy workspace and credits; reconfirm current availability."],
         "steps": ["Open Rewrite a scene and prepare the soundtrack-only baseline.", "Select a lip-sync candidate only when changing mouth motion is required.", "Compare timing, face stability and final sound mix."],
-        "caveat": "This is the preserved dialogue branch, not the selected visual-transformation experiment. Its earlier research does not establish current runtime availability.",
+        "caveat": "This is the preserved dialogue branch, not the selected visual-transformation experiment. Its earlier research does not establish current runtime availability. CFA has gone one step further than research: a Sync editor adapted from the official recipe (sync-3, seed fixed, cut_off instead of bounce, equal 2.375-second trims) is prepared but not submitted, pending a suitable vocal signal, live compatibility and an account quote.",
         "docs": "https://github.com/Comfy-Org/ComfyUI/blob/master/comfy_api_nodes/nodes_sync_so.py",
         "workflow": "",
         "workflow_name": "Existing Rewrite a scene guide",
-        "kind": "Instructional handoff · earlier researched candidate",
+        "kind": "Instructional handoff · CFA Sync editor prepared October 7, unexecuted paid candidate",
+        "evidence": "CFA: lip-sync editor prepared October 7, not submitted (hon_dolo_lipsync_v001.preflight.json); local stream-copy soundtrack proof completed October 7 (hon_dolo_audio_replace_v001.record.json); Cloud assembly graph saved, unexecuted.",
         "alternatives": ["Keep the source pictures unchanged if a soundtrack-only replacement meets the brief."],
     },
 }
@@ -157,10 +172,11 @@ FINISHING = {
         "Current ComfyUI-LTXVideo with LTXVTiledFusionSampler, the graph's exact LTX-2.5 transformer/text encoder/VAEs, and ltx-2.5-22b-ic-lora-refine-details-1.0.safetensors.",
         "Resolve the actual remote graph manifest, active enhancer branch, hardware capacity and estimated cost before finishing.",
     ],
-    "caveat": "This generative finishing candidate can invent detail or worsen flicker. Its FullHD/4K presets use model-aligned canvases: inspect resolved dimensions and choose crop or letterbox for the delivery target. Preserve FPS/audio timing and compare full-size moving footage before accepting. No HD or 4K CFA video master exists yet.",
+    "caveat": "This generative finishing candidate can invent detail or worsen flicker. Its FullHD/4K presets use model-aligned canvases: inspect resolved dimensions and choose crop or letterbox for the delivery target. Preserve FPS/audio timing and compare full-size moving footage before accepting. No HD or 4K CFA video master exists yet. Keep four finishing kinds distinct in every record: generation, a creative edit, provider-side regeneration and general upscaling. The hosted MiniMax H3 Max template's optional Regenerate-to-2K node is provider-side regeneration that must run on the unmodified H3 original with its exact prompt and references, before any trim, re-encode or lip-sync pass; that reviewed hosted branch is not evidence of native H3, LTX or Wan compatibility.",
 }
 
 SOURCES = (
+    ("Hon Dolo production plan (CFA research of October 4: five workflow families, dependency and timing traps; no validated graph)", "../../CFA/docs/notes/explorable_world/comfy/workflows/HON_DOLO_PRODUCTION_PLAN.md"),
     ("LTX Union Control guide", ROUTES["ltx_union"]["docs"]),
     ("LTX workflow and asset compatibility", _COMPAT),
     ("LTX-2.5 workflow shelf", _SHELF),

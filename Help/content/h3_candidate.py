@@ -10,8 +10,8 @@ _ROLES = "https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/docs/VIDEO_PROMP
 
 H3_CANDIDATE = {
     "title": "MiniMax H3 · native Reference to Video candidate",
-    "reviewed": "October 4, 2026",
-    "status": "Official recipe reviewed; CFA catalog presence recorded October 3. Dependencies and execution remain untested. No accepted H3 shot.",
+    "reviewed": "October 4, 2026 · October 9 benchmark status noted October 10",
+    "status": "Official recipe reviewed; CFA catalog presence recorded October 3. Dependencies and execution remain untested. No accepted H3 shot. October 4: the public R2V starter CFA inspected had two images connected and no driving video or audio, so those inputs must be supplied deliberately. October 9: MiniMax H3's native image-to-video template is a deferred benchmark candidate with unverified compatibility; this reference-to-video recipe is a different lane and its settings are not that template's defaults.",
     "docs": _NATIVE,
     "sources": (
         ("Official H3 overview and core requirements", _OVERVIEW),
@@ -56,6 +56,7 @@ H3_CANDIDATE = {
         "Prepare one short shot with a reviewed appearance image and the chosen source-performance excerpt. Add audio only after deciding whether to reuse its signal or reference its sound. Inspect uploads, trims and ordered reference labels.",
         "Inspect converted inputs, exact dimensions, frame count/duration, conditioning, model variant and output settings; obtain the current account estimate and validate. Start with the loaded official baseline, not SDXL/Klein sampler defaults.",
         "Perform the chosen bounded preview only after those checks. Keep the original input and actual output; review identity, motion/contact, soundtrack and synchronization before accepting a take or beginning HD/4K finishing.",
+        "If the hosted H3 Max template's optional Regenerate-to-2K branch is used, run it on the unmodified H3 original with the exact effective prompt and original references, before any trim, re-encode or lip-sync pass. It is provider-side regeneration, distinct from a creative edit or a general upscale, and it establishes no native H3, LTX or Wan compatibility.",
     ),
     "caveat": (
         "This optional candidate does not replace the current recommended route. The reviewed native recipe generates around a 768-pixel short edge at 24 fps; hosted/API 2K output is a different offering. "
