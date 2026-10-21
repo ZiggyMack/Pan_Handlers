@@ -5,6 +5,7 @@ import unittest
 
 from streamlit.testing.v1 import AppTest
 
+from Help.content.collaborators import COMMON_LESSONS
 from Help.state.journey import dumps_journey
 from Help.state.video_plan import dumps_plan
 
@@ -41,6 +42,13 @@ class CollaboratorTests(unittest.TestCase):
         self.assertEqual(app.text_area(key="help_collaborators_prompt_instruction").value, "Explore one new costume.")
         self.assertEqual(dumps_journey(app.session_state["help_journey"]), before_journey)
         self.assertEqual(dumps_plan(app.session_state["help_video_plan"]), before_video)
+
+    def test_gemini_clip_scope_lesson_links_the_cfa_operating_note(self):
+        title = "Notebook context can reach the clip; scope it to the clip"
+        self.assertEqual(
+            [lesson["evidence"] for lesson in COMMON_LESSONS if lesson["title"] == title],
+            ["../../CFA/docs/notes/explorable_world/comfy/projects/collaborators/notebook_workflow/GEMINI_CLIP_SOURCES.txt"],
+        )
 
 
 if __name__ == "__main__":

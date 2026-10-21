@@ -2,13 +2,15 @@
 
 Includes the appended receipt dated 2026-10-09 01:45:08 UTC (October 8 local)
 and the later October 9 teaching delta (CFA's POST_014508_DELTA.txt), adopted
-on October 10, 2026. All evidence paths are relative to Help. Nothing reads
+on October 10, 2026, plus the October 14 Gemini clip-scoped notebook context
+intake (CFA's gemini_clip_context_20261014/TEACHING_RETURN.txt), adopted on
+October 20, 2026. All evidence paths are relative to Help. Nothing reads
 CFA or calls a provider. Provider roles describe this project's division of
 work, not a quality ranking. Dated production states are source material,
 not current operating facts.
 """
 
-REVIEWED = "October 8, 2026 · receipt through October 9, 01:45:08 UTC · October 9 delta adopted October 10"
+REVIEWED = "October 8, 2026 · receipt through October 9, 01:45:08 UTC · October 9 delta adopted October 10 · October 14 Gemini clip-context intake adopted October 20"
 _CFA = "../../CFA/docs/notes/explorable_world/comfy/"
 _PROJECTS = _CFA + "projects/"
 _COLLAB = _PROJECTS + "collaborators/"
@@ -17,6 +19,12 @@ _LISAN = _PROJECTS + "lisan_al_gaib/"
 _RETURN = _COLLAB + "panhandler_return_20261008.txt"
 _DELTA = "../../CFA/docs/notes/explorable_world/pathfinder_handoff/claude_return_20261010/POST_014508_DELTA.txt"
 _CASTING = _CFA + "casting/"
+_CLIP_NOTE = _COLLAB + "notebook_workflow/GEMINI_CLIP_SOURCES.txt"
+_CLIP_PACK = _COLLAB + "notebook_workflow/source_packet/CLIP_SOURCE_PACK.template.txt"
+_BELLGLASS_REVIEW = (
+    _LISAN + "gemini/bellglass_context_video_preflight_20261014_9655a5f6-9915-448c-9352-8eea050996fa/"
+    "run_472f240d-f7f0-46fc-a916-55b92c5cdbb8/HUMAN_REVIEW_20261014.json"
+)
 
 # CFA's canonical evidence vocabulary. The table below is Pan's learner-facing
 # summary with attributed states; the definitions are owned and maintained there.
@@ -76,8 +84,9 @@ PROVIDERS = {
             "Return reusable findings through the project handoff. Shared-rule changes, cross-project digests and winner promotion remain manual decisions in this setup.",
             "Develop a preliminary panel into a proposed scene card: the narrative beat, action and camera, the scoped references by ID, start and end frame intent, a brief for any missing art, continuity notes and the execution prompt. Reuse existing footage before asking for more.",
             "Work the loop the method home defines: a primary creative result, a second pass that mines it for lessons, a reviewed master care package, then one relevant local follow-up. The general notebook, round and routing method lives in Nyquist (CFA's notebook_workflow/README.txt points to it); CFA's project application is notebook_workflow/START_HERE.txt; Pathfinder teaches it by link and adds no second copy of the machinery.",
+            "Scope the notebook to the exact clip before generating it: the rule, Ziggy's refinement and the dated Bellglass case are under 02 / Preserve or explore, lesson Notebook context can reach the clip; scope it to the clip, with CFA's operating note and clip-pack template linked under Source records.",
         ),
-        "boundaries": "The receipt verifies three notebooks, processed TXT imports, synced chat context and some chat attachments. Direct native MP4 Sources attempts and a JPEG retry failed. Lisan had 11 entries but only five usable selected sources: two TXT and three chats; six image entries failed. The October 9 delta adds one more native copied-text source success and one more native JPEG upload failure (\"This image content is not supported\"), leaving zero usable selected image sources. Persistent raw visual-media readiness remains unverified. T02 remains a scene working reference, not an identity standard.",
+        "boundaries": "The receipt verifies three notebooks, processed TXT imports, synced chat context and some chat attachments. Direct native MP4 Sources attempts and a JPEG retry failed. Lisan had 11 entries but only five usable selected sources: two TXT and three chats; six image entries failed. The October 9 delta adds one more native copied-text source success and one more native JPEG upload failure (\"This image content is not supported\"), leaving zero usable selected image sources. Persistent raw visual-media readiness remains unverified. T02 remains a scene working reference, not an identity standard. On October 14 one Bellglass source-only-context test returned one 10-second 1280 × 720 clip in which a dog, named only in one verified copied-text source and absent from the prompt, appeared; Ziggy confirmed the dog and a bark-like head motion, and CFA's sampled frames show a blue/cyan collar. That is a text source contributing to a video result; it is not raw visual-media ingestion, and it does not make the choice of source details predictable.",
         "sources": (
             ("Google: notebook and chat context", "https://support.google.com/gemininotebook/answer/17003757?hl=en"),
             ("Google: source types and YouTube transcript import", "https://support.google.com/gemininotebook/answer/16215270?hl=en"),
@@ -90,6 +99,9 @@ PROVIDERS = {
             ("Gemini cast attachment map (stable IDs, exact filenames, batch-bound picture numbers)", _CASTING + "gemini_cast_reference_map.txt"),
             ("Notebook workflow: CFA project application (method home is Nyquist)", _COLLAB + "notebook_workflow/START_HERE.txt"),
             ("Method-home breadcrumbs to Nyquist (HOLY_GRAIL.md, WORKFLOW_SPEC.md)", _COLLAB + "notebook_workflow/README.txt"),
+            ("Clip-scoped notebook sources: CFA operating note, October 14", _CLIP_NOTE),
+            ("One Gemini clip source pack: template, not uploaded or executed", _CLIP_PACK),
+            ("Bellglass human review, October 14: dog and head motion confirmed; mouth did not move", _BELLGLASS_REVIEW),
         ),
     },
     "flow": {
@@ -236,6 +248,12 @@ COMMON_LESSONS = (
         "meaning": "October 9 intake, adopted October 10. Every reference carries its visible hand, its character-side, the tattoo and jewelry it shows and what occludes them. A paper design sheet and an on-body layout are different artworks. Request a finite subset of props, angles and grill states, never the full product of all three.",
         "example": "Grok once assigned the hand tattoo to character-left by analogy to the holster; the recorded direction was character-right, and the correction asked for an explicit new source before any change. Matched head and mouth variants pair one state and view with external-off as the base and the iced external grill as an accessory.",
         "evidence": _COLLAB + "grok_coordination_20261009/002_delivery.json",
+    },
+    {
+        "title": "Notebook context can reach the clip; scope it to the clip",
+        "meaning": "October 14 intake (CFA's Bellglass test, Ziggy's review), adopted October 20. A selected notebook text source can contribute details to a Gemini video even when the immediate prompt omits them, so load the scene and storyboard details for the clip beside the prompt. The caveat travels with the finding: one result does not guarantee that every source is used, establish persistent raw visual-media ingestion, expose renderer internals or test reliability. Ziggy's refinement: load only what is pertinent to the exact short clip, not the whole scene. CFA's operating decision drawn from it: keep the full story separately; carry in the clip pack the approved excerpt plus the necessary continuity, actor direction, lighting, camera and background; verify which sources are actually active; repeat the critical requirements in the prompt; treat a fresh chat as no proof of source isolation. Source-bleed prevention is user direction, not a measured comparison. For reference scope, exact prompt wording and video review, reuse Bind side, hand and occlusion to each reference and the prompt and video lessons under 03 / Continue a lesson.",
+        "example": "One 10-second 1280 × 720 Bellglass clip from a prompt with no dog, collar or bark cue; those cues lived only in one verified copied-text source. Ziggy confirmed the dog and a quick bark-like head motion and called the unmoving mouth a minor defect; the vivid blue/cyan collar is visible in CFA's six sampled frames (RESULT.json), not part of his recorded review. Audible barking was not separately confirmed and no regeneration was requested. The clip pack template is notebook_workflow/source_packet/CLIP_SOURCE_PACK.template.txt beside the operating note linked below.",
+        "evidence": _CLIP_NOTE,
     },
 )
 
