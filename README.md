@@ -2,15 +2,19 @@
 
 > **"These are the things we built together that neither could have done alone."**
 
+New here? Open [START_HERE.md](START_HERE.md): it routes learners, maintainers, collaborator agents from CFA and a cold-booted Claude to their first page.
+
 ## Pathfinder — follow the process
 
 The new [Pathfinder console](Help/README.md) compares routes for AI-assisted 3D and
 video work: AUTOMATIC1111, Forge UI, Invoke, and ComfyUI. ComfyUI has the first
 walkthrough; the other routes retain their tradeoffs and expansion plans.
 
-Its central **Rewrite a scene** mission maps how to keep existing footage
-recognizable while changing dialogue: script and performance, clean audio,
-lip sync, editing, and a repeatable first-shot worksheet.
+Its active direction since October 2, 2026 is high-resolution, lifelike video in
+ComfyUI: start from existing footage and change its look, setting or characters
+while preserving the original motion and performance. **Rewrite a scene** (changing
+dialogue while keeping footage recognizable, with a repeatable first-shot worksheet)
+remains a supported branch. Sentence corrected 2026-10-31 to match [Help/README.md](Help/README.md).
 
 Run `python -m streamlit run Help/app.py --server.port 8506` from this repository,
 or open **FIELD GUIDES → Pathfinder** in the operations dashboard. The guide uses
@@ -67,6 +71,8 @@ You can wander the halls, peek into different rooms, and never lose the sense of
 
 ## Flagship Projects
 
+Note added 2026-10-31: the statuses in this section are the 2025-11-27 state and are kept as written. The current state of the repository is described in [START_HERE.md](START_HERE.md) and [Help/README.md](Help/README.md).
+
 Pan Handlers showcases seven major initiatives:
 
 ### 0️⃣ Nyquist Identity Manifold White Paper
@@ -111,7 +117,7 @@ Fundamental redesign of the US prison system. From warehousing to transformation
 
 ---
 
-### 5️⃣ American Bureau of Investigation (ABI)
+### 5️⃣ American Bureau of Intelligence (ABI)
 **Status**: Concept
 **Track**: Intelligence / Governance
 
@@ -119,7 +125,7 @@ Transparent, open-source investigative intelligence. Public audit logs. Entity r
 
 ---
 
-### 6️⃣ Decentralized CIA (D.C.I.A.)
+### 6️⃣ Decentralized Intelligence Agency (D.C.I.A.)
 **Status**: Concept
 **Track**: Intelligence / Governance
 
@@ -141,6 +147,8 @@ Every flagship project leverages core Nyquist capabilities:
 
 ## Current Status
 
+Note added 2026-10-31: everything below this line in this section is the 2025-11-27 state, kept as written. The current state is described in [START_HERE.md](START_HERE.md) and [Help/README.md](Help/README.md).
+
 **Pan Handlers repo**: Initializing (2025-11-27)
 **Connected repos**: Nyquist Consciousness, CFA
 **Flagship projects**: 7 defined, all in Concept/Preparation phase
@@ -161,6 +169,8 @@ Every flagship project leverages core Nyquist capabilities:
 - **Gemini, Grok, Opus**: Cross-validation, alternative perspectives
 - **Future leads**: Caelum (gene therapy), Daniel (prison reform), community contributors
 
+Note added 2026-10-31: the Nova and Claude labels above are the 2025 roles and are historical. Since Ziggy's decision of 2026-10-10 (Briefing #002 in [REPO-SYNC/MASTER_REPO_SYNC_OUT.md](REPO-SYNC/MASTER_REPO_SYNC_OUT.md)): CFA owns production, Pan teaches, Nyquist owns the notebook method, and Claude stewards the Pan_Handlers files.
+
 ---
 
 ## For Developers
@@ -168,18 +178,27 @@ Every flagship project leverages core Nyquist capabilities:
 ### Adding Your Project to Pan Handlers
 
 1. Create `panhandlers_manifest.json` in your repo root
-2. Follow the schema in `Pan_Handlers/manifest_schema.json`
+2. Follow the schema in [PAN_HANDLERS_SPEC.md](PAN_HANDLERS_SPEC.md), section "Manifest Schema (v1)" (pointer corrected 2026-10-31; there has never been a `manifest_schema.json`)
 3. Submit PR to Pan Handlers adding your manifest URL to `connected_repos`
 4. Your project appears as a portal tile in the Grand Hall
 
 ### Running Pan Handlers Locally
 
+Corrected 2026-10-31: the root `app.py` these instructions used to name was removed on 2025-11-27. The two apps in this repository are run from the repository root.
+
+Pathfinder, the learner app; its documented port is 8506, and the full command with the port flag is in [Help/FILE_MAP.md](Help/FILE_MAP.md) and [Help/README.md](Help/README.md):
+
 ```bash
-cd Pan_Handlers
-streamlit run app.py
+python -m streamlit run Help/app.py
 ```
 
-Visit http://localhost:8501 to explore the halls.
+The operations dashboard, the Back Alley; its documented port is 8504, and the full command with the port flag is in the docstring of `dashboard/app.py` (see also [dashboard/README.md](dashboard/README.md)):
+
+```bash
+python -m streamlit run dashboard/app.py
+```
+
+Hosted apps (decided 2026-10-31): the deploy source of record for the hosted Hall is the root `pages/` package. No launcher for it is tracked in this repository; the hosted main file is configured on the host and is not in the repo.
 
 ---
 

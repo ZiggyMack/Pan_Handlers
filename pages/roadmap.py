@@ -109,9 +109,14 @@ def render():
     # PUBLICATION TIMELINE
     # ========================================
     st.markdown('<div class="section-header">📅 Publication Timeline</div>', unsafe_allow_html=True)
+    st.caption(
+        "Note added 2026-10-31: the dates below are projections written on 2025-11-27 and are kept as history; "
+        "the 2026 entries did not happen on this schedule. The current state is in START_HERE.md."
+    )
 
+    # 2025-11-27 projections, kept as history (marked 2026-10-31); CFA expansion corrected the same day.
     timeline = [
-        ("2024", "CFA Seed", "Foundation of collaborative framework analysis"),
+        ("2024", "CFA Seed", "Foundation of Contextual Framework Analysis"),
         ("2025 Q1", "S0-S6 Frozen", "Core Nyquist framework locked"),
         ("2025 Q2", "S7 Complete", "29-ship Armada temporal validation"),
         ("2025 Q3", "First Omega Session", "Ω-20251123-0800 synthesis"),

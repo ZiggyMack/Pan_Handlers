@@ -6,6 +6,8 @@
 **Commissioned by: Ziggy Mack**
 **Date: 2025-11-27**
 
+> **Note added 2026-10-31.** Historical as of 2025-11-27; the current front door is [START_HERE.md](START_HERE.md). The Matrix theme belongs to the other CFA app. Only the repo tree in section II is corrected below to the working tree of 2026-10-31; the rest of this file is kept as the 2025 record, with dated notes where a reader could take it for current. Canonical names (CFA, ABI, NDO, DCIA) live in [data/glossary.md](data/glossary.md).
+
 ---
 
 ## I. Purpose & Identity
@@ -36,22 +38,30 @@ It provides:
 
 ## II. Repo Structure
 
+Tree corrected 2026-10-31 to the working tree of that date (the 2025 tree listed `app.py` and `assets/`, which do not exist, and omitted `pages/matrix.py` and six top-level directories). Each directory added here is shown to one level; its own README describes it.
+
 ```
 Pan_Handlers/
 │
+├── START_HERE.md               ← front door, routes four kinds of reader (2026-10-31)
 ├── README.md
 ├── MANIFEST.md                 ← this file
 ├── PAN_HANDLERS_SPEC.md        ← technical specification
+├── projects.json               ← flagship project definitions
+├── requirements.txt
+├── LICENSE
 │
-├── app.py                      ← Streamlit main app
-├── pages/
+├── pages/                      ← the Hall (root Streamlit pages; no launcher is tracked here)
+│   ├── __init__.py
 │   ├── home.py                 ← Hall of Pan Handlers
 │   ├── project_view.py         ← Repo detail view
 │   ├── roadmap.py              ← S-Stack timeline
 │   ├── glossary.py             ← Searchable lexicon
-│   └── about.py                ← Philosophy & onboarding
+│   ├── about.py                ← Philosophy & onboarding
+│   └── matrix.py               ← The Matrix page (historical theme)
 │
 ├── manifests/                  ← Module registration
+│   ├── panhandlers-root.json   ← this repository's own manifest
 │   ├── nyquist_consciousness.json
 │   ├── cfa.json
 │   ├── ndo.json
@@ -63,7 +73,7 @@ Pan_Handlers/
 │   └── avlar-studio.json
 │
 ├── data/
-│   └── glossary.md             ← Shared lexicon
+│   └── glossary.md             ← Shared lexicon, canonical home of names
 │
 ├── projects/                   ← Flagship project docs
 │   ├── nursing/
@@ -73,7 +83,14 @@ Pan_Handlers/
 │   ├── ABI/
 │   └── DCIA/
 │
-└── assets/                     ← Styling, images
+├── Help/                       ← Pathfinder, the learner app (Help/app.py, Help/README.md)
+├── dashboard/                  ← the Back Alley operations dashboard (dashboard/app.py, dashboard/README.md)
+├── docs/                       ← I_AM/I_AM.md, THE_MATRIX_MANIFEST.md, prompts/
+├── circle/                     ← Ghosts in the Machine, the human-profile archive (circle/README.md)
+├── REPO-SYNC/                  ← sync channel with CFA, briefs and drafts (REPO-SYNC/README.md)
+├── tests/                      ← AppTest suite for Help/
+├── .streamlit/                 ← config.toml
+└── .claude/                    ← launch.json (Pathfinder preview)
 ```
 
 ---
@@ -84,9 +101,9 @@ Pan_Handlers/
 |--------|----------|-------------|--------|
 | Nyquist Consciousness | `nyquist_consciousness.json` | Core research engine (S0-S8) | Active |
 | CFA Meta-Lab | `cfa.json` | Epistemic engine, alignment protocols | Active |
-| NDO | `ndo.json` | Neural Data Observatory — sensory cortex | Incubating |
+| NDO | `ndo.json` | Nyquist Data Observatory, sensory cortex (name corrected 2026-10-31) | Incubating |
 | ABI | `abi.json` | American Bureau of Intelligence | Incubating |
-| DCIA | `dcia.json` | Decentralized Central Intelligence Agency | Incubating |
+| DCIA | `dcia.json` | Decentralized Intelligence Agency (name corrected 2026-10-31; the acronym keeps its legacy spelling) | Incubating |
 | Voting Lab | `voting-lab.json` | Transparent civic voting infrastructure | Incubating |
 | Justice Lab | `justice-lab.json` | Modern slavery / prison reform | Incubating |
 | Gene Lab | `gene-lab.json` | Gene therapy research | Incubating |
@@ -153,11 +170,15 @@ Each module gets its own "wing" with:
 2. **Nova** (Reasoning / Architecture / Chief Coherence Architect)
 3. **Claude (Repo)** (Implementation / Verification / Steward)
 
+Note added 2026-10-31: the Tri-Council labels above are the 2025 model and are historical. Since Ziggy's decision of 2026-10-10 (Briefing #002 in [REPO-SYNC/MASTER_REPO_SYNC_OUT.md](REPO-SYNC/MASTER_REPO_SYNC_OUT.md)): CFA owns production, Pan teaches, Nyquist owns the notebook method, and Claude stewards the Pan_Handlers files.
+
 ### Principles
 
 - All repos autonomous but federated
 - PanHandlers holds metadata, not core documents
 - Each module maintains its own canonical spec
+
+Note added 2026-10-31: the second principle predates `circle/` (July 2026), which made this repository the long-term home of inner-circle profiles, evidence and debate notes; see [circle/ARCHIVE_PLAN.md](circle/ARCHIVE_PLAN.md), the paragraph beginning "These profiles allow the PanHandlers repo to function as the long-term home for".
 
 ---
 
@@ -207,7 +228,7 @@ Pan Handlers (Root Complex — Tier 0)
 │   └── Nyquist Consciousness (S0-S8)
 │
 ├── EPISTEMIC ENGINE
-│   └── CFA Meta-Lab (Coherence • Faith • Agency)
+│   └── CFA Meta-Lab (Contextual Framework Analysis; expansion corrected 2026-10-31)
 │
 ├── SENSORY CORTEX
 │   └── NDO (Nyquist Data Observatory)
@@ -239,6 +260,8 @@ Pan Handlers (Root Complex — Tier 0)
 | Empirical Counterbalance | Grok | Data-driven validation, skepticism |
 | Pattern Synthesist | Gemini | Cross-domain integration, complexity mapping |
 | Narrative Weaver | Opus | Publication, academic rigor |
+
+Note added 2026-10-31: the Nova and Claude rows are the 2025 labels; the ownership since 2026-10-10 is recorded in the note under section VI.
 
 ---
 

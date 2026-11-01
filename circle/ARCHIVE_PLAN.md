@@ -323,6 +323,15 @@ circle/private/    — operator analysis, debate history, unresolved tensions,
 
 **Nothing moves from private to public without explicit review.**
 
+> **Revision note (recorded 2026-10-31).** The layer split above is the founding
+> charter's wording and is kept as written. It was superseded on 2026-07-16 by
+> Ziggy's PUBLIC decision and the content boundary that replaced it
+> (`ETHICS_AND_CONSENT.md` §1 and §2): the whole of `circle/` is public, and the
+> protection is enforced at ingestion, not by folder. No `circle/public/` or
+> `circle/private/` directory exists. On 2026-10-31 Ziggy also decided that
+> `circle/mirror/` stays public as it stands; the prerequisites that folder still
+> owes are listed in `mirror/README.md`.
+
 See `ETHICS_AND_CONSENT.md` for the operational policy — including the fact that
 this git repository itself is public, which makes the publication gate a matter of
 *what gets committed and pushed*, not just folder naming.

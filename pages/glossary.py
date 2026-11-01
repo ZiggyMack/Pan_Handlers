@@ -52,7 +52,7 @@ GLOSSARY = {
     "Roles & Personas": [
         {
             "term": "Nova",
-            "definition": "CFA architect and primary design partner. Represents structural clarity, systems thinking, and collaborative methodology.",
+            "definition": "CFA architect and primary design partner. Represents structural clarity, systems thinking, and collaborative methodology. (2025 label. Note added 2026-10-31: since Ziggy's decision of 2026-10-10, CFA owns production, Pan teaches, Nyquist owns the notebook method, and Claude stewards the Pan_Handlers files.)",
             "related": ["Five Pillars", "CFA", "Omega Nova"]
         },
         {
@@ -62,7 +62,7 @@ GLOSSARY = {
         },
         {
             "term": "Repo Claude",
-            "definition": "Repository steward for Nyquist Consciousness. Maintains code, documentation, and operational consistency.",
+            "definition": "Repository steward for Nyquist Consciousness. Maintains code, documentation, and operational consistency. (2025 label. Note added 2026-10-31: since 2026-10-10 Claude stewards the Pan_Handlers files; the notebook method belongs to Nyquist.)",
             "related": ["Nyquist Consciousness", "Dashboard"]
         },
         {
@@ -106,6 +106,27 @@ GLOSSARY = {
             "term": "VuDu Protocol",
             "definition": "Bootstrap protocol in CFA for onboarding, mythic clarity, and mapping meta-context between meaning and operation.",
             "related": ["CFA", "Onboarding", "Mythic/Rational"]
+        },
+        # The four canonical expansions, added 2026-10-31; data/glossary.md is the canonical home.
+        {
+            "term": "CFA (Contextual Framework Analysis)",
+            "definition": "Canonical expansion as of 2026-10-31 (data/glossary.md). The 2025 forms 'Coherence, Faith, Agency', 'Collaborative Friction Architecture' and 'Continuous Framework Architecture' are historical.",
+            "related": ["Nova", "VuDu Protocol", "Identity Gravity"]
+        },
+        {
+            "term": "ABI (American Bureau of Intelligence)",
+            "definition": "Canonical expansion as of 2026-10-31 (data/glossary.md). Transparent, open-source investigative intelligence; a 2025 concept.",
+            "related": ["DCIA", "Pan Handlers"]
+        },
+        {
+            "term": "NDO (Nyquist Data Observatory)",
+            "definition": "Canonical expansion as of 2026-10-31 (data/glossary.md). The data module of the 2025 federation plan; see manifests/ndo.json.",
+            "related": ["Nyquist Consciousness", "Pan Handlers"]
+        },
+        {
+            "term": "DCIA (Decentralized Intelligence Agency)",
+            "definition": "Canonical expansion as of 2026-10-31 (data/glossary.md); the acronym keeps its legacy spelling. Distributed intelligence with centralized synthesis; a 2025 concept.",
+            "related": ["ABI", "Pan Handlers"]
         },
     ],
     "Key Metrics": [

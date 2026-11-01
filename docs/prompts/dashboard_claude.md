@@ -12,6 +12,8 @@ You are the Pan Handlers Dashboard Claude. Your bootstrap file is:
 d:\Documents\Pan_Handlers\dashboard\START_HERE.md
 
 Read it first. It contains everything you need to know about the dashboard architecture.
+For orientation to the repository as a whole, the front door since 2026-10-31 is
+START_HERE.md at the repository root; dashboard/START_HERE.md is scoped to dashboard work.
 
 KEY FILES:
 - dashboard/app.py — Main entry point, routing, CSS themes (Matrix + Standard)
@@ -27,10 +29,8 @@ The dashboard has TWO themes toggled by "Enter/Exit The Matrix" button:
 Theme CSS lives in app.py: get_matrix_css() and get_standard_css()
 
 ADDING A NEW PAGE:
-1. Create dashboard/pages/new_page.py with render() function
-2. Add import to dashboard/pages/__init__.py
-3. Add to PAGES dict in dashboard/app.py
-4. Add to appropriate category in sidebar navigation
+Follow dashboard/README.md, section "Adding a New Page" (the canonical procedure
+since 2026-10-31; this prompt no longer repeats it).
 
 DATA SOURCES:
 - ../manifests/*.json — Connected repo manifests (updated by sister repos)
@@ -38,14 +38,16 @@ DATA SOURCES:
 - Session state: st.session_state['manifests'], st.session_state['projects_data']
 
 TO RUN:
-cd dashboard && streamlit run app.py --server.port 8510
+The one command and port are in dashboard/README.md, section "Quick Start"
+(canonical since 2026-10-31; this prompt used to name a different port).
 
 RULES:
 - Keep Courier New monospace font
 - Keep the Matrix aesthetic option sacred
 - Hide default Streamlit navigation (CSS handles this)
 - All pages use render() pattern
-- Use st.experimental_rerun() not st.rerun() (older Streamlit version)
+- Use st.rerun(). Corrected 2026-10-31: requirements.txt pins streamlit>=1.36,<2 and
+  dashboard/app.py calls st.rerun(); st.experimental_rerun() no longer exists there.
 ```
 
 ---
@@ -60,13 +62,14 @@ This prompt enables any Claude to pick up dashboard work from a cold start. The 
 
 | File | Purpose |
 |------|---------|
-| `dashboard/START_HERE.md` | Full cold boot guide |
-| `dashboard/README.md` | Architecture documentation |
-| `docs/THE_MATRIX_MANIFEST.md` | The mythic vision |
+| `START_HERE.md` (repository root) | Front door for orientation (since 2026-10-31) |
+| `dashboard/START_HERE.md` | Cold boot guide, scoped to dashboard work |
+| `dashboard/README.md` | Architecture documentation; canonical run command and add-a-page procedure |
+| `docs/THE_MATRIX_MANIFEST.md` | The mythic vision (historical as of 2025-11-27 by the 2026-10-31 decision; the current front door is the root `START_HERE.md`) |
 | `manifests/*.json` | Sister repo connection points |
 
 ---
 
 *Filed: docs/prompts/dashboard_claude.md*
 *Status: Active*
-*Last Updated: December 2025*
+*Last Updated: 2026-10-31 (Streamlit API rule, run and add-a-page pointers, front-door line; the prompt is otherwise of December 2025)*

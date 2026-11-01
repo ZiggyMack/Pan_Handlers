@@ -1,4 +1,6 @@
-# Nova → Pathfinder
+# Pathfinder and CFA: adoption returns and feedback
+
+Retitled 2026-10-31; the title through October 20, 2026 was "Nova → Pathfinder". Sections run newest first: Pan's dated adoption returns to CFA (October 4 to 20) stand above CFA Nova's September 12 review, which keeps the original direction.
 
 ## Pathfinder to CFA - Gemini clip-scoped notebook context adopted, October 20, 2026
 

@@ -4,6 +4,8 @@
 **Status:** Active
 **Purpose:** Define the manifest schema and architecture for cross-repo showcase system
 
+> **Note added 2026-10-31.** Historical as of 2025-11-27; the current front door is [START_HERE.md](START_HERE.md). The Matrix theme belongs to the other CFA app. The manifest schema below is still the one the files in `manifests/` follow; the folder structure is corrected to the working tree of 2026-10-31; the page descriptions and the "Adding a New Repo" steps are the 2025 design, with dated corrections where a path does not exist.
+
 ---
 
 ## Overview
@@ -91,29 +93,41 @@ Each participating repo should have a `panhandlers_manifest.json` at its root.
 
 ### Folder Structure
 
+Tree corrected 2026-10-31 to the working tree of that date. The 2025 tree listed a root `app.py`, `config.py`, `utils.py` and `data/roadmap.json`, none of which exist (the only `config.py` and `utils.py` are the dashboard's, under `dashboard/`), and omitted `pages/matrix.py` and the directories `Help/`, `dashboard/`, `docs/`, `circle/`, `REPO-SYNC/` and `tests/`. The full tree is in [MANIFEST.md](MANIFEST.md), section II.
+
 ```
-pan-handlers/
-├── app.py                      # Main Streamlit app
-├── config.py                   # Configuration (manifest URLs, etc.)
-├── utils.py                    # Utility functions
-├── pages/
+Pan_Handlers/
+├── START_HERE.md               # Front door (2026-10-31)
+├── README.md
+├── MANIFEST.md
+├── PAN_HANDLERS_SPEC.md        # This file
+├── projects.json               # Flagship project definitions
+├── requirements.txt
+├── pages/                      # The Hall (root Streamlit pages; no launcher is tracked here)
+│   ├── __init__.py
 │   ├── home.py                 # Hall of Pan Handlers (main gallery)
 │   ├── project_view.py         # Single repo detail view
 │   ├── roadmap.py              # Global roadmap across repos
 │   ├── glossary.py             # Lexicon of terms
-│   └── about.py                # How this network works
-├── manifests/                  # Local manifest cache/copies
+│   ├── about.py                # How this network works
+│   └── matrix.py               # The Matrix page (historical theme)
+├── manifests/                  # Pan's own descriptions of each module (2025), one JSON each
+│   ├── panhandlers-root.json
 │   ├── nyquist_consciousness.json
 │   ├── cfa.json
-│   └── ...
+│   └── ... (ndo, abi, dcia, voting-lab, justice-lab, gene-lab, avlar-studio)
 ├── projects/                   # Flagship project documentation
 │   ├── nursing/
 │   ├── voting/
-│   └── ...
+│   └── ... (gene_therapy, modern_slavery, ABI, DCIA)
 ├── data/
-│   ├── glossary.md             # Terms and definitions
-│   └── roadmap.json            # Cross-repo roadmap data
-└── README.md
+│   └── glossary.md             # Terms and definitions; canonical home of names
+├── Help/                       # Pathfinder, the learner app (Help/app.py)
+├── dashboard/                  # The Back Alley operations dashboard (dashboard/app.py, dashboard/config.py, dashboard/utils.py)
+├── docs/                       # I_AM/I_AM.md, THE_MATRIX_MANIFEST.md, prompts/
+├── circle/                     # Ghosts in the Machine, the human-profile archive
+├── REPO-SYNC/                  # Sync channel with CFA, briefs and drafts
+└── tests/                      # AppTest suite for Help/
 ```
 
 ### Page Descriptions
@@ -151,11 +165,14 @@ pan-handlers/
 1. Create `panhandlers_manifest.json` in your repo root
 2. Follow the schema above
 3. Submit PR to Pan Handlers repo adding your manifest URL to `config.py`
+   (Corrected 2026-10-31: there is no root `config.py`, and `dashboard/config.py` holds no manifest URL list. As the repository stands, a module is registered by adding its JSON file to `manifests/`, which `dashboard/utils.py` loads by directory listing.)
 4. Your repo appears as a portal tile in the Hall
 
 ---
 
 ## Manifest URLs Configuration
+
+Note added 2026-10-31: no file in this repository defines `MANIFEST_URLS`; the block below is the 2025 design, kept as written. Manifests are read from the `manifests/` folder only.
 
 Pan Handlers reads manifests from configured URLs:
 
@@ -197,6 +214,8 @@ For local development, manifests can also be read from `manifests/` folder.
 | 1.0 | 2025-11-27 | Initial specification |
 
 ---
+
+Note added 2026-10-31: the two lines below are the 2025-11-27 state, kept as written. The current state is described in [START_HERE.md](START_HERE.md) and [Help/README.md](Help/README.md).
 
 **Status:** Production Ready
 **Next Steps:** Implement full Streamlit app with all pages

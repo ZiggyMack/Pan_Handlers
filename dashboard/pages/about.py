@@ -48,7 +48,7 @@ def render():
             <p style="color: #666;">Pan Handlers connects multiple repos through the VUDU network:</p>
             <ul style="color: #888;">
                 <li><strong>Nyquist Consciousness</strong> — Core identity theory engine</li>
-                <li><strong>CFA</strong> — Collaborative Friction Architecture</li>
+                <li><strong>CFA</strong> — Contextual Framework Analysis</li>
                 <li><strong>Pan Handlers</strong> — Federation hub & project showcase</li>
             </ul>
         </div>

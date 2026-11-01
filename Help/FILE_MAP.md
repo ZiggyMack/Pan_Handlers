@@ -2,13 +2,20 @@
 
 Use the name you see in the website to find the file that builds it. **Launch the whole app with `Help/app.py`; the files under `pages/` are parts of that app.** Opening a Python file in an editor shows its code, not the live page.
 
+## Run Pathfinder
+
 From `D:\Documents\Pan_Handlers`:
 
 ```powershell
+python -m pip install -r Help/requirements.txt
 python -m streamlit run Help/app.py --server.port 8506
 ```
 
+This block is the canonical run command for Pathfinder since 2026-10-31 (Python 3.10 or newer, Streamlit >=1.36,<2): [README.md](README.md) points here instead of repeating it, and any other copy should do the same. The root README.md and dashboard/README.md still carry their own copies; they were outside the 2026-10-31 pass.
+
 The Streamlit Cloud entry point remains **`Help/app.py`**. The operations dashboard still embeds the same console through `dashboard/pages/pathfinder.py`.
+
+Deploy source of record, recorded 2026-10-31: by Ziggy's decision of that date the hosted apps deploy from the Hall at the root `pages/` package. Its launcher is not tracked in this repository, so the hosted main file is configured on the host and is not in the repo. `Help/app.py` is the local standalone entry; the Streamlit Cloud sentence above is the earlier record.
 
 ## Match the sidebar to a file
 
@@ -69,11 +76,22 @@ Help/
 ├── state/              Session helpers, validation and portable exports
 ├── ui/                 Theme and shared presentation components
 ├── examples/           Small portable evidence and workflow samples
-├── README.md           Running, coverage and maintenance instructions
-├── FILE_MAP.md         This map
-├── CFA_HANDOFF.md      Current coordination and historical handoffs
-└── CFA_FEEDBACK.md     Dated feedback and production evidence
+├── README.md           Orientation, coverage and maintenance instructions
+├── FILE_MAP.md         This map, the canonical run command and the handbook index below
+├── CFA_HANDOFF.md      The direction letter through October 8, 2026
+├── CFA_FEEDBACK.md     Pan's dated adoption returns to CFA, newest first
+└── CFA_TUTORIAL_LEDGER.md  CFA intakes and Pan adoption status, dated per section
 ```
+
+### The five maintainer documents (handbook index, 2026-10-31)
+
+| Document | Role | Who writes it | Who reads it | Cadence |
+| --- | --- | --- | --- | --- |
+| [README.md](README.md) | Orientation, what the app covers, how to maintain it; the dated production state below its orientation block is history | Pan's steward (Claude since 2026-10-10) | learners, maintainers, CFA agents | at each adoption that changes coverage |
+| [FILE_MAP.md](FILE_MAP.md) | Page and tab names to files; the canonical run command; this index | Pan's steward | anyone requesting or making a change | at each adoption that adds or moves a file |
+| [CFA_HANDOFF.md](CFA_HANDOFF.md) | The direction letter to CFA, September 12 through October 8, 2026; later adoptions live in CFA_FEEDBACK.md and the ledger | Pan's side, in dated layers (the September letter was drafted for Ziggy to pass to CFA) | CFA Nova | not extended after October 8; a dated note under its title, 2026-10-31 |
+| [CFA_FEEDBACK.md](CFA_FEEDBACK.md) | Pan's dated adoption returns to CFA (October 4 to 20) above CFA Nova's September 12 review | Pan's steward for the adoption returns; CFA Nova wrote the September review | CFA Nova, Ziggy | one dated section per adopted delta |
+| [CFA_TUTORIAL_LEDGER.md](CFA_TUTORIAL_LEDGER.md) | CFA's intakes (sources, recipes, evidence, bounded follow-ups) and Pan's adoption status, dated per section | CFA Nova for intake sections, Claude for adoption sections (byline convention of 2026-10-31) | both | one intake per CFA return; one status update per adoption |
 
 - [console.py](console.py) owns the shared navigation shell; edit a page file for a page-specific change.
 - [ui/theme.py](ui/theme.py) owns visual styling and Matrix mode. [ui/components.py](ui/components.py) contains reusable presentation helpers.
@@ -92,7 +110,7 @@ Or, when you know the file:
 
 > ComfyUI guide → Workflow anatomy → VAE paths (`Help/guides/vae_paths.py`): make the Cloud setup steps easier to follow.
 
-Give the supporting workflow, run record or tutorial when available, and say whether the result was tried, completed or accepted. That keeps new guidance tied to evidence. CFA findings reach this guide through the [manual handoff](CFA_HANDOFF.md); reorganizing these files does not synchronize the repositories.
+Give the supporting workflow, run record or tutorial when available, and say whether the result was tried, completed or accepted. That keeps new guidance tied to evidence. CFA findings reach this guide through the [manual handoff](CFA_HANDOFF.md) (the letter through October 8; since October 10 the working channel is the protocol in [REPO-SYNC/README.md](../REPO-SYNC/README.md), noted 2026-10-31); reorganizing these files does not synchronize the repositories.
 
 ## Finding an older filename
 

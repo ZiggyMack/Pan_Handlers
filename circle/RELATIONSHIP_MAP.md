@@ -1,11 +1,13 @@
 # 🕸️ Relationship Map — Operator Meets Operator
 
 > **Phase 4 artifact — BLOCKED until ≥3 profiles reach EVIDENCED status** (currently 0/3).
-> This file holds the planned structure so Phase 4 starts from a contract, not a blank page.
+> This file holds the planned structure so Phase 4 starts from a contract, not a blank page,
+> and (noted 2026-10-31) a pre-Phase-4 Holding Ledger of 27 thread-level loops filled in during
+> July 2026; none is promoted, and Phase 4 proper has not started.
 >
 > Public archive — content boundary applies at ingestion (`ETHICS_AND_CONSENT.md` §2–3).
 
-**Status:** placeholder · **Last reviewed:** 2026-07-16
+**Status:** pre-Phase-4 holding ledger populated (27 thread-level rows, none promoted) · **Last reviewed:** 2026-07-16 (content) · status line corrected 2026-10-31 (it read "placeholder")
 
 ---
 

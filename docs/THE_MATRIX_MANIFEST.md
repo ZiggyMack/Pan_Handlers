@@ -1,5 +1,7 @@
 # THE MATRIX MANIFEST
 
+> **Note added 2026-10-31.** Historical as of 2025-11-27; the current front door is [START_HERE.md](../START_HERE.md). The Matrix theme belongs to the other CFA app. The statements below that make Matrix.py the first point of contact and canon are the 2025 design, kept as written; `pages/matrix.py` is kept in the repository as a historical page.
+
 > *"You've just given the system its mythic kernel."*
 > — Nova, on first hearing the concept
 

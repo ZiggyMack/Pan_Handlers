@@ -1,5 +1,12 @@
 # Pathfinder
 
+## Orientation (added 2026-10-31)
+
+- **What this is:** Pathfinder is Pan Handlers' Streamlit learner console: it compares ways to accomplish a task, follows a practical learning route and records enough detail for someone else to repeat the work. The dated sections below this block are history, newest first.
+- **Run it:** from the repository root, `python -m streamlit run Help/app.py --server.port 8506`; the canonical install-and-run block is in [FILE_MAP.md](FILE_MAP.md) under "Run Pathfinder".
+- **The five maintainer documents:** this [README](README.md) (orientation, coverage and maintenance); [FILE_MAP.md](FILE_MAP.md) (page-to-file map, the run command and the handbook index); [CFA_HANDOFF.md](CFA_HANDOFF.md) (the direction letter through October 8, 2026); [CFA_FEEDBACK.md](CFA_FEEDBACK.md) (Pan's dated adoption returns to CFA above the September review); [CFA_TUTORIAL_LEDGER.md](CFA_TUTORIAL_LEDGER.md) (CFA's intakes and Pan's adoption status, dated per section).
+- **Where this sits:** the repository's front door is the root [START_HERE.md](../START_HERE.md); the working channel with CFA is [REPO-SYNC/README.md](../REPO-SYNC/README.md).
+
 ## Collaborator handoff - October 8, 2026
 
 Open **Collaborators** in the sidebar. Start with **ComfyUI**, then choose **Grok**, **Gemini** or **Google Flow** for their project-specific how-tos. **Role & handoff** explains the job and evidence; **Preserve or explore** distinguishes Prime corrections from creative discovery; **Continue a lesson** reuses the existing reference-role, comparison, prompt, workflow-file and video/audio exercises. The [file map](FILE_MAP.md) identifies the new page and teaching data.
@@ -32,7 +39,7 @@ Project memory is deliberately split:
 | --- | --- |
 | Pan_Handlers | General guide, task selection, explanations, review worksheets and reusable lessons in `Help/`. |
 | CFA | Canonical production inputs, selected graphs, environment checks, runs, outputs and acceptance records. Start with [PLAYBOOK.md → Video first](../../CFA/docs/notes/explorable_world/comfy/PLAYBOOK.md#video-first) and the [shared-methods map](../../CFA/docs/notes/explorable_world/pathfinder_handoff/README.md). |
-| Manual handoff | [Current direction for Nova](CFA_HANDOFF.md), [historical September feedback](CFA_FEEDBACK.md), and CFA's [reference records](../../CFA/docs/notes/explorable_world/comfy/references). There is no automatic sync or shared Git state. |
+| Manual handoff | [The direction letter through October 8; later adoptions live in CFA_FEEDBACK.md and the ledger](CFA_HANDOFF.md), [Pan's dated adoption returns to CFA (October 4 to 20) above the September review](CFA_FEEDBACK.md), and CFA's [reference records](../../CFA/docs/notes/explorable_world/comfy/references). There is no automatic sync or shared Git state. Labels corrected 2026-10-31. |
 
 The optional CFA source preset names this existing file on D:, without making the sibling checkout a runtime requirement:
 
@@ -42,18 +49,13 @@ D:\Documents\CFA\docs\notes\explorable_world\comfy\outputs\references\preferred_
 
 Its [intake](../../CFA/docs/notes/explorable_world/comfy/references/wolf_care_v001.intake.md) and [receipt](../../CFA/docs/notes/explorable_world/comfy/references/wolf_care_v001.reference.json) record 1088 × 1920, 193 frames, 24 fps, 8.042 seconds and an audio track. Only a representative still was previously visually reviewed; full playback and audio review remain necessary. The MP4 and recovered editor/API graphs still match their recorded hashes at the October 2 local check. The old graph animates an unavailable `gf_24_a.jpg`; it is not a ready-made source-video transformation. Keep that recovered graph unchanged and prepare the new control workflow separately.
 
-**Evidence reviewed October 4, 2026:** the completed CFA pump still, two newer 1360 × 768 Hon Dolo reference-edit stills awaiting user acceptance, an executed input-only check, and dry-run checks for newly exposed sampling controls. The sampling-control change has no new render. The separately authored Godot prototype and two recovered reference-video workflows remain historical evidence; no completed CFA video transformation or accepted HD/4K video master is recorded. The latest [CFA workflow index](../../CFA/docs/notes/explorable_world/comfy/workflows/README.md) supersedes older intake/status notes for these experiments. Model availability, a submitted job, a completed output and an accepted result are distinct checkpoints. Keep processing, weights and full-resolution masters in the cloud; retain necessary local previews and working files on D:. Git holds sanitized recipes and records.
+**Evidence reviewed October 4, 2026:** the completed CFA pump still, two newer 1360 × 768 Hon Dolo reference-edit stills awaiting user acceptance, an executed input-only check, and dry-run checks for newly exposed sampling controls. The sampling-control change has no new render. The separately authored Godot prototype and two recovered reference-video workflows remain historical evidence; no completed CFA video transformation or accepted HD/4K video master is recorded. The latest [CFA workflow index](../../CFA/docs/notes/explorable_world/comfy/workflows/README.md) supersedes older intake/status notes for these experiments. The evidence states (availability, a submitted job, a completed output, an accepted result and the rest) are defined once, in CFA's `docs/notes/explorable_world/comfy/templates/workflow_intake.md`, section Evidence states, in the CFA repository (canonical since the October 10 agreement; this sentence became a pointer on 2026-10-31). Keep processing, weights and full-resolution masters in the cloud; retain necessary local previews and working files on D:. Git holds sanitized recipes and records.
 
 ## Run it
 
 Use **Python 3.10 or newer** and **Streamlit >=1.36,<2**. The guide itself uses Streamlit and the Python standard library. It does not require ComfyUI, Blender, a GPU or an API key to open and explore.
 
-From the `Pan_Handlers` repository root:
-
-```powershell
-python -m pip install -r Help/requirements.txt
-python -m streamlit run Help/app.py --server.port 8506
-```
+Run it from the `Pan_Handlers` repository root. The install-and-run block lives once, in [FILE_MAP.md](FILE_MAP.md) under "Run Pathfinder" (the canonical copy since 2026-10-31; the orientation block at the top of this file repeats the one-line run command).
 
 Open the local address printed by Streamlit, normally `http://localhost:8506`.
 
@@ -69,6 +71,7 @@ The standalone console has its own grouped sidebar. The integrated view keeps th
 
 - **Start here:** identify source material, desired change and preservation requirements, then enter the selected video route. Generated pixels and an editable 3D scene remain separate outputs.
 - **Video workshop:** select a researched workflow candidate; inspect required inputs, preparation, dependencies and opening instructions; record a preview take and compare source/result clips; review acceptance criteria; plan HD and 4K finishing; open relevant existing lessons. Optional uploaded clips support review, not generation. Take records and acceptance checks are learner-reported, and a changed brief or configuration makes a previous review stale.
+- **Collaborators** (page added October 8, 2026; listed here 2026-10-31): ComfyUI first, then Grok, Gemini and Google Flow, in three tabs. **Role & handoff** gives the steps, sources and evidence states for the selected collaborator; **Preserve or explore** separates Prime corrections from creative discovery and carries the dated lessons adopted October 10 and 20; **Continue a lesson** reuses the reference, comparison, prompt, workflow-file and video/audio lessons. Teaching data is in `content/collaborators.py`; CFA keeps the assets, receipts and review state.
 - **Rewrite a scene:** the retained dialogue branch compares audio replacement, localized lip sync and full regeneration; follows a first-shot experiment and a proposed eight-second Observatory rehearsal; inspects the ComfyUI partner-node recipe and its four node types; saves a timed dialogue worksheet; and reviews common failures. The downloadable guide includes the rehearsal, stage handoffs, alternatives and recovery notes.
 - **Compare paths:** four colored capability columns, detailed tradeoffs, and a recorded path decision.
 - **ComfyUI guide:** an early fit-and-tradeoffs review, followed by shot brief, setup, first image, workflow understanding, short video experiment, optional 3D branch, and packaging the result. Setup alternatives include Desktop, Portable, Manual and Cloud.
@@ -199,26 +202,38 @@ Help/
 ├── content/            Route data, teaching content and tutorial annotations
 ├── state/              Session helpers, validation and export formats
 ├── ui/                 Theme and shared presentation components
-└── examples/           Portable evidence and workflow samples
+├── examples/           Portable evidence and workflow samples
+├── README.md           This file: orientation, coverage and maintenance
+├── FILE_MAP.md         Page-to-file map, the canonical run command and the handbook index
+├── CFA_HANDOFF.md      The direction letter through October 8, 2026
+├── CFA_FEEDBACK.md     Pan's dated adoption returns to CFA, newest first
+└── CFA_TUTORIAL_LEDGER.md  CFA intakes and Pan adoption status, dated per section
 ```
+
+The five maintainer documents were added to this tree on 2026-10-31; the handbook index in [FILE_MAP.md](FILE_MAP.md) says who writes and reads each.
 
 | Website page | Main file |
 | --- | --- |
 | Start here | [pages/start_here.py](pages/start_here.py) |
 | Compare paths | [pages/compare_paths.py](pages/compare_paths.py) |
 | Video workshop | [pages/video_workshop.py](pages/video_workshop.py) |
+| Collaborators | [pages/collaborators.py](pages/collaborators.py) |
 | Rewrite a scene | [pages/rewrite_scene.py](pages/rewrite_scene.py) |
 | ComfyUI guide | [pages/comfyui_guide.py](pages/comfyui_guide.py) |
 | Field journal | [pages/field_journal.py](pages/field_journal.py) |
 | Sources & roadmap | [pages/sources_roadmap.py](pages/sources_roadmap.py) |
 
+The Collaborators row was added on 2026-10-31; the page dates from October 8, 2026. The console lists eight pages in `console.py`'s `SECTIONS`.
+
 Run **`Help/app.py`**, not an individual page module. Streamlit Cloud's app entry remains `Help/app.py`. The standalone launcher uses explicit, hidden `st.navigation` to disable automatic `pages/` discovery and retain Pathfinder's custom grouped sidebar. This requires Streamlit 1.36 or newer. [Streamlit navigation documentation](https://docs.streamlit.io/develop/api-reference/navigation/st.navigation)
+
+Deploy source of record, recorded 2026-10-31: by Ziggy's decision of that date the hosted apps deploy from the Hall at the root `pages/` package. No launcher script for it is tracked in this repository, so the hosted main file is configured on the host and is not in the repo. `Help/app.py` remains the local standalone entry point described here; the Streamlit Cloud sentence above is the October 2026 record, not the current deploy source.
 
 The existing [dashboard wrapper](../dashboard/pages/pathfinder.py) still embeds the same console and is registered by `dashboard/app.py`. The embedded renderer leaves page configuration and outer navigation to that host. Neither the reorganization nor the launcher changes the journal/video-plan formats or introduces a CFA runtime dependency. Small evidence assets retain their `Help/examples/` paths.
 
 ## Maintain the guide
 
-For contributions grounded in CFA experiments, read [the current handoff to Nova](CFA_HANDOFF.md), CFA's [latest workflow index and experiment records](../../CFA/docs/notes/explorable_world/comfy/workflows/README.md), the [Video first brief](../../CFA/docs/notes/explorable_world/comfy/PLAYBOOK.md#video-first), and [dated feedback and adopted changes](CFA_FEEDBACK.md). This is a manual handoff, with no automatic repository sync. Review and save changes in their owning repository; a shared conversation does not merge working trees, commits or pushes. The October 8 snapshot supersedes the earlier no-video-execution status: video tests have run but have not established an accepted preservation result. The pump remains the one packaged still worked example in Pathfinder; newer media remains in CFA.
+For contributions grounded in CFA experiments, read [the direction letter through October 8 (later adoptions live in CFA_FEEDBACK.md and the ledger)](CFA_HANDOFF.md), CFA's [latest workflow index and experiment records](../../CFA/docs/notes/explorable_world/comfy/workflows/README.md), the [Video first brief](../../CFA/docs/notes/explorable_world/comfy/PLAYBOOK.md#video-first), and [Pan's dated adoption returns to CFA above the September review](CFA_FEEDBACK.md) (labels corrected 2026-10-31). This is a manual handoff, with no automatic repository sync. Review and save changes in their owning repository; a shared conversation does not merge working trees, commits or pushes. The October 8 snapshot supersedes the earlier no-video-execution status: video tests have run but have not established an accepted preservation result. The pump remains the one packaged still worked example in Pathfinder; newer media remains in CFA.
 
 Return production findings as a source/result pair, exact graph and model/node versions, measured dimensions/timing/cost, acceptance observations, and one failure or improvement where available. Keep immutable recovered recipes separate from adapted working copies. New general lessons belong here; execution evidence remains canonical in CFA. For Hon Dolo, the next creative decision is review of the clean identity still before detailed finishing and a separate motion/audio experiment. For the optional source-video test, return current Cloud compatibility for one selected route, then one fixed-seed preview and a performance-preservation review before high-resolution finishing. Audio conditioning, source-motion preservation and lip sync require their own evidence.
 

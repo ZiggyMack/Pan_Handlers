@@ -140,7 +140,7 @@ def _verify():
         with st.expander(symptom):
             st.write(action)
     with st.expander("Lesson from the shared setup"):
-        st.write("CFA's September 12 records add evidence beyond the original screenshots: a fresh login repaired the separate Comfy OAuth connection, and a read-only server-info call returned authenticated production access (MCP 0.57.0, 41 tools). One Z-Image pump still completed and its PNG/graphs were saved. The first authenticated Civitai import and any dialogue-rewrite render remain untested.")
+        st.write("CFA's September 12 records add evidence beyond the original screenshots: a fresh login repaired the separate Comfy OAuth connection, and a read-only server-info call returned authenticated production access (version as recorded by CFA on September 12, 2026, see CFA's intake; this guide stopped carrying the connector version and tool count on 2026-10-31). One Z-Image pump still completed and its PNG/graphs were saved. The first authenticated Civitai import and any dialogue-rewrite render remain untested.")
         st.write("Public Civitai metadata was readable during CFA's model research. The Cloud owned-model search returned zero imports; its shared catalog already offered a RealVisXL SDXL checkpoint. Finding a model, importing it, completing a run and accepting its quality are separate checks.")
         st.caption("Inspect the portable CFA sample in ComfyUI guide → Worked example. These dated observations never complete a visitor's checkpoints; they are not a live check of the visitor's account.")
     with st.expander("Sources for access and troubleshooting"):

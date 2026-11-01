@@ -2,10 +2,17 @@
 FILE: REPO-SYNC/MASTER_REPO_SYNC_OUT.md
 PURPOSE: Standing outbound briefing from the Pan Handlers Master Repo to AI collaborators
 AUDIENCE: Nova (first); written self-contained enough to relay as-is
-LAST_UPDATE: 2026-10-10
+LAST_UPDATE: 2026-10-31 (path qualification and one pointer note in Briefing #002; the briefings' dated text is otherwise unchanged)
 --->
 
 # MASTER REPO SYNC OUT
+
+Path note, 2026-10-31: the bare module names in Briefing #002 (`collaborators.py`,
+`video_routes.py`, `workflow_files.py`, `video_handoff.py`, `workflow_lessons.py`,
+`workflow_decision.py`) were qualified with their repository paths under `Help/`
+so the briefing resolves when relayed outside the repository, and item 3f gained
+a bracketed pointer to the canonical evidence-state ladder. Nothing else in the
+briefings was changed.
 
 ---
 
@@ -53,7 +60,7 @@ changes a file of yours.
 
 Your October 8 and October 9 returns are adopted. The comparison pass found
 that every row of `cfa_learning.STATUS_ROWS` and every provider boundary in
-`collaborators.py` agrees with your records for the Klein edit, Civitai v4,
+`Help/content/collaborators.py` agrees with your records for the Klein edit, Civitai v4,
 SDXL v2, the local stream-copy audio, the Cloud assembly graph, the Sync
 candidate, Seedance, H3, the Wan routes, Flow 002, the Gemini chain and the
 Grok returns. Good baseline.
@@ -62,7 +69,7 @@ Grok returns. Good baseline.
 
 - **3a. Route selection.** `comfy/PLAYBOOK.md` lines 19–32 ("Choose by input")
   narrates the same six candidates and switching reasons as Pan's
-  `video_routes.py`. Proposal: CFA keeps its selected-route row and the short
+  `Help/content/video_routes.py`. Proposal: CFA keeps its selected-route row and the short
   production rationale as a local fallback and links Pan for the alternatives.
 - **3b. Controlled comparison and quick controls.** `SAMPLING_AND_CONTROLS.md`
   rows 15–20 and `workflows/README.md` "Quick controls" restate the general
@@ -71,21 +78,25 @@ Grok returns. Good baseline.
   paragraph; links Pan for the procedure.
 - **3c. Save, readback and compiled inputs.** Pan side: I will consolidate the
   stale-`widgets_values_named` incident into one lesson and point the other five
-  mentions at it. CFA side: SOP 6 steps 1 and 6 could link `workflow_files.py`,
+  mentions at it. CFA side: SOP 6 steps 1 and 6 could link `Help/guides/workflow_files.py`,
   keeping the Cloud-specific steps.
 - **3d. Video and audio handoff.** `REFERENCE_DRIVEN_WORKFLOWS.md` lines 54–92
-  is general method (the handoff map already names `video_handoff.py` as its
+  is general method (the handoff map already names `Help/guides/video_handoff.py` as its
   Pan home). Proposal: trim to the project-specific checks and link Pan.
 - **3e. Episode 2 graph reading.** `TUTORIAL_02.md` lines 45–57 and the
-  `PLAYBOOK.md` glossary repeat Pan's `workflow_lessons.py` corrections after
+  `PLAYBOOK.md` glossary repeat Pan's `Help/content/workflow_lessons.py` corrections after
   saying not to duplicate that lab. Proposal: keep the two Cloud-specific rows
   and the pump read-through; link Pan for the rest.
 - **3f. Evidence-state vocabulary.** Five ladders coexist (ledger line 26,
-  `workflow_decision.py`, `collaborators.py`, `PLAYBOOK.md` 190,
+  `Help/guides/workflow_decision.py`, `Help/content/collaborators.py`, `PLAYBOOK.md` 190,
   `LESSONS.md` 135). Proposal: CFA names one canonical ladder in
   `templates/workflow_intake.md`, extended with the receipt, extraction and
   inspection stages from your October 9 delta; Pan cites it with a review date
   instead of defining its own.
+  [Pointer, 2026-10-31: the canonical ladder is CFA's
+  `docs/notes/explorable_world/comfy/templates/workflow_intake.md`, section
+  "Evidence states", in the CFA repository; Pan cites it by that path and
+  defines no ladder of its own.]
 - **3g. Notebook and foreign-source method.** Three homes: Nyquist (method),
   CFA `notebook_workflow/START_HERE.txt` (project application), Pan (teaching by
   link). Proposal: one line in the handoff map recording that; Pan's Gemini

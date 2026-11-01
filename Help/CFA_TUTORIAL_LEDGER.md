@@ -21,9 +21,11 @@ Source association update: [Episode 3](https://www.youtube.com/watch?v=g8UlYE_HM
 
 ## Standing process for future guides
 
+Byline convention, added 2026-10-31: this ledger is written by two parties. Sections that record a CFA intake (a return, research note, inventory or production note from CFA) are CFA Nova's; sections that record a Pan adoption (an integration return, synchronization status or adoption note) are Claude's, Pan's steward since 2026-10-10. Each new section states which it is in its first sentence. Existing sections keep their headings, and the "Panhandler Nova" addressee in sections written before October 10 is historical and means Pan's steward.
+
 1. Preserve each supplied transcript and provenance in CFA: source URL when known, source of that URL, archive path, hash, review date and relevant timestamps. Record missing links rather than inventing them.
 2. Update this ledger during the same intake with the useful technique, what it accomplishes, Cloud adaptations, limitations, and the existing Pathfinder section that should teach it.
-3. Link the exact CFA editor graph, execution or preflight graph, settings, run record and output when present. Distinguish **reviewed**, **catalog available**, **dry-run validated**, **executed**, and **accepted**.
+3. Link the exact CFA editor graph, execution or preflight graph, settings, run record and output when present. Distinguish the evidence states as CFA defines them in `docs/notes/explorable_world/comfy/templates/workflow_intake.md`, section Evidence states, in the CFA repository (the canonical source agreed 2026-10-10; this item became a pointer on 2026-10-31 and no longer restates the list).
 4. Give unfinished work to Panhandler Nova as a bounded task below, including its source files and completion check. Reuse existing lessons before adding another screen or recipe.
 5. After integration, add a dated reply in [CFA_FEEDBACK.md](CFA_FEEDBACK.md) naming changed lessons and validation, then update the [CFA handoff map](../../CFA/docs/notes/explorable_world/pathfinder_handoff/README.md). Leave unresolved items visible.
 
@@ -61,7 +63,7 @@ The Candid Film creator's examples target Klein 9B **base**, while this CFA grap
 
 For the Klein identity pass, image 1 is the Grok design and image 2 supplies likeness. The recorded group-photo crop isolates the intended subject at x 430, y 5, width 300, height 380; reset it for a different source. The exact model/encoder/VAE and source hashes are in the run record. Outputs showed unwanted smile/earring drift, so a completed still is not an accepted identity master. Review identity before local tattoo/grill finishing, then test motion separately.
 
-To resume any recipe: open the editor or Cloud record; resolve the exact files and current node schemas; load the intended inputs and inspect crops; inspect the **compiled** effective prompt/model/settings; validate, then perform only the chosen bounded run and record its actual outcome. One recovered template contained stale `widgets_values_named` that overrode edited positional values. CFA caught and corrected that before execution. A graph that looks right is insufficient evidence of its resolved settings.
+To resume any recipe: open the editor or Cloud record; resolve the exact files and current node schemas; load the intended inputs and inspect crops; inspect the **compiled** effective prompt/model/settings; validate, then perform only the chosen bounded run and record its actual outcome. One recovered template contained stale `widgets_values_named` that overrode edited positional values. CFA caught and corrected that before execution (the consolidated readback lesson lives in Workflow anatomy, Save & load, [guides/workflow_files.py](guides/workflow_files.py), since October 10; pointer added 2026-10-31). A graph that looks right is insufficient evidence of its resolved settings.
 
 For copying branches, muting only the intended outputs and preview timing, use CFA's [operating guide](../../CFA/docs/notes/explorable_world/comfy/workflows/README.md#quick-controls-from-episode-3). Image previews show supplied or computed pixels, not an unrun future result. Bypass, mute and collapsing have different meanings. More steps, higher CFG or more pixels do not automatically improve the result.
 

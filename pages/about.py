@@ -137,7 +137,7 @@ def render():
 
     Option A: **Pull Request**
     - Fork Pan Handlers repo
-    - Add your manifest URL to `config.py`
+    - Add your manifest JSON file to `manifests/` (corrected 2026-10-31: there is no root `config.py`; manifests are read from that folder)
     - Submit PR
 
     Option B: **Direct Contact**
@@ -179,6 +179,8 @@ def render():
     - **Claude** — Repository steward, implementation partner
     - **Gemini, Grok, Opus** — Cross-validation, alternative perspectives
     - **Future Contributors** — Caelum, Daniel, and everyone who joins
+
+    Note added 2026-10-31: the Nova and Claude labels above are the 2025 roles. Since Ziggy's decision of 2026-10-10 (Briefing #002), CFA owns production, Pan teaches, Nyquist owns the notebook method, and Claude stewards the Pan_Handlers files.
 
     *"These are the things we built together that neither could have done alone."*
     """)

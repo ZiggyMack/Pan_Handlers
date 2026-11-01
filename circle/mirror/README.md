@@ -78,6 +78,11 @@ real profile.** Owed before this directory is considered final:
 Until that's done, treat every file here as a draft: real content,
 casual guardrails.
 
+> **Gate note (2026-10-31).** Ziggy decided on 2026-10-31 that this folder stays
+> public as it stands. The three prerequisites above remain listed as the
+> folder's own standard and are still open; nothing else in this directory
+> changes.
+
 ## Roster (2026-07-21)
 
 | Person | "What the digs imply" layer | "Ziggy's direct read" layer | Real member profile |

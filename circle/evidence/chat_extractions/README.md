@@ -9,7 +9,7 @@
 > QUARANTINED means "not profile-grade," not "hidden" — write even quarantined
 > claims to publication standard (`../../ETHICS_AND_CONSENT.md` §2).
 
-**Status:** 0 packets filed · **Last reviewed:** 2026-07-16
+**Status:** 32 dig workbooks (`DIG_*.md`) and 4 synthesis packets on disk, counted 2026-10-31; the Dig Board below tracks each one · **Last reviewed:** 2026-07-16 (content) · count line corrected 2026-10-31 (it read "0 packets filed")
 
 ---
 

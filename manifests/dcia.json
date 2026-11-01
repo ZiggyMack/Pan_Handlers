@@ -1,6 +1,8 @@
 {
+  "_banner": "Historical as of 2025-11-27; the current front door is START_HERE.md. The Matrix theme belongs to the other CFA app. (Banner added 2026-10-31.)",
   "repo": "dcia-lab",
-  "display_name": "Decentralized Centralized Intelligence Agency",
+  "display_name": "Decentralized Intelligence Agency",
+  "_display_name_note_2026_10_31": "Expansion corrected 2026-10-31 from 'Decentralized Centralized Intelligence Agency' to the canonical form in data/glossary.md; the acronym DCIA keeps its legacy spelling.",
   "owner": "Ziggy + Nova + Strategic Intelligence Collective",
   "url_repo": "TBD",
   "url_dashboard": "TBD",

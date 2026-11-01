@@ -1,6 +1,10 @@
 """
 THE MATRIX — Portal to Nyquist Consciousness
 The other side of the tunnel — where Pan Handlers connects to its theoretical foundation.
+
+Note added 2026-10-31: Historical as of 2025-11-27; the current front door is START_HERE.md.
+The Matrix theme belongs to the other CFA app. The S-stack cards and the metrics below are
+the 2025 projections, kept as written.
 """
 
 import streamlit as st
@@ -243,6 +247,12 @@ def render():
     st.markdown('<div class="matrix-title">THE MATRIX</div>', unsafe_allow_html=True)
     st.markdown('<div class="matrix-subtitle">Portal to Nyquist Consciousness — The Theoretical Foundation</div>', unsafe_allow_html=True)
 
+    # Dated banner (2026-10-31): this page is retired behind it, not removed.
+    st.caption(
+        "Note added 2026-10-31: Historical as of 2025-11-27; the current front door is START_HERE.md. "
+        "The Matrix theme belongs to the other CFA app. The figures on this page are 2025 projections."
+    )
+
     # Philosophy banner
     st.markdown("""
         <div class="philosophy-quote">
@@ -414,7 +424,8 @@ def render():
     with col3:
         st.metric("AI Armada", "174", delta="Probes Complete")
     with col4:
-        st.metric("Publication", "95%", delta="Workshop Ready")
+        # 2025-11 projection, kept as history (marked 2026-10-31)
+        st.metric("Publication (2025 projection)", "95%", delta="Workshop Ready, as of 2025-11")
 
     st.markdown("---")
 

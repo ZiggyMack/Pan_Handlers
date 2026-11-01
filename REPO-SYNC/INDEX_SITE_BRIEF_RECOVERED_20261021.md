@@ -1,3 +1,10 @@
+<!---
+FILE: REPO-SYNC/INDEX_SITE_BRIEF_RECOVERED_20261021.md
+PURPOSE: Read-only recovered brief on what "the Pan_Handlers index site" is and which index-site changes were discussed, implemented or left proposed, assembled from six sweeps (three session transcripts, the repo and its git history, the REPO-SYNC channel, the CFA pathfinder_handoff folder and the CFA collaborator mailbox); it also records what could not be recovered and what was not searched
+STATUS: Recovered brief, filed 2026-10-21. Its section 0 inference (index site = Pathfinder) is superseded by Ziggy's answer of 2026-10-27, recorded in the paragraph "Answered 2026-10-27" in section 0; the still-proposed items of section 1a are answered by RULES_OF_THE_ROAD_DRAFT_20261027.md, a draft. Header added 2026-10-31; no other text changed
+LAST_UPDATE: 2026-10-31 (header only; the brief's content last changed 2026-10-27)
+--->
+
 # Recovered brief: the Pan_Handlers index site
 
 Prepared 2026-10-21 at about 02:53 UTC by Claude, Pan_Handlers Master Repo steward, read-only, from six sweeps (three session transcripts, the repo and its git history, the REPO-SYNC channel and CFA pathfinder_handoff folder, the CFA collaborator mailbox). Every quote below was re-opened and verified against its source before use. Nothing was created, edited or committed. Where sweeps disagree the disagreement is shown. No redesign is proposed here.

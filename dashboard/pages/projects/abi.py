@@ -1,5 +1,5 @@
 """
-ABI PROJECT PAGE — American Bureau of Investigation
+ABI PROJECT PAGE — American Bureau of Intelligence
 
 Dashboard for the transparent intelligence agency redesign project.
 """
@@ -20,7 +20,7 @@ def render():
     <div style="background: linear-gradient(135deg, rgba(42,157,143,0.15) 0%, rgba(22,160,133,0.1) 100%);
                 border: 2px solid #2a9d8f; border-radius: 12px; padding: 1.5em; margin-bottom: 1.5em;">
         <div style="color: #888; font-size: 0.85em; margin-bottom: 0.3em;">🏛️ INSTITUTIONAL REDESIGN</div>
-        <h1 style="color: #2a9d8f; margin: 0;">🔍 American Bureau of Investigation</h1>
+        <h1 style="color: #2a9d8f; margin: 0;">🔍 American Bureau of Intelligence</h1>
         <p style="color: #666; font-size: 1.1em; margin: 0.5em 0 0 0;">
             Transparent, open-source intelligence work for the 21st century
         </p>

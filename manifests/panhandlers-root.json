@@ -1,4 +1,5 @@
 {
+  "_banner": "Historical as of 2025-11-27; the current front door is START_HERE.md. The Matrix theme belongs to the other CFA app. (Banner added 2026-10-31.)",
   "repo": "panhandlers",
   "display_name": "Pan Handlers Civilization Engine",
   "owner": "Ziggy + Nova + The Collective",
@@ -22,7 +23,8 @@
   "last_updated": "2025-11-27",
   "contact": {
     "primary": "Ziggy (Human Anchor & Director)",
-    "ai_steward": "Nova (Chief Coherence Architect)"
+    "ai_steward": "Claude",
+    "_steward_note_2026_10_31": "ai_steward set to Claude on 2026-10-31 per Ziggy's decision of 2026-10-10 (Briefing #002 in REPO-SYNC/MASTER_REPO_SYNC_OUT.md): CFA owns production, Pan teaches, Nyquist owns the notebook method, Claude stewards the Pan_Handlers files. Before this date the field read 'Nova (Chief Coherence Architect)'; the governance.council and special_roles blocks below keep the 2025 labels as history."
   },
   "governance": {
     "model": "Tri-Council",
@@ -35,7 +37,8 @@
       "All repos autonomous but federated",
       "PanHandlers holds metadata, not core documents",
       "Each module maintains its own canonical spec"
-    ]
+    ],
+    "_principles_note_2026_10_31": "The principle 'PanHandlers holds metadata, not core documents' predates circle/ (July 2026), which made this repository the long-term home of inner-circle profiles, evidence and debate notes; see circle/ARCHIVE_PLAN.md, the paragraph beginning 'These profiles allow the PanHandlers repo to function as the long-term home for'."
   },
   "architecture": {
     "theory_engine": "nyquist-consciousness",
@@ -73,7 +76,7 @@
     },
     {
       "id": "dcia",
-      "name": "Decentralized Central Intelligence Agency",
+      "name": "Decentralized Intelligence Agency",
       "role": "Interpretation Wing",
       "status": "Incubating"
     },

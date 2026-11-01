@@ -154,6 +154,12 @@ counterargument — relay it back and it gets filed through the normal
 route (a new idea trail, a dig lead, or a note in the Dig Map), not
 pasted in raw.
 
+**Re-copy rule (added 2026-10-31):** `DIG_MAP.md`, `IDEA_TRAILS_INDEX.md`, and
+`CONSTITUTIONAL_BACKBONE.md` in this folder are snapshots of `../DIG_MAP.md`,
+`../IDEA_TRAILS/README.md`, and `../CONSTITUTIONAL_BACKBONE.md`. When a snapshot
+goes stale, re-copy it from its master and keep the snapshot banner; never edit a
+snapshot in place.
+
 ---
 
 **Filed:** `circle/SYNC_OUT/README.md`

@@ -3,7 +3,7 @@
 > One page. Where every profile, phase, and registry stands right now.
 > Update this whenever a profile version bumps or a phase gate is crossed.
 
-**Last updated:** 2026-07-17
+**Last updated:** 2026-07-21 (content) · headers refreshed 2026-10-31
 
 ---
 
@@ -16,7 +16,7 @@
 | **2 — Ziggy Control** | Symmetric observer profile | ⚪ Stub only |
 | **3 — Remaining Circle** | Tale Recursion → Angles → Hugz → Sassy → Snow White → Chrome | ⚪ Not started |
 | **4 — Relationship & Debate Graphs** | Requires ≥3 active profiles | ⚪ Blocked (0/3) |
-| **5 — Idea Trail Registry** | Candidate list registered; first trail open | 🟡 14 candidates · 1 OPEN (invariance/convergence) |
+| **5 — Idea Trail Registry** | Candidate list registered; first trail open | 🟡 131 candidates · 118 OPEN (IT-014…IT-131, per `IDEA_TRAILS/README.md`, reviewed 2026-07-21; row corrected 2026-10-31 from the stale "14 candidates · 1 OPEN") |
 
 ---
 
@@ -53,7 +53,15 @@
 
 ## The Current Bottleneck
 
-**No source conversations are filed yet.** Every Grant operator is a hypothesis with
+> **Note (2026-10-31):** the paragraphs below are the July 2026 wording, kept as
+> written. Their first sentence is superseded by the Registries table above:
+> eight Grant sources (G-001…G-008) and four Ziggy sources (Z-001…Z-004) are
+> filed, and `evidence/chat_extractions/` holds 32 dig workbooks and four
+> synthesis packets. The Registries table and `RELATIONSHIP_MAP.md` both record
+> the calibration run as the overdue item.
+
+**No source conversations are filed yet** (true when written in July 2026;
+superseded, see the note above). Every Grant operator is a hypothesis with
 an empty evidence slot; nothing in his profile can rise above `INFERRED`, and several
 claims are honestly `UNKNOWN`.
 

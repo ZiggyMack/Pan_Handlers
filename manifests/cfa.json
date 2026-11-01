@@ -1,6 +1,8 @@
 {
+  "_banner": "Historical as of 2025-11-27; the current front door is START_HERE.md. The Matrix theme belongs to the other CFA app. (Banner added 2026-10-31.)",
+  "_note_2026_10_31": "This file is Pan's own 2025 description of CFA, not a copy of CFA's panhandlers_manifest.json. The eight docs paths under projects[].links.docs did not exist in the CFA tree at the audit of 2026-10-30 and are kept here as the 2025 plan. CFA status is restated in Pan only in Help/content/cfa_learning.py (Briefing #002, 2026-10-10). display_name and the protocol summary were corrected the same day to the canonical expansion in data/glossary.md; the pillars block keeps the 2025 words as history.",
   "repo": "CFA-Meta-Lab",
-  "display_name": "CFA Meta-Lab: Coherence • Faith • Agency",
+  "display_name": "CFA Meta-Lab: Contextual Framework Analysis",
   "owner": "Ziggy + Nova + The Nyquist Collective",
   "url_repo": "https://github.com/ZiggyMack/CFA",
   "url_dashboard": "TBD",
@@ -89,7 +91,7 @@
       "title": "CFA Protocol Suite",
       "status": "Active",
       "type": "Methodology",
-      "summary": "Formal Coherence-Faith-Agency protocols for analysis, evaluation, experiment design, claim validation, uncertainty scoring, and narrative clarification.",
+      "summary": "Formal CFA (Contextual Framework Analysis) protocols for analysis, evaluation, experiment design, claim validation, uncertainty scoring, and narrative clarification.",
       "links": {
         "docs": "docs/cfa_protocols"
       }

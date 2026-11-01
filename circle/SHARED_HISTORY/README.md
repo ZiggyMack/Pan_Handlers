@@ -7,7 +7,7 @@
 >
 > Public archive — content boundary applies at ingestion (`../ETHICS_AND_CONSENT.md` §2–3).
 
-**Status:** empty · **Last reviewed:** 2026-07-16
+**Status:** `TIMELINE.md` is written (a dated chronology from 2026-07-16 to 2026-07-21 plus a norm-origins list, about 59 KB); `LEXICON_INTERNAL.md` and `NORMS.md` remain suggested and unwritten · **Last reviewed:** 2026-07-16 (content) · status line corrected 2026-10-31 (it read "empty")
 
 ## Suggested Files
 

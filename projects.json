@@ -3,7 +3,8 @@
     "hall_name": "Pan Handlers - Halls of Human-AI Collaboration",
     "tagline": "These are the things we built together that neither could have done alone.",
     "philosophy": "FUCK IT, WE'LL DO IT LIVE! — Building better systems without waiting for institutions to wake up.",
-    "last_updated": "2025-11-27"
+    "last_updated": "2025-11-27",
+    "_banner": "Historical as of 2025-11-27; the current front door is START_HERE.md. The Matrix theme belongs to the other CFA app. (Banner added 2026-10-31. Project statuses below are the 2025 state; four artifact paths that were never created carry a dated note; connected_repos corrected the same day.)"
   },
   "flagship_projects": [
     {
@@ -69,6 +70,7 @@
         "concept": "Pan_Handlers/projects/nursing/CONCEPT.md",
         "roadmap": "Pan_Handlers/projects/nursing/ROADMAP.md"
       },
+      "_artifacts_note_2026_10_31": "roadmap: planned, not created. Pan_Handlers/projects/nursing/ROADMAP.md does not exist as of 2026-10-31; only CONCEPT.md does. The path is kept as the 2025 plan.",
       "vision": "Nursing programs that adaptively support every student, detect struggles early, and graduate more competent, confident nurses. Programs designed around human development curves, not arbitrary institutional timelines."
     },
     {
@@ -100,6 +102,7 @@
         "spec": "Pan_Handlers/projects/voting/SPEC.md",
         "mockups": "Pan_Handlers/projects/voting/mockups/"
       },
+      "_artifacts_note_2026_10_31": "spec and mockups: planned, not created. Neither Pan_Handlers/projects/voting/SPEC.md nor Pan_Handlers/projects/voting/mockups/ exists as of 2026-10-31; the only file is Pan_Handlers/projects/voting/CONCEPT.md. The paths are kept as the 2025 plan.",
       "vision": "Every US citizen can vote securely from their phone, with full transparency into vote tallies and cryptographic proof their vote was counted. Elections become accessible, auditable celebrations of democracy rather than anxious logistical nightmares."
     },
     {
@@ -163,7 +166,8 @@
     },
     {
       "id": "american_bureau_investigation",
-      "title": "American Bureau of Investigation (ABI)",
+      "title": "American Bureau of Intelligence (ABI)",
+      "_title_note_2026_10_31": "Expansion corrected 2026-10-31 from 'American Bureau of Investigation' to the canonical form in data/glossary.md; the id is unchanged.",
       "tagline": "Transparent, open-source intelligence work for the 21st century",
       "status": "Concept",
       "owner": "Ziggy + community",
@@ -191,11 +195,13 @@
         "vision": "Pan_Handlers/projects/ABI/VISION.md",
         "architecture": "Pan_Handlers/projects/ABI/ARCHITECTURE.md"
       },
+      "_artifacts_note_2026_10_31": "architecture: planned, not created. Pan_Handlers/projects/ABI/ARCHITECTURE.md does not exist as of 2026-10-31; only VISION.md does. The path is kept as the 2025 plan.",
       "vision": "Intelligence work that serves democracy, not undermines it. Investigations you can trust because you can inspect them. Agencies that earn legitimacy through transparency, not demand it through authority."
     },
     {
       "id": "decentralized_cia",
-      "title": "Decentralized Central Intelligence Agency (D.C.I.A.)",
+      "title": "Decentralized Intelligence Agency (D.C.I.A.)",
+      "_title_note_2026_10_31": "Expansion corrected 2026-10-31 from 'Decentralized Central Intelligence Agency' to the canonical form in data/glossary.md; the acronym keeps its legacy spelling and the id is unchanged.",
       "tagline": "Distributed intelligence with centralized synthesis",
       "status": "Concept",
       "owner": "Ziggy + community",
@@ -228,15 +234,17 @@
   "connected_repos": [
     {
       "name": "Nyquist Consciousness",
-      "url": "https://github.com/USER/nyquist-consciousness",
-      "local_manifest": "../panhandlers_manifest.json",
+      "url": "https://github.com/ZiggyMack/Nyquist_Consciousness",
+      "local_manifest": "manifests/nyquist_consciousness.json",
+      "_note_2026_10_31": "url replaced the placeholder github.com/USER/nyquist-consciousness with the url_repo in manifests/nyquist_consciousness.json. local_manifest previously read ../panhandlers_manifest.json, which resolved to no file; it now names Pan's own 2025 copy in this repository.",
       "status": "Active",
       "role": "Core Engine"
     },
     {
-      "name": "CFA (Collaborative Friction Architecture)",
-      "url": "https://github.com/USER/CFA",
+      "name": "CFA (Contextual Framework Analysis)",
+      "url": "https://github.com/ZiggyMack/CFA",
       "local_manifest": "TBD",
+      "_note_2026_10_31": "Expansion corrected from 'Collaborative Friction Architecture' to the canonical form in data/glossary.md; url replaced the placeholder github.com/USER/CFA with the url_repo in manifests/cfa.json.",
       "status": "Active",
       "role": "Framework Development"
     }

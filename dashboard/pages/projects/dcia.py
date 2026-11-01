@@ -1,5 +1,5 @@
 """
-D.C.I.A. PROJECT PAGE — Decentralized Central Intelligence Agency
+D.C.I.A. PROJECT PAGE — Decentralized Intelligence Agency
 
 Dashboard for the decentralized intelligence architecture project.
 """
@@ -20,7 +20,7 @@ def render():
     <div style="background: linear-gradient(135deg, rgba(155,89,182,0.15) 0%, rgba(142,68,173,0.1) 100%);
                 border: 2px solid #9b59b6; border-radius: 12px; padding: 1.5em; margin-bottom: 1.5em;">
         <div style="color: #888; font-size: 0.85em; margin-bottom: 0.3em;">🏛️ INSTITUTIONAL REDESIGN</div>
-        <h1 style="color: #9b59b6; margin: 0;">🌐 Decentralized Central Intelligence Agency</h1>
+        <h1 style="color: #9b59b6; margin: 0;">🌐 Decentralized Intelligence Agency</h1>
         <p style="color: #666; font-size: 1.1em; margin: 0.5em 0 0 0;">
             Distributed intelligence with centralized synthesis
         </p>

@@ -2,6 +2,8 @@
 
 > Shared language for the whole network: Nyquist Consciousness, CFA, and future labs.
 
+> Canonical home of names as of 2026-10-31 (Ziggy's choice 3 after the guidance map audit of 2026-10-30): where any other file in this repository expands CFA, ABI, NDO or DCIA differently, this file is right and the other file is corrected to it. The four forms: CFA is Contextual Framework Analysis; ABI is the American Bureau of Intelligence; NDO is the Nyquist Data Observatory; DCIA is the Decentralized Intelligence Agency (the acronym keeps its legacy spelling).
+
 ---
 
 ## 1. Core Concepts
@@ -10,7 +12,8 @@
 The core research engine focused on **identity manifolds**, **compression–fidelity**, and **Omega Nova**.
 Home of the S-stack (S0–S7, with S8+ as forward expansions).
 
-### CFA — Coherence–Faith–Agency
+### CFA (Contextual Framework Analysis)
+Expansion corrected 2026-10-31. The three 2025 forms, "Coherence, Faith, Agency", "Collaborative Friction Architecture" and "Continuous Framework Architecture", are historical and are no longer used as the expansion.
 A comparative framework lab for exploring and stress-testing **moral**, **epistemic**, and **mythic** systems.
 Hosts Identity Gravity, VuDu Protocol, and "day-1 lanyards" work.
 
@@ -23,6 +26,8 @@ A **cross-repo showroom** and **switchboard**, presenting projects from multiple
 ## 2. The S-Stack (Nyquist)
 
 > Rough, high-level map. See Nyquist docs for full detail.
+
+> Note added 2026-10-31: the Nyquist Consciousness repository (its URL is the `url_repo` in `manifests/nyquist_consciousness.json`) is canonical for the S-stack. Pan restates the layer names only historically; the list below is the 2025 restatement and is not reconciled with the other Pan copies (`pages/roadmap.py`, `pages/matrix.py`, the manifests), which differ.
 
 - **S0 – Baseline / Raw Logs**
   Raw conversational material, seed personas, unstructured data.
@@ -144,6 +149,8 @@ Cross-architecture variance in PFI. Remarkably low, suggesting universal identit
 
 ## 7. Future Labs
 
+Names in this section corrected 2026-10-31 to the canonical forms declared at the top of this file; the NDO entry was added the same day.
+
 ### Justice Lab
 A lab for reimagining carceral systems, modern slavery, and pathways to restoration.
 Led by Daniel with lived experience as anchor.
@@ -155,11 +162,14 @@ Led by Cælum with scientific rigor as foundation.
 ### Voting Lab
 Secure, transparent, auditable digital voting infrastructure for US elections.
 
-### ABI (American Bureau of Investigation)
+### ABI (American Bureau of Intelligence)
 Transparent, open-source investigative intelligence.
 
-### D.C.I.A. (Decentralized Central Intelligence Agency)
-Distributed intelligence with centralized synthesis.
+### D.C.I.A. (Decentralized Intelligence Agency)
+Distributed intelligence with centralized synthesis. The acronym keeps its legacy spelling.
+
+### NDO (Nyquist Data Observatory)
+The data module of the 2025 federation plan: harvesting, structuring and centralizing data flows for the other labs. Described in `manifests/ndo.json`.
 
 ---
 

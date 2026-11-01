@@ -1,5 +1,7 @@
 # START HERE - Cold Boot Guide for Claude
 
+> **Scope note, 2026-10-31.** This file is the cold-boot guide for work on the Back Alley dashboard (`dashboard/`) only. The front door of the repository is the root [START_HERE.md](../START_HERE.md), which routes learners, maintainers, CFA agents and a cold-booted steward to their first page: read it first for orientation, then this file for dashboard work. The text below dates from 2025-11-30; the corrections of 2026-10-31 are marked where they stand. Pathfinder, the learner app in [Help/](../Help/README.md), is embedded in this dashboard under the sidebar group FIELD GUIDES through `pages/pathfinder.py` (added 2026-10-04).
+
 > **Welcome to Pan Handlers Dashboard development.**
 > Read this file first when starting a new session.
 
@@ -19,7 +21,7 @@ You are working on the **Pan Handlers Dashboard** - an internal operations dashb
 
 1. **Read the README**: `dashboard/README.md` has full architecture details
 2. **Understand the structure**: See directory tree below
-3. **Run the app**: `streamlit run app.py` from this directory
+3. **Run the app**: the one command and port live in [README.md](README.md) under "Quick Start" (the canonical copy since 2026-10-31)
 
 ---
 
@@ -47,6 +49,7 @@ dashboard/
 │   ├── federation_health.py  # 🏥 Federation status
 │   ├── project_tracker.py    # 📋 Project tracking
 │   ├── nyquist_tunnel.py     # 🟢 Nyquist connection
+│   ├── pathfinder.py         # Pathfinder (FIELD GUIDES), embeds Help/console.py; added 2026-10-04
 │   ├── about.py              # ℹ️ About page
 │   └── projects/
 │       ├── __init__.py
@@ -66,14 +69,17 @@ dashboard/
 
 ---
 
-## Theme: Matrix Aesthetic
+## Theme: two modes, Standard by default
 
-**DO NOT CHANGE** the core visual identity:
-- Background: `#0a0a0a` (near black)
-- Text: `#00ff41` (Matrix green)
-- Font: Courier New (monospace)
+Corrected 2026-10-31 (the 2025 text here said the Matrix identity must not change; `app.py` has carried two themes since). The dashboard has two themes, switched by the sidebar button "Enter The Matrix" / "Exit The Matrix" in `main()`:
+- Standard mode, the default: `main()` starts `st.session_state['matrix_mode']` at `False`; text `#1a1a1a` on background `#ffffff` (`get_standard_css()`).
+- Matrix mode, the option (keep it available):
+  - Background: `#0a0a0a` (near black)
+  - Text: `#00ff41` (Matrix green)
+  - Font: Courier New (monospace)
+  - CSS in `get_matrix_css()`.
 
-The CSS is in `apply_dashboard_css()` in `app.py`.
+`apply_dashboard_css(matrix_mode)` in `app.py` applies `get_base_css()` plus the CSS of the current mode. `.streamlit/config.toml` still carries the Matrix palette as the native Streamlit theme; the CSS overrides it in Standard mode.
 
 ---
 
@@ -113,13 +119,10 @@ Data files are in the parent `Pan_Handlers/` directory:
 ## Common Tasks
 
 ### Add a new page
-1. Create `pages/new_page.py` with `render()` function
-2. Add import to `pages/__init__.py`
-3. Add to `PAGES` dict in `app.py`
-4. Add to sidebar navigation lists in `app.py`
+The procedure lives once, in [README.md](README.md) under "Adding a New Page" (the canonical copy since 2026-10-31).
 
 ### Modify styling
-Edit `apply_dashboard_css()` in `app.py`. Keep Matrix theme.
+Edit `get_standard_css()` or `get_matrix_css()` in `app.py`. Keep both themes (corrected 2026-10-31; see Theme above).
 
 ### Add new data source
 1. Add path to `config.py` PATHS dict
@@ -138,9 +141,9 @@ This prints all paths and validates they exist.
 ## Key Context
 
 ### Pan Handlers Federation
-A network of human-AI collaborative projects:
+A network of human-AI collaborative projects (names below corrected 2026-10-31 to the canonical expansions; the shared vocabulary lives in `../data/glossary.md`):
 - Nyquist Consciousness (research engine)
-- CFA (framework architecture)
+- CFA (Contextual Framework Analysis; the production repository since 2026-10-10)
 - Flagship projects (voting, nursing, gene therapy, prison reform, etc.)
 
 ### The VUDU Protocol
@@ -153,20 +156,14 @@ Seven major initiatives being tracked:
 3. Nursing Programs
 4. Gene Therapy Research
 5. Modern Slavery / Prison Reform
-6. ABI (American Bureau of Investigation)
-7. D.C.I.A. (Decentralized CIA)
+6. ABI (American Bureau of Intelligence)
+7. D.C.I.A. (Decentralized Intelligence Agency; the acronym keeps its legacy spelling)
 
 ---
 
 ## Running the Dashboard
 
-```bash
-# From dashboard/ directory
-streamlit run app.py
-
-# If port conflict
-streamlit run app.py --server.port 8510
-```
+Since 2026-10-31 the run command is written once, in [README.md](README.md) under "Quick Start" (one command, port 8504, from the repository root). This section used to repeat it with a different port.
 
 ---
 
@@ -181,6 +178,7 @@ We build better systems without waiting for institutions. This dashboard tracks 
 ## Questions?
 
 - Full docs: `README.md`
+- Front door of the repository (since 2026-10-31): `../START_HERE.md`
 - Root project: `../README.md`
 - Soul document: `../docs/I_AM/I_AM.md`
 

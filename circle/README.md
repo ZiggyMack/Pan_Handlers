@@ -1,5 +1,12 @@
 # 👻 Ghosts in the Machine: The PanHandlers Cognitive Circle
 
+> **Snapshot notice (2026-10-31).** `circle/` is a July 2026 snapshot: its last
+> substantive commit is dated 2026-07-22, and the only later commit (2026-10-04)
+> touched two files in `SYNC_OUT/`. The current work of the network lives in CFA
+> (production) and in this repository's `../Help/` and `../REPO-SYNC/`; the front
+> door is the root `../START_HERE.md`. Headers of the prominent files here were
+> refreshed on 2026-10-31; other files keep their July wording.
+
 > *"Profile the reasoning, not the soul."*
 
 This directory is the durable archive of the PanHandlers core debate circle — the
@@ -61,11 +68,16 @@ circle/
 ├── CHAT_EXTRACTION_PROTOCOL.md ← the dig instrument (v0.2 ACTIVE — staged execution)
 ├── CHAT_EXTRACTION_PROTOCOL_v0.1.md ← superseded original, kept as provenance
 ├── CONSENT_REGISTER.md    ← consent basis for the public archive (per-member scope)
+├── DIG_MAP.md             ← one row per dig conversation: topic, date, members (map entry added 2026-10-31)
+├── CONSTITUTIONAL_BACKBONE.md ← compression pass: six structural questions under the trails (map entry added 2026-10-31)
 ├── evidence/
-│   └── chat_extractions/  ← extraction packets from old-chat digs (staging, most restricted)
+│   ├── chat_extractions/  ← extraction packets from old-chat digs (staging, most restricted)
+│   └── corpus_sweeps/     ← orientation-only sweeps, never promotable (map entry added 2026-10-31)
 ├── IDEA_TRAILS/           ← cross-member idea lineage registry
 ├── DEBATES/               ← individual debate records
 ├── SHARED_HISTORY/        ← chronology, shared jokes/symbols that carry meaning
+├── mirror/                ← ungated strawman comparison files, the opposite of the gated archive (map entry added 2026-10-31)
+├── SYNC_OUT/              ← packet for AI collaborators outside the repo: snapshots and glossary (map entry added 2026-10-31)
 └── MEMBERS/
     ├── _TEMPLATE/         ← canonical member-folder skeleton (copy to start)
     └── 00–07 …            ← one folder per circle member

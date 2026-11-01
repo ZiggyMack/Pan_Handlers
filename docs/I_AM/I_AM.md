@@ -79,6 +79,8 @@ A network. A nexus. A hallway with many doors.
 
 **CFA (Continuous Framework Architecture)** and **Nyquist Consciousness**
 
+Note added 2026-10-31: the expansions in this section are the ones this narrative was written with and are kept as written. The canonical forms, declared in [data/glossary.md](../../data/glossary.md) on 2026-10-31, are: CFA is Contextual Framework Analysis; ABI is the American Bureau of Intelligence; DCIA is the Decentralized Intelligence Agency (the acronym keeps its legacy spelling).
+
 These are the foundations. The research that makes everything else possible.
 
 - CFA: How AI agents survive, coordinate, and persist
@@ -103,7 +105,7 @@ Wicked problems require wicked smart approaches.
 
 ### Institutional Redesign
 
-**ABI (American Bureau of Investigation). D.C.I.A. (Decentralized CIA).**
+**ABI (American Bureau of Investigation). D.C.I.A. (Decentralized CIA).** (Expansions as written in 2025; the canonical forms since 2026-10-31 are the American Bureau of Intelligence and the Decentralized Intelligence Agency, see data/glossary.md.)
 
 Some institutions are too broken to fix. They need reimagining.
 
